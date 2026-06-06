@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Badari · Writer & Engineer</title>
+<link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Barlow:wght@300;400;500;600&family=Barlow+Condensed:wght@400;600;700&display=swap" rel="stylesheet"/>
+<script src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+<script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --ink:#0f0d09;--paper:#f8f5ef;--cream:#ede9df;
+  --amber:#c47a0f;--amber-light:#fdf0d5;
+  --muted:#7a7060;--border:#ddd8cc;
+  --card:#ffffff;--dark:#1a160e;
+}
+html{scroll-behavior:smooth}
+body{font-family:'Barlow',sans-serif;background:var(--paper);color:var(--ink);overflow-x:hidden;line-height:1.6}
+::-webkit-scrollbar{width:3px}
+::-webkit-scrollbar-thumb{background:var(--amber);border-radius:2px}
+#root{min-height:100vh}
+@keyframes fadeUp{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:translateY(0)}}
+@keyframes shimmer{0%{background-position:200% 0}100%{background-position:-200% 0}}
+@keyframes ticker{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+.fade-up{animation:fadeUp 0.5s ease forwards}
+.fade-up-2{animation:fadeUp 0.5s 0.2s ease both}
+.skeleton{background:linear-gradient(90deg,var(--cream) 25%,var(--amber-light) 50%,var(--cream) 75%);background-size:300% 100%;animation:shimmer 1.6s infinite;border-radius:2px}
+
+/* ── Mobile hamburger menu ── */
+.mob-menu-btn{display:none;background:none;border:none;cursor:pointer;padding:6px;color:var(--paper)}
+.mob-nav{display:none;position:absolute;top:100%;left:0;right:0;background:var(--dark);border-top:1px solid rgba(248,245,239,0.1);flex-direction:column;z-index:200}
+.mob-nav.open{display:flex}
+.mob-nav button{background:none;border:none;cursor:pointer;padding:1rem 1.5rem;text-align:left;font-size:0.85rem;letter-spacing:0.1em;text-transform:uppercase;font-family:'Barlow Condensed',sans-serif;font-weight:600;color:rgba(248,245,239,0.7);border-bottom:1px solid rgba(248,245,239,0.06);transition:color 0.2s}
+.mob-nav button:hover,.mob-nav button.active{color:var(--amber)}
+
+@media(max-width:768px){
+  .mob-menu-btn{display:flex;align-items:center;justify-content:center}
+  .desk-nav{display:none!important}
+  .hero-grid{grid-template-columns:1fr!important;gap:2rem!important;padding:3rem 1.25rem 2.5rem!important}
+  .section-pad{padding:2rem 1.25rem!important}
+  .card-grid-auto{grid-template-columns:1fr!important}
+  h1.hero-h1{font-size:2.8rem!important}
+}
+@media(max-width:480px){
+  .hero-platforms-grid{grid-template-columns:1fr!important}
+  .gallery-grid-r{grid-template-columns:1fr!important}
+  .card-grid-auto{grid-template-columns:1fr!important}
+}
+</style>
+</head>
+<body>
+<div id="root"></div>
+<script type="text/babel">
+const { useState, useEffect, useRef } = React;
+
+// ══════════════════════════════════════
+// CONFIG — EDIT THIS SECTION
+// ══════════════════════════════════════
+const CONFIG = {
+  name: "Badari",
+  title: "Badari Narayana",
+  tagline: "Engineer · Writer · Builder",
+  bio: "Technical articles, engineering insights, and reflections on AI, storage systems, and the Linux ecosystem — published across platforms for engineers and curious minds.",
+  mediumUsername: "badarinarayan",
+  linkedinUrl:  "https://www.linkedin.com/in/badarinarayan-joshi-0151307/recent-activity/all/",
+  manualArticles: [
+    { platform:"LinkedIn", url:"https://www.linkedin.com/posts/badarinarayan-joshi-0151307_memory-os-addresses-the-limitation-that-built-in-share-7467420343914246146-IlXQ/", title:"Memory OS — Addresses the Limitation That Built-in Memory Has", excerpt:"Memory OS tackles the fundamental constraint that conventional built-in memory imposes on modern systems.", image:"💾", date:"2026-06-02" },
+    { platform:"LinkedIn", url:"https://www.linkedin.com/posts/badarinarayan-joshi-0151307_github-badarinarayanpdf2infographics-share-7458962835025420288-aP6g/", title:"PDF to Infographics — GitHub Project Share", excerpt:"Sharing my open-source project that converts PDFs into visual infographics using AI.", image:"📊", date:"2026-05-09" },
+    { platform:"LinkedIn", url:"https://www.linkedin.com/pulse/parker-vs-multi-kernel-different-approaches-common-hardware-joshi-claqc", title:"Parker vs Multi-Kernel: Different Approaches, Common Hardware", excerpt:"A deep-dive into how Parker and multi-kernel architectures tackle the same hardware problems from fundamentally different angles.", image:"⚙️", date:"2026-04-01" },
+    { platform:"LinkedIn", url:"https://www.linkedin.com/pulse/finding-clarity-through-new-perspectives-badarinarayan-joshi-asbac", title:"Finding Clarity Through New Perspectives", excerpt:"How shifting your vantage point can dissolve problems that seemed intractable.", image:"🔭", date:"2026-03-20" },
+    { platform:"LinkedIn", url:"https://www.linkedin.com/posts/badarinarayan-joshi-0151307_should-we-focus-on-our-current-field-or-chase-activity-7438812649913679872-PrWv/", title:"Should We Focus on Our Current Field or Chase New Opportunities?", excerpt:"Exploring the tension between deepening expertise in one domain versus branching out into new territories.", image:"🎯", date:"2026-03-15" },
+    { platform:"LinkedIn", url:"https://www.linkedin.com/posts/badarinarayan-joshi-0151307_python-rust-activity-7436744282922893313-KKlU/", title:"Python vs Rust", excerpt:"Comparing two of today's most talked-about languages — when to reach for Python and when Rust earns its complexity.", image:"🦀", date:"2026-03-09" },
+    { platform:"LinkedIn", url:"https://www.linkedin.com/pulse/opentofu-free-alternative-terraform-badarinarayan-joshi", title:"OpenTofu — A Free Alternative to Terraform", excerpt:"OpenTofu steps into the gap left by HashiCorp's licence change, offering a fully open-source infrastructure-as-code path.", image:"🔓", date:"2026-03-01" },
+    { platform:"LinkedIn", url:"https://www.linkedin.com/posts/badarinarayan-joshi-0151307_positive-reinforcement-activity-7430118950694412289-GdGt/", title:"Positive Reinforcement", excerpt:"Why positive reinforcement outperforms criticism in building lasting habits and high-performing teams.", image:"✅", date:"2026-02-19" },
+    { platform:"LinkedIn", url:"https://www.linkedin.com/posts/badarinarayan-joshi-0151307_matrix-activity-7427927448128012288-beAl/", title:"The Matrix", excerpt:"Lessons from the classic film that still resonate for engineers navigating complex systems and reality.", image:"🔴", date:"2026-02-13" },
+    { platform:"LinkedIn", url:"https://www.linkedin.com/posts/badarinarayan-joshi-0151307_life-work-growth-activity-7425026035085369345-ARKT/", title:"Life, Work & Growth", excerpt:"Reflections on balancing professional ambition with personal wellbeing and continuous growth.", image:"🌱", date:"2026-02-05" },
+    { platform:"LinkedIn", url:"https://www.linkedin.com/posts/badarinarayan-joshi-0151307_not-just-another-command-runner-activity-7414722338706915328-AoXq/", title:"Not Just Another Command Runner", excerpt:"A look at tools that go beyond simple command execution to bring real intelligence to developer workflows.", image:"⚡", date:"2026-01-07" },
+    { platform:"LinkedIn", url:"https://www.linkedin.com/posts/badarinarayan-joshi-0151307_lasting-success-comes-somewhere-in-between-activity-7413047942103891968-8Ysg/", title:"Lasting Success Comes Somewhere In Between", excerpt:"The sweet spot between obsessive hustle and complacent comfort.", image:"⚖️", date:"2026-01-03" },
+    { platform:"LinkedIn", url:"https://www.linkedin.com/posts/badarinarayan-joshi-0151307_unclaimed-opportunities-activity-7407970020439289856-CYLb/", title:"Unclaimed Opportunities", excerpt:"The opportunities hiding in plain sight that most people walk past every day.", image:"🎁", date:"2025-12-20" },
+    { platform:"LinkedIn", url:"https://www.linkedin.com/posts/badarinarayan-joshi-0151307_its-not-that-ive-lost-interest-in-cycling-activity-7373035805185019904-nRRv/", title:"It's Not That I've Lost Interest in Cycling", excerpt:"On returning to old passions after a gap — and why the break might have been necessary all along.", image:"🚲", date:"2025-09-14" },
+    { platform:"LinkedIn", url:"https://www.linkedin.com/posts/badarinarayan-joshi-0151307_inspiration-friendship-hope-activity-7354404698960875520-zjLN/", title:"Inspiration, Friendship & Hope", excerpt:"A reflection on how meaningful connections fuel inspiration and carry us through difficult stretches.", image:"🤝", date:"2025-07-25" },
+  ],
+
+};
+
+
+function stripHtml(h){const d=document.createElement('div');d.innerHTML=h;return d.textContent||'';}
+function truncate(s,n){if(!s)return'';s=s.trim();return s.length>n?s.slice(0,n)+'…':s;}
+function fmtDate(s){if(!s)return'';try{const d=new Date(s);if(isNaN(d))return'';return d.toLocaleDateString('en-IN',{day:'numeric',month:'short',year:'numeric'});}catch{return'';}}
+
+async function fetchRSS(url,count=10){
+  const r2j=`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(url)}&count=${count}`;
+  try{const r=await fetch(r2j,{signal:AbortSignal.timeout(7000)});if(r.ok){const j=await r.json();if(j.status==='ok'&&j.items?.length)return{items:j.items};}}catch(e){}
+  try{const r=await fetch(`https://api.allorigins.win/get?url=${encodeURIComponent(url)}`,{signal:AbortSignal.timeout(7000)});if(r.ok){const j=await r.json();const parser=new DOMParser();const doc=parser.parseFromString(j.contents,'text/xml');const els=Array.from(doc.querySelectorAll('item,entry'));const items=els.slice(0,count).map(el=>({title:el.querySelector('title')?.textContent?.trim()||'',link:el.querySelector('link')?.getAttribute('href')||el.querySelector('link')?.textContent?.trim()||el.querySelector('guid')?.textContent||'#',pubDate:el.querySelector('pubDate')?.textContent||el.querySelector('published')?.textContent||el.querySelector('updated')?.textContent||'',description:stripHtml(el.getElementsByTagNameNS('*','encoded')[0]?.textContent||el.querySelector('description,summary')?.textContent||''),thumbnail:null})).filter(i=>i.title);if(items.length)return{items};}}catch(e){}
+  return{items:[]};
+}
+
+
+
+
+// ── TopBar ─────────────────────────────────────────────────────────────
+function TopBar({activeSection, setSection, tickerItems}) {
+  const [menuOpen, setMenuOpen] = useState(false);
+  const nav = [{id:'home',label:'Home'},{id:'writings',label:'Writings'},];
+  return (
+    <header style={{position:'sticky',top:0,zIndex:100}}>
+      <div style={{background:'var(--dark)',borderBottom:'2px solid var(--amber)',display:'flex',alignItems:'center',justifyContent:'space-between',padding:'0 1.25rem',height:52,position:'relative'}}>
+        <span style={{fontFamily:"'Libre Baskerville',serif",fontSize:'0.95rem',letterSpacing:'0.08em',color:'var(--paper)',textTransform:'uppercase',flexShrink:0}}>
+          {CONFIG.name} <span style={{color:'var(--amber)',fontStyle:'italic'}}>·</span> Writer
+        </span>
+        {/* Desktop nav */}
+        <nav className="desk-nav" style={{display:'flex',gap:'1.5rem'}}>
+          {nav.map(n=>(
+            <button key={n.id} onClick={()=>setSection(n.id)} style={{background:'none',border:'none',cursor:'pointer',fontSize:'0.7rem',letterSpacing:'0.12em',textTransform:'uppercase',color:activeSection===n.id?'var(--amber)':'rgba(248,245,239,0.6)',fontFamily:"'Barlow Condensed',sans-serif",fontWeight:600,transition:'color 0.2s',padding:'4px 0',borderBottom:activeSection===n.id?'1px solid var(--amber)':'1px solid transparent'}}>{n.label}</button>
+          ))}
+        </nav>
+        {/* Mobile hamburger */}
+        <button className="mob-menu-btn" onClick={()=>setMenuOpen(o=>!o)} aria-label="Menu">
+          {menuOpen
+            ? <svg width="22" height="22" fill="none" stroke="currentColor" strokeWidth="2"><line x1="4" y1="4" x2="18" y2="18"/><line x1="18" y1="4" x2="4" y2="18"/></svg>
+            : <svg width="22" height="22" fill="none" stroke="currentColor" strokeWidth="2"><line x1="3" y1="6" x2="19" y2="6"/><line x1="3" y1="12" x2="19" y2="12"/><line x1="3" y1="18" x2="19" y2="18"/></svg>
+          }
+        </button>
+        {/* Mobile dropdown */}
+        <div className={`mob-nav${menuOpen?' open':''}`}>
+          {nav.map(n=>(
+            <button key={n.id} className={activeSection===n.id?'active':''} onClick={()=>{setSection(n.id);setMenuOpen(false);}}>{n.label}</button>
+          ))}
+        </div>
+      </div>
+      {tickerItems.length>0&&(
+        <div style={{background:'var(--amber)',overflow:'hidden',display:'flex',alignItems:'center',height:28}}>
+          <span style={{padding:'0 1rem',fontSize:'0.58rem',fontFamily:"'Barlow Condensed',sans-serif",fontWeight:700,letterSpacing:'0.2em',textTransform:'uppercase',color:'var(--ink)',whiteSpace:'nowrap',borderRight:'1px solid rgba(0,0,0,0.2)',flexShrink:0}}>LATEST</span>
+          <div style={{overflow:'hidden',flex:1}}>
+            <div style={{display:'flex',gap:'2.5rem',animation:'ticker 35s linear infinite',whiteSpace:'nowrap'}}>
+              {[...tickerItems,...tickerItems].map((t,i)=>(
+                <a key={i} href={t.url} target="_blank" rel="noopener" style={{fontSize:'0.7rem',color:'var(--ink)',textDecoration:'none',opacity:0.85}}>{t.title}</a>
+              ))}
+            </div>
+          </div>
+        </div>
+      )}
+    </header>
+  );
+}
+
+// ── Hero ───────────────────────────────────────────────────────────────
+function Hero({setSection}) {
+  return (
+    <section style={{background:'var(--dark)',color:'var(--paper)',position:'relative',overflow:'hidden'}}>
+      <div style={{position:'absolute',top:0,right:0,width:'40%',height:'100%',opacity:0.04,backgroundImage:'repeating-linear-gradient(0deg,var(--paper) 0,var(--paper) 1px,transparent 1px,transparent 40px)',pointerEvents:'none'}}/>
+      <div className="hero-grid" style={{maxWidth:1100,margin:'0 auto',display:'grid',gridTemplateColumns:'1fr 1fr',gap:'4rem',alignItems:'center',padding:'5rem 2rem 4rem'}}>
+        <div className="fade-up">
+          <div style={{display:'flex',alignItems:'center',gap:'0.75rem',marginBottom:'1.25rem'}}>
+            <div style={{width:28,height:2,background:'var(--amber)'}}/>
+            <span style={{fontSize:'0.62rem',letterSpacing:'0.25em',textTransform:'uppercase',color:'var(--amber)',fontFamily:"'Barlow Condensed',sans-serif",fontWeight:600}}>Engineer & Writer · Bengaluru</span>
+          </div>
+          <h1 className="hero-h1" style={{fontFamily:"'Libre Baskerville',serif",fontSize:'clamp(2.5rem,5.5vw,4.2rem)',lineHeight:1.05,marginBottom:'1.25rem',letterSpacing:'-0.02em'}}>
+            <span style={{display:'block'}}>Badari</span>
+            <em style={{fontStyle:'italic',color:'var(--amber)',display:'block'}}>Narayana</em>
+          </h1>
+          <p style={{fontSize:'0.95rem',lineHeight:1.8,color:'rgba(248,245,239,0.65)',maxWidth:'38ch',marginBottom:'2rem'}}>{CONFIG.bio}</p>
+          <div style={{display:'flex',gap:'0.75rem',flexWrap:'wrap'}}>
+            <button onClick={()=>setSection('writings')} style={{padding:'0.6rem 1.5rem',border:'none',borderRadius:2,cursor:'pointer',fontSize:'0.72rem',letterSpacing:'0.12em',textTransform:'uppercase',fontFamily:"'Barlow Condensed',sans-serif",fontWeight:700,background:'var(--amber)',color:'var(--ink)'}}>My Writings</button>
+          </div>
+        </div>
+        <div className="fade-up-2 hero-platforms-grid" style={{display:'grid',gridTemplateColumns:'1fr',gap:'1px',background:'rgba(248,245,239,0.08)',border:'1px solid rgba(248,245,239,0.08)'}}>
+          {[
+            {name:'Medium',   icon:'✍️', desc:'Technical deep-dives & essays', url:'https://badarinarayan.medium.com', badge:'Live'},
+            {name:'LinkedIn', icon:'💼', desc:'Posts & articles',               url:CONFIG.linkedinUrl,                badge:'Manual'},
+          ].map(p=>(
+            <a key={p.name} href={p.url} target="_blank" rel="noopener"
+              style={{padding:'1rem 1.5rem',textDecoration:'none',color:'var(--paper)',display:'flex',alignItems:'center',gap:'1rem',borderBottom:'1px solid rgba(248,245,239,0.06)',transition:'background 0.2s'}}
+              onMouseEnter={e=>e.currentTarget.style.background='rgba(196,122,15,0.1)'}
+              onMouseLeave={e=>e.currentTarget.style.background='transparent'}>
+              <div style={{fontSize:'1.4rem',flexShrink:0}}>{p.icon}</div>
+              <div style={{flex:1}}>
+                <div style={{fontFamily:"'Barlow Condensed',sans-serif",fontWeight:600,fontSize:'0.9rem',marginBottom:'0.1rem'}}>{p.name}</div>
+                <div style={{fontSize:'0.68rem',color:'rgba(248,245,239,0.4)'}}>{p.desc}</div>
+              </div>
+              <div style={{display:'inline-block',fontSize:'0.52rem',letterSpacing:'0.15em',textTransform:'uppercase',padding:'2px 6px',borderRadius:20,background:p.badge==='Live'?'rgba(45,122,45,0.3)':'rgba(196,122,15,0.3)',color:p.badge==='Live'?'#7dc97d':'var(--amber)',border:`1px solid ${p.badge==='Live'?'rgba(45,122,45,0.4)':'rgba(196,122,15,0.4)'}`}}>{p.badge}</div>
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+  );
+}
+
+// ── Shared UI ──────────────────────────────────────────────────────────
+function SectionHeader({label,sub,dark=false}) {
+  return (
+    <div style={{marginBottom:'2rem'}}>
+      <div style={{display:'flex',alignItems:'center',gap:'0.75rem',marginBottom:'0.4rem'}}>
+        <div style={{width:24,height:2,background:'var(--amber)',flexShrink:0}}/>
+        <h2 style={{fontFamily:"'Libre Baskerville',serif",fontSize:'1.5rem',color:dark?'var(--paper)':'var(--ink)',letterSpacing:'-0.01em'}}>{label}</h2>
+      </div>
+      {sub&&<p style={{fontSize:'0.73rem',color:dark?'rgba(248,245,239,0.45)':'var(--muted)',marginLeft:36}}>{sub}</p>}
+      <div style={{height:1,background:dark?'rgba(248,245,239,0.1)':'var(--border)',marginTop:'1.25rem'}}/>
+    </div>
+  );
+}
+
+function SkeletonCard() {
+  return (
+    <div style={{background:'var(--card)',border:'1px solid var(--border)',borderRadius:2,overflow:'hidden'}}>
+      <div className="skeleton" style={{height:140}}/>
+      <div style={{padding:'1rem 1.1rem',display:'flex',flexDirection:'column',gap:'0.5rem'}}>
+        <div className="skeleton" style={{height:8,width:'28%'}}/><div className="skeleton" style={{height:14,width:'88%'}}/><div className="skeleton" style={{height:11,width:'68%'}}/>
+      </div>
+    </div>
+  );
+}
+
+function ArticleCard({article}) {
+  const isEmoji = article.image && article.image.length<=4 && !article.image.startsWith('http');
+  const cols = {Medium:'#00ab6c',LinkedIn:'#0077b5'};
+  const col = cols[article.platform]||'var(--amber)';
+  const cta = article.platform==='LinkedIn' ? 'View Post →' : 'Read →';
+  const [hov,setHov] = useState(false);
+  return (
+    <a href={article.url} target="_blank" rel="noopener"
+      onMouseEnter={()=>setHov(true)} onMouseLeave={()=>setHov(false)}
+      style={{display:'flex',flexDirection:'column',background:'var(--card)',border:'1px solid var(--border)',borderRadius:2,overflow:'hidden',textDecoration:'none',color:'inherit',transform:hov?'translateY(-3px)':'none',boxShadow:hov?'0 8px 24px rgba(15,13,9,0.1)':'none',transition:'transform 0.2s,box-shadow 0.2s',height:'100%'}}>
+      {isEmoji
+        ?<div style={{background:'var(--amber-light)',display:'flex',alignItems:'center',justifyContent:'center',fontSize:'2.5rem',height:120}}>{article.image}</div>
+        :<div style={{overflow:'hidden',height:140,background:'var(--cream)'}}>{article.image&&<img src={article.image} alt="" loading="lazy" style={{width:'100%',height:'100%',objectFit:'cover',transform:hov?'scale(1.05)':'none',transition:'transform 0.4s',display:'block'}} onError={e=>e.currentTarget.style.display='none'}/>}</div>
+      }
+      <div style={{padding:'1rem 1.1rem',flex:1,display:'flex',flexDirection:'column',gap:'0.35rem'}}>
+        <span style={{fontSize:'0.58rem',letterSpacing:'0.18em',textTransform:'uppercase',fontFamily:"'Barlow Condensed',sans-serif",fontWeight:700,color:col,display:'flex',alignItems:'center',gap:5}}>
+          <span style={{width:5,height:5,borderRadius:'50%',background:col,display:'inline-block'}}/>{article.platform}
+        </span>
+        <h3 style={{fontFamily:"'Libre Baskerville',serif",fontSize:'0.95rem',lineHeight:1.35,color:'var(--ink)'}}>{article.title}</h3>
+        <p style={{fontSize:'0.78rem',lineHeight:1.6,color:'var(--muted)',flex:1}}>{truncate(article.excerpt||'',120)}</p>
+        <div style={{display:'flex',justifyContent:'space-between',alignItems:'center',paddingTop:'0.6rem',borderTop:'1px solid var(--border)',marginTop:'auto'}}>
+          <span style={{fontSize:'0.65rem',color:'var(--muted)'}}>{fmtDate(article.date)}</span>
+          <span style={{fontSize:'0.7rem',color:'var(--amber)',fontWeight:600}}>{cta}</span>
+        </div>
+      </div>
+    </a>
+  );
+}
+
+// ── Writings ───────────────────────────────────────────────────────────
+function WritingsSection() {
+  const [medium,setMedium]=useState([]);
+  const [ms,setMs]=useState('loading');
+  const [tab,setTab]=useState('all');
+  useEffect(()=>{
+    fetchRSS(`https://medium.com/feed/@badarinarayan`,10).then(({items})=>{
+      if(!items.length){setMs('error');return;}
+      setMedium(items.map(i=>{const m=i.description?.match(/<img[^>]+src="([^"]+)"/);return{platform:'Medium',url:i.link,title:i.title,excerpt:stripHtml(i.description||''),image:i.thumbnail||(m?m[1]:null),date:i.pubDate};}).sort((a,b)=>new Date(a.date)-new Date(b.date)));
+      setMs('ok');
+    }).catch(()=>setMs('error'));
+  },[]);
+  const all=[...medium,...CONFIG.manualArticles];
+  const shown=tab==='all'?all:tab==='medium'?medium:CONFIG.manualArticles.filter(a=>a.platform==='LinkedIn');
+  const loading=tab==='all'&&ms==='loading'||tab==='medium'&&ms==='loading';
+  return (
+    <div className="section-pad" style={{maxWidth:1100,margin:'0 auto',padding:'2.5rem 2rem'}}>
+      <SectionHeader label="My Writings" sub="Articles & posts from Medium and LinkedIn"/>
+      <div style={{display:'flex',gap:'0.4rem',marginBottom:'1.75rem',flexWrap:'wrap'}}>
+        {[['all','All'],['medium','Medium'],['linkedin','LinkedIn']].map(([id,label])=>(
+          <button key={id} onClick={()=>setTab(id)} style={{padding:'0.35rem 0.9rem',border:'1px solid',borderRadius:20,fontSize:'0.67rem',letterSpacing:'0.1em',textTransform:'uppercase',cursor:'pointer',fontFamily:"'Barlow Condensed',sans-serif",fontWeight:600,transition:'all 0.15s',background:tab===id?'var(--ink)':'transparent',borderColor:tab===id?'var(--ink)':'var(--border)',color:tab===id?'var(--paper)':'var(--muted)'}}>
+            {label}
+          </button>
+        ))}
+      </div>
+      {tab==='medium'&&ms==='error'&&(
+        <div style={{padding:'0.875rem 1rem',background:'#fff5f5',border:'1px solid #fcc',borderRadius:2,fontSize:'0.78rem',marginBottom:'1.25rem'}}>
+          ⚠️ Medium feed unavailable. <a href={`https://medium.com/feed/@${CONFIG.mediumUsername}`} target="_blank" rel="noopener" style={{color:'var(--amber)'}}>Test RSS →</a>
+        </div>
+      )}
+      <div className="card-grid-auto" style={{display:'grid',gridTemplateColumns:'repeat(auto-fill,minmax(270px,1fr))',gap:'1.25rem'}}>
+        {loading&&[...Array(6)].map((_,i)=><SkeletonCard key={i}/>)}
+        {!loading&&shown.map((a,i)=><ArticleCard key={i} article={a}/>)}
+        {!loading&&!shown.length&&<div style={{gridColumn:'1/-1',textAlign:'center',padding:'2.5rem',color:'var(--muted)',fontSize:'0.85rem'}}>No articles here yet.</div>}
+      </div>
+    </div>
+  );
+}
+
+// ── HomePreview ────────────────────────────────────────────────────────
+function HomePreview({setSection}) {
+  const [medium,setMedium]=useState([]);
+  useEffect(()=>{
+    fetchRSS(`https://medium.com/feed/@badarinarayan`,3).then(({items})=>{
+      setMedium(items.map(i=>{const m=i.description?.match(/<img[^>]+src="([^"]+)"/);return{platform:'Medium',url:i.link,title:i.title,excerpt:stripHtml(i.description||''),image:i.thumbnail||(m?m[1]:null),date:i.pubDate};}).sort((a,b)=>new Date(a.date)-new Date(b.date)));
+    }).catch(()=>{});
+    // Fetch top 3 of each for home preview
+  },[]);
+
+  const PreviewRow = ({title,action,children}) => (
+    <div style={{marginBottom:'2.5rem'}}>
+      <div style={{display:'flex',justifyContent:'space-between',alignItems:'baseline',marginBottom:'1.25rem'}}>
+        <div style={{display:'flex',alignItems:'center',gap:'0.6rem'}}>
+          <div style={{width:20,height:2,background:'var(--amber)',flexShrink:0}}/>
+          <h2 style={{fontFamily:"'Libre Baskerville',serif",fontSize:'1.15rem',color:'var(--ink)'}}>{title}</h2>
+        </div>
+        <button onClick={action} style={{fontSize:'0.62rem',letterSpacing:'0.12em',textTransform:'uppercase',background:'none',border:'none',cursor:'pointer',color:'var(--amber)',fontFamily:"'Barlow Condensed',sans-serif",fontWeight:700,flexShrink:0,marginLeft:'0.5rem'}}>View all →</button>
+      </div>
+      {children}
+    </div>
+  );
+
+
+  return (
+    <div className="section-pad" style={{maxWidth:1100,margin:'0 auto',padding:'2.5rem 2rem'}}>
+      <PreviewRow title="Latest from Medium" action={()=>setSection('writings')}>
+        <div className="card-grid-auto" style={{display:'grid',gridTemplateColumns:'repeat(auto-fill,minmax(280px,1fr))',gap:'1.1rem'}}>
+          {medium.length?medium.map((a,i)=><ArticleCard key={i} article={a}/>):[...Array(3)].map((_,i)=><SkeletonCard key={i}/>)}
+        </div>
+      </PreviewRow>
+      <PreviewRow title="LinkedIn" action={()=>setSection('writings')}>
+        <div className="card-grid-auto" style={{display:'grid',gridTemplateColumns:'repeat(auto-fill,minmax(280px,1fr))',gap:'1.1rem'}}>
+          {CONFIG.manualArticles.filter(a=>a.platform==='LinkedIn').slice(0,3).map((a,i)=><ArticleCard key={i} article={a}/>)}
+        </div>
+      </PreviewRow>
+    </div>
+  );
+}
+
+// ── Footer ─────────────────────────────────────────────────────────────
+function Footer() {
+  return (
+    <footer style={{background:'var(--dark)',borderTop:'2px solid var(--amber)',padding:'2.5rem 1.5rem 2rem',textAlign:'center'}}>
+      <p style={{fontFamily:"'Libre Baskerville',serif",fontSize:'1.5rem',color:'var(--paper)',marginBottom:'0.35rem'}}>{CONFIG.title}</p>
+      <p style={{fontSize:'0.68rem',color:'rgba(248,245,239,0.4)',letterSpacing:'0.18em',textTransform:'uppercase',marginBottom:'1.5rem'}}>{CONFIG.tagline}</p>
+      <div style={{display:'flex',gap:'1.25rem',justifyContent:'center',flexWrap:'wrap',marginBottom:'1.5rem'}}>
+        {[['Medium','https://badarinarayan.medium.com'],['LinkedIn',CONFIG.linkedinUrl]].map(([l,u])=>(
+          <a key={l} href={u} target="_blank" rel="noopener"
+            style={{fontSize:'0.63rem',letterSpacing:'0.14em',textTransform:'uppercase',color:'rgba(248,245,239,0.38)',textDecoration:'none',fontFamily:"'Barlow Condensed',sans-serif",fontWeight:600,transition:'color 0.2s'}}
+            onMouseEnter={e=>e.currentTarget.style.color='var(--amber)'}
+            onMouseLeave={e=>e.currentTarget.style.color='rgba(248,245,239,0.38)'}>{l}</a>
+        ))}
+      </div>
+      <p style={{fontSize:'0.58rem',color:'rgba(248,245,239,0.18)',lineHeight:1.7}}>Hosted on GitHub Pages · Articles fetched live from Medium</p>
+    </footer>
+  );
+}
+
+// ── App ────────────────────────────────────────────────────────────────
+function App() {
+  const [section,setSection]=useState('home');
+  const [ticker,setTicker]=useState([]);
+  useEffect(()=>{
+    fetchRSS(`https://medium.com/feed/@badarinarayan`,5).then(({items})=>setTicker(items.map(i=>({title:i.title,url:i.link})))).catch(()=>{});
+  },[]);
+  // Scroll to top on section change
+  useEffect(()=>{ window.scrollTo({top:0,behavior:'smooth'}); },[section]);
+  return (
+    <div>
+      <TopBar activeSection={section} setSection={setSection} tickerItems={ticker}/>
+      {section==='home'&&<><Hero setSection={setSection}/><HomePreview setSection={setSection}/></>}
+      {section==='writings'&&<WritingsSection/>}
+      <Footer/>
+    </div>
+  );
+}
+
+ReactDOM.createRoot(document.getElementById('root')).render(<App/>);
+</script>
+</body>
+</html>
