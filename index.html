@@ -65,6 +65,9 @@ const CONFIG = {
   bio: "Technical articles, engineering insights, and reflections on AI, storage systems, and the Linux ecosystem — published across platforms for engineers and curious minds.",
   mediumUsername: "badarinarayan",
   linkedinUrl:  "https://www.linkedin.com/in/badarinarayan-joshi-0151307/recent-activity/all/",
+  localArticles: [
+    { platform:"Site", url:"src/windows-coreutils.html", title:"Unix on Windows — Coreutils Finally Arrives", excerpt:"Coreutils lands in Windows 2026 — closing the gap that made cross-platform development painful for a generation of terminal-first engineers.", image:"🖥️", date:"2026-06-09" },
+  ],
   manualArticles: [
     { platform:"LinkedIn", url:"https://www.linkedin.com/posts/badarinarayan-joshi-0151307_memory-os-addresses-the-limitation-that-built-in-share-7467420343914246146-IlXQ/", title:"Memory OS — Addresses the Limitation That Built-in Memory Has", excerpt:"Memory OS tackles the fundamental constraint that conventional built-in memory imposes on modern systems.", image:"💾", date:"2026-06-02" },
     { platform:"LinkedIn", url:"https://www.linkedin.com/posts/badarinarayan-joshi-0151307_github-badarinarayanpdf2infographics-share-7458962835025420288-aP6g/", title:"PDF to Infographics — GitHub Project Share", excerpt:"Sharing my open-source project that converts PDFs into visual infographics using AI.", image:"📊", date:"2026-05-09" },
@@ -216,12 +219,13 @@ function SkeletonCard() {
 
 function ArticleCard({article}) {
   const isEmoji = article.image && article.image.length<=4 && !article.image.startsWith('http');
-  const cols = {Medium:'#00ab6c',LinkedIn:'#0077b5'};
+  const cols = {Medium:'#00ab6c',LinkedIn:'#0077b5',Site:'#c47a0f'};
   const col = cols[article.platform]||'var(--amber)';
-  const cta = article.platform==='LinkedIn' ? 'View Post →' : 'Read →';
+  const cta = article.platform==='LinkedIn' ? 'View Post →' : article.platform==='Site' ? 'Read Article →' : 'Read →';
+  const isExternal = article.url.startsWith('http');
   const [hov,setHov] = useState(false);
   return (
-    <a href={article.url} target="_blank" rel="noopener"
+    <a href={article.url} target={isExternal?'_blank':'_self'} rel={isExternal?'noopener':undefined}
       onMouseEnter={()=>setHov(true)} onMouseLeave={()=>setHov(false)}
       style={{display:'flex',flexDirection:'column',background:'var(--card)',border:'1px solid var(--border)',borderRadius:2,overflow:'hidden',textDecoration:'none',color:'inherit',transform:hov?'translateY(-3px)':'none',boxShadow:hov?'0 8px 24px rgba(15,13,9,0.1)':'none',transition:'transform 0.2s,box-shadow 0.2s',height:'100%'}}>
       {isEmoji
@@ -255,14 +259,14 @@ function WritingsSection() {
       setMs('ok');
     }).catch(()=>setMs('error'));
   },[]);
-  const all=[...medium,...CONFIG.manualArticles];
-  const shown=tab==='all'?all:tab==='medium'?medium:CONFIG.manualArticles.filter(a=>a.platform==='LinkedIn');
+  const all=[...medium,...CONFIG.manualArticles,...CONFIG.localArticles];
+  const shown=tab==='all'?all:tab==='medium'?medium:tab==='site'?CONFIG.localArticles:CONFIG.manualArticles.filter(a=>a.platform==='LinkedIn');
   const loading=tab==='all'&&ms==='loading'||tab==='medium'&&ms==='loading';
   return (
     <div className="section-pad" style={{maxWidth:1100,margin:'0 auto',padding:'2.5rem 2rem'}}>
       <SectionHeader label="My Writings" sub="Articles & posts from Medium and LinkedIn"/>
       <div style={{display:'flex',gap:'0.4rem',marginBottom:'1.75rem',flexWrap:'wrap'}}>
-        {[['all','All'],['medium','Medium'],['linkedin','LinkedIn']].map(([id,label])=>(
+        {[['all','All'],['medium','Medium'],['linkedin','LinkedIn'],['site','This Site']].map(([id,label])=>(
           <button key={id} onClick={()=>setTab(id)} style={{padding:'0.35rem 0.9rem',border:'1px solid',borderRadius:20,fontSize:'0.67rem',letterSpacing:'0.1em',textTransform:'uppercase',cursor:'pointer',fontFamily:"'Barlow Condensed',sans-serif",fontWeight:600,transition:'all 0.15s',background:tab===id?'var(--ink)':'transparent',borderColor:tab===id?'var(--ink)':'var(--border)',color:tab===id?'var(--paper)':'var(--muted)'}}>
             {label}
           </button>
@@ -317,6 +321,16 @@ function HomePreview({setSection}) {
         <div className="card-grid-auto" style={{display:'grid',gridTemplateColumns:'repeat(auto-fill,minmax(280px,1fr))',gap:'1.1rem'}}>
           {CONFIG.manualArticles.filter(a=>a.platform==='LinkedIn').slice(0,3).map((a,i)=><ArticleCard key={i} article={a}/>)}
         </div>
+      </PreviewRow>
+      <PreviewRow title="From This Site" action={()=>setSection('writings')}>
+        {CONFIG.localArticles.length>0
+          ? <div className="card-grid-auto" style={{display:'grid',gridTemplateColumns:'repeat(auto-fill,minmax(280px,1fr))',gap:'1.1rem'}}>
+              {CONFIG.localArticles.map((a,i)=><ArticleCard key={i} article={a}/>)}
+            </div>
+          : <div style={{padding:'2rem',background:'var(--cream)',border:'1px dashed var(--border)',borderRadius:2,textAlign:'center',color:'var(--muted)',fontSize:'0.82rem'}}>
+              Articles published on this site will appear here.
+            </div>
+        }
       </PreviewRow>
     </div>
   );

@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Unix on Windows — Coreutils Finally Arrives</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=Inter:wght@400;500;600&family=Playfair+Display:wght@700;900&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --ink:      #0f1117;
+      --mist:     #f6f7f9;
+      --wire:     #d8dce5;
+      --accent:   #2563eb;
+      --code-bg:  #f4f6f8;
+      --code-bd:  #d0d7de;
+      --green:    #1a7f37;
+      --green-lt: #e8f5ec;
+      --amber:    #9a6700;
+      --text:     #23272f;
+      --sub:      #6b7280;
+      --hero-bg:  #f0f4ff;
+      --hero-bd:  #c7d7fb;
+    }
+
+    html { font-size: 17px; }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      background: var(--mist);
+      color: var(--text);
+      line-height: 1.75;
+    }
+
+    /* ── HERO ── */
+    .hero {
+      background: var(--hero-bg);
+      border-bottom: 1px solid var(--hero-bd);
+      color: var(--ink);
+      padding: 72px 24px 60px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .hero::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: repeating-linear-gradient(
+        0deg,
+        transparent,
+        transparent 28px,
+        rgba(37,99,235,0.04) 28px,
+        rgba(37,99,235,0.04) 29px
+      );
+      pointer-events: none;
+    }
+
+    .hero-inner {
+      max-width: 760px;
+      margin: 0 auto;
+      position: relative;
+    }
+
+    .eyebrow {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.72rem;
+      letter-spacing: 0.12em;
+      color: var(--green);
+      text-transform: uppercase;
+      margin-bottom: 20px;
+    }
+
+    .hero h1 {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(2rem, 5vw, 3.2rem);
+      line-height: 1.15;
+      font-weight: 900;
+      color: var(--ink);
+      margin-bottom: 22px;
+    }
+
+    .hero h1 span {
+      color: var(--accent);
+    }
+
+    .hero-sub {
+      font-size: 1.05rem;
+      color: #4b5563;
+      max-width: 560px;
+    }
+
+    /* ── TERMINAL BLOCK ── */
+    .term-preview {
+      background: var(--code-bg);
+      border: 1px solid var(--code-bd);
+      border-radius: 8px;
+      padding: 18px 22px;
+      margin-top: 36px;
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.82rem;
+      line-height: 1.8;
+    }
+
+    .term-preview .prompt { color: var(--green); }
+    .term-preview .cmd    { color: #1a2332; }
+    .term-preview .out    { color: #57606a; }
+    .term-preview .hl     { color: var(--amber); }
+
+    /* ── LAYOUT ── */
+    .page {
+      max-width: 760px;
+      margin: 0 auto;
+      padding: 0 24px 80px;
+    }
+
+    /* ── SECTION ── */
+    section {
+      margin-top: 56px;
+    }
+
+    .section-label {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.68rem;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 10px;
+    }
+
+    h2 {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.25;
+      margin-bottom: 16px;
+      color: var(--ink);
+    }
+
+    p {
+      color: #374151;
+      margin-bottom: 16px;
+    }
+
+    /* ── PULL IMAGE ── */
+    .pull-img {
+      width: 100%;
+      border-radius: 6px;
+      margin: 28px 0;
+      display: block;
+      object-fit: cover;
+      max-height: 320px;
+      border: 1px solid var(--wire);
+    }
+
+    .img-caption {
+      font-size: 0.78rem;
+      color: var(--sub);
+      margin-top: -20px;
+      margin-bottom: 28px;
+      font-style: italic;
+    }
+
+    /* ── DIVIDER ── */
+    hr {
+      border: none;
+      border-top: 1px solid var(--wire);
+      margin: 48px 0 0;
+    }
+
+    /* ── INSTALL BOX ── */
+    .install-box {
+      background: var(--code-bg);
+      border-radius: 8px;
+      padding: 28px 28px 22px;
+      margin: 32px 0;
+      border-left: 3px solid var(--green);
+    }
+
+    .install-box p {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.88rem;
+      color: #57606a;
+      margin-bottom: 12px;
+    }
+
+    .install-cmd {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 1rem;
+      color: #1a2332;
+      background: #fff;
+      border: 1px solid var(--code-bd);
+      border-radius: 5px;
+      padding: 13px 18px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      cursor: pointer;
+      position: relative;
+    }
+
+    .install-cmd::before {
+      content: '$';
+      color: var(--green);
+    }
+
+    .copy-hint {
+      font-family: 'Inter', sans-serif;
+      font-size: 0.7rem;
+      color: #9ca3af;
+      margin-top: 10px;
+      text-align: right;
+    }
+
+    /* ── CALLOUT ── */
+    .callout {
+      background: #eff6ff;
+      border: 1px solid #bfdbfe;
+      border-radius: 6px;
+      padding: 20px 22px;
+      margin: 28px 0;
+    }
+
+    .callout strong {
+      color: var(--accent);
+      font-size: 0.8rem;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      display: block;
+      margin-bottom: 6px;
+      font-family: 'IBM Plex Mono', monospace;
+    }
+
+    .callout p {
+      margin: 0;
+      font-size: 0.95rem;
+    }
+
+    /* ── FOOTER ── */
+    footer {
+      text-align: center;
+      font-size: 0.78rem;
+      color: var(--sub);
+      padding: 36px 24px;
+      border-top: 1px solid var(--wire);
+      font-family: 'IBM Plex Mono', monospace;
+    }
+
+    @media (max-width: 520px) {
+      .hero { padding: 48px 20px 44px; }
+      .page { padding: 0 20px 60px; }
+    }
+
+    /* ── HOME NAV ── */
+    .home-nav {
+      background: #fff;
+      border-bottom: 1px solid var(--wire);
+      padding: 0 24px;
+      height: 44px;
+      display: flex;
+      align-items: center;
+    }
+
+    .home-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.72rem;
+      letter-spacing: 0.08em;
+      color: var(--accent);
+      text-decoration: none;
+      padding: 4px 10px 4px 6px;
+      border-radius: 4px;
+      transition: background 0.15s, color 0.15s;
+    }
+
+    .home-btn:hover {
+      background: #eff6ff;
+      color: #1d4ed8;
+    }
+
+    .home-btn svg {
+      flex-shrink: 0;
+    }
+  </style>
+</head>
+<body>
+
+<nav class="home-nav">
+  <a class="home-btn" href="../index.html">
+    <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24">
+      <path d="M3 9.5L12 3l9 6.5V20a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V9.5z"/>
+      <polyline points="9 21 9 12 15 12 15 21"/>
+    </svg>
+    Home
+  </a>
+</nav>
+
+<!-- HERO -->
+<div class="hero">
+  <div class="hero-inner">
+    <p class="eyebrow">// windows · 2026 builds · developer tooling</p>
+    <h1>Unix tools,<br>finally<br><span>native on Windows</span></h1>
+    <p class="hero-sub">Coreutils lands in Windows 2026 — closing the gap that made cross-platform development painful for a generation of terminal-first engineers.</p>
+
+    <div class="term-preview">
+      <div><span class="prompt">PS C:\Users\dev&gt;</span> <span class="cmd">ls -la ./project</span></div>
+      <div><span class="out">total 48</span></div>
+      <div><span class="out">drwxr-xr-x  src/</span></div>
+      <div><span class="out">-rw-r--r--  <span class="hl">README.md</span></span></div>
+      <div><span class="prompt">PS C:\Users\dev&gt;</span> <span class="cmd">grep -r "TODO" ./src</span></div>
+      <div><span class="out"># no translation layer. no shims. just works.</span></div>
+    </div>
+  </div>
+</div>
+
+<!-- BODY -->
+<div class="page">
+
+  <section>
+    <p class="section-label">the problem</p>
+    <h2>A tale of two terminals</h2>
+    <p>If you've used AI coding agents — Claude, Codex, or similar — on Windows, you've likely seen a recurring pattern: they default to Unix commands, wait for failure, then pivot to PowerShell equivalents. This isn't a bug in the tools. It's a reflection of where most developers live.</p>
+    <p>Engineers coming from Unix backgrounds often describe switching to a mouse-driven workflow as losing a superpower. The terminal isn't just convenience — for many, it's the primary interface through which software gets made.</p>
+
+    <div class="illus-panel" style="background:#f4f6f8;border-radius:8px;border:1px solid #d0d7de;padding:28px 28px 20px;margin:28px 0;font-family:'IBM Plex Mono',monospace;font-size:0.82rem;line-height:2;">
+      <div style="display:flex;gap:8px;margin-bottom:18px;">
+        <span style="width:12px;height:12px;border-radius:50%;background:#ff5f57;display:inline-block;"></span>
+        <span style="width:12px;height:12px;border-radius:50%;background:#febc2e;display:inline-block;"></span>
+        <span style="width:12px;height:12px;border-radius:50%;background:#28c840;display:inline-block;"></span>
+        <span style="color:#9ca3af;font-size:0.72rem;margin-left:8px;align-self:center;">bash — dev@linux:~</span>
+      </div>
+      <div><span style="color:#1a7f37;">dev@linux:~$</span> <span style="color:#1a2332;">ls -la ./project</span></div>
+      <div style="color:#57606a;">total 96</div>
+      <div><span style="color:#2563eb;">drwxr-xr-x</span> <span style="color:#1a2332;">  src/</span></div>
+      <div><span style="color:#2563eb;">drwxr-xr-x</span> <span style="color:#1a2332;">  tests/</span></div>
+      <div><span style="color:#1a2332;">-rw-r--r--</span>   <span style="color:#9a6700;">Makefile</span></div>
+      <div><span style="color:#1a2332;">-rw-r--r--</span>   README.md</div>
+      <div style="margin-top:4px;"><span style="color:#1a7f37;">dev@linux:~$</span> <span style="color:#1a2332;">grep -rn "TODO" ./src | wc -l</span></div>
+      <div style="color:#9a6700;">42</div>
+      <div><span style="color:#1a7f37;">dev@linux:~$</span> <span style="color:#1a2332;">curl -s https://api.example.com/status | cat</span></div>
+      <div style="color:#57606a;">{"status":"ok","version":"2.1.0"}</div>
+      <div style="margin-top:4px;"><span style="color:#1a7f37;">dev@linux:~$</span> <span style="color:#1a2332;opacity:0.4;">█</span></div>
+    </div>
+    <p class="img-caption">The Unix command-line paradigm — ls, grep, curl, awk — became the lingua franca of software development.</p>
+  </section>
+
+  <hr />
+
+  <section>
+    <p class="section-label">the journey</p>
+    <h2>Windows evolves toward developers</h2>
+    <p>Under Satya Nadella, Microsoft made a genuine pivot. The Windows Subsystem for Linux (WSL) was an admission that the Unix shell wasn't a niche preference — it was infrastructure. PowerShell gradually adopted surface-level aliases: <code>ls</code>, <code>grep</code>, <code>curl</code>. But these were approximations, not the real thing. Scripts broke. Flags differed. Muscle memory betrayed you.</p>
+    <p>Compatibility layers and third-party packages filled part of the gap. Git Bash, Cygwin, MSYS2 — developers cobbled together their own Unix-ish environments. It worked, until it didn't.</p>
+
+    <div class="illus-panel" style="background:#f4f6f8;border-radius:8px;border:1px solid #d0d7de;padding:28px;margin:28px 0;font-family:'IBM Plex Mono',monospace;font-size:0.8rem;">
+      <div style="display:flex;align-items:center;gap:16px;margin-bottom:22px;padding-bottom:18px;border-bottom:1px solid #d0d7de;">
+        <div style="background:#dbeafe;border:1px solid #93c5fd;border-radius:6px;padding:8px 14px;color:#1d4ed8;font-size:0.75rem;white-space:nowrap;">Windows Host</div>
+        <div style="flex:1;height:2px;background:repeating-linear-gradient(90deg,#d0d7de 0,#d0d7de 6px,transparent 6px,transparent 12px);"></div>
+        <div style="background:#dcfce7;border:1px solid #86efac;border-radius:6px;padding:8px 14px;color:#15803d;font-size:0.75rem;white-space:nowrap;">WSL Layer</div>
+        <div style="flex:1;height:2px;background:repeating-linear-gradient(90deg,#d0d7de 0,#d0d7de 6px,transparent 6px,transparent 12px);"></div>
+        <div style="background:#f3e8ff;border:1px solid #d8b4fe;border-radius:6px;padding:8px 14px;color:#7c3aed;font-size:0.75rem;white-space:nowrap;">Linux FS</div>
+      </div>
+      <div style="color:#9ca3af;margin-bottom:10px;"># Workarounds developers relied on before 2026:</div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;">
+        <div style="background:#fff;border:1px solid #d0d7de;border-radius:5px;padding:12px;">
+          <div style="color:#9a6700;margin-bottom:6px;font-size:0.72rem;">Git Bash</div>
+          <div style="color:#57606a;font-size:0.72rem;">MINGW32 emulation layer</div>
+        </div>
+        <div style="background:#fff;border:1px solid #d0d7de;border-radius:5px;padding:12px;">
+          <div style="color:#9a6700;margin-bottom:6px;font-size:0.72rem;">Cygwin</div>
+          <div style="color:#57606a;font-size:0.72rem;">POSIX compatibility layer</div>
+        </div>
+        <div style="background:#fff;border:1px solid #d0d7de;border-radius:5px;padding:12px;">
+          <div style="color:#9a6700;margin-bottom:6px;font-size:0.72rem;">MSYS2</div>
+          <div style="color:#57606a;font-size:0.72rem;">Package-based Unix env</div>
+        </div>
+        <div style="background:#fff;border:1px solid #d0d7de;border-radius:5px;padding:12px;">
+          <div style="color:#9a6700;margin-bottom:6px;font-size:0.72rem;">WSL 1 / WSL 2</div>
+          <div style="color:#57606a;font-size:0.72rem;">Linux VM inside Windows</div>
+        </div>
+      </div>
+    </div>
+    <p class="img-caption">WSL was a landmark moment — but it was still a layer, not native integration.</p>
+  </section>
+
+  <hr />
+
+  <section>
+    <p class="section-label">the change</p>
+    <h2>Coreutils comes to Windows</h2>
+    <p>Microsoft has released a native Windows build of Coreutils — a Microsoft-maintained port of <a href="https://github.com/uutils/coreutils" style="color:var(--accent);">uutils/coreutils</a>, findutils, and GNU-compatible grep, packaged as a single multi-call binary. The goal: the same commands, flags, and pipelines you use on Linux or macOS work the same way on Windows, so scripts carry over without translation.</p>
+
+    <div class="callout" style="background:#fff8ed;border-color:#fcd34d;">
+      <strong style="color:#92400e;">Preview — not production-ready</strong>
+      <p>The project is currently in preview. Expect rough edges, and verify behavior before relying on it in critical scripts.</p>
+    </div>
+
+    <p>Installation is via Windows Package Manager or the GitHub release page:</p>
+
+    <div class="install-box">
+      <p>// Windows Package Manager (requires PowerShell 7.4+)</p>
+      <div class="install-cmd">winget install Microsoft.Coreutils</div>
+      <p class="copy-hint">copy and run in any terminal</p>
+    </div>
+  </section>
+
+  <hr />
+
+  <section>
+    <p class="section-label">the fine print</p>
+    <h2>Shell conflicts — it's not all clean</h2>
+    <p>Here's where the real-world picture gets more complicated. Several commands share names with CMD or PowerShell built-ins. Whether the Coreutils version actually runs depends on the shell, PATH order, and PowerShell's alias table. Some commands aren't shipped at all.</p>
+
+    <div style="overflow-x:auto;margin:28px 0;">
+      <table style="width:100%;border-collapse:collapse;font-family:'IBM Plex Mono',monospace;font-size:0.78rem;background:#fff;border-radius:8px;overflow:hidden;border:1px solid #d0d7de;">
+        <thead>
+          <tr style="background:#f6f8fa;color:#57606a;">
+            <th style="text-align:left;padding:12px 16px;border-bottom:1px solid #d0d7de;font-weight:600;">Command</th>
+            <th style="text-align:center;padding:12px 16px;border-bottom:1px solid #d0d7de;font-weight:600;">CMD</th>
+            <th style="text-align:center;padding:12px 16px;border-bottom:1px solid #d0d7de;font-weight:600;">PowerShell 7.4+</th>
+            <th style="text-align:left;padding:12px 16px;border-bottom:1px solid #d0d7de;font-weight:600;">Notes</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr style="border-bottom:1px solid #eaecef;"><td style="padding:10px 16px;color:#1a2332;"><code>cat</code></td><td style="text-align:center;padding:10px 16px;">✅</td><td style="text-align:center;padding:10px 16px;">⚠️</td><td style="padding:10px 16px;color:#57606a;"></td></tr>
+          <tr style="border-bottom:1px solid #eaecef;background:#f6f8fa;"><td style="padding:10px 16px;color:#1a2332;"><code>cp</code></td><td style="text-align:center;padding:10px 16px;">✅</td><td style="text-align:center;padding:10px 16px;">⚠️</td><td style="padding:10px 16px;color:#57606a;"></td></tr>
+          <tr style="border-bottom:1px solid #eaecef;"><td style="padding:10px 16px;color:#1a2332;"><code>date</code></td><td style="text-align:center;padding:10px 16px;">⚠️</td><td style="text-align:center;padding:10px 16px;">⚠️</td><td style="padding:10px 16px;color:#57606a;"></td></tr>
+          <tr style="border-bottom:1px solid #eaecef;background:#f6f8fa;"><td style="padding:10px 16px;color:#cf222e;"><code>dir</code></td><td style="text-align:center;padding:10px 16px;">🛑</td><td style="text-align:center;padding:10px 16px;">🛑</td><td style="padding:10px 16px;color:#57606a;">Conflicts with built-in DOS command</td></tr>
+          <tr style="border-bottom:1px solid #eaecef;"><td style="padding:10px 16px;color:#1a2332;"><code>find</code></td><td style="text-align:center;padding:10px 16px;">✅</td><td style="text-align:center;padding:10px 16px;">✅</td><td style="padding:10px 16px;color:#57606a;">Integrated port of original DOS command</td></tr>
+          <tr style="border-bottom:1px solid #eaecef;background:#f6f8fa;"><td style="padding:10px 16px;color:#cf222e;"><code>kill</code></td><td style="text-align:center;padding:10px 16px;">🛑</td><td style="text-align:center;padding:10px 16px;">🛑</td><td style="padding:10px 16px;color:#57606a;">No POSIX signals on Windows</td></tr>
+          <tr style="border-bottom:1px solid #eaecef;"><td style="padding:10px 16px;color:#1a2332;"><code>ls</code></td><td style="text-align:center;padding:10px 16px;">✅</td><td style="text-align:center;padding:10px 16px;">⚠️</td><td style="padding:10px 16px;color:#57606a;"></td></tr>
+          <tr style="border-bottom:1px solid #eaecef;background:#f6f8fa;"><td style="padding:10px 16px;color:#cf222e;"><code>more</code></td><td style="text-align:center;padding:10px 16px;">🛑</td><td style="text-align:center;padding:10px 16px;">🛑</td><td style="padding:10px 16px;color:#57606a;">Conflicts with built-in DOS command</td></tr>
+          <tr style="border-bottom:1px solid #eaecef;"><td style="padding:10px 16px;color:#1a2332;"><code>mv</code></td><td style="text-align:center;padding:10px 16px;">✅</td><td style="text-align:center;padding:10px 16px;">⚠️</td><td style="padding:10px 16px;color:#57606a;"></td></tr>
+          <tr style="border-bottom:1px solid #eaecef;background:#f6f8fa;"><td style="padding:10px 16px;color:#1a2332;"><code>pwd</code></td><td style="text-align:center;padding:10px 16px;">✅</td><td style="text-align:center;padding:10px 16px;">⚠️</td><td style="padding:10px 16px;color:#57606a;"></td></tr>
+          <tr style="border-bottom:1px solid #eaecef;"><td style="padding:10px 16px;color:#1a2332;"><code>rm</code></td><td style="text-align:center;padding:10px 16px;">✅</td><td style="text-align:center;padding:10px 16px;">⚠️</td><td style="padding:10px 16px;color:#57606a;"></td></tr>
+          <tr style="border-bottom:1px solid #eaecef;background:#f6f8fa;"><td style="padding:10px 16px;color:#1a2332;"><code>sort</code></td><td style="text-align:center;padding:10px 16px;">✅</td><td style="text-align:center;padding:10px 16px;">✅</td><td style="padding:10px 16px;color:#57606a;">Integrated port of original DOS command</td></tr>
+          <tr style="border-bottom:1px solid #eaecef;"><td style="padding:10px 16px;color:#cf222e;"><code>timeout</code></td><td style="text-align:center;padding:10px 16px;">🛑</td><td style="text-align:center;padding:10px 16px;">🛑</td><td style="padding:10px 16px;color:#57606a;">Relies on kill's functionality</td></tr>
+          <tr style="border-bottom:1px solid #eaecef;background:#f6f8fa;"><td style="padding:10px 16px;color:#cf222e;"><code>whoami</code></td><td style="text-align:center;padding:10px 16px;">🛑</td><td style="text-align:center;padding:10px 16px;">🛑</td><td style="padding:10px 16px;color:#57606a;">Conflicts with built-in Windows command</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div style="display:flex;gap:18px;font-family:'IBM Plex Mono',monospace;font-size:0.75rem;color:#57606a;margin-bottom:28px;flex-wrap:wrap;">
+      <span>✅ ships and works</span>
+      <span>⚠️ ships but conflicts with a built-in</span>
+      <span>🛑 not shipped</span>
+    </div>
+
+    <div class="callout">
+      <strong>Intentionally dropped</strong>
+      <p>Several commands are absent by design — POSIX-only concepts like <code>chmod</code>, <code>chown</code>, <code>mkfifo</code>, <code>nohup</code>, <code>stty</code>, and others don't map to Windows. <code>kill</code> and <code>timeout</code> are missing because Windows lacks POSIX signals.</p>
+    </div>
+  </section>
+
+  <hr />
+
+  <section>
+    <p class="section-label">windows caveats</p>
+    <h2>Things that still trip you up</h2>
+    <p>Even where commands work, Windows has some deeply ingrained differences that the Coreutils port can't paper over:</p>
+
+    <div style="display:grid;gap:12px;margin:24px 0;">
+      <div style="background:#f4f6f8;border:1px solid #d0d7de;border-radius:6px;padding:16px 18px;display:flex;gap:14px;align-items:flex-start;">
+        <span style="color:#9a6700;font-family:'IBM Plex Mono',monospace;font-size:0.75rem;white-space:nowrap;padding-top:2px;">CRLF</span>
+        <span style="color:#57606a;font-size:0.88rem;">Windows text files often use <code style="color:#1a2332;">\r\n</code>. Pattern matching with <code style="color:#1a2332;">$</code> and exact byte counts can be affected.</span>
+      </div>
+      <div style="background:#f4f6f8;border:1px solid #d0d7de;border-radius:6px;padding:16px 18px;display:flex;gap:14px;align-items:flex-start;">
+        <span style="color:#9a6700;font-family:'IBM Plex Mono',monospace;font-size:0.75rem;white-space:nowrap;padding-top:2px;">/dev/null</span>
+        <span style="color:#57606a;font-size:0.88rem;">Doesn't exist. Use <code style="color:#1a2332;">NUL</code> instead — e.g. <code style="color:#1a2332;">find . -name "*.log" &gt; NUL</code></span>
+      </div>
+      <div style="background:#f4f6f8;border:1px solid #d0d7de;border-radius:6px;padding:16px 18px;display:flex;gap:14px;align-items:flex-start;">
+        <span style="color:#9a6700;font-family:'IBM Plex Mono',monospace;font-size:0.75rem;white-space:nowrap;padding-top:2px;">signals</span>
+        <span style="color:#57606a;font-size:0.88rem;"><code style="color:#1a2332;">SIGHUP</code>, <code style="color:#1a2332;">SIGPIPE</code>, <code style="color:#1a2332;">SIGUSR</code> aren't available. Only <code style="color:#1a2332;">Ctrl+C</code> (SIGINT) works.</span>
+      </div>
+      <div style="background:#f4f6f8;border:1px solid #d0d7de;border-radius:6px;padding:16px 18px;display:flex;gap:14px;align-items:flex-start;">
+        <span style="color:#9a6700;font-family:'IBM Plex Mono',monospace;font-size:0.75rem;white-space:nowrap;padding-top:2px;">symlinks</span>
+        <span style="color:#57606a;font-size:0.88rem;">Reading symlinks works without elevation. Creating them requires Developer Mode or an elevated terminal.</span>
+      </div>
+      <div style="background:#f4f6f8;border:1px solid #d0d7de;border-radius:6px;padding:16px 18px;display:flex;gap:14px;align-items:flex-start;">
+        <span style="color:#9a6700;font-family:'IBM Plex Mono',monospace;font-size:0.75rem;white-space:nowrap;padding-top:2px;">permissions</span>
+        <span style="color:#57606a;font-size:0.88rem;">Windows uses ACLs, not POSIX permission bits. <code style="color:#1a2332;">find -perm</code> and similar predicates may behave differently or be unavailable.</span>
+      </div>
+    </div>
+  </section>
+
+  <hr />
+
+  <section>
+    <p class="section-label">implications</p>
+    <h2>A meaningful step — with eyes open</h2>
+    <p>For AI-assisted development workflows, this is still useful progress. Agents that assume a Unix environment can now execute many familiar commands on Windows without a translation layer — but they'll need to account for shell conflicts in PowerShell, missing POSIX-only tools, and Windows-specific edge cases around signals, paths, and line endings.</p>
+    <p>Think of it as closing most of the gap, not all of it. For CMD-based workflows especially, the compatibility story is quite solid. PowerShell users will need to be more deliberate about PATH order and alias precedence when using commands that overlap with built-ins.</p>
+
+    <div class="callout">
+      <strong>For AI agents specifically</strong>
+      <p>Commands like <code>ls</code>, <code>grep</code>, <code>find</code>, <code>cat</code>, <code>mv</code>, <code>rm</code>, and <code>sort</code> now work natively in CMD. In PowerShell, watch for built-in conflicts — invoke with full path or use CMD for scripts where precision matters.</p>
+    </div>
+
+    <p>This is the kind of infrastructure work that compounds over time. The rough edges are real, but the direction is right — and with Microsoft maintaining this actively, the coverage will only grow.</p>
+  </section>
+
+</div>
+
+<footer>
+  windows · coreutils · 2026 — developer notes
+</footer>
+
+</body>
+</html>
