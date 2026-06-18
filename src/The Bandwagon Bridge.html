@@ -159,6 +159,17 @@ document.addEventListener('DOMContentLoaded', async function() {
     if (window.Babel && typeof window.Babel.transformScriptTags === 'function') {
       window.Babel.transformScriptTags();
     }
+    // Inject home nav after document is fully swapped and scripts re-run
+    setTimeout(function() {
+      if (document.querySelector('.home-nav')) return;
+      var style = document.createElement('style');
+      style.textContent = '.home-nav{position:fixed;top:0;left:0;right:0;z-index:9000;background:#fff;border-bottom:1px solid #e0ddd6;padding:0 24px;height:44px;display:flex;align-items:center;}.home-btn{display:inline-flex;align-items:center;gap:6px;font-family:-apple-system,BlinkMacSystemFont,sans-serif;font-size:0.72rem;letter-spacing:0.08em;color:#2563eb;text-decoration:none;padding:4px 10px 4px 6px;border-radius:4px;transition:background 0.15s,color 0.15s;}.home-btn:hover{background:#eff6ff;color:#1d4ed8;}';
+      document.head.appendChild(style);
+      var nav = document.createElement('nav');
+      nav.className = 'home-nav';
+      nav.innerHTML = '<a class="home-btn" href="../index.html"><svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24"><path d="M3 9.5L12 3l9 6.5V20a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V9.5z"/><polyline points="9 21 9 12 15 12 15 21"/></svg>Home</a>';
+      document.body.insertBefore(nav, document.body.firstChild);
+    }, 0);
   } catch (err) {
     setStatus('Error unpacking: ' + err.message);
     console.error('Bundle unpack error:', err);
