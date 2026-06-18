@@ -5,9 +5,9 @@
 <meta name="viewport" content="width=device-width,initial-scale=1"/>
 <title>Badari · Writer & Engineer</title>
 <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Barlow:wght@300;400;500;600&family=Barlow+Condensed:wght@400;600;700&display=swap" rel="stylesheet"/>
-<script src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
-<script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
-<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+<script src="https://unpkg.com/react@18.3.1/umd/react.production.min.js"></script>
+<script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.production.min.js"></script>
+<script src="https://unpkg.com/@babel/standalone@7.27.0/babel.min.js"></script>
 <style>
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
 :root{
@@ -67,7 +67,7 @@ const CONFIG = {
   linkedinUrl:  "https://www.linkedin.com/in/badarinarayan-joshi-0151307/recent-activity/all/",
   localArticles: [
     { platform:"Site", url:"src/windows-coreutils.html", title:"Unix on Windows — Coreutils Finally Arrives", excerpt:"Coreutils lands in Windows 2026 — closing the gap that made cross-platform development painful for a generation of terminal-first engineers.", image:"🖥️", date:"2026-06-09" },
-    { platform:"Site", url:"src/The Bandwagon Bridge.html", title:"UThe Bandwagon Bridge", excerpt:"The Bandwagon Bridge — Modern tools like Instagram, Facebook, Youtube promote herd mentality .", image:"", date:"2026-06-18" },
+    { platform:"Site", url:"src/The%20Bandwagon%20Bridge.html", title:"The Bandwagon Bridge", excerpt:"The Bandwagon Bridge — Modern tools like Instagram, Facebook, Youtube promote herd mentality.", image:"🌉", date:"2026-06-18" },
   ],
   manualArticles: [
     { platform:"LinkedIn", url:"https://www.linkedin.com/posts/badarinarayan-joshi-0151307_memory-os-addresses-the-limitation-that-built-in-share-7467420343914246146-IlXQ/", title:"Memory OS — Addresses the Limitation That Built-in Memory Has", excerpt:"Memory OS tackles the fundamental constraint that conventional built-in memory imposes on modern systems.", image:"💾", date:"2026-06-02" },
@@ -96,7 +96,7 @@ const CONFIG = {
 
 function stripHtml(h){const d=document.createElement('div');d.innerHTML=h;return d.textContent||'';}
 function truncate(s,n){if(!s)return'';s=s.trim();return s.length>n?s.slice(0,n)+'…':s;}
-function fmtDate(s){if(!s)return'';try{const d=new Date(s);if(isNaN(d))return'';return d.toLocaleDateString('en-IN',{day:'numeric',month:'short',year:'numeric'});}catch{return'';}}
+function fmtDate(s){if(!s)return'';try{const d=new Date(s);if(isNaN(d))return'';return d.toLocaleDateString('en-IN',{day:'numeric',month:'short',year:'numeric'});}catch(e){return '';}}
 
 async function fetchRSS(url,count=10){
   const r2j=`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(url)}&count=${count}`;
