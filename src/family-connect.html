@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Family Connect — SSIR's Day With Our Families</title>
+<link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Barlow:wght@300;400;500;600&family=Barlow+Condensed:wght@400;600;700&display=swap" rel="stylesheet"/>
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --ink:#0f0d09;--paper:#f8f5ef;--cream:#ede9df;
+  --amber:#c47a0f;--amber-light:#fdf0d5;
+  --muted:#7a7060;--border:#ddd8cc;
+  --card:#ffffff;--dark:#1a160e;
+}
+html{scroll-behavior:smooth}
+body{font-family:'Barlow',sans-serif;background:var(--paper);color:var(--ink);line-height:1.7;overflow-x:hidden}
+::-webkit-scrollbar{width:3px}
+::-webkit-scrollbar-thumb{background:var(--amber);border-radius:2px}
+
+/* ── Top bar ── */
+.topbar{background:var(--dark);border-bottom:2px solid var(--amber);display:flex;align-items:center;justify-content:space-between;padding:0 1.5rem;height:52px;position:sticky;top:0;z-index:100}
+.topbar-brand{font-family:'Libre Baskerville',serif;font-size:0.95rem;letter-spacing:0.08em;color:var(--paper);text-transform:uppercase}
+.topbar-brand em{font-style:italic;color:var(--amber)}
+.home-btn{display:flex;align-items:center;gap:0.4rem;font-family:'Barlow Condensed',sans-serif;font-weight:600;font-size:0.7rem;letter-spacing:0.12em;text-transform:uppercase;color:rgba(248,245,239,0.6);text-decoration:none;border:1px solid rgba(248,245,239,0.2);padding:0.3rem 0.75rem;border-radius:2px;transition:color 0.2s,border-color 0.2s}
+.home-btn:hover{color:var(--amber);border-color:var(--amber)}
+.home-btn svg{flex-shrink:0}
+
+/* ── Hero ── */
+.hero{background:var(--dark);color:var(--paper);padding:4rem 1.5rem 3.5rem;position:relative;overflow:hidden}
+.hero::before{content:'';position:absolute;top:0;right:0;width:50%;height:100%;opacity:0.04;background-image:repeating-linear-gradient(0deg,var(--paper) 0,var(--paper) 1px,transparent 1px,transparent 40px);pointer-events:none}
+.hero-inner{max-width:720px;margin:0 auto;position:relative}
+.eyebrow{display:flex;align-items:center;gap:0.75rem;margin-bottom:1.25rem}
+.eyebrow-line{width:28px;height:2px;background:var(--amber);flex-shrink:0}
+.eyebrow-text{font-family:'Barlow Condensed',sans-serif;font-weight:600;font-size:0.62rem;letter-spacing:0.25em;text-transform:uppercase;color:var(--amber)}
+.hero h1{font-family:'Libre Baskerville',serif;font-size:clamp(2rem,5vw,3rem);line-height:1.1;letter-spacing:-0.02em;margin-bottom:1rem}
+.hero h1 em{font-style:italic;color:var(--amber)}
+.hero-sub{font-size:1rem;line-height:1.75;color:rgba(248,245,239,0.6);max-width:52ch}
+
+/* ── Article ── */
+.article-wrap{max-width:720px;margin:0 auto;padding:3rem 1.5rem 4rem}
+.article-body p{font-size:1.05rem;line-height:1.85;color:var(--ink);margin-bottom:1.5rem}
+.article-body p:last-child{margin-bottom:0}
+
+/* ── Album ── */
+.gallery-section{margin-top:3rem;padding-top:2.5rem;border-top:1px solid var(--border)}
+.gallery-label{display:flex;align-items:center;gap:0.6rem;margin-bottom:1.5rem}
+.gallery-label-line{width:20px;height:2px;background:var(--amber)}
+.gallery-label-text{font-family:'Libre Baskerville',serif;font-size:1.1rem;color:var(--ink)}
+.album{background:var(--cream);border:1px solid var(--border);border-radius:3px;padding:1rem;display:grid;grid-template-columns:1fr 1fr;grid-template-rows:1fr 1fr;gap:0.75rem;aspect-ratio:1/1;box-shadow:inset 0 1px 3px rgba(15,13,9,0.05)}
+.photo-wrap{position:relative;background:#fff;padding:6px;box-shadow:0 2px 10px rgba(15,13,9,0.18);min-height:0;display:flex;align-items:center;justify-content:center}
+.photo-wrap img{width:100%;height:100%;object-fit:contain;display:block;user-select:none;-webkit-user-select:none}
+.photo-wrap::after{content:'';position:absolute;inset:0;z-index:1}
+
+/* ── Footer ── */
+.footer{background:var(--dark);border-top:2px solid var(--amber);padding:2.5rem 1.5rem 2rem;text-align:center}
+.footer-name{font-family:'Libre Baskerville',serif;font-size:1.3rem;color:var(--paper);margin-bottom:0.3rem}
+.footer-tag{font-size:0.65rem;color:rgba(248,245,239,0.35);letter-spacing:0.18em;text-transform:uppercase}
+
+@media(max-width:600px){
+  .album{padding:0.625rem;gap:0.5rem}
+  .hero{padding:3rem 1.25rem 2.5rem}
+  .article-wrap{padding:2rem 1.25rem 3rem}
+}
+</style>
+</head>
+<body>
+
+<!-- Top bar -->
+<header class="topbar">
+  <span class="topbar-brand">Badari <em>·</em> Writer</span>
+  <a href="../index.html" class="home-btn">
+    <svg width="14" height="14" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24"><polyline points="15 18 9 12 15 6"/></svg>
+    Home
+  </a>
+</header>
+
+<!-- Hero -->
+<section class="hero">
+  <div class="hero-inner">
+    <div class="eyebrow">
+      <div class="eyebrow-line"></div>
+      <span class="eyebrow-text">Personal &nbsp;·&nbsp; 20 Jun 2026</span>
+    </div>
+    <h1>Family <em>Connect</em></h1>
+    <p class="hero-sub">SSIR brought our two worlds together for a day — and it turned out to be more meaningful than any of us expected.</p>
+  </div>
+</section>
+
+<!-- Article body -->
+<main class="article-wrap">
+  <div class="article-body">
+    <p>SSIR's "Family Connect" event gave family members a chance to visit and experience our workplace firsthand.</p>
+
+    <p>To be honest, the thought of coming to the office on a weekend wasn't very appealing — especially with the long commute, traffic, and forecasts of heavy rain. But once we got there, it turned out to be a truly heartwarming experience.</p>
+
+    <p>It was wonderful to see family members taking pride in the place where we spend a significant part of our lives — often more waking hours than we spend with them. Seeing our work environment through their eyes was a special feeling.</p>
+
+    <p>The event had several engaging activities for children, including face painting and origami workshops, which brought plenty of smiles. My son was especially thrilled to win a Samsung cap in the lucky spin-the-wheel game.</p>
+
+    <p>One of the most enjoyable parts of the day was seeing colleagues in a completely different light — away from meetings, deadlines, and work discussions, and instead as parents, spouses, and family members. 😊</p>
+
+    <p>Overall, it was a thoughtfully organized and memorable event. Kudos to SSIR for creating an opportunity that helped bridge our professional and personal worlds. 👏</p>
+  </div>
+
+  <!-- Photo gallery -->
+  <div class="gallery-section">
+    <div class="gallery-label">
+      <div class="gallery-label-line"></div>
+      <span class="gallery-label-text">From the Day</span>
+    </div>
+    <div class="album">
+      <div class="photo-wrap"><img src="../pics/familyconnect/20260620_185117.jpg" alt="Family Connect" draggable="false"/></div>
+      <div class="photo-wrap"><img src="../pics/familyconnect/20260620_185134.jpg" alt="Family Connect" draggable="false"/></div>
+      <div class="photo-wrap"><img src="../pics/familyconnect/20260620_185140.jpg" alt="Family Connect" draggable="false"/></div>
+      <div class="photo-wrap"><img src="../pics/familyconnect/IMG-20260620-WA0015(1).jpg" alt="Family Connect" draggable="false"/></div>
+    </div>
+  </div>
+</main>
+
+<!-- Footer -->
+<footer class="footer">
+  <p class="footer-name">Badarinarayan Joshi</p>
+  <p class="footer-tag">Engineer · Writer · Builder</p>
+</footer>
+
+<script>
+document.addEventListener('contextmenu',function(e){e.preventDefault();});
+</script>
+</body>
+</html>
