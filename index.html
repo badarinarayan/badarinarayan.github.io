@@ -488,9 +488,24 @@ function Footer() {
 }
 
 // ── App ────────────────────────────────────────────────────────────────
+const SECTIONS=['home','writings','sampada','videos'];
+const sectionFromHash=()=>{ const h=window.location.hash.replace('#',''); return SECTIONS.includes(h)?h:'home'; };
+
 function App() {
-  const [section,setSection]=useState('home');
+  const [section,_setSection]=useState(sectionFromHash);
   const [ticker,setTicker]=useState([]);
+  // Update the URL hash whenever we change section, so the link is shareable
+  const setSection=s=>{
+    _setSection(s);
+    if(s==='home') history.replaceState(null,'',window.location.pathname+window.location.search);
+    else if(window.location.hash!=='#'+s) window.location.hash=s;
+  };
+  // React to back/forward navigation and directly-pasted #sampada links
+  useEffect(()=>{
+    const onHash=()=>_setSection(sectionFromHash());
+    window.addEventListener('hashchange',onHash);
+    return ()=>window.removeEventListener('hashchange',onHash);
+  },[]);
   useEffect(()=>{
     fetchRSS(`https://medium.com/feed/@badarinarayan`,5).then(({items})=>setTicker(items.map(i=>({title:i.title,url:i.link})))).catch(()=>{});
   },[]);
