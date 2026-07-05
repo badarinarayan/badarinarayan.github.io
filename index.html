@@ -91,6 +91,12 @@ const CONFIG = {
     { categories:["7th Grade CBSE","Mathematics","Ganita Prakash"], id:"Rt0lmwpziKA", title:"7th Grade CBSE — Chapter 1", date:"2026-06-14" },
     { categories:["7th Grade CBSE","Mathematics","Ganita Prakash"], id:"2oQQS0R3Ai0", title:"7th Grade CBSE — Chapter 2", date:"2026-06-14" },
   ],
+  sampadaArticles: [
+    { platform:"Sampada", url:"https://sampada.net/s/e8Q", title:"ಬಾಲ್ಯದ ನೆನಪು!", excerpt:"Childhood memories — staying at relatives' homes, moonlit dinners, power-cut evenings and playing outdoors with friends.", image:"🌙" },
+    { platform:"Sampada", url:"https://sampada.net/s/e9g", title:"ಆನ್‌ಲೈನ್ ಬದುಕು ಮತ್ತು AI", excerpt:"Online life and AI — how artificial intelligence has quietly entered everyday conversations and homes.", image:"🤖" },
+    { platform:"Sampada", url:"https://sampada.net/s/e8B", title:"Someಬಂಧ", excerpt:"A reflection on bonds and relationships — the sentiment of raising a daughter and letting go.", image:"👧" },
+    { platform:"Sampada", url:"https://sampada.net/s/e9i", title:"ಹೀಗೊಂದು ವಿಶೇಷ ದಿನ", excerpt:"A special day — a quiet morning, a humming tune, and the doorbell that changes everything.", image:"💫" },
+  ],
 
 };
 
@@ -176,23 +182,32 @@ function Hero({setSection}) {
             <button onClick={()=>setSection('videos')} style={{padding:'0.6rem 1.5rem',borderRadius:2,cursor:'pointer',fontSize:'0.72rem',letterSpacing:'0.12em',textTransform:'uppercase',fontFamily:"'Barlow Condensed',sans-serif",fontWeight:700,background:'transparent',color:'var(--paper)',border:'1px solid rgba(248,245,239,0.3)'}}>My Videos</button>
           </div>
         </div>
-        <div className="fade-up-2 hero-platforms-grid" style={{display:'grid',gridTemplateColumns:'1fr',gap:'1px',background:'rgba(248,245,239,0.08)',border:'1px solid rgba(248,245,239,0.08)'}}>
+        <div className="fade-up-2 hero-platforms-grid" style={{display:'grid',gridTemplateColumns:'1fr 1fr',gap:'1px',background:'rgba(248,245,239,0.08)',border:'1px solid rgba(248,245,239,0.08)'}}>
           {[
-            {name:'Medium',   icon:'✍️', desc:'Technical deep-dives & essays', url:'https://badarinarayan.medium.com', badge:'Live'},
-            {name:'LinkedIn', icon:'💼', desc:'Posts & articles',               url:CONFIG.linkedinUrl,                badge:'Manual'},
-          ].map(p=>(
-            <a key={p.name} href={p.url} target="_blank" rel="noopener"
-              style={{padding:'1rem 1.5rem',textDecoration:'none',color:'var(--paper)',display:'flex',alignItems:'center',gap:'1rem',borderBottom:'1px solid rgba(248,245,239,0.06)',transition:'background 0.2s'}}
-              onMouseEnter={e=>e.currentTarget.style.background='rgba(196,122,15,0.1)'}
-              onMouseLeave={e=>e.currentTarget.style.background='transparent'}>
-              <div style={{fontSize:'1.4rem',flexShrink:0}}>{p.icon}</div>
-              <div style={{flex:1}}>
-                <div style={{fontFamily:"'Barlow Condensed',sans-serif",fontWeight:600,fontSize:'0.9rem',marginBottom:'0.1rem'}}>{p.name}</div>
+            {name:'Medium',    icon:'✍️', desc:'Technical deep-dives & essays', url:'https://badarinarayan.medium.com', badge:'Live'},
+            {name:'LinkedIn',  icon:'💼', desc:'Posts & articles',               url:CONFIG.linkedinUrl,                badge:'Manual'},
+            {name:'Sampada',   icon:'🖋️', desc:'Kannada writings · ಸಂಪದ',        section:'sampada',                     badge:'Kannada'},
+            {name:'This Site', icon:'🏛️', desc:'Articles published here',        section:'writings',                    badge:'Live'},
+          ].map(p=>{
+            const bcol = p.badge==='Live' ? {bg:'rgba(45,122,45,0.3)',fg:'#7dc97d',bd:'rgba(45,122,45,0.4)'}
+                       : p.badge==='Kannada' ? {bg:'rgba(123,63,160,0.3)',fg:'#c79bde',bd:'rgba(123,63,160,0.4)'}
+                       : {bg:'rgba(196,122,15,0.3)',fg:'var(--amber)',bd:'rgba(196,122,15,0.4)'};
+            const inner = (
+              <>
+                <div style={{display:'flex',alignItems:'center',justifyContent:'space-between',marginBottom:'0.75rem'}}>
+                  <div style={{fontSize:'1.6rem'}}>{p.icon}</div>
+                  <div style={{display:'inline-block',fontSize:'0.52rem',letterSpacing:'0.15em',textTransform:'uppercase',padding:'2px 6px',borderRadius:20,background:bcol.bg,color:bcol.fg,border:`1px solid ${bcol.bd}`}}>{p.badge}</div>
+                </div>
+                <div style={{fontFamily:"'Barlow Condensed',sans-serif",fontWeight:600,fontSize:'0.95rem',marginBottom:'0.15rem'}}>{p.name}</div>
                 <div style={{fontSize:'0.68rem',color:'rgba(248,245,239,0.4)'}}>{p.desc}</div>
-              </div>
-              <div style={{display:'inline-block',fontSize:'0.52rem',letterSpacing:'0.15em',textTransform:'uppercase',padding:'2px 6px',borderRadius:20,background:p.badge==='Live'?'rgba(45,122,45,0.3)':'rgba(196,122,15,0.3)',color:p.badge==='Live'?'#7dc97d':'var(--amber)',border:`1px solid ${p.badge==='Live'?'rgba(45,122,45,0.4)':'rgba(196,122,15,0.4)'}`}}>{p.badge}</div>
-            </a>
-          ))}
+              </>
+            );
+            const tileStyle={padding:'1.25rem 1.35rem',textDecoration:'none',textAlign:'left',color:'var(--paper)',display:'flex',flexDirection:'column',justifyContent:'flex-start',minHeight:130,cursor:'pointer',background:'transparent',border:'none',fontFamily:'inherit',transition:'background 0.2s'};
+            const hover={onMouseEnter:e=>e.currentTarget.style.background='rgba(196,122,15,0.1)',onMouseLeave:e=>e.currentTarget.style.background='transparent'};
+            return p.section
+              ? <button key={p.name} onClick={()=>setSection(p.section)} style={tileStyle} {...hover}>{inner}</button>
+              : <a key={p.name} href={p.url} target="_blank" rel="noopener" style={tileStyle} {...hover}>{inner}</a>;
+          })}
         </div>
       </div>
     </section>
@@ -226,9 +241,9 @@ function SkeletonCard() {
 
 function ArticleCard({article}) {
   const isEmoji = article.image && article.image.length<=4 && !article.image.startsWith('http');
-  const cols = {Medium:'#00ab6c',LinkedIn:'#0077b5',Site:'#c47a0f'};
+  const cols = {Medium:'#00ab6c',LinkedIn:'#0077b5',Site:'#c47a0f',Sampada:'#7b3fa0'};
   const col = cols[article.platform]||'var(--amber)';
-  const cta = article.platform==='LinkedIn' ? 'View Post →' : article.platform==='Site' ? 'Read Article →' : 'Read →';
+  const cta = article.platform==='LinkedIn' ? 'View Post →' : article.platform==='Site' ? 'Read Article →' : article.platform==='Sampada' ? 'Read on Sampada →' : 'Read →';
   const isExternal = article.url.startsWith('http');
   const [hov,setHov] = useState(false);
   return (
@@ -266,14 +281,14 @@ function WritingsSection() {
       setMs('ok');
     }).catch(()=>setMs('error'));
   },[]);
-  const all=[...medium,...CONFIG.manualArticles,...CONFIG.localArticles];
-  const shown=tab==='all'?all:tab==='medium'?medium:tab==='site'?CONFIG.localArticles:CONFIG.manualArticles.filter(a=>a.platform==='LinkedIn');
+  const all=[...medium,...CONFIG.manualArticles,...CONFIG.localArticles,...(CONFIG.sampadaArticles||[])];
+  const shown=tab==='all'?all:tab==='medium'?medium:tab==='site'?CONFIG.localArticles:tab==='sampada'?(CONFIG.sampadaArticles||[]):CONFIG.manualArticles.filter(a=>a.platform==='LinkedIn');
   const loading=tab==='all'&&ms==='loading'||tab==='medium'&&ms==='loading';
   return (
     <div className="section-pad" style={{maxWidth:1100,margin:'0 auto',padding:'2.5rem 2rem'}}>
       <SectionHeader label="My Writings" sub="Articles & posts from Medium and LinkedIn"/>
       <div style={{display:'flex',gap:'0.4rem',marginBottom:'1.75rem',flexWrap:'wrap'}}>
-        {[['all','All'],['medium','Medium'],['linkedin','LinkedIn'],['site','This Site']].map(([id,label])=>(
+        {[['all','All'],['medium','Medium'],['linkedin','LinkedIn'],['sampada','Sampada'],['site','This Site']].map(([id,label])=>(
           <button key={id} onClick={()=>setTab(id)} style={{padding:'0.35rem 0.9rem',border:'1px solid',borderRadius:20,fontSize:'0.67rem',letterSpacing:'0.1em',textTransform:'uppercase',cursor:'pointer',fontFamily:"'Barlow Condensed',sans-serif",fontWeight:600,transition:'all 0.15s',background:tab===id?'var(--ink)':'transparent',borderColor:tab===id?'var(--ink)':'var(--border)',color:tab===id?'var(--paper)':'var(--muted)'}}>
             {label}
           </button>
@@ -288,6 +303,20 @@ function WritingsSection() {
         {loading&&[...Array(6)].map((_,i)=><SkeletonCard key={i}/>)}
         {!loading&&shown.map((a,i)=><ArticleCard key={i} article={a}/>)}
         {!loading&&!shown.length&&<div style={{gridColumn:'1/-1',textAlign:'center',padding:'2.5rem',color:'var(--muted)',fontSize:'0.85rem'}}>No articles here yet.</div>}
+      </div>
+    </div>
+  );
+}
+
+// ── Sampada ────────────────────────────────────────────────────────────
+function SampadaSection() {
+  const articles=CONFIG.sampadaArticles||[];
+  return (
+    <div className="section-pad" style={{maxWidth:1100,margin:'0 auto',padding:'2.5rem 2rem'}}>
+      <SectionHeader label="Sampada" sub="Kannada writings published on ಸಂಪದ (sampada.net)"/>
+      <div className="card-grid-auto" style={{display:'grid',gridTemplateColumns:'repeat(auto-fill,minmax(270px,1fr))',gap:'1.25rem'}}>
+        {articles.map((a,i)=><ArticleCard key={i} article={a}/>)}
+        {!articles.length&&<div style={{gridColumn:'1/-1',textAlign:'center',padding:'2.5rem',color:'var(--muted)',fontSize:'0.85rem'}}>No articles here yet.</div>}
       </div>
     </div>
   );
@@ -420,6 +449,11 @@ function HomePreview({setSection}) {
           {CONFIG.manualArticles.filter(a=>a.platform==='LinkedIn').slice(0,3).map((a,i)=><ArticleCard key={i} article={a}/>)}
         </div>
       </PreviewRow>
+      <PreviewRow title="Sampada · ಸಂಪದ" action={()=>setSection('sampada')}>
+        <div className="card-grid-auto" style={{display:'grid',gridTemplateColumns:'repeat(auto-fill,minmax(280px,1fr))',gap:'1.1rem'}}>
+          {(CONFIG.sampadaArticles||[]).slice(0,3).map((a,i)=><ArticleCard key={i} article={a}/>)}
+        </div>
+      </PreviewRow>
       <PreviewRow title="From This Site" action={()=>setSection('writings')}>
         {CONFIG.localArticles.length>0
           ? <div className="card-grid-auto" style={{display:'grid',gridTemplateColumns:'repeat(auto-fill,minmax(280px,1fr))',gap:'1.1rem'}}>
@@ -467,6 +501,7 @@ function App() {
       <TopBar activeSection={section} setSection={setSection} tickerItems={ticker}/>
       {section==='home'&&<><Hero setSection={setSection}/><HomePreview setSection={setSection}/></>}
       {section==='writings'&&<WritingsSection/>}
+      {section==='sampada'&&<SampadaSection/>}
       {section==='videos'&&<VideosSection/>}
       <Footer/>
     </div>
