@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-13T20:07:05Z",
+  "generated": "2026-07-13T21:47:33Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,12 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "US stocks today: US stocks end lower as Iran tensions dampen risk appetite; chipmakers drop",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-lower-as-iran-tensions-dampen-risk-appetite-chipmakers-drop/articleshow/132376176.cms",
+          "date": "14 Jul 2026",
+          "summary": "Tech stocks dragged Wall Street lower as escalating US Iran tensions and a renewed blockade lifted oil prices and dented risk appetite. Nasdaq led losses amid chip stock weakness, while energy shares supported the Dow. Investors now await Fed Chair Warsh testi…"
+        },
         {
           "title": "SK Hynix US-listed shares slip nearly 8% as Nasdaq debut euphoria cools",
           "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/sk-hynix-us-listed-shares-slip-nearly-8-as-nasdaq-debut-euphoria-cools/articleshow/132369738.cms",
@@ -36,12 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/nse-launches-nifty500-ahimsa-index-to-track-companies-aligned-with-nonviolence-principles/articleshow/132358974.cms",
           "date": "13 Jul 2026",
           "summary": "NSE Indices Limited has launched the Nifty500 Ahimsa Index for investors. This new thematic index tracks companies aligned with nonviolence principles. Companies are classified using the Ahimsagain Foundation's AIM framework. Only businesses in the Green categ…"
-        },
-        {
-          "title": "Swiggy shares slide over 2% after FSSAI issues 9 notices over consumer complaints",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-shares-slide-over-2-after-fssai-issues-9-notices-over-consumer-complaints/articleshow/132360998.cms",
-          "date": "13 Jul 2026",
-          "summary": "Swiggy shares fell over 2% on Monday, extending losses for a second session after the Food Safety and Standards Authority of India (FSSAI) issued nine notices to Swiggy Instamart over consumer complaints alleging food safety violations. The regulator has sough…"
         },
         {
           "title": "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
@@ -196,16 +196,16 @@
       "ok": true,
       "items": [
         {
-          "title": "US to resume naval blockade of Iranian ports, warns vessels of interception",
-          "link": "https://timesofindia.indiatimes.com/world/us/middle-east-crisis-us-to-resume-naval-blockade-of-iranian-ports-warns-vessels-of-interception/articleshow/132375892.cms",
+          "title": "India launches UNSC campaign for 2028-29 term, Jaishankar unveils ‘SHANTI’ vision",
+          "link": "https://timesofindia.indiatimes.com/india/india-launches-unsc-campaign-for-2028-29-term-jaishankar-unveils-shanti-vision/articleshow/132376275.cms",
           "date": "14 Jul 2026",
-          "summary": "The United States will restart enforcing a maritime blockade on Iran from Tuesday. This action targets all vessels entering or leaving Iranian ports and coastal areas. American forces will enforce the blockade against vessels transiting to or from Iranian port…"
+          "summary": "India officially launched its campaign for a United Nations Security Council seat. External affairs minister S Jaishankar highlighted the country's peacekeeping and development partnerships. India presented its SHANTI vision for global governance and cooperati…"
         },
         {
-          "title": "Beyond the 70% headline: H-1B workers becoming more educated, better paid",
-          "link": "https://timesofindia.indiatimes.com/nri/us-canada-news/beyond-the-70-headline-uscis-report-shows-h-1b-workers-are-becoming-more-educated-better-paid-and-increasingly-concentrated-in-tech/articleshow/132365629.cms",
-          "date": "13 Jul 2026",
-          "summary": ""
+          "title": "'Comprehensive sex education' coming soon to schools, govt tells Supreme Court",
+          "link": "https://timesofindia.indiatimes.com/india/comprehensive-sex-education-coming-soon-to-schools-government-tells-supreme-court/articleshow/132376299.cms",
+          "date": "14 Jul 2026",
+          "summary": "India will formally introduce comprehensive sex education in schools and colleges nationwide. The government has accepted a committee's report recommending this significant curriculum change. This move aims to address concerns regarding adolescent pregnancies…"
         },
         {
           "title": "'No French players in France ': Ex-Spain PM's remark sparks racism row",
@@ -214,10 +214,70 @@
           "summary": "Former Spanish Prime Minister Mariano Rajoy sparked outrage after saying France's football team had \"no French players\" ahead of the World Cup semi-final. Leaders in Spain and France condemned the remarks as xenophobic and racist. France defended the diversity…"
         },
         {
-          "title": "Omar's Trump remarks anger BJP, party says it’s attempt to ‘internationalise Kashmir’",
-          "link": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-cm-omar-abdullahs-trump-remarks-anger-bjp-party-says-its-attempt-to-internationalise-kashmir/articleshow/132375340.cms",
+          "title": "US to resume naval blockade of Iranian ports, warns vessels of interception",
+          "link": "https://timesofindia.indiatimes.com/world/us/middle-east-crisis-us-to-resume-naval-blockade-of-iranian-ports-warns-vessels-of-interception/articleshow/132375892.cms",
           "date": "14 Jul 2026",
-          "summary": "BJP criticized Omar Abdullah for invoking Donald Trump regarding Jammu and Kashmir statehood. Abdullah sarcastically suggested approaching Trump for statehood after BJP remarks. He also responded to a false tweet attributed to President Trump. BJP stated Jammu…"
+          "summary": "The United States will restart enforcing a maritime blockade on Iran from Tuesday. This action targets all vessels entering or leaving Iranian ports and coastal areas. American forces will enforce the blockade against vessels transiting to or from Iranian port…"
+        },
+        {
+          "title": "How Apple may have ensured that it is end of OpenAI's 'smartphone dream'",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/while-sam-altman-has-declared-that-he-is-not-afraid-of-apple-iphone-maker-has-ensured-that-it-is-end-of-openais-smartphone-dream-by-/articleshow/132370513.cms",
+          "date": "13 Jul 2026",
+          "summary": "Apple's lawsuit against OpenAI is significantly hindering its secretive hardware project. The litigation threatens OpenAI's engineering pipeline and its ability to recruit talent. OpenAI had aimed to launch its first consumer hardware product later this year.…"
+        },
+        {
+          "title": "Supreme Court quashes Guwahati high court order on 27 'foreigners'",
+          "link": "https://timesofindia.indiatimes.com/india/supreme-court-quashes-gauhati-high-court-order-on-27-foreigners/articleshow/132376257.cms",
+          "date": "14 Jul 2026",
+          "summary": "The Supreme Court stressed fair procedures for declaring individuals foreign nationals. It found fault with tribunals and the Guwahati High Court's actions. Many orders were quashed as they lacked hearings for affected people. The court directed tribunals to p…"
+        },
+        {
+          "title": "How Israel's Mossad tried to recruit Iran's former president Ahmadinejad",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/how-israels-mossad-tried-to-recruit-irans-former-president-ahmadinejad-what-happened-next/articleshow/132367919.cms",
+          "date": "13 Jul 2026",
+          "summary": "Israel's Mossad reportedly sought to recruit Mahmoud Ahmadinejad for regime change. Secret meetings and financial aid were allegedly provided to the former Iranian president. An attempted extraction from Tehran failed after Ahmadinejad grew dissatisfied with t…"
+        },
+        {
+          "title": "Jammu and Kashmir: BJP slaps Rs 100 crore notice on Omar over MLA poaching charge",
+          "link": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-bjp-slaps-rs-100-crore-notice-on-omar-over-mla-poaching-charge/articleshow/132376191.cms",
+          "date": "14 Jul 2026",
+          "summary": "The BJP has issued a Rs 100-crore defamation notice to Jammu and Kashmir Chief Minister Omar Abdullah. This action follows Abdullah's allegations that a BJP functionary attempted to poach his party MLA. The notice demands an unconditional public apology from A…"
+        },
+        {
+          "title": "Jeff Bezos' ex-wife MacKenzie Scott donates to US youth mental health non-profit",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-ex-wife-mackenzie-scott-who-sold-half-of-her-amazon-stake-makes-latest-donation-to-a-us-non-profit-mobilising-youth-and-young-adults-to-change-culture-around-/articleshow/132342327.cms",
+          "date": "12 Jul 2026",
+          "summary": "MacKenzie Scott has donated twenty million dollars to Active Minds. This significant contribution is the largest in the nonprofit's history. Active Minds focuses on youth mental health awareness and reducing stigma. The unrestricted funds will expand programs…"
+        },
+        {
+          "title": "‘Democratic decentralisation’: Govt announces hill councils for all 7 Ladakh districts",
+          "link": "https://timesofindia.indiatimes.com/india/democratic-decentralisation-government-announces-hill-councils-for-all-7-ladakh-districts/articleshow/132376173.cms",
+          "date": "14 Jul 2026",
+          "summary": "Ladakh will establish hill development councils in all seven districts to strengthen grassroots governance. This move aims to decentralize power and improve administrative reach across the vast territory. Currently, only Leh and Kargil districts have these aut…"
+        },
+        {
+          "title": "Baldwins pull Hamptons home after cutting price from $29m to $18.99m",
+          "link": "https://timesofindia.indiatimes.com/real-estate/alec-and-hilaria-baldwin-first-listed-their-hamptons-home-for-29-million-cut-it-to-18-99-million-and-have-now-pulled-it-from-the-market-again-after-years-of-trying-to-sell/articleshow/132345904.cms",
+          "date": "12 Jul 2026",
+          "summary": "Alec and Hilaria Baldwin have again removed their Hamptons home from the market. The property was recently relisted at a reduced price of $18.99 million. This marks several attempts over the past few years to sell the Amagansett residence. The family cited the…"
+        },
+        {
+          "title": "Japan repairs centuries-old temples without modern nails - here’s how",
+          "link": "https://timesofindia.indiatimes.com/science/japan-does-not-use-modern-nails-to-repair-centuries-old-temples-instead-master-craftsmen-rely-on-an-ancient-woodworking-technique/articleshow/132341756.cms",
+          "date": "12 Jul 2026",
+          "summary": "Centuries-old Japanese temples are still repaired using an ancient woodworking technique. This method, called kigumi, involves precisely carved wooden joints that fit together without metal fasteners. The technique allows structures to withstand earthquakes an…"
+        },
+        {
+          "title": "$800K price cut makes Kyle Sandilands’ estate one of NSW’s most viewed",
+          "link": "https://timesofindia.indiatimes.com/real-estate/kyle-sandilands-glenorie-weekend-estate-gets-800k-price-cut-becomes-one-of-nsws-most-viewed-property-listings/articleshow/132372326.cms",
+          "date": "13 Jul 2026",
+          "summary": "Kyle Sandilands' former weekend getaway is drawing significant attention in the property market. The broadcaster's Glenorie estate has become one of New South Wales' most-viewed property listings after receiving an $800,000 price cut. The semi-rural Hills Dist…"
+        },
+        {
+          "title": "Rapper TI announces retirement after releasing his 12th album, Kill the King",
+          "link": "https://timesofindia.indiatimes.com/entertainment/english/music/news/ive-got-everything-i-prayed-for-rapper-ti-announces-retirement-from-music-after-12th-album-kill-the-king/articleshow/132334901.cms",
+          "date": "11 Jul 2026",
+          "summary": "Rapper TI has officially announced his retirement from the music scene following the release of his twelfth album, 'Kill the King.' Embracing a lifestyle that leans towards family time, he feels it's time to step back. TI expressed heartfelt gratitude to his f…"
         },
         {
           "title": "SAD leader shot in Mansa: Sukhbir aide Dalvir Kala injured in attack; hospitalised",
@@ -230,60 +290,6 @@
           "link": "https://timesofindia.indiatimes.com/india/bodies-of-15-indians-killed-in-vietnam-boat-tragedy-arrive-in-mumbai/articleshow/132372468.cms",
           "date": "13 Jul 2026",
           "summary": "The bodies of fifteen Indian nationals killed in Vietnam's boat tragedy have arrived in Mumbai. Ten victims were from Tamil Nadu, three from Andhra Pradesh, and two from Kerala. One Indian national remains hospitalized in Phu Quoc after a medical procedure. Th…"
-        },
-        {
-          "title": "J&amp;K admin seals Martyrs’ Graveyard; Omar, Mehbooba pay homage at party offices",
-          "link": "https://timesofindia.indiatimes.com/india/jammu-kashmir-administrtion-seals-martyrs-graveyard-omar-mehbooba-pay-homage-at-party-offices/articleshow/132375391.cms",
-          "date": "14 Jul 2026",
-          "summary": "Authorities restricted access to Srinagar's Martyrs' Graveyard on Monday. Political leaders paid homage at their respective party offices instead. Last year, Omar Abdullah bypassed barricades to reach the graveyard. The administration removed July 13 and Decem…"
-        },
-        {
-          "title": "Jeff Bezos' ex-wife MacKenzie Scott donates to US youth mental health non-profit",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-ex-wife-mackenzie-scott-who-sold-half-of-her-amazon-stake-makes-latest-donation-to-a-us-non-profit-mobilising-youth-and-young-adults-to-change-culture-around-/articleshow/132342327.cms",
-          "date": "12 Jul 2026",
-          "summary": "MacKenzie Scott has donated twenty million dollars to Active Minds. This significant contribution is the largest in the nonprofit's history. Active Minds focuses on youth mental health awareness and reducing stigma. The unrestricted funds will expand programs…"
-        },
-        {
-          "title": "'Mastermind was not happy': Louvre burglars reveal inside plot",
-          "link": "https://timesofindia.indiatimes.com/world/europe/mastermind-was-not-happy-louvre-burglars-reveal-how-they-pulled-off-88-million-jewel-heist/articleshow/132372130.cms",
-          "date": "13 Jul 2026",
-          "summary": ""
-        },
-        {
-          "title": "Supersonic jet flew twice as high as planes and tracked cosmic storms",
-          "link": "https://timesofindia.indiatimes.com/science/this-supersonic-jet-needed-a-radiation-meter-to-monitor-cosmic-storms-because-it-flew-twice-as-high-as-commercial-jets-at-a-speed-of-2470-km/h-near-the-edge-of-space/articleshow/132369288.cms",
-          "date": "13 Jul 2026",
-          "summary": "The Concorde jet soared near the edge of space, requiring careful monitoring of radiation levels to ensure passenger safety. In the face of hazardous cosmic storms, pilots were mandated to descend to safer altitudes. While this supersonic aircraft typically fl…"
-        },
-        {
-          "title": "From teen sweethearts to soulmates: Patrick Swayze and Lisa Niemi",
-          "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/inside-patrick-swayze-and-lisa-niemis-decades-long-love-story-from-teenage-sweethearts-to-soulmates-the-moment-i-looked-in-his-eyes-/articleshow/132370552.cms",
-          "date": "13 Jul 2026",
-          "summary": "Patrick Swayze and Lisa Niemi's love story remains one of Hollywood's most enduring romances. Even years after the Road House star's death in 2009 following a battle with pancreatic cancer, Lisa still becomes emotional when she remembers the first time they da…"
-        },
-        {
-          "title": "$800K price cut makes Kyle Sandilands’ estate one of NSW’s most viewed",
-          "link": "https://timesofindia.indiatimes.com/real-estate/kyle-sandilands-glenorie-weekend-estate-gets-800k-price-cut-becomes-one-of-nsws-most-viewed-property-listings/articleshow/132372326.cms",
-          "date": "13 Jul 2026",
-          "summary": "Kyle Sandilands' former weekend getaway is drawing significant attention in the property market. The broadcaster's Glenorie estate has become one of New South Wales' most-viewed property listings after receiving an $800,000 price cut. The semi-rural Hills Dist…"
-        },
-        {
-          "title": "Where are the Gandhi siblings? Why Wayanad has put Rahul, Priyanka in line of BJP fire",
-          "link": "https://timesofindia.indiatimes.com/india/where-are-the-gandhi-siblings-why-wayanad-has-put-rahul-priyanka-in-the-line-of-bjp-fire/articleshow/132370825.cms",
-          "date": "13 Jul 2026",
-          "summary": "The BJP is raising eyebrows over Rahul and Priyanka Gandhi's absence from Wayanad following a landslide, labeling them as part-time politicians and political tourists. Wayanad is crucial for the Gandhis, as it has been a significant political stronghold for Ra…"
-        },
-        {
-          "title": "Jammu and Kashmir: Court remands 3 arrested publishers in police custody",
-          "link": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-court-remands-3-arrested-publishers-in-police-custody/articleshow/132375460.cms",
-          "date": "14 Jul 2026",
-          "summary": "Three publishers were remanded to police custody for ten days in Jammu. This case involves books with separatist content supplied to government school libraries. Sub-committees selected titles, but two books were later flagged for objectionable material. Over…"
-        },
-        {
-          "title": "'Threat to US sovereignty': Why Trump wants to 'dismantle' International Criminal Court",
-          "link": "https://timesofindia.indiatimes.com/world/us/intolerable-threat-to-us-sovereignty-why-trump-wants-to-dismantle-international-criminal-court/articleshow/132370735.cms",
-          "date": "13 Jul 2026",
-          "summary": "The Trump administration initiated a campaign against the International Criminal Court. This action targets the court's authority over American officials and military personnel. The United States argues the court threatens national sovereignty and self-governa…"
         },
         {
           "title": "Canucks explore trade options for former superstar Elias Pettersson",
@@ -304,6 +310,60 @@
           "summary": "The claim that Erling Haaland unfollowed Alexander Sorloth on Instagram after Norway’s World Cup exit is false. The rumour came from a parody social media account after Sorloth chose not to pass to Haaland during a key attack against England. Haaland still fol…"
         },
         {
+          "title": "Omar's Trump remarks anger BJP, party says it’s attempt to ‘internationalise Kashmir’",
+          "link": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-cm-omar-abdullahs-trump-remarks-anger-bjp-party-says-its-attempt-to-internationalise-kashmir/articleshow/132375340.cms",
+          "date": "14 Jul 2026",
+          "summary": "BJP criticized Omar Abdullah for invoking Donald Trump regarding Jammu and Kashmir statehood. Abdullah sarcastically suggested approaching Trump for statehood after BJP remarks. He also responded to a false tweet attributed to President Trump. BJP stated Jammu…"
+        },
+        {
+          "title": "J&amp;K: 18 Amarnath yatris injured in Ramban multi-vehicle collision",
+          "link": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-18-amarnath-yatris-injured-in-ramban-multi-vehicle-collision/articleshow/132376212.cms",
+          "date": "14 Jul 2026",
+          "summary": "Eighteen pilgrims sustained injuries in a multi-vehicle collision involving several buses and a car. The accident occurred on the Jammu-Srinagar National Highway in Ramban district early Monday. All injured pilgrims were promptly taken to the Ramban district h…"
+        },
+        {
+          "title": "Beyond the 70% headline: H-1B workers becoming more educated, better paid",
+          "link": "https://timesofindia.indiatimes.com/nri/us-canada-news/beyond-the-70-headline-uscis-report-shows-h-1b-workers-are-becoming-more-educated-better-paid-and-increasingly-concentrated-in-tech/articleshow/132365629.cms",
+          "date": "13 Jul 2026",
+          "summary": ""
+        },
+        {
+          "title": "Kai Cenat targets critics of streamer university in new 'EBK' diss track",
+          "link": "https://timesofindia.indiatimes.com/world/us-streamers/kai-cenat-drops-ebk-diss-track-targeting-funnymike-ddg-rakai-and-other-streamer-university-critics/articleshow/132376004.cms",
+          "date": "14 Jul 2026",
+          "summary": "Kai Cenat has released a diss track titled EBK, targeting creators who criticized his event. The song addresses complaints about the Streamer University 2026 selection process. FunnyMike and DDG were specifically called out in the new track. This online feud c…"
+        },
+        {
+          "title": "J&amp;K admin seals Martyrs’ Graveyard; Omar, Mehbooba pay homage at party offices",
+          "link": "https://timesofindia.indiatimes.com/india/jammu-kashmir-administrtion-seals-martyrs-graveyard-omar-mehbooba-pay-homage-at-party-offices/articleshow/132375391.cms",
+          "date": "14 Jul 2026",
+          "summary": "Authorities restricted access to Srinagar's Martyrs' Graveyard on Monday. Political leaders paid homage at their respective party offices instead. Last year, Omar Abdullah bypassed barricades to reach the graveyard. The administration removed July 13 and Decem…"
+        },
+        {
+          "title": "'Mastermind was not happy': Louvre burglars reveal inside plot",
+          "link": "https://timesofindia.indiatimes.com/world/europe/mastermind-was-not-happy-louvre-burglars-reveal-how-they-pulled-off-88-million-jewel-heist/articleshow/132372130.cms",
+          "date": "13 Jul 2026",
+          "summary": ""
+        },
+        {
+          "title": "Where are the Gandhi siblings? Why Wayanad has put Rahul, Priyanka in line of BJP fire",
+          "link": "https://timesofindia.indiatimes.com/india/where-are-the-gandhi-siblings-why-wayanad-has-put-rahul-priyanka-in-the-line-of-bjp-fire/articleshow/132370825.cms",
+          "date": "13 Jul 2026",
+          "summary": "The BJP is raising eyebrows over Rahul and Priyanka Gandhi's absence from Wayanad following a landslide, labeling them as part-time politicians and political tourists. Wayanad is crucial for the Gandhis, as it has been a significant political stronghold for Ra…"
+        },
+        {
+          "title": "Jammu and Kashmir: Court remands 3 arrested publishers in police custody",
+          "link": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-court-remands-3-arrested-publishers-in-police-custody/articleshow/132375460.cms",
+          "date": "14 Jul 2026",
+          "summary": "Three publishers were remanded to police custody for ten days in Jammu. This case involves books with separatist content supplied to government school libraries. Sub-committees selected titles, but two books were later flagged for objectionable material. Over…"
+        },
+        {
+          "title": "'Threat to US sovereignty': Why Trump wants to 'dismantle' International Criminal Court",
+          "link": "https://timesofindia.indiatimes.com/world/us/intolerable-threat-to-us-sovereignty-why-trump-wants-to-dismantle-international-criminal-court/articleshow/132370735.cms",
+          "date": "13 Jul 2026",
+          "summary": "The Trump administration initiated a campaign against the International Criminal Court. This action targets the court's authority over American officials and military personnel. The United States argues the court threatens national sovereignty and self-governa…"
+        },
+        {
           "title": "Big changes in Chess World Cup! FIDE approves new format for 2027",
           "link": "https://timesofindia.indiatimes.com/sports/chess/big-changes-in-chess-world-cup-fide-approves-new-format-for-open-and-womens-events-from-2027/articleshow/132372833.cms",
           "date": "13 Jul 2026",
@@ -314,66 +374,6 @@
           "link": "https://timesofindia.indiatimes.com/life-style/parenting/moments/what-parents-can-learn-from-kylian-mbapps-journey-from-a-football-mad-kid-to-a-global-superstar/articleshow/132369563.cms",
           "date": "13 Jul 2026",
           "summary": "Kylian Mbappé's journey from a young fan to a football star offers parenting insights. Parents should recognize and support children's interests and passions early on. Discipline and dedication are crucial alongside natural talent for sustained success. Role m…"
-        },
-        {
-          "title": "'Will we just watch him succumb?' : Sonam Wangchuk's health worsens after 16 days of fast",
-          "link": "https://timesofindia.indiatimes.com/india/will-we-just-watch-him-succumb-sonam-wangchuks-health-worsens-after-16-days-of-fast/articleshow/132370418.cms",
-          "date": "13 Jul 2026",
-          "summary": ""
-        },
-        {
-          "title": "Trump announces 20% toll on ships in Strait of Hormuz",
-          "link": "https://timesofindia.indiatimes.com/business/international-business/donald-trump-announces-20-toll-on-ships-in-strait-of-hormuz-to-reinstate-iran-blockade/articleshow/132369712.cms",
-          "date": "13 Jul 2026",
-          "summary": "Trump's announcement comes after another major exchange of fire cast fresh uncertainty over efforts to negotiate an end to the conflict. Before Iran asserted control over the Strait of Hormuz after the war began, about one-fifth of the world's oil and gas supp…"
-        },
-        {
-          "title": "'We will test them out': Duckett issues warning to Rohit, Virat ahead of ODI series",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/we-will-test-them-out-ben-duckett-issues-warning-to-rohit-sharma-virat-kohli-ahead-of-odi-series/articleshow/132371580.cms",
-          "date": "13 Jul 2026",
-          "summary": "England opener Ben Duckett stated they will test Indian batters with short balls. He acknowledged the challenge will differ from the T20 series. Duckett also discussed facing Jasprit Bumrah in the ODI format. He believes England players have individual plans f…"
-        },
-        {
-          "title": "Zombie filler: Dead people's fat is the latest beauty trend",
-          "link": "https://timesofindia.indiatimes.com/world/us/zombie-filler-dead-peoples-fat-is-the-latest-beauty-trend/articleshow/132373078.cms",
-          "date": "13 Jul 2026",
-          "summary": ""
-        },
-        {
-          "title": "Watch: US uses sea drones to strike Iran submarine, ship maintenance facility",
-          "link": "https://timesofindia.indiatimes.com/defence/international/watch-how-us-used-sea-drones-in-combat-for-1st-time-to-strike-iran-submarine-ship-maintenance-facility/articleshow/132370406.cms",
-          "date": "13 Jul 2026",
-          "summary": ""
-        },
-        {
-          "title": "FIFA WC semis cheatsheet: Can England stop Messi, will Spain vanquish France?",
-          "link": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/offside-france-argentina-spain-and-england-a-not-so-brief-guide-to-the-world-cup-2026-semifinalists/articleshow/132369477.cms",
-          "date": "13 Jul 2026",
-          "summary": "France, Argentina, Spain and England are the last four standing. Here’s the not-so-brief guide to the World Cup’s first semi-final line-up featuring the top four ranked teams."
-        },
-        {
-          "title": "How Israel's Mossad tried to recruit Iran's former president Ahmadinejad",
-          "link": "https://timesofindia.indiatimes.com/world/middle-east/how-israels-mossad-tried-to-recruit-irans-former-president-ahmadinejad-what-happened-next/articleshow/132367919.cms",
-          "date": "13 Jul 2026",
-          "summary": "Israel's Mossad reportedly sought to recruit Mahmoud Ahmadinejad for regime change. Secret meetings and financial aid were allegedly provided to the former Iranian president. An attempted extraction from Tehran failed after Ahmadinejad grew dissatisfied with t…"
-        },
-        {
-          "title": "'More destructive than US': China hits out at Japan's military role in South China Sea",
-          "link": "https://timesofindia.indiatimes.com/defence/international/more-destructive-than-us-china-hits-out-at-japans-military-role-in-south-china-sea/articleshow/132370262.cms",
-          "date": "13 Jul 2026",
-          "summary": ""
-        },
-        {
-          "title": "Ahead of England ODIs, captain Gill reveals 2027 WC plans for Kohli, Rohit",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/ahead-of-england-odis-captain-shubman-gill-reveals-2027-world-cup-plans-for-virat-kohli-rohit-sharma/articleshow/132367995.cms",
-          "date": "13 Jul 2026",
-          "summary": "India captain Shubman Gill reaffirmed that Virat Kohli and Rohit Sharma remain central to the ODI team's 2027 World Cup plans, calling them the “backbone” of India’s batting. Emphasising their experience in pressure situations, Gill said India’s settled core w…"
-        },
-        {
-          "title": "Why Dubai's housing market slowed in 2026; sales fell 16%, prices dipped by 7%",
-          "link": "https://timesofindia.indiatimes.com/real-estate/news/why-dubais-housing-market-slowed-in-2026-sales-fell-16-prices-dipped-by-7/articleshow/132369123.cms",
-          "date": "13 Jul 2026",
-          "summary": "Dubai's residential property sales saw a sixteen percent decrease in early 2026. This slowdown occurred as regional geopolitical tensions impacted buyer sentiment and demand. Despite this, sales remained fifteen percent higher than in the first half of 2024. R…"
         }
       ]
     },
@@ -1152,6 +1152,12 @@
       "ok": true,
       "items": [
         {
+          "title": "German Firm Files For Insolvency After Cybercriminals Shut Down Production For 6 Weeks",
+          "link": "https://slashdot.org/story/26/07/13/2111209/german-firm-files-for-insolvency-after-cybercriminals-shut-down-production-for-6-weeks?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "13 Jul 2026",
+          "summary": "German textile firm ZEGO has filed for insolvency and is blaming a March cyberattack that shut down production for nearly six weeks. \"ZEGO's filing adds another name to the short but growing list of companies that say a digital break-in was commercially fatal…"
+        },
+        {
           "title": "States Sue to Block Paramount-Warner Bros Merger, Defying DOJ",
           "link": "https://yro.slashdot.org/story/26/07/13/1740256/states-sue-to-block-paramount-warner-bros-merger-defying-doj?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "13 Jul 2026",
@@ -1234,12 +1240,6 @@
           "link": "https://tech.slashdot.org/story/26/07/12/1842219/elon-musk-and-sam-altman-spar-on-x-after-apple-files-openai-lawsuit?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "12 Jul 2026",
           "summary": "\"Elon Musk and Sam Altman criticized each other in new posts on X,\" reports CNBC, \"highlighting the billionaires' long-standing tussle over OpenAI's evolution.\" This week, SpaceX released the Grok 4.5 generative AI model, while OpenAI debuted its own GPT-5.6 S…"
-        },
-        {
-          "title": "SK Hynix CEO Warns 2027 Will Be Memory's 'Worst Year' Ever. Shortages May Outlast the Decade",
-          "link": "https://hardware.slashdot.org/story/26/07/12/1747258/sk-hynix-ceo-warns-2027-will-be-memorys-worst-year-ever-shortages-may-outlast-the-decade?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "12 Jul 2026",
-          "summary": "The CEO of SK Hynix, one of the three largest DRAM producers, predicted to Reuters that the memory industry will see its \"worst-ever\" supply shortages in 2027, reports the hardware/gaming news site Wccftech: SK Hynix has also forecasted that, given the current…"
         }
       ]
     },
@@ -1630,184 +1630,184 @@
       "ok": true,
       "items": [
         {
-          "title": "sysmlv2-units added to PyPI",
-          "link": "https://pypi.org/project/sysmlv2-units/",
+          "title": "unntak-mcp added to PyPI",
+          "link": "https://pypi.org/project/unntak-mcp/",
           "date": "13 Jul 2026",
-          "summary": "SysML v2 Python Units"
+          "summary": "mcp server for the unntak.no agent api"
         },
         {
-          "title": "fpm-cli added to PyPI",
-          "link": "https://pypi.org/project/fpm-cli/",
+          "title": "ibm-concert-mcp added to PyPI",
+          "link": "https://pypi.org/project/ibm-concert-mcp/",
           "date": "13 Jul 2026",
-          "summary": "Fast Package Manager for Python — binary distribution"
+          "summary": "MCP server for IBM Concert — workflow health monitoring, incident diagnosis, auto-remediation, CVE triage, and Slack alerting"
         },
         {
-          "title": "sprawll added to PyPI",
-          "link": "https://pypi.org/project/sprawll/",
+          "title": "tasklife-mcp added to PyPI",
+          "link": "https://pypi.org/project/tasklife-mcp/",
           "date": "13 Jul 2026",
-          "summary": "Evidence-gated scrape-to-artifact harness: artifacts you can defend"
+          "summary": "MCP server for the Tasklife API — manage tasks, comments, pages, projects, users, and teams from Claude, Hermes, Cursor, and any MCP-compatible agent."
         },
         {
-          "title": "BsplineQuantRegpy added to PyPI",
-          "link": "https://pypi.org/project/bsplinequantregpy/",
+          "title": "agentplane-runtime added to PyPI",
+          "link": "https://pypi.org/project/agentplane-runtime/",
           "date": "13 Jul 2026",
-          "summary": "Quantile regression with B-splines under shape constraints"
+          "summary": "agentplane runtime: definitions, resources, flow execution, A2A + MCP serving"
         },
         {
-          "title": "t-lens added to PyPI",
-          "link": "https://pypi.org/project/t-lens/",
+          "title": "django-pgsync added to PyPI",
+          "link": "https://pypi.org/project/django-pgsync/",
           "date": "13 Jul 2026",
-          "summary": "RetailAI Lens Core Pipeline & Business Processors Compiled Library"
+          "summary": "Django integration for PGSync: define search indexes from Django models, sync PostgreSQL to Elasticsearch/OpenSearch via change data capture."
         },
         {
-          "title": "behave-retry added to PyPI",
-          "link": "https://pypi.org/project/behave-retry/",
+          "title": "agentplane-registry added to PyPI",
+          "link": "https://pypi.org/project/agentplane-registry/",
           "date": "13 Jul 2026",
-          "summary": "Automatic retry for failed Behave scenarios — CLI flags, tag overrides, exception filtering, flakiness stats"
+          "summary": "agentplane discovery service (standalone-capable)"
         },
         {
-          "title": "stmtkit added to PyPI",
-          "link": "https://pypi.org/project/stmtkit/",
+          "title": "agentplane-core added to PyPI",
+          "link": "https://pypi.org/project/agentplane-core/",
           "date": "13 Jul 2026",
-          "summary": "Generate branded PDF customer statements from Sage 50 (via sagekit) and email them through Microsoft Graph (via graphkit). Outstanding-balance and full-activity layouts, CSV-driven recipient list, configurable branding."
+          "summary": "agentplane shared contract: Definition schema, registry models, interfaces"
         },
         {
-          "title": "memory-esn added to PyPI",
-          "link": "https://pypi.org/project/memory-esn/",
+          "title": "agentplane-sdk added to PyPI",
+          "link": "https://pypi.org/project/agentplane-sdk/",
           "date": "13 Jul 2026",
-          "summary": "Long-Memory Echo State Networks (fESN, wESN) for time-series forecasting"
+          "summary": "agentplane typed client + CLI"
         },
         {
-          "title": "flowos-core added to PyPI",
-          "link": "https://pypi.org/project/flowos-core/",
+          "title": "gier added to PyPI",
+          "link": "https://pypi.org/project/gier/",
           "date": "13 Jul 2026",
-          "summary": "FlowOS Executor - A lightweight CLI tool for executing and serving FlowOS AI flows"
+          "summary": "gier: grep with code-block hierarchy awareness; chier is its companion for whole-file hierarchy queries."
         },
         {
-          "title": "flowos-base added to PyPI",
-          "link": "https://pypi.org/project/flowos-base/",
+          "title": "pysqle added to PyPI",
+          "link": "https://pypi.org/project/pysqle/",
           "date": "13 Jul 2026",
-          "summary": "A Python package with a built-in web application"
+          "summary": "None"
         },
         {
-          "title": "flowos-arxiv added to PyPI",
-          "link": "https://pypi.org/project/flowos-arxiv/",
+          "title": "marketdx added to PyPI",
+          "link": "https://pypi.org/project/marketdx/",
           "date": "13 Jul 2026",
-          "summary": "arXiv search component as a standalone FlowOS Extension Bundle."
+          "summary": "The MarketDX financial impact graph, in Python — news→market impact (why, who, direction, ripple) across stocks, commodities, FX, crypto, and private companies."
         },
         {
-          "title": "flowos added to PyPI",
-          "link": "https://pypi.org/project/flowos/",
+          "title": "llm-plan added to PyPI",
+          "link": "https://pypi.org/project/llm-plan/",
           "date": "13 Jul 2026",
-          "summary": "A Python package with a built-in web application"
+          "summary": "Run multi-stage LLM workflows: DAGs of prompts and scripts with automatic output chaining"
         },
         {
-          "title": "gckit added to PyPI",
-          "link": "https://pypi.org/project/gckit/",
+          "title": "meta-adkit added to PyPI",
+          "link": "https://pypi.org/project/meta-adkit/",
           "date": "13 Jul 2026",
-          "summary": "Consolidate outstanding Sage 50 invoices into one GoCardless direct debit payment per customer per collection date, net off credit notes automatically, and notify customers via Microsoft Graph."
+          "summary": "Plug-and-play Meta (Facebook + Instagram) ads automation, drivable from the terminal or Claude Code, with AI creative generation."
         },
         {
-          "title": "fakenews-ussu321 added to PyPI",
-          "link": "https://pypi.org/project/fakenews-ussu321/",
+          "title": "datier-mcp-server added to PyPI",
+          "link": "https://pypi.org/project/datier-mcp-server/",
           "date": "13 Jul 2026",
-          "summary": "NeuroGuard FND - Fake News Detection Desktop Application"
+          "summary": "MCP Server para automatizar tareas en el proyecto Datier"
         },
         {
-          "title": "sheafcommons added to PyPI",
-          "link": "https://pypi.org/project/sheafcommons/",
+          "title": "swarmkit-webui added to PyPI",
+          "link": "https://pypi.org/project/swarmkit-webui/",
           "date": "13 Jul 2026",
-          "summary": "Stable qualified names and immutable metadata contracts for SheafLab packages."
+          "summary": "SwarmKit web portal — the static Next.js build, served by `swarmkit serve`."
         },
         {
-          "title": "sheafruntime added to PyPI",
-          "link": "https://pypi.org/project/sheafruntime/",
+          "title": "masterly added to PyPI",
+          "link": "https://pypi.org/project/masterly/",
           "date": "13 Jul 2026",
-          "summary": "Explicit execution lifecycle state machines with immutable run receipts."
+          "summary": "Python client for Masterly — extract governed data products and ingest records from your lakehouse"
         },
         {
-          "title": "pycodeit-tracer added to PyPI",
-          "link": "https://pypi.org/project/pycodeit-tracer/",
+          "title": "convert-hf-to-gguf added to PyPI",
+          "link": "https://pypi.org/project/convert-hf-to-gguf/",
           "date": "13 Jul 2026",
-          "summary": "A Python code execution trace helper for interview preparation"
+          "summary": "Convert Hugging Face models to GGUF format"
         },
         {
-          "title": "almanac-contracts added to PyPI",
-          "link": "https://pypi.org/project/almanac-contracts/",
+          "title": "llamaindex-proxyhat added to PyPI",
+          "link": "https://pypi.org/project/llamaindex-proxyhat/",
           "date": "13 Jul 2026",
-          "summary": "Shared wire contracts for Almanac clients and services."
+          "summary": "LlamaIndex web reader that loads URLs through ProxyHat residential proxies — rotation, geo-targeting, sticky sessions."
         },
         {
-          "title": "sheaffoundry added to PyPI",
-          "link": "https://pypi.org/project/sheaffoundry/",
+          "title": "selenium-proxyhat added to PyPI",
+          "link": "https://pypi.org/project/selenium-proxyhat/",
           "date": "13 Jul 2026",
-          "summary": "Deterministic assembly plans for named inputs and reproducible build receipts."
+          "summary": "ProxyHat residential proxies for Selenium — authenticated Chrome via an auto-generated auth extension, sticky sessions, geo-targeting, rotation."
         },
         {
-          "title": "sheafrelgeom added to PyPI",
-          "link": "https://pypi.org/project/sheafrelgeom/",
+          "title": "typedsystem-model added to PyPI",
+          "link": "https://pypi.org/project/typedsystem-model/",
           "date": "13 Jul 2026",
-          "summary": "Small reference-frame transformations for relative geometric measurements."
+          "summary": "Thetypedsystemmodelsystem"
         },
         {
-          "title": "nusadb added to PyPI",
-          "link": "https://pypi.org/project/nusadb/",
+          "title": "tollkeeper added to PyPI",
+          "link": "https://pypi.org/project/tollkeeper/",
           "date": "13 Jul 2026",
-          "summary": "Pure-Python PEP-249 (DB-API 2.0) driver for NusaDB (Nusa Wire Protocol)"
+          "summary": "Python library for the Write-Audit-Publish pattern. Stage writes, run data quality checks, publish only when checks pass. Pluggable backends, SQL lineage parsing, and Airflow integration."
         },
         {
-          "title": "kitaboo added to PyPI",
-          "link": "https://pypi.org/project/kitaboo/",
+          "title": "reminiscing-machine added to PyPI",
+          "link": "https://pypi.org/project/reminiscing-machine/",
           "date": "13 Jul 2026",
-          "summary": "Official Kitaboo SDK for Python"
+          "summary": "A Machine that is indulging in reminiscence."
         },
         {
-          "title": "baltimore-patapsco added to PyPI",
-          "link": "https://pypi.org/project/baltimore-patapsco/",
+          "title": "helix-dsl added to PyPI",
+          "link": "https://pypi.org/project/helix-dsl/",
           "date": "13 Jul 2026",
-          "summary": "Shared Django runtime foundations for Baltimore civic applications"
+          "summary": "Helix — a declarative DSL and compiler for reproducible gene-editing design."
         },
         {
-          "title": "eap-middleware added to PyPI",
-          "link": "https://pypi.org/project/eap-middleware/",
+          "title": "bigdata-corp-api added to PyPI",
+          "link": "https://pypi.org/project/bigdata-corp-api/",
           "date": "13 Jul 2026",
-          "summary": "External Authentication Proxy (EAP) Middleware and Client SDK for Python"
+          "summary": "Python API to facilitate interaction with BigDataCorp end-points"
         },
         {
-          "title": "djangoo-crudapi added to PyPI",
-          "link": "https://pypi.org/project/djangoo-crudapi/",
+          "title": "memclawd added to PyPI",
+          "link": "https://pypi.org/project/memclawd/",
           "date": "13 Jul 2026",
-          "summary": "Reusable Django CRUD API Package"
+          "summary": "uvx/pip wrapper for the MemClaw broker (memclaw): downloads the platform binary from the public release mirror, SHA-256-verifies it, and execs it."
         },
         {
-          "title": "baltimore-camden added to PyPI",
-          "link": "https://pypi.org/project/baltimore-camden/",
+          "title": "chaosrank-engine added to PyPI",
+          "link": "https://pypi.org/project/chaosrank-engine/",
           "date": "13 Jul 2026",
-          "summary": "Python toolkit for the Baltimore City Mayor's Office of Performance and Innovation (OPI)."
+          "summary": "ChaosRank scoring engine — risk-driven chaos experiment scheduler"
         },
         {
-          "title": "bizy-deploy added to PyPI",
-          "link": "https://pypi.org/project/bizy-deploy/",
+          "title": "deepfreeze-server added to PyPI",
+          "link": "https://pypi.org/project/deepfreeze-server/",
           "date": "13 Jul 2026",
-          "summary": "BizyAir FaaS automated deployment tool"
+          "summary": "Deepfreeze persistent daemon — REST API, job management, scheduling, and SSE events"
         },
         {
-          "title": "aiotruenas added to PyPI",
-          "link": "https://pypi.org/project/aiotruenas/",
+          "title": "emergentflow added to PyPI",
+          "link": "https://pypi.org/project/emergentflow/",
           "date": "13 Jul 2026",
-          "summary": "Asyncio-native Python client for the TrueNAS JSON-RPC WebSocket API"
+          "summary": "Emergent Flow — core SDK and graph intermediate representation (IR)."
         },
         {
-          "title": "docling-rs added to PyPI",
-          "link": "https://pypi.org/project/docling-rs/",
+          "title": "browser-use-headless added to PyPI",
+          "link": "https://pypi.org/project/browser-use-headless/",
           "date": "13 Jul 2026",
-          "summary": "Rust port of docling (docling.rs): convert PDF/DOCX/HTML/... to Markdown or docling JSON. Python bindings."
+          "summary": "The simplest, thinnest, and most powerful harness to control your real browser with your agent."
         },
         {
-          "title": "acellera-modrna-params added to PyPI",
-          "link": "https://pypi.org/project/acellera-modrna-params/",
+          "title": "dataclassdb added to PyPI",
+          "link": "https://pypi.org/project/dataclassdb/",
           "date": "13 Jul 2026",
-          "summary": "OL3-consistent AMBER force-field parameters for modified RNA residues, generated with modXNA"
+          "summary": "This module provides a lightweight sqlite3 ORM using normal dataclass."
         }
       ]
     }
