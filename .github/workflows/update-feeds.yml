@@ -1,0 +1,48 @@
+name: Update news feeds
+
+on:
+  schedule:
+    - cron: "0 * * * *"      # hourly, on the hour (UTC)
+  workflow_dispatch:          # allow manual runs from the Actions tab
+  push:
+    branches: [ main ]
+    paths:
+      - "src/links.txt"       # regenerate immediately when feeds change
+      - "scripts/fetch_feeds.py"
+      - ".github/workflows/update-feeds.yml"
+
+# Needed so the job can commit feeds.json back to the repo
+permissions:
+  contents: write
+
+# Don't pile up overlapping runs
+concurrency:
+  group: update-feeds
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch feeds
+        run: python scripts/fetch_feeds.py
+
+      - name: Commit updated feeds.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- src/feeds.json; then
+            echo "No feed changes."
+          else
+            git add src/feeds.json
+            git commit -m "chore: refresh news feeds [skip ci]"
+            git push
+          fi

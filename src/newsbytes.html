@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>NewsBytes — Feeds by Badari</title>
+<link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Barlow:wght@300;400;500;600&family=Barlow+Condensed:wght@400;600;700&display=swap" rel="stylesheet"/>
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --ink:#0f0d09;--paper:#f8f5ef;--cream:#ede9df;
+  --amber:#c47a0f;--amber-light:#fdf0d5;
+  --muted:#7a7060;--border:#ddd8cc;
+  --card:#ffffff;--dark:#1a160e;
+}
+html{scroll-behavior:smooth}
+body{font-family:'Barlow',sans-serif;background:var(--paper);color:var(--ink);line-height:1.6;overflow-x:hidden}
+::-webkit-scrollbar{width:5px}
+::-webkit-scrollbar-thumb{background:var(--amber);border-radius:2px}
+::-webkit-scrollbar-track{background:var(--cream)}
+a{color:inherit}
+
+/* ── Top bar ── */
+.topbar{background:var(--dark);border-bottom:2px solid var(--amber);display:flex;align-items:center;justify-content:space-between;padding:0 1.5rem;height:52px;position:sticky;top:0;z-index:100}
+.topbar-brand{font-family:'Libre Baskerville',serif;font-size:0.95rem;letter-spacing:0.08em;color:var(--paper);text-transform:uppercase}
+.topbar-brand em{font-style:italic;color:var(--amber)}
+.home-btn{display:flex;align-items:center;gap:0.4rem;font-family:'Barlow Condensed',sans-serif;font-weight:600;font-size:0.7rem;letter-spacing:0.12em;text-transform:uppercase;color:rgba(248,245,239,0.6);text-decoration:none;border:1px solid rgba(248,245,239,0.2);padding:0.3rem 0.75rem;border-radius:2px;transition:color 0.2s,border-color 0.2s}
+.home-btn:hover{color:var(--amber);border-color:var(--amber)}
+
+/* ── Hero ── */
+.hero{background:var(--dark);color:var(--paper);padding:2.75rem 1.5rem 2.5rem;position:relative;overflow:hidden}
+.hero::before{content:'';position:absolute;top:0;right:0;width:50%;height:100%;opacity:0.04;background-image:repeating-linear-gradient(0deg,var(--paper) 0,var(--paper) 1px,transparent 1px,transparent 40px);pointer-events:none}
+.hero-inner{max-width:1180px;margin:0 auto;position:relative}
+.eyebrow{display:flex;align-items:center;gap:0.75rem;margin-bottom:1rem}
+.eyebrow-line{width:28px;height:2px;background:var(--amber);flex-shrink:0}
+.eyebrow-text{font-family:'Barlow Condensed',sans-serif;font-weight:600;font-size:0.62rem;letter-spacing:0.25em;text-transform:uppercase;color:var(--amber)}
+.hero h1{font-family:'Libre Baskerville',serif;font-size:clamp(2rem,5vw,2.9rem);line-height:1.1;letter-spacing:-0.02em;margin-bottom:0.75rem}
+.hero h1 em{font-style:italic;color:var(--amber)}
+.hero-sub{font-size:1rem;line-height:1.7;color:rgba(248,245,239,0.6);max-width:56ch}
+
+/* ── Layout ── */
+.layout{max-width:1180px;margin:0 auto;display:grid;grid-template-columns:270px 1fr;gap:0;min-height:60vh}
+
+/* ── Left panel ── */
+.sidebar{border-right:1px solid var(--border);background:var(--cream);position:sticky;top:52px;align-self:start;max-height:calc(100vh - 52px);overflow-y:auto}
+.sidebar-head{padding:1.5rem 1.25rem 0.75rem;display:flex;align-items:center;gap:0.55rem}
+.sidebar-head-line{width:18px;height:2px;background:var(--amber)}
+.sidebar-head-text{font-family:'Barlow Condensed',sans-serif;font-weight:700;font-size:0.72rem;letter-spacing:0.2em;text-transform:uppercase;color:var(--muted)}
+.feed-list{list-style:none;padding:0.25rem 0 1.5rem}
+.feed-item{display:flex;flex-direction:column;gap:0.15rem;width:100%;text-align:left;background:none;border:none;cursor:pointer;padding:0.7rem 1.25rem;border-left:3px solid transparent;transition:background 0.15s,border-color 0.15s;font-family:'Barlow',sans-serif}
+.feed-item:hover{background:rgba(196,122,15,0.08)}
+.feed-item.active{background:var(--paper);border-left-color:var(--amber)}
+.feed-name{font-size:0.95rem;font-weight:600;color:var(--ink);line-height:1.25}
+.feed-item.active .feed-name{color:var(--amber)}
+.feed-cat{font-family:'Barlow Condensed',sans-serif;font-size:0.62rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--muted)}
+
+/* ── Right content ── */
+.content{padding:1.75rem 2rem 3rem;min-width:0}
+.content-head{display:flex;align-items:baseline;justify-content:space-between;gap:1rem;flex-wrap:wrap;margin-bottom:0.35rem}
+.content-title{font-family:'Libre Baskerville',serif;font-size:1.55rem;color:var(--ink)}
+.content-src{font-family:'Barlow Condensed',sans-serif;font-size:0.68rem;letter-spacing:0.12em;text-transform:uppercase;color:var(--muted);text-decoration:none;border-bottom:1px dotted var(--muted)}
+.content-src:hover{color:var(--amber);border-color:var(--amber)}
+.content-sub{font-size:0.9rem;color:var(--muted);margin-bottom:1.5rem;padding-bottom:1.25rem;border-bottom:1px solid var(--border)}
+
+/* ── Article cards ── */
+.article{padding:1.25rem 0;border-bottom:1px solid var(--border)}
+.article:last-child{border-bottom:none}
+.article-title{font-family:'Libre Baskerville',serif;font-size:1.12rem;line-height:1.4;margin-bottom:0.4rem}
+.article-title a{text-decoration:none;transition:color 0.15s}
+.article-title a:hover{color:var(--amber)}
+.article-meta{font-family:'Barlow Condensed',sans-serif;font-size:0.68rem;letter-spacing:0.1em;text-transform:uppercase;color:var(--amber);margin-bottom:0.55rem}
+.article-desc{font-size:0.96rem;line-height:1.7;color:#3a352c}
+.article-desc img{display:none}
+.article-more{display:inline-flex;align-items:center;gap:0.3rem;margin-top:0.6rem;font-family:'Barlow Condensed',sans-serif;font-weight:600;font-size:0.72rem;letter-spacing:0.1em;text-transform:uppercase;color:var(--amber);text-decoration:none}
+.article-more:hover{text-decoration:underline}
+
+/* ── States ── */
+.state{padding:3.5rem 1rem;text-align:center;color:var(--muted)}
+.spinner{width:34px;height:34px;border:3px solid var(--border);border-top-color:var(--amber);border-radius:50%;margin:0 auto 1rem;animation:spin 0.8s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+.state-msg{font-size:0.95rem}
+.retry-btn{margin-top:1rem;background:var(--amber);color:#fff;border:none;cursor:pointer;font-family:'Barlow Condensed',sans-serif;font-weight:600;font-size:0.75rem;letter-spacing:0.1em;text-transform:uppercase;padding:0.55rem 1.25rem;border-radius:2px}
+.retry-btn:hover{background:#a5670c}
+
+/* ── Mobile feed selector (hidden on desktop) ── */
+.mob-select-wrap{display:none;padding:1rem 1.25rem 0}
+.mob-select{width:100%;padding:0.7rem 0.75rem;font-family:'Barlow',sans-serif;font-size:0.95rem;border:1px solid var(--border);border-radius:3px;background:var(--card);color:var(--ink)}
+
+/* ── Footer ── */
+.footer{background:var(--dark);border-top:2px solid var(--amber);padding:2.5rem 1.5rem 2rem;text-align:center}
+.footer-name{font-family:'Libre Baskerville',serif;font-size:1.3rem;color:var(--paper);margin-bottom:0.3rem}
+.footer-tag{font-size:0.65rem;color:rgba(248,245,239,0.35);letter-spacing:0.18em;text-transform:uppercase}
+
+@media(max-width:820px){
+  .layout{grid-template-columns:1fr}
+  .sidebar{display:none}
+  .mob-select-wrap{display:block}
+  .content{padding:1.25rem 1.25rem 2.5rem}
+}
+</style>
+</head>
+<body>
+
+<!-- Top bar -->
+<header class="topbar">
+  <span class="topbar-brand">Badari <em>·</em> NewsBytes</span>
+  <a href="../index.html" class="home-btn">
+    <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><polyline points="15 18 9 12 15 6"/></svg>
+    Home
+  </a>
+</header>
+
+<!-- Hero -->
+<section class="hero">
+  <div class="hero-inner">
+    <div class="eyebrow">
+      <div class="eyebrow-line"></div>
+      <span class="eyebrow-text">Live Feeds &nbsp;·&nbsp; Curated</span>
+    </div>
+    <h1>News<em>Bytes</em></h1>
+    <p class="hero-sub">A quiet reading room for the feeds I follow — pick a source on the left and its latest stories load on the right.</p>
+  </div>
+</section>
+
+<!-- Layout -->
+<main class="layout">
+
+  <!-- Left panel -->
+  <aside class="sidebar">
+    <div class="sidebar-head">
+      <div class="sidebar-head-line"></div>
+      <span class="sidebar-head-text">Sources</span>
+    </div>
+    <ul class="feed-list" id="feedList"></ul>
+  </aside>
+
+  <!-- Right content -->
+  <section class="content">
+    <div class="mob-select-wrap">
+      <select class="mob-select" id="mobSelect"></select>
+    </div>
+    <div class="content-head">
+      <h2 class="content-title" id="contentTitle">—</h2>
+      <a class="content-src" id="contentSrc" href="#" target="_blank" rel="noopener">Visit source ↗</a>
+    </div>
+    <p class="content-sub" id="contentSub"></p>
+    <div id="articles"></div>
+  </section>
+
+</main>
+
+<!-- Footer -->
+<footer class="footer">
+  <p class="footer-name">Badarinarayan Joshi</p>
+  <p class="footer-tag">Engineer · Writer · Builder</p>
+</footer>
+
+<script>
+// Feeds are fetched server-side by a GitHub Action (scripts/fetch_feeds.py) and
+// committed to feeds.json, so the browser just reads static JSON — no CORS
+// proxy, no flaky live fetches. See .github/workflows/update-feeds.yml.
+const FEEDS_URL = "feeds.json";
+
+const $ = (id) => document.getElementById(id);
+const feedListEl = $("feedList");
+const mobSelectEl = $("mobSelect");
+const articlesEl = $("articles");
+
+let FEEDS = [];
+let updatedLabel = "";
+let activeIndex = -1;
+
+function esc(s) {
+  return String(s || "").replace(/[&<>"']/g, (c) =>
+    ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+}
+
+function formatUpdated(iso) {
+  const d = new Date(iso);
+  if (isNaN(d)) return "";
+  return d.toLocaleString(undefined, {
+    day: "numeric", month: "short", hour: "2-digit", minute: "2-digit"
+  });
+}
+
+function buildSidebar() {
+  feedListEl.innerHTML = "";
+  mobSelectEl.innerHTML = "";
+  FEEDS.forEach((f, i) => {
+    const li = document.createElement("li");
+    const btn = document.createElement("button");
+    btn.className = "feed-item";
+    btn.dataset.index = i;
+    btn.innerHTML = `<span class="feed-name">${esc(f.name)}</span><span class="feed-cat">${esc(f.cat)}</span>`;
+    btn.addEventListener("click", () => selectFeed(i));
+    li.appendChild(btn);
+    feedListEl.appendChild(li);
+
+    const opt = document.createElement("option");
+    opt.value = i;
+    opt.textContent = `${f.name} — ${f.cat}`;
+    mobSelectEl.appendChild(opt);
+  });
+  mobSelectEl.addEventListener("change", (e) => selectFeed(parseInt(e.target.value, 10)));
+}
+
+function selectFeed(i) {
+  if (i === activeIndex) return;
+  activeIndex = i;
+  const feed = FEEDS[i];
+
+  [...feedListEl.querySelectorAll(".feed-item")].forEach((b) =>
+    b.classList.toggle("active", parseInt(b.dataset.index, 10) === i));
+  mobSelectEl.value = i;
+
+  $("contentTitle").textContent = feed.name;
+  $("contentSub").textContent = updatedLabel ? `${feed.cat} · Updated ${updatedLabel}` : feed.cat;
+  $("contentSrc").href = feed.url;
+
+  renderArticles(feed);
+}
+
+function renderArticles(feed) {
+  const items = feed.items || [];
+  if (!items.length) {
+    articlesEl.innerHTML =
+      `<div class="state"><p class="state-msg">No stories available for <strong>${esc(feed.name)}</strong> in the latest refresh.</p></div>`;
+    return;
+  }
+  articlesEl.innerHTML = items.map((it) => {
+    const link = esc(it.link);
+    return `
+      <article class="article">
+        <h3 class="article-title">${link ? `<a href="${link}" target="_blank" rel="noopener">${esc(it.title)}</a>` : esc(it.title)}</h3>
+        ${it.date ? `<div class="article-meta">${esc(it.date)}</div>` : ""}
+        ${it.summary ? `<p class="article-desc">${esc(it.summary)}</p>` : ""}
+        ${link ? `<a class="article-more" href="${link}" target="_blank" rel="noopener">Read full story →</a>` : ""}
+      </article>`;
+  }).join("");
+}
+
+async function init() {
+  articlesEl.innerHTML =
+    `<div class="state"><div class="spinner"></div><p class="state-msg">Loading feeds…</p></div>`;
+  try {
+    const res = await fetch(FEEDS_URL, { cache: "no-cache" });
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    const data = await res.json();
+    FEEDS = data.feeds || [];
+    updatedLabel = formatUpdated(data.generated);
+    if (!FEEDS.length) throw new Error("No feeds in feeds.json");
+    buildSidebar();
+    selectFeed(0);
+  } catch (err) {
+    articlesEl.innerHTML =
+      `<div class="state">
+         <p class="state-msg">Couldn't load the feed index.<br>
+         <span style="font-size:0.82rem">${esc(err.message)}</span></p>
+         <button class="retry-btn" id="retryBtn">Retry</button>
+       </div>`;
+    $("retryBtn").addEventListener("click", init);
+  }
+}
+
+init();
+</script>
+</body>
+</html>

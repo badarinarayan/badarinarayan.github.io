@@ -122,7 +122,7 @@ async function fetchRSS(url,count=10){
 // ── TopBar ─────────────────────────────────────────────────────────────
 function TopBar({activeSection, setSection, tickerItems}) {
   const [menuOpen, setMenuOpen] = useState(false);
-  const nav = [{id:'home',label:'Home'},{id:'writings',label:'Writings'},{id:'videos',label:'Videos'},];
+  const nav = [{id:'home',label:'Home'},{id:'writings',label:'Writings'},{id:'videos',label:'Videos'},{id:'newsbytes',label:'NewsBytes',href:'src/newsbytes.html'},];
   return (
     <header style={{position:'sticky',top:0,zIndex:100}}>
       <div style={{background:'var(--dark)',borderBottom:'2px solid var(--amber)',display:'flex',alignItems:'center',justifyContent:'space-between',padding:'0 1.25rem',height:52,position:'relative'}}>
@@ -132,7 +132,7 @@ function TopBar({activeSection, setSection, tickerItems}) {
         {/* Desktop nav */}
         <nav className="desk-nav" style={{display:'flex',gap:'1.5rem'}}>
           {nav.map(n=>(
-            <button key={n.id} onClick={()=>setSection(n.id)} style={{background:'none',border:'none',cursor:'pointer',fontSize:'0.7rem',letterSpacing:'0.12em',textTransform:'uppercase',color:activeSection===n.id?'var(--amber)':'rgba(248,245,239,0.6)',fontFamily:"'Barlow Condensed',sans-serif",fontWeight:600,transition:'color 0.2s',padding:'4px 0',borderBottom:activeSection===n.id?'1px solid var(--amber)':'1px solid transparent'}}>{n.label}</button>
+            <button key={n.id} onClick={()=>n.href?(window.location.href=n.href):setSection(n.id)} style={{background:'none',border:'none',cursor:'pointer',fontSize:'0.7rem',letterSpacing:'0.12em',textTransform:'uppercase',color:activeSection===n.id?'var(--amber)':'rgba(248,245,239,0.6)',fontFamily:"'Barlow Condensed',sans-serif",fontWeight:600,transition:'color 0.2s',padding:'4px 0',borderBottom:activeSection===n.id?'1px solid var(--amber)':'1px solid transparent'}}>{n.label}</button>
           ))}
         </nav>
         {/* Mobile hamburger */}
@@ -145,7 +145,7 @@ function TopBar({activeSection, setSection, tickerItems}) {
         {/* Mobile dropdown */}
         <div className={`mob-nav${menuOpen?' open':''}`}>
           {nav.map(n=>(
-            <button key={n.id} className={activeSection===n.id?'active':''} onClick={()=>{setSection(n.id);setMenuOpen(false);}}>{n.label}</button>
+            <button key={n.id} className={activeSection===n.id?'active':''} onClick={()=>{if(n.href){window.location.href=n.href;}else{setSection(n.id);setMenuOpen(false);}}}>{n.label}</button>
           ))}
         </div>
       </div>
