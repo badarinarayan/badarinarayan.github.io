@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-14T19:04:28Z",
+  "generated": "2026-07-14T20:51:15Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,12 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "US stocks today: S&amp;P 500 and Nasdaq end higher on cool inflation data, solid bank earnings",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-and-nasdaq-end-higher-on-cool-inflation-data-solid-bank-earnings/articleshow/132400813.cms",
+          "date": "15 Jul 2026",
+          "summary": "U.S. stocks ended higher as softer June inflation data and strong bank earnings lifted sentiment despite escalating Middle East tensions. Nasdaq outperformed on chip gains, while JPMorgan and Goldman Sachs advanced on robust results. IBM fell on weak revenue g…"
+        },
         {
           "title": "Why IBM shares crashed 26%: CEO highlights customer spending shifts towards AI",
           "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-ibm-shares-crashed-26-ceo-arvind-krishna-highlights-customer-spending-shifts-towards-ai/articleshow/132398379.cms",
@@ -36,12 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-exempts-mehta-family-trust-from-saurashtra-cement-open-offer/articleshow/132392809.cms",
           "date": "14 Jul 2026",
           "summary": "The Securities and Exchange Board of India (Sebi) has granted the Mehta Family Trust relief from the open offer requirement linked to their indirect acquisition of shares in Saurashtra Cement Ltd. This restructuring aims to facilitate succession planning withi…"
-        },
-        {
-          "title": "JPMorgan posts record profit on big gains from dealmaking, stock trading",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/jpmorgan-posts-record-profit-on-big-gains-from-dealmaking-stock-trading/articleshow/132392736.cms",
-          "date": "14 Jul 2026",
-          "summary": "In a remarkable feat, JPMorgan Chase announced its record profits for the second quarter, driven by impressive growth in investment banking and trading revenues. This quarter saw investment banking fees hitting their highest levels since 2021, and market reven…"
         },
         {
           "title": "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
@@ -196,6 +196,30 @@
       "ok": true,
       "items": [
         {
+          "title": "PM Modi helped prevent Putin’s tactical nuclear strike on Ukraine in 2022: Polish minister",
+          "link": "https://timesofindia.indiatimes.com/india/pm-modi-helped-prevent-putins-tactical-nuclear-strike-on-ukraine-in-2022-claims-polish-minister/articleshow/132400501.cms",
+          "date": "15 Jul 2026",
+          "summary": "Poland's foreign minister stated Prime Minister Modi influenced President Putin regarding nuclear weapons. He emphasized Modi's unique ability to exert pressure and influence on the Russian leader. India's long-standing relationship with Russia provides a cruc…"
+        },
+        {
+          "title": "US eases Russia sanctions bill, cuts tariff threat on India and China from 500% to 100%",
+          "link": "https://timesofindia.indiatimes.com/business/international-business/us-eases-russia-sanctions-bill-cuts-tariff-threat-on-india-and-china-from-500-to-100/articleshow/132400873.cms",
+          "date": "15 Jul 2026",
+          "summary": "US senators unveiled a revised Russia sanctions bill targeting major energy buyers. This legislation seeks to pressure Moscow and its key oil and gas importers. The updated bill reduces previously proposed tariffs on top purchasers like China and India. It als…"
+        },
+        {
+          "title": "Gulf crisis: After fresh attacks, govt orders real-time monitoring of ships with Indian crew",
+          "link": "https://timesofindia.indiatimes.com/india/middle-east-crisis-after-fresh-attacks-government-orders-real-time-monitoring-of-ships-with-indian-crew/articleshow/132400764.cms",
+          "date": "15 Jul 2026",
+          "summary": "India's shipping minister ordered a comprehensive vessel tracking dashboard for ships with Indian seafarers. This dashboard will provide real-time information on vessel position and crew welfare. Liaison officers will be appointed to assist affected seafarers…"
+        },
+        {
+          "title": "Meta layoffs: 26 ex-employees sue, allege medical info was used to target them",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/after-8000-layoffs-meta-taken-to-court-by-26-former-employees-who-claim-that-the-company-relied-on-factors-such-as-productivity-and-ai-token-usage-discriminating-against-people-who-have-disabilities-take-medical-leave-or-are-/articleshow/132394681.cms",
+          "date": "14 Jul 2026",
+          "summary": "Former Meta employees filed a federal lawsuit alleging AI-driven discrimination during recent mass layoffs. The suit claims the company's internal system unfairly targeted vulnerable workers for termination. These workers argue automated performance metrics di…"
+        },
+        {
           "title": "Why US attack on Iran's submarine repair facility could change naval warfare forever",
           "link": "https://timesofindia.indiatimes.com/defence/international/why-us-attack-on-irans-submarine-repair-facility-could-change-naval-warfare-forever/articleshow/132367587.cms",
           "date": "14 Jul 2026",
@@ -214,16 +238,76 @@
           "summary": "Chasing 259, India lost Rohit Sharma (11) and Virat Kohli (5) early, slipping to 48/2. Gill then rebuilt the innings with vice-captain Shreyas Iyer, adding 101 runs for the third wicket."
         },
         {
+          "title": "Jeff Bezos’ wife Lauren Sánchez leads $100M investment to transform 8 US cities",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-made-what-remains-the-largest-individual-philanthropic-commitment-to-climate-change-ever-in-2020-his-wife-lauren-sanchez-bezos-who-is-leading-the-charge-to-spend-it-has-announced-100-million-investment-in-eight-us-cities-to-/articleshow/132386874.cms",
+          "date": "14 Jul 2026",
+          "summary": "Lauren Sanchez Bezos is directing significant Bezos Earth Fund investments. The fund is transforming urban spaces into green community hubs. This initiative aims to connect people and nature within cities. The Bezos Earth Fund also supports marine protection a…"
+        },
+        {
+          "title": "Jean Carroll receives $5.6m in sexual abuse case after yrs-long legal battle with Trump",
+          "link": "https://timesofindia.indiatimes.com/world/us/e-jean-carroll-receives-5-6-million-in-sexual-abuse-case-after-years-long-legal-battle-with-trump/articleshow/132398267.cms",
+          "date": "14 Jul 2026",
+          "summary": "Writer E. Jean Carroll has received over $5.6 million in damages awarded in her civil case against US President Donald Trump after a federal court released funds held in escrow during the appeals process. The payment follows the US Supreme Court's decision to…"
+        },
+        {
+          "title": "Britain bought lifeless farmland for £13.8m, now beavers help it earn",
+          "link": "https://timesofindia.indiatimes.com/world/uk/britain-bought-1525-acres-of-nearly-lifeless-farmland-for-13-8-million-four-years-later-beavers-are-helping-it-make-money/articleshow/132368158.cms",
+          "date": "13 Jul 2026",
+          "summary": "A farm in Lincolnshire is evolving into a lucrative wildland endeavor, with beavers playing a pivotal role in this ecological project. The initiative focuses on demonstrating that restoring nature can lead to substantial private income. Current revenue streams…"
+        },
+        {
+          "title": "After renting in Dubai for 15 years, is buying now finally cheaper?",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/after-renting-in-dubai-for-15-years-is-buying-now-finally-cheaper-the-five-numbers-every-tenant-should-calculate/articleshow/132392192.cms",
+          "date": "15 Jul 2026",
+          "summary": "Many Dubai tenants question buying property after years of rent payments. Experts advise focusing on current finances and future plans for this decision. Owning a home offers stability and equity while protecting against rising rental costs. Buyers should care…"
+        },
+        {
+          "title": "IBM stock sees worst in 39 years, CEO admits company 'failed' to close large deals",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/ibm-stock-sees-worst-in-39-years-ceo-arvind-krishna-admits-to-investors-that-the-company-failed-to-close-large-deals-says-in-the-last-few-weeks-of-june-we-saw-/articleshow/132395030.cms",
+          "date": "14 Jul 2026",
+          "summary": "IBM's stock experienced a historic collapse on Wall Street after missing financial expectations. Preliminary second-quarter revenue fell short as clients shifted spending towards hardware. Chief Executive Arvind Krishna acknowledged the company's failure to ad…"
+        },
+        {
+          "title": "Kick streamer SuzieSmalls dies after being found dead in her apartment",
+          "link": "https://timesofindia.indiatimes.com/world/us-streamers/kick-streamer-suziesmalls-dies-after-being-found-dead-in-her-apartment/articleshow/132400692.cms",
+          "date": "15 Jul 2026",
+          "summary": "Kick streamer SuzieSmalls, whose real name was Suzette, was found deceased. Her channel moderator confirmed the tragic news on the morning of July thirteenth. Suzie gained popularity through her IRL streams and Fishtank Live appearances. Fans and fellow creato…"
+        },
+        {
+          "title": "Chris Hemsworth’s muscle-building diet: Inside his 4,500-calorie superhero meal plan",
+          "link": "https://timesofindia.indiatimes.com/etimes/wellness/chris-hemsworths-muscle-building-diet-revealed-the-4500-calorie-meal-plan-protein-packed-foods-and-banana-shake-behind-his-superhero-physique/articleshow/132368090.cms",
+          "date": "14 Jul 2026",
+          "summary": "For Chris Hemsworth, maintaining a powerful physique starts in the kitchen. His personal chef disclosed a comprehensive 4500-calorie bulking regimen spread over ten meals. While his diet has experienced variations, including a vegan phase for acting roles, he…"
+        },
+        {
+          "title": "Cabinet likely to approve Rs 25,000 crore Ganga, Varuna corridors for Varanasi",
+          "link": "https://timesofindia.indiatimes.com/india/cabinet-likely-to-approve-rs-25000-crore-ganga-varuna-corridors-for-varanasi/articleshow/132400756.cms",
+          "date": "15 Jul 2026",
+          "summary": "The Union Cabinet is expected to approve two major elevated road projects in Varanasi. These projects, the Ganga and Varuna Corridors, will cost nearly twenty-five thousand crore rupees. The Ganga Elevated Corridor will be a forty-six-kilometer highway along t…"
+        },
+        {
+          "title": "How Jude Bellingham's parents shaped England's football superstar",
+          "link": "https://timesofindia.indiatimes.com/sports/international-sports/who-are-jude-bellinghams-parents-inside-denise-and-mark-bellinghams-role-in-shaping-the-england-star/articleshow/132331752.cms",
+          "date": "12 Jul 2026",
+          "summary": "Denise and Mark Bellingham have been central to Jude Bellingham’s rise from a young footballer in Birmingham to one of England’s biggest stars. Through career sacrifices, constant support, and important decisions, they have helped shape both Jude and Jobe’s ca…"
+        },
+        {
+          "title": "Meet Michael Olise's parents who shaped France star's football journey",
+          "link": "https://timesofindia.indiatimes.com/sports/international-sports/who-are-michael-olises-parents-all-about-vincent-and-mina-olise/articleshow/132380967.cms",
+          "date": "14 Jul 2026",
+          "summary": "Michael Olise's decision to represent France at the 2026 FIFA World Cup is rooted in family as much as football. His father, Vincent, played cricket for Nigeria across nearly a decade and passed on a love of sport beyond the game. His mother, Mina, a French wo…"
+        },
+        {
+          "title": "Canadiens face tough call as NHL teams target veteran defenseman",
+          "link": "https://timesofindia.indiatimes.com/sports/nhl/news/nhl-trade-rumor-montreal-canadiens-face-roster-dilemma-with-veteran-teams-exploring-a-key-defenseman-option/articleshow/132387320.cms",
+          "date": "14 Jul 2026",
+          "summary": "NHL teams are reportedly eyeing the availability of a physical blueliner, and the Montreal Canadiens are being eyed more in relation to their defensive group. Montreal has a few established defensemen and top prospects battling for roster spots. The situation…"
+        },
+        {
           "title": "'Will replace 20% Hormuz fee with ... ': Trump says strait open for all but Iran",
           "link": "https://timesofindia.indiatimes.com/world/us/will-replace-20-hormuz-fee-with-trump-says-strait-open-for-all-but-iran/articleshow/132396009.cms",
           "date": "14 Jul 2026",
           "summary": ""
-        },
-        {
-          "title": "Meta layoffs: 26 ex-employees sue, allege medical info was used to target them",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/after-8000-layoffs-meta-taken-to-court-by-26-former-employees-who-claim-that-the-company-relied-on-factors-such-as-productivity-and-ai-token-usage-discriminating-against-people-who-have-disabilities-take-medical-leave-or-are-/articleshow/132394681.cms",
-          "date": "14 Jul 2026",
-          "summary": "Former Meta employees filed a federal lawsuit alleging AI-driven discrimination during recent mass layoffs. The suit claims the company's internal system unfairly targeted vulnerable workers for termination. These workers argue automated performance metrics di…"
         },
         {
           "title": "IND vs ENG: Bumrah surpasses Ajit Agarkar, becomes third fastest Indian to ...",
@@ -238,34 +322,16 @@
           "summary": "Nasa astronaut Anil Menon launched for his first spaceflight mission. He will spend eight months aboard the International Space Station. Menon will conduct scientific experiments and technology demonstrations. His research focuses on human adaptation to microg…"
         },
         {
+          "title": "Scientists race to solve Poland's 90-year-old Crooked Forest mystery before it's lost",
+          "link": "https://timesofindia.indiatimes.com/science/scientists-are-racing-to-solve-the-mystery-of-polands-90-year-old-crooked-forest-before-its-bizarre-c-shaped-pine-trees-die-out-forever/articleshow/132399204.cms",
+          "date": "15 Jul 2026",
+          "summary": "A Polish woodland features hundreds of pine trees with lower trunks curving sharply near the ground. These trees were planted in the late 1920s and later abandoned due to war. Foresters may have deliberately bent the saplings for specialized timber production…"
+        },
+        {
           "title": "UK wasted £9.9 billion on Covid PPE, finds inquiry; stockpile, procurement flaws flagged",
           "link": "https://timesofindia.indiatimes.com/world/uk/uk-wasted-9-9-billion-on-covid-ppe-finds-inquiry-stockpile-procurement-flaws-flagged/articleshow/132397337.cms",
           "date": "14 Jul 2026",
           "summary": ""
-        },
-        {
-          "title": "Jeff Bezos’ wife Lauren Sánchez leads $100M investment to transform 8 US cities",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-made-what-remains-the-largest-individual-philanthropic-commitment-to-climate-change-ever-in-2020-his-wife-lauren-sanchez-bezos-who-is-leading-the-charge-to-spend-it-has-announced-100-million-investment-in-eight-us-cities-to-/articleshow/132386874.cms",
-          "date": "14 Jul 2026",
-          "summary": "Lauren Sanchez Bezos is directing significant Bezos Earth Fund investments. The fund is transforming urban spaces into green community hubs. This initiative aims to connect people and nature within cities. The Bezos Earth Fund also supports marine protection a…"
-        },
-        {
-          "title": "Jennifer Lopez and Ben Affleck’s $68m mansion finds buyer after price cut",
-          "link": "https://timesofindia.indiatimes.com/real-estate/news/jennifer-lopez-and-ben-affleck-bought-their-beverly-hills-mansion-for-60-9m-listed-it-for-68m-after-their-split-and-it-has-now-found-a-buyer-after-a-steep-price-cut/articleshow/132389222.cms",
-          "date": "14 Jul 2026",
-          "summary": "Jennifer Lopez has sold the Beverly Hills mansion she shared with Ben Affleck. The couple purchased the large estate for over sixty million dollars in 2023. After their divorce, the property was listed and relisted multiple times. Affleck gifted his share to L…"
-        },
-        {
-          "title": "Labrador could not walk on Britain’s highest mountain after eating this",
-          "link": "https://timesofindia.indiatimes.com/world/uk/a-labrador-began-swaying-and-could-no-longer-walk-on-britains-highest-mountain-rescuers-later-discovered-what-she-had-eaten/articleshow/132389257.cms",
-          "date": "14 Jul 2026",
-          "summary": "A black Labrador named Tokyo collapsed during a hike up Ben Nevis in Scotland. Vets suspected the dog ingested discarded cannabis which caused her serious illness. The Lochaber Mountain Rescue Team assisted in bringing the unwell dog down the mountain. Tokyo r…"
-        },
-        {
-          "title": "IBM stock sees worst in 39 years, CEO admits company 'failed' to close large deals",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/ibm-stock-sees-worst-in-39-years-ceo-arvind-krishna-admits-to-investors-that-the-company-failed-to-close-large-deals-says-in-the-last-few-weeks-of-june-we-saw-/articleshow/132395030.cms",
-          "date": "14 Jul 2026",
-          "summary": "IBM's stock experienced a historic collapse on Wall Street after missing financial expectations. Preliminary second-quarter revenue fell short as clients shifted spending towards hardware. Chief Executive Arvind Krishna acknowledged the company's failure to ad…"
         },
         {
           "title": "Affordable rental housing scheme: Who can apply and key conditions explained",
@@ -284,24 +350,6 @@
           "link": "https://timesofindia.indiatimes.com/world/europe/several-dead-in-brussels-construction-site-fire-say-authorities/articleshow/132397732.cms",
           "date": "14 Jul 2026",
           "summary": ""
-        },
-        {
-          "title": "How Jude Bellingham's parents shaped England's football superstar",
-          "link": "https://timesofindia.indiatimes.com/sports/international-sports/who-are-jude-bellinghams-parents-inside-denise-and-mark-bellinghams-role-in-shaping-the-england-star/articleshow/132331752.cms",
-          "date": "12 Jul 2026",
-          "summary": "Denise and Mark Bellingham have been central to Jude Bellingham’s rise from a young footballer in Birmingham to one of England’s biggest stars. Through career sacrifices, constant support, and important decisions, they have helped shape both Jude and Jobe’s ca…"
-        },
-        {
-          "title": "Tom Segura, Christina P split after 18 years, will continue podcast together",
-          "link": "https://timesofindia.indiatimes.com/world/us-streamers/why-did-tom-segura-and-christina-p-separate-after-their-18-year-marriage-podcasters-split-details-emerge/articleshow/132378680.cms",
-          "date": "14 Jul 2026",
-          "summary": "Tom Segura and Christina P have reportedly separated after 18 years of marriage, according to TMZ. The news has surprised many fans who have followed the couple’s journey through comedy, podcasts and television projects. While the pair have remained largely pr…"
-        },
-        {
-          "title": "Bruins, Flyers eye $2.6m Kraken star Shane Wright in trade buzz",
-          "link": "https://timesofindia.indiatimes.com/sports/nhl/news/nhl-trade-rumor-boston-bruins-and-philadelphia-flyers-emerge-as-landing-spots-for-2-6m-seattle-krakens-star/articleshow/132376493.cms",
-          "date": "14 Jul 2026",
-          "summary": "The Seattle Kraken’s star player Shane Wright ended the last season with 12 goals and 27 points in 74 games, sparking concern about him. It seems this has led him to actively seek trade from the team as the Seattle kraken is reportedly actively working to move…"
         },
         {
           "title": "Injury scare for India: Shubman Gill walks off retired hurt in England ODI",
@@ -326,54 +374,6 @@
           "link": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/lionel-messis-lucky-referee-fifa-appointment-for-england-vs-argentina-sparks-fresh-debate/articleshow/132395954.cms",
           "date": "14 Jul 2026",
           "summary": "Moroccan-American referee Ismail Elfath will officiate the World Cup semi-final between England and Argentina. Elfath has previously overseen several significant matches involving Lionel Messi. Online speculation has arisen due to these past coincidences and M…"
-        },
-        {
-          "title": "1.44kg gold, 12kg silver: Raid on Hyderabad civic official uncovers Rs 9.24cr assets",
-          "link": "https://timesofindia.indiatimes.com/city/hyderabad/5-plots-4-flats-villa-1-44kg-gold-12kg-silver-acb-raid-uncovers-rs-9-24-crore-assets-linked-to-hyderabad-development-authority-chief-engineer-b-ravinder/articleshow/132395170.cms",
-          "date": "14 Jul 2026",
-          "summary": "Telangana ACB registered a case against HMDA Chief Engineer B Ravinder. Searches unearthed assets valued at over Rs 9.24 crore from his properties. Officials recovered cash, bank deposits, and significant gold and silver ornaments. Documents revealed ownership…"
-        },
-        {
-          "title": "Trump's Section 301 probe: Why India's forced labour import ban matters",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/trump-admins-section-301-probe-why-indias-ban-on-import-of-goods-produced-through-use-of-forced-labour-is-important/articleshow/132395962.cms",
-          "date": "14 Jul 2026",
-          "summary": "The move comes against the backdrop of a US investigation into forced labour practices across 60 economies, including India. The notification said the new provisions will take effect after the completion of 30 days from the date of their publication in the Off…"
-        },
-        {
-          "title": "'No rift in party': NCP rejects challenge to Sunetra Pawar's election as chief",
-          "link": "https://timesofindia.indiatimes.com/india/no-rift-in-party-ncp-rejects-challenge-to-sunetra-pawars-election-as-chief/articleshow/132395137.cms",
-          "date": "14 Jul 2026",
-          "summary": "NCP leaders Praful Patel and Sunil Tatkare dismissed a notice questioning Sunetra Pawar's election. They asserted the election was constitutional and the notice held no significance. The notice alleged Sunetra Pawar's election was unconstitutional and should b…"
-        },
-        {
-          "title": "'Systemic exploitation': India urges world to hold Pak 'fully accountable' over PoK unrest",
-          "link": "https://timesofindia.indiatimes.com/india/decades-long-systemic-exploitation-india-urges-world-to-hold-pakistan-fully-accountable-over-pok-protests/articleshow/132390907.cms",
-          "date": "14 Jul 2026",
-          "summary": "India stated Pakistan's exploitation causes protests in Pakistan-occupied Jammu and Kashmir. The ministry of external affairs spokesperson Randhir Jaiswal accused Islamabad of excessive force against public dissent. India maintains Pakistan-occupied Jammu and…"
-        },
-        {
-          "title": "Institutional investments in Indian real estate jump 58% in Jan-June: Report",
-          "link": "https://timesofindia.indiatimes.com/real-estate/news/institutional-investments-in-indian-real-estate-jump-58-to-record-4-1-billion-in-january-june-report/articleshow/132373362.cms",
-          "date": "14 Jul 2026",
-          "summary": "In the first half of 2026, India’s real estate sector saw unprecedented institutional investments totaling $4.1 billion. This remarkable growth was driven by both heightened domestic capital involvement and an influx of foreign investors. The commercial real e…"
-        },
-        {
-          "title": "WC semifinal preview: France vs Spain - can Mbappe and Co be stopped?",
-          "link": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/offside-world-cup-semifinal-preview-france-vs-spain-can-mbappe-and-co-be-stopped/articleshow/132396008.cms",
-          "date": "14 Jul 2026",
-          "summary": "On Bastille Day, Mbappé’s rampant France face the Bourbon kingdom that has stopped them twice, with Yamal and Spain’s iron defence standing between Les Bleus and a third successive World Cup final."
-        },
-        {
-          "title": "Who is Anil Menon, Indian-origin Nasa astronaut headed to ISS",
-          "link": "https://timesofindia.indiatimes.com/science/who-is-anil-menon-indian-origin-nasa-astronaut-headed-to-iss/articleshow/132395032.cms",
-          "date": "14 Jul 2026",
-          "summary": ""
-        },
-        {
-          "title": "MS Dhoni and Kriti Sanon steal the spotlight at India vs England ODI",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/ms-dhoni-and-kriti-sanon-steal-the-spotlight-at-india-vs-england-odi-with-surprise-appearance/articleshow/132393944.cms",
-          "date": "14 Jul 2026",
-          "summary": "MS Dhoni and Kriti Sanon attended the India versus England ODI match. England collapsed from a strong start to a low total. Jasprit Bumrah and Gurnoor Brar took key wickets. Joe Root and Liam Dawson led a spirited recovery for England. Axar Patel's late spell…"
         }
       ]
     },
@@ -1152,6 +1152,18 @@
       "ok": true,
       "items": [
         {
+          "title": "Google DeepMind Calls For US To Spearhead AI Standards Body",
+          "link": "https://yro.slashdot.org/story/26/07/14/1934241/google-deepmind-calls-for-us-to-spearhead-ai-standards-body?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "14 Jul 2026",
+          "summary": "Google DeepMind chief Demis Hassabis is calling for a U.S.-led AI standards body to review frontier models for national security risks such as cybersecurity and biological threats. His proposal would create a federally overseen public-private organization, ini…"
+        },
+        {
+          "title": "Linux Foundation's Latest Foray Is To Standardize Internet-Native Payments For AI Agents",
+          "link": "https://linux.slashdot.org/story/26/07/14/1853255/linux-foundations-latest-foray-is-to-standardize-internet-native-payments-for-ai-agents?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "14 Jul 2026",
+          "summary": "Today, the Linux Foundation launched the x402 Foundation to standardize internet-native payments for AI agents, APIs, and applications, based on Coinbase's contributed x402 protocol. Backed by companies including AWS, American Express, Cloudflare, Google, Mast…"
+        },
+        {
           "title": "OnePlus Is Reportedly Shutting Down In the US, Europe",
           "link": "https://mobile.slashdot.org/story/26/07/14/1641233/oneplus-is-reportedly-shutting-down-in-the-us-europe?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "14 Jul 2026",
@@ -1228,18 +1240,6 @@
           "link": "https://tech.slashdot.org/story/26/07/13/1645252/cloudflare-precursor-watches-your-mouse-and-keyboard-to-decide-if-you-are-human?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "13 Jul 2026",
           "summary": "BrianFagioli writes: Cloudflare has launched Precursor, a new behavioral bot detection system that monitors mouse movement, typing cadence, scrolling, clipboard activity, page visibility, and other signals across an entire browsing session. The system is desig…"
-        },
-        {
-          "title": "Social Media Limits Are Coming For Teens Across Europe",
-          "link": "https://tech.slashdot.org/story/26/07/13/1638208/social-media-limits-are-coming-for-teens-across-europe?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "13 Jul 2026",
-          "summary": "The European Union is considering major new restrictions on children's access to social media, including age limits, phased access, and an outright ban. \"This is not about whether children can access social media,\" said European Commission President Ursula von…"
-        },
-        {
-          "title": "Why 55% of Americans Stopped Posting On Social Media",
-          "link": "https://tech.slashdot.org/story/26/07/13/0548235/why-55-of-americans-stopped-posting-on-social-media?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "13 Jul 2026",
-          "summary": "A new Incogni survey suggests Americans are pulling back from social media, with more than half saying \"maintaining an online presence feels like work\" and 55% reporting they post less than they did five years ago. \"The full study concludes that there's been a…"
         }
       ]
     },
@@ -1630,184 +1630,184 @@
       "ok": true,
       "items": [
         {
-          "title": "retryhttp2 added to PyPI",
-          "link": "https://pypi.org/project/retryhttp2/",
+          "title": "echovault-flac-enhancer added to PyPI",
+          "link": "https://pypi.org/project/echovault-flac-enhancer/",
           "date": "14 Jul 2026",
-          "summary": "Zero-config HTTP retries with exponential backoff, jitter, and OAuth2 token refresh for httpx and requests"
+          "summary": "Standalone CLI for batch-enhancing lossy audio to FLAC via EchoVault's ONNX model"
         },
         {
-          "title": "asymptotic-ethics-mcp added to PyPI",
-          "link": "https://pypi.org/project/asymptotic-ethics-mcp/",
+          "title": "apify-bulk-url-status-checker added to PyPI",
+          "link": "https://pypi.org/project/apify-bulk-url-status-checker/",
           "date": "14 Jul 2026",
-          "summary": "MCP server exposing an Asymptotic Ethics commons-governance simulation as callable tools, plus a stateless governance compliance oracle verified against the simulation's own logic."
+          "summary": "Bulk URL Status & Broken Link Checker — free API client for the Apify platform. No API key setup, thousands of structured results, export to JSON, CSV or Excel."
         },
         {
-          "title": "ultrasonic-img-steg added to PyPI",
-          "link": "https://pypi.org/project/ultrasonic-img-steg/",
+          "title": "ailia-tracker added to PyPI",
+          "link": "https://pypi.org/project/ailia-tracker/",
           "date": "14 Jul 2026",
-          "summary": "A package that allows embedding images or encoding data into (and decoding from) the ultrasound frequencies of .wav files"
+          "summary": "ailia Tracker"
         },
         {
-          "title": "aimlib added to PyPI",
-          "link": "https://pypi.org/project/aimlib/",
+          "title": "apify-uk-companies-house-bulk-scraper added to PyPI",
+          "link": "https://pypi.org/project/apify-uk-companies-house-bulk-scraper/",
           "date": "14 Jul 2026",
-          "summary": "Python SDK for aimlib mobile proxies and remote-browser sessions"
+          "summary": "UK Companies House Bulk Scraper — free API client for the Apify platform. No API key setup, thousands of structured results, export to JSON, CSV or Excel."
         },
         {
-          "title": "cmgraph added to PyPI",
-          "link": "https://pypi.org/project/cmgraph/",
+          "title": "apify-website-contact-scraper added to PyPI",
+          "link": "https://pypi.org/project/apify-website-contact-scraper/",
           "date": "14 Jul 2026",
-          "summary": "Conley Morse Graph: cell maps, Morse graphs, and homological Conley indices for discrete-time dynamical systems."
+          "summary": "Website Contact Extractor: Emails, Phones & Socials — free API client for the Apify platform. No API key setup, thousands of structured results, export to JSON, CSV or Excel."
         },
         {
-          "title": "lmdl added to PyPI",
-          "link": "https://pypi.org/project/lmdl/",
+          "title": "apify-reddit-historical-archive-scraper added to PyPI",
+          "link": "https://pypi.org/project/apify-reddit-historical-archive-scraper/",
           "date": "14 Jul 2026",
-          "summary": "Language-Model Domain Language: planning domains as typed, pydantic-validated JSON with PDDL compilation and template-driven NL rendering"
+          "summary": "Reddit Historical Archive Scraper - Old Posts by Date — free API client for the Apify platform. No API key setup, thousands of structured results, export to JSON, CSV or Excel."
         },
         {
-          "title": "redmine-mcp-workflows added to PyPI",
-          "link": "https://pypi.org/project/redmine-mcp-workflows/",
+          "title": "artificial-intelligence-local added to PyPI",
+          "link": "https://pypi.org/project/artificial-intelligence-local/",
           "date": "14 Jul 2026",
-          "summary": "Schema-aware Model Context Protocol server for Redmine: validates workflow transitions, custom fields, and required fields against a per-tracker cache before round-tripping the API."
+          "summary": "PyPI artificial-intelligence-local Python Package owned by Circlez.ai"
         },
         {
-          "title": "dcc-mcp-godot added to PyPI",
-          "link": "https://pypi.org/project/dcc-mcp-godot/",
+          "title": "projectmemory-cli added to PyPI",
+          "link": "https://pypi.org/project/projectmemory-cli/",
           "date": "14 Jul 2026",
-          "summary": "Godot Engine adapter and 2D game-authoring skills for DCC-MCP"
+          "summary": "Project Memory CLI — developer context in your terminal"
         },
         {
-          "title": "powerpoint-engine-api added to PyPI",
-          "link": "https://pypi.org/project/powerpoint-engine-api/",
+          "title": "EPICProver added to PyPI",
+          "link": "https://pypi.org/project/epicprover/",
           "date": "14 Jul 2026",
-          "summary": "Python SDK for the PowerPoint Engine API - generate, edit, merge and PDF-convert PowerPoint decks over HTTP"
+          "summary": "A proof system for modal logic with cluster moderator architecture"
         },
         {
-          "title": "fastapi-extended-query-method added to PyPI",
-          "link": "https://pypi.org/project/fastapi-extended-query-method/",
+          "title": "aether-nn added to PyPI",
+          "link": "https://pypi.org/project/aether-nn/",
           "date": "14 Jul 2026",
-          "summary": "Native HTTP QUERY method support for FastAPI with automatic cache control and Swagger compatibility."
+          "summary": "Aether: A Post-Transformer Neural Architecture — 20x smaller, trains on phone CPU"
         },
         {
-          "title": "eno-mcp added to PyPI",
-          "link": "https://pypi.org/project/eno-mcp/",
+          "title": "worldpay-apimatic-sdk added to PyPI",
+          "link": "https://pypi.org/project/worldpay-apimatic-sdk/",
           "date": "14 Jul 2026",
-          "summary": "eno-mcp — MCP stdio server exposing the vault's read tools to coding agents"
+          "summary": "Sample SDKs for Worldpay by APIMatic"
         },
         {
-          "title": "enowiki added to PyPI",
-          "link": "https://pypi.org/project/enowiki/",
+          "title": "hermes-apertis-provider added to PyPI",
+          "link": "https://pypi.org/project/hermes-apertis-provider/",
           "date": "14 Jul 2026",
-          "summary": "eno — vault indexing, parsing, and query primitives"
+          "summary": "Apertis AI model-provider plugin for Hermes Agent"
         },
         {
-          "title": "eno-service added to PyPI",
-          "link": "https://pypi.org/project/eno-service/",
+          "title": "openstack-janitor added to PyPI",
+          "link": "https://pypi.org/project/openstack-janitor/",
           "date": "14 Jul 2026",
-          "summary": "eno-service — FastAPI face on eno's read endpoints"
+          "summary": "Audit an OpenStack cloud for orphaned and wasteful resources"
         },
         {
-          "title": "revona added to PyPI",
-          "link": "https://pypi.org/project/revona/",
+          "title": "quasar-context added to PyPI",
+          "link": "https://pypi.org/project/quasar-context/",
           "date": "14 Jul 2026",
-          "summary": "Autonomous AI Engineering Platform — built by LX Obsidian Labs"
+          "summary": "Faithful context optimization for RAG apps — compress without corrupting critical data"
         },
         {
-          "title": "aa-agent-tools added to PyPI",
-          "link": "https://pypi.org/project/aa-agent-tools/",
+          "title": "praisonai-train added to PyPI",
+          "link": "https://pypi.org/project/praisonai-train/",
           "date": "14 Jul 2026",
-          "summary": "aa_agent_tools - a friendly, Pyodide-ready toolbox of cool functions for kid-built agents (web search, fetch pages, email, AI, weather, and tons of fun stuff)."
+          "summary": "Training for PraisonAI — LLM fine-tuning (Unsloth) and iterative agent training extracted from the praisonai wrapper."
         },
         {
-          "title": "django-perfy added to PyPI",
-          "link": "https://pypi.org/project/django-perfy/",
+          "title": "remedi added to PyPI",
+          "link": "https://pypi.org/project/remedi/",
           "date": "14 Jul 2026",
-          "summary": "API, WebSocket and server performance monitoring for Django, with a built-in admin dashboard and PDF reports."
+          "summary": "Smooth, chiral 3D molecular descriptors from atomistic foundation models"
         },
         {
-          "title": "linman added to PyPI",
-          "link": "https://pypi.org/project/linman/",
+          "title": "yeco-lens added to PyPI",
+          "link": "https://pypi.org/project/yeco-lens/",
           "date": "14 Jul 2026",
-          "summary": "Linman - Manage your Linux applications across all formats."
+          "summary": "X-ray vision for your LLM. Stream real logprobs to the Yeco-Lens dashboard."
         },
         {
-          "title": "guardrails-ai-valid-json added to PyPI",
-          "link": "https://pypi.org/project/guardrails-ai-valid-json/",
+          "title": "kivi-cli added to PyPI",
+          "link": "https://pypi.org/project/kivi-cli/",
           "date": "14 Jul 2026",
-          "summary": "Ensure content is parseable as valid JSON."
+          "summary": "Kivi AI v2 Backend — Unified FastAPI gateway for AI coding agents"
         },
         {
-          "title": "pouchy-companion added to PyPI",
-          "link": "https://pypi.org/project/pouchy-companion/",
+          "title": "carcal added to PyPI",
+          "link": "https://pypi.org/project/carcal/",
           "date": "14 Jul 2026",
-          "summary": "Pouchy companion SDK for Python — thin httpx/SSE client + pydantic models for server-side integrators (game backends, bots, services)."
+          "summary": "carcal — a terminal packet analyzer (a tiny Wireshark for the TUI)"
         },
         {
-          "title": "pytokencalc added to PyPI",
-          "link": "https://pypi.org/project/pytokencalc/",
+          "title": "mem01-engine added to PyPI",
+          "link": "https://pypi.org/project/mem01-engine/",
           "date": "14 Jul 2026",
-          "summary": "Multi-provider LLM token counter & cost calculator. Unified token counting and cost calculation across 20+ cloud providers and 10+ open-source APIs."
+          "summary": "Belief-based agent memory: correct under evolution, cheap on recall"
         },
         {
-          "title": "anviksha added to PyPI",
-          "link": "https://pypi.org/project/anviksha/",
+          "title": "ex-package-sahil-bhardwaj added to PyPI",
+          "link": "https://pypi.org/project/ex-package-sahil-bhardwaj/",
           "date": "14 Jul 2026",
-          "summary": "Anviksha Runtime Engine: adaptive AI execution runtime"
+          "summary": "None"
         },
         {
-          "title": "easydotdict added to PyPI",
-          "link": "https://pypi.org/project/easydotdict/",
+          "title": "mem01session added to PyPI",
+          "link": "https://pypi.org/project/mem01session/",
           "date": "14 Jul 2026",
-          "summary": "Effortless nested dictionary access — dot notation, safe missing keys, auto-vivification, and more"
+          "summary": "Embedded long-term memory sessions for the OpenAI Agents SDK"
         },
         {
-          "title": "youtube-helper added to PyPI",
-          "link": "https://pypi.org/project/youtube-helper/",
+          "title": "altr-oss added to PyPI",
+          "link": "https://pypi.org/project/altr-oss/",
           "date": "14 Jul 2026",
-          "summary": "YouTube Helper — yt-dlp wrapper for downloading videos / audio / thumbnails, resolving direct media URLs, browsing video stream catalogs, and pulling no-API engagement metadata (channel / video / comments / subtitles) on YouTube, Vimeo, DailyMotion, Twitch VOD…"
+          "summary": "Open source doc / excel / ppt skills for LLMs - Groq, Ollama, vLLM, any OpenAI-compatible endpoint."
         },
         {
-          "title": "vocal-helper added to PyPI",
-          "link": "https://pypi.org/project/vocal-helper/",
+          "title": "jarvis-agent added to PyPI",
+          "link": "https://pypi.org/project/jarvis-agent/",
           "date": "14 Jul 2026",
-          "summary": "Vocal Helper — async producer/consumer pipeline turning a live PCM stream into diarized, transcribed utterances and (optionally) a rolling LLM summary. Stages: VAD (Silero) → online speaker diarization (Hungarian-style cosine clustering on backend embeddings)…"
+          "summary": "J.A.R.V.I.S — 你的钢铁侠同款桌面 AI 助手。可对话、可操作电脑、可后台常驻、能听会说，支持 30+ 内置工具、MCP 生态接入、多模型动态切换。"
         },
         {
-          "title": "azulene-studio added to PyPI",
-          "link": "https://pypi.org/project/azulene-studio/",
+          "title": "irotechlab_irodb added to PyPI",
+          "link": "https://pypi.org/project/irotechlab-irodb/",
           "date": "14 Jul 2026",
-          "summary": "A CLI and Python library to interact with Azulene Studio"
+          "summary": "None"
         },
         {
-          "title": "boti-dask added to PyPI",
-          "link": "https://pypi.org/project/boti-dask/",
+          "title": "abstract-human-being added to PyPI",
+          "link": "https://pypi.org/project/abstract-human-being/",
           "date": "14 Jul 2026",
-          "summary": "Dask runtime and resilience utilities for the Boti ecosystem"
+          "summary": "Abstract human being"
         },
         {
-          "title": "mycloud-sdk added to PyPI",
-          "link": "https://pypi.org/project/mycloud-sdk/",
+          "title": "aruba-client added to PyPI",
+          "link": "https://pypi.org/project/aruba-client/",
           "date": "14 Jul 2026",
-          "summary": "Official Python SDK for myCloud - your personal cloud storage"
+          "summary": "Aruba Central MSP client — typed wrappers around the network-monitoring API"
         },
         {
-          "title": "koan-verifiers added to PyPI",
-          "link": "https://pypi.org/project/koan-verifiers/",
+          "title": "nexusphp-cli added to PyPI",
+          "link": "https://pypi.org/project/nexusphp-cli/",
           "date": "14 Jul 2026",
-          "summary": "Pack-independent Verifiers v1 adapter for Koan EpisodeSession environments."
+          "summary": "Read NexusPHP private-tracker torrents from the terminal as Markdown or JSON."
         },
         {
-          "title": "koan-core added to PyPI",
-          "link": "https://pypi.org/project/koan-core/",
+          "title": "as-redis-mcp-server added to PyPI",
+          "link": "https://pypi.org/project/as-redis-mcp-server/",
           "date": "14 Jul 2026",
-          "summary": "Koan core: task model, environment plumbing, verification, QC gates, and the koan CLI."
+          "summary": "Read-only Redis AI Assistant for Qoder IDE - MCP Server with 8 semantic tools for key inspection, search, pattern analysis, health check, memory analysis, slowlog analysis, cache advisor, and readonly queries. Features deep-defense security: command whitelist,…"
         },
         {
-          "title": "retrieval-ai added to PyPI",
-          "link": "https://pypi.org/project/retrieval-ai/",
+          "title": "zalo-api added to PyPI",
+          "link": "https://pypi.org/project/zalo-api/",
           "date": "14 Jul 2026",
-          "summary": "Reserved package name."
+          "summary": "Zalo API client for Python"
         }
       ]
     }
