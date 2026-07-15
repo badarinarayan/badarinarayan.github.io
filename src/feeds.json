@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-15T15:19:28Z",
+  "generated": "2026-07-15T17:07:07Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,12 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "Sebi tightens conflict safeguards with recusal framework",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-tightens-conflict-safeguards-with-recusal-framework/articleshow/132419435.cms",
+          "date": "15 Jul 2026",
+          "summary": "In a significant move, SEBI has established a formal framework for recusal among its senior officials. This code mandates that officials withdraw from matters where conflicts may arise, including personal, professional, and financial interests. Additionally, t…"
+        },
         {
           "title": "SBI Funds Management IPO: Issue gets subscribed 2.77 times on Day 2; GMP signals 16% listing gains",
           "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/sbi-funds-management-ipo-day-2-gmp-signals-16-listing-gain-subscription-gains-momentum-should-you-subscribe/articleshow/132405150.cms",
@@ -36,12 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hdb-financial-q1-results-profit-rises-38-yoy-to-rs-785-crore-nii-up-20/articleshow/132414340.cms",
           "date": "15 Jul 2026",
           "summary": "HDB Financial Q1 Results: HDB Financial Services reported a 38% profit increase for the June quarter. Net interest income grew twenty percent, supporting overall financial performance. Assets under management reached one point two two lakh crore rupees. Asset…"
-        },
-        {
-          "title": "Q1 results today: HDFC Life Insurance, HDB Financial, Jana SFB, ICICI Prudential among 43 companies to report earnings",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/q1-results-today-hdfc-life-insurance-hdb-financial-jana-sfb-icici-prudential-among-43-companies-to-report-earnings/articleshow/132409435.cms",
-          "date": "15 Jul 2026",
-          "summary": "The June quarter earnings season gathers pace with 43 companies, including HDFC Life Insurance, HDB Financial Services, Jana Small Finance Bank and ICICI Prudential Life Insurance, set to report results today. Around 143 companies will announce earnings this w…"
         },
         {
           "title": "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
@@ -196,10 +196,10 @@
       "ok": true,
       "items": [
         {
-          "title": "Pakistan's Libya peace push has a China connection and $4 billion price tag",
-          "link": "https://timesofindia.indiatimes.com/world/pakistan/pakistans-libya-peace-push-has-a-china-connection-and-4-billion-price-tag/articleshow/132417733.cms",
+          "title": "US issues new non-proliferation sanctions targeting individuals, entities in Iran, Russia",
+          "link": "https://timesofindia.indiatimes.com/business/international-business/us-issues-new-non-proliferation-sanctions-targeting-individuals-entities-in-iran-russia/articleshow/132419715.cms",
           "date": "15 Jul 2026",
-          "summary": ""
+          "summary": "The United States has enacted fresh sanctions against seven individuals and entities linked to Iran's arms procurement activities. Targeting parties in Iran, Russia, Italy, and Nigeria, these sanctions aim to cut off financial support for Iran’s military. Cons…"
         },
         {
           "title": "'Jam-packed' with cockroaches: Kunal Kamra, Chandrashekhar Azad join CJP protest",
@@ -208,16 +208,28 @@
           "summary": ""
         },
         {
+          "title": "India and Pakistan to face each other three times? ICC's new WC format explained",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/india-and-pakistan-to-face-each-other-three-times-iccs-new-world-cup-format-explained/articleshow/132418466.cms",
+          "date": "15 Jul 2026",
+          "summary": "The International Cricket Council's new format for the 2027 ODI World Cup has drawn criticism. This revised structure increases the chances of India and Pakistan meeting multiple times. Emerging nations face limited meaningful participation in the expanded tou…"
+        },
+        {
+          "title": "Caught on CCTV: Ghaziabad resident trapped, thrashed inside lift over society fund row",
+          "link": "https://timesofindia.indiatimes.com/city/ghaziabad/caught-on-cctv-ghaziabad-resident-trapped-thrashed-inside-lift-over-society-fund-row-accused-arrested/articleshow/132419833.cms",
+          "date": "15 Jul 2026",
+          "summary": "A dispute over society funds turned violent in Ghaziabad's GH-7 Society. A resident allegedly assaulted the former treasurer inside a lift on Wednesday morning. The incident, captured on CCTV, shows repeated kicks and punches. Police took the accused into cust…"
+        },
+        {
+          "title": "Chinese AI founder Anthropic and OpenAI complained about is now richest AI billionaire",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/ceo-of-chinese-company-that-anthropic-ceo-dario-amodei-complained-about-to-us-government-is-now-the-worlds-richest-ai-startup-billionaire/articleshow/132416784.cms",
+          "date": "15 Jul 2026",
+          "summary": "DeepSeek founder Liang Wenfeng is now the world's richest AI model startup founder. His net worth surged to an estimated thirty-six billion dollars after a recent funding round. This development follows accusations from US AI companies regarding improper model…"
+        },
+        {
           "title": "WC semi-final preview: Can England stop Messi magic?",
           "link": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/offside-world-cup-semi-final-preview-can-england-stop-messi-magic/articleshow/132418076.cms",
           "date": "15 Jul 2026",
           "summary": "Move aside Margaret Thatcher, Diego Maradona and Javier Milei. It’s time for Messi vs Bellingham."
-        },
-        {
-          "title": "'Bumrah cannot be the answer to all your problems': Gautam Gambhir warned",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/jasprit-bumrah-cannot-be-the-answer-to-all-your-problems-gautam-gambhir-warned-despite-indias-odi-win/articleshow/132412384.cms",
-          "date": "15 Jul 2026",
-          "summary": "India began the ODI series with a six-wicket victory against England. Jasprit Bumrah and Prasidh Krishna led the bowling attack effectively. Joe Root and Liam Dawson provided a strong recovery for the hosts. Shubman Gill and Axar Patel guided India to a succes…"
         },
         {
           "title": "'If Ramchandra married once, Rahim too should marry once': MP CM's UCC pitch",
@@ -226,10 +238,106 @@
           "summary": "Madhya Pradesh Chief Minister Mohan Yadav strongly supports implementing a Uniform Civil Code. The state government plans to introduce a UCC Bill during the upcoming monsoon session. A committee submitted its report recommending UCC implementation, excluding t…"
         },
         {
-          "title": "Chinese AI founder Anthropic and OpenAI complained about is now richest AI billionaire",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/ceo-of-chinese-company-that-anthropic-ceo-dario-amodei-complained-about-to-us-government-is-now-the-worlds-richest-ai-startup-billionaire/articleshow/132416784.cms",
+          "title": "'It's about standing up to invaders': Argentina vice-prez calls England 'pirate usurpers'",
+          "link": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/its-about-standing-up-to-invaders-argentina-vice-president-sparks-controversy-calls-england-pirate-usurpers-ahead-of-fifa-world-cup-clash/articleshow/132419452.cms",
           "date": "15 Jul 2026",
-          "summary": "DeepSeek founder Liang Wenfeng is now the world's richest AI model startup founder. His net worth surged to an estimated thirty-six billion dollars after a recent funding round. This development follows accusations from US AI companies regarding improper model…"
+          "summary": "Argentina vice president Victoria Villarruel sparked controversy before the FIFA World Cup 2026 semi-final against England by calling the Three Lions \"pirate usurpers\" and invoking the Falklands (Malvinas), Diego Maradona and Lionel Messi. Her remarks came ahe…"
+        },
+        {
+          "title": "Jeff Bezos’ wife Lauren Sánchez leads $100M investment to transform 8 US cities",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-made-what-remains-the-largest-individual-philanthropic-commitment-to-climate-change-ever-in-2020-his-wife-lauren-sanchez-bezos-who-is-leading-the-charge-to-spend-it-has-announced-100-million-investment-in-eight-us-cities-to-/articleshow/132386874.cms",
+          "date": "14 Jul 2026",
+          "summary": "Lauren Sanchez Bezos is directing significant Bezos Earth Fund investments. The fund is transforming urban spaces into green community hubs. This initiative aims to connect people and nature within cities. The Bezos Earth Fund also supports marine protection a…"
+        },
+        {
+          "title": "White streetlights can trap pill bugs in giant death spirals, study finds",
+          "link": "https://timesofindia.indiatimes.com/science/scientists-found-that-white-streetlights-can-trap-more-than-5000-pill-bugs-in-giant-circular-death-spirals-exposing-them-to-predators-and-wasting-their-energy/articleshow/132418461.cms",
+          "date": "15 Jul 2026",
+          "summary": "Researchers discovered land isopods forming massive, synchronized circular formations. These creatures, known as woodlice, were drawn into glowing traps by streetlights. The isopods marched in tight circles until exhaustion or predation stopped them. This beha…"
+        },
+        {
+          "title": "Oracle rating downgraded by S&amp;P, now stands one notch above junk; reason is Sam Altman",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-rating-downgraded-by-sp-now-stands-one-notch-above-junk-and-the-reason-is-sam-altman-rating-agency-says-openai-accounts-for-roughly-half-of-/articleshow/132409949.cms",
+          "date": "15 Jul 2026",
+          "summary": "S&amp;P Global Ratings lowered Oracle's credit rating to BBB- from BBB. The agency cited significant risks associated with Oracle's expanding AI infrastructure business. OpenAI's substantial reliance on Oracle's services presents a key credit risk for the comp…"
+        },
+        {
+          "title": "‘Haiwaan’ release date: When will Akshay &amp; Saif- starrer hit theatres?",
+          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/haiwaan-release-date-priyadarshans-99th-film-starring-akshay-kumar-and-saif-ali-khan-to-hit-theatres-on-this-date/articleshow/132419069.cms",
+          "date": "15 Jul 2026",
+          "summary": "Akshay Kumar and Saif Ali Khan will star in Priyadarshan's upcoming psychological thriller Haiwaan. The film's theatrical release date has been officially announced by the makers. New posters reveal Akshay Kumar in a robber-like outfit and Saif Ali Khan lookin…"
+        },
+        {
+          "title": "Erling Haaland stunned fans when he mentioned five girlfriends, but there's a twist",
+          "link": "https://timesofindia.indiatimes.com/sports/international-sports/erling-haaland-left-fans-stunned-after-admitting-he-slept-with-his-five-girlfriends-but-there-was-a-surprising-twist/articleshow/132348430.cms",
+          "date": "13 Jul 2026",
+          "summary": "Erling Haaland's old \"five girlfriends\" comment has resurfaced, surprising fans years after it first made headlines. While many initially thought the Norway striker was talking about his dating life, he was actually referring to the five footballs he kept afte…"
+        },
+        {
+          "title": "Dallas Stars could swap their $7.75m star for Red Wings captain: Report",
+          "link": "https://timesofindia.indiatimes.com/sports/nhl/news/nhl-trade-rumor-dallas-stars-7-75-million-star-could-be-swapped-for-detroit-red-wings-69-6-million-captain/articleshow/132416515.cms",
+          "date": "15 Jul 2026",
+          "summary": "Speculation on trades involving the Dallas Stars and Detroit Red Wings continues to build as the 2026-27 NHL season approaches. There’s been talk of Jason Robertson to Dylan Larkin in a potential blockbuster, but that’s all it is at this point. Uncertainty ove…"
+        },
+        {
+          "title": "New crash clip of ESPN's Matt Miller sparks outrage as calls for action grow.",
+          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/he-should-be-in-jail-espns-matt-millers-accident-takes-a-new-turn-as-new-crash-clip-sparks-outrage-among-millions/articleshow/132416813.cms",
+          "date": "15 Jul 2026",
+          "summary": "ESPN NFL draft analyst Matt Miller has found himself in major trouble ever since he had a brutal accident in Missouri wherein he lost his left arm which has left many shocked. While many sympathised with the popular analyst, Matt Miller has also been accused o…"
+        },
+        {
+          "title": "Amitabh Bachchan's multi-crore real estate empire: Ayodhya, Mumbai, Dubai &amp; more",
+          "link": "https://timesofindia.indiatimes.com/real-estate/news/amitabh-bachchans-multi-crore-real-estate-empire-ayodhya-mumbai-dubai-more/articleshow/132410511.cms",
+          "date": "15 Jul 2026",
+          "summary": "Amitabh Bachchan has become a major investor in Ayodhya's growing real estate market. His Ayodhya land acquisitions are now estimated to be over Rs 90-100 crore. Bachchan's extensive property portfolio spans residential, commercial, and institutional holdings…"
+        },
+        {
+          "title": "'Bumrah cannot be the answer to all your problems': Gautam Gambhir warned",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/jasprit-bumrah-cannot-be-the-answer-to-all-your-problems-gautam-gambhir-warned-despite-indias-odi-win/articleshow/132412384.cms",
+          "date": "15 Jul 2026",
+          "summary": "India began the ODI series with a six-wicket victory against England. Jasprit Bumrah and Prasidh Krishna led the bowling attack effectively. Joe Root and Liam Dawson provided a strong recovery for the hosts. Shubman Gill and Axar Patel guided India to a succes…"
+        },
+        {
+          "title": "RBI Grade B admit card 2026 released for Phase 2 exam: Check details",
+          "link": "https://timesofindia.indiatimes.com/education/news/rbi-grade-b-admit-card-2026-released-at-rbi-org-in-for-phase-2-exam-direct-link-to-download-hall-ticket-here/articleshow/132417360.cms",
+          "date": "15 Jul 2026",
+          "summary": "The Reserve Bank of India has released the Grade B Phase 2 admit card. Candidates can download their hall tickets from the official website. The examination is scheduled to take place on July 25 and 26, 2026. A printed admit card and valid photo identity are m…"
+        },
+        {
+          "title": "Pakistan's Libya peace push has a China connection and $4 billion price tag",
+          "link": "https://timesofindia.indiatimes.com/world/pakistan/pakistans-libya-peace-push-has-a-china-connection-and-4-billion-price-tag/articleshow/132417733.cms",
+          "date": "15 Jul 2026",
+          "summary": ""
+        },
+        {
+          "title": "'If Ronaldo, Messi can...': Ex-cricketer questions India's treatment of RoKo",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/if-ronaldo-messi-can-do-it-ex-cricketer-questions-indias-treatment-of-rohit-sharma-virat-kohli/articleshow/132416559.cms",
+          "date": "15 Jul 2026",
+          "summary": "Mohammad Kaif defended Rohit Sharma and Virat Kohli amid recent scrutiny. He stated that successful teams require a blend of youth and experience. Kaif questioned the focus on young players solely for their six-hitting ability. He cited football stars Ronaldo…"
+        },
+        {
+          "title": "JPMorgan Chase on track to become world's first bank with a $1 trillion valuation",
+          "link": "https://timesofindia.indiatimes.com/business/international-business/jpmorgan-chase-on-track-to-become-worlds-first-bank-with-a-1-trillion-valuation/articleshow/132418862.cms",
+          "date": "15 Jul 2026",
+          "summary": "JPMorgan Chase is nearing a $1 trillion market valuation, a historic milestone for a bank. The lender's shares reached a record high after reporting its highest quarterly profit ever. Analysts expect dealmaking activity to remain strong through the rest of 202…"
+        },
+        {
+          "title": "Mild tremor rocks TN’s Krishnagiri district",
+          "link": "https://timesofindia.indiatimes.com/city/chennai/mild-tremor-rocks-tns-krishnagiri-district/articleshow/132419767.cms",
+          "date": "15 Jul 2026",
+          "summary": "Officials said the tremor may have been felt in and around Krishnagiri, Hosur and adjoining parts of Karnataka. No reports of damage or casualties have been received."
+        },
+        {
+          "title": "Investment 101: How to rebalance your portfolio for FY27 - top mistakes to avoid",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/investment-101-how-to-rebalance-your-portfolio-for-fy27-top-mistakes-to-avoid/articleshow/132414792.cms",
+          "date": "15 Jul 2026",
+          "summary": "When building an investment portfolio, investors decide on an asset allocation. Let’s say, a portfolio comprising 70% equity and 30% debt investments. This allocation should be a well-thought out decision that an investor should make after considering his age,…"
+        },
+        {
+          "title": "US woman arrested for sexually assaulting 2-year-old; identified by 'boobs' tattoo",
+          "link": "https://timesofindia.indiatimes.com/world/us/us-woman-arrested-for-sexually-assaulting-2-year-old-identified-by-boobs-tattoo/articleshow/132419287.cms",
+          "date": "15 Jul 2026",
+          "summary": ""
         },
         {
           "title": "'I intend to kill Muslims': Indian mall worker in US stabbed by Utah man",
@@ -250,34 +358,10 @@
           "summary": "Joe Biden will release his new memoir, 'Promise Me, America,' on November 17. The book reflects on his presidency and his decisions regarding re-election. It will cover major events like the pandemic and international conflicts. The memoir's release follows th…"
         },
         {
-          "title": "Jeff Bezos’ wife Lauren Sánchez leads $100M investment to transform 8 US cities",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-made-what-remains-the-largest-individual-philanthropic-commitment-to-climate-change-ever-in-2020-his-wife-lauren-sanchez-bezos-who-is-leading-the-charge-to-spend-it-has-announced-100-million-investment-in-eight-us-cities-to-/articleshow/132386874.cms",
-          "date": "14 Jul 2026",
-          "summary": "Lauren Sanchez Bezos is directing significant Bezos Earth Fund investments. The fund is transforming urban spaces into green community hubs. This initiative aims to connect people and nature within cities. The Bezos Earth Fund also supports marine protection a…"
-        },
-        {
           "title": "'Abhishek has done no wrong': Mamata stands behind nephew amid rebellion in TMC",
           "link": "https://timesofindia.indiatimes.com/india/abhishek-has-done-no-wrong-mamata-stands-firmly-behind-nephew-amid-rebellion-in-tmc/articleshow/132417266.cms",
           "date": "15 Jul 2026",
           "summary": "Mamata Banerjee strongly defended Abhishek Banerjee, stating he had done no wrong. She accused rebel leaders of unfairly targeting her nephew and his family. Mamata linked Madan Mitra's exit to ED summons, suggesting a 'setting' with the BJP. She asserted that…"
-        },
-        {
-          "title": "Cutting vines helped damaged Borneo forest canopy grow three times faster",
-          "link": "https://timesofindia.indiatimes.com/science/scientists-cut-climbing-vines-from-a-damaged-borneo-forest-its-canopy-then-grew-three-times-faster-and-the-method-may-cost-10-times-less-than-tree-planting/articleshow/132416556.cms",
-          "date": "15 Jul 2026",
-          "summary": "Trimming aggressive climbing vines from logged tropical forests can substantially expedite canopy recovery, providing a more economical alternative to new tree planting for ecosystem restoration. Areas where vines were cut exhibited a carbon storage rate three…"
-        },
-        {
-          "title": "Bali lost 6,500 hectares of rice fields, now locals are buying water",
-          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/balis-1000-year-old-rice-fields-once-worked-as-a-giant-water-system-now-6500-hectares-have-vanished-and-locals-are-buying-water/articleshow/132418254.cms",
-          "date": "15 Jul 2026",
-          "summary": "Bali's historic subak irrigation system is under pressure from tourism expansion. Thousands of hectares of rice fields have disappeared, impacting water availability. Increased demand from tourism facilities strains groundwater resources significantly. This lo…"
-        },
-        {
-          "title": "Oracle rating downgraded by S&amp;P, now stands one notch above junk; reason is Sam Altman",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-rating-downgraded-by-sp-now-stands-one-notch-above-junk-and-the-reason-is-sam-altman-rating-agency-says-openai-accounts-for-roughly-half-of-/articleshow/132409949.cms",
-          "date": "15 Jul 2026",
-          "summary": "S&amp;P Global Ratings lowered Oracle's credit rating to BBB- from BBB. The agency cited significant risks associated with Oracle's expanding AI infrastructure business. OpenAI's substantial reliance on Oracle's services presents a key credit risk for the comp…"
         },
         {
           "title": "'India needs your voice': Shashi Tharoor urges Sonam Wangchuk to end hunger strike",
@@ -286,94 +370,10 @@
           "summary": "Congress MP Shashi Tharoor has publicly backed students protesting against examination irregularities, urging climate activist Sonam Wangchuk to stop his hunger strike. He pointed out that equitable exams are vital for young people from less privileged backgro…"
         },
         {
-          "title": "'Next comes bridges, power plants': Trump says US strikes on Iran to escalate in 3 days",
-          "link": "https://timesofindia.indiatimes.com/world/us/next-week-comes-bridges-power-plants-donald-trump-says-us-strikes-on-iran-to-escalate-in-three-days/articleshow/132415858.cms",
+          "title": "Pawan Kalyan discharged: Actor leaves Mumbai hospital after shoulder surgery",
+          "link": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/pawan-kalyan-health-update-wife-anna-lezhneva-confirms-actors-discharge-after-surgery-says-our-hearts-are-full-of-gratitude/articleshow/132418323.cms",
           "date": "15 Jul 2026",
-          "summary": "President Trump convened a meeting to discuss expanding military operations against Iran. The United States is currently conducting strikes targeting Iranian air defense systems. Trump warned of intensified attacks on power plants and bridges if Iran does not…"
-        },
-        {
-          "title": "Over 10 million sign petition to kick Argentina out of FIFA World Cup amid referee bias claims",
-          "link": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/over-10-million-sign-petition-to-kick-argentina-out-of-fifa-world-cup-amid-referee-bias-claims/articleshow/132416736.cms",
-          "date": "15 Jul 2026",
-          "summary": "More than 10 million people have signed a petition calling for Argentina's expulsion from the 2026 FIFA World Cup, alleging referee bias in favour of Lionel Messi's side after their comeback win over Egypt. Egypt accused FIFA of unfair officiating, while Argen…"
-        },
-        {
-          "title": "Agra home sees rush of devotees after refrigerator ice takes Shivling-like shape",
-          "link": "https://timesofindia.indiatimes.com/city/agra/agra-home-sees-rush-of-devotees-after-refrigerator-ice-takes-shivling-like-shape/articleshow/132415394.cms",
-          "date": "15 Jul 2026",
-          "summary": "A refrigerator ice formation in Agra has drawn many visitors after appearing like a Shivling. News of the unusual ice spread, leading to neighborhood residents gathering at the home. Devotees performed rituals and chanted religious slogans, seeing it as a divi…"
-        },
-        {
-          "title": "Delhi techie returns to India after 7 years in US, says 'don't regret my decision'",
-          "link": "https://timesofindia.indiatimes.com/life-style/people/delhi-techie-returns-to-india-after-7-years-in-us-says-dont-regret-my-decision-because-/articleshow/132412711.cms",
-          "date": "15 Jul 2026",
-          "summary": "An Indian tech professional returned to India after seven years abroad. He found lived reality in India differed from online narratives. The engineer cited visa issues and family as reasons for his return. He noted challenges in the US, including homelessness…"
-        },
-        {
-          "title": "Delhi allows taller buildings near metro, railway stations: What changes",
-          "link": "https://timesofindia.indiatimes.com/real-estate/news/delhi-allows-taller-denser-development-near-metro-railway-stations-what-changes/articleshow/132417658.cms",
-          "date": "15 Jul 2026",
-          "summary": "Delhi's newly introduced transit-oriented development policy promotes increased density near metro corridors. This initiative permits mixed-use construction within a 500-meter radius of transit routes. By paying designated charges, developers can enhance their…"
-        },
-        {
-          "title": "No rating-based spots! FIDE launches new qualification system for 2028 Candidates",
-          "link": "https://timesofindia.indiatimes.com/sports/chess/no-rating-based-spots-fide-launches-new-qualification-system-for-2028-candidates-chess-tournaments/articleshow/132417912.cms",
-          "date": "15 Jul 2026",
-          "summary": "FIDE has approved a revamped qualification system for the 2028 Open and Women’s Candidates Tournaments, introducing the Total Chess World Championship Tour as a new pathway while removing rating-based qualification. World Cup spots have been reduced to two fin…"
-        },
-        {
-          "title": "ICC introduces 'Super Series' and 'Super 7' format for 2027 ODI World Cup",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/icc-introduces-super-series-and-super-7-format-for-2027-odi-world-cup/articleshow/132413829.cms",
-          "date": "15 Jul 2026",
-          "summary": "The International Cricket Council has approved significant format changes for its major men's tournaments. The ODI World Cup will now feature a three-stage format before the knockout rounds begin. The T20 World Cup will expand to twenty teams with a new Super…"
-        },
-        {
-          "title": "Man punches glass door at Ghaziabad police booth after waiting 40 mins, bleeds to death",
-          "link": "https://timesofindia.indiatimes.com/city/noida/man-punches-glass-door-at-ghaziabad-police-pink-booth-after-waiting-40-mins-bleeds-to-death/articleshow/132400705.cms",
-          "date": "15 Jul 2026",
-          "summary": "A 22-year-old man died from bleeding outside a police booth after no response. He injured his hand punching a glass door in frustration while seeking help. Two women constables inside the booth did not open the door due to his aggressive behavior. A police pat…"
-        },
-        {
-          "title": "Iran says 30 civilians killed in US strikes as Trump warns of 'hitting them harder'",
-          "link": "https://timesofindia.indiatimes.com/world/middle-east/iran-says-30-civilians-killed-in-us-strikes-as-trump-warns-of-hitting-them-harder/articleshow/132416351.cms",
-          "date": "15 Jul 2026",
-          "summary": ""
-        },
-        {
-          "title": "Historic! Rodri breaks 60-yo record, becomes first-ever player in FIFA WC to ...",
-          "link": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/historic-rodri-breaks-60-year-old-record-becomes-first-ever-player-in-fifa-world-cup-to-/articleshow/132415804.cms",
-          "date": "15 Jul 2026",
-          "summary": "Spain's Rodri made FIFA World Cup history by completing 655 passes at the 2026 tournament — the most by any player in a single edition since 1966. The Ballon d'Or winner starred in Spain's 2-0 semi-final victory over France, producing a dominant midfield displ…"
-        },
-        {
-          "title": "Meet the 95-year-old Nonno whose simple band workout keeps him strong and active",
-          "link": "https://timesofindia.indiatimes.com/etimes/trending/meet-the-95-year-old-nonno-who-follows-a-secret-band-exercise-routine-to-stay-put-and-keep-going-at-nearly-a-century/articleshow/132415981.cms",
-          "date": "15 Jul 2026",
-          "summary": "A 95-year-old grandfather, Nonno, demonstrates his daily exercise routine for staying fit. He uses a resistance band for low-impact strength training, showing great control. His granddaughter, influencer Alyssa Stellato, shared this inspiring video online. The…"
-        },
-        {
-          "title": "Alia Bhatt's mom, Swara Bhasker &amp; more rally behind Wangchuk to end hunger strike",
-          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/alia-bhatts-mother-soni-razdan-shabana-azmi-and-swara-bhasker-rally-behind-sonam-wangchuk-urge-him-to-end-hunger-strike/articleshow/132410212.cms",
-          "date": "15 Jul 2026",
-          "summary": "Film personalities are urging activist Sonam Wangchuk to end his hunger strike. Concerns are growing over his deteriorating health after weeks of fasting. Shabana Azmi and Soni Razdan have appealed for his well-being and continued leadership. Other celebrities…"
-        },
-        {
-          "title": "England vs Argentina FIFA World Cup 2026: TV channel, live streaming",
-          "link": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/england-vs-argentina-at-fifa-world-cup-2026-how-to-watch-tv-channels-live-streaming-details-for-usa-uk-india-australia-and-more/articleshow/132405283.cms",
-          "date": "15 Jul 2026",
-          "summary": "England and Argentina meet in a blockbuster FIFA World Cup 2026 semifinal on July 15 in Atlanta, with Lionel Messi chasing the Golden Boot and Harry Kane and Jude Bellingham looking to keep England's title dream alive. The article covers kickoff times, TV chan…"
-        },
-        {
-          "title": "Here's why Hyderabad's monsoon tanker demand is higher than summer's",
-          "link": "https://timesofindia.indiatimes.com/city/hyderabad/hyderabads-monsoon-tanker-demand-higher-than-summer-el-nino-rainfall-deficit-impacts-supply/articleshow/132382159.cms",
-          "date": "14 Jul 2026",
-          "summary": "During the monsoon season in Hyderabad, there is a notable spike in the need for water tankers due to below-average rainfall and the effects of El Nino. Apartment complexes have increased their dependency on tanker water by three times, revealing challenges po…"
-        },
-        {
-          "title": "Oil, LNG, fertilisers and maybe diamonds: What is at risk from Iran’s wider blockade threat",
-          "link": "https://timesofindia.indiatimes.com/business/international-business/oil-lng-fertilisers-and-maybe-diamonds-what-is-at-risk-from-irans-wider-blockade-threat/articleshow/132413210.cms",
-          "date": "15 Jul 2026",
-          "summary": "Iran has warned of wider trade disruptions beyond the Strait of Hormuz. This threat could impact crucial energy and other export flows from the region. The Strait of Hormuz is a vital chokepoint for global oil and gas shipments. Asia, which receives most of th…"
+          "summary": "Pawan Kalyan has been discharged from a Mumbai hospital after shoulder surgery. His wife Anna Lezhneva expressed gratitude to the medical team for exceptional care. The surgery addressed a long-standing rotator cuff injury in his right shoulder. He will begin…"
         }
       ]
     },
@@ -760,6 +760,18 @@
       "ok": true,
       "items": [
         {
+          "title": "Bonsai 27B is a full open reasoning model that fits on an iPhone",
+          "link": "https://the-decoder.com/bonsai-27b-is-a-full-open-reasoning-model-that-fits-on-an-iphone/",
+          "date": "15 Jul 2026",
+          "summary": "PrismML has compressed a 27-billion-parameter AI model to under 4 GB, small enough to run on an iPhone. In the company's own benchmarks, the smallest version keeps 90 percent of the original performance, with math and coding scores barely affected. Apple is re…"
+        },
+        {
+          "title": "Spotify bets Premium subscribers want to chat with their music player",
+          "link": "https://the-decoder.com/spotify-bets-premium-subscribers-want-to-chat-with-their-music-player/",
+          "date": "15 Jul 2026",
+          "summary": "Spotify is expanding its AI voice interface. Premium subscribers can now talk to or text the service directly inside the app. The article Spotify bets Premium subscribers want to chat with their music player appeared first on The Decoder ."
+        },
+        {
           "title": "OpenAI's Codex now encrypts instructions between AI agents, leaving developers blind to internal delegation",
           "link": "https://the-decoder.com/openais-codex-now-encrypts-instructions-between-ai-agents-leaving-developers-blind-to-internal-delegation/",
           "date": "15 Jul 2026",
@@ -806,18 +818,6 @@
           "link": "https://the-decoder.com/deepmind-ceo-hassabis-says-nobody-in-the-world-knows-what-happens-next-so-cautious-optimism-means-building-guardrails-now/",
           "date": "14 Jul 2026",
           "summary": "Google Deepmind CEO Demis Hassabis has published a sweeping proposal for how to handle advanced AI. He wants a new US standards body modeled after financial regulator FINRA that would develop evaluation protocols for frontier models and could coordinate a slow…"
-        },
-        {
-          "title": "PixVerse's $2B valuation shows investors still believe AI video generation has room for another winner",
-          "link": "https://the-decoder.com/pixverses-2b-valuation-shows-investors-still-believe-ai-video-generation-has-room-for-another-winner/",
-          "date": "14 Jul 2026",
-          "summary": "Singapore-based AI video startup PixVerse is now valued at over $2 billion after an extended Series C round. The article PixVerse&#039;s $2B valuation shows investors still believe AI video generation has room for another winner appeared first on The Decoder ."
-        },
-        {
-          "title": "Claude responds with more warmth in Hindi and more rigor in Russian, showing how language shapes AI answers",
-          "link": "https://the-decoder.com/claude-values-study/",
-          "date": "14 Jul 2026",
-          "summary": "A new Anthropic study maps hundreds of value concepts derived from thousands of individual terms onto four core dimensions. It reveals systematic differences across Claude models and languages, but also raises methodological questions. Anthropic has published…"
         }
       ]
     },
@@ -1152,6 +1152,18 @@
       "ok": true,
       "items": [
         {
+          "title": "OpenAI Launches a Keypad for AI Agents",
+          "link": "https://hardware.slashdot.org/story/26/07/15/1659217/openai-launches-a-keypad-for-ai-agents?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "15 Jul 2026",
+          "summary": "OpenAI's first hardware device is a limited-edition desktop keypad called the Codex Micro that lets users monitor and control AI coding agents. Axios reports: Codex Micro is a collaboration with Work Louder, a boutique hardware company known for customizable m…"
+        },
+        {
+          "title": "Stripe, Advent Offer to Buy PayPal For More Than $53 Billion",
+          "link": "https://news.slashdot.org/story/26/07/15/047200/stripe-advent-offer-to-buy-paypal-for-more-than-53-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "15 Jul 2026",
+          "summary": "Stripe and private equity firm Advent International have reportedly made a joint $60.50-per-share offer to buy PayPal, valuing the payments company at more than $53 billion. The bid is said to represent a 28% premium to PayPal's latest closing price and is bac…"
+        },
+        {
           "title": "Microsoft Patches a Record 570 Security Flaws",
           "link": "https://tech.slashdot.org/story/26/07/15/042220/microsoft-patches-a-record-570-security-flaws?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "15 Jul 2026",
@@ -1228,18 +1240,6 @@
           "link": "https://yro.slashdot.org/story/26/07/14/0735222/stubhub-ceo-hit-with-deceptive-practices-class-action-over-mass-scalping?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "14 Jul 2026",
           "summary": "An anonymous reader quotes a report from the BBC: StubHub and its CEO, Eric Baker, have been hit with a proposed $5-million class-action lawsuit in the United States over the company's ties to large-scale scalpers -- connections reported by CBC News last week.…"
-        },
-        {
-          "title": "Indian Scientists Produce Most Detailed 3D Atlas of the Human Brainstem",
-          "link": "https://science.slashdot.org/story/26/07/14/0723207/indian-scientists-produce-most-detailed-3d-atlas-of-the-human-brainstem?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "14 Jul 2026",
-          "summary": "Scientists at the Indian Institute of Technology, Madras (IIT-M) have created what they describe as the world's most detailed 3D cellular atlas of the human brainstem, linking whole-brain MRI views to individual neurons across more than 500 tissue sections. Th…"
-        },
-        {
-          "title": "Scientists Find Sugar Deep In Our Galaxy",
-          "link": "https://science.slashdot.org/story/26/07/14/073233/scientists-find-sugar-deep-in-our-galaxy?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "14 Jul 2026",
-          "summary": "Astronomers have detected erythrulose, a sugar found in raspberries and self-tanners, in a gas cloud near the center of the Milky Way. While not essential for life itself, the molecule can convert into a form thought to be important for life's origins, adding…"
         }
       ]
     },
@@ -1630,184 +1630,184 @@
       "ok": true,
       "items": [
         {
-          "title": "gadfly-ai added to PyPI",
-          "link": "https://pypi.org/project/gadfly-ai/",
+          "title": "urllm added to PyPI",
+          "link": "https://pypi.org/project/urllm/",
           "date": "15 Jul 2026",
-          "summary": "Socratic supervision layer for AI coding agents"
+          "summary": "URL technical footprint analyzer with GDPR & security-focused GenAI reasoning"
         },
         {
-          "title": "behave-comments added to PyPI",
-          "link": "https://pypi.org/project/behave-comments/",
+          "title": "aeo-geo-seo added to PyPI",
+          "link": "https://pypi.org/project/aeo-geo-seo/",
           "date": "15 Jul 2026",
-          "summary": "Parse doc strings, extract metadata from comments, and declare lifecycle hooks in Behave .feature files"
+          "summary": "CLI tool to install the AEO/GEO/SEO skill into any AI coding assistant"
         },
         {
-          "title": "justdata added to PyPI",
-          "link": "https://pypi.org/project/justdata/",
+          "title": "twister2d added to PyPI",
+          "link": "https://pypi.org/project/twister2d/",
           "date": "15 Jul 2026",
-          "summary": "A TensorFlow-native data pipeline library with a modality-neutral core and first-class computer vision and acoustic recipes"
+          "summary": "Twisted 2D material structure generation and analysis (graphene, hBN, TMDs) with LAMMPS integration"
         },
         {
-          "title": "mkdocs-piper-tts added to PyPI",
-          "link": "https://pypi.org/project/mkdocs-piper-tts/",
+          "title": "napari-microscopy-metrics added to PyPI",
+          "link": "https://pypi.org/project/napari-microscopy-metrics/",
           "date": "15 Jul 2026",
-          "summary": "MkDocs plugin for generating and serving Piper text-to-speech page audio"
+          "summary": "A plugin using the microscopy metrics module for proceedig quality control with PSF in Napari"
         },
         {
-          "title": "perseus-vault-codex added to PyPI",
-          "link": "https://pypi.org/project/perseus-vault-codex/",
+          "title": "decoint added to PyPI",
+          "link": "https://pypi.org/project/decoint/",
           "date": "15 Jul 2026",
-          "summary": "Persistent, encrypted, local-first memory for OpenAI Codex agents — a 5-tool MCP server wrapping Perseus Vault."
+          "summary": "An IEEE 1788-2015 compliant interval arithmetic library"
         },
         {
-          "title": "dash-ui-components added to PyPI",
-          "link": "https://pypi.org/project/dash-ui-components/",
+          "title": "pytest-speedguard added to PyPI",
+          "link": "https://pypi.org/project/pytest-speedguard/",
           "date": "15 Jul 2026",
-          "summary": "Extra components Dash Mantine Components for interactivity and UX"
+          "summary": "A pytest plugin that passively tracks every test's wall-clock duration across runs and flags regressions and newly-slow tests."
         },
         {
-          "title": "cpyte added to PyPI",
-          "link": "https://pypi.org/project/cpyte/",
+          "title": "kiwime-store added to PyPI",
+          "link": "https://pypi.org/project/kiwime-store/",
           "date": "15 Jul 2026",
-          "summary": "The Cpyte programming language compiler"
+          "summary": "kiwiMe store sidecar — owns SQLite, the blob store, and the vector store."
         },
         {
-          "title": "dtrexp-py added to PyPI",
-          "link": "https://pypi.org/project/dtrexp-py/",
+          "title": "kiwime-secret added to PyPI",
+          "link": "https://pypi.org/project/kiwime-secret/",
           "date": "15 Jul 2026",
-          "summary": "Use the dtrexp package instead — this name only redirects to it."
+          "summary": "kiwiMe secret worker — OS keychain (keyring) + AWS credential chain sidecar."
         },
         {
-          "title": "magicbox-dk added to PyPI",
-          "link": "https://pypi.org/project/magicbox-dk/",
+          "title": "ipodsync added to PyPI",
+          "link": "https://pypi.org/project/ipodsync/",
           "date": "15 Jul 2026",
-          "summary": "Magicbox for help DigitalKin developpers."
+          "summary": "Upload music to an iPod nano 6G/7G without iTunes: SQLite library, hashAB signing, cover art (pure-Python)."
         },
         {
-          "title": "pentool-kit added to PyPI",
-          "link": "https://pypi.org/project/pentool-kit/",
+          "title": "mlatelier added to PyPI",
+          "link": "https://pypi.org/project/mlatelier/",
           "date": "15 Jul 2026",
-          "summary": "Authorized penetration-testing & self-audit toolkit (network, web, recon, vuln)"
+          "summary": "Zero-code ML prototyping dashboard: tabular, vision, NLP, Bayesian optimisation, XAI, and Gemini AI assistant."
         },
         {
-          "title": "scxp added to PyPI",
-          "link": "https://pypi.org/project/scxp/",
+          "title": "vcanonici-autoinstall-workstation added to PyPI",
+          "link": "https://pypi.org/project/vcanonici-autoinstall-workstation/",
           "date": "15 Jul 2026",
-          "summary": "Symmetric Context Exchange Protocol (SCXP) SDK for Python: consumer + provider surface, handshake, id correlation/dispatch, and Gen A tool-schema generation. Transport-agnostic."
+          "summary": "Provisionamento retomável de uma workstation Ubuntu 24.04"
         },
         {
-          "title": "lazyread added to PyPI",
-          "link": "https://pypi.org/project/lazyread/",
+          "title": "mcp-hello-server added to PyPI",
+          "link": "https://pypi.org/project/mcp-hello-server/",
           "date": "15 Jul 2026",
-          "summary": "Lazyread local-first listening library runtime"
+          "summary": "A minimal MCP server: a server_info health check and a multilingual greeting tool"
         },
         {
-          "title": "dtrexp added to PyPI",
-          "link": "https://pypi.org/project/dtrexp/",
+          "title": "noel-textures-py added to PyPI",
+          "link": "https://pypi.org/project/noel-textures-py/",
           "date": "15 Jul 2026",
-          "summary": "DTRExp — Date-Time Range & Recurrence Expression: parsing, validation and coverage evaluation (spec draft 2.8)"
+          "summary": "Dash app to generate textures maps from MRI"
         },
         {
-          "title": "egglang added to PyPI",
-          "link": "https://pypi.org/project/egglang/",
+          "title": "qliff added to PyPI",
+          "link": "https://pypi.org/project/qliff/",
           "date": "15 Jul 2026",
-          "summary": "None"
+          "summary": "Clifford + noisy stabilizer simulator: noise-free and noisy (importance-sampled) stabilizer simulation with a native core."
         },
         {
-          "title": "batmunkh-a2a added to PyPI",
-          "link": "https://pypi.org/project/batmunkh-a2a/",
+          "title": "majis-ql-icu added to PyPI",
+          "link": "https://pypi.org/project/majis-ql-icu/",
           "date": "15 Jul 2026",
-          "summary": "A2A Protocol — AI-to-AI Latent Space Communication Protocol"
+          "summary": "Majis Internal Calibration Unit Quick Look"
         },
         {
-          "title": "http-simple-cli added to PyPI",
-          "link": "https://pypi.org/project/http-simple-cli/",
+          "title": "firstpass added to PyPI",
+          "link": "https://pypi.org/project/firstpass/",
           "date": "15 Jul 2026",
-          "summary": "A simple helper to make HTTP requests using stdlib http.client"
+          "summary": "Drop-in, Anthropic-compatible LLM proxy that routes each request to the cheapest model that provably passes a quality gate, escalates on failure, and records a tamper-evident audit trace."
         },
         {
-          "title": "etki added to PyPI",
-          "link": "https://pypi.org/project/etki/",
+          "title": "agapes-homonoia added to PyPI",
+          "link": "https://pypi.org/project/agapes-homonoia/",
           "date": "15 Jul 2026",
-          "summary": "Evidence-backed scope/CR triage for PMO teams — fusing contract scope, a code knowledge graph and historical effort into auditable decisions."
+          "summary": "Declarative squad-based Multi-Agent System (MAS) collaboration framework for AGAPES"
         },
         {
-          "title": "etki-api added to PyPI",
-          "link": "https://pypi.org/project/etki-api/",
+          "title": "cmeel-toppra added to PyPI",
+          "link": "https://pypi.org/project/cmeel-toppra/",
           "date": "15 Jul 2026",
-          "summary": "Stable plugin API for Etki — external-integration ports, normalized models and the plugin manifest contract."
+          "summary": "Time-Optimal Path Parameterization"
         },
         {
-          "title": "ansys-aedt-mcp added to PyPI",
-          "link": "https://pypi.org/project/ansys-aedt-mcp/",
+          "title": "schulsync added to PyPI",
+          "link": "https://pypi.org/project/schulsync/",
           "date": "15 Jul 2026",
-          "summary": "Model Context Protocol (MCP) server for Ansys Electronics Desktop (AEDT) through PyAEDT"
+          "summary": "Schuljahreswechsel ohne Handarbeit: deklarative Synchronisation von Schülerkonten aus der Schulverwaltung (SchILD-NRW, ASV-BW, CSV) ins Active Directory."
         },
         {
-          "title": "OSW-CTkMessagebox added to PyPI",
-          "link": "https://pypi.org/project/osw-ctkmessagebox/",
+          "title": "ble-lock-session added to PyPI",
+          "link": "https://pypi.org/project/ble-lock-session/",
           "date": "15 Jul 2026",
-          "summary": "OSW-CTkMessagebox is a revised version of the CTkMessagebox library."
+          "summary": "Lock and unlock your Linux session based on the proximity of a Bluetooth device"
         },
         {
-          "title": "mockmarket added to PyPI",
-          "link": "https://pypi.org/project/mockmarket/",
+          "title": "cli-csv-to-excel added to PyPI",
+          "link": "https://pypi.org/project/cli-csv-to-excel/",
           "date": "15 Jul 2026",
-          "summary": "Async Python SDK for the MockMarket algorithmic trading sandbox"
+          "summary": "Convert CSV files to Excel and Excel files to CSV"
         },
         {
-          "title": "pytypehint added to PyPI",
-          "link": "https://pypi.org/project/pytypehint/",
+          "title": "trongridweb added to PyPI",
+          "link": "https://pypi.org/project/trongridweb/",
           "date": "15 Jul 2026",
-          "summary": "Compiles Python type hints into strict, inspectable schemas"
+          "summary": "tronwepy library for Python"
         },
         {
-          "title": "omnichat added to PyPI",
-          "link": "https://pypi.org/project/omnichat/",
+          "title": "terminalmon added to PyPI",
+          "link": "https://pypi.org/project/terminalmon/",
           "date": "15 Jul 2026",
-          "summary": "Direct omnichannel chat SDK for Python — Telegram, Slack, Google Chat, Teams, WhatsApp. No server needed — install, connect your channels, handle messages."
+          "summary": "Pokémon-inspired terminal companion that levels up as you use your shell"
         },
         {
-          "title": "llm-circuit-breaker added to PyPI",
-          "link": "https://pypi.org/project/llm-circuit-breaker/",
+          "title": "wyvern-lsp added to PyPI",
+          "link": "https://pypi.org/project/wyvern-lsp/",
           "date": "15 Jul 2026",
-          "summary": "A tiny, readable circuit breaker for LLM calls: hard budget caps that fail over to a free local model instead of raising or overspending."
+          "summary": "An LSP for Draconic, providing diagnostics, hover docs, and code completion for Avrae alias scripting."
         },
         {
-          "title": "blockaid-application-runner added to PyPI",
-          "link": "https://pypi.org/project/blockaid-application-runner/",
+          "title": "flowbase-cli added to PyPI",
+          "link": "https://pypi.org/project/flowbase-cli/",
           "date": "15 Jul 2026",
-          "summary": "Reserved package name. Not for public use."
+          "summary": "Command line client for the FlowBase OpenAPI"
         },
         {
-          "title": "sumo-logic-mcp added to PyPI",
-          "link": "https://pypi.org/project/sumo-logic-mcp/",
+          "title": "yudao-pilot-mcp added to PyPI",
+          "link": "https://pypi.org/project/yudao-pilot-mcp/",
           "date": "15 Jul 2026",
-          "summary": "MCP server for Sumo Logic — 48 tools for log search, monitors, alerts, dashboards, collectors, metrics, and more"
+          "summary": "面向 yudao 生态的 MCP 智能开发助手"
         },
         {
-          "title": "simview added to PyPI",
-          "link": "https://pypi.org/project/simview/",
+          "title": "fycw added to PyPI",
+          "link": "https://pypi.org/project/fycw/",
           "date": "15 Jul 2026",
-          "summary": "THREE.js-based simulation visualization tool"
+          "summary": "Context-hygiene layer for Claude Code: curated compression, offload, /clear, reload."
         },
         {
-          "title": "test_batts_ian added to PyPI",
-          "link": "https://pypi.org/project/test-batts-ian/",
+          "title": "crewai-claw-messenger added to PyPI",
+          "link": "https://pypi.org/project/crewai-claw-messenger/",
           "date": "15 Jul 2026",
-          "summary": "Python representations of common measurable quantities for scientific computing."
+          "summary": "Send one controlled Claw Messenger message from CrewAI and prove the matching reply in the tool"
         },
         {
-          "title": "finops-guard added to PyPI",
-          "link": "https://pypi.org/project/finops-guard/",
+          "title": "langchain-claw-messenger added to PyPI",
+          "link": "https://pypi.org/project/langchain-claw-messenger/",
           "date": "15 Jul 2026",
-          "summary": "Automated, Developer-First Local Cloud Cost Tracing & Linting"
+          "summary": "Send one controlled Claw Messenger message from LangChain and prove the matching reply in the tool"
         },
         {
-          "title": "napasserelle added to PyPI",
-          "link": "https://pypi.org/project/napasserelle/",
+          "title": "perflens added to PyPI",
+          "link": "https://pypi.org/project/perflens/",
           "date": "15 Jul 2026",
-          "summary": "Plugin napari pour fabriquer, superviser et traiter des masques de segmentation binaire à partir d'un modèle de segmentation-models-pytorch."
+          "summary": "Real-time remote Linux performance profiler with a live web UI (perf + flame graphs + line-level source annotation)"
         }
       ]
     }
