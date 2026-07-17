@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-17T21:57:26Z",
+  "generated": "2026-07-17T22:47:00Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -1152,6 +1152,12 @@
       "ok": true,
       "items": [
         {
+          "title": "Xi Vows to Make AI for All in Debut at China's Top Tech Summit",
+          "link": "https://slashdot.org/story/26/07/17/1929216/xi-vows-to-make-ai-for-all-in-debut-at-chinas-top-tech-summit?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "17 Jul 2026",
+          "summary": "Xi Jinping used his first appearance at China's World AI Conference to promote a vision of low-cost, broadly accessible AI and call for international cooperation rather than technological rivalry. \"AI development should not be a solo performance by a single co…"
+        },
+        {
           "title": "Billing Software Error Sends Billion-Dollar AWS Estimates",
           "link": "https://news.slashdot.org/story/26/07/17/1835215/billing-software-error-sends-billion-dollar-aws-estimates?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "17 Jul 2026",
@@ -1234,12 +1240,6 @@
           "link": "https://yro.slashdot.org/story/26/07/16/1918245/1password-lets-claude-use-credentials-without-exposing-passwords?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "16 Jul 2026",
           "summary": "BrianFagioli writes: 1Password has launched a Claude integration that allows the AI agent to sign in to websites using credentials stored in a 1Password vault. The password manager says Claude never sees the password or one-time code. Instead, users approve ea…"
-        },
-        {
-          "title": "Sony Deletes More Movies From Accounts of People Who 'Bought' Them",
-          "link": "https://entertainment.slashdot.org/story/26/07/16/1825241/sony-deletes-more-movies-from-accounts-of-people-who-bought-them?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "16 Jul 2026",
-          "summary": "An anonymous reader quotes a report from Techdirt: In 2022, due to \"evolving licensing agreements\" with distributor StudioCanal, German and Austrian users had hundreds of movies disappear from their PS accounts, long after buying them through Sony. Then in 202…"
         }
       ]
     },
@@ -1630,6 +1630,168 @@
       "ok": true,
       "items": [
         {
+          "title": "freegaussianizer added to PyPI",
+          "link": "https://pypi.org/project/freegaussianizer/",
+          "date": "17 Jul 2026",
+          "summary": "Matricial Free Energy loss for training Gaussianizing autoencoders."
+        },
+        {
+          "title": "polayo added to PyPI",
+          "link": "https://pypi.org/project/polayo/",
+          "date": "17 Jul 2026",
+          "summary": "A lightweight library for reading and writing structured data."
+        },
+        {
+          "title": "loop-engineer added to PyPI",
+          "link": "https://pypi.org/project/loop-engineer/",
+          "date": "17 Jul 2026",
+          "summary": "Portable Loop Contract Core: validate and inspect repo-native operating contracts for agent loops."
+        },
+        {
+          "title": "mingru-scans added to PyPI",
+          "link": "https://pypi.org/project/mingru-scans/",
+          "date": "17 Jul 2026",
+          "summary": "Parallel-scan minGRU variants (log-space, signed, rotation, Givens) with an optional Triton scan backend."
+        },
+        {
+          "title": "arvel-workflow added to PyPI",
+          "link": "https://pypi.org/project/arvel-workflow/",
+          "date": "17 Jul 2026",
+          "summary": "Durable execution for arvel — Temporal-native, framework-ergonomic."
+        },
+        {
+          "title": "arvel-ai added to PyPI",
+          "link": "https://pypi.org/project/arvel-ai/",
+          "date": "17 Jul 2026",
+          "summary": "One stable, typed, async API over many AI providers — plus an MCP server — for the arvel framework."
+        },
+        {
+          "title": "foam-otel-core added to PyPI",
+          "link": "https://pypi.org/project/foam-otel-core/",
+          "date": "17 Jul 2026",
+          "summary": "Foam's shared server-side OpenTelemetry package for Python. One core, adapters as optional extras, per-customer behavior via configuration."
+        },
+        {
+          "title": "quantvolt added to PyPI",
+          "link": "https://pypi.org/project/quantvolt/",
+          "date": "17 Jul 2026",
+          "summary": "Quantitative analysis of European power and energy markets"
+        },
+        {
+          "title": "sdr-grader added to PyPI",
+          "link": "https://pypi.org/project/sdr-grader/",
+          "date": "17 Jul 2026",
+          "summary": "Deterministic, rule-based linter for Adobe Customer Journey Analytics and Adobe Analytics implementations."
+        },
+        {
+          "title": "sdr-visualizer added to PyPI",
+          "link": "https://pypi.org/project/sdr-visualizer/",
+          "date": "17 Jul 2026",
+          "summary": "Static-output visual catalog generator for Adobe Customer Journey Analytics and Adobe Analytics implementations."
+        },
+        {
+          "title": "bastion-runtime added to PyPI",
+          "link": "https://pypi.org/project/bastion-runtime/",
+          "date": "17 Jul 2026",
+          "summary": "A lightweight runtime protection layer for AI agents - stops loops, retry storms, and runaway spend before they reach the model provider."
+        },
+        {
+          "title": "download-Mediafire added to PyPI",
+          "link": "https://pypi.org/project/download-mediafire/",
+          "date": "17 Jul 2026",
+          "summary": "A simple library to get direct download links and filenames from Mediafire"
+        },
+        {
+          "title": "cume added to PyPI",
+          "link": "https://pypi.org/project/cume/",
+          "date": "17 Jul 2026",
+          "summary": "cume: GPU-accelerated PMF for Source Apportionment"
+        },
+        {
+          "title": "fastmux added to PyPI",
+          "link": "https://pypi.org/project/fastmux/",
+          "date": "17 Jul 2026",
+          "summary": "Drive and inspect tmux from Python: live session, window, and pane handles with CLI-style reprs"
+        },
+        {
+          "title": "smcx added to PyPI",
+          "link": "https://pypi.org/project/smcx/",
+          "date": "17 Jul 2026",
+          "summary": "Sequential Monte Carlo for Apple silicon, built on MLX"
+        },
+        {
+          "title": "latchkey added to PyPI",
+          "link": "https://pypi.org/project/latchkey/",
+          "date": "17 Jul 2026",
+          "summary": "Encrypted credential store for autonomous AI agents — agents let themselves in"
+        },
+        {
+          "title": "aegis-devin added to PyPI",
+          "link": "https://pypi.org/project/aegis-devin/",
+          "date": "17 Jul 2026",
+          "summary": "Aegis-Devin: AI-driven autonomous penetration testing & network forensics platform. Autonomous red team, AI network forensics, CVE exploitation, MITRE ATT&CK mapping — one CLI. 100% free & open source."
+        },
+        {
+          "title": "unigrok-gateway added to PyPI",
+          "link": "https://pypi.org/project/unigrok-gateway/",
+          "date": "17 Jul 2026",
+          "summary": "Name placeholder for UniGrok — the workspace-neutral dual-plane Grok MCP gateway (runs as a local Docker service)."
+        },
+        {
+          "title": "dotkey-i18n added to PyPI",
+          "link": "https://pypi.org/project/dotkey-i18n/",
+          "date": "17 Jul 2026",
+          "summary": "Internacionalización mínima: claves con notación de punto sobre ficheros JSON, con caché, fallback al idioma por defecto e interpolación. Sin dependencias, sin gettext."
+        },
+        {
+          "title": "drbx added to PyPI",
+          "link": "https://pypi.org/project/drbx/",
+          "date": "17 Jul 2026",
+          "summary": "JAX-first edge and scrape-off-layer plasma code with differentiable, hardware-agnostic solver infrastructure."
+        },
+        {
+          "title": "molecule-pve added to PyPI",
+          "link": "https://pypi.org/project/molecule-pve/",
+          "date": "17 Jul 2026",
+          "summary": "Ansible Collection of Util-Modules for the Ansible-Molecule Proxmox-VE Driver"
+        },
+        {
+          "title": "core-pdfminer.six added to PyPI",
+          "link": "https://pypi.org/project/core-pdfminer-six/",
+          "date": "17 Jul 2026",
+          "summary": "PDF parser and analyzer"
+        },
+        {
+          "title": "storybook-cli added to PyPI",
+          "link": "https://pypi.org/project/storybook-cli/",
+          "date": "17 Jul 2026",
+          "summary": "Agent-first CLI and agent that helps an agent build a site or artifact to reflect and share what it did with others — minimum tokens by filling high-quality templates, maximum output quality. Styled after the AgentCulture site."
+        },
+        {
+          "title": "persona-mcp-workspace added to PyPI",
+          "link": "https://pypi.org/project/persona-mcp-workspace/",
+          "date": "17 Jul 2026",
+          "summary": "Per-job shared workspace (files) exposed as MCP tools for persona agents and the workflow engine"
+        },
+        {
+          "title": "numba-utils added to PyPI",
+          "link": "https://pypi.org/project/numba-utils/",
+          "date": "17 Jul 2026",
+          "summary": "Battle-tested building blocks for production Numba workloads."
+        },
+        {
+          "title": "flask-chat-events added to PyPI",
+          "link": "https://pypi.org/project/flask-chat-events/",
+          "date": "17 Jul 2026",
+          "summary": "Standardized Socket.IO chat events on top of Flask-SocketIO."
+        },
+        {
+          "title": "tariful-nexusview added to PyPI",
+          "link": "https://pypi.org/project/tariful-nexusview/",
+          "date": "17 Jul 2026",
+          "summary": "A modern AI python package."
+        },
+        {
           "title": "keble-referral added to PyPI",
           "link": "https://pypi.org/project/keble-referral/",
           "date": "17 Jul 2026",
@@ -1646,168 +1808,6 @@
           "link": "https://pypi.org/project/n2k2ip/",
           "date": "17 Jul 2026",
           "summary": "Bridge an NMEA 2000 (SocketCAN) bus to TCP clients as Yacht Devices RAW (YDRAW)"
-        },
-        {
-          "title": "cli-compress added to PyPI",
-          "link": "https://pypi.org/project/cli-compress/",
-          "date": "17 Jul 2026",
-          "summary": "Compress images, gifs, video, and audio to a target file size using ffmpeg."
-        },
-        {
-          "title": "agro-data-intelligence added to PyPI",
-          "link": "https://pypi.org/project/agro-data-intelligence/",
-          "date": "17 Jul 2026",
-          "summary": "Agricultural data auditing, visualization and explainable machine learning framework"
-        },
-        {
-          "title": "hwgdreqs added to PyPI",
-          "link": "https://pypi.org/project/hwgdreqs/",
-          "date": "17 Jul 2026",
-          "summary": "A Geometry Dash level requests app for streamers"
-        },
-        {
-          "title": "fanout-broadcast added to PyPI",
-          "link": "https://pypi.org/project/fanout-broadcast/",
-          "date": "17 Jul 2026",
-          "summary": "Reparte un mensaje a varios canales con aislamiento de fallos: un canal caído no detiene a los demás, y un reporte te dice qué se entregó, qué se omitió y qué falló. Sin dependencias."
-        },
-        {
-          "title": "latch-idempotent added to PyPI",
-          "link": "https://pypi.org/project/latch-idempotent/",
-          "date": "17 Jul 2026",
-          "summary": "Idempotency middleware for LLM agent tool calls — prevent duplicate side effects on retry."
-        },
-        {
-          "title": "viepy added to PyPI",
-          "link": "https://pypi.org/project/viepy/",
-          "date": "17 Jul 2026",
-          "summary": "Create music visualizers easy"
-        },
-        {
-          "title": "FastICLE added to PyPI",
-          "link": "https://pypi.org/project/fasticle/",
-          "date": "17 Jul 2026",
-          "summary": "Multi-agent framework that trains and orchestrates specialized Expert Agents on-demand via In-Context Reinforcement Learning."
-        },
-        {
-          "title": "spino added to PyPI",
-          "link": "https://pypi.org/project/spino/",
-          "date": "17 Jul 2026",
-          "summary": "SPINO (Software for exoPlanet vIsibility and Nightly Observations): a Tkinter GUI for scheduling exoplanet transit / eclipse phase-coverage observations"
-        },
-        {
-          "title": "ohmatic added to PyPI",
-          "link": "https://pypi.org/project/ohmatic/",
-          "date": "17 Jul 2026",
-          "summary": "Clean-room, agent-native engine that verifies electrical correctness (ERC) of circuits and returns pin-level repair hints, so AI agents can check and fix generated circuits in a loop."
-        },
-        {
-          "title": "string-therapy added to PyPI",
-          "link": "https://pypi.org/project/string-therapy/",
-          "date": "17 Jul 2026",
-          "summary": "JWT-gated LLM controller that routes messages over a PostgreSQL + Apache AGE graph and forwards to downstream HTTP endpoints"
-        },
-        {
-          "title": "valvet added to PyPI",
-          "link": "https://pypi.org/project/valvet/",
-          "date": "17 Jul 2026",
-          "summary": "Pre-alpha Valvet package."
-        },
-        {
-          "title": "mlnode added to PyPI",
-          "link": "https://pypi.org/project/mlnode/",
-          "date": "17 Jul 2026",
-          "summary": "JSON-described DAG → executable PyTorch nn.Module, with static shape validation"
-        },
-        {
-          "title": "immaster-sdk added to PyPI",
-          "link": "https://pypi.org/project/immaster-sdk/",
-          "date": "17 Jul 2026",
-          "summary": "Python SDK to drive the im.master BLE robot, with an optional on-device local-LLM + vision addon."
-        },
-        {
-          "title": "keble-payment added to PyPI",
-          "link": "https://pypi.org/project/keble-payment/",
-          "date": "17 Jul 2026",
-          "summary": "None"
-        },
-        {
-          "title": "pinetunnel added to PyPI",
-          "link": "https://pypi.org/project/pinetunnel/",
-          "date": "17 Jul 2026",
-          "summary": "Professional Trading Bridge System - PineTunnel EA Service for MT5"
-        },
-        {
-          "title": "ri-real-intelligence added to PyPI",
-          "link": "https://pypi.org/project/ri-real-intelligence/",
-          "date": "17 Jul 2026",
-          "summary": "Real Intelligence Framework – Train intelligent models on any GPU with minimal data"
-        },
-        {
-          "title": "meridian-dock added to PyPI",
-          "link": "https://pypi.org/project/meridian-dock/",
-          "date": "17 Jul 2026",
-          "summary": "Convergence debt and meridian docking protocols for multi-agent systems"
-        },
-        {
-          "title": "provena added to PyPI",
-          "link": "https://pypi.org/project/provena/",
-          "date": "17 Jul 2026",
-          "summary": "Context governance for agentic AI — tamper-evident audit trails for LLM context inputs"
-        },
-        {
-          "title": "trongridme added to PyPI",
-          "link": "https://pypi.org/project/trongridme/",
-          "date": "17 Jul 2026",
-          "summary": "trongrime library for Python"
-        },
-        {
-          "title": "conformguard added to PyPI",
-          "link": "https://pypi.org/project/conformguard/",
-          "date": "17 Jul 2026",
-          "summary": "Calibrated accept / abstain-and-escalate decisions for agent tool calls, backed by split conformal prediction's finite-sample coverage guarantee."
-        },
-        {
-          "title": "hysteresis-state added to PyPI",
-          "link": "https://pypi.org/project/hysteresis-state/",
-          "date": "17 Jul 2026",
-          "summary": "Máquina de estados con histéresis por confirmación: un estado nuevo solo se commitea tras sostenerse N observaciones consecutivas. Anti-flapping para clasificadores ruidosos. Sin dependencias."
-        },
-        {
-          "title": "pygridopt added to PyPI",
-          "link": "https://pypi.org/project/pygridopt/",
-          "date": "17 Jul 2026",
-          "summary": "Graph-based Modelling Interface for Domain-Independent Dynamic Programming"
-        },
-        {
-          "title": "topstep-sdk added to PyPI",
-          "link": "https://pypi.org/project/topstep-sdk/",
-          "date": "17 Jul 2026",
-          "summary": "High-performance, async-first Python SDK for the Topstep (TopstepX / ProjectX Gateway) trading API."
-        },
-        {
-          "title": "faster-table-recognizer added to PyPI",
-          "link": "https://pypi.org/project/faster-table-recognizer/",
-          "date": "17 Jul 2026",
-          "summary": "Fast, dependency-light table detection (microsoft/table-transformer-detection) — a from-scratch Rust engine, drop-in replacement for the HuggingFace transformers pipeline."
-        },
-        {
-          "title": "kitsune-trajectory added to PyPI",
-          "link": "https://pypi.org/project/kitsune-trajectory/",
-          "date": "17 Jul 2026",
-          "summary": "Placeholder package published for security-research purposes. Not affiliated with any other project and performs no action. Contact: bar@capsule.security."
-        },
-        {
-          "title": "llmc-code added to PyPI",
-          "link": "https://pypi.org/project/llmc-code/",
-          "date": "17 Jul 2026",
-          "summary": "A lightweight, personal Claude Code-style agentic CLI for LOCAL LLMs (LM Studio)."
-        },
-        {
-          "title": "inelida-marketscan added to PyPI",
-          "link": "https://pypi.org/project/inelida-marketscan/",
-          "date": "17 Jul 2026",
-          "summary": "Scanner multi-TF ICT x Ichimoku automatise — Diamond Analysis, Asian Sweeps, P&L Tracker"
         }
       ]
     }
