@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-17T01:52:22Z",
+  "generated": "2026-07-17T04:56:22Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,12 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "Tech Mahindra shares jump 3% after Q1 earnings beat estimates. What Nomura, Nuvama, other brokerages now expect",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tech-mahindra-shares-jump-3-after-q1-earnings-beat-estimates-what-nomura-nuvama-other-brokerages-now-expect/articleshow/132452119.cms",
+          "date": "17 Jul 2026",
+          "summary": "Tech Mahindra shares surged after the IT major reported better-than-expected Q1 FY27 results, with net profit rising 28% YoY to Rs 1,465 crore and revenue climbing 18% to Rs 15,712 crore, supported by broad-based growth, strong deal wins, and margin expansion."
+        },
         {
           "title": "Wipro's strong deal wins offset by weak revenue and margin decline",
           "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/wipros-strong-deal-wins-offset-by-weak-revenue-and-margin-decline/articleshow/132450336.cms",
@@ -32,16 +38,10 @@
           "summary": "An upcoming MSCI index rebalancing may introduce about $2.3 billion in passive investment flows. The global index provider will announce changes on August 12 after market close. Several Indian stocks are likely candidates for inclusion in the MSCI India Standa…"
         },
         {
-          "title": "Global Market Today: Asian stocks drop after chip selloff, oil gains",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-drop-after-chip-selloff-oil-gains/articleshow/132450371.cms",
+          "title": "Gold set for biggest weekly fall in six as Iran war fans inflation worries",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-set-for-biggest-weekly-fall-in-six-as-iran-war-fans-inflation-worries/articleshow/132450633.cms",
           "date": "17 Jul 2026",
-          "summary": "Asian stocks declined as chipmakers pulled down Wall Street amid valuation concerns. Oil prices climbed higher this week due to escalating Middle East hostilities. Investors are questioning the sustainability of massive artificial intelligence investments and…"
-        },
-        {
-          "title": "RBI bars banks, NBFCs from selling acquired stressed assets back to defaulting borrowers, related parties",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-bars-banks-nbfcs-from-selling-acquired-stressed-assets-back-to-defaulting-borrowers-related-parties/articleshow/132450145.cms",
-          "date": "16 Jul 2026",
-          "summary": "New Reserve Bank of India norms will prevent lenders from reselling acquired assets to defaulting borrowers. These prudential rules apply to banks, small finance banks, and NBFCs starting October 2026. Specified non-financial assets are those obtained when res…"
+          "summary": "Gold prices saw a rebound on Friday, yet are set for a significant weekly loss. Renewed clashes between the United States and Iran have lifted oil prices considerably. This escalation has stoked inflation concerns and strengthened expectations for higher inter…"
         },
         {
           "title": "India-UK CETA takes effect: First zero-duty Indian coffee, jewellery consignments reach UK shores",
@@ -116,6 +116,12 @@
           "summary": "“Indian companies need to re-skill, train, and acquire more relevant talent, if they are to successfully integrate AI technologies. Most importantly, they should be willing to make the continued investment. It is an uphill race in which there will be winners a…"
         },
         {
+          "title": "What is SAVE America Act? Here's all about Trump's plan to overhaul voting in America",
+          "link": "https://economictimes.indiatimes.com/news/new-updates/what-is-save-america-act-heres-all-about-trumps-plan-to-overhaul-voting-in-america-check-details-summary/articleshow/132451258.cms",
+          "date": "17 Jul 2026",
+          "summary": "Save America Act What is it? A Republican-backed bill, the SAVE America Act, mandates citizenship proof for registration and photo ID for voting. This legislation has passed the House but faces Senate filibuster challenges and requires bipartisan support. Supp…"
+        },
+        {
           "title": "What does 'Las Malvinas Son Argentinas' mean? All about the Falkland row that followed Messi's Argentina into the World Cup final",
           "link": "https://economictimes.indiatimes.com/news/new-updates/what-does-las-malvinas-son-argentinas-mean-all-about-the-falkland-row-that-followed-messis-argentina-into-the-world-cup-final/articleshow/132428679.cms",
           "date": "16 Jul 2026",
@@ -144,12 +150,6 @@
           "link": "https://economictimes.indiatimes.com/news/new-updates/he-failed-5000-times-but-never-gave-up-to-make-the-right-vacuum-now-his-company-is-worth-13-billion/articleshow/132389618.cms",
           "date": "14 Jul 2026",
           "summary": "Sir James Dyson built a famous appliance brand after 5,127 failed attempts. He focused on solving everyday household annoyances with persistent engineering efforts. Dyson refused to remove the see-through bin despite retailer pressure. This transparent design…"
-        },
-        {
-          "title": "Don't scare a crow: Crows hold grudges for nearly a decade, they never forget a face, and even teach their chicks to hate the same face",
-          "link": "https://economictimes.indiatimes.com/news/new-updates/dont-scare-a-crow-crows-hold-grudges-for-nearly-a-decade-they-never-forget-a-face-and-even-teach-their-chicks-to-hate-the-same-face/articleshow/132389288.cms",
-          "date": "14 Jul 2026",
-          "summary": "Crows possess remarkable facial recognition and hold grudges for nearly two decades. These intelligent birds teach their young to remember and avoid specific human faces. Parent crows aggressively protect their nests during spring and early summer months. Howe…"
         },
         {
           "title": "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls",
@@ -196,76 +196,76 @@
       "ok": true,
       "items": [
         {
-          "title": "'China stole voter data of 220m Americans': Trump blames Beijing for 2020 election interference",
-          "link": "https://timesofindia.indiatimes.com/world/us/data-of-220m-us-citizens-stolen-trump-accuses-china-of-massive-us-voter-data-breach/articleshow/132450456.cms",
+          "title": "How chance discovery of Rs 40,000 in loo helped blow lid off Ayodhya Ram temple theft",
+          "link": "https://timesofindia.indiatimes.com/city/lucknow/how-chance-discovery-of-stolen-cash-in-temple-washroom-blew-lid-off-the-donation-theft/articleshow/132447302.cms",
+          "date": "17 Jul 2026",
+          "summary": "A chance discovery of concealed cash led to an investigation into donation theft. Alerted by a gatekeeper, temple trustees initiated an internal inquiry into the matter. Police launched a probe and recovered nearly eighty lakh rupees from multiple locations. A…"
+        },
+        {
+          "title": "3 students killed, 4 critical after train collides with school van in Murshidabad",
+          "link": "https://timesofindia.indiatimes.com/city/kolkata/train-collides-with-school-van-in-west-bengals-murshidabad-several-students-critical/articleshow/132452175.cms",
+          "date": "17 Jul 2026",
+          "summary": "A local train struck a school vehicle at an open level crossing, killing four people. The collision occurred Friday morning between Karnasubarna station and Gobindapur rail gate. Four students and the vehicle driver were hospitalized in critical condition afte…"
+        },
+        {
+          "title": "'Cyber threat to democracy': Trump says Russia, Iran &amp; China interfered in US polls",
+          "link": "https://timesofindia.indiatimes.com/world/us/cyber-threat-to-democracy-trump-claims-russia-china-iran-north-korea-can-compromise-us-election-systems/articleshow/132451358.cms",
           "date": "17 Jul 2026",
           "summary": ""
         },
         {
-          "title": "Trump admin limits students visa tenure to fixed period of 4 yrs, limits academic flexibility",
-          "link": "https://timesofindia.indiatimes.com/nri/trump-administration-limits-visa-tenure-of-students-to-a-fixed-period-of-four-years-and-limits-academic-flexibility/articleshow/132445612.cms",
+          "title": "'Nothing was handed to Argentina': Messi unloads on favouritism claims",
+          "link": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/nothing-was-handed-to-argentina-lionel-messi-unloads-on-favouritism-claims/articleshow/132450886.cms",
           "date": "17 Jul 2026",
-          "summary": ""
+          "summary": "Argentina came from 1-0 down after the 85th minute to beat England 2-1 in Wednesday's semifinal and book a place in the final, where they will face Spain on Sunday."
         },
         {
-          "title": "Rohit Sharma no more automatic selection after Lord's ODI",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/rohit-sharma-no-more-automatic-selection-after-lords-odi/articleshow/132450256.cms",
-          "date": "17 Jul 2026",
-          "summary": "The Indian team management and selectors had initially considered giving Yashasvi Jaiswal a full series in England but opted to persist with Rohit Sharma, hoping he would rediscover his form. Sources indicate that both the selection committee and team manageme…"
+          "title": "Woman waiting at Mangaluru bus stop hacked to death; one-sided love angle emerges",
+          "link": "https://timesofindia.indiatimes.com/city/mangaluru/woman-waiting-at-mangaluru-bus-stop-hacked-to-death-one-sided-love-angle-emerges/articleshow/132443351.cms",
+          "date": "16 Jul 2026",
+          "summary": "A tragic incident occurred when a 21-year-old woman was brutally attacked near the BC Road bus stand. Identified as Lavanya, she succumbed to her injuries and was pronounced dead at Bantwal Government Hospital. Investigators have identified Chetan, a distant r…"
         },
         {
-          "title": "US launches fresh strikes on Iran; state TV says Bandar Abbas hit by projectiles",
-          "link": "https://timesofindia.indiatimes.com/world/middle-east/us-launches-new-wave-of-strikes-against-iran-state-tv-says-bandar-abbas-hit-by-american-projectiles/articleshow/132447313.cms",
+          "title": "Google DeepMind researcher resigns over Pentagon deal, explains why in 2,000-word note",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/google-deepmind-researcher-resigns-over-companys-pentagon-deal-shares-2000-plus-words-long-note-explaining-heres-what-happened-says-i-resigned-from-google-deepmind-because-it-broke-/articleshow/132451977.cms",
           "date": "17 Jul 2026",
-          "summary": "United States forces conducted a new wave of strikes against Iran on Thursday. These attacks marked the fifth consecutive night of military operations by the US. The strikes targeted Iran's military capabilities and facilities in Bandar Abbas. This escalation…"
+          "summary": "Google DeepMind researcher Alex Turner has resigned over the company's classified Pentagon deal, which lets the military use its Gemini AI for \"any lawful purpose\" without binding limits on autonomous weapons or surveillance. In a 2,000-word note, \"Why I Left…"
+        },
+        {
+          "title": "'Hasn't scored in two games': India coach's verdict on Rohit Sharma amid poor form",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/hasnt-scored-in-two-games-india-coach-drops-verdict-on-rohit-sharma-amid-poor-form/articleshow/132451432.cms",
+          "date": "17 Jul 2026",
+          "summary": "Rohit's struggles were visible in the second ODI in Cardiff on Thursday, where England won by four wickets to level the three-match series 1-1. The opener never looked settled, scoring just 10 runs off 18 balls by the end of the Powerplay even as India raced t…"
         },
         {
           "title": "Jeff Bezos donates $10m to LA that city's mayor says is about investing in culture",
           "link": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-donates-10-1-million-to-los-angeles-that-citys-mayor-says-is-about-investing-in-culture-of-/articleshow/132430513.cms",
           "date": "16 Jul 2026",
-          "summary": "Jeff Bezos' Earth Fund has granted $10.1 million for Watts Towers Arts Center Campus improvements. This investment will expand usable park space and introduce new cooling features. The project aims to strengthen the campus as a cultural hub before the 2028 Oly…"
+          "summary": "Jeff Bezos' Earth Fund has granted $10.1 million for the Watts Towers Arts Center Campus. This investment will help transform the campus ahead of the 2028 Olympic and Paralympic Games. The project adds over 30,000 square feet of usable park space and cooling f…"
         },
         {
-          "title": "Acquitted 45 yrs on, after serving life term; murder in 1977, conviction 1981, clean chit 2026",
-          "link": "https://timesofindia.indiatimes.com/india/acquitted-45-years-on-after-serving-life-term-murder-in-1977-conviction-1981-clean-chit-2026/articleshow/132448236.cms",
+          "title": "Man driving Mercedes can't call Rs 20,000 maintenance for wife excessive: Karnataka HC",
+          "link": "https://timesofindia.indiatimes.com/legal/news/man-driving-mercedes-cant-call-rs-20000-maintenance-for-wife-excessive-karnataka-hc/articleshow/132452471.cms",
           "date": "17 Jul 2026",
-          "summary": "The Supreme Court acquitted three surviving accused in a 49-year-old murder case. This decision came after the accused had served life imprisonment sentences. The court found serious infirmities in the prosecution's case and witness testimonies. Inconsistencie…"
+          "summary": "The Karnataka High Court dismissed a husband's divorce appeal based on cruelty and desertion. The court also upheld an order for him to pay interim maintenance. A man owning a Mercedes-Benz cannot claim this payment is excessive. The husband failed to prove cr…"
         },
         {
-          "title": "NEET-UG results declared: 2 score 715/720, 19 cross 700",
-          "link": "https://timesofindia.indiatimes.com/india/neet-ug-results-declared-2-score-715/720-19-cross-700/articleshow/132447910.cms",
-          "date": "17 Jul 2026",
-          "summary": "NEET-UG 2026 results revealed higher top scores following a nationwide retest. Aryan Gupta from Punjab secured the top position with a score of 715. Over 93% of candidates scoring above 690 were first-time test-takers. Women accounted for over 58% of the quali…"
-        },
-        {
-          "title": "How Russian oligarch's superyacht used 'vanishing tech' to cross Hormuz",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/how-the-massive-luxury-superyacht-of-russias-richest-man-used-vanishing-tech-while-crossing-the-strait-of-hormuz-resurfacing-5050-miles-away-in-bali/articleshow/132446051.cms",
-          "date": "17 Jul 2026",
-          "summary": "The superyacht Nord arrived in Bali after a mysterious journey. It navigated the dangerous Strait of Hormuz by disabling its tracking system. This massive vessel covered over four thousand nautical miles across the Indian Ocean. The yacht, valued at $500 milli…"
-        },
-        {
-          "title": "Trump to allege Chinese meddling in US elections during primetime speech: Report",
-          "link": "https://timesofindia.indiatimes.com/world/us/trump-to-allege-chinese-meddling-in-us-elections-during-primetime-speech-report/articleshow/132450070.cms",
-          "date": "17 Jul 2026",
+          "title": "The 1883 mongoose mistake that still threatens Hawaii’s native wildlife",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/in-1883-hawaii-introduced-mongooses-to-control-rats-in-sugarcane-fields-they-soon-became-a-far-bigger-threat-to-native-wildlife/articleshow/132359423.cms",
+          "date": "13 Jul 2026",
           "summary": ""
         },
         {
-          "title": "Artist makes $1,250 selling trash from Swift-Kelce wedding — 50 items sold out in 24 hours",
-          "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/artist-earns-1250-by-selling-cigarette-butts-bottle-caps-and-an-airpod-collected-outside-taylor-swift-and-travis-kelces-wedding-50-collectibles-sell-out-in-24-hours/articleshow/132448248.cms",
-          "date": "17 Jul 2026",
-          "summary": "While thousands of Swifties gathered outside Madison Square Garden hoping to catch a glimpse of Taylor Swift and Travis Kelce on their wedding day, one man saw an entirely different opportunity. New York artist Justin Gignac spent the evening collecting discar…"
-        },
-        {
-          "title": "Billionaire Tim Roberts rescues father and son stranded 12 hours in outback storm",
-          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/australian-father-and-son-were-stranded-in-the-outback-for-12-hours-after-a-storm-trapped-their-car-billionaire-tim-roberts-who-happened-to-be-flying-his-helicopter-rescued-them/articleshow/132447601.cms",
-          "date": "17 Jul 2026",
-          "summary": "A father and son from Melbourne found themselves lost for twelve hours in the stark South Australian outback after their vehicle sank into mud due to a fierce storm. Their fate caught the attention of billionaire Tim Roberts, who, after hearing their situation…"
-        },
-        {
-          "title": "Canada to stop accepting new Parents and Grandparents Program applications",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/immigration-refugees-and-citizenship-canadas-notice-government-of-canada-is-pausing-the-intake-of-new-applications-under-/articleshow/132433521.cms",
+          "title": "1.3 km below Atlantic, scientists find water that may fuel sunless life",
+          "link": "https://timesofindia.indiatimes.com/science/scientists-drilled-1-3-km-beneath-the-atlantic-and-found-superheated-water-that-may-fuel-one-of-earths-strangest-sunless-ecosystems/articleshow/132438405.cms",
           "date": "16 Jul 2026",
-          "summary": "Canada is pausing new applications for the Parents and Grandparents Program. Existing applications will be processed, and 15,000 people will be approved in 2026. Family reunification remains a priority, and the super visa offers extended visits for relatives.…"
+          "summary": "Scientists found superheated water deep beneath the ocean floor. This water's chemical makeup matches the Lost City's vent fluids. The discovery suggests a hidden source of hot, hydrogen-rich water. This helps understand life surviving without sunlight and pot…"
+        },
+        {
+          "title": "Winners will make the hard choices: Microsoft's security chief to employees after layoffs",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/after-hundreds-of-layoffs-and-restructuring-of-engineering-teams-microsofts-new-security-chief-to-employees-in-internal-memo-companies-will-be-rewarded-that-/articleshow/132451863.cms",
+          "date": "17 Jul 2026",
+          "summary": "Microsoft's new security chief Hayete Gallot has replaced senior executives, merged engineering teams, and cut hundreds of jobs to push the company toward AI-powered cybersecurity, The Information reports. In an internal memo, Gallot told staff the industry is…"
         },
         {
           "title": "Inside David Beckham's empire: From 'Beckingham Palace' to $72 million Miami mansion",
@@ -274,16 +274,10 @@
           "summary": ""
         },
         {
-          "title": "Jude Bellingham's girlfriend speaks out after months of online abuse",
-          "link": "https://timesofindia.indiatimes.com/sports/international-sports/people-have-attacked-me-harassed-me-jude-bellinghams-girlfriend-ashlyn-castro-broke-her-silence-after-relentless-online-abuse-in-emotional-video/articleshow/132438624.cms",
+          "title": "House hunting? These tips can help you avoid AI rental scams",
+          "link": "https://timesofindia.indiatimes.com/real-estate/news/house-hunting-beware-of-ai-powered-rental-scams-and-fake-landlordsheres-how-to-stay-safe/articleshow/132438755.cms",
           "date": "17 Jul 2026",
-          "summary": "In March 2025, Jude Bellingham's girlfriend Ashlyn Castro addressed months of online trolling and false rumors about her dating history in an emotional TikTok video. She revealed she had only been in three relationships over eight years and described the relen…"
-        },
-        {
-          "title": "Did MS Dhoni predict Spain vs Argentina WC final 10 yrs ago? Old Insta post goes viral",
-          "link": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/did-ms-dhoni-predict-the-spain-vs-argentina-fifa-world-cup-2026-final-10-years-ago-old-instagram-post-goes-viral/articleshow/132433665.cms",
-          "date": "17 Jul 2026",
-          "summary": "Argentina's World Cup semifinal victory has caused an old Instagram post by MS Dhoni to resurface. The 2016 picture showed Dhoni playing PlayStation with teammates, captioned \"Spain vs Argentina\". This post gained attention as Argentina will now face Spain in…"
+          "summary": "In an era of advanced technology, online rental scams have become more cunning, leveraging artificial intelligence to deceive unsuspecting tenants. Fraudsters craft fake property listings and convincingly impersonate landlords. To safeguard against these scams…"
         },
         {
           "title": "Gigi Hadid reportedly deepened Blake Lively's fallout with Taylor Swift",
@@ -304,76 +298,82 @@
           "summary": "Marcello Hernandez delivered some of the biggest moments at the 2026 ESPYs with jokes aimed at Tiger Woods and Bill Belichick. Hernandez referenced Woods’ ongoing DUI case and poked fun at Belichick’s relationship with Jordon Hudson. The comedian’s sharp monol…"
         },
         {
-          "title": "Vivek Oberoi reacts to Wangchuk's hunger strike: 'Yaar main abhineta hu, neta nahi hu'",
-          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vivek-oberoi-reacts-to-sonam-wangchuks-hunger-strike-yaar-main-abhineta-hu-neta-nahi-hu-toh-main-political-cheezon-pe-dhyaan-nahi-deta-hun/articleshow/132443254.cms",
-          "date": "16 Jul 2026",
-          "summary": "Vivek Oberoi has reacted to Sonam Wangchuk's ongoing hunger strike at Delhi's Jantar Mantar, saying he prefers to stay away from political debates but believes that people should have the freedom to express their views in a healthy democracy. While he did not…"
+          "title": "Joe Root surpasses Virat Kohli's ODI record with unbeaten 99 against India",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/joe-root-surpasses-virat-kohlis-odi-record-with-unbeaten-99-against-india/articleshow/132450625.cms",
+          "date": "17 Jul 2026",
+          "summary": "Joe Root's unbeaten 99 guided England to a four-wicket victory over India. This win leveled the three-match series at one game apiece. Root absorbed early pressure and anchored the innings with a composed knock. He overtook Virat Kohli in successful ODI run ch…"
         },
         {
-          "title": "Bumrah scripts never-seen-before England record with first-ball stunner",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/jasprit-bumrah-scripts-never-seen-before-england-record-with-first-ball-stunner/articleshow/132444150.cms",
+          "title": "Rachit breaks silence on October wedding rumours with Huma",
+          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rachit-singh-breaks-silence-on-october-wedding-rumours-with-huma-qureshi-main-soch-raha-hun-apni-mummy-ka-number-de-doon/articleshow/132451969.cms",
           "date": "17 Jul 2026",
-          "summary": "Ben Duckett became the first England batter dismissed on the opening ball against India. Jasprit Bumrah provided India with an ideal start in the chase of 234. India posted a below-par 233 after a middle-order collapse in their innings. Virat Kohli and Shreyas…"
+          "summary": "Rachit Singh has denied wedding rumours with Huma Qureshi, saying, \"It's not happening!\" Speculation grew after the two attended a wedding reception together and made frequent public appearances. Rachit, also an acting coach for a decade, spoke about working w…"
         },
         {
-          "title": "'Engines didn't start': SpaceX aborts Starship's 13th test just before liftoff",
-          "link": "https://timesofindia.indiatimes.com/world/us/some-of-the-engines-didnt-start-spacexs-starship-aborts-just-before-liftoff-postpones-13th-flight-test/articleshow/132450100.cms",
+          "title": "NEET UG 2026 cut-off released alongside results; Check category-wise qualifying marks, percentiles",
+          "link": "https://timesofindia.indiatimes.com/education/news/neet-ug-2026-cut-off-released-alongside-results-check-category-wise-qualifying-marks-percentiles/articleshow/132451966.cms",
           "date": "17 Jul 2026",
-          "summary": "SpaceX's Starship rocket aborted its thirteenth flight test just before liftoff. The automated launch scrub occurred moments before the planned liftoff from Texas. Raptor engines ignited but shut down shortly afterward, preventing the launch. Engineers will in…"
+          "summary": "The NTA has announced the NEET UG 2026 cut-off along with the examination results, outlining the category-wise qualifying percentiles and marks required for medical admissions. With over 11.21 lakh candidates qualifying, eligible aspirants can now participate…"
         },
         {
-          "title": "Long-term exposure to air pollution could lead to dementia, warns WHO",
-          "link": "https://timesofindia.indiatimes.com/india/long-term-exposure-to-air-pollution-could-lead-to-dementia-warns-who/articleshow/132450132.cms",
+          "title": "Aamir Khan dismisses '3 Idiots' link to Sonam Wangchuk; voices concern as his fast continues",
+          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khan-concerned-about-sonam-wangchuks-health-as-fast-continues-says-3-idiots-connection-is-a-misconception-he-doesnt-have-to-be-based-on-the-character-for-us-to-respect-him/articleshow/132451048.cms",
           "date": "17 Jul 2026",
-          "summary": "New WHO guidelines suggest up to 45% of dementia cases are preventable. Tackling risk factors like high blood pressure and air pollution is advised. Healthy lifestyles and managing chronic diseases significantly influence brain health. The guidelines recommend…"
+          "summary": "Aamir Khan addressed the popular belief about his character Phunsukh Wangdu. He stated that the '3 Idiots' character was not based on Sonam Wangchuk. Khan clarified this misconception during a London Film Festival interaction. He also expressed deep concern fo…"
         },
         {
-          "title": "Skyroot Aerospace to launch India’s first private orbital rocket on Saturday",
-          "link": "https://timesofindia.indiatimes.com/india/skyroot-aerospace-to-launch-indias-first-private-orbital-rocket-on-saturday/articleshow/132448633.cms",
+          "title": "Hydrogen train, Rs 25K cr in projects: PM Modi's agenda in Haryana, Chandigarh &amp; Punjab",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/pm-modis-haryana-chandigarh-punjab-visit-today-hydrogen-train-rs-25000-crore-projects-and-more-on-agenda/articleshow/132451965.cms",
           "date": "17 Jul 2026",
-          "summary": "India's private space sector is poised for a significant advancement this Saturday. Skyroot Aerospace will launch the Vikram-1, its first orbital-class rocket. This historic mission, named Mission Aagaman, will lift off from Sriharikota. The rocket carries tec…"
+          "summary": "Prime Minister Narendra Modi will launch development projects exceeding twenty-four thousand eight hundred crore rupees. These initiatives span highways, railways, healthcare, and education infrastructure across three regions. The visit includes flagging off I…"
         },
         {
-          "title": "Govt plans bill to punish those who insult, block Vande Mataram singing",
-          "link": "https://timesofindia.indiatimes.com/india/govt-plans-bill-to-punish-those-who-insult-block-vande-singing/articleshow/132449995.cms",
+          "title": "Trump claims Obama, Biden benefited from ‘cover-up’ of China’s 2020 election meddling",
+          "link": "https://timesofindia.indiatimes.com/world/us/trump-claims-obama-biden-benefited-from-cover-up-of-chinas-2020-election-meddling/articleshow/132451661.cms",
           "date": "17 Jul 2026",
-          "summary": "Delimitation, women's quota bills not on agenda yet"
+          "summary": ""
         },
         {
-          "title": "PF for self-employed, workers in unorganised sector on way",
-          "link": "https://timesofindia.indiatimes.com/india/pf-for-self-employed-workers-in-unorganised-sector-on-way/articleshow/132450124.cms",
+          "title": "Hyderabad school 'Kalma' homework row: NHRC issues notice to Telangana govt",
+          "link": "https://timesofindia.indiatimes.com/city/hyderabad/hyderabad-school-kalma-homework-row-nhrc-issues-notice-to-telangana-govt/articleshow/132451643.cms",
           "date": "17 Jul 2026",
-          "summary": "Employees Provident Fund Organisation is developing a universal provident fund scheme. This new plan will cover millions in the unorganised sector and self-employed individuals. Subscribers can contribute daily or annually with tax benefits on their savings. T…"
+          "summary": "The National Human Rights Commission has issued a notice to the Telangana government. This action follows a complaint alleging compulsory Islamic religious lessons and prayers at a private college. The institution reportedly assigned these religious tasks as m…"
         },
         {
-          "title": "Lana Del Rey's wedding absence fuels fresh Taylor Swift friendship rumors",
-          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/taylor-swift-and-travis-kelces-wedding-shock-lana-del-reys-absence-reignites-friendship-feud-rumors/articleshow/132450055.cms",
+          "title": "Congress must pass 'Voter ID Save America Act': Trump in his address to United States",
+          "link": "https://timesofindia.indiatimes.com/world/us/data-of-220m-us-citizens-stolen-trump-accuses-china-of-massive-us-voter-data-breach/articleshow/132450456.cms",
           "date": "17 Jul 2026",
-          "summary": "Lana Del Rey did not attend Taylor Swift and Travis Kelce's July 3 wedding, choosing instead to celebrate the Fourth of July in Louisiana and attend YouTuber Oli Abbas' birthday. Her absence sparked renewed speculation about her friendship with Swift, but Del…"
+          "summary": ""
         },
         {
-          "title": "Unite to fight terror, organised crime, Ajit Doval urges Bimstec",
-          "link": "https://timesofindia.indiatimes.com/india/unite-to-fight-terror-organised-crime-ajit-doval-urges-bimstec/articleshow/132450042.cms",
+          "title": "NEET UG 2026 AIR 1 Aryan Gupta shares success mantra, advice for aspirants",
+          "link": "https://timesofindia.indiatimes.com/education/news/neet-ug-2026-result-declared-air-1-aryan-gupta-says-hard-work-never-goes-unnoticed-shares-advice-for-aspirants/articleshow/132451557.cms",
           "date": "17 Jul 2026",
-          "summary": "NSA Ajit Doval chaired the Bimstec national security chiefs meeting in New Delhi. The grouping discussed practical solutions to combat terrorism and organized crime. Security chiefs also endorsed principles for maritime law enforcement interactions at sea. Dov…"
+          "summary": "The NTA has announced the NEET UG 2026 results, with over 11.21 lakh candidates qualifying for medical admissions. Punjab's Aryan Gupta, who secured a joint AIR 1 with 715 marks, credited his success to 16–17 hours of daily study and perseverance. Aspiring to…"
         },
         {
-          "title": "Call all-party meet to discuss delimitation bill: Kharge to PM Modi",
-          "link": "https://timesofindia.indiatimes.com/india/call-all-party-meet-to-discuss-delimitation-bill-kharge-to-pm-modi/articleshow/132450014.cms",
+          "title": "'China stole data of 220m US voters': Trump blames Beijing as he releases files on 2020 polls",
+          "link": "https://timesofindia.indiatimes.com/world/us/china-stole-data-of-220m-us-voters-trump-blames-beijing-as-he-releases-files-on-2020-polls/articleshow/132450909.cms",
           "date": "17 Jul 2026",
-          "summary": "Congress chief Mallikarjun Kharge requested an all-party meeting with Prime Minister Modi. He seeks details on the revised Constitution (131st Amendment) Bill. Reports suggest the government plans to reintroduce the delimitation bill soon. Congress believes th…"
+          "summary": "President Donald Trump alleged China compromised 220 million American voter files. He announced declassification of intelligence documents regarding election interference. Trump claimed intelligence officials concealed this information from him and Congress. H…"
         },
         {
-          "title": "Fema a civil law, RBI alone can compound offences, says ED",
-          "link": "https://timesofindia.indiatimes.com/india/fema-a-civil-law-rbi-alone-can-compound-offences-says-ed/articleshow/132447870.cms",
+          "title": "Top stocks to buy: Stock recommendations for today - check list",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/top-stocks-to-buy-today-stock-recommendations-for-july-17-2026-adani-power-indusind-bank-check-list/articleshow/132440304.cms",
           "date": "17 Jul 2026",
-          "summary": "The Enforcement Directorate clarified Fema's role as civil legislation for voluntary compliance. Reserve Bank of India is the competent authority for compounding eligible contraventions. The ED issues a no-objection certificate to the central bank for compound…"
+          "summary": "Stock market recommendations: Adani Power, and IndusInd Bank - Bajaj Broking Research has recommended these two stocks to buy today, July 17, 2026, with a one-month horizon for the target price to be achieved. Let’s take a look:"
         },
         {
-          "title": "Army chief visits military base near Siliguri Corridor to review operational preparedness",
-          "link": "https://timesofindia.indiatimes.com/defence/news/army-chief-visits-military-base-near-siliguri-corridor-to-review-operational-preparedness/articleshow/132449354.cms",
+          "title": "Vivek Oberoi reveals he invested in over 30 companies, exited 11 with returns of up to 300%",
+          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vivek-oberoi-reveals-his-family-office-has-invested-in-over-30-companies-exited-11-with-returns-of-up-to-300-every-business-dharma-is-profit/articleshow/132450033.cms",
           "date": "17 Jul 2026",
-          "summary": "Army chief General Dhiraj Seth reviewed operational preparedness of Eastern Command formations. He visited IV Corps, XXXIII Corps, and III Corps during his tour. General Seth was briefed on security situations and capability development initiatives. He commend…"
+          "summary": "While many know Vivek Oberoi as an actor, he has quietly built a significant presence in the investment world. In a recent interview, the actor spoke about his journey from learning the value of money as a child to creating a family office focused on generatio…"
+        },
+        {
+          "title": "Rohit Sharma no more automatic selection after Lord's ODI",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/rohit-sharma-no-more-automatic-selection-after-lords-odi/articleshow/132450256.cms",
+          "date": "17 Jul 2026",
+          "summary": "The Indian team management and selectors had initially considered giving Yashasvi Jaiswal a full series in England but opted to persist with Rohit Sharma, hoping he would rediscover his form. Sources indicate that both the selection committee and team manageme…"
         }
       ]
     },
@@ -1152,6 +1152,12 @@
       "ok": true,
       "items": [
         {
+          "title": "Truth Social To Sell Wall Street Firms the 'Fastest' Access To Trump's Post",
+          "link": "https://tech.slashdot.org/story/26/07/17/0022208/truth-social-to-sell-wall-street-firms-the-fastest-access-to-trumps-post?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "17 Jul 2026",
+          "summary": "An anonymous reader quotes a report from NBC News: Trump Media &amp; Technology Group has unveiled a paid-for, licensed data feed that will give banks and trading firms \"the fastest\" access to posts from influential Truth Social accounts, such as President Don…"
+        },
+        {
           "title": "HP Fined $14 Million For 'Cartelization' of Ink Cartridges, Toner, PCs",
           "link": "https://hardware.slashdot.org/story/26/07/16/2210245/hp-fined-14-million-for-cartelization-of-ink-cartridges-toner-pcs?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "16 Jul 2026",
@@ -1234,12 +1240,6 @@
           "link": "https://entertainment.slashdot.org/story/26/07/15/2026236/spotify-is-now-an-ai-chatbot-too?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "15 Jul 2026",
           "summary": "Spotify is testing a new \"Talk to Spotify\" AI feature for Premium subscribers that will let them chat with an AI assistant to explore music, podcasts, and audiobooks. The feature can answer questions about what users are listening to, adjust playback through f…"
-        },
-        {
-          "title": "Hack Reveals Suno AI Music Generator Scraped YouTube, Deezer, and Genius",
-          "link": "https://news.slashdot.org/story/26/07/15/2010250/hack-reveals-suno-ai-music-generator-scraped-youtube-deezer-and-genius?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "15 Jul 2026",
-          "summary": "A hacker who breached Suno reportedly revealed source code and training-library details showing the AI music generator scraped millions of songs and lyrics from sources including YouTube Music, Deezer, Genius, Pond5, Jamendo, Freesound, and podcast RSS feeds.…"
         }
       ]
     },
@@ -1630,184 +1630,184 @@
       "ok": true,
       "items": [
         {
-          "title": "scrypto-audit-kit added to PyPI",
-          "link": "https://pypi.org/project/scrypto-audit-kit/",
+          "title": "keycloak-guard added to PyPI",
+          "link": "https://pypi.org/project/keycloak-guard/",
           "date": "17 Jul 2026",
-          "summary": "Pre-audit toolkit for Scrypto blueprints on Radix: deterministic static analysis, an LLM checklist pass, machine-readable reports, an MCP server, and on-chain attestation."
+          "summary": "Keycloak access-token validation with a framework-agnostic Principal and adapters for Django REST Framework, FastAPI, and Flask."
         },
         {
-          "title": "rustychem added to PyPI",
-          "link": "https://pypi.org/project/rustychem/",
+          "title": "snapitem-mcp added to PyPI",
+          "link": "https://pypi.org/project/snapitem-mcp/",
           "date": "17 Jul 2026",
-          "summary": "chemistry"
+          "summary": "E-commerce product crawler MCP for Claude Code (1688/Amazon/Ozon/Wildberries/AliExpress)"
         },
         {
-          "title": "voidguard added to PyPI",
-          "link": "https://pypi.org/project/voidguard/",
+          "title": "agent-folder-workspace added to PyPI",
+          "link": "https://pypi.org/project/agent-folder-workspace/",
           "date": "17 Jul 2026",
-          "summary": "Finds void guards: checks that are present, plausible, and verify nothing."
+          "summary": "Offline, lazy, agent-oriented exploration of heterogeneous folders"
         },
         {
-          "title": "spec-eval added to PyPI",
-          "link": "https://pypi.org/project/spec-eval/",
+          "title": "pystreamliner added to PyPI",
+          "link": "https://pypi.org/project/pystreamliner/",
           "date": "17 Jul 2026",
-          "summary": "A trust-eval for your specs: coverage, drift, and sufficiency of markdown specs against code."
+          "summary": "A script to analyze and clean Python files"
         },
         {
-          "title": "atune added to PyPI",
-          "link": "https://pypi.org/project/atune/",
+          "title": "deepfilternet-slim added to PyPI",
+          "link": "https://pypi.org/project/deepfilternet-slim/",
           "date": "17 Jul 2026",
-          "summary": "This name has been reserved using Reserver"
+          "summary": "DeepFilterNet C runtime and DFN3 model bundled in platform wheels"
         },
         {
-          "title": "oniro added to PyPI",
-          "link": "https://pypi.org/project/oniro/",
+          "title": "waddr added to PyPI",
+          "link": "https://pypi.org/project/waddr/",
           "date": "17 Jul 2026",
-          "summary": "This name has been reserved using Reserver"
+          "summary": "3D word-based address protocol — the pure encoding/decoding engine"
         },
         {
-          "title": "vcti-fileloader-mesh added to PyPI",
-          "link": "https://pypi.org/project/vcti-fileloader-mesh/",
+          "title": "agt-agent added to PyPI",
+          "link": "https://pypi.org/project/agt-agent/",
           "date": "17 Jul 2026",
-          "summary": "Base classes for mesh fileloader plugins producing mesh-schema DataNode trees"
+          "summary": "AI Agent 框架——多模型 ReAct 引擎 + MCP 集成 + Coze 工作流 + WebUI + 可视化编辑器"
         },
         {
-          "title": "py-hikvision-toolkit added to PyPI",
-          "link": "https://pypi.org/project/py-hikvision-toolkit/",
+          "title": "intent-master added to PyPI",
+          "link": "https://pypi.org/project/intent-master/",
           "date": "17 Jul 2026",
-          "summary": "一个用于与海康威视 iSecure Center (ISC) API 交互的 Python 客户端库"
+          "summary": "Universal intent detection framework with a plug-and-play plugin architecture."
         },
         {
-          "title": "vcti-mesh-schema added to PyPI",
-          "link": "https://pypi.org/project/vcti-mesh-schema/",
+          "title": "quant-limit-probability-cli added to PyPI",
+          "link": "https://pypi.org/project/quant-limit-probability-cli/",
           "date": "17 Jul 2026",
-          "summary": "Mesh schema and accessors for structured-array mesh blocks in DataNode trees"
+          "summary": "次日涨跌停概率：本地回填、训练、发布、上传 CLI（无需完整 Engine 服务）"
         },
         {
-          "title": "str2col added to PyPI",
-          "link": "https://pypi.org/project/str2col/",
+          "title": "yibelang added to PyPI",
+          "link": "https://pypi.org/project/yibelang/",
           "date": "17 Jul 2026",
-          "summary": "Map any value to a deterministic color"
+          "summary": "Y-ibe - machine learning in plain English. No syntax. No cloud. Your data never leaves your computer."
         },
         {
-          "title": "myelin-pps added to PyPI",
-          "link": "https://pypi.org/project/myelin-pps/",
+          "title": "pbs-mcp added to PyPI",
+          "link": "https://pypi.org/project/pbs-mcp/",
           "date": "17 Jul 2026",
-          "summary": "A comprehensive Python toolkit for interacting with key components of the US healthcare reimbursement system."
+          "summary": "MCP server for Proxmox Backup Server (datastore, snapshot, GC, verify, prune)"
         },
         {
-          "title": "stella-harness added to PyPI",
-          "link": "https://pypi.org/project/stella-harness/",
+          "title": "pve-mcp added to PyPI",
+          "link": "https://pypi.org/project/pve-mcp/",
           "date": "17 Jul 2026",
-          "summary": "Placeholder: stella-harness is under development and not yet usable. See the repository."
+          "summary": "Token-efficient MCP server for Proxmox VE (guests, snapshots, backups, storage, LVM/ZFS, guest/host exec, dry-run + tamper-evident audit)"
         },
         {
-          "title": "band-aider added to PyPI",
-          "link": "https://pypi.org/project/band-aider/",
+          "title": "auditai-cli added to PyPI",
+          "link": "https://pypi.org/project/auditai-cli/",
           "date": "17 Jul 2026",
-          "summary": "Local-first agentic coding harness for small and local models."
+          "summary": "Developer-first LLM/RAG safety audits for CI/CD (AuditAI CLI)"
         },
         {
-          "title": "zall added to PyPI",
-          "link": "https://pypi.org/project/zall/",
+          "title": "ai-tierforge added to PyPI",
+          "link": "https://pypi.org/project/ai-tierforge/",
           "date": "17 Jul 2026",
-          "summary": "zall — a falsifiable, reproducible coding agent CLI. Model-agnostic, chain-hashed, replayable."
+          "summary": "Multi-model LLM tier router with cost-per-completed-task accounting"
         },
         {
-          "title": "ch-diag added to PyPI",
-          "link": "https://pypi.org/project/ch-diag/",
+          "title": "grp-kb added to PyPI",
+          "link": "https://pypi.org/project/grp-kb/",
           "date": "17 Jul 2026",
-          "summary": "Declarative ClickHouse diagnostic report utility"
+          "summary": "Dual-model semantic search MCP server for an Acumatica KB (general English + multilingual GRP-manual domains), no Obsidian/Smart Connections required"
         },
         {
-          "title": "weave-agent-adapter added to PyPI",
-          "link": "https://pypi.org/project/weave-agent-adapter/",
+          "title": "tokentrust-cli added to PyPI",
+          "link": "https://pypi.org/project/tokentrust-cli/",
           "date": "17 Jul 2026",
-          "summary": "Harness-agnostic adapter that traces coding-agent sessions to W&B Weave"
+          "summary": "Vendor-neutral CLI that independently verifies the actual token/cost savings delivered by AI-coding-agent context-reduction proxies (rtk, headroom) against a real, labeled task corpus and a local tokenizer."
         },
         {
-          "title": "hrx-demos added to PyPI",
-          "link": "https://pypi.org/project/hrx-demos/",
+          "title": "travis234 added to PyPI",
+          "link": "https://pypi.org/project/travis234/",
           "date": "17 Jul 2026",
-          "summary": "Inference applications built on the HRX runtime"
+          "summary": "Terminal coding agent with persistent sessions and bounded tool execution."
         },
         {
-          "title": "RidersPyTools added to PyPI",
-          "link": "https://pypi.org/project/riderspytools/",
+          "title": "bltspice-mcp added to PyPI",
+          "link": "https://pypi.org/project/bltspice-mcp/",
           "date": "17 Jul 2026",
-          "summary": "Tools to read/write data and scripts for Sonic Riders (GC) & mods on dolphin"
+          "summary": "Create ltspice circuits with LLMs. Convert netlist to LTSpice .asc."
         },
         {
-          "title": "apiwatch-monitor added to PyPI",
-          "link": "https://pypi.org/project/apiwatch-monitor/",
+          "title": "gadgetbridge-rpi-link added to PyPI",
+          "link": "https://pypi.org/project/gadgetbridge-rpi-link/",
           "date": "17 Jul 2026",
-          "summary": "CLI tool for monitoring API endpoint uptime — pings endpoints concurrently, sends Telegram alerts on down/recovery, and generates SLA reports with trend detection"
+          "summary": "Unofficial Gadgetbridge UART link toolkit for small Linux devices."
         },
         {
-          "title": "boolean-healthcheck-sdk added to PyPI",
-          "link": "https://pypi.org/project/boolean-healthcheck-sdk/",
+          "title": "quipu-voprf added to PyPI",
+          "link": "https://pypi.org/project/quipu-voprf/",
           "date": "17 Jul 2026",
-          "summary": "Framework-agnostic health-check SDK to expose /health (liveness + readiness) from Python apps"
+          "summary": "VOPRF sobre ristretto255 con pruebas DLEQ: cliente del servicio Quipu OPRF"
         },
         {
-          "title": "ifm-ai added to PyPI",
-          "link": "https://pypi.org/project/ifm-ai/",
+          "title": "teamspend added to PyPI",
+          "link": "https://pypi.org/project/teamspend/",
           "date": "17 Jul 2026",
-          "summary": "Placeholder reserving the ifm-ai package name. Full IFM Python SDK coming soon."
+          "summary": "Compare AI coding tool spend before and after a migration -- Cursor vs Claude Code, real numbers pulled from each vendor's own admin API, one command, zero runtime dependencies."
         },
         {
-          "title": "rscc-common added to PyPI",
-          "link": "https://pypi.org/project/rscc-common/",
+          "title": "llm-agents-from-scratch-inspector added to PyPI",
+          "link": "https://pypi.org/project/llm-agents-from-scratch-inspector/",
           "date": "17 Jul 2026",
-          "summary": "RSCC 공통 Python 라이브러리 — 로깅, X-Trace-Id 전파, CommonResponse, ResultCode, 텍스트 유틸"
+          "summary": "A dev tool for manually driving llm-agents-from-scratch's SupervisedTaskHandler one call at a time, over HTTP, via a React frontend."
         },
         {
-          "title": "chirality added to PyPI",
-          "link": "https://pypi.org/project/chirality/",
+          "title": "folio-resolve added to PyPI",
+          "link": "https://pypi.org/project/folio-resolve/",
           "date": "17 Jul 2026",
-          "summary": "Piano fingering from ergonomic rules, statistical models, and reinforcement learning"
+          "summary": "Shared FOLIO source-text-to-concept resolution engine: scorer, span decomposition, gates, alias blocklist, domain-prior judge, and annotate primitives."
         },
         {
-          "title": "dml-spec added to PyPI",
-          "link": "https://pypi.org/project/dml-spec/",
+          "title": "reachssh added to PyPI",
+          "link": "https://pypi.org/project/reachssh/",
           "date": "17 Jul 2026",
-          "summary": "Deception Markup Language (DML) — a versioned, HMAC-signed schema for declaring honeypots, canaries and tripwires as portable documents."
+          "summary": "SSH to network gear you can't reach directly — legacy crypto + jump-host support over Paramiko."
         },
         {
-          "title": "autosci added to PyPI",
-          "link": "https://pypi.org/project/autosci/",
+          "title": "auditreach-cli added to PyPI",
+          "link": "https://pypi.org/project/auditreach-cli/",
           "date": "17 Jul 2026",
-          "summary": "Experimental toolkit for autonomous, self-improving scientific discovery."
+          "summary": "Official-API-only, BYOK CLI for researching Reddit and YouTube with your own API keys and a tamper-evident, hash-chained audit log."
         },
         {
-          "title": "denpex added to PyPI",
-          "link": "https://pypi.org/project/denpex/",
+          "title": "redthread added to PyPI",
+          "link": "https://pypi.org/project/redthread/",
           "date": "17 Jul 2026",
-          "summary": "Denpex - Autonomous ML Incident Intelligence Engine"
+          "summary": "Portable, cross-phase managed memory for agentic workflows"
         },
         {
-          "title": "dataqual added to PyPI",
-          "link": "https://pypi.org/project/dataqual/",
+          "title": "binaryninja-finder added to PyPI",
+          "link": "https://pypi.org/project/binaryninja-finder/",
           "date": "17 Jul 2026",
-          "summary": "CLI tool for auditing CSV, Excel, and PostgreSQL datasets — detects missing values, duplicates, type mismatches, and outliers"
+          "summary": "Find and install Binary Ninja's Python API"
         },
         {
-          "title": "incident-ledger added to PyPI",
-          "link": "https://pypi.org/project/incident-ledger/",
+          "title": "memodeck added to PyPI",
+          "link": "https://pypi.org/project/memodeck/",
           "date": "17 Jul 2026",
-          "summary": "An append-only, hash-chained SQLite evidence log for LLM systems, with deterministic replay."
+          "summary": "A tiny spaced-repetition flashcard library with a command-line app."
         },
         {
-          "title": "reconcile-agent-memory added to PyPI",
-          "link": "https://pypi.org/project/reconcile-agent-memory/",
+          "title": "scanexitron added to PyPI",
+          "link": "https://pypi.org/project/scanexitron/",
           "date": "17 Jul 2026",
-          "summary": "A pluggable memory layer for LLM agents with usage verification, contradiction resolution, and multi-tenant access control"
+          "summary": "A computational workflow for exitron splicing identification from RNA-Seq data"
         },
         {
-          "title": "gafropy added to PyPI",
-          "link": "https://pypi.org/project/gafropy/",
+          "title": "utility-network-schema-qa-toolkit added to PyPI",
+          "link": "https://pypi.org/project/utility-network-schema-qa-toolkit/",
           "date": "17 Jul 2026",
-          "summary": "Python bindings for the GAFRO geometric-algebra robotics library"
+          "summary": "License-free validation for Utility Network schemas, mappings, rules, and migration QA artifacts"
         }
       ]
     }
