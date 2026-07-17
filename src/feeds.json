@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-17T19:59:50Z",
+  "generated": "2026-07-17T20:59:58Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,12 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "US stocks today: US stocks end lower for the day and week as chip selloff broadens",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-lower-for-the-day-and-week-as-chip-selloff-broadens/articleshow/132469580.cms",
+          "date": "18 Jul 2026",
+          "summary": "Wall Street declined as AI-driven chip stocks extended losses, triggering broader risk-off sentiment. Semiconductor shares saw sharp weekly declines, while energy stocks gained on rising oil prices amid Middle East tensions. Despite strong early earnings, incl…"
+        },
         {
           "title": "MakeMyTrip India files confidential IPO DRHP with Sebi. Check details",
           "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/makemytrip-files-ipo-papers-with-sebi-via-confidential-route/articleshow/132461790.cms",
@@ -36,12 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/rs-9000-crore-bet-reliance-industries-promoters-increase-stake-by-0-5-in-june-quarter/articleshow/132458644.cms",
           "date": "17 Jul 2026",
           "summary": "Reliance Industries’ promoters increased their stake to 50.48% in the June quarter through market purchases worth an estimated Rs 8,500–9,000 crore. The move signals confidence despite the stock’s weak performance, earnings misses and challenges across retail…"
-        },
-        {
-          "title": "HDFC Bank, Axis Bank, ICICI, Kotak shares rise up to 3% ahead of Q1 earnings; Nifty Bank gains 500 pts. What to expect?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-axis-bank-icici-kotak-shares-rise-up-to-3-ahead-of-q1-earnings-nifty-bank-gains-500-pts-what-to-expect/articleshow/132455002.cms",
-          "date": "17 Jul 2026",
-          "summary": "Banking stocks rallied on Friday, lifting the Nifty Bank index over 500 points ahead of Q1FY27 earnings from HDFC Bank, ICICI Bank, Axis Bank, Kotak Mahindra Bank and Yes Bank. Brokerages expect steady loan growth and stable asset quality, though margin pressu…"
         },
         {
           "title": "India-UK CETA takes effect: First zero-duty Indian coffee, jewellery consignments reach UK shores",
@@ -196,22 +196,16 @@
       "ok": true,
       "items": [
         {
+          "title": "A draft proposal narrows flexibility in seeking bridge finance for EB-5 projects",
+          "link": "https://timesofindia.indiatimes.com/world/us/a-draft-proposal-narrows-flexibility-in-seeking-bridge-finance-for-eb-5-projects/articleshow/132462278.cms",
+          "date": "17 Jul 2026",
+          "summary": ""
+        },
+        {
           "title": "Delimitation debate: How opposition faultlines may help govt in Monsoon session",
           "link": "https://timesofindia.indiatimes.com/india/delimitation-debate-how-opposition-faultlines-may-help-govt-in-monsoon-session/articleshow/132460634.cms",
           "date": "17 Jul 2026",
           "summary": "There are strong speculations that the government is planning to reintroduce the Delimitation Bill during upcoming Monsoon Session. The Bill could not pass the numbers test during the Budget session. Opposition parties, which were united in their opposition to…"
-        },
-        {
-          "title": "UK court denies bail to Indian captain of sanctioned Russian oil vessel",
-          "link": "https://timesofindia.indiatimes.com/world/uk/uk-court-denies-bail-to-indian-captain-of-sanctioned-russian-oil-vessel/articleshow/132468884.cms",
-          "date": "18 Jul 2026",
-          "summary": "An Indian captain faces sanctions violation charges after his oil tanker was seized. He was denied bail by a London court due to flight risk concerns. A four-week trial is scheduled to begin in mid-December. The captain is accused of transporting sanctioned Ru…"
-        },
-        {
-          "title": "Bridges, airport, railway station: US attacks civilian infrastructure in Iran",
-          "link": "https://timesofindia.indiatimes.com/world/middle-east/bridges-airport-railway-station-us-attacks-civilian-infrastructure-in-iran/articleshow/132462406.cms",
-          "date": "17 Jul 2026",
-          "summary": ""
         },
         {
           "title": "'Rohit Sharma will continue to represent India; Lord's ODI won't be his last': BCCI",
@@ -220,16 +214,70 @@
           "summary": "BCCI secretary Devajit Saikia has dismissed speculation about Rohit Sharma's ODI retirement. He confirmed that Rohit remains a regular member of India's ODI team. Rohit will continue to represent the country as long as he is in the scheme of things. The select…"
         },
         {
-          "title": "Dept of Space vacancy rate at 25-year high; nearly 3 in 10 posts lie vacant",
-          "link": "https://timesofindia.indiatimes.com/india/department-of-space-vacancy-rate-at-25-yr-high-nearly-3-in-10-posts-lie-vacant/articleshow/132469400.cms",
+          "title": "UK court denies bail to Indian captain of sanctioned Russian oil vessel",
+          "link": "https://timesofindia.indiatimes.com/world/uk/uk-court-denies-bail-to-indian-captain-of-sanctioned-russian-oil-vessel/articleshow/132468884.cms",
           "date": "18 Jul 2026",
-          "summary": "India's space department faces a growing manpower crunch, with over twenty-five percent of sanctioned posts vacant. This staffing gap has widened significantly since 2019, impacting critical mission development. Recruitment processes were delayed due to Covid-…"
+          "summary": "An Indian captain faces sanctions violation charges after his oil tanker was seized. He was denied bail by a London court due to flight risk concerns. A four-week trial is scheduled to begin in mid-December. The captain is accused of transporting sanctioned Ru…"
         },
         {
           "title": "Scientists fit 75 pronghorns, fastest land animal in Americas, with GPS collars: What they found",
           "link": "https://timesofindia.indiatimes.com/technology/tech-news/scientists-fitted-75-pronghorns-the-fastest-land-animal-in-the-americas-with-gps-collars-in-2024-and-the-animals-have-been-sending-back-data-ever-since-telling-a-story-that-is-/articleshow/132468292.cms",
           "date": "18 Jul 2026",
           "summary": "GPS collars track pronghorn movement near a New Mexico solar project. Fences around the solar farm present a significant barrier to these animals. Pronghorn typically crawl under fences rather than jumping over them. Researchers suggest simple fence modificati…"
+        },
+        {
+          "title": "Has Trump's Pakistan reset failed? Why Islamabad still leans towards China",
+          "link": "https://timesofindia.indiatimes.com/world/us/has-trumps-pakistan-reset-failed-why-islamabad-still-leans-towards-china/articleshow/132455857.cms",
+          "date": "17 Jul 2026",
+          "summary": ""
+        },
+        {
+          "title": "Bridges, airport, railway station: US attacks civilian infrastructure in Iran",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/bridges-airport-railway-station-us-attacks-civilian-infrastructure-in-iran/articleshow/132462406.cms",
+          "date": "17 Jul 2026",
+          "summary": ""
+        },
+        {
+          "title": "Unlike last time, DMK is clear it won’t follow Congress",
+          "link": "https://timesofindia.indiatimes.com/india/unlike-last-time-dmk-is-clear-it-wont-follow-congress/articleshow/132469668.cms",
+          "date": "18 Jul 2026",
+          "summary": "Political momentum builds for the government's Constitution amendment bill. DMK and NCP (SP) signals suggest support for the upcoming legislation. This comes after recent political realignments and party splits. The government plans to incorporate changes to a…"
+        },
+        {
+          "title": "Winners will make the hard choices: Microsoft's security chief to employees after layoffs",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/after-hundreds-of-layoffs-and-restructuring-of-engineering-teams-microsofts-new-security-chief-to-employees-in-internal-memo-companies-will-be-rewarded-that-/articleshow/132451863.cms",
+          "date": "17 Jul 2026",
+          "summary": "Microsoft's new security chief Hayete Gallot has replaced senior executives, merged engineering teams, and cut hundreds of jobs to push the company toward AI-powered cybersecurity, The Information reports. In an internal memo, Gallot told staff the industry is…"
+        },
+        {
+          "title": "KBC 18 format tweaks: Promos pitch thinking over rote answers; AI era sets the tone",
+          "link": "https://timesofindia.indiatimes.com/tv/news/hindi/amitabh-bachchan-gives-a-glimpse-of-kaun-banega-crorepati-18s-new-format-knowing-the-answers-wont-be-enough/articleshow/132467717.cms",
+          "date": "17 Jul 2026",
+          "summary": "Amitabh Bachchan will host the eighteenth season of Kaun Banega Crorepati starting August 10. New promos highlight the show's updated focus on critical thinking and decision-making skills. Memorizing answers will no longer suffice for contestants aiming for th…"
+        },
+        {
+          "title": "Microplastics reach remote ecosystem as Indian Ocean animals show high levels",
+          "link": "https://timesofindia.indiatimes.com/science/microplastics-have-reached-one-of-earths-most-isolated-ecosystems-indian-ocean-animals-carried-up-to-14-7-times-more-than-pacific-specimens/articleshow/132455387.cms",
+          "date": "17 Jul 2026",
+          "summary": "Microplastics have infiltrated remote deep-sea hydrothermal vent ecosystems globally. A recent study found microplastics in ninety-two percent of examined deep-sea animals. Polystyrene was the most frequently detected polymer among the plastic particles found.…"
+        },
+        {
+          "title": "Human voices near salmon streams made bears and eagles flee, study finds",
+          "link": "https://timesofindia.indiatimes.com/science/scientists-played-human-voices-near-alaska-salmon-streams-and-found-that-bears-and-eagles-fled-disrupting-how-salmon-nutrients-move-into-forests/articleshow/132463469.cms",
+          "date": "17 Jul 2026",
+          "summary": "New findings from Canadian researchers reveal that human sounds near Alaska's salmon streams significantly disturb wildlife, leading to grizzly bears avoiding feeding areas. This interference disrupts the natural nutrient transfer to surrounding forests, empha…"
+        },
+        {
+          "title": "US may add $100,000 bond to Green Card applicants seeking permanent residence",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/us-government-to-consider-adding-100000-bond-to-green-card-applications-for-those-seeking-/articleshow/132461828.cms",
+          "date": "17 Jul 2026",
+          "summary": "The US government is considering a $100,000 bond for Green Card applicants. This measure aims to ensure immigrants are financially self-sufficient and do not burden public programs. The Trump administration is exploring this long-standing legal authority under…"
+        },
+        {
+          "title": "Dept of Space vacancy rate at 25-year high; nearly 3 in 10 posts lie vacant",
+          "link": "https://timesofindia.indiatimes.com/india/department-of-space-vacancy-rate-at-25-yr-high-nearly-3-in-10-posts-lie-vacant/articleshow/132469400.cms",
+          "date": "18 Jul 2026",
+          "summary": "India's space department faces a growing manpower crunch, with over twenty-five percent of sanctioned posts vacant. This staffing gap has widened significantly since 2019, impacting critical mission development. Recruitment processes were delayed due to Covid-…"
         },
         {
           "title": "Baptism of Yamal by 'Saint' Messi: The photo that became WC final's origin story",
@@ -240,60 +288,6 @@
         {
           "title": "'7.5 crore students affected in 10 years': Rahul Gandhi calls paper leaks the 'norm'",
           "link": "https://timesofindia.indiatimes.com/india/7-5-crore-students-affected-in-10-years-rahul-gandhi-calls-paper-leaks-the-norm-at-chhatron-ki-goonj-programme-in-dehradun/articleshow/132465654.cms",
-          "date": "17 Jul 2026",
-          "summary": ""
-        },
-        {
-          "title": "'A true icon of the game': BCCI pays tribute to Garry Sobers with throwback video",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/a-true-icon-of-the-game-bcci-pays-tribute-to-sir-garfield-sobers-with-throwback-video/articleshow/132464957.cms",
-          "date": "17 Jul 2026",
-          "summary": "The BCCI honoured Sir Garfield Sobers, a true cricket icon, after his passing. He was remembered as one of the game's greatest all-rounders ever. Sobers left an enduring legacy which will continue to inspire many. Cricket West Indies also posted a heartfelt fa…"
-        },
-        {
-          "title": "Winners will make the hard choices: Microsoft's security chief to employees after layoffs",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/after-hundreds-of-layoffs-and-restructuring-of-engineering-teams-microsofts-new-security-chief-to-employees-in-internal-memo-companies-will-be-rewarded-that-/articleshow/132451863.cms",
-          "date": "17 Jul 2026",
-          "summary": "Microsoft's new security chief Hayete Gallot has replaced senior executives, merged engineering teams, and cut hundreds of jobs to push the company toward AI-powered cybersecurity, The Information reports. In an internal memo, Gallot told staff the industry is…"
-        },
-        {
-          "title": "Net shut, Doda on edge after man shot dead by cops in cattle smuggling stakeout",
-          "link": "https://timesofindia.indiatimes.com/india/net-shut-doda-on-edge-after-man-shot-dead-by-cops-in-cattle-smuggling-stakeout/articleshow/132469031.cms",
-          "date": "18 Jul 2026",
-          "summary": "A man was shot dead in Doda district following an encounter with police personnel. Mobile internet services were suspended across the district as tensions escalated rapidly. Three police officers sustained injuries during the confrontation on Jai valley road.…"
-        },
-        {
-          "title": "Japan turns abandoned rice fields into wetlands to bring wildlife back",
-          "link": "https://timesofindia.indiatimes.com/science/japans-abandoned-rice-fields-are-being-restored-into-year-round-wetlands-to-replenish-groundwater-and-bring-back-frogs-dragonflies-and-endangered-aquatic-wildlife/articleshow/132457542.cms",
-          "date": "17 Jul 2026",
-          "summary": "Abandoned rice fields in Japan's Aso region are being restored into permanent wetlands to help refill groundwater and provide a safe habitat for frogs, dragonflies and other freshwater wildlife. The community-led project brings together local residents and res…"
-        },
-        {
-          "title": "60 artisans, 20 years and counting: The castle being built like it’s 1230",
-          "link": "https://timesofindia.indiatimes.com/world/europe/more-than-60-artisans-have-spent-over-two-decades-building-a-castle-like-its-1230-its-still-not-finished/articleshow/132435677.cms",
-          "date": "16 Jul 2026",
-          "summary": "A French historical experiment began building a medieval castle in 1997. Skilled craftspeople use only hand tools and traditional methods for construction. This remarkable project has become a major tourist attraction and research center. Workers learn by stud…"
-        },
-        {
-          "title": "US may add $100,000 bond to Green Card applicants seeking permanent residence",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/us-government-to-consider-adding-100000-bond-to-green-card-applications-for-those-seeking-/articleshow/132461828.cms",
-          "date": "17 Jul 2026",
-          "summary": "The US government is considering a $100,000 bond for Green Card applicants. This measure aims to ensure immigrants are financially self-sufficient and do not burden public programs. The Trump administration is exploring this long-standing legal authority under…"
-        },
-        {
-          "title": "India’s first, 2 geothermal wells commissioned in Ladakh",
-          "link": "https://timesofindia.indiatimes.com/india/indias-first-2-geothermal-wells-commissioned-in-ladakh/articleshow/132468253.cms",
-          "date": "18 Jul 2026",
-          "summary": ""
-        },
-        {
-          "title": "Tommy Paul marries longtime girlfriend Paige Lorenze in stunning Long Island wedding",
-          "link": "https://timesofindia.indiatimes.com/sports/international-sports/tommy-paul-marries-longtime-girlfriend-paige-lorenze-in-beautiful-long-island-wedding/articleshow/132468942.cms",
-          "date": "18 Jul 2026",
-          "summary": "Paige Lorenze and Tommy Paul married on July 14 at Old Westbury Gardens in New York after getting engaged in July 2025. Paige revealed the news by changing her Instagram name before sharing wedding photos with Vogue. The couple celebrated with family and frien…"
-        },
-        {
-          "title": "'Losing consciousness': AISA activists' health worsens on Day 20 of hunger strike at Jantar Mantar",
-          "link": "https://timesofindia.indiatimes.com/india/losing-consciousness-aisa-activists-health-worsens-on-day-20-of-hunger-strike-at-jantar-mantar/articleshow/132466579.cms",
           "date": "17 Jul 2026",
           "summary": ""
         },
@@ -314,6 +308,42 @@
           "link": "https://timesofindia.indiatimes.com/sports/nfl/news/it-broke-her-gigi-hadid-reportedly-made-things-worse-for-blake-lively-as-taylor-swift-and-travis-kelce-remain-distant/articleshow/132448009.cms",
           "date": "17 Jul 2026",
           "summary": "Taylor Swift and Travis Kelce kept the drama away from their New York City wedding as they invited pretty much everyone from Hollywood and the NFL but Blake Lively and Ryan Reynolds, sparking chaos among many. While this has sparked a mixed reaction among fans…"
+        },
+        {
+          "title": "Congress to join NC’s Jantar Mantar protest on Monday, BJP plans secretariat gherao",
+          "link": "https://timesofindia.indiatimes.com/india/congress-to-join-ncs-jantar-mantar-protest-on-monday-bjp-plans-secretariat-gherao/articleshow/132469303.cms",
+          "date": "18 Jul 2026",
+          "summary": "Jammu and Kashmir politics intensifies as the National Conference plans a protest in New Delhi. The Congress party announced its participation in the proposed sit-in demonstration. Meanwhile, the BJP has scheduled a protest against the current government's all…"
+        },
+        {
+          "title": "'A true icon of the game': BCCI pays tribute to Garry Sobers with throwback video",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/a-true-icon-of-the-game-bcci-pays-tribute-to-sir-garfield-sobers-with-throwback-video/articleshow/132464957.cms",
+          "date": "17 Jul 2026",
+          "summary": "The BCCI honoured Sir Garfield Sobers, a true cricket icon, after his passing. He was remembered as one of the game's greatest all-rounders ever. Sobers left an enduring legacy which will continue to inspire many. Cricket West Indies also posted a heartfelt fa…"
+        },
+        {
+          "title": "Net shut, Doda on edge after man shot dead by cops in cattle smuggling stakeout",
+          "link": "https://timesofindia.indiatimes.com/india/net-shut-doda-on-edge-after-man-shot-dead-by-cops-in-cattle-smuggling-stakeout/articleshow/132469031.cms",
+          "date": "18 Jul 2026",
+          "summary": "A man was shot dead in Doda district following an encounter with police personnel. Mobile internet services were suspended across the district as tensions escalated rapidly. Three police officers sustained injuries during the confrontation on Jai valley road.…"
+        },
+        {
+          "title": "India’s first, 2 geothermal wells commissioned in Ladakh",
+          "link": "https://timesofindia.indiatimes.com/india/indias-first-2-geothermal-wells-commissioned-in-ladakh/articleshow/132468253.cms",
+          "date": "18 Jul 2026",
+          "summary": ""
+        },
+        {
+          "title": "Tommy Paul marries longtime girlfriend Paige Lorenze in stunning Long Island wedding",
+          "link": "https://timesofindia.indiatimes.com/sports/international-sports/tommy-paul-marries-longtime-girlfriend-paige-lorenze-in-beautiful-long-island-wedding/articleshow/132468942.cms",
+          "date": "18 Jul 2026",
+          "summary": "Paige Lorenze and Tommy Paul married on July 14 at Old Westbury Gardens in New York after getting engaged in July 2025. Paige revealed the news by changing her Instagram name before sharing wedding photos with Vogue. The couple celebrated with family and frien…"
+        },
+        {
+          "title": "'Losing consciousness': AISA activists' health worsens on Day 20 of hunger strike at Jantar Mantar",
+          "link": "https://timesofindia.indiatimes.com/india/losing-consciousness-aisa-activists-health-worsens-on-day-20-of-hunger-strike-at-jantar-mantar/articleshow/132466579.cms",
+          "date": "17 Jul 2026",
+          "summary": ""
         },
         {
           "title": "Horoscope Today: Daily astrological predictions for July 18, 2026",
@@ -344,36 +374,6 @@
           "link": "https://timesofindia.indiatimes.com/india/just-like-gandhi-film-not-based-on-mahatma-aamir-khan-faces-political-backlash-for-remarks-on-sonam-wangchuk/articleshow/132464191.cms",
           "date": "17 Jul 2026",
           "summary": ""
-        },
-        {
-          "title": "Watch: Deadly landslide strikes China, dozens remain missing",
-          "link": "https://timesofindia.indiatimes.com/world/china/watch-deadly-landslide-strikes-china-dozens-remain-missing/articleshow/132465086.cms",
-          "date": "17 Jul 2026",
-          "summary": ""
-        },
-        {
-          "title": "Delhi cab driver dies after iron rod from overloaded e-rickshaw tears through windshield",
-          "link": "https://timesofindia.indiatimes.com/city/gurgaon/iron-rod-pierces-cab-drivers-chest-after-collision-with-e-rickshaw-on-dwarka-expressway/articleshow/132462457.cms",
-          "date": "17 Jul 2026",
-          "summary": "A cab driver was killed and a woman passenger seriously injured after an iron rod protruding from an e-rickshaw pierced the cab’s windshield and struck the driver during a collision on the Dwarka Expressway in Gurugram on Friday. Police suspect overspeeding an…"
-        },
-        {
-          "title": "SLC breaks silence after Manjot Kalra's arrest, vows zero tolerance for corruption",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/sri-lanka-cricket-breaks-silence-after-manjot-kalras-arrest-vows-zero-tolerance-for-corruption/articleshow/132465274.cms",
-          "date": "17 Jul 2026",
-          "summary": "Sri Lanka Cricket reaffirmed its zero-tolerance policy on corruption following an arrest. Former India U-19 star Manjot Kalra faces allegations of corrupt practice during the LPL. The ongoing investigation will not impact the tournament's scheduled continuatio…"
-        },
-        {
-          "title": "US-based Hindu rights group backs Sonam's hunger strike, plans Washington rally",
-          "link": "https://timesofindia.indiatimes.com/city/delhi/us-based-hindu-rights-group-backs-sonam-wangchuks-hunger-strike-plans-washington-rally/articleshow/132462851.cms",
-          "date": "17 Jul 2026",
-          "summary": "Hindus for Human Rights will gather in Washington supporting Sonam Wangchuk's hunger strike. Wangchuk has been fasting for twenty days demanding the education minister's resignation. The advocacy group expressed concern over Wangchuk's deteriorating health and…"
-        },
-        {
-          "title": "West Indies cricket legend Garry Sobers dies at 89",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/west-indies-legend-garry-sobers-dies-at-89/articleshow/132464604.cms",
-          "date": "17 Jul 2026",
-          "summary": "Cricket icon Garfield Sobers has passed away at the age of 89. He represented the West Indies in 93 Test matches during his career. Sobers scored 8,032 runs and took 235 wickets in Tests. He famously scored 365 runs in a single Test innings. Sobers also achiev…"
         }
       ]
     },
@@ -898,7 +898,7 @@
         {
           "title": "Q&A: How Capcom Brought Path Tracing to RE ENGINE Across PRAGMATA and Resident Evil Requiem",
           "link": "https://developer.nvidia.com/blog/qa-how-capcom-brought-path-tracing-to-re-engine-across-pragmata-and-resident-evil-requiem/",
-          "date": "16 Jul 2026",
+          "date": "17 Jul 2026",
           "summary": "Capcom's RE ENGINE team set out to bring path tracing into two shipping titles at once, Resident Evil Requiem and PRAGMATA, each with a different visual..."
         },
         {
@@ -1152,6 +1152,12 @@
       "ok": true,
       "items": [
         {
+          "title": "Linus Torvalds To Critics of AI Coding On Linux: 'Fork It. Or Just Walk Away.'",
+          "link": "https://linux.slashdot.org/story/26/07/17/1830258/linus-torvalds-to-critics-of-ai-coding-on-linux-fork-it-or-just-walk-away?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "17 Jul 2026",
+          "summary": "Linus Torvalds says the Linux kernel will not ban AI-assisted coding tools, and if anti-AI absolutists have a problem with that, they can \"fork it\" or \"walk away.\" An anonymous reader quotes a report from Ars Technica: Writing in a lengthy post on the Linux ke…"
+        },
+        {
           "title": "China Just Erased America's AI Lead",
           "link": "https://slashdot.org/story/26/07/17/1820200/china-just-erased-americas-ai-lead?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "17 Jul 2026",
@@ -1234,12 +1240,6 @@
           "link": "https://tech.slashdot.org/story/26/07/16/1812259/google-renames-notebooklm-to-gemini-notebook?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "16 Jul 2026",
           "summary": "Google is renaming NotebookLM to Gemini Notebook, but will keep it a standalone app even as it ties more closely into Gemini and Google Search. \"Google says it plans to bring notebooks to AI Mode, its chatbot-like experience in Search, too,\" reports The Verge.…"
-        },
-        {
-          "title": "OnePlus Will Continue Software Updates After US and Europe Exit",
-          "link": "https://mobile.slashdot.org/story/26/07/16/1632212/oneplus-will-continue-software-updates-after-us-and-europe-exit?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "16 Jul 2026",
-          "summary": "OnePlus has confirmed that it will exit the North American and European markets, consolidating its operations under parent company Oppo. Existing customers will continue to receive \"software updates, security patches, and applicable support,\" but OxygenOS will…"
         }
       ]
     },
@@ -1630,6 +1630,138 @@
       "ok": true,
       "items": [
         {
+          "title": "phaseops added to PyPI",
+          "link": "https://pypi.org/project/phaseops/",
+          "date": "17 Jul 2026",
+          "summary": "Modular, ecosystem-agnostic agentic SDLC framework."
+        },
+        {
+          "title": "polyalpha added to PyPI",
+          "link": "https://pypi.org/project/polyalpha/",
+          "date": "17 Jul 2026",
+          "summary": "Python SDK for Polymarket — market discovery, real-time price streaming, and paper trading"
+        },
+        {
+          "title": "mlflow-skinet added to PyPI",
+          "link": "https://pypi.org/project/mlflow-skinet/",
+          "date": "17 Jul 2026",
+          "summary": "Placeholder package published for security-research purposes. Not affiliated with any other project and performs no action. Contact: bar@capsule.security."
+        },
+        {
+          "title": "engrammatic added to PyPI",
+          "link": "https://pypi.org/project/engrammatic/",
+          "date": "17 Jul 2026",
+          "summary": "Python client for Engrammatic — ingest-time anomaly, novelty and fraud detection with binary hyperdimensional computing."
+        },
+        {
+          "title": "llm-inspector added to PyPI",
+          "link": "https://pypi.org/project/llm-inspector/",
+          "date": "17 Jul 2026",
+          "summary": "The htop for LLM inference. Measured. Not guessed."
+        },
+        {
+          "title": "statstrip added to PyPI",
+          "link": "https://pypi.org/project/statstrip/",
+          "date": "17 Jul 2026",
+          "summary": "Live CPU, RAM, disk, GPU and Claude Code / OpenAI Codex usage limits inside the Windows taskbar."
+        },
+        {
+          "title": "open-mlpipe added to PyPI",
+          "link": "https://pypi.org/project/open-mlpipe/",
+          "date": "17 Jul 2026",
+          "summary": "Production-level automated ML pipeline — from raw data to deployed model in one line"
+        },
+        {
+          "title": "fpm-rs added to PyPI",
+          "link": "https://pypi.org/project/fpm-rs/",
+          "date": "17 Jul 2026",
+          "summary": "High-performance Fourier ptychography reconstruction, simulation, and diagnostics for Python, powered by Rust."
+        },
+        {
+          "title": "luganda-text-normalizer added to PyPI",
+          "link": "https://pypi.org/project/luganda-text-normalizer/",
+          "date": "17 Jul 2026",
+          "summary": "Preprocessing utilities (cleaning, elision expansion, abbreviation/acronym expansion, currency and date/time expansion, number-to-words expansion, tokenization, spelling standardization, noun/verb morphology stripping, code-switching detection) for Luganda NLP…"
+        },
+        {
+          "title": "metabrowser added to PyPI",
+          "link": "https://pypi.org/project/metabrowser/",
+          "date": "17 Jul 2026",
+          "summary": "Browse local files from your web browser, with extensible plugin-based rendering of Markdown, code, JSON, YAML, logs, and other files."
+        },
+        {
+          "title": "pushary-openai-agents added to PyPI",
+          "link": "https://pypi.org/project/pushary-openai-agents/",
+          "date": "17 Jul 2026",
+          "summary": "Human-in-the-loop for the OpenAI Agents SDK: a function tool that asks a real human on their phone and blocks on a fail-closed answer."
+        },
+        {
+          "title": "pushary-crewai added to PyPI",
+          "link": "https://pypi.org/project/pushary-crewai/",
+          "date": "17 Jul 2026",
+          "summary": "Human-in-the-loop for CrewAI: a BaseTool that asks a real human on their phone and blocks on a fail-closed answer, instead of the console human_input prompt."
+        },
+        {
+          "title": "pushary-langgraph added to PyPI",
+          "link": "https://pypi.org/project/pushary-langgraph/",
+          "date": "17 Jul 2026",
+          "summary": "Human-in-the-loop for LangGraph and LangChain: a blocking ask_human, plus a durable interrupt()/Command resume that reaches your user on their phone."
+        },
+        {
+          "title": "hig-mcp added to PyPI",
+          "link": "https://pypi.org/project/hig-mcp/",
+          "date": "17 Jul 2026",
+          "summary": "Structured Apple HIG design-system MCP: tokens, Liquid Glass constraints, SwiftUI mapping. Prose via sosumi.ai."
+        },
+        {
+          "title": "toolpact added to PyPI",
+          "link": "https://pypi.org/project/toolpact/",
+          "date": "17 Jul 2026",
+          "summary": "Schema lockfile for LLM tool contracts"
+        },
+        {
+          "title": "ezhikstract added to PyPI",
+          "link": "https://pypi.org/project/ezhikstract/",
+          "date": "17 Jul 2026",
+          "summary": "CLI to extract playable video from EZVIZ/Hikvision SD cards' proprietary round-robin storage format. Works specifically for devices that use hiv .mp4 and index00.bin files."
+        },
+        {
+          "title": "strideweave added to PyPI",
+          "link": "https://pypi.org/project/strideweave/",
+          "date": "17 Jul 2026",
+          "summary": "A deep learning framework built on hierarchical layout algebra. Under active development; this release reserves the name."
+        },
+        {
+          "title": "aws-durable-execution-conformance-tests added to PyPI",
+          "link": "https://pypi.org/project/aws-durable-execution-conformance-tests/",
+          "date": "17 Jul 2026",
+          "summary": "AWS Durable Execution Conformance Tests"
+        },
+        {
+          "title": "polars-pdb added to PyPI",
+          "link": "https://pypi.org/project/polars-pdb/",
+          "date": "17 Jul 2026",
+          "summary": "A locally-mirrored, SQL-queryable catalogue of the PDB, sourced from PDBe, that advances one wwPDB release per week"
+        },
+        {
+          "title": "django-vpg added to PyPI",
+          "link": "https://pypi.org/project/django-vpg/",
+          "date": "17 Jul 2026",
+          "summary": "Rust-powered PostgreSQL driver and Django database backend."
+        },
+        {
+          "title": "h2m-sdk added to PyPI",
+          "link": "https://pypi.org/project/h2m-sdk/",
+          "date": "17 Jul 2026",
+          "summary": "None"
+        },
+        {
+          "title": "polysearch-ai added to PyPI",
+          "link": "https://pypi.org/project/polysearch-ai/",
+          "date": "17 Jul 2026",
+          "summary": "Modular, multi-source research pipeline with citation tier classification. Plug-and-play Python package + Claude Code skill."
+        },
+        {
           "title": "cbi-plus added to PyPI",
           "link": "https://pypi.org/project/cbi-plus/",
           "date": "17 Jul 2026",
@@ -1676,138 +1808,6 @@
           "link": "https://pypi.org/project/vulners-py/",
           "date": "17 Jul 2026",
           "summary": "A modern, strictly typed Python SDK for the Vulners API."
-        },
-        {
-          "title": "tracewall added to PyPI",
-          "link": "https://pypi.org/project/tracewall/",
-          "date": "17 Jul 2026",
-          "summary": "Flight recorder and firewall for AI agents — record every tool call, track lethal-trifecta taint, block prompt-injection exfiltration."
-        },
-        {
-          "title": "ovos-audio-transformer-plugin-bandpass added to PyPI",
-          "link": "https://pypi.org/project/ovos-audio-transformer-plugin-bandpass/",
-          "date": "17 Jul 2026",
-          "summary": "Band-pass filter audio transformer for OpenVoiceOS"
-        },
-        {
-          "title": "gcp-abuse-scanner added to PyPI",
-          "link": "https://pypi.org/project/gcp-abuse-scanner/",
-          "date": "17 Jul 2026",
-          "summary": "Preventive GCP security scanner for crypto mining and Gemini API abuse vectors"
-        },
-        {
-          "title": "cofferdam added to PyPI",
-          "link": "https://pypi.org/project/cofferdam/",
-          "date": "17 Jul 2026",
-          "summary": "Hold back Production outbound side effects from flooding non-Production Frappe/ERPNext environments after a database restore."
-        },
-        {
-          "title": "ovos-media-classifier added to PyPI",
-          "link": "https://pypi.org/project/ovos-media-classifier/",
-          "date": "17 Jul 2026",
-          "summary": "Pluggable media-type classification for OCP (Open Conversation Platform)."
-        },
-        {
-          "title": "lazycode-agent added to PyPI",
-          "link": "https://pypi.org/project/lazycode-agent/",
-          "date": "17 Jul 2026",
-          "summary": "Batch-API-native coding agent: plan realtime, execute on 24h-SLA batch APIs, optimize like a query engine."
-        },
-        {
-          "title": "phrony added to PyPI",
-          "link": "https://pypi.org/project/phrony/",
-          "date": "17 Jul 2026",
-          "summary": "Python SDK for the Phrony runtime (gRPC)."
-        },
-        {
-          "title": "stl-treemap added to PyPI",
-          "link": "https://pypi.org/project/stl-treemap/",
-          "date": "17 Jul 2026",
-          "summary": "Add your description here"
-        },
-        {
-          "title": "pychlv added to PyPI",
-          "link": "https://pypi.org/project/pychlv/",
-          "date": "17 Jul 2026",
-          "summary": "Pure Python ChLV (SwissTopo) conversions"
-        },
-        {
-          "title": "nota2md added to PyPI",
-          "link": "https://pypi.org/project/nota2md/",
-          "date": "17 Jul 2026",
-          "summary": "Build the Markdown of a single DOF note (by codNota), from its HTML content or by OCR'ing its scanned page images."
-        },
-        {
-          "title": "tokscope added to PyPI",
-          "link": "https://pypi.org/project/tokscope/",
-          "date": "17 Jul 2026",
-          "summary": "Measure how efficiently LLM tokenizers handle your language: fertility, UNK rate, and token premium across HuggingFace, tiktoken, and SentencePiece tokenizers"
-        },
-        {
-          "title": "garuff added to PyPI",
-          "link": "https://pypi.org/project/garuff/",
-          "date": "17 Jul 2026",
-          "summary": "Personal and opinionated Python linter rules aimed at coding agents."
-        },
-        {
-          "title": "syntarus added to PyPI",
-          "link": "https://pypi.org/project/syntarus/",
-          "date": "17 Jul 2026",
-          "summary": "Project-scoped memory client for Syntarus"
-        },
-        {
-          "title": "digital-world-sdk added to PyPI",
-          "link": "https://pypi.org/project/digital-world-sdk/",
-          "date": "17 Jul 2026",
-          "summary": "The Python Digital World SDK library provides APIs to build transactions and connect to the Gateway and DWSA-RPC server."
-        },
-        {
-          "title": "newsbot added to PyPI",
-          "link": "https://pypi.org/project/newsbot/",
-          "date": "17 Jul 2026",
-          "summary": "Auto-posting news on X"
-        },
-        {
-          "title": "duckhaven-sql-connector added to PyPI",
-          "link": "https://pypi.org/project/duckhaven-sql-connector/",
-          "date": "17 Jul 2026",
-          "summary": "DB-API 2.0 client for DuckHaven's SQL session/statement API"
-        },
-        {
-          "title": "groundhog-sdk added to PyPI",
-          "link": "https://pypi.org/project/groundhog-sdk/",
-          "date": "17 Jul 2026",
-          "summary": "Thin Python client for the Groundhog v1 Unix-socket API"
-        },
-        {
-          "title": "dofjson added to PyPI",
-          "link": "https://pypi.org/project/dofjson/",
-          "date": "17 Jul 2026",
-          "summary": "Prototype client for SIDOF's undocumented JSON open data service for Mexico's official gazette (DOF)."
-        },
-        {
-          "title": "mps-xtrap added to PyPI",
-          "link": "https://pypi.org/project/mps-xtrap/",
-          "date": "17 Jul 2026",
-          "summary": "MPS-based quantum circuit simulator with multilevel Richardson extrapolation, gate fusion, and qubit measurement"
-        },
-        {
-          "title": "n-ashare-market added to PyPI",
-          "link": "https://pypi.org/project/n-ashare-market/",
-          "date": "17 Jul 2026",
-          "summary": "Agent-ready A-share market and research data SDK with Tushare, iFinD, MinIO, REST and MCP."
-        },
-        {
-          "title": "ctechpay added to PyPI",
-          "link": "https://pypi.org/project/ctechpay/",
-          "date": "17 Jul 2026",
-          "summary": "Official Python SDK for CtechPay hosted payments, Airtel Money, and card status checks."
-        },
-        {
-          "title": "aeacus added to PyPI",
-          "link": "https://pypi.org/project/aeacus/",
-          "date": "17 Jul 2026",
-          "summary": "mixture of experts single cell malignancy classifier"
         }
       ]
     }
