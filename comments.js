@@ -9,7 +9,7 @@
    New comments are held for your approval in the Cusdis dashboard.
    ────────────────────────────────────────────────────────────── */
 (function () {
-  var APP_ID = 'PASTE_YOUR_CUSDIS_APP_ID_HERE';
+  var APP_ID = 'b0c98301-9488-431e-a147-3dbee4bf2ab3';
   var HOST = 'https://cusdis.com';
 
   // ── Build the section ───────────────────────────────────────
