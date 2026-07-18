@@ -39,7 +39,22 @@
     '<strong id="visit-count" style="color:#f8f5ef;font-weight:600;">&hellip;</strong>' +
     (isOwner ? '&nbsp;<span style="opacity:0.5;">(owner &mdash; not counted)</span>' : '');
 
-  function mount() { (document.body || document.documentElement).appendChild(el); }
+  function mount() {
+    var parent = document.body || document.documentElement;
+    parent.appendChild(el);
+    // Some pages center their body with flexbox (align/justify center),
+    // which would float the counter into the middle. Force it full-width
+    // on its own row at the bottom in that case.
+    try {
+      var disp = getComputedStyle(parent).display;
+      if (disp === 'flex' || disp === 'inline-flex') {
+        if (getComputedStyle(parent).flexWrap === 'nowrap') parent.style.flexWrap = 'wrap';
+        el.style.flex = '0 0 100%';
+        el.style.width = '100%';
+        el.style.marginTop = 'auto';
+      }
+    } catch (e) {}
+  }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', mount);
   else mount();
 
