@@ -12,6 +12,17 @@
   var APP_ID = 'b0c98301-9488-431e-a147-3dbee4bf2ab3';
   var HOST = 'https://cusdis.com';
 
+  // ── Per-page theming (via data-* on this script tag) ────────
+  // Defaults match the amber / Libre Baskerville site theme; pages
+  // with their own look override accent/color/font, e.g.:
+  //   <script src="../comments.js"
+  //           data-accent="#2563eb" data-heading-color="#0f1117"
+  //           data-heading-font="'Inter',sans-serif"></script>
+  var cfg = (document.currentScript && document.currentScript.dataset) || {};
+  var ACCENT = cfg.accent || '#c47a0f';
+  var HEAD_COLOR = cfg.headingColor || '#0f0d09';
+  var HEAD_FONT = cfg.headingFont || "'Libre Baskerville',Georgia,serif";
+
   // ── Build the section ───────────────────────────────────────
   var section = document.createElement('section');
   section.id = 'comments-section';
@@ -20,8 +31,8 @@
   var heading = document.createElement('div');
   heading.style.cssText = 'display:flex;align-items:center;gap:0.75rem;margin-bottom:1.5rem;';
   heading.innerHTML =
-    '<span style="width:24px;height:2px;background:#c47a0f;flex-shrink:0;display:inline-block;"></span>' +
-    '<h2 style="font-family:\'Libre Baskerville\',Georgia,serif;font-size:1.4rem;color:#0f0d09;' +
+    '<span style="width:24px;height:2px;background:' + ACCENT + ';flex-shrink:0;display:inline-block;"></span>' +
+    '<h2 style="font-family:' + HEAD_FONT + ';font-size:1.4rem;color:' + HEAD_COLOR + ';' +
     'letter-spacing:-0.01em;margin:0;font-weight:700;">Comments</h2>';
   section.appendChild(heading);
 
