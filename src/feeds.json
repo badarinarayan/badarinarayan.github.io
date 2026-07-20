@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-20T17:25:25Z",
+  "generated": "2026-07-20T19:26:47Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,12 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "Coca-Cola appoints JPMorgan, Citi for India bottler IPO, sources say",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/coca-cola-appoints-jpmorgan-citi-for-india-bottler-ipo-sources-say/articleshow/132520378.cms",
+          "date": "20 Jul 2026",
+          "summary": "Coca-Cola has appointed JPMorgan and Citi for its planned 2027 initial public offering. This significant move involves its majority-owned Indian bottling partner, Hindustan Coca-Cola Holdings. The beverage giant is preparing for this listing and exploring a pa…"
+        },
         {
           "title": "FIIs and mutual funds increase stakes in Groww. Should you buy, sell, or hold?",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-and-mutual-funds-increase-stakes-in-groww-should-you-buy-sell-or-hold/articleshow/132509754.cms",
@@ -36,12 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/pnb-shares-jump-6-as-q1-profit-soars-214-beats-street-estimates-what-next/articleshow/132506317.cms",
           "date": "20 Jul 2026",
           "summary": "Punjab National Bank shares rose sharply on Monday after the PSU lender reported a 214% YoY jump in Q1FY27 net profit, beating Street estimates. Strong asset quality, lower provisions and improving margins prompted JM Financial to upgrade the stock and Motilal…"
-        },
-        {
-          "title": "Kotak Mahindra Bank shares fall over 3% despite Q1 profit growth. Analysts weigh in",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/kotak-mahindra-bank-shares-fall-over-3-after-q1-earnings-what-are-motilal-oswal-other-brokerages-saying/articleshow/132506336.cms",
-          "date": "20 Jul 2026",
-          "summary": "Kotak Mahindra Bank shares fell after reporting a strong profit increase for the first quarter. Net profit rose 26% year-on-year, and net interest income also saw growth. Asset quality improved from the previous year, though key ratios weakened sequentially. B…"
         },
         {
           "title": "India-UK CETA takes effect: First zero-duty Indian coffee, jewellery consignments reach UK shores",
@@ -196,6 +196,12 @@
       "ok": true,
       "items": [
         {
+          "title": "From Tejas rejection to 5th-gen fighter jet hopes: Can Kaveri 2.0 finally deliver?",
+          "link": "https://timesofindia.indiatimes.com/defence/news/from-tejas-rejection-to-5th-gen-fighter-jet-hopes-can-kaveri-2-0-finally-deliver/articleshow/132511876.cms",
+          "date": "20 Jul 2026",
+          "summary": "India's Kaveri jet engine project shows signs of revival after years of delays. Defence Minister Rajnath Singh urged scientists to develop sixth-generation fighter engines soon. Technologies from the Kaveri program will support future combat aircraft and unman…"
+        },
+        {
           "title": "More headache for int'l students: US to roll out fixed-period F-1 visa from Sept",
           "link": "https://timesofindia.indiatimes.com/world/us/race-back-to-us-september-15-cutoff-for-f-1-students-seeking-duration-of-status-protection/articleshow/132519018.cms",
           "date": "20 Jul 2026",
@@ -208,10 +214,22 @@
           "summary": ""
         },
         {
+          "title": "Messi suffers unwanted first in FIFA World Cup final as Spain silence Argentina icon",
+          "link": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/lionel-messi-suffers-unwanted-first-in-fifa-world-cup-final-as-spain-silence-argentina-icon/articleshow/132519298.cms",
+          "date": "20 Jul 2026",
+          "summary": "Spain defeated Argentina in the FIFA World Cup 2026 final after extra time. Lionel Messi experienced a rare off day, failing to create any chances for teammates. Spain's defensive strategy successfully contained the legendary Argentine forward throughout the m…"
+        },
+        {
           "title": "4 Indians killed, 1 critically injured after cargo ship attacked off Ukraine's Odesa coast",
           "link": "https://timesofindia.indiatimes.com/india/4-indians-killed-1-critically-injured-after-cargo-ship-attacked-off-ukraines-odesa-coast/articleshow/132518981.cms",
           "date": "20 Jul 2026",
           "summary": ""
+        },
+        {
+          "title": "Engineers building Solar panels are using exact replicas of honeycombs made by Bees to ensure ...",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/engineers-building-solar-panels-are-using-exact-replicas-of-honeycombs-made-by-bees-to-ensure-/articleshow/132519969.cms",
+          "date": "21 Jul 2026",
+          "summary": "Engineers have developed new solar panels inspired by bee honeycombs. This innovative design significantly improves sunlight absorption and power generation. The honeycomb structure traps light, preventing reflection and increasing energy capture. Tests show s…"
         },
         {
           "title": "'Thank you, India!': Argentina envoy thanks Indian fans after World Cup heartbreak",
@@ -226,40 +244,22 @@
           "summary": ""
         },
         {
-          "title": "Google DeepMind CEO: People with technical knowledge will be better positioned to use AI",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/google-deepmind-ceo-demis-hassabis-on-importance-of-computer-science-degree-in-ai-age-you-are-still-going-to-need-to-know-best-software-engineering-practices-as-those-who-understand-deep-technical-will-be-able-to-use-/articleshow/132515258.cms",
-          "date": "20 Jul 2026",
-          "summary": "Google DeepMind CEO Demis Hassabis stresses STEM and computer science importance. He believes technical knowledge enhances AI tool effectiveness significantly. Hassabis also highlights the growing need for humanities like philosophy and ethics. Other tech lead…"
+          "title": "US judge suspends Paramount's acquisition of Warner Bros.",
+          "link": "https://timesofindia.indiatimes.com/world/us/us-judge-halts-paramount-warner-bros-merger-for-14-days-amid-antitrust-challenge-by-12-states/articleshow/132523387.cms",
+          "date": "21 Jul 2026",
+          "summary": ""
+        },
+        {
+          "title": "US judge to Meta's laid off employees: Cannot stop the company from job cuts",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/us-judge-to-metas-laid-off-employees-cannot-stop-the-company-from-job-cuts-but-can-reconsider-if-you-can-provide-how-/articleshow/132489332.cms",
+          "date": "19 Jul 2026",
+          "summary": "A US judge has allowed Meta Platforms to proceed with planned layoffs of 26 employees. These employees had sued the company alleging AI-driven discrimination in job cuts. The judge declined an emergency request to halt the layoffs while claims proceed. He stat…"
         },
         {
           "title": "Pentagon withheld data on troop injuries in Iran war, says report; Trump admin reacts",
           "link": "https://timesofindia.indiatimes.com/world/us/cherry-picking-numbers-trump-admin-slams-report-claiming-pentagon-withheld-data-on-troop-injuries-in-iran-war/articleshow/132519356.cms",
           "date": "20 Jul 2026",
           "summary": ""
-        },
-        {
-          "title": "Former England captain and two-time Ballon d'Or winner Kevin Keegan dies at 75",
-          "link": "https://timesofindia.indiatimes.com/sports/football/news/former-england-captain-and-two-time-ballon-dor-winner-kevin-keegan-dies-at-75/articleshow/132520113.cms",
-          "date": "20 Jul 2026",
-          "summary": "English football icon Kevin Keegan has passed away at seventy-five years old. He was a two-time Ballon d'Or winner and a Liverpool European Cup champion. Keegan also enjoyed a successful managerial career with Newcastle United and England. His influence extend…"
-        },
-        {
-          "title": "E20 petrol debate: Govt says 'no verified evidence' of widespread engine failure",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/e20-petrol-debate-govt-cites-data-for-23-crore-vehicles-says-no-verified-evidence-of-widespread-engine-failure/articleshow/132519467.cms",
-          "date": "20 Jul 2026",
-          "summary": "Minister of State for Petroleum and Natural Gas Suresh Gopi said the shift to E20 fuel has been \"phased, calibrated and evidence-based,\" noting that the ethanol blending rate was gradually raised from 1.53 per cent in 2013-14 to 20 per cent in 2025-26 followin…"
-        },
-        {
-          "title": "Airbnb CEO says will keep investing in New York despite Mamdani's rent freeze plan",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/as-some-billionaires-warn-of-exits-after-new-york-mayor-zohran-mamdanis-rent-freeze-airbnb-ceo-brian-chesky-says-we-are-excited-to-keep-investing-in-new-york-and-the-people-who-/articleshow/132472764.cms",
-          "date": "18 Jul 2026",
-          "summary": "Airbnb and Anthropic are expanding their New York City operations significantly. This investment occurs despite concerns from business leaders about city policies. Airbnb purchased a building for its growing New York workforce. Anthropic will lease a large off…"
-        },
-        {
-          "title": "'Total disgrace': Argentina branded 'classless' as post-final conduct sparks outrage",
-          "link": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/total-disgrace-argentina-branded-classless-as-post-final-conduct-sparks-outrage/articleshow/132517657.cms",
-          "date": "20 Jul 2026",
-          "summary": "Argentina faced criticism for their behavior after losing the World Cup final. Players did not remain on the podium during Spain's trophy presentation. This action drew condemnation from many football community members. Earlier, a confrontation occurred betwee…"
         },
         {
           "title": "Tiny colour changes in wild snapdragons may decide which genes survive",
@@ -274,10 +274,10 @@
           "summary": "After being presumed extinct for sixty years, a remarkable coral reef off West Africa has been rediscovered, thriving with an array of fish and coral species. This vibrant mesophotic coral ecosystem thrives in low-light environments beneath the ocean's surface…"
         },
         {
-          "title": "US judge to Meta's laid off employees: Cannot stop the company from job cuts",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/us-judge-to-metas-laid-off-employees-cannot-stop-the-company-from-job-cuts-but-can-reconsider-if-you-can-provide-how-/articleshow/132489332.cms",
-          "date": "19 Jul 2026",
-          "summary": "A US judge has allowed Meta Platforms to proceed with planned layoffs of 26 employees. These employees had sued the company alleging AI-driven discrimination in job cuts. The judge declined an emergency request to halt the layoffs while claims proceed. He stat…"
+          "title": "Airbnb CEO says will keep investing in New York despite Mamdani's rent freeze plan",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/as-some-billionaires-warn-of-exits-after-new-york-mayor-zohran-mamdanis-rent-freeze-airbnb-ceo-brian-chesky-says-we-are-excited-to-keep-investing-in-new-york-and-the-people-who-/articleshow/132472764.cms",
+          "date": "18 Jul 2026",
+          "summary": "Airbnb and Anthropic are expanding their New York City operations significantly. This investment occurs despite concerns from business leaders about city policies. Airbnb purchased a building for its growing New York workforce. Anthropic will lease a large off…"
         },
         {
           "title": "Vacant for decades? Why the government can't simply take over abandoned properties",
@@ -286,40 +286,70 @@
           "summary": "In India, the absence of a comprehensive law governing abandoned buildings leads to fragmented regulations across various legislative acts. Municipal authorities hold the authority to inspect and classify buildings as dangerous. Owners are notified to undertak…"
         },
         {
+          "title": "Horoscope Today: Daily astrological predictions for July 21, 2026",
+          "link": "https://timesofindia.indiatimes.com/astrology/horoscope/horoscope-today-daily-astrological-predictions-for-july-21-2026/articleshow/132520167.cms",
+          "date": "21 Jul 2026",
+          "summary": "Horoscope Today: Read daily horoscope predictions for July 21, 2026. Know all about the astrological events and influences that will be affecting each of the 12 zodiac signs. Our astrologer has analyzed the movements of the planets and the alignment of the sta…"
+        },
+        {
+          "title": "Taylor Swift, Travis Kelce reportedly frustrated by ongoing wedding rumors",
+          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/theyre-exhausted-taylor-swift-and-travis-kelce-reportedly-fed-up-and-frustrated-over-controversy-surrounding-their-wedding/articleshow/132495214.cms",
+          "date": "19 Jul 2026",
+          "summary": "The Kansas City Chiefs popular tight end Travis Kelce is all set to bounce back on the field in the next few months but it seems he has grown uncomfortable with all the chatter around his wedding to Taylor Swift as the pop star remains silent."
+        },
+        {
+          "title": "Maple Leafs’ Gavin McKenna backed to deliver Matvei Michkov-like rookie season",
+          "link": "https://timesofindia.indiatimes.com/sports/nhl/news/toronto-maple-leafs-rookie-gavin-mckenna-tipped-to-match-matvei-michkovs-impressive-debut-season/articleshow/132520213.cms",
+          "date": "20 Jul 2026",
+          "summary": "Toronto Maple Leafs' top pick Kevin McKenna is expected to join Auston Matthews. He is anticipated to fill the void left by Mitch Marner's departure. Analysts project McKenna's rookie season to rival Matvei Michkov's impressive debut. McKenna signed a three-ye…"
+        },
+        {
+          "title": "WWE Raw tonight: Full match card, confirmed segments, start time &amp; how to watch",
+          "link": "https://timesofindia.indiatimes.com/sports/wwe/top-stories/wwe-raw-tonight-20-july-2026-full-match-card-confirmed-segments-start-timings-how-to-watch/articleshow/132507443.cms",
+          "date": "20 Jul 2026",
+          "summary": "WWE Monday Night RAW emanates from Detroit, Michigan, on July 20. Seth Rollins will open the show following his recent altercation with Roman Reigns. Jacob Fatu and LA Knight are set to face off in a singles match. Chad Gable and Danhausen will also make appea…"
+        },
+        {
+          "title": "Former England captain and two-time Ballon d'Or winner Kevin Keegan dies at 75",
+          "link": "https://timesofindia.indiatimes.com/sports/football/news/former-england-captain-and-two-time-ballon-dor-winner-kevin-keegan-dies-at-75/articleshow/132520113.cms",
+          "date": "20 Jul 2026",
+          "summary": "English football icon Kevin Keegan has passed away at seventy-five years old. He was a two-time Ballon d'Or winner and a Liverpool European Cup champion. Keegan also enjoyed a successful managerial career with Newcastle United and England. His influence extend…"
+        },
+        {
+          "title": "Maple Leafs linked to James van Riemsdyk reunion after 31-point red wings season",
+          "link": "https://timesofindia.indiatimes.com/sports/nhl/news/nhl-free-agency-rumor-toronto-maple-leafs-linked-with-veteran-forward-james-van-riemsdyk-after-31-point-detroit-red-wings-season/articleshow/132516051.cms",
+          "date": "20 Jul 2026",
+          "summary": "The Toronto Maple Leafs have posted a social media update featuring former forward James van Riemsdyk, and it has sparked fresh NHL free agency speculation. There has been no signing confirmed, but the timing has led to talk of a possible reunion. Van Riemsdyk…"
+        },
+        {
+          "title": "E20 petrol debate: Govt says 'no verified evidence' of widespread engine failure",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/e20-petrol-debate-govt-cites-data-for-23-crore-vehicles-says-no-verified-evidence-of-widespread-engine-failure/articleshow/132519467.cms",
+          "date": "20 Jul 2026",
+          "summary": "Minister of State for Petroleum and Natural Gas Suresh Gopi said the shift to E20 fuel has been \"phased, calibrated and evidence-based,\" noting that the ethanol blending rate was gradually raised from 1.53 per cent in 2013-14 to 20 per cent in 2025-26 followin…"
+        },
+        {
+          "title": "Friedrich Nietzsche’s quote on marriage: Why friendship matters more than love",
+          "link": "https://timesofindia.indiatimes.com/life-style/books/features/quote-of-the-day-by-friedrich-nietzsche-what-makes-unhappy-marriages-it-is-not-the-lack-of-love-but-the-absence-of-/articleshow/132520463.cms",
+          "date": "20 Jul 2026",
+          "summary": "Friedrich Nietzsche was a misunderstood and influential philosopher whose ideas challenged conventional morality. He proposed concepts like the \"Overman\" and \"God is dead\" which reshaped European thought. Nietzsche's writings explored human suffering and the \"…"
+        },
+        {
+          "title": "'Total disgrace': Argentina branded 'classless' as post-final conduct sparks outrage",
+          "link": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/total-disgrace-argentina-branded-classless-as-post-final-conduct-sparks-outrage/articleshow/132517657.cms",
+          "date": "20 Jul 2026",
+          "summary": "Argentina faced criticism for their behavior after losing the World Cup final. Players did not remain on the podium during Spain's trophy presentation. This action drew condemnation from many football community members. Earlier, a confrontation occurred betwee…"
+        },
+        {
           "title": "How electrical hazards are killing children, workers and families",
           "link": "https://timesofindia.indiatimes.com/city/noida/how-electrical-hazards-are-killing-children-workers-and-families/articleshow/132511236.cms",
           "date": "20 Jul 2026",
           "summary": "Recent tragedies highlight electrical safety failures in public spaces and institutions. A teenager died at a fair while a child perished in a Delhi park. An engineer's death in Noida prompts criminal proceedings against the electricity department. Ghaziabad s…"
         },
         {
-          "title": "Maple Leafs could trade $60M Defenseman Morgan Rielly before 2026-27 season",
-          "link": "https://timesofindia.indiatimes.com/sports/nhl/news/nhl-trade-rumor-toronto-maple-leafs-could-move-60-million-defenseman-morgan-rielly-before-2026-27-season/articleshow/132515948.cms",
-          "date": "20 Jul 2026",
-          "summary": "Morgan Rielly trade speculation continues to swirl around the Toronto Maple Leafs, and several NHL insiders believe the veteran defenseman could be moved before the start of the 2026-27 season. Rielly has yet to waive his no-movement clause, but interest from…"
-        },
-        {
-          "title": "Raiders linked to blockbuster trade for Vikings’ $140M star WR Justin Jefferson",
-          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/nfl-trade-rumor-las-vegas-raiders-might-be-eyeing-140m-minnesota-vikings-star-wide-receiver/articleshow/132518347.cms",
-          "date": "20 Jul 2026",
-          "summary": "Ahead of the new season, the Minnesota Vikings' popular wide receiver Justin jefferson's name has floated among trade speculations. Amid this, the Las Vegas Raiders have emerged as a potential landing spot for him."
-        },
-        {
-          "title": "How Lamine Yamal’s romance turned Inés García into Spain’s new social media star",
-          "link": "https://timesofindia.indiatimes.com/sports/international-sports/what-does-ins-garca-do-for-a-living-and-how-did-dating-lamine-yamal-turn-her-into-one-of-spains-biggest-influencers-overnight/articleshow/132497921.cms",
-          "date": "20 Jul 2026",
-          "summary": "Inés García Santos is a 21-year-old Spanish fashion and beauty influencer from Seville who built a sizeable digital following through fashion, lifestyle, and beauty content before her relationship with Lamine Yamal thrust her into the global spotlight. The cou…"
-        },
-        {
           "title": "CJP march: Police say detained protesters 'not students'; more arrests likely",
           "link": "https://timesofindia.indiatimes.com/india/cjp-march-police-say-detained-protesters-not-students-more-arrests-likely/articleshow/132518974.cms",
           "date": "20 Jul 2026",
           "summary": ""
-        },
-        {
-          "title": "From Tejas rejection to 5th-gen fighter jet hopes: Can Kaveri 2.0 finally deliver?",
-          "link": "https://timesofindia.indiatimes.com/defence/news/from-tejas-rejection-to-5th-gen-fighter-jet-hopes-can-kaveri-2-0-finally-deliver/articleshow/132511876.cms",
-          "date": "20 Jul 2026",
-          "summary": "India's Kaveri jet engine project shows signs of revival after years of delays. Defence Minister Rajnath Singh urged scientists to develop sixth-generation fighter engines soon. Technologies from the Kaveri program will support future combat aircraft and unman…"
         },
         {
           "title": "India's forex boost: RBI's swap scheme raises $20.72 billion so far",
@@ -344,36 +374,6 @@
           "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shabana-azmi-falls-ill-suffers-dizziness-during-protests-at-jantar-mantar-viral-video-shows-her-being-safely-escorted-to-the-security-cabin-watch/articleshow/132518721.cms",
           "date": "20 Jul 2026",
           "summary": "Veteran actor Shabana Azmi reportedly fell ill during a protest at Delhi's Jantar Mantar. She appeared visibly weak and was escorted to a security cabin for assistance. The actor had visited the protest site to express solidarity with the ongoing agitation. Sh…"
-        },
-        {
-          "title": "Coca-Cola adds fizz to India bottling unit IPO plan, appoints JPMorgan &amp; Citi as bankers",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/coca-cola-bottling-unit-adds-fizz-to-indias-ipo-plans-appoints-jpmorgan-citi-as-bankers/articleshow/132519042.cms",
-          "date": "20 Jul 2026",
-          "summary": "Coca-Cola's Indian bottling unit IPO plans are advancing. JPMorgan and Citi have been appointed to manage the proposed 2027 listing. The company is also exploring the sale of a portion of its stake. This move aligns with Coca-Cola's global asset-light strategy…"
-        },
-        {
-          "title": "'Messi, Messi!': Argentina fans honour their captain as Spain lift FIFA World Cup trophy",
-          "link": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/messi-messi-argentina-fans-honour-their-captain-as-spain-lift-fifa-world-cup-trophy/articleshow/132512637.cms",
-          "date": "20 Jul 2026",
-          "summary": "Spain defeated Argentina 1-0 in the FIFA World Cup 2026 final after extra time. Lionel Messi's final World Cup match ended in heartbreak for the legendary player. Thousands of Argentine fans showed unwavering support for Messi despite the disappointing loss. S…"
-        },
-        {
-          "title": "Naseeruddin Shah admits neglecting first family, calls Ratna Pathak his true love",
-          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/naseeruddin-shah-confessed-being-an-immature-husband-to-first-wife-purveen-neglected-daughter-heeba-later-married-ratna-pathak-who-he-calls-the-only-love-of-his-life/articleshow/132517330.cms",
-          "date": "20 Jul 2026",
-          "summary": "Naseeruddin Shah candidly reflects on his first marriage to Purveen Murad. He admits to being an immature husband and a distant father in his early twenties. Parenthood exposed cracks in their marriage, and he felt emotionally detached. His focus shifted to hi…"
-        },
-        {
-          "title": "'We made govt bow &amp; listen to us': CJP after meeting Nadda; protest continues at Jantar Mantar",
-          "link": "https://timesofindia.indiatimes.com/india/dipke-ends-hunger-strike-cjp-spokespersons-to-meet-nadda-key-points-from-sansad-chalo-march/articleshow/132504100.cms",
-          "date": "20 Jul 2026",
-          "summary": ""
-        },
-        {
-          "title": "'I will continue my fast': Wangchuk says peaceful protesters dealt with brutality",
-          "link": "https://timesofindia.indiatimes.com/india/hopefully-govt-will-fix-accountability-sonam-wangchuk-to-continue-his-hunger-strike/articleshow/132516960.cms",
-          "date": "20 Jul 2026",
-          "summary": "Climate activist Sonam Wangchuk continues his hunger strike after witnessing police actions against protestors. He demands that youth leaders meet parliamentarians or he be allowed to meet them. Wangchuk appeals to the government and police to let students pre…"
         }
       ]
     },
@@ -760,6 +760,18 @@
       "ok": true,
       "items": [
         {
+          "title": "Google's \"Frozen v2\" chip reportedly bakes Gemini's architecture directly into silicon for efficiency gains",
+          "link": "https://the-decoder.com/googles-frozen-v2-chip-reportedly-bakes-geminis-architecture-directly-into-silicon-for-efficiency-gains/",
+          "date": "20 Jul 2026",
+          "summary": "Google is developing \"Frozen v2,\" a server chip that bakes the Gemini architecture directly into hardware. According to internal sources, it could be 6 to 10 times more efficient than current TPUs. Scheduled for 2028, the chip would drastically cut Google's AI…"
+        },
+        {
+          "title": "District 9 director Neill Blomkamp releases first short film made entirely with AI video generation",
+          "link": "https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation/",
+          "date": "20 Jul 2026",
+          "summary": "\"District 9\" director Neill Blomkamp has released \"Nightborne,\" a 13-minute sci-fi horror short generated entirely with the Seedance 2.0 video model. Blomkamp directed frame by frame through text prompts and founded a new AI film studio, Barley Studios, to pro…"
+        },
+        {
           "title": "Nvidia's grip on AI chips weakens as Microsoft turns to AMD and Anthropic may follow",
           "link": "https://the-decoder.com/nvidias-grip-on-ai-chips-weakens-as-microsoft-turns-to-amd-and-anthropic-may-follow/",
           "date": "20 Jul 2026",
@@ -806,18 +818,6 @@
           "link": "https://the-decoder.com/ai-text-detectors-struggle-when-language-models-mimic-an-authors-style/",
           "date": "19 Jul 2026",
           "summary": "Epoch AI tested three leading AI text detectors (Pangram, GPTZero, and Originality.ai) using style-imitated texts. Up to 18 percent of AI-generated passages went undetected. For scientific writing, the miss rate climbed as high as 48 percent, the very genre wh…"
-        },
-        {
-          "title": "AI chatbots reading X-rays can be dangerously confident even when they're wrong",
-          "link": "https://the-decoder.com/ai-chatbots-reading-x-rays-can-be-dangerously-confident-even-when-theyre-wrong/",
-          "date": "19 Jul 2026",
-          "summary": "The RadLE 2.0 benchmark tests whether AI models in radiology can tell when they should leave a diagnosis to a human. Many models deliver wrong findings with full confidence, and human radiologists are still well ahead. Before AI can diagnose on its own, it nee…"
-        },
-        {
-          "title": "China's new World Artificial Intelligence Cooperation Organization is President Xi's clearest play yet for a parallel AI order",
-          "link": "https://the-decoder.com/chinas-new-world-artificial-intelligence-cooperation-organization-is-president-xis-clearest-play-yet-for-a-parallel-ai-order/",
-          "date": "18 Jul 2026",
-          "summary": "At the World AI Conference in Shanghai, Xi Jinping announced 5,000 AI training slots for Global South countries and the launch of the \"World Artificial Intelligence Cooperation Organization.\" Cooperation centers with ASEAN, the African Union, BRICS, and other…"
         }
       ]
     },
@@ -1084,6 +1084,12 @@
       "ok": true,
       "items": [
         {
+          "title": "China’s AI models have Trump’s AI world at war with itself",
+          "link": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+          "date": "20 Jul 2026",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the…"
+        },
+        {
           "title": "The Download: AI hiring biases, and weather data sabotage",
           "link": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
           "date": "20 Jul 2026",
@@ -1136,12 +1142,6 @@
           "link": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
           "date": "15 Jul 2026",
           "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. PsiQuantum has a plan to make a massive quantum computer out of light The machine that could change the world…"
-        },
-        {
-          "title": "The Download: Claude’s inner workings, and the future of world models",
-          "link": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
-          "date": "14 Jul 2026",
-          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O&#8217;Donnell When Anthropic announced las…"
         }
       ]
     },
@@ -1151,6 +1151,18 @@
       "cat": "Tech · News",
       "ok": true,
       "items": [
+        {
+          "title": "AliExpress Hit With Record $625 Million Fine After Failing To Make EU-Ordered Fixes",
+          "link": "https://news.slashdot.org/story/26/07/20/1751219/aliexpress-hit-with-record-625-million-fine-after-failing-to-make-eu-ordered-fixes?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "20 Jul 2026",
+          "summary": "The European Commission has fined AliExpress more than $625 million, the largest penalty yet under the Digital Services Act, after finding that the marketplace failed to \"diligently assess and mitigate risks relating to the sale of illegal, unsafe, or counterf…"
+        },
+        {
+          "title": "LG Monitors Silently Install Adware-Like App On Windows PCs",
+          "link": "https://hardware.slashdot.org/story/26/07/20/1736218/lg-monitors-silently-install-adware-like-app-on-windows-pcs?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "20 Jul 2026",
+          "summary": "VideoCardz reports that connecting certain LG monitors to Windows PCs can trigger Windows Update to automatically install the LG Monitor App Installer, which runs at startup and repeatedly displays McAfee trial promotions. From the report: Gamers Nexus reprodu…"
+        },
         {
           "title": "Hacker Wipes Romania's Entire Land Registry Database",
           "link": "https://it.slashdot.org/story/26/07/20/172249/hacker-wipes-romanias-entire-land-registry-database?utm_source=rss1.0mainlinkanon&utm_medium=feed",
@@ -1228,18 +1240,6 @@
           "link": "https://tech.slashdot.org/story/26/07/18/2130259/windows-10-still-being-used-often-unpatched-and-insecure?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "19 Jul 2026",
           "summary": "Windows 10 still runs on 16.9% of the Windows devices monitored by asset-tracking service Lansweeper. That's more than one in six, The Register points out. A year ago, the operating system accounted for about half of the machines in its dataset, falling to the…"
-        },
-        {
-          "title": "Aptera Announces US-Wide Repair Network for Its Upcoming Solar Electric Car",
-          "link": "https://tech.slashdot.org/story/26/07/19/0559215/aptera-announces-us-wide-repair-network-for-its-upcoming-solar-electric-car?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "19 Jul 2026",
-          "summary": "Solar car maker Aptera has \"officially announced a repair network partnership which will give owners of its upcoming solar electric car access to thousands of repair shops nationwide,\" reports Electrek: We recently got a chance to drive the Aptera solar EV and…"
-        },
-        {
-          "title": "Former Richard Stallman Colleague Now Argues for Open AI Models Too",
-          "link": "https://news.slashdot.org/story/26/07/19/0631207/former-richard-stallman-colleague-now-argues-for-open-ai-models-too?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "19 Jul 2026",
-          "summary": "Long-time Slashdot reader theodp writes: Recalling his initial resistance to free and open software, billionaire computer scientist David Siegel argues vigorously in FORTUNE that the stakes are too high to let AI become increasingly closed. \"In the 1980s, I ha…"
         }
       ]
     },
@@ -1630,184 +1630,184 @@
       "ok": true,
       "items": [
         {
-          "title": "coldchain-mcp added to PyPI",
-          "link": "https://pypi.org/project/coldchain-mcp/",
+          "title": "langchain-flopsindex added to PyPI",
+          "link": "https://pypi.org/project/langchain-flopsindex/",
           "date": "20 Jul 2026",
-          "summary": "MCP server for cold-chain sensor data analysis: threshold breaches, anomalies, journey segmentation. All processing local."
+          "summary": "LangChain (and LlamaIndex) tools for the public FLOPS Index — verifiable GPU compute reference prices, no API key required"
         },
         {
-          "title": "javapyn added to PyPI",
-          "link": "https://pypi.org/project/javapyn/",
+          "title": "tigerzylinder-custom added to PyPI",
+          "link": "https://pypi.org/project/tigerzylinder-custom/",
           "date": "20 Jul 2026",
-          "summary": "Rust-based deserializer for Apache Solr's javabin (protocol v2) format."
+          "summary": "Eine Privates Biblithek."
         },
         {
-          "title": "drskill added to PyPI",
-          "link": "https://pypi.org/project/drskill/",
+          "title": "bpmn2pnml-ltl-analyzer added to PyPI",
+          "link": "https://pypi.org/project/bpmn2pnml-ltl-analyzer/",
           "date": "20 Jul 2026",
-          "summary": "brew doctor for your AI agent's skill loadout"
+          "summary": "Unified library: parse multi-format BPMN → convert to PNML (Petri Net) → LTL deadlock/livelock analysis with cross-representation consistency checking"
         },
         {
-          "title": "vectordba added to PyPI",
-          "link": "https://pypi.org/project/vectordba/",
+          "title": "subsegmenter added to PyPI",
+          "link": "https://pypi.org/project/subsegmenter/",
           "date": "20 Jul 2026",
-          "summary": "Agentic MongoDB NLP Database Interface"
+          "summary": "A lightweight semantic sub-sentence segmenter using rule-optimized spaCy dependency trees."
         },
         {
-          "title": "cnx-mcp added to PyPI",
-          "link": "https://pypi.org/project/cnx-mcp/",
+          "title": "zenodotus added to PyPI",
+          "link": "https://pypi.org/project/zenodotus/",
           "date": "20 Jul 2026",
-          "summary": "Local MCP stdio bridge for cnx — GPU rental negotiation agent (proxies to the live cnx /mcp HTTP endpoint, zero local business logic)"
+          "summary": "OSS release-readiness gate: deterministic pre-gates + a no-context reviewer panel"
         },
         {
-          "title": "whyslow-cli added to PyPI",
-          "link": "https://pypi.org/project/whyslow-cli/",
+          "title": "run-guide added to PyPI",
+          "link": "https://pypi.org/project/run-guide/",
           "date": "20 Jul 2026",
-          "summary": "Diagnose WHY your internet is slow, unstable, or unavailable — not just how fast it is."
+          "summary": "Reserved name placeholder. No functionality."
         },
         {
-          "title": "signet-client added to PyPI",
-          "link": "https://pypi.org/project/signet-client/",
+          "title": "raven-es added to PyPI",
+          "link": "https://pypi.org/project/raven-es/",
           "date": "20 Jul 2026",
-          "summary": "Python client for signet, generated from bytepunx/signet-proto"
+          "summary": "Reconnaissance & Attack on Vulnerable Elasticsearch Nodes"
         },
         {
-          "title": "uptocode added to PyPI",
-          "link": "https://pypi.org/project/uptocode/",
+          "title": "CaptchaConda added to PyPI",
+          "link": "https://pypi.org/project/captchaconda/",
           "date": "20 Jul 2026",
-          "summary": "Evidence-backed architecture-quality analysis for Python agent applications"
+          "summary": "Classical image-processing digit-CAPTCHA solver (no ML, no GPU needed). C++ backend + Python shell."
         },
         {
-          "title": "viralfetch added to PyPI",
-          "link": "https://pypi.org/project/viralfetch/",
+          "title": "etlantic-datafusion added to PyPI",
+          "link": "https://pypi.org/project/etlantic-datafusion/",
           "date": "20 Jul 2026",
-          "summary": "Query and download viral taxonomy, metadata and sequences (ICTV VMR + NCBI E-utilities + ICTV Report)."
+          "summary": "Experimental DataFusion dataframe + portable transform plugin for ETLantic."
         },
         {
-          "title": "ghoast added to PyPI",
-          "link": "https://pypi.org/project/ghoast/",
+          "title": "melon-api-client added to PyPI",
+          "link": "https://pypi.org/project/melon-api-client/",
           "date": "20 Jul 2026",
-          "summary": "Deterministic local repo chronology for AI coding agents."
+          "summary": "An unofficial API SDK for melon app"
         },
         {
-          "title": "actant added to PyPI",
-          "link": "https://pypi.org/project/actant/",
+          "title": "hindsight-zcode added to PyPI",
+          "link": "https://pypi.org/project/hindsight-zcode/",
           "date": "20 Jul 2026",
-          "summary": "Temporal-native runtime for persistent agents with durable inboxes, governed tools, and replay"
+          "summary": "ZCode (Z.ai GLM) integration for Hindsight - persistent long-term memory via ZCode hooks"
         },
         {
-          "title": "astral-token-encoder added to PyPI",
-          "link": "https://pypi.org/project/astral-token-encoder/",
+          "title": "nonebot-plugin-attack added to PyPI",
+          "link": "https://pypi.org/project/nonebot-plugin-attack/",
           "date": "20 Jul 2026",
-          "summary": "A versatile Python token generation and formatting library supporting custom schemas, hashing for Telegram/Discord IDs, multiple security versions, and SQLite/JSON export utilities."
+          "summary": "持续为消息添加和移除 reaction 的 NoneBot2 娱乐插件"
         },
         {
-          "title": "phoneme-entropy added to PyPI",
-          "link": "https://pypi.org/project/phoneme-entropy/",
+          "title": "soccernetpy added to PyPI",
+          "link": "https://pypi.org/project/soccernetpy/",
           "date": "20 Jul 2026",
-          "summary": "Phoneme-level entropy, informativity, and maximum-entropy tools, extending entropy-estimators."
+          "summary": "Python bindings for SOCcerNET occupation coding and CLIPS industry coding"
         },
         {
-          "title": "nonebot-plugin-aawarframe added to PyPI",
-          "link": "https://pypi.org/project/nonebot-plugin-aawarframe/",
+          "title": "etlantic-sparkforge added to PyPI",
+          "link": "https://pypi.org/project/etlantic-sparkforge/",
           "date": "20 Jul 2026",
-          "summary": "Default template for PDM package"
+          "summary": "SparkForge-to-ETLantic migration adapter (medallion facade mapping)."
         },
         {
-          "title": "epoint added to PyPI",
-          "link": "https://pypi.org/project/epoint/",
+          "title": "pyecharts-express added to PyPI",
+          "link": "https://pypi.org/project/pyecharts-express/",
           "date": "20 Jul 2026",
-          "summary": "Python client for the epoint.az payment gateway"
+          "summary": "A plotly-express style API for pyecharts — build ECharts with concise, dataframe-friendly calls."
         },
         {
-          "title": "reliquary added to PyPI",
-          "link": "https://pypi.org/project/reliquary/",
+          "title": "myhamilton311 added to PyPI",
+          "link": "https://pypi.org/project/myhamilton311/",
           "date": "20 Jul 2026",
-          "summary": "OS installation scripting over agentless QEMU guest automation"
+          "summary": "Python client library for the MyHamilton 311 / SeeClickFix API"
         },
         {
-          "title": "postupashkin-exporter added to PyPI",
-          "link": "https://pypi.org/project/postupashkin-exporter/",
+          "title": "pyNetSchoolApi added to PyPI",
+          "link": "https://pypi.org/project/pynetschoolapi/",
           "date": "20 Jul 2026",
-          "summary": "Скрипт для автоматического экспорта данных о шансах на поступление (с сайта postupashkin.ru). Продукт сделан при помощи vibe-коддинга."
+          "summary": "None"
         },
         {
-          "title": "sm-federation added to PyPI",
-          "link": "https://pypi.org/project/sm-federation/",
+          "title": "deeprisk added to PyPI",
+          "link": "https://pypi.org/project/deeprisk/",
           "date": "20 Jul 2026",
-          "summary": "An open protocol for agent-community federation — peer discovery + intelligence exchange between communities of AI agents."
+          "summary": "H^k risk stratification framework for financial networks"
         },
         {
-          "title": "anemoi-plugins-extraterrestrial added to PyPI",
-          "link": "https://pypi.org/project/anemoi-plugins-extraterrestrial/",
+          "title": "ionoscloud-dbaas-inmemorydb added to PyPI",
+          "link": "https://pypi.org/project/ionoscloud-dbaas-inmemorydb/",
           "date": "20 Jul 2026",
-          "summary": "Anemoi plugin for extraterrestrial datasets"
+          "summary": "IONOS CLOUD DBaaS In-Memory DB"
         },
         {
-          "title": "mitra-aios added to PyPI",
-          "link": "https://pypi.org/project/mitra-aios/",
+          "title": "etlantic-prefect added to PyPI",
+          "link": "https://pypi.org/project/etlantic-prefect/",
           "date": "20 Jul 2026",
-          "summary": "MITRA AIOS — AI Operating System runtime (v1.2.0rc4 EOS Convergence)"
+          "summary": "Prefect ExecutionScheduler plugin for ETLantic."
         },
         {
-          "title": "QMH-PyClient added to PyPI",
-          "link": "https://pypi.org/project/qmh-pyclient/",
+          "title": "mtnmomo-py added to PyPI",
+          "link": "https://pypi.org/project/mtnmomo-py/",
           "date": "20 Jul 2026",
-          "summary": "Python API library for QMH"
+          "summary": "Typed synchronous client for the MTN MoMo APIs"
         },
         {
-          "title": "fj-ai added to PyPI",
-          "link": "https://pypi.org/project/fj-ai/",
+          "title": "ml-core-airflow-auth added to PyPI",
+          "link": "https://pypi.org/project/ml-core-airflow-auth/",
           "date": "20 Jul 2026",
-          "summary": "fj — one-shot CLI coding agent powered by soothe-nano"
+          "summary": "auth token handler"
         },
         {
-          "title": "jxconfig added to PyPI",
-          "link": "https://pypi.org/project/jxconfig/",
+          "title": "ovito-mcp added to PyPI",
+          "link": "https://pypi.org/project/ovito-mcp/",
           "date": "20 Jul 2026",
-          "summary": "JX — JSON eXtended: a minimal JSON-compatible config language with comments, trailing commas, and expressions"
+          "summary": "MCP server for interactive work in OVITO Pro"
         },
         {
-          "title": "dynamic-multiplex added to PyPI",
-          "link": "https://pypi.org/project/dynamic-multiplex/",
+          "title": "sirako-sdk added to PyPI",
+          "link": "https://pypi.org/project/sirako-sdk/",
           "date": "20 Jul 2026",
-          "summary": "Multiplex temporal community detection with customizable interlayer coupling"
+          "summary": "Sirako Merchant SDK API"
         },
         {
-          "title": "llmwiki-serve added to PyPI",
-          "link": "https://pypi.org/project/llmwiki-serve/",
+          "title": "aivisible-fix added to PyPI",
+          "link": "https://pypi.org/project/aivisible-fix/",
           "date": "20 Jul 2026",
-          "summary": "Serve LLMWiki Markdown folders over HTTP, MCP-style JSON-RPC, MCP Streamable HTTP, and opt-in A2A-style message surfaces."
+          "summary": "Audit and auto-fix a website's visibility to AI crawlers and answer engines (GPTBot, ClaudeBot, PerplexityBot, and more)."
         },
         {
-          "title": "nexara added to PyPI",
-          "link": "https://pypi.org/project/nexara/",
+          "title": "authkeys added to PyPI",
+          "link": "https://pypi.org/project/authkeys/",
           "date": "20 Jul 2026",
-          "summary": "Python SDK for the Nexara speech-to-text API: transcription, diarization, speaker roles, structured LLM output"
+          "summary": "Pluggable AuthorizedKeysCommand provider for OpenSSH (file/HTTP/LDAP sources, TTL cache, optional key server)"
         },
         {
-          "title": "auditops added to PyPI",
-          "link": "https://pypi.org/project/auditops/",
+          "title": "citygrid added to PyPI",
+          "link": "https://pypi.org/project/citygrid/",
           "date": "20 Jul 2026",
-          "summary": "Open-source evidence collection framework."
+          "summary": "Zone classification, road generation, pathfinding, and urban analytics for a grid of buildings"
         },
         {
-          "title": "illusion-markdown added to PyPI",
-          "link": "https://pypi.org/project/illusion-markdown/",
+          "title": "abqpy2026 added to PyPI",
+          "link": "https://pypi.org/project/abqpy2026/",
           "date": "20 Jul 2026",
-          "summary": "Python bindings for illusion Markdown (MDI), backed by the Rust core."
+          "summary": "Type hints for Abaqus/Python scripting"
         },
         {
-          "title": "coordinating-machine added to PyPI",
-          "link": "https://pypi.org/project/coordinating-machine/",
+          "title": "grinta added to PyPI",
+          "link": "https://pypi.org/project/grinta/",
           "date": "20 Jul 2026",
-          "summary": "A Machine that coordinates actions of people and entities."
+          "summary": "Local-first autonomous coding agent with provider-agnostic inference, LSP, debugging, durable sessions, and a terminal UI"
         },
         {
-          "title": "hackversity added to PyPI",
-          "link": "https://pypi.org/project/hackversity/",
+          "title": "douanecode-mcp added to PyPI",
+          "link": "https://pypi.org/project/douanecode-mcp/",
           "date": "20 Jul 2026",
-          "summary": "A tiered, defensive recon & scanning toolkit for cybersecurity students."
+          "summary": "MCP server exposing DouaneCode customs code search (HS/NC8/TARIC) to AI agents"
         }
       ]
     }
