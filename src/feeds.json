@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-20T19:26:47Z",
+  "generated": "2026-07-20T21:02:21Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,12 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "US stocks today: S&amp;P 500 edges down with Iran and earnings season in focus",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-edges-down-with-iran-and-earnings-season-in-focus/articleshow/132523900.cms",
+          "date": "21 Jul 2026",
+          "summary": "U.S. stocks closed slightly lower as investors balanced Middle East tensions with optimism around upcoming tech earnings. Markets remained cautious amid US-Iran developments and oil supply concerns, while attention shifts to results from major firms like Alpha…"
+        },
         {
           "title": "Coca-Cola appoints JPMorgan, Citi for India bottler IPO, sources say",
           "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/coca-cola-appoints-jpmorgan-citi-for-india-bottler-ipo-sources-say/articleshow/132520378.cms",
@@ -36,12 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/natco-pharma-shares-surge-5-after-us-fdas-tentative-nod-olaparib-tablets/articleshow/132506153.cms",
           "date": "20 Jul 2026",
           "summary": "Natco Pharma shares rose sharply on Monday after the U.S. FDA granted tentative approval for its generic Olaparib tablets, a bioequivalent version of AstraZeneca’s Lynparza. The drug addresses a $1.4-billion U.S. market opportunity. The company will manufactur…"
-        },
-        {
-          "title": "PNB shares jump 6% as Q1 profit soars 214%, beats Street estimates. What next?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/pnb-shares-jump-6-as-q1-profit-soars-214-beats-street-estimates-what-next/articleshow/132506317.cms",
-          "date": "20 Jul 2026",
-          "summary": "Punjab National Bank shares rose sharply on Monday after the PSU lender reported a 214% YoY jump in Q1FY27 net profit, beating Street estimates. Strong asset quality, lower provisions and improving margins prompted JM Financial to upgrade the stock and Motilal…"
         },
         {
           "title": "India-UK CETA takes effect: First zero-duty Indian coffee, jewellery consignments reach UK shores",
@@ -196,22 +196,16 @@
       "ok": true,
       "items": [
         {
-          "title": "From Tejas rejection to 5th-gen fighter jet hopes: Can Kaveri 2.0 finally deliver?",
-          "link": "https://timesofindia.indiatimes.com/defence/news/from-tejas-rejection-to-5th-gen-fighter-jet-hopes-can-kaveri-2-0-finally-deliver/articleshow/132511876.cms",
-          "date": "20 Jul 2026",
-          "summary": "India's Kaveri jet engine project shows signs of revival after years of delays. Defence Minister Rajnath Singh urged scientists to develop sixth-generation fighter engines soon. Technologies from the Kaveri program will support future combat aircraft and unman…"
-        },
-        {
-          "title": "More headache for int'l students: US to roll out fixed-period F-1 visa from Sept",
-          "link": "https://timesofindia.indiatimes.com/world/us/race-back-to-us-september-15-cutoff-for-f-1-students-seeking-duration-of-status-protection/articleshow/132519018.cms",
+          "title": "Trump scores own-goal as World Cup overflows with politics",
+          "link": "https://timesofindia.indiatimes.com/world/us/trump-scores-own-goal-as-world-cup-overflows-with-politics/articleshow/132518683.cms",
           "date": "20 Jul 2026",
           "summary": ""
         },
         {
-          "title": "'Will pay many times over': Trump warns Iran after US troop deaths in Jordan",
-          "link": "https://timesofindia.indiatimes.com/world/us/will-pay-many-times-over-trump-warns-iran-after-us-troop-deaths/articleshow/132520617.cms",
-          "date": "20 Jul 2026",
-          "summary": ""
+          "title": "Day 1 of Parliament’s monsoon session washed out amid NEET, donation chori protests",
+          "link": "https://timesofindia.indiatimes.com/india/day-1-of-parliaments-monsoon-session-washed-out-amid-neet-donation-chori-protests/articleshow/132523960.cms",
+          "date": "21 Jul 2026",
+          "summary": "The first day of Parliament's monsoon session was disrupted by opposition protests. Opposition parties raised concerns over various issues, including temple donations and exam leaks. Frequent adjournments led to the cancellation of proceedings in both houses.…"
         },
         {
           "title": "Messi suffers unwanted first in FIFA World Cup final as Spain silence Argentina icon",
@@ -220,8 +214,8 @@
           "summary": "Spain defeated Argentina in the FIFA World Cup 2026 final after extra time. Lionel Messi experienced a rare off day, failing to create any chances for teammates. Spain's defensive strategy successfully contained the legendary Argentine forward throughout the m…"
         },
         {
-          "title": "4 Indians killed, 1 critically injured after cargo ship attacked off Ukraine's Odesa coast",
-          "link": "https://timesofindia.indiatimes.com/india/4-indians-killed-1-critically-injured-after-cargo-ship-attacked-off-ukraines-odesa-coast/articleshow/132518981.cms",
+          "title": "Indus Water Treaty in present form no longer exists, Pak aiding terrorism: India",
+          "link": "https://timesofindia.indiatimes.com/india/indus-water-treaty-in-present-form-no-longer-exists-pak-aiding-terrorism-india/articleshow/132521793.cms",
           "date": "20 Jul 2026",
           "summary": ""
         },
@@ -232,22 +226,22 @@
           "summary": "Engineers have developed new solar panels inspired by bee honeycombs. This innovative design significantly improves sunlight absorption and power generation. The honeycomb structure traps light, preventing reflection and increasing energy capture. Tests show s…"
         },
         {
-          "title": "'Thank you, India!': Argentina envoy thanks Indian fans after World Cup heartbreak",
-          "link": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/thank-you-india-argentina-envoy-thanks-indian-fans-after-world-cup-heartbreak/articleshow/132516732.cms",
-          "date": "20 Jul 2026",
-          "summary": "Argentina's Ambassador expressed gratitude to Indian football fans for their support. The Albiceleste reached the FIFA World Cup final but lost to Spain. Ferran Torres scored the decisive goal in extra time for Spain. Emiliano Martinez made several crucial sav…"
-        },
-        {
-          "title": "'Power does not last forever': Rahul's warning to cops after lathicharge on protesters",
-          "link": "https://timesofindia.indiatimes.com/india/power-does-not-last-forever-rahul-gandhis-warning-to-police-after-tear-gas-lathi-charge-on-student-protesters/articleshow/132518959.cms",
-          "date": "20 Jul 2026",
-          "summary": ""
-        },
-        {
-          "title": "US judge suspends Paramount's acquisition of Warner Bros.",
-          "link": "https://timesofindia.indiatimes.com/world/us/us-judge-halts-paramount-warner-bros-merger-for-14-days-amid-antitrust-challenge-by-12-states/articleshow/132523387.cms",
+          "title": "Supreme Court seeks more exclusive UAPA, NDPS courts to speed up trials",
+          "link": "https://timesofindia.indiatimes.com/india/supreme-court-seeks-more-exclusive-uapa-ndps-courts-to-speed-up-trials/articleshow/132523919.cms",
           "date": "21 Jul 2026",
           "summary": ""
+        },
+        {
+          "title": "From Tejas rejection to 5th-gen fighter jet hopes: Can Kaveri 2.0 finally deliver?",
+          "link": "https://timesofindia.indiatimes.com/defence/news/from-tejas-rejection-to-5th-gen-fighter-jet-hopes-can-kaveri-2-0-finally-deliver/articleshow/132511876.cms",
+          "date": "20 Jul 2026",
+          "summary": "India's Kaveri jet engine project shows signs of revival after years of delays. Defence Minister Rajnath Singh urged scientists to develop sixth-generation fighter engines soon. Technologies from the Kaveri program will support future combat aircraft and unman…"
+        },
+        {
+          "title": "Rain continues to play havoc in Jammu, toll goes up to 28",
+          "link": "https://timesofindia.indiatimes.com/india/jk-flood-toll-climbs-to-28-as-fresh-deaths-hit-poonch-doda-rescuers-dig-through-debris-as-rain-threat-persists/articleshow/132523886.cms",
+          "date": "21 Jul 2026",
+          "summary": "Torrential rain caused flash floods and landslides, killing twenty-eight people across Jammu division. Poonch reported twenty-three deaths, including several children, after a house collapse. Rescuers dug four bodies from rubble left by raging streams and coll…"
         },
         {
           "title": "US judge to Meta's laid off employees: Cannot stop the company from job cuts",
@@ -256,22 +250,22 @@
           "summary": "A US judge has allowed Meta Platforms to proceed with planned layoffs of 26 employees. These employees had sued the company alleging AI-driven discrimination in job cuts. The judge declined an emergency request to halt the layoffs while claims proceed. He stat…"
         },
         {
-          "title": "Pentagon withheld data on troop injuries in Iran war, says report; Trump admin reacts",
-          "link": "https://timesofindia.indiatimes.com/world/us/cherry-picking-numbers-trump-admin-slams-report-claiming-pentagon-withheld-data-on-troop-injuries-in-iran-war/articleshow/132519356.cms",
+          "title": "More headache for int'l students: US to roll out fixed-period F-1 visa from Sept",
+          "link": "https://timesofindia.indiatimes.com/world/us/race-back-to-us-september-15-cutoff-for-f-1-students-seeking-duration-of-status-protection/articleshow/132519018.cms",
           "date": "20 Jul 2026",
           "summary": ""
         },
         {
-          "title": "Tiny colour changes in wild snapdragons may decide which genes survive",
-          "link": "https://timesofindia.indiatimes.com/science/how-wild-snapdragons-fine-tune-their-shades-to-attract-bees-even-the-smallest-change-decide-which-genes-survive/articleshow/132518533.cms",
+          "title": "UK mosquito species may carry avian malaria, new study finds",
+          "link": "https://timesofindia.indiatimes.com/science/mosquito-species-in-the-uk-are-potential-carriers-of-avian-malaria-new-study-finds/articleshow/132516580.cms",
           "date": "20 Jul 2026",
-          "summary": "Wild snapdragons showcase an impressive ability to adjust their petal colors with the help of seven genes, aimed at attracting bees. These vibrant flowers utilize this precise color calibration as visual cues for their pollinators. Researchers discovered that…"
+          "summary": "In a landmark study, researchers have pinpointed certain mosquito species that spread avian malaria in the UK. Among twelve species analyzed, nine were found to harbor traces of this bird disease. Notably, the Ochlerotatus detritus mosquito is suspected to tra…"
         },
         {
-          "title": "Underwater drones find ‘dead’ West African coral reef alive after decades",
-          "link": "https://timesofindia.indiatimes.com/science/scientists-marked-this-west-african-coral-reef-as-probably-dead-in-the-1960s-underwater-drones-found-it-alive-more-than-50-metres-below-the-sea/articleshow/132516959.cms",
+          "title": "Why graduates wear caps and gowns, and why they toss caps in the air",
+          "link": "https://timesofindia.indiatimes.com/life-style/parenting/moments/why-do-graduates-wear-caps-and-gowns-the-fascinating-history-behind-the-tradition-and-why-the-caps-are-tossed/articleshow/132515044.cms",
           "date": "20 Jul 2026",
-          "summary": "After being presumed extinct for sixty years, a remarkable coral reef off West Africa has been rediscovered, thriving with an array of fish and coral species. This vibrant mesophotic coral ecosystem thrives in low-light environments beneath the ocean's surface…"
+          "summary": "Academic robes originated from medieval scholars needing warmth and religious attire. Graduation caps, known as mortarboards, also have historical ties to clergy and scholars. The cap toss tradition began with United States Naval Academy midshipmen in 1912. Th…"
         },
         {
           "title": "Airbnb CEO says will keep investing in New York despite Mamdani's rent freeze plan",
@@ -286,10 +280,10 @@
           "summary": "In India, the absence of a comprehensive law governing abandoned buildings leads to fragmented regulations across various legislative acts. Municipal authorities hold the authority to inspect and classify buildings as dangerous. Owners are notified to undertak…"
         },
         {
-          "title": "Horoscope Today: Daily astrological predictions for July 21, 2026",
-          "link": "https://timesofindia.indiatimes.com/astrology/horoscope/horoscope-today-daily-astrological-predictions-for-july-21-2026/articleshow/132520167.cms",
+          "title": "Can't force parents to create Apaar IDs for students: Supreme Court",
+          "link": "https://timesofindia.indiatimes.com/india/cant-force-parents-to-create-apaar-ids-for-students-supreme-court/articleshow/132523935.cms",
           "date": "21 Jul 2026",
-          "summary": "Horoscope Today: Read daily horoscope predictions for July 21, 2026. Know all about the astrological events and influences that will be affecting each of the 12 zodiac signs. Our astrologer has analyzed the movements of the planets and the alignment of the sta…"
+          "summary": "'Will pass an order to include an 'opt out' option in consent forms'"
         },
         {
           "title": "Taylor Swift, Travis Kelce reportedly frustrated by ongoing wedding rumors",
@@ -310,70 +304,76 @@
           "summary": "WWE Monday Night RAW emanates from Detroit, Michigan, on July 20. Seth Rollins will open the show following his recent altercation with Roman Reigns. Jacob Fatu and LA Knight are set to face off in a singles match. Chad Gable and Danhausen will also make appea…"
         },
         {
+          "title": "World sees 8% fall in road deaths in even as vehicle numbers surge: WHO",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/world-sees-8-fall-in-road-deaths-in-even-as-vehicle-numbers-surge-who/articleshow/132523928.cms",
+          "date": "21 Jul 2026",
+          "summary": ""
+        },
+        {
+          "title": "'Will pay many times over': Trump warns Iran after US troop deaths in Jordan",
+          "link": "https://timesofindia.indiatimes.com/world/us/will-pay-many-times-over-trump-warns-iran-after-us-troop-deaths/articleshow/132520617.cms",
+          "date": "20 Jul 2026",
+          "summary": ""
+        },
+        {
+          "title": "4 Indians killed, 1 critically injured after cargo ship attacked off Ukraine's Odesa coast",
+          "link": "https://timesofindia.indiatimes.com/india/4-indians-killed-1-critically-injured-after-cargo-ship-attacked-off-ukraines-odesa-coast/articleshow/132518981.cms",
+          "date": "20 Jul 2026",
+          "summary": ""
+        },
+        {
+          "title": "AIIMS RDA seeks President’s intervention over Jantar Mantar crackdown, Wangchuk hospitalisation",
+          "link": "https://timesofindia.indiatimes.com/india/aiims-rda-seeks-presidents-intervention-over-jantar-mantar-crackdown-wangchuk-hospitalisation/articleshow/132523738.cms",
+          "date": "21 Jul 2026",
+          "summary": ""
+        },
+        {
+          "title": "Warren Buffett credits luck for his $147 bn net worth: 'I may be one of the 10 luckiest'",
+          "link": "https://timesofindia.indiatimes.com/etimes/work-career/warren-buffett-credits-luck-for-his-147-billion-net-worth-if-my-father-had-been-a-plumber-i-would-not-have/articleshow/132523406.cms",
+          "date": "21 Jul 2026",
+          "summary": "Legendary investor Warren Buffett has spent nearly nine decades building one of the world's greatest investing empires. Yet the billionaire insists that his extraordinary success is due as much to luck as it is to talent or hard work. The billionaire investor,…"
+        },
+        {
+          "title": "Multi-crore snakebite scam: Doc, lawyers among 17 arrested in Chhattisgarh",
+          "link": "https://timesofindia.indiatimes.com/city/raipur/multi-crore-snakebite-scam-doc-lawyers-among-17-arrested-in-chhattisgarh/articleshow/132518966.cms",
+          "date": "20 Jul 2026",
+          "summary": "Autopsy Reports Fudged; Suicides, Heart Attacks Passed Off As Snakebite Deaths"
+        },
+        {
+          "title": "'Thank you, India!': Argentina envoy thanks Indian fans after World Cup heartbreak",
+          "link": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/thank-you-india-argentina-envoy-thanks-indian-fans-after-world-cup-heartbreak/articleshow/132516732.cms",
+          "date": "20 Jul 2026",
+          "summary": "Argentina's Ambassador expressed gratitude to Indian football fans for their support. The Albiceleste reached the FIFA World Cup final but lost to Spain. Ferran Torres scored the decisive goal in extra time for Spain. Emiliano Martinez made several crucial sav…"
+        },
+        {
+          "title": "'Power does not last forever': Rahul's warning to cops after lathicharge on protesters",
+          "link": "https://timesofindia.indiatimes.com/india/power-does-not-last-forever-rahul-gandhis-warning-to-police-after-tear-gas-lathi-charge-on-student-protesters/articleshow/132518959.cms",
+          "date": "20 Jul 2026",
+          "summary": ""
+        },
+        {
+          "title": "US judge suspends Paramount's acquisition of Warner Bros.",
+          "link": "https://timesofindia.indiatimes.com/world/us/us-judge-halts-paramount-warner-bros-merger-for-14-days-amid-antitrust-challenge-by-12-states/articleshow/132523387.cms",
+          "date": "21 Jul 2026",
+          "summary": ""
+        },
+        {
+          "title": "Pentagon withheld data on troop injuries in Iran war, says report; Trump admin reacts",
+          "link": "https://timesofindia.indiatimes.com/world/us/cherry-picking-numbers-trump-admin-slams-report-claiming-pentagon-withheld-data-on-troop-injuries-in-iran-war/articleshow/132519356.cms",
+          "date": "20 Jul 2026",
+          "summary": ""
+        },
+        {
+          "title": "Horoscope Today: Daily astrological predictions for July 21, 2026",
+          "link": "https://timesofindia.indiatimes.com/astrology/horoscope/horoscope-today-daily-astrological-predictions-for-july-21-2026/articleshow/132520167.cms",
+          "date": "21 Jul 2026",
+          "summary": "Horoscope Today: Read daily horoscope predictions for July 21, 2026. Know all about the astrological events and influences that will be affecting each of the 12 zodiac signs. Our astrologer has analyzed the movements of the planets and the alignment of the sta…"
+        },
+        {
           "title": "Former England captain and two-time Ballon d'Or winner Kevin Keegan dies at 75",
           "link": "https://timesofindia.indiatimes.com/sports/football/news/former-england-captain-and-two-time-ballon-dor-winner-kevin-keegan-dies-at-75/articleshow/132520113.cms",
           "date": "20 Jul 2026",
           "summary": "English football icon Kevin Keegan has passed away at seventy-five years old. He was a two-time Ballon d'Or winner and a Liverpool European Cup champion. Keegan also enjoyed a successful managerial career with Newcastle United and England. His influence extend…"
-        },
-        {
-          "title": "Maple Leafs linked to James van Riemsdyk reunion after 31-point red wings season",
-          "link": "https://timesofindia.indiatimes.com/sports/nhl/news/nhl-free-agency-rumor-toronto-maple-leafs-linked-with-veteran-forward-james-van-riemsdyk-after-31-point-detroit-red-wings-season/articleshow/132516051.cms",
-          "date": "20 Jul 2026",
-          "summary": "The Toronto Maple Leafs have posted a social media update featuring former forward James van Riemsdyk, and it has sparked fresh NHL free agency speculation. There has been no signing confirmed, but the timing has led to talk of a possible reunion. Van Riemsdyk…"
-        },
-        {
-          "title": "E20 petrol debate: Govt says 'no verified evidence' of widespread engine failure",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/e20-petrol-debate-govt-cites-data-for-23-crore-vehicles-says-no-verified-evidence-of-widespread-engine-failure/articleshow/132519467.cms",
-          "date": "20 Jul 2026",
-          "summary": "Minister of State for Petroleum and Natural Gas Suresh Gopi said the shift to E20 fuel has been \"phased, calibrated and evidence-based,\" noting that the ethanol blending rate was gradually raised from 1.53 per cent in 2013-14 to 20 per cent in 2025-26 followin…"
-        },
-        {
-          "title": "Friedrich Nietzsche’s quote on marriage: Why friendship matters more than love",
-          "link": "https://timesofindia.indiatimes.com/life-style/books/features/quote-of-the-day-by-friedrich-nietzsche-what-makes-unhappy-marriages-it-is-not-the-lack-of-love-but-the-absence-of-/articleshow/132520463.cms",
-          "date": "20 Jul 2026",
-          "summary": "Friedrich Nietzsche was a misunderstood and influential philosopher whose ideas challenged conventional morality. He proposed concepts like the \"Overman\" and \"God is dead\" which reshaped European thought. Nietzsche's writings explored human suffering and the \"…"
-        },
-        {
-          "title": "'Total disgrace': Argentina branded 'classless' as post-final conduct sparks outrage",
-          "link": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/total-disgrace-argentina-branded-classless-as-post-final-conduct-sparks-outrage/articleshow/132517657.cms",
-          "date": "20 Jul 2026",
-          "summary": "Argentina faced criticism for their behavior after losing the World Cup final. Players did not remain on the podium during Spain's trophy presentation. This action drew condemnation from many football community members. Earlier, a confrontation occurred betwee…"
-        },
-        {
-          "title": "How electrical hazards are killing children, workers and families",
-          "link": "https://timesofindia.indiatimes.com/city/noida/how-electrical-hazards-are-killing-children-workers-and-families/articleshow/132511236.cms",
-          "date": "20 Jul 2026",
-          "summary": "Recent tragedies highlight electrical safety failures in public spaces and institutions. A teenager died at a fair while a child perished in a Delhi park. An engineer's death in Noida prompts criminal proceedings against the electricity department. Ghaziabad s…"
-        },
-        {
-          "title": "CJP march: Police say detained protesters 'not students'; more arrests likely",
-          "link": "https://timesofindia.indiatimes.com/india/cjp-march-police-say-detained-protesters-not-students-more-arrests-likely/articleshow/132518974.cms",
-          "date": "20 Jul 2026",
-          "summary": ""
-        },
-        {
-          "title": "India's forex boost: RBI's swap scheme raises $20.72 billion so far",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/indias-forex-boost-rbis-swap-scheme-raises-20-72-billion-so-far/articleshow/132519426.cms",
-          "date": "20 Jul 2026",
-          "summary": "The Reserve Bank of India's special swap facility attracted $20.72 billion by July 17. Most of this money arrived through Foreign Currency Non-Resident deposits. Overseas Foreign Currency Borrowings and External Commercial Borrowings also contributed to inflow…"
-        },
-        {
-          "title": "After beating Argentina, Spain return to Madrid with FIFA World Cup 2026 trophy",
-          "link": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/spain-return-to-madrid-with-fifa-world-cup-trophy-announce-grand-fan-celebration-after-argentina-win/articleshow/132518326.cms",
-          "date": "20 Jul 2026",
-          "summary": "Spain's national football team returned home after winning the FIFA World Cup 2026. The team landed in Madrid and will celebrate with supporters on July 20. Spain secured their second World Cup title by defeating Argentina 1-0 in the final. Ferran Torres score…"
-        },
-        {
-          "title": "Trump scores own-goal as World Cup overflows with politics",
-          "link": "https://timesofindia.indiatimes.com/world/us/trump-scores-own-goal-as-world-cup-overflows-with-politics/articleshow/132518683.cms",
-          "date": "20 Jul 2026",
-          "summary": ""
-        },
-        {
-          "title": "Shabana Azmi falls ill during protests at Jantar Mantar, safely escorted to the security cabin",
-          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shabana-azmi-falls-ill-suffers-dizziness-during-protests-at-jantar-mantar-viral-video-shows-her-being-safely-escorted-to-the-security-cabin-watch/articleshow/132518721.cms",
-          "date": "20 Jul 2026",
-          "summary": "Veteran actor Shabana Azmi reportedly fell ill during a protest at Delhi's Jantar Mantar. She appeared visibly weak and was escorted to a security cabin for assistance. The actor had visited the protest site to express solidarity with the ongoing agitation. Sh…"
         }
       ]
     },
@@ -1152,6 +1152,12 @@
       "ok": true,
       "items": [
         {
+          "title": "Head of US Safety Agency Resigns",
+          "link": "https://news.slashdot.org/story/26/07/20/1948206/head-of-us-safety-agency-resigns?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "20 Jul 2026",
+          "summary": "Chris Fall has resigned as director of the U.S. Center for AI Standards and Innovation just three months after being appointed to lead the Commerce Department's federal AI testing institute. Arvind Raman, who oversees the Commerce office responsible for the in…"
+        },
+        {
           "title": "AliExpress Hit With Record $625 Million Fine After Failing To Make EU-Ordered Fixes",
           "link": "https://news.slashdot.org/story/26/07/20/1751219/aliexpress-hit-with-record-625-million-fine-after-failing-to-make-eu-ordered-fixes?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "20 Jul 2026",
@@ -1234,12 +1240,6 @@
           "link": "https://hardware.slashdot.org/story/26/07/19/1746241/robot-decapitated-in-worlds-first-ever-humanoid-ufc-fight?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "19 Jul 2026",
           "summary": "\"A humanoid robot lost its head,\" reports Newsweek, \"during the world's first free-combat tournament for full-sized humanoid robots.\" The Ultimate Robot Knock-out Legend competition began Thursday in Shenzhen, China, according to the article, with local roboti…"
-        },
-        {
-          "title": "Windows 10 Still Being Used, Often Unpatched and Insecure",
-          "link": "https://tech.slashdot.org/story/26/07/18/2130259/windows-10-still-being-used-often-unpatched-and-insecure?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "19 Jul 2026",
-          "summary": "Windows 10 still runs on 16.9% of the Windows devices monitored by asset-tracking service Lansweeper. That's more than one in six, The Register points out. A year ago, the operating system accounted for about half of the machines in its dataset, falling to the…"
         }
       ]
     },
@@ -1630,184 +1630,184 @@
       "ok": true,
       "items": [
         {
-          "title": "langchain-flopsindex added to PyPI",
-          "link": "https://pypi.org/project/langchain-flopsindex/",
+          "title": "spconv-triton added to PyPI",
+          "link": "https://pypi.org/project/spconv-triton/",
           "date": "20 Jul 2026",
-          "summary": "LangChain (and LlamaIndex) tools for the public FLOPS Index — verifiable GPU compute reference prices, no API key required"
+          "summary": "Hardware-agnostic Triton sparse convolution, a drop-in replacement for spconv on NVIDIA and AMD."
         },
         {
-          "title": "tigerzylinder-custom added to PyPI",
-          "link": "https://pypi.org/project/tigerzylinder-custom/",
+          "title": "Gzo added to PyPI",
+          "link": "https://pypi.org/project/gzo/",
           "date": "20 Jul 2026",
-          "summary": "Eine Privates Biblithek."
+          "summary": "Gzo Python Library"
         },
         {
-          "title": "bpmn2pnml-ltl-analyzer added to PyPI",
-          "link": "https://pypi.org/project/bpmn2pnml-ltl-analyzer/",
+          "title": "airlock-agent added to PyPI",
+          "link": "https://pypi.org/project/airlock-agent/",
           "date": "20 Jul 2026",
-          "summary": "Unified library: parse multi-format BPMN → convert to PNML (Petri Net) → LTL deadlock/livelock analysis with cross-representation consistency checking"
+          "summary": "Stop watching your agent. A local-first safety envelope that lets you run coding agents unattended."
         },
         {
-          "title": "subsegmenter added to PyPI",
-          "link": "https://pypi.org/project/subsegmenter/",
+          "title": "trustgraph-docling added to PyPI",
+          "link": "https://pypi.org/project/trustgraph-docling/",
           "date": "20 Jul 2026",
-          "summary": "A lightweight semantic sub-sentence segmenter using rule-optimized spaCy dependency trees."
+          "summary": "TrustGraph document decoder powered by Docling — lightweight alternative to the unstructured-based decoder."
         },
         {
-          "title": "zenodotus added to PyPI",
-          "link": "https://pypi.org/project/zenodotus/",
+          "title": "ready-for-datasette added to PyPI",
+          "link": "https://pypi.org/project/ready-for-datasette/",
           "date": "20 Jul 2026",
-          "summary": "OSS release-readiness gate: deterministic pre-gates + a no-context reviewer panel"
+          "summary": "Check whether a repository is ready to ship as a Datasette plugin"
         },
         {
-          "title": "run-guide added to PyPI",
-          "link": "https://pypi.org/project/run-guide/",
+          "title": "earthlens-imagery added to PyPI",
+          "link": "https://pypi.org/project/earthlens-imagery/",
           "date": "20 Jul 2026",
-          "summary": "Reserved name placeholder. No functionality."
+          "summary": "satellite platform, SAR and EO catalog backends for earthlens"
         },
         {
-          "title": "raven-es added to PyPI",
-          "link": "https://pypi.org/project/raven-es/",
+          "title": "actionrail-console added to PyPI",
+          "link": "https://pypi.org/project/actionrail-console/",
           "date": "20 Jul 2026",
-          "summary": "Reconnaissance & Attack on Vulnerable Elasticsearch Nodes"
+          "summary": "Local control plane and Console for ActionRail"
         },
         {
-          "title": "CaptchaConda added to PyPI",
-          "link": "https://pypi.org/project/captchaconda/",
+          "title": "trongridmy added to PyPI",
+          "link": "https://pypi.org/project/trongridmy/",
           "date": "20 Jul 2026",
-          "summary": "Classical image-processing digit-CAPTCHA solver (no ML, no GPU needed). C++ backend + Python shell."
+          "summary": "trongridmy library for Python"
         },
         {
-          "title": "etlantic-datafusion added to PyPI",
-          "link": "https://pypi.org/project/etlantic-datafusion/",
+          "title": "varar-runner added to PyPI",
+          "link": "https://pypi.org/project/varar-runner/",
           "date": "20 Jul 2026",
-          "summary": "Experimental DataFusion dataframe + portable transform plugin for ETLantic."
+          "summary": "Shared spec discovery + run orchestration for varar runners"
         },
         {
-          "title": "melon-api-client added to PyPI",
-          "link": "https://pypi.org/project/melon-api-client/",
+          "title": "pytest-varar added to PyPI",
+          "link": "https://pypi.org/project/pytest-varar/",
           "date": "20 Jul 2026",
-          "summary": "An unofficial API SDK for melon app"
+          "summary": "pytest plugin for Markdown-native BDD"
         },
         {
-          "title": "hindsight-zcode added to PyPI",
-          "link": "https://pypi.org/project/hindsight-zcode/",
+          "title": "varar-core added to PyPI",
+          "link": "https://pypi.org/project/varar-core/",
           "date": "20 Jul 2026",
-          "summary": "ZCode (Z.ai GLM) integration for Hindsight - persistent long-term memory via ZCode hooks"
+          "summary": "Markdown-native BDD — pure functional core engine"
         },
         {
-          "title": "nonebot-plugin-attack added to PyPI",
-          "link": "https://pypi.org/project/nonebot-plugin-attack/",
+          "title": "varar-config added to PyPI",
+          "link": "https://pypi.org/project/varar-config/",
           "date": "20 Jul 2026",
-          "summary": "持续为消息添加和移除 reaction 的 NoneBot2 娱乐插件"
+          "summary": "Reads varar.config.json — the shared config file for all var tools"
         },
         {
-          "title": "soccernetpy added to PyPI",
-          "link": "https://pypi.org/project/soccernetpy/",
+          "title": "earthlens-ocean added to PyPI",
+          "link": "https://pypi.org/project/earthlens-ocean/",
           "date": "20 Jul 2026",
-          "summary": "Python bindings for SOCcerNET occupation coding and CLIPS industry coding"
+          "summary": "ocean, freshwater and marine-life backends for earthlens"
         },
         {
-          "title": "etlantic-sparkforge added to PyPI",
-          "link": "https://pypi.org/project/etlantic-sparkforge/",
+          "title": "werkstoff added to PyPI",
+          "link": "https://pypi.org/project/werkstoff/",
           "date": "20 Jul 2026",
-          "summary": "SparkForge-to-ETLantic migration adapter (medallion facade mapping)."
+          "summary": "Install and manage this repo's Claude Code plugins by driving the claude CLI."
         },
         {
-          "title": "pyecharts-express added to PyPI",
-          "link": "https://pypi.org/project/pyecharts-express/",
+          "title": "cobalt-cli added to PyPI",
+          "link": "https://pypi.org/project/cobalt-cli/",
           "date": "20 Jul 2026",
-          "summary": "A plotly-express style API for pyecharts — build ECharts with concise, dataframe-friendly calls."
+          "summary": "A modern AI terminal powered by Groq."
         },
         {
-          "title": "myhamilton311 added to PyPI",
-          "link": "https://pypi.org/project/myhamilton311/",
+          "title": "cage-lite added to PyPI",
+          "link": "https://pypi.org/project/cage-lite/",
           "date": "20 Jul 2026",
-          "summary": "Python client library for the MyHamilton 311 / SeeClickFix API"
+          "summary": "CAGE-lite: lightweight prebind assurance framework for agentic actions"
         },
         {
-          "title": "pyNetSchoolApi added to PyPI",
-          "link": "https://pypi.org/project/pynetschoolapi/",
+          "title": "litedoc-cli added to PyPI",
+          "link": "https://pypi.org/project/litedoc-cli/",
           "date": "20 Jul 2026",
-          "summary": "None"
+          "summary": "LiteDoc in your terminal: deterministic PDF → Markdown with an optional bring-your-own-AI repair pass. Same engine as litedoc.xyz."
         },
         {
-          "title": "deeprisk added to PyPI",
-          "link": "https://pypi.org/project/deeprisk/",
+          "title": "earthlens-atmosphere added to PyPI",
+          "link": "https://pypi.org/project/earthlens-atmosphere/",
           "date": "20 Jul 2026",
-          "summary": "H^k risk stratification framework for financial networks"
+          "summary": "weather, climate, air quality and solar/wind resource backends for earthlens"
         },
         {
-          "title": "ionoscloud-dbaas-inmemorydb added to PyPI",
-          "link": "https://pypi.org/project/ionoscloud-dbaas-inmemorydb/",
+          "title": "actionrail added to PyPI",
+          "link": "https://pypi.org/project/actionrail/",
           "date": "20 Jul 2026",
-          "summary": "IONOS CLOUD DBaaS In-Memory DB"
+          "summary": "Action control for AI agents — verify what an agent is about to do before it does it."
         },
         {
-          "title": "etlantic-prefect added to PyPI",
-          "link": "https://pypi.org/project/etlantic-prefect/",
+          "title": "earthlens-core added to PyPI",
+          "link": "https://pypi.org/project/earthlens-core/",
           "date": "20 Jul 2026",
-          "summary": "Prefect ExecutionScheduler plugin for ETLantic."
+          "summary": "Core abstractions, facade and CLI for earthlens — no provider SDKs"
         },
         {
-          "title": "mtnmomo-py added to PyPI",
-          "link": "https://pypi.org/project/mtnmomo-py/",
+          "title": "tokenflow-cli added to PyPI",
+          "link": "https://pypi.org/project/tokenflow-cli/",
           "date": "20 Jul 2026",
-          "summary": "Typed synchronous client for the MTN MoMo APIs"
+          "summary": "A full-screen terminal runner for controlled concurrent LLM API workloads"
         },
         {
-          "title": "ml-core-airflow-auth added to PyPI",
-          "link": "https://pypi.org/project/ml-core-airflow-auth/",
+          "title": "ragotron added to PyPI",
+          "link": "https://pypi.org/project/ragotron/",
           "date": "20 Jul 2026",
-          "summary": "auth token handler"
+          "summary": "Automated search over RAG-pipeline configurations with reusable trial artifacts for training and inference"
         },
         {
-          "title": "ovito-mcp added to PyPI",
-          "link": "https://pypi.org/project/ovito-mcp/",
+          "title": "bocoflow-core-sdk added to PyPI",
+          "link": "https://pypi.org/project/bocoflow-core-sdk/",
           "date": "20 Jul 2026",
-          "summary": "MCP server for interactive work in OVITO Pro"
+          "summary": "BoCoFlow node-authoring SDK: the bocoflow_core node API (Node, parameters, stream_log) for building and locally testing Salpa nodes. Source-protected subset; the workflow engine is provided by the Salpa app at runtime."
         },
         {
-          "title": "sirako-sdk added to PyPI",
-          "link": "https://pypi.org/project/sirako-sdk/",
+          "title": "salpa-cli added to PyPI",
+          "link": "https://pypi.org/project/salpa-cli/",
           "date": "20 Jul 2026",
-          "summary": "Sirako Merchant SDK API"
+          "summary": "Salpa node authoring CLI — scaffold node packages that match the shipped template contract."
         },
         {
-          "title": "aivisible-fix added to PyPI",
-          "link": "https://pypi.org/project/aivisible-fix/",
+          "title": "superglm added to PyPI",
+          "link": "https://pypi.org/project/superglm/",
           "date": "20 Jul 2026",
-          "summary": "Audit and auto-fix a website's visibility to AI crawlers and answer engines (GPTBot, ClaudeBot, PerplexityBot, and more)."
+          "summary": "Penalised GLMs for insurance pricing: group lasso, P-splines, Tweedie"
         },
         {
-          "title": "authkeys added to PyPI",
-          "link": "https://pypi.org/project/authkeys/",
+          "title": "pylumin added to PyPI",
+          "link": "https://pypi.org/project/pylumin/",
           "date": "20 Jul 2026",
-          "summary": "Pluggable AuthorizedKeysCommand provider for OpenSSH (file/HTTP/LDAP sources, TTL cache, optional key server)"
+          "summary": "pylumin"
         },
         {
-          "title": "citygrid added to PyPI",
-          "link": "https://pypi.org/project/citygrid/",
+          "title": "iatro-iac-adapters added to PyPI",
+          "link": "https://pypi.org/project/iatro-iac-adapters/",
           "date": "20 Jul 2026",
-          "summary": "Zone classification, road generation, pathfinding, and urban analytics for a grid of buildings"
+          "summary": "Reusable domain adapters for IatroCache packs"
         },
         {
-          "title": "abqpy2026 added to PyPI",
-          "link": "https://pypi.org/project/abqpy2026/",
+          "title": "pyrevproxy added to PyPI",
+          "link": "https://pypi.org/project/pyrevproxy/",
           "date": "20 Jul 2026",
-          "summary": "Type hints for Abaqus/Python scripting"
+          "summary": "Asynchronous TCP Reverse Proxy"
         },
         {
-          "title": "grinta added to PyPI",
-          "link": "https://pypi.org/project/grinta/",
+          "title": "deferguard added to PyPI",
+          "link": "https://pypi.org/project/deferguard/",
           "date": "20 Jul 2026",
-          "summary": "Local-first autonomous coding agent with provider-agnostic inference, LSP, debugging, durable sessions, and a terminal UI"
+          "summary": "Turn any confidence signal into a calibrated act-vs-escalate decision with a distribution-free statistical guarantee."
         },
         {
-          "title": "douanecode-mcp added to PyPI",
-          "link": "https://pypi.org/project/douanecode-mcp/",
+          "title": "ifrs16kit added to PyPI",
+          "link": "https://pypi.org/project/ifrs16kit/",
           "date": "20 Jul 2026",
-          "summary": "MCP server exposing DouaneCode customs code search (HS/NC8/TARIC) to AI agents"
+          "summary": "Interactive IFRS 16 auditor re-performance tool producing liquid Excel workbooks"
         }
       ]
     }
