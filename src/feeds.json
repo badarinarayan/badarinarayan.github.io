@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-21T20:14:53Z",
+  "generated": "2026-07-21T21:56:53Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,12 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "US stocks today: US stocks end higher as semiconductors surge amid Mideast war intensifies",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-higher-on-chip-stocks-recovery-earnings-draw-focus/articleshow/132546607.cms",
+          "date": "22 Jul 2026",
+          "summary": "Wall Street closed higher as semiconductor stocks rebounded sharply, lifting major indexes despite tariff tensions and Middle East risks. Investors are positioning ahead of key tech earnings, betting on AI-driven growth. Gains in 3M and Hasbro contrasted with…"
+        },
         {
           "title": "Bigger crash ahead? JPMorgan CEO Dimon says he won't buy stocks at current prices, says markets underestimating risks",
           "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/bigger-crash-ahead-jpmorgan-ceo-dimon-says-he-wont-buy-stocks-at-current-prices-says-markets-underestimating-risks/articleshow/132531782.cms",
@@ -36,12 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-asks-depositories-to-put-in-place-operational-framework-to-implement-buyback-rules-from-aug-1/articleshow/132538495.cms",
           "date": "21 Jul 2026",
           "summary": "Market regulator Sebi has required tht depositories must implement a new promoter holding freeze mechanism by August 1. This framework will cover ISIN-level freezing and operational guidelines for companies."
-        },
-        {
-          "title": "Bandhan Bank Q1 profit jumps 35% as provisions decline sharply",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bandhan-bank-q1-profit-jumps-35-as-provisions-decline-sharply/articleshow/132536317.cms",
-          "date": "21 Jul 2026",
-          "summary": "Bandhan Bank reported a 35% rise in Q1 net profit to Rs 502 crore, driven by lower provisions despite weaker operating profit. Gross NPAs improved, advances grew 16%, while higher staff and technology costs, along with lower treasury income, weighed on earning…"
         },
         {
           "title": "India-UK CETA takes effect: First zero-duty Indian coffee, jewellery consignments reach UK shores",
@@ -196,16 +196,22 @@
       "ok": true,
       "items": [
         {
+          "title": "New US visa rule gives OPT students temporary extension filing exemption",
+          "link": "https://timesofindia.indiatimes.com/nri/us-canada-news/new-us-visa-rule-gives-opt-students-temporary-extension-filing-exemption/articleshow/132534269.cms",
+          "date": "21 Jul 2026",
+          "summary": ""
+        },
+        {
+          "title": "Sikkim tunnel collapse: 20 bodies recovered from site, 11 from north Bengal",
+          "link": "https://timesofindia.indiatimes.com/city/kolkata/20-bodies-recovered-from-sikkim-tunnel-collapse-site-11-from-n-bengal/articleshow/132546600.cms",
+          "date": "22 Jul 2026",
+          "summary": ""
+        },
+        {
           "title": "Health minister JP Nadda, MoS Jitendra Singh meet Sonam Wangchuk at Medanta Hospital",
           "link": "https://timesofindia.indiatimes.com/india/health-minister-jp-nadda-mos-jitendra-singh-meet-sonam-wangchuk-at-medanta-hospital-report/articleshow/132545818.cms",
           "date": "22 Jul 2026",
           "summary": "Union ministers made a notable visit to activist Sonam Wangchuk, currently hospitalized at Medanta in Gurugram. This follows the Delhi High Court's ruling, which facilitated his urgent transfer from Safdarjung Hospital after his wife's appeal contested a previ…"
-        },
-        {
-          "title": "'Govt had no interest in debate': Rahul on why Cong protested outside PM's residence",
-          "link": "https://timesofindia.indiatimes.com/india/government-had-no-interest-in-debate-rahul-gandhi-on-why-congress-protest-outside-pms-residence/articleshow/132545044.cms",
-          "date": "22 Jul 2026",
-          "summary": "Rahul Gandhi addressed students and the Prime Minister concerning the NEET paper leak. He demanded a proper discussion in Lok Sabha about the examination system. The Congress party protested outside the Prime Minister's residence over the issue. Gandhi questio…"
         },
         {
           "title": "Were Argentina under more pressure than usual? Messi's pep talks fuel theories – Watch",
@@ -214,10 +220,10 @@
           "summary": "Fresh footage shows Lionel Messi urging Argentina to forget everything before the World Cup final. The team delivered a subdued performance and ultimately lost the match to Spain. Messi's repeated message has fueled speculation among fans and observers. Coach…"
         },
         {
-          "title": "Centre uses 40% of annual fertiliser subsidy in first 3.5 months",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/centre-uses-40-of-annual-fertiliser-subsidy-in-first-3-5-months/articleshow/132546484.cms",
+          "title": "'Govt had no interest in debate': Rahul on why Cong protested outside PM's residence",
+          "link": "https://timesofindia.indiatimes.com/india/government-had-no-interest-in-debate-rahul-gandhi-on-why-congress-protest-outside-pms-residence/articleshow/132545044.cms",
           "date": "22 Jul 2026",
-          "summary": ""
+          "summary": "Rahul Gandhi addressed students and the Prime Minister concerning the NEET paper leak. He demanded a proper discussion in Lok Sabha about the examination system. The Congress party protested outside the Prime Minister's residence over the issue. Gandhi questio…"
         },
         {
           "title": "Europe’s biggest tech firm is offering employees $20K-plus bonus if they stay until 2030",
@@ -226,22 +232,16 @@
           "summary": "ASML is reportedly offering employees a significant retention bonus. Eligible employees worldwide will receive a conditional share award valued at twenty thousand euros. This award will be granted on January 1, 2027, and will vest on January 1, 2030. The compa…"
         },
         {
-          "title": "'We owe students more than outrage': Education minister Pradhan slams Cong protest",
-          "link": "https://timesofindia.indiatimes.com/india/we-owe-students-more-than-outrage-pradhan-slams-congress-protest-outside-pm-house/articleshow/132543988.cms",
-          "date": "21 Jul 2026",
-          "summary": "Union education minister Dharmendra Pradhan accused Rahul Gandhi and Congress of exploiting students politically. He stated they staged a protest outside the Prime Minister's residence, causing public inconvenience. The minister added that Congress chose spect…"
+          "title": "Assam flood toll rises: 21 killed in a day; over 5.6 lakh affected across 16 districts",
+          "link": "https://timesofindia.indiatimes.com/india/assam-flood-toll-rises-21-killed-in-a-day-over-5-6-lakh-affected-across-16-districts/articleshow/132546628.cms",
+          "date": "22 Jul 2026",
+          "summary": ""
         },
         {
-          "title": "The sudden dharna: How Congress surprised its own MPs, govt with protest outside PM's residence",
-          "link": "https://timesofindia.indiatimes.com/india/the-sudden-dharna-how-congress-surprised-its-own-mps-govt-with-protest-outside-pms-residence/articleshow/132541825.cms",
-          "date": "21 Jul 2026",
-          "summary": "Congress leaders staged a protest at Prime Minister Narendra Modi's residence. They demanded the resignation of the Prime Minister and education minister. Many party leaders were unaware of the protest plan beforehand. Police forcibly removed Rahul Gandhi and…"
-        },
-        {
-          "title": "'If someone dies .... ': Police probes alleged chats ahead of CJP's 'Sansad Chalo' march",
-          "link": "https://timesofindia.indiatimes.com/india/if-someone-dies-delhi-police-probes-alleged-chats-ahead-of-cjps-sansad-chalo-march/articleshow/132533757.cms",
-          "date": "21 Jul 2026",
-          "summary": "Delhi Police are examining alleged chat messages from the Cockroach Janta Party's protest march. These conversations reportedly discussed maintaining communication during potential internet shutdowns. Some messages also referred to participants being prepared…"
+          "title": "Pilgrimages to shrines in J&amp;K stay suspended for 3rd day amid hostile weather",
+          "link": "https://timesofindia.indiatimes.com/india/pilgrimages-to-shrines-in-jk-stay-suspended-for-3rd-day-amid-hostile-weather/articleshow/132546665.cms",
+          "date": "22 Jul 2026",
+          "summary": ""
         },
         {
           "title": "Jeff Bezos on returning to work after retirement: I just couldn’t sit on sidelines",
@@ -250,22 +250,22 @@
           "summary": "Jeff Bezos has returned to an operational role to launch his new AI startup, Prometheus. He describes this demanding work as rewarding, which he calls \"Type 2 fun.\" Bezos believes artificial intelligence will create a labor shortage, not job losses. His new ve…"
         },
         {
-          "title": "Horoscope today: Daily astrological predictions for July 22",
-          "link": "https://timesofindia.indiatimes.com/astrology/horoscope/horoscope-today-daily-astrological-predictions-for-july-22-2026/articleshow/132538675.cms",
+          "title": "CJP's 'Sansad Chalo': 2 protestors injured; 21-year-old on ventilator, another had pellet in eye",
+          "link": "https://timesofindia.indiatimes.com/india/cjps-sansad-chalo-2-protestors-injured-21-year-old-on-ventilator-another-had-pellet-in-eye/articleshow/132546740.cms",
           "date": "22 Jul 2026",
-          "summary": "Horoscope Today: Read daily horoscope predictions for July 22, 2026. Know all about the astrological events and influences that will be affecting each of the 12 zodiac signs. Our astrologer has analyzed the movements of the planets and the alignment of the sta…"
+          "summary": ""
         },
         {
-          "title": "Florida returned 500,000 oyster shells to Gulf, creating new reef habitat",
-          "link": "https://timesofindia.indiatimes.com/world/us/florida-returned-half-a-million-oyster-shells-to-the-gulf-of-mexico-the-discarded-shells-became-new-reef-habitat-for-marine-life/articleshow/132512434.cms",
-          "date": "20 Jul 2026",
-          "summary": "Florida restored parts of the Gulf of Mexico by returning more than 500,000 tonnes of recycled oyster and clam shells to the sea between 2007 and 2024. The shells helped rebuild oyster reefs, improve water quality and support the return of fish, turtles and do…"
+          "title": "Bill Koch’s Aspen estate once asked $125m, now poised to sell for $33.5m",
+          "link": "https://timesofindia.indiatimes.com/real-estate/news/billionaire-bill-kochs-52-acre-aspen-estate-once-asked-125-million-but-after-price-cuts-and-an-auction-it-is-poised-to-sell-for-33-515-million/articleshow/132532389.cms",
+          "date": "21 Jul 2026",
+          "summary": "Billionaire Bill Koch's expansive Aspen estate has sold for $33.515 million after a luxury auction. The property, initially listed at $125 million, struggled to find a buyer for two years. After several price reductions, the 52-acre Elk Mountain Lodge went to…"
         },
         {
-          "title": "Big Bear’s famous eagle chicks need $10m for habitat rescue by July 31",
-          "link": "https://timesofindia.indiatimes.com/science/big-bears-famous-bald-eagle-chicks-have-captivated-livestream-viewers-but-conservationists-are-racing-to-raise-10m-by-july-31-to-protect-their-habitat-from-development/articleshow/132507348.cms",
+          "title": "Aquarium fish escapes into crater lake, scientists fear biodiversity risk",
+          "link": "https://timesofindia.indiatimes.com/science/a-human-bred-aquarium-fish-prized-for-its-bright-colour-and-head-hump-has-escaped-into-a-philippines-crater-lake-where-scientists-fear-it-may-threaten-native-biodiversity/articleshow/132516374.cms",
           "date": "20 Jul 2026",
-          "summary": "Thousands of people around the world are watching bald eagles Jackie and Shadow raise their two eaglets through a live nest camera in California's Big Bear Valley. As the chicks continue to grow, conservationists are also racing to raise $10 million to protect…"
+          "summary": "Flowerhorn cichlids, bred by humans, have found their way into Lake Sampaloc, a crater lake in the Philippines. Their presence poses a significant threat to the local ecosystem, competing aggressively with native ayungin fish and disrupting aquaculture. Expert…"
         },
         {
           "title": "Scientists hear bird sounds coming from panels of floating Solar Farm in Netherlands",
@@ -274,22 +274,16 @@
           "summary": "Floating solar farms in the Netherlands may be supporting local wildlife. Researchers observed bird sounds suggesting possible nesting under the solar panels. Underwater shelters installed beneath the panels attracted hundreds of fish and thousands of aquatic…"
         },
         {
-          "title": "Cale Makar's wife Tracy Evans: Inside their love story and marriage",
-          "link": "https://timesofindia.indiatimes.com/sports/nhl/news/who-is-colorado-avalanche-star-cale-makar-wife-tracy-evans-everything-known-about-their-relationship-and-marriage/articleshow/132537855.cms",
+          "title": "Rahul dragged, Priyanka clings to bus door: 5 pics that defined Congress protest",
+          "link": "https://timesofindia.indiatimes.com/india/rahul-dragged-priyanka-clings-to-bus-door-five-pictures-that-defined-congress-protest-outside-pm-modis-residence/articleshow/132541948.cms",
+          "date": "21 Jul 2026",
+          "summary": ""
+        },
+        {
+          "title": "Ravens, Commanders eye $90m former WR in NFL free agency",
+          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/nfl-free-agency-rumor-baltimore-ravens-and-washington-commanders-expected-to-pursue-90m-former-wide-receiver/articleshow/132546627.cms",
           "date": "22 Jul 2026",
-          "summary": "Cale Makar and wife Tracy Evans have one of hockey's most enduring love stories, dating back to their middle school years in Calgary. Makar is still the king of the NHL; Evans has had a successful teaching career, out of the limelight. Here’s what we know abou…"
-        },
-        {
-          "title": "Training gear, ceremony kits missing: Indian boxers hit by luggage chaos at CWG 2026",
-          "link": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/training-gear-opening-ceremony-kits-missing-indian-boxers-hit-by-luggage-chaos-ahead-of-cwg-2026/articleshow/132542629.cms",
-          "date": "21 Jul 2026",
-          "summary": "India's boxing contingent faces luggage delays before the 2026 Commonwealth Games. Several boxers and coaches arrived in Glasgow without essential training equipment and attire. This marks the second baggage issue encountered during their recent travel. Despit…"
-        },
-        {
-          "title": "Kaylee Hottle, deaf Godzilla vs. Kong star, dies at 18 in tragic car crash",
-          "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kaylee-hottle-deaf-actor-who-played-jia-in-godzilla-vs-kong-and-godzilla-x-kong-dies-at-18-in-car-crash-her-father-confirms-heartbreaking-news/articleshow/132543006.cms",
-          "date": "21 Jul 2026",
-          "summary": "Kaylee Hottle, the deaf actor best known for playing Jia in Godzilla vs Kong and Godzilla x Kong: The New Empire, has died. She was 18. Hottle died following a car accident in Frederick, Maryland, on Tuesday, July 21. Her father, Joshua Hottle, announced the n…"
+          "summary": "Stefon Digs, the 32 year old wide receiver, has performed well on the field in the last season but he was released by the New England Patriots. The Baltimore Ravens and the Washington Commanders might be eyeing himnow."
         },
         {
           "title": "WWE RAW: Solo Sikoa offers Seth Rollins alliance as Bloodline dominates",
@@ -310,70 +304,76 @@
           "summary": "Trade speculation about Detroit Red Wings captain Dylan Larkin remains. But recent developments suggest a deal may not be imminent. Negotiations have been complicated by changes in the leadership of the organization and reported trade demands, but insiders thi…"
         },
         {
+          "title": "Omar Abdullah ‘flees’ Jantar Mantar in auto, says CJP supporters followed him",
+          "link": "https://timesofindia.indiatimes.com/india/omar-abdullah-flees-jantar-mantar-in-auto-says-cjp-supporters-followed-him/articleshow/132546683.cms",
+          "date": "22 Jul 2026",
+          "summary": ""
+        },
+        {
+          "title": "Pakistan intruder detained along international border in J&amp;K’s Akhnoor",
+          "link": "https://timesofindia.indiatimes.com/india/pakistan-intruder-detained-along-international-border-in-jks-akhnoor/articleshow/132546633.cms",
+          "date": "22 Jul 2026",
+          "summary": ""
+        },
+        {
+          "title": "Centre uses 40% of annual fertiliser subsidy in first 3.5 months",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/centre-uses-40-of-annual-fertiliser-subsidy-in-first-3-5-months/articleshow/132546484.cms",
+          "date": "22 Jul 2026",
+          "summary": ""
+        },
+        {
+          "title": "'We owe students more than outrage': Education minister Pradhan slams Cong protest",
+          "link": "https://timesofindia.indiatimes.com/india/we-owe-students-more-than-outrage-pradhan-slams-congress-protest-outside-pm-house/articleshow/132543988.cms",
+          "date": "21 Jul 2026",
+          "summary": "Union education minister Dharmendra Pradhan accused Rahul Gandhi and Congress of exploiting students politically. He stated they staged a protest outside the Prime Minister's residence, causing public inconvenience. The minister added that Congress chose spect…"
+        },
+        {
+          "title": "The sudden dharna: How Congress surprised its own MPs, govt with protest outside PM's residence",
+          "link": "https://timesofindia.indiatimes.com/india/the-sudden-dharna-how-congress-surprised-its-own-mps-govt-with-protest-outside-pms-residence/articleshow/132541825.cms",
+          "date": "21 Jul 2026",
+          "summary": "Congress leaders staged a protest at Prime Minister Narendra Modi's residence. They demanded the resignation of the Prime Minister and education minister. Many party leaders were unaware of the protest plan beforehand. Police forcibly removed Rahul Gandhi and…"
+        },
+        {
+          "title": "'If someone dies .... ': Police probes alleged chats ahead of CJP's 'Sansad Chalo' march",
+          "link": "https://timesofindia.indiatimes.com/india/if-someone-dies-delhi-police-probes-alleged-chats-ahead-of-cjps-sansad-chalo-march/articleshow/132533757.cms",
+          "date": "21 Jul 2026",
+          "summary": "Delhi Police are examining alleged chat messages from the Cockroach Janta Party's protest march. These conversations reportedly discussed maintaining communication during potential internet shutdowns. Some messages also referred to participants being prepared…"
+        },
+        {
+          "title": "Horoscope today: Daily astrological predictions for July 22",
+          "link": "https://timesofindia.indiatimes.com/astrology/horoscope/horoscope-today-daily-astrological-predictions-for-july-22-2026/articleshow/132538675.cms",
+          "date": "22 Jul 2026",
+          "summary": "Horoscope Today: Read daily horoscope predictions for July 22, 2026. Know all about the astrological events and influences that will be affecting each of the 12 zodiac signs. Our astrologer has analyzed the movements of the planets and the alignment of the sta…"
+        },
+        {
+          "title": "John Dewey’s quote on learning: Why children learn best through meaningful experiences",
+          "link": "https://timesofindia.indiatimes.com/life-style/books/features/quote-of-the-day-by-john-dewey-from-the-standpoint-of-the-child-the-great-waste-in-the-school-comes-from-his-inability-/articleshow/132541985.cms",
+          "date": "21 Jul 2026",
+          "summary": "John Dewey championed active and meaningful education, connecting classroom learning to real life experiences. His philosophy transformed teaching methods, moving away from rote memorization towards hands-on engagement. Dewey's ideas remain relevant today, inf…"
+        },
+        {
+          "title": "Cale Makar's wife Tracy Evans: Inside their love story and marriage",
+          "link": "https://timesofindia.indiatimes.com/sports/nhl/news/who-is-colorado-avalanche-star-cale-makar-wife-tracy-evans-everything-known-about-their-relationship-and-marriage/articleshow/132537855.cms",
+          "date": "22 Jul 2026",
+          "summary": "Cale Makar and wife Tracy Evans have one of hockey's most enduring love stories, dating back to their middle school years in Calgary. Makar is still the king of the NHL; Evans has had a successful teaching career, out of the limelight. Here’s what we know abou…"
+        },
+        {
+          "title": "Training gear, ceremony kits missing: Indian boxers hit by luggage chaos at CWG 2026",
+          "link": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/training-gear-opening-ceremony-kits-missing-indian-boxers-hit-by-luggage-chaos-ahead-of-cwg-2026/articleshow/132542629.cms",
+          "date": "21 Jul 2026",
+          "summary": "India's boxing contingent faces luggage delays before the 2026 Commonwealth Games. Several boxers and coaches arrived in Glasgow without essential training equipment and attire. This marks the second baggage issue encountered during their recent travel. Despit…"
+        },
+        {
+          "title": "Kaylee Hottle, deaf Godzilla vs. Kong star, dies at 18 in tragic car crash",
+          "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kaylee-hottle-deaf-actor-who-played-jia-in-godzilla-vs-kong-and-godzilla-x-kong-dies-at-18-in-car-crash-her-father-confirms-heartbreaking-news/articleshow/132543006.cms",
+          "date": "21 Jul 2026",
+          "summary": "Kaylee Hottle, the deaf actor best known for playing Jia in Godzilla vs Kong and Godzilla x Kong: The New Empire, has died. She was 18. Hottle died following a car accident in Frederick, Maryland, on Tuesday, July 21. Her father, Joshua Hottle, announced the n…"
+        },
+        {
           "title": "Canada joins next-generation fighter jet programme led by UK, Italy and Japan",
           "link": "https://timesofindia.indiatimes.com/defence/international/canada-joins-next-generation-fighter-jet-programme-led-by-uk-italy-and-japan/articleshow/132542718.cms",
           "date": "21 Jul 2026",
           "summary": "Canada has joined the Global Combat Air Programme as an observer nation. This move allows privileged access to the UK, Italy, and Japan-led initiative. The program aims to develop a sixth-generation stealth fighter jet by 2035. Canada's participation diversifi…"
-        },
-        {
-          "title": "Watch: Lionel Messi returns home to Rosario; fans wait hours for a glimpse",
-          "link": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/watch-lionel-messi-returns-home-to-rosario-after-world-cup-heartbreak-fans-wait-hours-for-a-glimpse/articleshow/132541426.cms",
-          "date": "21 Jul 2026",
-          "summary": "Lionel Messi returned to his hometown of Rosario for rest after Argentina's World Cup final defeat. Hundreds of supporters gathered early hoping to see their captain, but he did not make a public appearance. Messi's SUV was glimpsed as it departed the airport…"
-        },
-        {
-          "title": "New US visa rule gives OPT students temporary extension filing exemption",
-          "link": "https://timesofindia.indiatimes.com/nri/us-canada-news/new-us-visa-rule-gives-opt-students-temporary-extension-filing-exemption/articleshow/132534269.cms",
-          "date": "21 Jul 2026",
-          "summary": ""
-        },
-        {
-          "title": "Bill Koch’s Aspen estate once asked $125m, now poised to sell for $33.5m",
-          "link": "https://timesofindia.indiatimes.com/real-estate/news/billionaire-bill-kochs-52-acre-aspen-estate-once-asked-125-million-but-after-price-cuts-and-an-auction-it-is-poised-to-sell-for-33-515-million/articleshow/132532389.cms",
-          "date": "21 Jul 2026",
-          "summary": "Billionaire Bill Koch's expansive Aspen estate has sold for $33.515 million after a luxury auction. The property, initially listed at $125 million, struggled to find a buyer for two years. After several price reductions, the 52-acre Elk Mountain Lodge went to…"
-        },
-        {
-          "title": "India's growth remains strong, but trade barriers threaten 2047 goal: WTO",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/indias-growth-remains-strong-but-trade-barriers-threaten-2047-goal-wto/articleshow/132542403.cms",
-          "date": "21 Jul 2026",
-          "summary": "India's strong economic growth continues, but structural reforms are needed for developed nation status. High trade costs and regulatory complexity present significant challenges to global integration. The World Trade Organization report notes progress in trad…"
-        },
-        {
-          "title": "Israel says Iran moved thousands of centrifuges to Pickaxe Mountain - Report",
-          "link": "https://timesofindia.indiatimes.com/world/middle-east/israel-says-iran-moved-thousands-of-centrifuges-to-pickaxe-mountain-report/articleshow/132542730.cms",
-          "date": "21 Jul 2026",
-          "summary": ""
-        },
-        {
-          "title": "'World Cup lost its credibility': Blatter says politics overshadowed football",
-          "link": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/world-cup-lost-its-credibility-sepp-blatter-says-politics-overshadowed-football-after-spains-triumph/articleshow/132540646.cms",
-          "date": "21 Jul 2026",
-          "summary": "Former FIFA president Sepp Blatter criticised the 2026 World Cup's credibility. He urged fans and associations to reclaim football from political influence. Spain defeated Argentina to win the expanded 48-team tournament. FIFA president Gianni Infantino highli…"
-        },
-        {
-          "title": "Donald Trump's tariff tornado returns as India deal stalls",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/donald-trumps-tariff-tornado-returns-as-india-deal-stalls/articleshow/132540539.cms",
-          "date": "21 Jul 2026",
-          "summary": "Donald Trump plans to impose new tariffs on many countries, including India. These tariffs will affect global trade and financial markets significantly. India's trade deal negotiations with the US face potential complications. The US administration cites unfai…"
-        },
-        {
-          "title": "'How to kill, dispose bodies': Bengaluru triple murder accused turned to AI, say cops",
-          "link": "https://timesofindia.indiatimes.com/city/bengaluru/how-to-kill-remove-bloodstains-dispose-bodies-bengaluru-triple-murder-accused-turned-to-ai-chatbot/articleshow/132532050.cms",
-          "date": "21 Jul 2026",
-          "summary": "Bengaluru police are delving into a disturbing triple murder involving an AI chatbot. Reports reveal that the prime suspect meticulously plotted the murders over six months, using AI to seek counsel on execution tactics, body disposal techniques, and cleaning…"
-        },
-        {
-          "title": "'It's embarrassing': Argentina's World Cup final conduct under fresh scrutiny",
-          "link": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/its-embarrassing-argentinas-world-cup-final-conduct-under-fresh-scrutiny-after-viral-clip-emerges/articleshow/132539896.cms",
-          "date": "21 Jul 2026",
-          "summary": "New footage shows an alleged attempt to influence the referee after Enzo Fernandez's red card. Argentina full-back Nicolas Tagliafico appeared to feign injury moments after the foul occurred. Lionel Messi then rushed towards the referee, pointing to the fallen…"
-        },
-        {
-          "title": "India buys more Russian, Latin American crude as Middle East supplies dip",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/russia-latin-american-suppliers-to-rescue-indias-middle-east-oil-imports-dip-in-april-june-on-hormuz-disruptions/articleshow/132540843.cms",
-          "date": "21 Jul 2026",
-          "summary": "India stepped up imports from Moscow once Washington granted a temporary waiver, helping offset reduced supplies from Gulf producers caused by the disruption of traffic through the strategically important Strait of Hormuz."
         }
       ]
     },
@@ -1152,6 +1152,12 @@
       "ok": true,
       "items": [
         {
+          "title": "Firefox 153 Released",
+          "link": "https://news.slashdot.org/story/26/07/21/2022247/firefox-153-released?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "21 Jul 2026",
+          "summary": "Longtime Slashdot reader williamyf writes: FireFox 153 was released today. The most important user-facing changes are improvements to PDF handling (you can now merge PDFs and add images to them), and HDR video playback (on Windows, provided HDR is active syste…"
+        },
+        {
           "title": "AI Companies Are Buying Tons of Old Books Because They're Free of AI Slop",
           "link": "https://news.slashdot.org/story/26/07/21/206243/ai-companies-are-buying-tons-of-old-books-because-theyre-free-of-ai-slop?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "21 Jul 2026",
@@ -1234,12 +1240,6 @@
           "link": "https://news.slashdot.org/story/26/07/20/1751219/aliexpress-hit-with-record-625-million-fine-after-failing-to-make-eu-ordered-fixes?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "20 Jul 2026",
           "summary": "The European Commission has fined AliExpress more than $625 million, the largest penalty yet under the Digital Services Act, after finding that the marketplace failed to \"diligently assess and mitigate risks relating to the sale of illegal, unsafe, or counterf…"
-        },
-        {
-          "title": "LG Monitors Silently Install Adware-Like App On Windows PCs",
-          "link": "https://hardware.slashdot.org/story/26/07/20/1736218/lg-monitors-silently-install-adware-like-app-on-windows-pcs?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "20 Jul 2026",
-          "summary": "VideoCardz reports that connecting certain LG monitors to Windows PCs can trigger Windows Update to automatically install the LG Monitor App Installer, which runs at startup and repeatedly displays McAfee trial promotions. From the report: Gamers Nexus reprodu…"
         }
       ]
     },
@@ -1630,184 +1630,184 @@
       "ok": true,
       "items": [
         {
-          "title": "treqs-cli added to PyPI",
-          "link": "https://pypi.org/project/treqs-cli/",
+          "title": "dlt-ops added to PyPI",
+          "link": "https://pypi.org/project/dlt-ops/",
           "date": "21 Jul 2026",
-          "summary": "TReqs CLI package"
+          "summary": "Run many dlt sources in production: enforced layout, validation, data gates, and a runs ledger"
         },
         {
-          "title": "cmdforge added to PyPI",
-          "link": "https://pypi.org/project/cmdforge/",
+          "title": "fystash-mcp added to PyPI",
+          "link": "https://pypi.org/project/fystash-mcp/",
           "date": "21 Jul 2026",
-          "summary": "Build, compose, and share AI-powered command-line tools you own"
+          "summary": "Stdio MCP server for Fystash: room/sandbox/fabric/drive tools over public control-plane REST"
         },
         {
-          "title": "bixi-sdk added to PyPI",
-          "link": "https://pypi.org/project/bixi-sdk/",
+          "title": "cloudtantrix-continuum added to PyPI",
+          "link": "https://pypi.org/project/cloudtantrix-continuum/",
           "date": "21 Jul 2026",
-          "summary": "Bixi - Bixi API client"
+          "summary": "Open remote state and memory backend for AI coding agents."
         },
         {
-          "title": "vivarium-validation added to PyPI",
-          "link": "https://pypi.org/project/vivarium-validation/",
+          "title": "not-enough-secrets added to PyPI",
+          "link": "https://pypi.org/project/not-enough-secrets/",
           "date": "21 Jul 2026",
-          "summary": "Automated verification and validation tooling for Vivarium simulations."
+          "summary": "basic cli tool for file encryption"
         },
         {
-          "title": "backtrader-quik added to PyPI",
-          "link": "https://pypi.org/project/backtrader-quik/",
+          "title": "friday-framework-speech added to PyPI",
+          "link": "https://pypi.org/project/friday-framework-speech/",
           "date": "21 Jul 2026",
-          "summary": "Backtrader integration with QUIK using an embedded QuikPy provider"
+          "summary": "Speech services (TTS, wake word) for Friday"
         },
         {
-          "title": "modelkeeper added to PyPI",
-          "link": "https://pypi.org/project/modelkeeper/",
+          "title": "codabench-client added to PyPI",
+          "link": "https://pypi.org/project/codabench-client/",
           "date": "21 Jul 2026",
-          "summary": "Keep apps on local model servers (Ollama, LM Studio) alive through silent model eviction."
+          "summary": "A small, readable Python client and CLI for the Codabench API."
         },
         {
-          "title": "cyberlink-extract added to PyPI",
-          "link": "https://pypi.org/project/cyberlink-extract/",
+          "title": "friday-framework-llm added to PyPI",
+          "link": "https://pypi.org/project/friday-framework-llm/",
           "date": "21 Jul 2026",
-          "summary": "Extrai e-mails, URLs, IPs, telefones, CPFs e CNPJs de planilhas XLSX, agrupados por id."
+          "summary": "LLM inference layer for Friday Framework"
         },
         {
-          "title": "akleao added to PyPI",
-          "link": "https://pypi.org/project/akleao/",
+          "title": "friday-framework-finance added to PyPI",
+          "link": "https://pypi.org/project/friday-framework-finance/",
           "date": "21 Jul 2026",
-          "summary": "Akleao CLI — unified entry point for Akleao apps (dock, research)"
+          "summary": "Financial data provider integration for Friday Agent Framework"
         },
         {
-          "title": "rdr-eval added to PyPI",
-          "link": "https://pypi.org/project/rdr-eval/",
+          "title": "friday-framework-core added to PyPI",
+          "link": "https://pypi.org/project/friday-framework-core/",
           "date": "21 Jul 2026",
-          "summary": "A lightweight Python package for relative density ratio (RDR) estimation and generative-model comparison."
+          "summary": "Foundation interfaces and utilities for Friday"
         },
         {
-          "title": "avalon-audio added to PyPI",
-          "link": "https://pypi.org/project/avalon-audio/",
+          "title": "pelennor added to PyPI",
+          "link": "https://pypi.org/project/pelennor/",
           "date": "21 Jul 2026",
-          "summary": "Standalone audio analysis, tagging, and organization CLI"
+          "summary": "Send your AI agent's OpenTelemetry traces to Pelennor."
         },
         {
-          "title": "inkpaper added to PyPI",
-          "link": "https://pypi.org/project/inkpaper/",
+          "title": "aegi added to PyPI",
+          "link": "https://pypi.org/project/aegi/",
           "date": "21 Jul 2026",
-          "summary": "An always-dark Gradio theme with monospace type, ink-black surfaces, paper-white text, and slate accents."
+          "summary": "AegiLabs security audit agent — runs locally, metered via your AegiLabs key."
         },
         {
-          "title": "sulatk added to PyPI",
-          "link": "https://pypi.org/project/sulatk/",
+          "title": "ritaline added to PyPI",
+          "link": "https://pypi.org/project/ritaline/",
           "date": "21 Jul 2026",
-          "summary": "A prayer times application written in Python with PyQt5"
+          "summary": "Generate grounded Q&A datasets from PDF/TXT documents and fine-tune open-weight LLMs."
         },
         {
-          "title": "seriesxrd added to PyPI",
-          "link": "https://pypi.org/project/seriesxrd/",
+          "title": "so3tools added to PyPI",
+          "link": "https://pypi.org/project/so3tools/",
           "date": "21 Jul 2026",
-          "summary": "Desktop and command-line workflow for calibrating, reducing, and analyzing powder X-ray diffraction series"
+          "summary": "A collection of methods for the rotation group SO(3)"
         },
         {
-          "title": "context-tracker added to PyPI",
-          "link": "https://pypi.org/project/context-tracker/",
+          "title": "airlock-cli added to PyPI",
+          "link": "https://pypi.org/project/airlock-cli/",
           "date": "21 Jul 2026",
-          "summary": "Context window forensics for Claude Code: track token usage, find dead weight, and optimize sessions via hooks, a web dashboard, and an MCP server"
+          "summary": "Airlock coordinates 1Password-backed secret workflows for coding agents while keeping secret values out of the normal control path."
         },
         {
-          "title": "gaige added to PyPI",
-          "link": "https://pypi.org/project/gaige/",
+          "title": "rustchunker added to PyPI",
+          "link": "https://pypi.org/project/rustchunker/",
           "date": "21 Jul 2026",
-          "summary": "Calibration + receipts for AI-text detectors. Name reserved; first functional release coming."
+          "summary": "A fast document chunking library for RAG pipelines"
         },
         {
-          "title": "agent-framework-hosting-telegram added to PyPI",
-          "link": "https://pypi.org/project/agent-framework-hosting-telegram/",
+          "title": "deepen-grade added to PyPI",
+          "link": "https://pypi.org/project/deepen-grade/",
           "date": "21 Jul 2026",
-          "summary": "Telegram Bot API-shaped helpers for agent-framework-hosting."
+          "summary": "Free, local CLI that grades robot-learning datasets (MCAP/rosbag/LeRobot) on hygiene, episode quality, and calibration sanity -- every metric traced to a named paper."
         },
         {
-          "title": "agent-framework-hosting-mcp added to PyPI",
-          "link": "https://pypi.org/project/agent-framework-hosting-mcp/",
+          "title": "acallable added to PyPI",
+          "link": "https://pypi.org/project/acallable/",
           "date": "21 Jul 2026",
-          "summary": "Agent and workflow MCP tool adapters for app-owned hosting."
+          "summary": "Allows the same function to have an async version selected automatically"
         },
         {
-          "title": "agent-framework-hosting-a2a added to PyPI",
-          "link": "https://pypi.org/project/agent-framework-hosting-a2a/",
+          "title": "muonium added to PyPI",
+          "link": "https://pypi.org/project/muonium/",
           "date": "21 Jul 2026",
-          "summary": "A2A conversion helpers for app-owned Agent Framework hosting."
+          "summary": "A performant, distributed-ready base for Muon optimizer research, built on PyTorch DTensor"
         },
         {
-          "title": "mcp-ztgateway added to PyPI",
-          "link": "https://pypi.org/project/mcp-ztgateway/",
+          "title": "hermes-memory-metronix added to PyPI",
+          "link": "https://pypi.org/project/hermes-memory-metronix/",
           "date": "21 Jul 2026",
-          "summary": "Zero-trust security gateway for MCP (Model Context Protocol) tool servers — static scanning, sandbox behavioural profiling, and runtime policy enforcement."
+          "summary": "Standalone Hermes memory-provider plugin scaffold for Metronix"
         },
         {
-          "title": "agent-framework-azure-cosmos-memory added to PyPI",
-          "link": "https://pypi.org/project/agent-framework-azure-cosmos-memory/",
+          "title": "earthlens-hazards added to PyPI",
+          "link": "https://pypi.org/project/earthlens-hazards/",
           "date": "21 Jul 2026",
-          "summary": "Azure Cosmos DB Agent Memory Toolkit integration for Microsoft Agent Framework - semantic memory with fact extraction and user profiles."
+          "summary": "hazard, humanitarian and vector-basemap backends for earthlens"
         },
         {
-          "title": "nimblebrain-synapse added to PyPI",
-          "link": "https://pypi.org/project/nimblebrain-synapse/",
+          "title": "earthlens-land added to PyPI",
+          "link": "https://pypi.org/project/earthlens-land/",
           "date": "21 Jul 2026",
-          "summary": "Server half of the Synapse cross-host UI framework: register one self-contained ui:// component from a FastMCP server and render it in ChatGPT (OpenAI Apps SDK), Claude (MCP Apps), and the NimbleBrain runtime."
+          "summary": "terrain, elevation, soil, ecology and population backends for earthlens"
         },
         {
-          "title": "gunicorn-env-cfg added to PyPI",
-          "link": "https://pypi.org/project/gunicorn-env-cfg/",
+          "title": "napcat-cli-fs added to PyPI",
+          "link": "https://pypi.org/project/napcat-cli-fs/",
           "date": "21 Jul 2026",
-          "summary": "Configure gunicorn from environment variables"
+          "summary": "Pre-built skills-fs FUSE binary for napcat-cli"
         },
         {
-          "title": "oriel added to PyPI",
-          "link": "https://pypi.org/project/oriel/",
+          "title": "hadoku-execlog added to PyPI",
+          "link": "https://pypi.org/project/hadoku-execlog/",
           "date": "21 Jul 2026",
-          "summary": "Turn any folder of Markdown into a beautiful website — instantly."
+          "summary": "Execution-log reporter — self-report scheduled-job runs to hadoku monitoring-api (unified contract)."
         },
         {
-          "title": "agent-memguard added to PyPI",
-          "link": "https://pypi.org/project/agent-memguard/",
+          "title": "rca-mcp-connector added to PyPI",
+          "link": "https://pypi.org/project/rca-mcp-connector/",
           "date": "21 Jul 2026",
-          "summary": "Local-first MCP memory backend and governance console for coding agents"
+          "summary": "RCA-MCP MCP connector — causal root-cause analysis, 55 tools, works with Claude, Ollama, Groq, OpenAI, Gemini, LangChain and more."
         },
         {
-          "title": "ovos-skill-andrew-lang-tales added to PyPI",
-          "link": "https://pypi.org/project/ovos-skill-andrew-lang-tales/",
+          "title": "playarea added to PyPI",
+          "link": "https://pypi.org/project/playarea/",
           "date": "21 Jul 2026",
-          "summary": "Andrew Lang's Fairy Books provider skill for ovos-common-reading-pipeline-plugin"
+          "summary": "Cross-platform robot simulator GUI (native C++/OpenGL), shipped as a self-contained binary, with a pure-Python client library."
         },
         {
-          "title": "asv-bench-tachyon added to PyPI",
-          "link": "https://pypi.org/project/asv-bench-tachyon/",
+          "title": "agent-handoff-kit added to PyPI",
+          "link": "https://pypi.org/project/agent-handoff-kit/",
           "date": "21 Jul 2026",
-          "summary": "Tachyon sampling benchmark type for ASV (sample_* metrics via profiling.sampling)"
+          "summary": "Lightweight recovery layer for multi-agent handoffs"
         },
         {
-          "title": "energorna added to PyPI",
-          "link": "https://pypi.org/project/energorna/",
+          "title": "atlas-infra added to PyPI",
+          "link": "https://pypi.org/project/atlas-infra/",
           "date": "21 Jul 2026",
-          "summary": "Glass-box local periodicity-loss observable of the mRNA stacking profile for repeat-expansion disorders (DM1, Huntington, SCA1)"
+          "summary": "Engine-agnostic control plane and router for large-scale LLM inference."
         },
         {
-          "title": "handsbot-maestro-sdk added to PyPI",
-          "link": "https://pypi.org/project/handsbot-maestro-sdk/",
+          "title": "evallm-cli added to PyPI",
+          "link": "https://pypi.org/project/evallm-cli/",
           "date": "21 Jul 2026",
-          "summary": "SDK Python para criação de tarefas no Maestro (4HandsBot)"
+          "summary": "LLM evaluation framework for developers"
         },
         {
-          "title": "si-cartographer added to PyPI",
-          "link": "https://pypi.org/project/si-cartographer/",
+          "title": "fqxv added to PyPI",
+          "link": "https://pypi.org/project/fqxv/",
           "date": "21 Jul 2026",
-          "summary": "Charts the workspace as graphed knowledge. The agent that thinks with its pen."
+          "summary": "Read-only Python bindings for the fqxv FASTQ archiver"
         },
         {
-          "title": "netdata-cli added to PyPI",
-          "link": "https://pypi.org/project/netdata-cli/",
+          "title": "graphmem-mcp added to PyPI",
+          "link": "https://pypi.org/project/graphmem-mcp/",
           "date": "21 Jul 2026",
-          "summary": "A powerful CLI for the Netdata Agent REST API — query metrics, charts, alarms, and functions from the terminal."
+          "summary": "Production-grade Graph-RAG MCP server with local embeddings — persistent knowledge graphs for any LLM-powered CLI agent"
         }
       ]
     }
