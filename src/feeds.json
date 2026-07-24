@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-24T14:46:19Z",
+  "generated": "2026-07-24T18:12:19Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -196,32 +196,68 @@
       "ok": true,
       "items": [
         {
-          "title": "Protests fallout: NTA sacks 47 officials in big overhaul, some to face criminal action",
+          "title": "'Thank you, friends': PM Modi hails 'love, support' of youth in new late night video",
+          "link": "https://timesofindia.indiatimes.com/india/thank-you-friends-pm-modi-hails-love-support-of-youth-in-new-insta-video/articleshow/132611836.cms",
+          "date": "24 Jul 2026",
+          "summary": ""
+        },
+        {
+          "title": "Students' protest: Wangchuk releases video after ending fast; 3rd round of talks tomorrow",
           "link": "https://timesofindia.indiatimes.com/india/jantar-mantar-protest-cjp-centre-talks-deadlocked-no-clarity-on-pradhans-exit-sc-to-take-up-pleas-on-police-brutality-top-developments/articleshow/132605963.cms",
           "date": "24 Jul 2026",
           "summary": ""
         },
         {
-          "title": "There are Chinese projects on territories in J&amp;K that belong to India: MEA",
-          "link": "https://timesofindia.indiatimes.com/india/there-are-chinese-projects-on-territories-in-jk-that-belong-to-india-mea-objects-to-illegal-occupation/articleshow/132606465.cms",
+          "title": "Argentina star behind throat-grab incident on Spain defender hints at retirement",
+          "link": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/argentina-star-behind-shameful-throat-grab-on-spain-defender-hints-at-international-retirement-after-world-cup-final/articleshow/132609743.cms",
           "date": "24 Jul 2026",
-          "summary": "Ministry of External Affairs accused China of violating sovereignty and illegally occupying Indian territories. The government objected to Chinese projects in Jammu and Kashmir and Ladakh. This statement follows a meeting between Indian and Chinese foreign min…"
+          "summary": "Leandro Paredes has admitted he is unsure whether he will continue with Argentina after the heartbreaking 2026 FIFA World Cup final defeat to Spain. The midfielder's comments come as FIFA investigates his role in the chaotic post-match altercation, while sever…"
         },
         {
-          "title": "PM Modi gains 1 million Instagram followers overnight after selfie video",
-          "link": "https://timesofindia.indiatimes.com/india/pm-modi-gains-1-million-instagram-followers-overnight-after-selfie-video-amid-neet-protest/articleshow/132607951.cms",
+          "title": "Why world is coming to India for medical treatment — and not just because it is cheaper",
+          "link": "https://timesofindia.indiatimes.com/india/why-the-world-is-coming-to-india-for-medical-treatment-and-not-just-because-it-is-cheaper/articleshow/132606630.cms",
           "date": "24 Jul 2026",
           "summary": ""
         },
         {
-          "title": "'I'll work with him': Joshi reveals plans to develop Sooryavanshi's bowling",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/ill-work-with-him-sunil-joshi-reveals-plans-to-develop-vaibhav-sooryavanshis-bowling/articleshow/132608457.cms",
+          "title": "Microsoft responds to customer 'complaints', tells LG to remove pop-up ads",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-responds-to-customer-complaints-tells-lg-remove-/articleshow/132608370.cms",
           "date": "24 Jul 2026",
-          "summary": "India's bowling coach Sunil Joshi wants attention on Vaibhav Sooryavanshi's batting achievements. Sooryavanshi became the youngest player to score a T20I fifty against Zimbabwe. Joshi also advised patience with emerging all-rounder Suryansh Shedge. He highligh…"
+          "summary": "Microsoft has asked LG to disable McAfee promotional pop-ups from its Monitor App Installer. This action follows customer complaints about the app being installed automatically via Windows Update. LG has agreed to remove the McAfee pop-up as an immediate step.…"
         },
         {
-          "title": "Pakistan: At least 15 killed in suicide attack on Khyber Pakhtunkhwa security check post",
-          "link": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-at-least-15-killed-in-suicide-attack-on-khyber-pakhtunkhwa-security-check-post/articleshow/132608117.cms",
+          "title": "'US not piggybank for Europe': Trump to impose tariffs on EU for fining Google",
+          "link": "https://timesofindia.indiatimes.com/business/international-business/us-not-piggybank-for-europe-trump-to-impose-tariffs-on-eu-for-fining-google/articleshow/132611536.cms",
+          "date": "24 Jul 2026",
+          "summary": ""
+        },
+        {
+          "title": "An offer they can't refuse: Don's protection racket in the Middle East &amp; Europe",
+          "link": "https://timesofindia.indiatimes.com/world/us/us-and-world/an-offer-they-cant-refuse-dons-protection-racket-in-the-middle-east-europe/articleshow/132428516.cms",
+          "date": "24 Jul 2026",
+          "summary": "Donald Trump's approach to international security resembles a protection racket, insisting that allies contribute more for American military support and armament. This transactional style echoes his history in real estate. Countries in the Gulf and Nato are re…"
+        },
+        {
+          "title": "US new visa restriction targets individuals involved in cybercrime",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/us-government-announces-new-global-visa-restriction-policy-says-united-states-will-go-after-those-who-/articleshow/132595304.cms",
+          "date": "24 Jul 2026",
+          "summary": "The United States has introduced a new global visa restriction policy. This measure targets individuals involved in cybercrime and cyber-enabled offenses. Online investment scams and sextortion perpetrators face these new restrictions. Immediate family members…"
+        },
+        {
+          "title": "Delhi QR property cards: Lal Dora, Abadi village owners to get digitally verified records",
+          "link": "https://timesofindia.indiatimes.com/real-estate/news/delhi-qr-property-cards-lal-dora-abadi-village-owners-to-get-digitally-verified-records/articleshow/132609157.cms",
+          "date": "24 Jul 2026",
+          "summary": "Thousands of Delhi property owners will soon receive smart property cards. These cards will provide digital verification for ownership records in Lal Dora and Abadi villages. Surveys are complete in 48 villages, with cards prepared for 30 of them. The initiati…"
+        },
+        {
+          "title": "Scotland planted trees on ancient peatland. Now it is removing them",
+          "link": "https://timesofindia.indiatimes.com/world/uk/in-the-1980s-scotland-planted-commercial-trees-across-parts-of-a-9000-year-old-peatland-decades-later-conservationists-are-removing-them-to-protect-wildlife-and-keep-its-stored-carbon-in-the-ground/articleshow/132610986.cms",
+          "date": "24 Jul 2026",
+          "summary": "The ancient peatlands of Scotland are undergoing a significant restoration, which addresses the detrimental effects caused by tree planting. Conservationists are diligently working to eliminate commercial trees, aiming to enhance wildlife habitats and maintain…"
+        },
+        {
+          "title": "Google co-founder Sergey Brin's superyacht doubles as a floating headquarters",
+          "link": "https://timesofindia.indiatimes.com/world/us/google-co-founder-sergey-brin-turned-his-450-million-superyacht-into-a-floating-headquarters-with-an-entire-deck-dedicated-to-work/articleshow/132606960.cms",
           "date": "24 Jul 2026",
           "summary": ""
         },
@@ -232,148 +268,112 @@
           "summary": "New York City mayor Zohran Mamdani has roped in Lina Khan to lead the board of directors for the New York City Economic Development Corporation (EDC). The former chair of the Federal Trade Commission (FTC) known for her aggressive antitrust lawsuits against Bi…"
         },
         {
-          "title": "Up to 10-year jail &amp; Rs 10 crore fine: Cabinet clears tougher anti-paper leak Bill",
-          "link": "https://timesofindia.indiatimes.com/india/up-to-10-year-jail-rs-10-crore-fine-cabinet-clears-tougher-anti-paper-leak-bill/articleshow/132601573.cms",
-          "date": "24 Jul 2026",
-          "summary": "Bill seeks to double punishment for paper leak offences; minimum jail term may rise from 3 years to 5 years"
-        },
-        {
-          "title": "'She didn't disclose her whereabouts': JFI chief confirms Tulika Maan's CWG withdrawal",
-          "link": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/she-didnt-disclose-her-whereabouts-jfi-chief-confirms-tulika-maans-cwg-withdrawal-nada-hearing-next/articleshow/132604018.cms",
-          "date": "24 Jul 2026",
-          "summary": "Judoka Tulika Maan faces withdrawal from the Glasgow Games for whereabouts failures. This follows judoka Arun Kumar's disqualification after a failed dope test. Athletes must disclose their locations for random anti-doping agency testing. Hima Das and Parveen…"
-        },
-        {
-          "title": "US new visa restriction targets individuals involved in cybercrime",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/us-government-announces-new-global-visa-restriction-policy-says-united-states-will-go-after-those-who-/articleshow/132595304.cms",
-          "date": "24 Jul 2026",
-          "summary": "The United States has introduced a new global visa restriction policy. This measure targets individuals involved in cybercrime and cyber-enabled offenses. Online investment scams and sextortion perpetrators face these new restrictions. Immediate family members…"
-        },
-        {
-          "title": "CJP protest: RAF probes excessive force, pellet gun charges in July 20 crackdown",
-          "link": "https://timesofindia.indiatimes.com/india/cjp-students-protest-raf-probes-excessive-force-pellet-gun-charges-in-july-20-crackdown/articleshow/132605806.cms",
-          "date": "24 Jul 2026",
-          "summary": "The Rapid Action Force is verifying its personnel's actions during recent student protests. Allegations of excessive force and pellet gun use are being examined by officials. The Central Reserve Police Force is overseeing this internal review process. Videos s…"
-        },
-        {
-          "title": "4 moose released in 1904 became 200,000 and changed Newfoundland forests",
-          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/in-1904-newfoundland-released-four-moose-to-attract-hunters-their-population-later-reached-200000-and-began-reshaping-the-islands-forests/articleshow/132604580.cms",
-          "date": "24 Jul 2026",
-          "summary": "A century after just four moose were released in Newfoundland to attract hunters, the introduced animals transformed the island's forests and wildlife management. Their population grew to nearly 200,000 before habitat damage triggered declines. A new managemen…"
-        },
-        {
-          "title": "Thailand uses 3D-printed shelters to help young seagrass survive",
-          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/thailand-is-placing-young-seagrass-inside-3d-printed-shelters-because-waves-and-hungry-animals-destroy-it-before-it-can-grow/articleshow/132604385.cms",
-          "date": "24 Jul 2026",
-          "summary": ""
-        },
-        {
-          "title": "Florida pastor says ChatGPT almost killed him; asked him to ignore 'dangerous symptoms’",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/florida-pastor-says-chatgpt-almost-killed-him-asked-him-to-ignore-dangerous-symptoms-and-told-him-god-did-not-design-your-body-to-/articleshow/132605264.cms",
-          "date": "24 Jul 2026",
-          "summary": "A Florida pastor has sued OpenAI, alleging ChatGPT provided dangerous medical advice. The chatbot reportedly diagnosed conditions and recommended treatments without professional guidance. He claims the AI encouraged him to ignore worsening symptoms and avoid h…"
-        },
-        {
           "title": "Noida Twin Towers case explained: Why was it demolished, legal trouble and more",
           "link": "https://timesofindia.indiatimes.com/real-estate/news/noida-twin-towers-case-explained-what-led-to-the-demolition-and-why-the-case-still-stands-in-court/articleshow/132602489.cms",
           "date": "24 Jul 2026",
           "summary": "Noida's Supertech Twin Towers faced demolition after being ruled illegal, following the Supreme Court's validation of the High Court's order. Apartment buyers are embroiled in ongoing legal battles about refunds. The insolvency case of Supertech complicates ma…"
         },
         {
-          "title": "TMC appoints Saugata Roy as LS deputy leader after Satabdi Roy joins rebel camp",
-          "link": "https://timesofindia.indiatimes.com/india/trinamool-congress-appoints-saugata-roy-as-lok-sabha-deputy-leader-after-satabdi-roy-joins-rebel-camp/articleshow/132607529.cms",
+          "title": "Indian seafarer killed after ship attacked in Black Sea; MEA condemns incident",
+          "link": "https://timesofindia.indiatimes.com/india/indian-seafarer-killed-after-ship-attacked-in-black-sea-mea-condemns-incident/articleshow/132610477.cms",
           "date": "24 Jul 2026",
           "summary": ""
         },
         {
-          "title": "'Position unchanged': India rejects Pak's remarks in Asean on Indus Waters Treaty",
-          "link": "https://timesofindia.indiatimes.com/india/position-remains-unchanged-india-rejects-pakistans-asean-remarks-reiterates-stand-on-indus-waters-treaty/articleshow/132606745.cms",
+          "title": "Grain, not guns: MEA rejects Russia's claim on deadly ship attack that killed 4 Indians",
+          "link": "https://timesofindia.indiatimes.com/india/grain-not-guns-india-rejects-russias-claim-on-deadly-ship-attack/articleshow/132611235.cms",
+          "date": "24 Jul 2026",
+          "summary": "India's Ministry of External Affairs stated the MV Golden Leo carried grain, not weapons. This contradicts Russia's assertion regarding the ship's cargo and its attack. The vessel's tragic incident resulted in the deaths of four Indian seafarers. India reitera…"
+        },
+        {
+          "title": "How Serena Williams overcame poverty to become a tennis icon",
+          "link": "https://timesofindia.indiatimes.com/sports/international-sports/inspiring-story-of-the-day-growing-up-i-wasnt-the-richest-but-i-had-a-rich-family-in-spirit-standing-here-with-19-championships-is-something-i-never-thought-would-happen-how-serena-williams-and-her-parents-turned-childhood-poverty-into-tennis-greatness/articleshow/132593983.cms",
+          "date": "24 Jul 2026",
+          "summary": "Serena Williams grew up in a family that struggled financially but never gave up on their dream. Guided by her parents, Richard Williams and Oracene Price, she trained on public courts with limited resources before becoming one of tennis' greatest champions. H…"
+        },
+        {
+          "title": "Patrick and Brittany Mahomes turned family pain into a heartfelt mission",
+          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/within-minutes-it-began-to-grow-how-patrick-mahomes-and-brittany-mahomes-turned-one-of-the-painful-family-moments-into-a-heartwarming-mission-before-chiefs-training-camp/articleshow/132594950.cms",
+          "date": "24 Jul 2026",
+          "summary": "Patrick Mahomes and Brittany Mahomes attended a back-to-school event with FARE just before Chiefs training camp, continuing their advocacy for food allergy awareness. The couple's mission comes from personal experience after their children, Sterling and Bronze…"
+        },
+        {
+          "title": "Fast-track special courts slow as backlog mounts; nearly 2.5 lakh cases pending",
+          "link": "https://timesofindia.indiatimes.com/india/fast-track-special-courts-slow-as-backlog-mounts-nearly-2-5-lakh-cases-pending/articleshow/132610787.cms",
           "date": "24 Jul 2026",
           "summary": ""
         },
         {
-          "title": "From mats to Octagon: Why Tyrell Fortune believes his strongest weapon never changed",
-          "link": "https://timesofindia.indiatimes.com/sports/mma/news/from-wrestling-mats-to-the-octagon-why-tyrell-fortune-believes-his-strongest-weapon-never-changed/articleshow/132607361.cms",
+          "title": "Elon Musk’s 'race' card: Meet my Indian family",
+          "link": "https://timesofindia.indiatimes.com/world/us/musks-race-to-the-top-meet-my-indian-family/articleshow/132609198.cms",
           "date": "24 Jul 2026",
-          "summary": "A decorated wrestler before entering mixed martial arts, Tyrell Fortune believes the qualities that shaped his career remain his biggest strength inside the UFC. Following a confidence-boosting debut on short notice, the American heavyweight heads into his sec…"
+          "summary": "Billionaire Elon Musk denies racism, citing his Indian partner and son's name. He claims his companies employ diverse executives, demonstrating no prejudice. Critics argue his public statements amplify far-right narratives on immigration and demographics. Musk…"
         },
         {
-          "title": "Suniel Shetty reveals how he met KL Rahul and why he regrets not buying an IPL team",
-          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/suniel-shetty-says-he-first-met-son-in-law-kl-rahul-as-a-fan-regrets-not-buying-an-ipl-team-shah-rukh-khan-was-at-the-right-place-at-the-right-time/articleshow/132600865.cms",
+          "title": "'I'll work with him': Joshi reveals plans to develop Sooryavanshi's bowling",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/ill-work-with-him-sunil-joshi-reveals-plans-to-develop-vaibhav-sooryavanshis-bowling/articleshow/132608457.cms",
           "date": "24 Jul 2026",
-          "summary": "Actor Suniel Shetty admired cricketer KL Rahul as a fan long before their family connection. He focuses on character discussions at home rather than career advice. Shetty admits he could have afforded an IPL franchise in its early days. He lacked the necessary…"
+          "summary": "India's bowling coach Sunil Joshi wants attention on Vaibhav Sooryavanshi's batting achievements. Sooryavanshi became the youngest player to score a T20I fifty against Zimbabwe. Joshi also advised patience with emerging all-rounder Suryansh Shedge. He highligh…"
         },
         {
-          "title": "Cabinet approves Ballari-Guntakal rail project to boost freight, passenger connectivity",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/cabinet-approves-rs-1264-crore-ballari-guntakal-rail-project-to-boost-freight-passenger-connectivity/articleshow/132607267.cms",
+          "title": "Instagram vs WhatsApp: How CJP protests are different and why that matters",
+          "link": "https://timesofindia.indiatimes.com/india/instagram-vs-whatsapp-how-cjp-protests-are-different-and-why-that-matters/articleshow/132605420.cms",
           "date": "24 Jul 2026",
-          "summary": "The Union cabinet approved a Rs 1,264-crore railway project for new lines. This initiative will enhance freight movement and passenger connectivity across key states. The project aims to ease congestion and improve logistics efficiency significantly. Additiona…"
+          "summary": "Sonam Wangchuk ended his hunger strike after government assurances on paper leaks. The government promised fast-track courts and tougher punishments for offenders. New education secretaries were appointed, signaling bureaucratic shifts. The CJP protest utilize…"
         },
         {
-          "title": "'Anna part 2': Congress MP accuses Wangchuk of striking a deal with govt; BJP hits back",
-          "link": "https://timesofindia.indiatimes.com/india/anna-part-two-congress-mp-accuses-wangchuk-of-striking-a-deal-with-govt-bjp-hits-back/articleshow/132605354.cms",
+          "title": "Ravneet Bittu resigns from Union Council of Ministers; what's behind exit?",
+          "link": "https://timesofindia.indiatimes.com/india/ravneet-singh-bittu-resigns-from-union-council-of-ministers-president-murmu-accepts-resignation/articleshow/132608905.cms",
           "date": "24 Jul 2026",
-          "summary": "Congress MP Imran Masood accused activist Sonam Wangchuk of striking a deal with the government. He compared Wangchuk to Anna Hazare, suggesting future silence from the activist. The Bharatiya Janata Party criticized Congress for stooping low and insulting the…"
+          "summary": "President Droupadi Murmu accepted Ravneet Singh Bittu's resignation from the Union Council of Ministers. Bittu, a former Congress MP, joined the BJP earlier this year. He was inducted as a minister of state in June despite losing his election. Bittu is a grand…"
         },
         {
-          "title": "West Indies pacer 'declines selection' for Pakistan Test series",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/west-indies-pacer-declines-selection-for-pakistan-test-series-coach-darren-sammy-calls-it-reality-of-the-situation/articleshow/132606181.cms",
-          "date": "24 Jul 2026",
-          "summary": "\"Yeah, it is a big loss. Mr Joseph has declined selection. That's the reality of the situation,\" Sammy said at a press conference on the eve of the series opener."
-        },
-        {
-          "title": "Himachal Pradesh: At least 13 feared dead after taxi crushed by boulders",
-          "link": "https://timesofindia.indiatimes.com/india/himachal-pradesh-at-least-13-feared-dead-after-taxi-crushed-by-boulders-in-lahaul-spiti/articleshow/132604314.cms",
+          "title": "NTA fires 47 officials, begins major overhaul amid paper leak row",
+          "link": "https://timesofindia.indiatimes.com/india/nta-terminates-47-officials-begins-specialist-led-rebuild/articleshow/132609392.cms",
           "date": "24 Jul 2026",
           "summary": ""
         },
         {
-          "title": "Netra, AWACS &amp; Mk II: Inside India's tiered airborne surveillance shield",
-          "link": "https://timesofindia.indiatimes.com/defence/news/netra-awacs-mk-ii-inside-indias-tiered-airborne-surveillance-shield/articleshow/132606632.cms",
+          "title": "'Have a heart': Sonam Wangchuk's wife slams critics after he ends 26-day hunger strike",
+          "link": "https://timesofindia.indiatimes.com/india/have-a-heart-sonam-wangchuks-wife-slams-critics-after-he-ends-26-day-hunger-strike/articleshow/132609663.cms",
           "date": "24 Jul 2026",
-          "summary": "India's airborne surveillance program enters a new phase with AEW&amp;C Mk II development. Six Airbus A321 aircraft will be converted for this advanced airborne warning system. Adani Defence Systems will partner in developing the crucial mission systems for th…"
+          "summary": "Gitanjali Angmo defended her husband Sonam Wangchuk's hunger strike conclusion. He ended his 26-day fast after prolonged negotiations with Union ministers. Wangchuk stated the decision aimed to prevent potential violence across the nation. Meanwhile, the Cockr…"
         },
         {
-          "title": "105 million sq ft and counting: GCCs drive 37% of India's office leasing since 2022",
-          "link": "https://timesofindia.indiatimes.com/real-estate/news/105-million-sq-ft-and-counting-gccs-drive-37-of-indias-office-leasing-since-2022/articleshow/132606424.cms",
+          "title": "NEET row: Centre airlifts more CRPF companies to Delhi as CJP protest continues",
+          "link": "https://timesofindia.indiatimes.com/city/delhi/neet-row-centre-airlifts-more-crpf-companies-to-delhi-as-cjp-continues-jantar-mantar-stir/articleshow/132607636.cms",
           "date": "24 Jul 2026",
-          "summary": "Global capability centres are significantly reshaping India's office market. Foreign companies leased nearly 105 million sq ft of premium office space since 2022. This leasing activity represents a substantial portion of overall office transactions nationwide.…"
+          "summary": "In a significant move to reinforce security in Delhi, additional CRPF companies are being airlifted. The city sees a continuation of a month-long protest led by students and activists advocating for the resignation of the education minister. As Independence Da…"
         },
         {
-          "title": "Russell Wilson, Ciara relist $45m California estate at lower asking price",
-          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/russell-wilson-and-ciara-make-a-major-post-retirement-move-as-they-relist-their-45-million-california-estate-at-a-lower-asking-price/articleshow/132596504.cms",
+          "title": "'Will treasure this': Jos Buttler reveals special gift from Rohit Sharma",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/will-treasure-this-jos-buttler-reveals-special-gift-from-rohit-sharma-after-india-england-odi-series/articleshow/132609741.cms",
           "date": "24 Jul 2026",
-          "summary": "Russell Wilson and Ciara have reportedly lowered the asking price of their Rancho Santa Fe estate from $54.9 million to $45 million as they prepare for life after the NFL. The luxury property features a private football field, recording studio, wellness center…"
+          "summary": "Jos Buttler received a signed Team India jersey from Rohit Sharma. He expressed admiration for the Indian opener, calling him a favourite player. Rohit Sharma scored a century in the series decider at Lord's. He finished as India's leading run-scorer in the OD…"
         },
         {
-          "title": "US-Saudi nuclear deal: Why Riyadh's uranium enrichment plans may worry Israel and India",
-          "link": "https://timesofindia.indiatimes.com/defence/international/us-saudi-nuclear-deal-why-riyadhs-uranium-enrichment-plans-may-worry-israel-and-india/articleshow/132606389.cms",
+          "title": "Meet Pragati Chaswal: She quit a well-paid job to help 78k children grow their own food",
+          "link": "https://timesofindia.indiatimes.com/women/voices-of-power/meet-pragati-chaswal-she-quit-a-well-paid-job-to-build-something-meaningful-today-78000-children-have-learned-to-grow-their-own-food-thanks-to-her/articleshow/132608578.cms",
           "date": "24 Jul 2026",
-          "summary": "The United States and Saudi Arabia signed a nuclear cooperation agreement. This deal allows Saudi Arabia to acquire uranium enrichment capability for civilian energy. Experts warn this move could dangerously blur the line between civilian and weapons-grade enr…"
+          "summary": "Pragati Chaswal left a successful advertising career to teach children about food origins. She founded SowGood Foundation, which now educates many young students. Children learn about nature and sustainability by growing their own food. This initiative has rea…"
         },
         {
-          "title": "India name Chess Olympiad squads as Gukesh, Pragg, Vaishali lead title defence",
-          "link": "https://timesofindia.indiatimes.com/sports/chess/india-name-star-studded-chess-olympiad-squads-as-gukesh-praggnanandhaa-vaishali-lead-title-defence/articleshow/132606133.cms",
-          "date": "24 Jul 2026",
-          "summary": "Team India has announced formidable squads for the upcoming FIDE Chess Olympiad. Defending champions aim to retain both open and women's team titles. Prominent players like Gukesh and Praggnanandhaa will lead the men's team. Vaishali, a recent Women's Candidat…"
-        },
-        {
-          "title": "Govt ready on 2 demands, CJP adamant on Pradhan's resignation: What happened in round 2 of talks",
-          "link": "https://timesofindia.indiatimes.com/india/govt-ready-on-2-demands-cjp-adamant-on-pradhans-resignation-what-happened-in-round-2-of-talks/articleshow/132602796.cms",
+          "title": "PM Modi gains 1 million Instagram followers overnight after selfie video",
+          "link": "https://timesofindia.indiatimes.com/india/pm-modi-gains-1-million-instagram-followers-overnight-after-selfie-video-amid-neet-protest/articleshow/132607951.cms",
           "date": "24 Jul 2026",
           "summary": ""
         },
         {
-          "title": "'He is fit': Delhi Police debunks fake newspaper clipping claiming Dipke's death",
-          "link": "https://timesofindia.indiatimes.com/city/delhi/delhi-police-debunks-fake-newspaper-clipping-claiming-cjp-founder-abhijeet-dipkes-death/articleshow/132605387.cms",
+          "title": "Janel Grant breaks silence after Vince McMahon lawsuit takes new turn",
+          "link": "https://timesofindia.indiatimes.com/sports/wwe/top-stories/janel-grant-breaks-silence-after-former-wwe-chairman-vince-mcmahon-lawsuit-moves-to-private-arbitration-from-federal-court/articleshow/132591526.cms",
           "date": "24 Jul 2026",
-          "summary": "Delhi Police dismissed as fake a viral newspaper clipping claiming the death of Cockroach Janta Party founder Abhijeet Dipke, confirming he is safe and healthy. Authorities warned of strict legal action against those spreading misinformation. The clarification…"
+          "summary": "Janel Grant's lawsuit against Vince McMahon has moved to private arbitration. She expressed gratitude to supporters for their help during this difficult time. The legal dispute, which began in federal court, will now be resolved confidentially. McMahon has rep…"
         },
         {
-          "title": "Sensex down 900 points, Nifty50 ends below 23,800: Why stock market crashed today",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/sensex-down-900-points-nifty50-closes-below-23800-five-reasons-why-stock-market-crashed-today/articleshow/132604996.cms",
+          "title": "There are Chinese projects on territories in J&amp;K that belong to India: MEA",
+          "link": "https://timesofindia.indiatimes.com/india/there-are-chinese-projects-on-territories-in-jk-that-belong-to-india-mea-objects-to-illegal-occupation/articleshow/132606465.cms",
           "date": "24 Jul 2026",
-          "summary": "Indian stock markets closed lower for a fifth consecutive session on Friday. Rising oil prices and Middle East tensions fueled investor caution and market pressure. Foreign institutional investors continued their selling trend, impacting market sentiment negat…"
+          "summary": "Ministry of External Affairs accused China of violating sovereignty and illegally occupying Indian territories. The government objected to Chinese projects in Jammu and Kashmir and Ladakh. This statement follows a meeting between Indian and Chinese foreign min…"
         }
       ]
     },
@@ -760,6 +760,12 @@
       "ok": true,
       "items": [
         {
+          "title": "Microsoft's open-weight AI push is so obviously an Azure play it hurts",
+          "link": "https://the-decoder.com/microsofts-open-weight-ai-push-is-so-obviously-an-azure-play-it-hurts/",
+          "date": "24 Jul 2026",
+          "summary": "Microsoft, along with Meta, Nvidia, and more than 20 other companies, is pushing for open-weight AI models in an open letter. The strategic logic is simple: the more models running on Azure, the less Microsoft depends on expensive OpenAI and Anthropic models.…"
+        },
+        {
           "title": "Sakana claims its AI model router Fugu Ultra v1.1 now beats Fable 5 without even including it in the pool",
           "link": "https://the-decoder.com/sakana-claims-its-ai-model-router-fugu-ultra-v1-1-now-beats-fable-5-without-even-including-it-in-the-pool/",
           "date": "24 Jul 2026",
@@ -812,12 +818,6 @@
           "link": "https://the-decoder.com/google-ceo-pichai-says-geminis-next-leap-depends-on-building-much-larger-base-models/",
           "date": "23 Jul 2026",
           "summary": "Alphabet has raised its 2026 investment forecast to as much as $205 billion, saying demand continues to outpace spending. Google Cloud grew 82 percent in the second quarter. CEO Sundar Pichai says Google needs a larger base model for its next leap in AI and ha…"
-        },
-        {
-          "title": "Anthropic's $1.5B piracy settlement with book authors is a record loss that hands AI labs their biggest legal win",
-          "link": "https://the-decoder.com/anthropics-1-5b-piracy-settlement-with-book-authors-is-a-record-loss-that-hands-ai-labs-their-biggest-legal-win/",
-          "date": "22 Jul 2026",
-          "summary": "Anthropic has to pay $1.5 billion to book authors, the largest copyright settlement in class action history. But the payout is for downloading roughly 482,460 works from piracy databases, not for AI training itself. Judge Alsup had previously ruled that AI tra…"
         }
       ]
     },
@@ -895,6 +895,12 @@
       "cat": "Technical · AI",
       "ok": true,
       "items": [
+        {
+          "title": "ModelExpress: Distributing Model Artifacts at the Speed of Light",
+          "link": "https://developer.nvidia.com/blog/modelexpress-distributing-model-artifacts-at-the-speed-of-light/",
+          "date": "24 Jul 2026",
+          "summary": "Every byte moved has a cost. As model checkpoints grow to hundreds of gigabytes or even a terabyte, that cost adds up quickly. To make things even worse, moving..."
+        },
         {
           "title": "Debugging Ray Tracing Applications Using NVIDIA OptiX Toolkit",
           "link": "https://developer.nvidia.com/blog/debugging-ray-tracing-applications-using-nvidia-optix-toolkit/",
@@ -1068,12 +1074,6 @@
           "link": "https://developer.nvidia.com/blog/nvidia-vera-cpu-boosts-ai-factory-throughput-to-accelerate-agentic-workloads/",
           "date": "23 Jul 2026",
           "summary": "Agentic systems turn model reasoning into action through multi-step workflows that combine inference, tool use, code execution, retrieval, orchestration, and..."
-        },
-        {
-          "title": "Develop Humanoid Robot Policies End-to-End with NVIDIA Isaac GR00T",
-          "link": "https://developer.nvidia.com/blog/develop-humanoid-robot-policies-end-to-end-with-nvidia-isaac-gr00t/",
-          "date": "23 Jul 2026",
-          "summary": "As more teams move from humanoid robot bring-up to task-specific skill development, the need for repeatable development workflows is growing. Building humanoids..."
         }
       ]
     },
@@ -1083,6 +1083,12 @@
       "cat": "Technology",
       "ok": true,
       "items": [
+        {
+          "title": "The quest to keep organs alive outside the body",
+          "link": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
+          "date": "24 Jul 2026",
+          "summary": "This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside the body, even when they’re kept on ice. Doctors dream of or…"
+        },
         {
           "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
           "link": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
@@ -1136,12 +1142,6 @@
           "link": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
           "date": "21 Jul 2026",
           "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advance…"
-        },
-        {
-          "title": "China’s AI models have Trump’s AI world at war with itself",
-          "link": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
-          "date": "20 Jul 2026",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the…"
         }
       ]
     },
@@ -1149,99 +1149,8 @@
       "url": "https://rss.slashdot.org/Slashdot/slashdotMain?format=xml",
       "name": "Slashdot",
       "cat": "Tech · News",
-      "ok": true,
-      "items": [
-        {
-          "title": "Humans Can Learn To Echolocate In Just 10 Weeks, and It Rewires the Brain",
-          "link": "https://science.slashdot.org/story/26/07/24/021238/humans-can-learn-to-echolocate-in-just-10-weeks-and-it-rewires-the-brain?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "24 Jul 2026",
-          "summary": "alternative_right shares a report from ScienceAlert: A study published in PLOS One in 2021 by researchers from Durham University in the UK showed that with 10 weeks of training, both blind and sighted people could learn to echolocate using verbal clicks. While…"
-        },
-        {
-          "title": "World's First Wave Power Generator Receives Certification For Regular Use",
-          "link": "https://hardware.slashdot.org/story/26/07/24/0152240/worlds-first-wave-power-generator-receives-certification-for-regular-use?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "24 Jul 2026",
-          "summary": "\"The Norwegian certification agency DNV has certified the commercial wave-driven power generator Corpower C4 for regular use,\" writes Longtime Slashdot reader Qbertino. \"German news site heise.de has a detailed write-up. See a CGI video of the power station an…"
-        },
-        {
-          "title": "Google Adds Selfie Video As a Log-In Option",
-          "link": "https://yro.slashdot.org/story/26/07/24/0144247/google-adds-selfie-video-as-a-log-in-option?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "24 Jul 2026",
-          "summary": "An anonymous reader quotes a report from Engadget: You'll now be able to use selfie videos to log into your Google account. It has long been possible to log into Google using your face, via your phone's face unlock or if your passkey login uses biometrics for…"
-        },
-        {
-          "title": "Oracle Signs 10-Year Software Contract With Pentagon Worth Up To $7 Billion",
-          "link": "https://developers.slashdot.org/story/26/07/23/2142251/oracle-signs-10-year-software-contract-with-pentagon-worth-up-to-7-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "23 Jul 2026",
-          "summary": "Oracle has signed a 10-year Pentagon contract worth up to $7 billion to provide on-premises software, licenses, maintenance, and consulting for branches of the military. CNBC reports: The contract covers the use of Oracle software in on-premises data centers f…"
-        },
-        {
-          "title": "Microsoft Responds to LG Monitors Installing McAfee Ads On Windows",
-          "link": "https://tech.slashdot.org/story/26/07/23/2137202/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "23 Jul 2026",
-          "summary": "LG is removing a McAfee pop-up ad from its LG Monitor App Installer after criticism that some LG monitors were silently installing the app through Windows Update and showing ads on every boot. Microsoft says LG agreed to disable the McAfee pop-up, but the broa…"
-        },
-        {
-          "title": "EU Fines Google $1 Billion For Breaking Digital Antitrust Regulations",
-          "link": "https://search.slashdot.org/story/26/07/23/2034235/eu-fines-google-1-billion-for-breaking-digital-antitrust-regulations?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "23 Jul 2026",
-          "summary": "The European Union fined Google more than $1 billion for allegedly using Google Play and Search to steer users toward its own services and apps at the expense of competitors. The Associated Press reports: Google had recently lost its appeal of a $4.5 billion a…"
-        },
-        {
-          "title": "Amazon Is Bringing Games to Prime Video",
-          "link": "https://games.slashdot.org/story/26/07/23/1830257/amazon-is-bringing-games-to-prime-video?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "23 Jul 2026",
-          "summary": "Amazon is integrating its Luna cloud gaming service into Prime Video, adding a new \"Games\" tab where Prime members can play titles like \"Hogwarts Legacy,\" \"EA Sports FC 26,\" \"Indiana Jones and the Great Circle,\" \"Clue,\" and \"Taboo.\" The games will be available…"
-        },
-        {
-          "title": "Sony's Decision To Ditch Discs Was Practically Inevitable, Data Shows",
-          "link": "https://games.slashdot.org/story/26/07/23/1825217/sonys-decision-to-ditch-discs-was-practically-inevitable-data-shows?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "23 Jul 2026",
-          "summary": "An anonymous reader quotes a report from Ars Technica: Many gamers have been lamenting Sony's recently announced decision to halt sales of physical game discs in 2028. However, new data revealed by Circana analyst Mat Piscatella highlights how years of stark e…"
-        },
-        {
-          "title": "In a First, Apple Maps Navigation To Be Embedded In Ford UEV Pickups",
-          "link": "https://tech.slashdot.org/story/26/07/23/1626218/in-a-first-apple-maps-navigation-to-be-embedded-in-ford-uev-pickups?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "23 Jul 2026",
-          "summary": "Ford will become the first automaker to embed Apple Maps directly into its vehicles, starting with an all-electric midsize pickup built on its new Universal Electric Vehicle platform. \"The pickup -- with Ford testing preproduction models on roads now -- is exp…"
-        },
-        {
-          "title": "Four Young Mathematicians Awarded the 2026 Fields Medals",
-          "link": "https://science.slashdot.org/story/26/07/23/1616208/four-young-mathematicians-awarded-the-2026-fields-medals?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "23 Jul 2026",
-          "summary": "Scientific American reports that the 2026 Fields Medals went to four mathematicians for work ranging from the theory of knots to the motion of fluid: The Fields Medals went to Hong Wang of New York University and France's Institute of Advanced Scientific Studi…"
-        },
-        {
-          "title": "Startup Founders Urge Trump Not to Shut Off Chinese Open Weight AI",
-          "link": "https://slashdot.org/story/26/07/23/0623233/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "23 Jul 2026",
-          "summary": "Nearly 200 Silicon Valley companies, including Proton and Y Combinator, are urging the Trump administration not to block U.S. access to Chinese open-weight AI models or risk crippling the next generation of U.S. startups. Politico reports: On Wednesday, the ne…"
-        },
-        {
-          "title": "Researchers Discover First Known Transmissible Cancer In Fish",
-          "link": "https://science.slashdot.org/story/26/07/23/0610239/researchers-discover-first-known-transmissible-cancer-in-fish?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "23 Jul 2026",
-          "summary": "An anonymous reader quotes a report from CBC News: It's rare that cancerous tumors can spread from one individual to another. But a genetic study suggests that's what's happening with melanoma tumors among catfish in Quebec and the northeastern U.S. The discov…"
-        },
-        {
-          "title": "Verisign Is Finally Bringing .web Domains To the Internet",
-          "link": "https://tech.slashdot.org/story/26/07/23/0542238/verisign-is-finally-bringing-web-domains-to-the-internet?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "23 Jul 2026",
-          "summary": "BrianFagioli writes: Verisign is finally bringing web domains to the internet after a decade of fighting. Verisign says the .web top-level domain has finally been delegated into the DNS root, clearing the way for public registrations later in 2026. Until now,…"
-        },
-        {
-          "title": "Private Mission Launches To Extend Life of Out-of-Gas Communication Satellites",
-          "link": "https://tech.slashdot.org/story/26/07/23/0534215/private-mission-launches-to-extend-life-of-out-of-gas-communication-satellites?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "23 Jul 2026",
-          "summary": "Northrop Grumman has launched a private satellite-servicing mission to attach life-extending \"jetpacks\" to aging communications satellites in geosynchronous orbit. \"It's the second satellite-saving mission to launch this month, all part of a growing, money-sav…"
-        },
-        {
-          "title": "Pan Am Plane Crash That Inspired Modern Safety Briefings Found After 74 Years",
-          "link": "https://news.slashdot.org/story/26/07/23/033235/pan-am-plane-crash-that-inspired-modern-safety-briefings-found-after-74-years?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "23 Jul 2026",
-          "summary": "Longtime Slashdot reader BeaverCleaver shares a report from the BBC: The wreckage of a Pan American Airways plane has been found 74 years after it plunged into the Atlantic Ocean in a crash that prompted mandatory airline safety briefings. The Clipper Endeavor…"
-        }
-      ]
+      "ok": false,
+      "items": []
     },
     {
       "url": "https://www.aitrends.com/feed",
@@ -1630,184 +1539,184 @@
       "ok": true,
       "items": [
         {
-          "title": "mailmail added to PyPI",
-          "link": "https://pypi.org/project/mailmail/",
+          "title": "aapanel-mcp added to PyPI",
+          "link": "https://pypi.org/project/aapanel-mcp/",
           "date": "24 Jul 2026",
-          "summary": "Send mail through Gmail or Naver SMTP, with the provider's own rules checked before anything is sent."
+          "summary": "Full-featured MCP server for aaPanel management"
         },
         {
-          "title": "media-cli added to PyPI",
-          "link": "https://pypi.org/project/media-cli/",
+          "title": "ham-parrot added to PyPI",
+          "link": "https://pypi.org/project/ham-parrot/",
           "date": "24 Jul 2026",
-          "summary": "Agent and CLI for the local media I/O device plane: enumerate and drive attached media devices — speakers and audio sinks, plus optional inputs such as standalone microphones — composing webcam-cli for camera and mic capture. Owns device selection, routing, pl…"
+          "summary": "Voice keyer for ham radio: live mic passthrough plus one-key playback of a pre-recorded voice sequence, with hamlib PTT."
         },
         {
-          "title": "casper-fs added to PyPI",
-          "link": "https://pypi.org/project/casper-fs/",
+          "title": "unxts.interop.xarray added to PyPI",
+          "link": "https://pypi.org/project/unxts-interop-xarray/",
           "date": "24 Jul 2026",
-          "summary": "CASPER-t: a reliability-weighted topological feature selector (scikit-learn compatible)"
+          "summary": "xarray integration for unxt (canonical: unxts.interop.xarray)"
         },
         {
-          "title": "crispasr added to PyPI",
-          "link": "https://pypi.org/project/crispasr/",
+          "title": "unxts.interop.gala added to PyPI",
+          "link": "https://pypi.org/project/unxts-interop-gala/",
           "date": "24 Jul 2026",
-          "summary": "Lightweight on-device speech recognition via ggml — Python bindings for CrispASR (Whisper, Qwen3-ASR, FastConformer, Canary, Parakeet, Cohere, Granite, Voxtral, wav2vec2, and more)."
+          "summary": "gala integration for unxt (canonical: unxts.interop.gala)"
         },
         {
-          "title": "catia-v5-com added to PyPI",
-          "link": "https://pypi.org/project/catia-v5-com/",
+          "title": "im-pytest added to PyPI",
+          "link": "https://pypi.org/project/im-pytest/",
           "date": "24 Jul 2026",
-          "summary": "CATIA V5 COM 便捷函数层 — 封装 CATIA Automation API"
+          "summary": "Run the Instructing Machines project tests three ways: a friendly hidden runner (check() / %%test), the raw pytest CLI, and student-authored tests."
         },
         {
-          "title": "sigil-protocol-verifier added to PyPI",
-          "link": "https://pypi.org/project/sigil-protocol-verifier/",
+          "title": "unxts.api added to PyPI",
+          "link": "https://pypi.org/project/unxts-api/",
           "date": "24 Jul 2026",
-          "summary": "Reference verifier for Sigil Protocol v1.0 — independent implementation per docs/protocol/v1.0/SPEC.md."
+          "summary": "Abstract dispatch API definitions for unxt (canonical: unxts.api)"
         },
         {
-          "title": "hashlock-sdk added to PyPI",
-          "link": "https://pypi.org/project/hashlock-sdk/",
+          "title": "g2p2-models added to PyPI",
+          "link": "https://pypi.org/project/g2p2-models/",
           "date": "24 Jul 2026",
-          "summary": "Python SDK for the Hashlock Markets developer API — non-custodial cross-chain atomic swaps (BTC EVM/TRON) over sealed RFQ + HTLC."
+          "summary": "All g2p2 language models for offline use (install via g2p2[all])"
         },
         {
-          "title": "vtr-analytics added to PyPI",
-          "link": "https://pypi.org/project/vtr-analytics/",
+          "title": "g2p2-group-turkic added to PyPI",
+          "link": "https://pypi.org/project/g2p2-group-turkic/",
           "date": "24 Jul 2026",
-          "summary": "Advanced system analytics and monitoring toolkit with Telegram broadcasting"
+          "summary": "g2p2 grapheme-to-phoneme models: turkic languages"
         },
         {
-          "title": "pi-swarmgcs added to PyPI",
-          "link": "https://pypi.org/project/pi-swarmgcs/",
+          "title": "g2p2-group-slavic added to PyPI",
+          "link": "https://pypi.org/project/g2p2-group-slavic/",
           "date": "24 Jul 2026",
-          "summary": "基于 Cesium 的无人设备地面控制站 — WebSocket 服务器、协议插件、前端面板"
+          "summary": "g2p2 grapheme-to-phoneme models: slavic languages"
         },
         {
-          "title": "judb added to PyPI",
-          "link": "https://pypi.org/project/judb/",
+          "title": "extension-ray-jupyterlab-sagemaker-ai added to PyPI",
+          "link": "https://pypi.org/project/extension-ray-jupyterlab-sagemaker-ai/",
           "date": "24 Jul 2026",
-          "summary": "A visual debugger for datascience — pudb-style stepping with a notebook-style rich console that runs in the paused frame."
+          "summary": "Extension for Ray with JupyterLab on Amazon SageMaker AI"
         },
         {
-          "title": "dukk added to PyPI",
-          "link": "https://pypi.org/project/dukk/",
+          "title": "genome-dl added to PyPI",
+          "link": "https://pypi.org/project/genome-dl/",
           "date": "24 Jul 2026",
-          "summary": "SDK oficial Python para a Dukk Platform API"
+          "summary": "Download genomes from NCBI Datasets"
         },
         {
-          "title": "napari-atlas-cci added to PyPI",
-          "link": "https://pypi.org/project/napari-atlas-cci/",
+          "title": "network-centrality added to PyPI",
+          "link": "https://pypi.org/project/network-centrality/",
           "date": "24 Jul 2026",
-          "summary": "A plugin that allows napari to run atlas stitching and alignement tool"
+          "summary": "Centrality and origin-destination analysis workflows for spatial transportation networks."
         },
         {
-          "title": "jayalengkara added to PyPI",
-          "link": "https://pypi.org/project/jayalengkara/",
+          "title": "drf-partial-response-fields added to PyPI",
+          "link": "https://pypi.org/project/drf-partial-response-fields/",
           "date": "24 Jul 2026",
-          "summary": "Fisher-Rao Information Geometry as a Computational Medium"
+          "summary": "GraphQL-like sparse fieldsets and automatic query optimization for Django REST Framework"
         },
         {
-          "title": "chemigraph added to PyPI",
-          "link": "https://pypi.org/project/chemigraph/",
+          "title": "toolkit-for-ray-on-sagemaker-ai added to PyPI",
+          "link": "https://pypi.org/project/toolkit-for-ray-on-sagemaker-ai/",
           "date": "24 Jul 2026",
-          "summary": "ChemiGraph — a Python library for chemical graph theory: a priori VIF/LPI and EI mass-spectral fragment prediction directly from a molecular structure."
+          "summary": "Amazon SageMaker AI toolkit for Ray."
         },
         {
-          "title": "bamwhat added to PyPI",
-          "link": "https://pypi.org/project/bamwhat/",
+          "title": "metricbraid-connect added to PyPI",
+          "link": "https://pypi.org/project/metricbraid-connect/",
           "date": "24 Jul 2026",
-          "summary": "Fast, evidence-backed inspection of BAM, SAM, and CRAM files"
+          "summary": "Pair Garmin with MetricBraid while keeping credentials on your computer."
         },
         {
-          "title": "tokenxygen added to PyPI",
-          "link": "https://pypi.org/project/tokenxygen/",
+          "title": "txtai-xberg added to PyPI",
+          "link": "https://pypi.org/project/txtai-xberg/",
           "date": "24 Jul 2026",
-          "summary": "Universal token optimizer for coding agents — save 40-70% on LLM costs"
+          "summary": "Xberg document extraction and chunking pipeline for txtai embeddings"
         },
         {
-          "title": "zotero-agent added to PyPI",
-          "link": "https://pypi.org/project/zotero-agent/",
+          "title": "techtide-swarm added to PyPI",
+          "link": "https://pypi.org/project/techtide-swarm/",
           "date": "24 Jul 2026",
-          "summary": "Local read-write control of a Zotero library — from your terminal or your AI agent. No cloud, no API key."
+          "summary": "TechTide Swarm 357 — layered orchestration, durable memory bridge, and observability hooks."
         },
         {
-          "title": "croon added to PyPI",
-          "link": "https://pypi.org/project/croon/",
+          "title": "facto-memory added to PyPI",
+          "link": "https://pypi.org/project/facto-memory/",
           "date": "24 Jul 2026",
-          "summary": "Textual TUI displaying synced lyrics for the currently playing song (LRCLIB + Genius)"
+          "summary": "Project memory for AI agents that knows when it's wrong — dated facts, verified against git. Local, zero dependencies."
         },
         {
-          "title": "trimitdown-pdf added to PyPI",
-          "link": "https://pypi.org/project/trimitdown-pdf/",
+          "title": "thermograph added to PyPI",
+          "link": "https://pypi.org/project/thermograph/",
           "date": "24 Jul 2026",
-          "summary": "Table-detection stage for ruled PDF grids on top of pdfplumber: tells a real table from a page frame. Lines strategy only, no OCR."
+          "summary": "A Python domain compiler bridging classical CALPHAD and statistical thermodynamics with modern tensor networks."
         },
         {
-          "title": "sbomdrift added to PyPI",
-          "link": "https://pypi.org/project/sbomdrift/",
+          "title": "zgraph added to PyPI",
+          "link": "https://pypi.org/project/zgraph/",
           "date": "24 Jul 2026",
-          "summary": "Track how the vulnerability posture of your SBOMs changes over time — what became vulnerable since last time."
+          "summary": "A hardware-accelerated, fully differentiable soft-tropical tensor engine for high-throughput statistical mechanics."
         },
         {
-          "title": "bioimageflow-tracking-tools added to PyPI",
-          "link": "https://pypi.org/project/bioimageflow-tracking-tools/",
+          "title": "key-amnesia added to PyPI",
+          "link": "https://pypi.org/project/key-amnesia/",
           "date": "24 Jul 2026",
-          "summary": "Object extraction and lightweight tracking tools for BioImageFlow"
+          "summary": "Encrypted secret vault with human-prompt routing and output scrubbing"
         },
         {
-          "title": "bioimageflow-spot-tools added to PyPI",
-          "link": "https://pypi.org/project/bioimageflow-spot-tools/",
+          "title": "dspace-mcp-write added to PyPI",
+          "link": "https://pypi.org/project/dspace-mcp-write/",
           "date": "24 Jul 2026",
-          "summary": "Spot detection and puncta quantification tools for BioImageFlow"
+          "summary": "Authenticated write MCP server for DSpace 7+ repositories (deposit, upload, edit)"
         },
         {
-          "title": "bioimageflow-segmentation-tools added to PyPI",
-          "link": "https://pypi.org/project/bioimageflow-segmentation-tools/",
+          "title": "nextwallet-pay added to PyPI",
+          "link": "https://pypi.org/project/nextwallet-pay/",
           "date": "24 Jul 2026",
-          "summary": "Segmentation tools for BioImageFlow"
+          "summary": "Python SDK for the NEXT Pay API — accept crypto payments in your service"
         },
         {
-          "title": "libreoffice-mcp added to PyPI",
-          "link": "https://pypi.org/project/libreoffice-mcp/",
+          "title": "sonar-hl added to PyPI",
+          "link": "https://pypi.org/project/sonar-hl/",
           "date": "24 Jul 2026",
-          "summary": "MCP server for LibreOffice automation — presentations, documents, spreadsheets"
+          "summary": "Client for the SONAR smart-money analytics API (sonar.cohorra.com) — Hyperliquid cohort positioning, graded signal outcomes, per-wallet series."
         },
         {
-          "title": "marchese-md added to PyPI",
-          "link": "https://pypi.org/project/marchese-md/",
+          "title": "econometricsmodels added to PyPI",
+          "link": "https://pypi.org/project/econometricsmodels/",
           "date": "24 Jul 2026",
-          "summary": "Python SDK for the Marchese Method: Token Optimization & Orchestration"
+          "summary": "統計・計量経済学の分析手法を提供するPython API"
         },
         {
-          "title": "plasmid-oracle added to PyPI",
-          "link": "https://pypi.org/project/plasmid-oracle/",
+          "title": "knaif added to PyPI",
+          "link": "https://pypi.org/project/knaif/",
           "date": "24 Jul 2026",
-          "summary": "Evidence-first plasmid annotation and characterization"
+          "summary": "Local LLM command agent with deterministic execution layer"
         },
         {
-          "title": "rafflesia-sdk added to PyPI",
-          "link": "https://pypi.org/project/rafflesia-sdk/",
+          "title": "sct-py added to PyPI",
+          "link": "https://pypi.org/project/sct-py/",
           "date": "24 Jul 2026",
-          "summary": "Typed SQL-first Python client for immutable Rafflesia biological relations"
+          "summary": "Local-first SNOMED CT queries powered by the sct Rust engine"
         },
         {
-          "title": "ao3-mcp added to PyPI",
-          "link": "https://pypi.org/project/ao3-mcp/",
+          "title": "crochetpatterngen-engine added to PyPI",
+          "link": "https://pypi.org/project/crochetpatterngen-engine/",
           "date": "24 Jul 2026",
-          "summary": "Search AO3 and have fics read by a secondary model before they're recommended"
+          "summary": "Deterministic photo-to-crochet-chart engine (stitch counts, 5 techniques, C2C aspect correction) + MCP server"
         },
         {
-          "title": "chengfeng added to PyPI",
-          "link": "https://pypi.org/project/chengfeng/",
+          "title": "pyaif-toolkit added to PyPI",
+          "link": "https://pypi.org/project/pyaif-toolkit/",
           "date": "24 Jul 2026",
-          "summary": "乘风 ChengFeng - 3D drone flight demo with Ursina engine"
+          "summary": "A Python package for Active Inference agents and simulations"
         },
         {
-          "title": "patronus-ark added to PyPI",
-          "link": "https://pypi.org/project/patronus-ark/",
+          "title": "rna-gc-bias-metrics added to PyPI",
+          "link": "https://pypi.org/project/rna-gc-bias-metrics/",
           "date": "24 Jul 2026",
-          "summary": "Python bindings for Patronus Ark's hybrid Rust security scanners."
+          "summary": "A tool to calculate the GC bias profile of RNAseq data."
         }
       ]
     }
