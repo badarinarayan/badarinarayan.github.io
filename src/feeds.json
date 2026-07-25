@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-25T11:57:06Z",
+  "generated": "2026-07-25T13:17:35Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,12 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "Violent crypto attacks rise as criminals hunt bigger payouts",
+          "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/violent-crypto-attacks-rise-as-criminals-hunt-bigger-payouts/articleshow/132625026.cms",
+          "date": "25 Jul 2026",
+          "summary": "Physical attacks targeting cryptocurrency holders surged 33% globally in the first half of 2026, with losses soaring to $124 million. France emerged as the epicentre as criminals increasingly combined cyber intelligence, social engineering and violence to stea…"
+        },
         {
           "title": "IDFC First Bank Q1 Results: Profit shoots up 132% YoY to record Rs 1,075 crore; NII jumps 21%",
           "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/idfc-first-bank-q1-results-profit-shoots-up-132-yoy-to-record-rs-1075-crore-nii-jumps-21/articleshow/132624296.cms",
@@ -26,22 +32,16 @@
           "summary": "NTPC's board approved raising Rs 12,000 crore via non-convertible debentures. The company's group installed capacity grew to 90,904 MW by June 2026. Commercial power generation rose to 93.63 billion units in the April-June quarter. Coal-based plant load factor…"
         },
         {
+          "title": "Retirement planning at 50: How a Rs 1.3 crore bond portfolio can generate nearly Rs 1 lakh a month",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/retirement-planning-at-50-how-a-rs-1-3-crore-bond-portfolio-can-generate-nearly-rs-1-lakh-a-month/articleshow/132619701.cms",
+          "date": "25 Jul 2026",
+          "summary": "Financial experts say retirement planning should focus on purpose-driven portfolios rather than arbitrary corpus targets. A balanced mix of liquidity, fixed income and equities can provide stable income, protect against inflation and support long-term financia…"
+        },
+        {
           "title": "Bitcoin stays near $64K, Ethereum underperforms as weak risk appetite keeps crypto markets under pressure",
           "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-stays-near-64k-ethereum-underperforms-as-weak-risk-appetite-keeps-crypto-markets-under-pressure/articleshow/132621788.cms",
           "date": "25 Jul 2026",
           "summary": "Bitcoin traded near $64,000 and Ethereum underperformed as risk appetite weakened. The global crypto market capitalization edged down 2% to $2.19 trillion. Bitcoin's realized volatility is near multi-year lows, suggesting a coiled market. Ethereum remained com…"
-        },
-        {
-          "title": "Concurrent Gainers: 12 smallcap stocks that gain for 5 days in a row",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-12-smallcap-stocks-that-gain-for-5-days-in-a-row/slideshow/132621737.cms",
-          "date": "25 Jul 2026",
-          "summary": "Despite a five-session Sensex decline of 2.68%, Huhtamaki India, Sri Lotus Developers, Nilkamal, JK Paper, and other smallcaps defied the selloff, gaining between 4% and 34% over the period."
-        },
-        {
-          "title": "F&amp;O Talk: Nifty looks weak on chart, says Sudeep Shah; outlines HDFC Bank, Bluestone Strategy after Q1",
-          "link": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-nifty-looks-weak-on-chart-says-sudeep-shah-outlines-hdfc-bank-bluestone-strategy-after-q1/articleshow/132621304.cms",
-          "date": "25 Jul 2026",
-          "summary": "Nifty ended a fifth straight losing session with SBI Securities warning that a break below 23,600 could deepen the correction. Bank Nifty faces key support at 55,800, while HAL, Titan, Manappuram Finance and United Spirits remain technically strong despite wea…"
         },
         {
           "title": "India-UK CETA takes effect: First zero-duty Indian coffee, jewellery consignments reach UK shores",
@@ -196,10 +196,28 @@
       "ok": true,
       "items": [
         {
+          "title": "'We withdraw agitation': CJP asks protesters to go home after assurances from Centre",
+          "link": "https://timesofindia.indiatimes.com/india/we-withdraw-agitation-in-good-faith-cjp-asks-protesters-to-go-home-after-talks-with-centre-pradhans-exit/articleshow/132625595.cms",
+          "date": "25 Jul 2026",
+          "summary": ""
+        },
+        {
+          "title": "Quashing of FIRs, compensation &amp; 5-point Charter: What Centre, CJP said in joint press meet",
+          "link": "https://timesofindia.indiatimes.com/india/firs-against-protesters-to-be-quashed-compensation-to-be-given-5-point-charter-what-centre-cjp-said-in-joint-press-meet/articleshow/132625437.cms",
+          "date": "25 Jul 2026",
+          "summary": "The Cockroach Janta Party ended its 36-day protest at Jantar Mantar. This decision followed three rounds of talks with the central government delegation. The government accepted two key demands, including the minister's resignation. All legal cases filed again…"
+        },
+        {
           "title": "Dharmendra Pradhan resigns as Union education minister amid massive student protests",
           "link": "https://timesofindia.indiatimes.com/india/dharmendra-pradhan-resigns-as-union-education-minister-amid-massive-student-protests/articleshow/132622408.cms",
           "date": "25 Jul 2026",
           "summary": "Union Education Minister Dharmendra Pradhan has resigned from his position. He submitted his resignation letter to Prime Minister Narendra Modi. This action comes amid ongoing protests concerning the NEET paper leak. The government has taken immediate cognizan…"
+        },
+        {
+          "title": "Andrej Karpathy who coined Vibe Coding shares tips for writing better AI prompts",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/andrej-karpathy-who-coined-the-term-vibe-coding-shares-user-tips-for-writing-better-ai-prompts/articleshow/132605062.cms",
+          "date": "24 Jul 2026",
+          "summary": "AI researcher Andrej Karpathy suggests users should ramble into AI chatbots. He believes this approach provides more data for the AI to process effectively. This method allows humans to quickly share all thoughts and nuances without strict phrasing. The AI the…"
         },
         {
           "title": "'Proud of you, Pradhan's exit a signal ... let's get rid of this regime': Rahul hails youth",
@@ -214,28 +232,10 @@
           "summary": ""
         },
         {
-          "title": "Watch: CJP's Abhijeet Dipke falls to stage after being told Pradhan has resigned",
-          "link": "https://timesofindia.indiatimes.com/india/watch-cjps-abhijeet-dipke-falls-on-stage-after-being-told-dharmendra-pradhan-has-resigned/articleshow/132622699.cms",
+          "title": "Who is Yash Thakur? Vidarbha pacer making his India debut against Zimbabwe",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/who-is-yash-thakur-vidarbha-pacer-making-his-india-debut-in-second-t20i-against-zimbabwe/articleshow/132625218.cms",
           "date": "25 Jul 2026",
-          "summary": "Abhijeet Dipke fell on stage after learning of Dharmendra Pradhan's resignation. He declared the resignation a victory but vowed protests would continue. Dipke demanded compensation for families and action against police officers. Pradhan accepted responsibili…"
-        },
-        {
-          "title": "Sergey Brin back as world's third richest after Google's $255bn wipeout",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/sergey-brin-rises-again-to-worlds-third-richest-back-above-jeff-bezos-and-michael-dell-day-after-he-lost-millions-as-google-roughly-got-255-billion-erased-in-market-value-in-the-largest-one-day-valuation-loss-in-the-companys-history/articleshow/132621251.cms",
-          "date": "25 Jul 2026",
-          "summary": "Google co-founder Sergey Brin regained third place on Forbes' real-time billionaires list. This shift occurred after a modest increase in his net worth on Friday. Alphabet's stock decline had briefly pushed him down to fifth place. The company's market value d…"
-        },
-        {
-          "title": "Shreyas Iyer's remarkable streak ends! India captain loses first T20I toss",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/shreyas-iyers-remarkable-streak-ends-india-captain-loses-first-t20i-toss/articleshow/132624443.cms",
-          "date": "25 Jul 2026",
-          "summary": "Shreyas Iyer's remarkable eight-toss winning streak concluded in Harare on Saturday. Zimbabwe captain Sikandar Raza won the toss and chose to field first. Iyer admitted he would have preferred batting on the improved pitch conditions. Yash Thakur debuted for I…"
-        },
-        {
-          "title": "'We won't go': CJP's Dipke says protests to continue till all demands met",
-          "link": "https://timesofindia.indiatimes.com/india/we-wont-go-abhijeet-dipke-says-protests-to-continue-till-all-demands-met-whats-next-for-cjp/articleshow/132622980.cms",
-          "date": "25 Jul 2026",
-          "summary": "Union Education Minister Dharmendra Pradhan has resigned from his post. Protests at Jantar Mantar will continue until further demands are met. The Cockroach Janata Party founder stated two remaining demands for the government. Compensation of one crore rupees…"
+          "summary": "The 27-year-old fast bowler from Vidarbha earned his maiden India cap after consistent performances in domestic cricket and for India A."
         },
         {
           "title": "NY mayor hires Lina Khan who went after Amazon, Meta and Google in her days as FTC head",
@@ -244,22 +244,58 @@
           "summary": "New York City mayor Zohran Mamdani has roped in Lina Khan to lead the board of directors for the New York City Economic Development Corporation (EDC). The former chair of the Federal Trade Commission (FTC) known for her aggressive antitrust lawsuits against Bi…"
         },
         {
-          "title": "Two scientists, one deadly destination: NASA thinks it can be done",
-          "link": "https://timesofindia.indiatimes.com/science/two-scientists-are-planning-to-venture-into-one-of-the-most-dangerous-environments-in-the-solar-system-and-touch-it-nasa-thinks-the-plan-could-work/articleshow/132623675.cms",
+          "title": "This AI data centre promised no Colorado River water. Now it wants 260mn gallons",
+          "link": "https://timesofindia.indiatimes.com/world/us/a-proposed-330-megawatt-ai-data-centre-in-california-promised-not-to-use-colorado-river-water-now-it-wants-260-million-gallons-a-year/articleshow/132625027.cms",
           "date": "25 Jul 2026",
-          "summary": "For centuries, space has fascinated humans like no other. From the sun's glare to the moon's surface and even Saturn's shimmering rings, we have wanted to go up close and see it all. Now, two ambitious NASA-backed projects aim to truly touch Saturn's rings, ve…"
+          "summary": "Deemed as the largest AI data centre in the state, the 330-megawatt unit earlier promised to not use water from Colorado River. But now, the developer behind the project is suing for access to the river water which is already a threatened source of freshwater…"
         },
         {
-          "title": "A single tree can make 9 million seeds - and it's invading Queensland",
-          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/in-1937-a-botanical-garden-in-tahiti-planted-an-ornamental-tree-today-a-single-tree-can-produce-8-9-million-seeds-and-threaten-queenslands-world-heritage-rainforests/articleshow/132622437.cms",
+          "title": "New England's solar panels paid off big during the 2026 heatwave",
+          "link": "https://timesofindia.indiatimes.com/world/us/new-england-began-investing-in-rooftop-solar-panels-in-2010-people-saved-130-million-in-energy-costs-during-the-2026-june-july-heatwave/articleshow/132624811.cms",
           "date": "25 Jul 2026",
-          "summary": "An ornamental tree planted in Tahiti in 1937 now poses a serious biosecurity threat. This invasive miconia species aggressively invades forests and smothers native vegetation. A single mature tree can produce millions of seeds, rapidly spreading across landsca…"
+          "summary": "According to a new report from Acadia Center, during the heat wave that hit New England between June 28 and July 4, distributed solar projects contributed more than six gigawatts in electricity, saving ratepayers about $130-$149 million collectively.On July 2…"
         },
         {
-          "title": "FBI complaint, 10 days, SOS to China: How OpenAI found AI agent hacked Hugging Face",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/complaint-to-fbi-10-long-days-and-an-sos-call-to-chinese-company-is-what-took-openai-to-realise-its-ai-agent-has-hacked-into-hugging-face-the-worlds-largest-repository-of-ai-models/articleshow/132621653.cms",
+          "title": "Jeff Bezos ex-wife MacKenzie Scott helped write a 'donation playbook' for Snap founder",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-ex-wife-mackenzie-scott-who-sold-half-of-her-amazon-stake-helped-write-a-donation-playbook-that-snap-founder-evan-spiegel-is-following/articleshow/132625669.cms",
           "date": "25 Jul 2026",
-          "summary": "OpenAI's AI agent escaped testing and breached Hugging Face undetected. The intrusion lasted several days before OpenAI alerted the platform. Hugging Face had already alerted the FBI and publicly disclosed the incident. OpenAI stated the incident was unprecede…"
+          "summary": "Snap co-founder Evan Spiegel and Miranda Kerr have donated $550 million to erase medical debt. This significant contribution will benefit over 261,000 Californians facing financial hardship. The donation follows a philanthropic model pioneered by MacKenzie Sco…"
+        },
+        {
+          "title": "'Strength without violence': Wangchuk's wife says India's youth set example for world",
+          "link": "https://timesofindia.indiatimes.com/india/gen-z-has-shown-what-it-means-for-india-to-be-vishwaguru-sonam-wangchuks-wife-after-pradhans-exit/articleshow/132625031.cms",
+          "date": "25 Jul 2026",
+          "summary": ""
+        },
+        {
+          "title": "Watch: CJP's Abhijeet Dipke falls to stage after being told Pradhan has resigned",
+          "link": "https://timesofindia.indiatimes.com/india/watch-cjps-abhijeet-dipke-falls-on-stage-after-being-told-dharmendra-pradhan-has-resigned/articleshow/132622699.cms",
+          "date": "25 Jul 2026",
+          "summary": "Abhijeet Dipke fell on stage after learning of Dharmendra Pradhan's resignation. He declared the resignation a victory but vowed protests would continue. Dipke demanded compensation for families and action against police officers. Pradhan accepted responsibili…"
+        },
+        {
+          "title": "Shreyas Iyer's remarkable streak ends! India captain loses first T20I toss",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/shreyas-iyers-remarkable-streak-ends-india-captain-loses-first-t20i-toss/articleshow/132624443.cms",
+          "date": "25 Jul 2026",
+          "summary": "Shreyas Iyer's remarkable eight-toss winning streak concluded in Harare on Saturday. Zimbabwe captain Sikandar Raza won the toss and chose to field first. Iyer admitted he would have preferred batting on the improved pitch conditions. Yash Thakur debuted for I…"
+        },
+        {
+          "title": "Priyanka, Alia, Vicky react to Dharmendra Pradhan's resignation",
+          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dharmendra-pradhans-resignation-priyanka-chopra-jonas-alia-bhatt-vicky-kaushal-and-others-celebrate-the-victory/articleshow/132624969.cms",
+          "date": "25 Jul 2026",
+          "summary": "Union Education Minister Dharmendra Pradhan has submitted his resignation to Prime Minister Narendra Modi. This development follows weeks of student protests concerning the NEET exam controversy. Many students celebrating the minister's resignation gathered at…"
+        },
+        {
+          "title": "'We won't go': CJP's Dipke says protests to continue till all demands met",
+          "link": "https://timesofindia.indiatimes.com/india/we-wont-go-abhijeet-dipke-says-protests-to-continue-till-all-demands-met-whats-next-for-cjp/articleshow/132622980.cms",
+          "date": "25 Jul 2026",
+          "summary": "Union Education Minister Dharmendra Pradhan has resigned from his post. Protests at Jantar Mantar will continue until further demands are met. The Cockroach Janata Party founder stated two remaining demands for the government. Compensation of one crore rupees…"
+        },
+        {
+          "title": "'Congratulations, My Dear Cockroaches': Prakash Raj reacts to Dharmendra Pradhan's resignation",
+          "link": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/congratulations-my-dear-cockroaches-prakash-raj-reacts-to-dharmendra-pradhans-resignation/articleshow/132624450.cms",
+          "date": "25 Jul 2026",
+          "summary": "Actor Prakash Raj congratulated protesters following Dharmendra Pradhan's resignation. He praised their efforts for bringing a regime down to its knees. Dharmendra Pradhan announced his resignation in a public letter on X. He reflected on his commitment to stu…"
         },
         {
           "title": "'Salute demonstrators ... Modi-Shah too will go': Oppn on Pradhan's exit",
@@ -338,42 +374,6 @@
           "link": "https://timesofindia.indiatimes.com/sports/nfl/news/inspiring-story-of-the-day-to-my-wife-brittany-my-baby-girl-sterling-and-my-son-bronze-this-crazy-life-that-we-are-living-means-nothing-without-yall-keeping-me-balanced-and-making-me-appreciate-every-single-day-how-patrick-mahomes-turned-family-support-and-adversity-into-nfl-greatness/articleshow/132617164.cms",
           "date": "25 Jul 2026",
           "summary": "Patrick Mahomes says his greatest strength is not just football but the support of his family. From overcoming injuries to balancing life as a husband and father, he credits Brittany Mahomes and their children for keeping him grounded. His emotional words and…"
-        },
-        {
-          "title": "'Sack Pradhan from Cabinet': Rahul says ministerial reshuffle won't quell protest",
-          "link": "https://timesofindia.indiatimes.com/india/sack-pradhan-from-cabinet-rahul-says-reshuffling-minister-wont-quell-protest/articleshow/132620739.cms",
-          "date": "25 Jul 2026",
-          "summary": "\"Students have three demands, and these are not negotiable demands... The first demand is that the Education Minister, who is corrupt, incompetent, and misaligned, has to be sacked... There's some talk going on in Modi's cabinet that the solution is to move Dh…"
-        },
-        {
-          "title": "Shabana Azmi tests positive for H1N1, says she's in isolation but getting on-ground protest updates",
-          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shabana-azmi-tests-positive-for-h1n1-says-shes-in-isolation-but-getting-on-ground-protest-updates/articleshow/132621021.cms",
-          "date": "25 Jul 2026",
-          "summary": "Shabana Azmi has tested positive for H1N1 and swine flu, running a 102-degree fever, and will isolate for five days. Despite missing the protests, she remains in touch with on-ground updates and expressed solidarity via a post featuring her father Kaifi Azmi's…"
-        },
-        {
-          "title": "CJP says 'ab aayega aur maza' as farmers to join Jantar Mantar protest on Sunday",
-          "link": "https://timesofindia.indiatimes.com/india/ab-aayega-aur-maza-cjp-says-time-is-ticking-as-farmers-announce-march-to-jantar-mantar-on-sunday/articleshow/132620194.cms",
-          "date": "25 Jul 2026",
-          "summary": ""
-        },
-        {
-          "title": "Delhi: Cab driver found stabbed to death in car; passengers under suspicion",
-          "link": "https://timesofindia.indiatimes.com/city/delhi/cabbie-found-dead-in-car-cops-suspect-passengers/articleshow/132617869.cms",
-          "date": "25 Jul 2026",
-          "summary": "A 40-year-old cab driver was discovered stabbed inside his vehicle in Krishna Nagar. Police suspect passengers hired the car shortly before the fatal incident occurred. Vijay Kumar was found with multiple stab wounds while inside the driver's seat. His wallet…"
-        },
-        {
-          "title": "'Jana Nayagan' Day 3: Vijay's film adds Rs 1.94 Cr, India net hits Rs 65.79 Cr",
-          "link": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-box-office-collections-day-3-live-thalapathy-vijay-and-pooja-hegdes-film-adds-rs-1-94-crore-india-net-touches-rs-65-79-crore/articleshow/132620794.cms",
-          "date": "25 Jul 2026",
-          "summary": "Thalapathy Vijay's 'Jana Nayagan' continues its strong theatrical run after a record opening. The film has garnered over Rs 65 crore net in India within three days. Worldwide gross collections for the movie have surpassed Rs 112 crore after two days. Day two s…"
-        },
-        {
-          "title": "India's para cyclist Lisha Das rejects federation's support, opts for own kit and flag",
-          "link": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/indias-para-cyclist-lisha-das-rejects-federations-support-opts-for-own-kit-and-flag/articleshow/132620636.cms",
-          "date": "25 Jul 2026",
-          "summary": ""
         }
       ]
     },
@@ -828,6 +828,12 @@
       "ok": true,
       "items": [
         {
+          "title": "KDnuggets Weekly Roundup: Week of July 20, 2026",
+          "link": "https://www.kdnuggets.com/kdnuggets-weekly-roundup-2026-07-20",
+          "date": "25 Jul 2026",
+          "summary": "Top 5 MCP Servers for High Performance Agentic Development • 10 Newsletters Keeping You Ahead in AI • Kaggle + Google’s Free 5-Day Agentic AI Course • Language Model Hallucination Evaluation with GraphEval"
+        },
+        {
           "title": "Language Model Hallucination Evaluation with GraphEval",
           "link": "https://www.kdnuggets.com/language-model-hallucination-evaluation-with-grapheval",
           "date": "24 Jul 2026",
@@ -880,12 +886,6 @@
           "link": "https://www.kdnuggets.com/a-beginners-guide-to-setting-up-claude-code-for-high-performance-agentic-programming",
           "date": "20 Jul 2026",
           "summary": "This article walks through the actual configuration, permissions, hooks, and command habits that separate a fresh install from a setup that holds up under real, sustained agentic work."
-        },
-        {
-          "title": "Top 5 MCP Servers for High-Performance Agentic Development",
-          "link": "https://www.kdnuggets.com/top-5-mcp-servers-for-high-performance-agentic-development",
-          "date": "20 Jul 2026",
-          "summary": "Here are five that are genuinely worth wiring into a high-performance agent development setup, chosen for what they do to an agent's actual capability rather than their star count."
         }
       ]
     },
@@ -1630,184 +1630,184 @@
       "ok": true,
       "items": [
         {
-          "title": "owl24-py added to PyPI",
-          "link": "https://pypi.org/project/owl24-py/",
+          "title": "snapvisor added to PyPI",
+          "link": "https://pypi.org/project/snapvisor/",
           "date": "25 Jul 2026",
-          "summary": "Custom owl24 OpenTelemetry wrapper with data masking"
+          "summary": "Official Python SDK and CLI for the Snapvisor visual regression testing platform."
         },
         {
-          "title": "omnicrawl-agent added to PyPI",
-          "link": "https://pypi.org/project/omnicrawl-agent/",
+          "title": "pbix-lineage added to PyPI",
+          "link": "https://pypi.org/project/pbix-lineage/",
           "date": "25 Jul 2026",
-          "summary": "Local OmniCrawl agent with TUI, tools, MCP and NPM Hook plugins"
+          "summary": "Universal lineage graph for Power BI (.pbix) files, from physical source to report display."
         },
         {
-          "title": "dbcake added to PyPI",
-          "link": "https://pypi.org/project/dbcake/",
+          "title": "fianza-agent-sdk added to PyPI",
+          "link": "https://pypi.org/project/fianza-agent-sdk/",
           "date": "25 Jul 2026",
-          "summary": "A lightweight key-value database, file manager, and secrets API client library"
+          "summary": "Python SDK for AI agents to take and repay revenue-underwritten credit on Fianza (Stellar). Settles in USDC."
         },
         {
-          "title": "guard-core-mcp added to PyPI",
-          "link": "https://pypi.org/project/guard-core-mcp/",
+          "title": "banwords added to PyPI",
+          "link": "https://pypi.org/project/banwords/",
           "date": "25 Jul 2026",
-          "summary": "MCP server for the Guard ecosystem — config validation, docs search and live threat detection for fastapi-guard, guard-core and guard-agent."
+          "summary": "Python tool. Scans project and alerts by words-list"
         },
         {
-          "title": "glyphpact added to PyPI",
-          "link": "https://pypi.org/project/glyphpact/",
+          "title": "graphion added to PyPI",
+          "link": "https://pypi.org/project/graphion/",
           "date": "25 Jul 2026",
-          "summary": "The deterministic SVG-to-Flutter icon compiler."
+          "summary": "A research framework for graph-based partitioning algorithms."
         },
         {
-          "title": "correcting-machine added to PyPI",
-          "link": "https://pypi.org/project/correcting-machine/",
+          "title": "ugvnet added to PyPI",
+          "link": "https://pypi.org/project/ugvnet/",
           "date": "25 Jul 2026",
-          "summary": "A Machine that corrects errors and mistakes."
+          "summary": "UGVNet: Universal Gradient Vision Network for Skin Disease Classification"
         },
         {
-          "title": "torrdown added to PyPI",
-          "link": "https://pypi.org/project/torrdown/",
+          "title": "fuse-transport added to PyPI",
+          "link": "https://pypi.org/project/fuse-transport/",
           "date": "25 Jul 2026",
-          "summary": "A single-session libtorrent download CLI with resume, dedup, and batch support."
+          "summary": "Socket-style Python bindings for the Fuse UDP transport protocol"
         },
         {
-          "title": "hilbertplot added to PyPI",
-          "link": "https://pypi.org/project/hilbertplot/",
+          "title": "jsat added to PyPI",
+          "link": "https://pypi.org/project/jsat/",
           "date": "25 Jul 2026",
-          "summary": "The complete set of 40 two-dimensional Hilbert curves, and data plots on them."
+          "summary": "JaySoft AI Tools — open-source codebase intelligence shell and SDK"
         },
         {
-          "title": "memshelf-mcp added to PyPI",
-          "link": "https://pypi.org/project/memshelf-mcp/",
+          "title": "g-speech added to PyPI",
+          "link": "https://pypi.org/project/g-speech/",
           "date": "25 Jul 2026",
-          "summary": "Working-memory shelf for AI agents — offload closed topics to a docshelf shelf as digest-indexed episodes, recall by index."
+          "summary": "Interruptible text-to-speech using the Google Translate TTS API."
         },
         {
-          "title": "zcodpy added to PyPI",
-          "link": "https://pypi.org/project/zcodpy/",
+          "title": "wavecord added to PyPI",
+          "link": "https://pypi.org/project/wavecord/",
           "date": "25 Jul 2026",
-          "summary": "توضیح درباره کتابخانه zcodpy"
+          "summary": "High-performance Lavalink v3/v4 client with a Rust core. Library-agnostic (discord.py, py-cord, disnake, nextcord)."
         },
         {
-          "title": "castmd added to PyPI",
-          "link": "https://pypi.org/project/castmd/",
+          "title": "devtorch-cli added to PyPI",
+          "link": "https://pypi.org/project/devtorch-cli/",
           "date": "25 Jul 2026",
-          "summary": "Render Podcast Markdown (a minimal dialogue DSL) into finished podcast audio via pluggable speech providers (ListenHub, ...)"
+          "summary": "DevTorch — command-line interface for the devtorch-core governance SDK"
         },
         {
-          "title": "rustapi-framework added to PyPI",
-          "link": "https://pypi.org/project/rustapi-framework/",
+          "title": "devtorch-core added to PyPI",
+          "link": "https://pypi.org/project/devtorch-core/",
+          "date": "25 Jul 2026",
+          "summary": "DevTorch — AI reasoning capture, audit trail, and governance for agent-assisted development (core library)"
+        },
+        {
+          "title": "limTOD added to PyPI",
+          "link": "https://pypi.org/project/limtod/",
+          "date": "25 Jul 2026",
+          "summary": "Time-Ordered Data simulator for single-dish radio intensity mapping, with a differentiable JAX port (limtod_jax)"
+        },
+        {
+          "title": "okama-macro added to PyPI",
+          "link": "https://pypi.org/project/okama-macro/",
+          "date": "25 Jul 2026",
+          "summary": "Macro-economic data-source clients (CPI, central-bank rates) for the okama project"
+        },
+        {
+          "title": "dislock added to PyPI",
+          "link": "https://pypi.org/project/dislock/",
+          "date": "25 Jul 2026",
+          "summary": "PostgreSQL-backed distributed locks for cron jobs and commands."
+        },
+        {
+          "title": "sbi-tt-rates added to PyPI",
+          "link": "https://pypi.org/project/sbi-tt-rates/",
+          "date": "25 Jul 2026",
+          "summary": "sbi-tt-rates is a lightweight, dependency-free Python library for retrieving historical SBI Telegraphic Transfer (TT) buy and sell forex rates. It automatically falls back to the nearest previous published trading day when an exact date is unavailable, making…"
+        },
+        {
+          "title": "whatbroke-recorder added to PyPI",
+          "link": "https://pypi.org/project/whatbroke-recorder/",
+          "date": "25 Jul 2026",
+          "summary": "Record AI agent traces as whatbroke JSONL. Diff two runs with the whatbroke CLI and see exactly what changed."
+        },
+        {
+          "title": "sortbydict added to PyPI",
+          "link": "https://pypi.org/project/sortbydict/",
+          "date": "25 Jul 2026",
+          "summary": "A Python sort algorithm to sort any types of objects."
+        },
+        {
+          "title": "mcp-fabric-toolmesh added to PyPI",
+          "link": "https://pypi.org/project/mcp-fabric-toolmesh/",
+          "date": "25 Jul 2026",
+          "summary": "Composable tool mesh for MCP ecosystems"
+        },
+        {
+          "title": "house-of-wisdom-mcp added to PyPI",
+          "link": "https://pypi.org/project/house-of-wisdom-mcp/",
+          "date": "25 Jul 2026",
+          "summary": "House of Wisdom MCP — multi-model consultation council. Diverse AI model families investigate independently and return their own perspectives; the orchestrator weighs them. Inspired by the medieval Bayt al-Hikma."
+        },
+        {
+          "title": "parad added to PyPI",
+          "link": "https://pypi.org/project/parad/",
+          "date": "25 Jul 2026",
+          "summary": "CLI client for Nexuss Bash remote execution API"
+        },
+        {
+          "title": "space-memory added to PyPI",
+          "link": "https://pypi.org/project/space-memory/",
+          "date": "25 Jul 2026",
+          "summary": "Personal memory system — semantic search over 149K messages. pip install, importable, no cloud required."
+        },
+        {
+          "title": "vsfgs added to PyPI",
+          "link": "https://pypi.org/project/vsfgs/",
+          "date": "25 Jul 2026",
+          "summary": "A VapourSynth plugin for applying Film Grain Synthesis (FGS) using the dav1d engine."
+        },
+        {
+          "title": "credens-ai added to PyPI",
+          "link": "https://pypi.org/project/credens-ai/",
+          "date": "25 Jul 2026",
+          "summary": "Dempster-Shafer belief propagation middleware for RAG pipelines"
+        },
+        {
+          "title": "iafisher added to PyPI",
+          "link": "https://pypi.org/project/iafisher/",
+          "date": "25 Jul 2026",
+          "summary": "iafisher's utility libraries for Python"
+        },
+        {
+          "title": "actant-motion added to PyPI",
+          "link": "https://pypi.org/project/actant-motion/",
+          "date": "25 Jul 2026",
+          "summary": "Actant — a real-time motion-control platform for AI-driven (agentic) development. Name reservation ahead of the first public release."
+        },
+        {
+          "title": "pyrustapi added to PyPI",
+          "link": "https://pypi.org/project/pyrustapi/",
           "date": "25 Jul 2026",
           "summary": "A FastAPI-style Python web framework with a Rust tokio/hyper core, and a built-in MCP server."
         },
         {
-          "title": "birdlife-hotspot-finder added to PyPI",
-          "link": "https://pypi.org/project/birdlife-hotspot-finder/",
+          "title": "mens added to PyPI",
+          "link": "https://pypi.org/project/mens/",
           "date": "25 Jul 2026",
-          "summary": "Find data gaps in eBird coverage for volunteer survey prioritization"
+          "summary": "Agent framework with built-in tools, MCP integration, and CLI"
         },
         {
-          "title": "zero-ai-cli added to PyPI",
-          "link": "https://pypi.org/project/zero-ai-cli/",
+          "title": "swiftgate-cli added to PyPI",
+          "link": "https://pypi.org/project/swiftgate-cli/",
           "date": "25 Jul 2026",
-          "summary": "ZeroAI - 终端 AI 编程助手（多专家协作·语音对话·文档生成·安全审计）"
+          "summary": "SwiftGate CLI — autonomous bidirectional agent bridge for SwiftGate OS"
         },
         {
-          "title": "melvin-verifier added to PyPI",
-          "link": "https://pypi.org/project/melvin-verifier/",
+          "title": "shipzy-sdk added to PyPI",
+          "link": "https://pypi.org/project/shipzy-sdk/",
           "date": "25 Jul 2026",
-          "summary": "Melvin: a verifier for Mover Logic (reduction-based rely-guarantee) using Boogie"
-        },
-        {
-          "title": "agent-skill-foundry added to PyPI",
-          "link": "https://pypi.org/project/agent-skill-foundry/",
-          "date": "25 Jul 2026",
-          "summary": "A Python framework for managing reusable AI skills throughout their lifecycle."
-        },
-        {
-          "title": "imoltance added to PyPI",
-          "link": "https://pypi.org/project/imoltance/",
-          "date": "25 Jul 2026",
-          "summary": "None"
-        },
-        {
-          "title": "rust-analyzer-db added to PyPI",
-          "link": "https://pypi.org/project/rust-analyzer-db/",
-          "date": "25 Jul 2026",
-          "summary": "Professional Rust code analysis tool using tree-sitter — extracts, indexes, and analyzes Rust source code with call graphs, complexity metrics, and dependency tracking."
-        },
-        {
-          "title": "jupyterlab-resource-monitor-extension added to PyPI",
-          "link": "https://pypi.org/project/jupyterlab-resource-monitor-extension/",
-          "date": "25 Jul 2026",
-          "summary": "JupyterLab extension replacing jupyter-resource-usage with a less intrusive, better implementation of resource usage monitoring"
-        },
-        {
-          "title": "jupyterlab-codex-extension added to PyPI",
-          "link": "https://pypi.org/project/jupyterlab-codex-extension/",
-          "date": "25 Jul 2026",
-          "summary": "Session management for the OpenAI Codex CLI in JupyterLab"
-        },
-        {
-          "title": "evidion added to PyPI",
-          "link": "https://pypi.org/project/evidion/",
-          "date": "25 Jul 2026",
-          "summary": "Open Research Intelligence for the terminal"
-        },
-        {
-          "title": "alpha-avatar-plugins-router added to PyPI",
-          "link": "https://pypi.org/project/alpha-avatar-plugins-router/",
-          "date": "25 Jul 2026",
-          "summary": "AlphaAvatar Framework plugin for realtime multimodal interaction routing"
-        },
-        {
-          "title": "epistemic-engine added to PyPI",
-          "link": "https://pypi.org/project/epistemic-engine/",
-          "date": "25 Jul 2026",
-          "summary": "Computational epistemology for software: extract code beliefs, verify AI-generated changes, and forecast where confidence will collapse."
-        },
-        {
-          "title": "ontodag-fs added to PyPI",
-          "link": "https://pypi.org/project/ontodag-fs/",
-          "date": "25 Jul 2026",
-          "summary": "Stateless fsspec adapter presenting an OntoDAG concept lattice as a browsable filesystem, with bytes on Ethereum Swarm via swarmfs."
-        },
-        {
-          "title": "qalib-cli added to PyPI",
-          "link": "https://pypi.org/project/qalib-cli/",
-          "date": "25 Jul 2026",
-          "summary": "Scaffold data-driven apps from declarative YAML DocTypes - Frappe-inspired, MySQL-backed, with a cute TUI."
-        },
-        {
-          "title": "mypy-config-generator added to PyPI",
-          "link": "https://pypi.org/project/mypy-config-generator/",
-          "date": "25 Jul 2026",
-          "summary": "Generates mypy configuration"
-        },
-        {
-          "title": "cellrune added to PyPI",
-          "link": "https://pypi.org/project/cellrune/",
-          "date": "25 Jul 2026",
-          "summary": "Headless XLSX/XLSM reading, deterministic calculation, editing, and writing"
-        },
-        {
-          "title": "osv-scan added to PyPI",
-          "link": "https://pypi.org/project/osv-scan/",
-          "date": "25 Jul 2026",
-          "summary": "Zero-dependency CVE scanner for dependency manifests — wraps the free OSV.dev API"
-        },
-        {
-          "title": "ruff-config-generator added to PyPI",
-          "link": "https://pypi.org/project/ruff-config-generator/",
-          "date": "25 Jul 2026",
-          "summary": "Generates ruff configuration"
-        },
-        {
-          "title": "mdhtml added to PyPI",
-          "link": "https://pypi.org/project/mdhtml/",
-          "date": "25 Jul 2026",
-          "summary": "A bounded-time, Pandoc-leaning Markdown parser with GFM, Extra/kramdown, math, fenced divs, and MDHTML output."
+          "summary": "Official Shipzy logistics platform Python SDK (early alpha, WIP)"
         }
       ]
     }
