@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-25T00:04:13Z",
+  "generated": "2026-07-25T03:57:30Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,12 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "Wall Street Week Ahead: US stocks face tests from Fed decision, tech-led earnings deluge",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/wall-street-week-ahead-us-stocks-face-tests-from-fed-decision-tech-led-earnings-deluge/articleshow/132618500.cms",
+          "date": "25 Jul 2026",
+          "summary": "Investors await the Federal Reserve's interest rate decision and corporate earnings reports. Technology giants and artificial intelligence companies will release their quarterly results. Rising oil prices and inflation concerns add complexity to the economic o…"
+        },
         {
           "title": "US stocks today: Nasdaq lags on angst over AI spending ahead of earnings reports",
           "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-nasdaq-lags-on-angst-over-ai-spending-ahead-of-earnings-reports/articleshow/132614541.cms",
@@ -36,12 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/motilal-oswal-shares-in-focus-after-q1-net-profit-rises-10-aum-increases-by-31/articleshow/132595555.cms",
           "date": "24 Jul 2026",
           "summary": "Motilal Oswal Financial Services reported a consolidated net profit of Rs 1,273 crore for Q1 FY27. Revenue from operations jumped over 25% year-on-year to Rs 3,426 crore during the quarter. The company achieved its highest ever operating profit after tax of Rs…"
-        },
-        {
-          "title": "IndiGo shares sink 3% after Rs 238 crore Q1 loss, but why are Citi and Nuvama raising target prices?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/indigo-shares-fall-2-after-rs-238-crore-q1-loss-so-why-are-citi-and-nuvama-raising-target-prices/articleshow/132595961.cms",
-          "date": "24 Jul 2026",
-          "summary": "InterGlobe Aviation (IndiGo) reported a Q1FY27 net loss of Rs 238 crore as soaring fuel costs pushed expenses ahead of revenue growth. Despite the earnings miss, brokerages including Citi and Nuvama retained their 'Buy' ratings and raised target prices, citing…"
         },
         {
           "title": "India-UK CETA takes effect: First zero-duty Indian coffee, jewellery consignments reach UK shores",
@@ -196,58 +196,46 @@
       "ok": true,
       "items": [
         {
-          "title": "Grain, not guns: MEA rejects Russia's claim on deadly ship attack that killed 4 Indians",
-          "link": "https://timesofindia.indiatimes.com/india/grain-not-guns-india-rejects-russias-claim-on-deadly-ship-attack/articleshow/132611235.cms",
-          "date": "24 Jul 2026",
-          "summary": "India's Ministry of External Affairs stated the MV Golden Leo carried grain, not weapons. This contradicts Russia's assertion regarding the ship's cargo and its attack. The vessel's tragic incident resulted in the deaths of four Indian seafarers. India reitera…"
-        },
-        {
-          "title": "CWG: Jhandu Kumar wins India's first medal; day 2 brings mixed results in Glasgow",
-          "link": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/commonwealth-games-jhandu-kumar-wins-indias-first-medal-in-para-powerlifting-day-2-brings-mixed-results-in-glasgow/articleshow/132614709.cms",
+          "title": "Government objects to China illegally occupying Indian territory",
+          "link": "https://timesofindia.indiatimes.com/india/government-objects-to-china-illegally-occupying-indian-territory/articleshow/132617513.cms",
           "date": "25 Jul 2026",
-          "summary": "Jhandu Kumar opened India's medal account by winning bronze in the men's heavyweight para powerlifting event."
+          "summary": "'Delhi Consistent In Not Violating Beijing Sovereignty'"
         },
         {
-          "title": "Trump returns to White House Correspondents' dinner months after shooting forced delay",
-          "link": "https://timesofindia.indiatimes.com/world/us/trump-returns-to-white-house-correspondents-dinner-months-after-shooting-forced-postponement/articleshow/132617111.cms",
-          "date": "25 Jul 2026",
-          "summary": "President Trump attended the rescheduled White House Correspondents' Association dinner. This event followed a shooting incident outside the original venue in April. The president addressed journalists from major news organizations after months of media clashe…"
-        },
-        {
-          "title": "CJP-Centre 3rd round of talks today; PM Modi, Wangchuk release late night video",
+          "title": "CJP-Centre 3rd round of talks today; PM Modi, Wangchuk release late night videos",
           "link": "https://timesofindia.indiatimes.com/india/jantar-mantar-protest-cjp-centre-talks-deadlocked-no-clarity-on-pradhans-exit-sc-to-take-up-pleas-on-police-brutality-top-developments/articleshow/132605963.cms",
           "date": "24 Jul 2026",
           "summary": ""
         },
         {
-          "title": "UK PM picks three new Indian-origin MPs from 2024 intake to join front bench",
-          "link": "https://timesofindia.indiatimes.com/world/uk/burnham-picks-three-new-pio-mps-from-2024-intake-to-join-front-bench-malhotra-and-gill-return-to-backbenches/articleshow/132614652.cms",
+          "title": "'Why is he always retained?': Ashwin fires back at Mayank Yadav's critics",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/why-is-he-always-retained-ashwin-fires-back-at-mayank-yadavs-critics/articleshow/132617945.cms",
           "date": "25 Jul 2026",
-          "summary": ""
+          "summary": "Mayank Yadav made a strong comeback in his first international match since October 2024. He secured Player of the Match for his impressive bowling performance against Zimbabwe. This marked a significant return after a period of injury-related setbacks for the…"
         },
         {
-          "title": "Google expands in Miami after Page &amp; Brin's $225m Florida homes; leased space quadruples",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/sergey-brin-and-larry-page-with-combined-wealth-of-more-than-573-billion-have-bought-homes-in-florida-what-this-expansion-into-billionaire-bunkers-has-meant-for-google-office-space/articleshow/132613026.cms",
+          "title": "'No talks unless Dharmendra Pradhan resigns': CJP warns of protest escalation",
+          "link": "https://timesofindia.indiatimes.com/city/delhi/no-point-in-talks-if-dharmendra-pradhan-doesnt-resign-well-take-tougher-stand-cjp/articleshow/132617768.cms",
           "date": "25 Jul 2026",
-          "summary": "Google co-founders Sergey Brin and Larry Page have bought waterfront homes worth over $225 million in Florida. Their company, Google parent Alphabet, has also expanded its Miami office space significantly. The tech giant increased its leased office footprint m…"
+          "summary": "The Cockroach Janta Party continues its protest demanding Union Education Minister Dharmendra Pradhan's resignation. They received positive responses on compensation and legal cases during recent government meetings. However, the group states no concrete decis…"
         },
         {
-          "title": "Setback for Trump: US appeals court refuses to revive $100,000 H-1B visa fee",
-          "link": "https://timesofindia.indiatimes.com/business/international-business/setback-for-trump-us-appeals-court-refuses-to-revive-100000-h-1b-visa-fee/articleshow/132617133.cms",
+          "title": "US updates list of H-1B disqualified firms; names these 4 as 'willful violators'",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/us-government-updates-list-of-h-1b-debarred/disqualified-companies-names-these-four-as-willful-violators-heres-what-this-means/articleshow/132612992.cms",
           "date": "25 Jul 2026",
-          "summary": "A federal appeals court refused to lift a ruling blocking a $100,000 H-1B visa fee. The court left in place a decision finding the fee unlawful while the government challenges it. Democratic attorneys general argued the administration created a new tax without…"
+          "summary": "The US Department of Labor has updated its list of H-1B visa program violators. Four companies are now temporarily barred from filing H-1B petitions. GowraTech, LLC and Renotek Group LLC face debarment until 2027. Seeloz, Inc. and Sherwood Academy are barred u…"
         },
         {
-          "title": "SpaceX launches 13th Starship test flight, deploys 20 next-generation Starlink satellites",
-          "link": "https://timesofindia.indiatimes.com/world/us/spacex-launches-13th-starship-test-flight-deploys-20-next-generation-starlink-satellites/articleshow/132617075.cms",
+          "title": "20-yr-old army officer's son dies after car falls into open drain in south Delhi",
+          "link": "https://timesofindia.indiatimes.com/city/delhi/20-year-old-us-student-army-officers-son-dies-as-car-plunges-into-open-drain-in-south-delhi/articleshow/132617481.cms",
           "date": "25 Jul 2026",
-          "summary": ""
+          "summary": "Tragedy struck Vasant Kunj when a 20-year-old student named Yashvendra lost his life after his car rolled into an open drain. Having just returned from the United States, he was accompanied by a woman who managed to escape unharmed. Poor road conditions, exace…"
         },
         {
-          "title": "12.5% to 10%: Why Trump admin imposed reduced tariff rate on India &amp; what it means",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/12-5-to-10-why-donald-trump-administration-imposed-reduced-tariff-rate-under-section-301-on-india-for-forced-labour-what-it-means/articleshow/132602928.cms",
-          "date": "24 Jul 2026",
-          "summary": "US Trade Representative Jamieson Greer announced the revised tariffs on 60 economies on Thursday, one day before the expiry of the temporary additional 10% duties that had been imposed on imports from all countries."
+          "title": "From selling vegetables to e-rickshaw driver: Bihar's Jhandu is now India's first CWG 2026 medallist",
+          "link": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/from-selling-vegetables-to-e-rickshaw-driver-now-indias-first-cwg-2026-medallist-how-bihars-jhandu-kumar-defied-all-odds/articleshow/132617606.cms",
+          "date": "25 Jul 2026",
+          "summary": "Bihar's Jhandu Kumar won India's first para powerlifting medal at the 2026 Commonwealth Games, claiming bronze in Glasgow after years of struggle. A former e-rickshaw driver who overcame financial hardship and polio, he lifted 190kg to reach the podium. \"I fee…"
         },
         {
           "title": "US to top universities: Scientists can 'help' America beat China more than you",
@@ -256,22 +244,22 @@
           "summary": "The US government plans to fund individual scientists directly, moving away from large institutions. This strategic shift aims to accelerate technological discovery and maintain American leadership in science. Federal agencies are tasked with submitting action…"
         },
         {
-          "title": "Why was Tony Romo arrested? Former Cowboys star faces unexpected legal trouble in Wisconsin",
-          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/why-was-tony-romo-arrested-former-cowboys-star-faces-unexpected-legal-trouble-in-wisconsin/articleshow/132616746.cms",
+          "title": "'Credible threat' from Iran proxies forced Trump to switch planes mid-trip: Report",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/credible-threat-from-iran-proxies-forced-trump-to-switch-planes-mid-trip-report/articleshow/132617982.cms",
           "date": "25 Jul 2026",
-          "summary": "Tony Romo was arrested in Milwaukee on suspicion of driving under the influence after deputies stopped his vehicle on Interstate 43. The former Dallas Cowboys quarterback was booked and later released, with a court appearance set for September 21. Officials ha…"
+          "summary": ""
         },
         {
-          "title": "Ships trapped near Strait of Hormuz could become nurseries for invasive species",
-          "link": "https://timesofindia.indiatimes.com/science/thousands-of-idle-ships-trapped-near-the-strait-of-hormuz-could-become-floating-nurseries-for-invasive-marine-species-and-spread-them-worldwide-when-trade-resumes/articleshow/132576193.cms",
-          "date": "23 Jul 2026",
-          "summary": "Ships lingering in the Persian Gulf could unintentionally facilitate the spread of harmful marine invaders worldwide. Extended anchorage allows marine organisms to thrive on the hulls, creating significant biofouling concerns that threaten global maritime comm…"
-        },
-        {
-          "title": "4 moose released in 1904 became 200,000 and changed Newfoundland forests",
-          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/in-1904-newfoundland-released-four-moose-to-attract-hunters-their-population-later-reached-200000-and-began-reshaping-the-islands-forests/articleshow/132604580.cms",
+          "title": "Scotland planted trees on ancient peatland. Now it is removing them",
+          "link": "https://timesofindia.indiatimes.com/world/uk/in-the-1980s-scotland-planted-commercial-trees-across-parts-of-a-9000-year-old-peatland-decades-later-conservationists-are-removing-them-to-protect-wildlife-and-keep-its-stored-carbon-in-the-ground/articleshow/132610986.cms",
           "date": "24 Jul 2026",
-          "summary": "A century after just four moose were released in Newfoundland to attract hunters, the introduced animals transformed the island's forests and wildlife management. Their population grew to nearly 200,000 before habitat damage triggered declines. A new managemen…"
+          "summary": "The ancient peatlands of Scotland are undergoing a significant restoration, which addresses the detrimental effects caused by tree planting. Conservationists are diligently working to eliminate commercial trees, aiming to enhance wildlife habitats and maintain…"
+        },
+        {
+          "title": "Florida’s python hunt used 3M camera photos and found only four snakes",
+          "link": "https://timesofindia.indiatimes.com/world/us/florida-scientists-used-female-burmese-pythons-as-live-lures-to-find-invasive-males-in-the-everglades-but-3-million-camera-trap-photos-produced-only-four-python-detections/articleshow/132579858.cms",
+          "date": "23 Jul 2026",
+          "summary": "In Florida, scientists discovered that captive female pythons failed to attract wild males. Utilizing artificial intelligence, researchers sifted through millions of camera images, revealing few python sightings. Additionally, attempts to use mammalian scent l…"
         },
         {
           "title": "NY mayor hires Lina Khan who went after Amazon, Meta and Google in her days as FTC head",
@@ -280,16 +268,94 @@
           "summary": "New York City mayor Zohran Mamdani has roped in Lina Khan to lead the board of directors for the New York City Economic Development Corporation (EDC). The former chair of the Federal Trade Commission (FTC) known for her aggressive antitrust lawsuits against Bi…"
         },
         {
-          "title": "'Thank you, friends': PM Modi hails 'love, support' of youth in new late night video",
-          "link": "https://timesofindia.indiatimes.com/india/thank-you-friends-pm-modi-hails-love-support-of-youth-in-new-insta-video/articleshow/132611836.cms",
-          "date": "24 Jul 2026",
+          "title": "'That's the world we live in': Head breaks silence on wife's abuse after Kohli row",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/thats-the-world-we-live-in-travis-head-breaks-silence-on-wifes-online-abuse-after-virat-kohli-handshake-row/articleshow/132617345.cms",
+          "date": "25 Jul 2026",
+          "summary": "Travis Head dismissed rumours of a feud with Virat Kohli following their IPL 2026 handshake controversy, saying there was \"nothing to patch over.\" The incident sparked online abuse directed at Head's wife, Jessica Davies, and affected their family. Head praise…"
+        },
+        {
+          "title": "Trump confirms Netanyahu's US visit next week amid regional tensions",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/trump-confirms-netanyahus-us-visit-next-week-amid-regional-tensions/articleshow/132617908.cms",
+          "date": "25 Jul 2026",
+          "summary": "Netanyahu and Trump agreed to meet in the United States a few weeks ago following a phone conversation. During the call, Netanyahu congratulated Trump on the 250th anniversary of the founding of the United States and praised the close relationship between the…"
+        },
+        {
+          "title": "Fast-track courts in slow lane now, backlog 2.5 lakh cases",
+          "link": "https://timesofindia.indiatimes.com/india/fast-track-courts-in-slow-lane-now-backlog-2-5-lakh-cases/articleshow/132617268.cms",
+          "date": "25 Jul 2026",
+          "summary": "Of 1.4 Lakh Rape, Pocso Cases Last Year, Just 66,500 Disposed Of"
+        },
+        {
+          "title": "SC: Will go the extra mile to fix issues, make NEET foolproof",
+          "link": "https://timesofindia.indiatimes.com/india/sc-will-go-the-extra-mile-to-fix-issues-make-neet-foolproof/articleshow/132617207.cms",
+          "date": "25 Jul 2026",
           "summary": ""
         },
         {
-          "title": "SC agrees to hear PIL against police excesses on Monday",
-          "link": "https://timesofindia.indiatimes.com/india/sc-agrees-to-hear-pil-against-police-excesses-on-monday/articleshow/132614700.cms",
+          "title": "Students' protest: Could breakthrough with Sonam Wangchuk help govt tackle crisis?",
+          "link": "https://timesofindia.indiatimes.com/india/students-protest-breakthrough-with-sonam-wangchuk-may-help-government-tackle-crisis/articleshow/132617162.cms",
           "date": "25 Jul 2026",
-          "summary": "'Prohibitory orders', P 4"
+          "summary": ""
+        },
+        {
+          "title": "CWG 2026: India's complete schedule, timings and medal events on Day 3",
+          "link": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/cwg-2026-indias-complete-schedule-timings-and-medal-events-on-day-3/articleshow/132609058.cms",
+          "date": "25 Jul 2026",
+          "summary": "It is expected to be a relatively quiet day for India in terms of medal chances, with no confirmed medal events involving Indian athletes unless they qualify for the finals in artistic gymnastics and swimming."
+        },
+        {
+          "title": "'Jana Nayagan' BO day 2: Vijay's film collection drops 50.5%",
+          "link": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-box-office-collections-day-2-vijays-film-drops-50-5-earns-rs-112-5-cr-worldwide/articleshow/132617263.cms",
+          "date": "25 Jul 2026",
+          "summary": "Thalapathy Vijay's 'Jana Nayagan' saw a noticeable collection drop on its second day. The film still managed to cross the ₹50 crore India net milestone. Worldwide gross collections for the movie have now surpassed ₹112 crore. The Tamil version continues to dom…"
+        },
+        {
+          "title": "Gen Z outreach: PM Modi asks ministers to shore up presence on Insta",
+          "link": "https://timesofindia.indiatimes.com/india/gen-z-outreach-pm-modi-asks-ministers-to-shore-up-presence-on-insta/articleshow/132614951.cms",
+          "date": "25 Jul 2026",
+          "summary": "On Insta since 2014"
+        },
+        {
+          "title": "Ensure convenience for honest taxpayers, go after evaders: FM",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/ensure-convenience-for-honest-taxpayers-go-after-evaders-fm/articleshow/132617600.cms",
+          "date": "25 Jul 2026",
+          "summary": "Lists Out Priorities For I-T Dept, Stresses On Reducing Litigation"
+        },
+        {
+          "title": "CWG: Jhandu Kumar wins India's first medal; day 2 brings mixed results in Glasgow",
+          "link": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/commonwealth-games-jhandu-kumar-wins-indias-first-medal-in-para-powerlifting-day-2-brings-mixed-results-in-glasgow/articleshow/132614709.cms",
+          "date": "25 Jul 2026",
+          "summary": "Jhandu Kumar opened India's medal account by winning bronze in the men's heavyweight para powerlifting event."
+        },
+        {
+          "title": "Cape Verde's WC hero Vozinha finds new club; it's not Messi's Inter Miami",
+          "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/cape-verdes-world-cup-hero-vozinha-finds-new-club-its-not-lionel-messis-inter-miami/articleshow/132617462.cms",
+          "date": "25 Jul 2026",
+          "summary": "Cape Verde goalkeeper Vozinha has joined Colo Colo on a free transfer, ending speculation over a move to Lionel Messi's Inter Miami. The 40-year-old earned global recognition after starring at the World Cup, where he nearly inspired Cape Verde to a shock win o…"
+        },
+        {
+          "title": "Trump returns to White House Correspondents' dinner months after shooting forced delay",
+          "link": "https://timesofindia.indiatimes.com/world/us/trump-returns-to-white-house-correspondents-dinner-months-after-shooting-forced-postponement/articleshow/132617111.cms",
+          "date": "25 Jul 2026",
+          "summary": "President Trump attended the rescheduled White House Correspondents' Association dinner. This event followed a shooting incident outside the original venue in April. The president addressed journalists from major news organizations after months of media clashe…"
+        },
+        {
+          "title": "Historic! South Africa's Chad le Clos scripts Commonwealth Games record",
+          "link": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/historic-south-africas-chad-le-clos-scripts-commonwealth-games-record-becomes-its-most-decorated-male-athlete/articleshow/132617300.cms",
+          "date": "25 Jul 2026",
+          "summary": "South African swimmer Chad le Clos became the most decorated male athlete in Commonwealth Games history after winning his 19th medal with bronze in the men's 4x100m freestyle relay. “I shouldn’t be crying at bronze, I should be crying at gold, but honestly thi…"
+        },
+        {
+          "title": "UK PM picks three new Indian-origin MPs from 2024 intake to join front bench",
+          "link": "https://timesofindia.indiatimes.com/world/uk/burnham-picks-three-new-pio-mps-from-2024-intake-to-join-front-bench-malhotra-and-gill-return-to-backbenches/articleshow/132614652.cms",
+          "date": "25 Jul 2026",
+          "summary": ""
+        },
+        {
+          "title": "Receding waters uncover flood devastation, 31 dead in Gujarat",
+          "link": "https://timesofindia.indiatimes.com/city/ahmedabad/receding-waters-uncover-flood-devastation-31-dead-in-gujarat/articleshow/132614181.cms",
+          "date": "25 Jul 2026",
+          "summary": "15 Deaths In Navsari, 7 In Valsad, 4 In Kheda; Rain Fury Shifts North"
         },
         {
           "title": "How Serena Williams overcame poverty to become a tennis icon",
@@ -304,76 +370,10 @@
           "summary": "Patrick Mahomes and Brittany Mahomes attended a back-to-school event with FARE just before Chiefs training camp, continuing their advocacy for food allergy awareness. The couple's mission comes from personal experience after their children, Sterling and Bronze…"
         },
         {
-          "title": "Paramount delays $81 billion Warner buyout amid legal challenge from 12 states",
-          "link": "https://timesofindia.indiatimes.com/business/international-business/paramount-delays-81-billion-warner-buyout-amid-legal-challenge-from-12-states/articleshow/132614689.cms",
+          "title": "How Patrick Mahomes turned family support into NFL greatness",
+          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/inspiring-story-of-the-day-to-my-wife-brittany-my-baby-girl-sterling-and-my-son-bronze-this-crazy-life-that-we-are-living-means-nothing-without-yall-keeping-me-balanced-and-making-me-appreciate-every-single-day-how-patrick-mahomes-turned-family-support-and-adversity-into-nfl-greatness/articleshow/132617164.cms",
           "date": "25 Jul 2026",
-          "summary": "Paramount agreed to delay its Warner Bros. Discovery acquisition until at least 2027. This postponement follows a court order pausing the merger process. A coalition of states filed a lawsuit seeking to block the proposed deal. They argue the merger would subs…"
-        },
-        {
-          "title": "Mike Tyson opens up about his painful childhood and mother",
-          "link": "https://timesofindia.indiatimes.com/sports/international-sports/the-story-behind-the-champion-i-never-saw-my-mother-happy-with-me-and-proud-of-me-for-doing-something-i-never-got-a-chance-to-talk-to-her-or-know-about-her-mike-tyson-on-the-complicated-relationship-he-shared-with-his-mother-while-growing-up-in-poverty/articleshow/132614703.cms",
-          "date": "25 Jul 2026",
-          "summary": "The boxing legend Mike Tyson had a complicated relationship with his mother and has often spoken about how it fuelled him to be successful."
-        },
-        {
-          "title": "Why world is coming to India for medical treatment — and not just because it is cheaper",
-          "link": "https://timesofindia.indiatimes.com/india/why-the-world-is-coming-to-india-for-medical-treatment-and-not-just-because-it-is-cheaper/articleshow/132606630.cms",
-          "date": "24 Jul 2026",
-          "summary": "India's medical tourism market is experiencing significant growth, projected to reach $16.2 billion by 2030. Patients are increasingly choosing India for its affordable and high-quality medical treatments. Digital advancements and government initiatives are fu…"
-        },
-        {
-          "title": "Gen Z outreach: PM Modi asks ministers to shore up presence on Insta",
-          "link": "https://timesofindia.indiatimes.com/india/gen-z-outreach-pm-modi-asks-ministers-to-shore-up-presence-on-insta/articleshow/132614951.cms",
-          "date": "25 Jul 2026",
-          "summary": "On Insta since 2014"
-        },
-        {
-          "title": "SC bans posting court clips on social media",
-          "link": "https://timesofindia.indiatimes.com/india/sc-bans-posting-court-clips-on-social-media/articleshow/132616579.cms",
-          "date": "25 Jul 2026",
-          "summary": "Apex Court or HC Nod Must To Share Content"
-        },
-        {
-          "title": "Bill moots 10 years in prison, fine of Rs 10 crore for paper leaks",
-          "link": "https://timesofindia.indiatimes.com/india/bill-moots-10-years-in-prison-fine-of-rs-10-crore-for-paper-leaks/articleshow/132614910.cms",
-          "date": "25 Jul 2026",
-          "summary": "Fast-Track Courts To Dispose Of Cases In 3 Mths"
-        },
-        {
-          "title": "NTA sacks 47 officials in rejig, to hire 4 GMs, 16 young professionals",
-          "link": "https://timesofindia.indiatimes.com/india/nta-sacks-47-officials-in-rejig-to-hire-4-gms-16-young-professionals/articleshow/132615327.cms",
-          "date": "25 Jul 2026",
-          "summary": ""
-        },
-        {
-          "title": "Why IOC won't investigate Infantino over Trump's role in Balogun red-card controversy",
-          "link": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/why-ioc-wont-investigate-gianni-infantino-over-donald-trumps-role-in-folarin-balogun-red-card-controversy/articleshow/132611618.cms",
-          "date": "24 Jul 2026",
-          "summary": "The International Olympic Committee will not investigate FIFA president Gianni Infantino. This decision stems from a complaint regarding Folarin Balogun's World Cup suspension reversal. The IOC stated it lacks jurisdiction over FIFA's internal governance matte…"
-        },
-        {
-          "title": "How LeBron James sacrificed $50m to chase one final NBA dream",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/inspiring-story-of-the-day-im-not-going-for-family-what-am-i-really-playing-for-at-this-point-i-still-want-to-sacrifice-i-still-want-to-work-how-lebron-james-walked-away-from-50m-to-chase-one-final-nba-dream/articleshow/132614591.cms",
-          "date": "25 Jul 2026",
-          "summary": "LeBron James chose purpose over pay by leaving behind a salary of more than $50 million to join the Philadelphia 76ers on a veteran-minimum contract. After nearly retiring, he realised his passion for basketball was still alive. Now entering his record-breakin…"
-        },
-        {
-          "title": "'US not piggybank for Europe': Trump to impose tariffs on EU for fining Google",
-          "link": "https://timesofindia.indiatimes.com/business/international-business/us-not-piggybank-for-europe-trump-to-impose-tariffs-on-eu-for-fining-google/articleshow/132611536.cms",
-          "date": "24 Jul 2026",
-          "summary": ""
-        },
-        {
-          "title": "ICC chief prosecutor removed from post over sexual misconduct allegations",
-          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/icc-chief-prosecutor-removed-from-post-over-sexual-misconduct-allegations/articleshow/132614673.cms",
-          "date": "25 Jul 2026",
-          "summary": ""
-        },
-        {
-          "title": "Jay-Z moves to block $119k debt from being erased in alleged son’s bankruptcy case: Report",
-          "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jay-z-moves-to-block-119k-debt-from-being-erased-in-bankruptcy-case-linked-to-man-claiming-hes-the-rappers-son-report/articleshow/132614575.cms",
-          "date": "25 Jul 2026",
-          "summary": "Jay-Z has filed fresh legal documents seeking to prevent a $119,000 judgment against Lillie Coley, the godmother of Rymir Satterthwaite, from being discharged through bankruptcy. The rapper filed the request as part of Coley's ongoing bankruptcy proceedings, a…"
+          "summary": "Patrick Mahomes says his greatest strength is not just football but the support of his family. From overcoming injuries to balancing life as a husband and father, he credits Brittany Mahomes and their children for keeping him grounded. His emotional words and…"
         }
       ]
     },
@@ -1152,6 +1152,18 @@
       "ok": true,
       "items": [
         {
+          "title": "OpenAI's Rogue Agent Went Unnoticed For a Week",
+          "link": "https://yro.slashdot.org/story/26/07/25/0059247/openais-rogue-agent-went-unnoticed-for-a-week?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "25 Jul 2026",
+          "summary": "An anonymous reader quotes a report from Reuters: The OpenAI agent that broke into tech firm Hugging Face went on a dayslong hacking spree that OpenAI didn't notice until well after the threat was contained and the FBI was alerted, according to people familiar…"
+        },
+        {
+          "title": "Instagram Is Now Banning Pickup Artists, Pranksters Who Use Meta Glasses",
+          "link": "https://tech.slashdot.org/story/26/07/24/2212248/instagram-is-now-banning-pickup-artists-pranksters-who-use-meta-glasses?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "25 Jul 2026",
+          "summary": "Instagram is banning videos filmed with Meta smart glasses that harass strangers in public, including prank videos targeting service workers and pickup-artist clips of women who may not realize they are being recorded. \"If you're posting content that is taking…"
+        },
+        {
           "title": "Paramount Agrees to Postpone Warner Bros. Merger Until June 2027",
           "link": "https://yro.slashdot.org/story/26/07/24/2235232/paramount-agrees-to-postpone-warner-bros-merger-until-june-2027?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "24 Jul 2026",
@@ -1228,18 +1240,6 @@
           "link": "https://tech.slashdot.org/story/26/07/23/2137202/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "23 Jul 2026",
           "summary": "LG is removing a McAfee pop-up ad from its LG Monitor App Installer after criticism that some LG monitors were silently installing the app through Windows Update and showing ads on every boot. Microsoft says LG agreed to disable the McAfee pop-up, but the broa…"
-        },
-        {
-          "title": "EU Fines Google $1 Billion For Breaking Digital Antitrust Regulations",
-          "link": "https://search.slashdot.org/story/26/07/23/2034235/eu-fines-google-1-billion-for-breaking-digital-antitrust-regulations?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "23 Jul 2026",
-          "summary": "The European Union fined Google more than $1 billion for allegedly using Google Play and Search to steer users toward its own services and apps at the expense of competitors. The Associated Press reports: Google had recently lost its appeal of a $4.5 billion a…"
-        },
-        {
-          "title": "Amazon Is Bringing Games to Prime Video",
-          "link": "https://games.slashdot.org/story/26/07/23/1830257/amazon-is-bringing-games-to-prime-video?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "23 Jul 2026",
-          "summary": "Amazon is integrating its Luna cloud gaming service into Prime Video, adding a new \"Games\" tab where Prime members can play titles like \"Hogwarts Legacy,\" \"EA Sports FC 26,\" \"Indiana Jones and the Great Circle,\" \"Clue,\" and \"Taboo.\" The games will be available…"
         }
       ]
     },
@@ -1630,184 +1630,184 @@
       "ok": true,
       "items": [
         {
-          "title": "nqf-lint added to PyPI",
-          "link": "https://pypi.org/project/nqf-lint/",
-          "date": "24 Jul 2026",
-          "summary": "Pre-flight linter for quantum-chemistry setups — catches silent garbage-in (impossible electron count/spin, Bohr/Ångström unit errors, bare atoms, non-reproducible conformers) before an SCF runs for hours. Rust core, Python API."
+          "title": "verifence added to PyPI",
+          "link": "https://pypi.org/project/verifence/",
+          "date": "25 Jul 2026",
+          "summary": "Official Python SDK for Verifence — the pre-send firewall for SMS verification."
         },
         {
-          "title": "timeout-dead added to PyPI",
-          "link": "https://pypi.org/project/timeout-dead/",
-          "date": "24 Jul 2026",
-          "summary": "Lightweight command timeout utility with zero runtime dependencies"
+          "title": "reportmail added to PyPI",
+          "link": "https://pypi.org/project/reportmail/",
+          "date": "25 Jul 2026",
+          "summary": "Email-first HTML reports for Python teams"
         },
         {
-          "title": "shimpz added to PyPI",
-          "link": "https://pypi.org/project/shimpz/",
-          "date": "24 Jul 2026",
-          "summary": "Python SDK for authoring Shimpz Assistants"
+          "title": "emjdb added to PyPI",
+          "link": "https://pypi.org/project/emjdb/",
+          "date": "25 Jul 2026",
+          "summary": "complete emoji database with every emoji company's emojis with their versions"
         },
         {
-          "title": "diamondos added to PyPI",
-          "link": "https://pypi.org/project/diamondos/",
-          "date": "24 Jul 2026",
-          "summary": "DiamondOS GUI environment"
+          "title": "deploygent added to PyPI",
+          "link": "https://pypi.org/project/deploygent/",
+          "date": "25 Jul 2026",
+          "summary": "Deploy AI agents effortlessly."
         },
         {
-          "title": "orkestra-runtime added to PyPI",
-          "link": "https://pypi.org/project/orkestra-runtime/",
-          "date": "24 Jul 2026",
-          "summary": "Local-first orchestration runtime for multiple autonomous coding agents (Claude Code, Codex CLI, Gemini CLI, and more) collaborating on one software project."
+          "title": "coverwise added to PyPI",
+          "link": "https://pypi.org/project/coverwise/",
+          "date": "25 Jul 2026",
+          "summary": "Pairwise and t-wise combinatorial test generation, with pytest integration"
         },
         {
-          "title": "grem-ai added to PyPI",
-          "link": "https://pypi.org/project/grem-ai/",
-          "date": "24 Jul 2026",
-          "summary": "Deterministic project bootstrap and control CLI for AI-assisted development: grem stamps structure, agents do the work."
+          "title": "strx-translations added to PyPI",
+          "link": "https://pypi.org/project/strx-translations/",
+          "date": "25 Jul 2026",
+          "summary": "Herramienta unificada para exportación y traducción automática de módulos Odoo."
         },
         {
-          "title": "fyction-card-forge added to PyPI",
-          "link": "https://pypi.org/project/fyction-card-forge/",
-          "date": "24 Jul 2026",
-          "summary": "A simple card generator library for original or custom TCG initial tests."
+          "title": "literature-helper added to PyPI",
+          "link": "https://pypi.org/project/literature-helper/",
+          "date": "25 Jul 2026",
+          "summary": "A human-friendly and agent-ready CLI for personal literature requests."
         },
         {
-          "title": "drf-ratelimit-plus added to PyPI",
-          "link": "https://pypi.org/project/drf-ratelimit-plus/",
-          "date": "24 Jul 2026",
-          "summary": "Advanced rate limiting for Django REST Framework: token bucket, sliding window, tiers, and Redis Cluster support"
+          "title": "ag2-assistant added to PyPI",
+          "link": "https://pypi.org/project/ag2-assistant/",
+          "date": "25 Jul 2026",
+          "summary": "AG2 Assistant — a personal AI assistant powered by AG2's framework"
         },
         {
-          "title": "lessPython added to PyPI",
-          "link": "https://pypi.org/project/lesspython/",
-          "date": "24 Jul 2026",
-          "summary": "Python port of R's lessR: analytic-view visualizations, statistical models, and data utilities, rendered with plotly"
+          "title": "xefm added to PyPI",
+          "link": "https://pypi.org/project/xefm/",
+          "date": "25 Jul 2026",
+          "summary": "XeFM — a dual-pane file manager for the desktop and the terminal"
         },
         {
-          "title": "tildagon-cli added to PyPI",
-          "link": "https://pypi.org/project/tildagon-cli/",
-          "date": "24 Jul 2026",
-          "summary": "Command-line utility for managing a Tildagon (EMF Camp badge) over USB"
+          "title": "ppzmongo added to PyPI",
+          "link": "https://pypi.org/project/ppzmongo/",
+          "date": "25 Jul 2026",
+          "summary": "PPz's mongo helper"
         },
         {
-          "title": "CTkKanBan added to PyPI",
-          "link": "https://pypi.org/project/ctkkanban/",
-          "date": "24 Jul 2026",
-          "summary": "A configurable, database-ready Kanban board for CustomTkinter"
+          "title": "flysafe-api added to PyPI",
+          "link": "https://pypi.org/project/flysafe-api/",
+          "date": "25 Jul 2026",
+          "summary": "FlySafe airspace risk API client (Python)"
         },
         {
-          "title": "drf-llm-gateway added to PyPI",
-          "link": "https://pypi.org/project/drf-llm-gateway/",
-          "date": "24 Jul 2026",
-          "summary": "Expose Django REST Framework serializers and viewsets as OpenAI / MCP tools with automatic JSON Schema generation"
+          "title": "ib-components added to PyPI",
+          "link": "https://pypi.org/project/ib-components/",
+          "date": "25 Jul 2026",
+          "summary": "Independent building blocks for Information Bottleneck research: VIB compression, Riemannian optimization, and architectural improvements"
         },
         {
-          "title": "substrate-kernel added to PyPI",
-          "link": "https://pypi.org/project/substrate-kernel/",
-          "date": "24 Jul 2026",
-          "summary": "Reserved: Substrate, a concurrent streaming dataflow runtime whose product surface is an append-only, replayable run record. Real release imminent."
+          "title": "agp-tpe added to PyPI",
+          "link": "https://pypi.org/project/agp-tpe/",
+          "date": "25 Jul 2026",
+          "summary": "AGP Trust Primitive Engine for deterministic Trust Policy 2 evaluation"
         },
         {
-          "title": "hermead added to PyPI",
-          "link": "https://pypi.org/project/hermead/",
-          "date": "24 Jul 2026",
-          "summary": "Hermes Agent plugin for project-level linting, type-checking, formatting, and security scanning"
+          "title": "costclaw added to PyPI",
+          "link": "https://pypi.org/project/costclaw/",
+          "date": "25 Jul 2026",
+          "summary": "Official Python client for the CostClaw freight-invoice audit API."
         },
         {
-          "title": "drf-idempotency added to PyPI",
-          "link": "https://pypi.org/project/drf-idempotency/",
-          "date": "24 Jul 2026",
-          "summary": "Stripe-style idempotency keys for Django REST Framework with pluggable Redis/database backends"
+          "title": "scancrypt added to PyPI",
+          "link": "https://pypi.org/project/scancrypt/",
+          "date": "25 Jul 2026",
+          "summary": "ScanCrypt: finds and extracts the parts of a ransomware-encrypted file that were never actually encrypted."
         },
         {
-          "title": "tablero added to PyPI",
-          "link": "https://pypi.org/project/tablero/",
-          "date": "24 Jul 2026",
+          "title": "agent-catalog-new added to PyPI",
+          "link": "https://pypi.org/project/agent-catalog-new/",
+          "date": "25 Jul 2026",
+          "summary": "Declarative agent registry — catalog, discover, and diff agent capabilities across environments"
+        },
+        {
+          "title": "ankinote-ai added to PyPI",
+          "link": "https://pypi.org/project/ankinote-ai/",
+          "date": "25 Jul 2026",
+          "summary": "AI-powered Anki vocabulary card generator using Google's suite of APIs"
+        },
+        {
+          "title": "kopya added to PyPI",
+          "link": "https://pypi.org/project/kopya/",
+          "date": "25 Jul 2026",
+          "summary": "Record your app's real API calls once, replay them offline forever."
+        },
+        {
+          "title": "universa-reports added to PyPI",
+          "link": "https://pypi.org/project/universa-reports/",
+          "date": "25 Jul 2026",
+          "summary": "Générateur de rapports académiques professionnels en PDF"
+        },
+        {
+          "title": "grab2md added to PyPI",
+          "link": "https://pypi.org/project/grab2md/",
+          "date": "25 Jul 2026",
+          "summary": "Local-first CLI for converting HTML files and web content to Markdown"
+        },
+        {
+          "title": "qlogicae-logis added to PyPI",
+          "link": "https://pypi.org/project/qlogicae-logis/",
+          "date": "25 Jul 2026",
+          "summary": "The project orchestration tool for QLogicae projects"
+        },
+        {
+          "title": "django-matt added to PyPI",
+          "link": "https://pypi.org/project/django-matt/",
+          "date": "25 Jul 2026",
+          "summary": "A modern Django API framework with class-based views, async support, and developer experience tools"
+        },
+        {
+          "title": "funcsort added to PyPI",
+          "link": "https://pypi.org/project/funcsort/",
+          "date": "25 Jul 2026",
+          "summary": "Sort class methods and module-level functions into configurable, regex-matched groups"
+        },
+        {
+          "title": "tenki added to PyPI",
+          "link": "https://pypi.org/project/tenki/",
+          "date": "25 Jul 2026",
+          "summary": "Tenki Cloud Python SDK — cloud sandboxes (microVMs) for AI agents and code execution"
+        },
+        {
+          "title": "nep-adapters added to PyPI",
+          "link": "https://pypi.org/project/nep-adapters/",
+          "date": "25 Jul 2026",
+          "summary": "NEP runtime adapters for Python and LAMMPS frontends"
+        },
+        {
+          "title": "bracket-lang added to PyPI",
+          "link": "https://pypi.org/project/bracket-lang/",
+          "date": "25 Jul 2026",
           "summary": "None"
         },
         {
-          "title": "wiki2okf added to PyPI",
-          "link": "https://pypi.org/project/wiki2okf/",
-          "date": "24 Jul 2026",
-          "summary": "Convert Wikipedia articles into Open Knowledge Format bundles."
+          "title": "fcp-mcp-server added to PyPI",
+          "link": "https://pypi.org/project/fcp-mcp-server/",
+          "date": "25 Jul 2026",
+          "summary": "MCP server for Final Cut Pro XML. 62 tools for timeline analysis, batch editing, QC, generation, multi-track support, NLE export, templates, media relink, .fcpxmld bundles, and real media analysis (silence detection + auto-removal, beat detection, local Whispe…"
         },
         {
-          "title": "kvbiii-ml added to PyPI",
-          "link": "https://pypi.org/project/kvbiii-ml/",
-          "date": "24 Jul 2026",
-          "summary": "A Python package for machine learning tasks, including data imputation, exploratory data analysis (EDA), evaluation, and optimization."
+          "title": "agent-control-spec added to PyPI",
+          "link": "https://pypi.org/project/agent-control-spec/",
+          "date": "25 Jul 2026",
+          "summary": "Agent Control Specification: a stateless policy decision runtime implementing the agent-hooks interceptor contract."
         },
         {
-          "title": "diamondlib added to PyPI",
-          "link": "https://pypi.org/project/diamondlib/",
-          "date": "24 Jul 2026",
-          "summary": "DiamondLib"
+          "title": "pm6-rs-python added to PyPI",
+          "link": "https://pypi.org/project/pm6-rs-python/",
+          "date": "25 Jul 2026",
+          "summary": "PM6 semiempirical method (pm6-rs) with a Python-native API and an ASE calculator, including PM6-D3/D3H4/D3H4X corrections"
         },
         {
-          "title": "nbdol added to PyPI",
-          "link": "https://pypi.org/project/nbdol/",
-          "date": "24 Jul 2026",
-          "summary": "Parametrized notebook manipulations"
-        },
-        {
-          "title": "verdict-trace added to PyPI",
-          "link": "https://pypi.org/project/verdict-trace/",
-          "date": "24 Jul 2026",
-          "summary": "Reserved - full release coming soon. See https://github.com/akhiljaitly/verdict"
-        },
-        {
-          "title": "kernelith added to PyPI",
-          "link": "https://pypi.org/project/kernelith/",
-          "date": "24 Jul 2026",
-          "summary": "Placeholder package reserving the kernelith name on PyPI."
-        },
-        {
-          "title": "nova-math added to PyPI",
-          "link": "https://pypi.org/project/nova-math/",
-          "date": "24 Jul 2026",
-          "summary": "Simple math utilities"
-        },
-        {
-          "title": "iptool-cli added to PyPI",
-          "link": "https://pypi.org/project/iptool-cli/",
-          "date": "24 Jul 2026",
-          "summary": "CLI tool for IPv4 subnetting automation using FLSM and VLSM"
-        },
-        {
-          "title": "audamcp added to PyPI",
-          "link": "https://pypi.org/project/audamcp/",
-          "date": "24 Jul 2026",
-          "summary": "MCP server for professional audio editing, stems separation, mastering, and Audacity 3.x bridge"
-        },
-        {
-          "title": "memoryplace added to PyPI",
-          "link": "https://pypi.org/project/memoryplace/",
-          "date": "24 Jul 2026",
-          "summary": "MemoryPlace: Benchmark framework for memory architectures"
-        },
-        {
-          "title": "slab-cli added to PyPI",
-          "link": "https://pypi.org/project/slab-cli/",
-          "date": "24 Jul 2026",
-          "summary": "CLI for the slab trading-card API — catalog, collect, and track your cards from the terminal."
-        },
-        {
-          "title": "slab-schemas added to PyPI",
-          "link": "https://pypi.org/project/slab-schemas/",
-          "date": "24 Jul 2026",
-          "summary": "Pydantic request/response contract for the slab API — shared by the API and any client (CLI, third parties). Depends on pydantic only."
-        },
-        {
-          "title": "locks-kv added to PyPI",
-          "link": "https://pypi.org/project/locks-kv/",
-          "date": "24 Jul 2026",
-          "summary": "LOCKS: decode-time sparse KV-cache attention for vLLM (quad page-score selector + DRAM value tier)"
-        },
-        {
-          "title": "derogada added to PyPI",
-          "link": "https://pypi.org/project/derogada/",
-          "date": "24 Jul 2026",
-          "summary": "Detecta normas derogadas o modificadas en documentos jurídicos contrastando cada cita con el BOE y EUR-Lex"
+          "title": "auto-gen-py-project added to PyPI",
+          "link": "https://pypi.org/project/auto-gen-py-project/",
+          "date": "25 Jul 2026",
+          "summary": "Python project generator with templates, plugins, and interactive scaffolding"
         }
       ]
     }
