@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28T19:09:55Z",
+  "generated": "2026-07-28T21:00:23Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,18 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "US stocks: S&amp;P 500 ends higher as investors await tech earnings",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-500-ends-higher-as-investors-await-tech-earnings/articleshow/132694299.cms",
+          "date": "29 Jul 2026",
+          "summary": "The S&P 500 index closed higher on Tuesday, boosted by gains in Boeing and Coca-Cola. Chip stocks experienced a significant decline as investors awaited quarterly reports from major tech firms. Microsoft and Amazon saw movement ahead of their upcoming earnings…"
+        },
+        {
+          "title": "Apple briefly tops $5 trillion in market value, second after Nvidia; unveils iPhone leasing scheme",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/apple-briefly-tops-5-trillion-in-market-value-second-after-nvidia-unveils-iphone-leasing-scheme/articleshow/132693980.cms",
+          "date": "29 Jul 2026",
+          "summary": "Apple briefly surpassed $5 trillion in market value, becoming only the second company after Nvidia to reach the historic milestone."
+        },
         {
           "title": "Boeing shares rise 5% despite higher than expected Q2 loss on Air Force One costs",
           "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/boeing-shares-rise-5-despite-higher-than-expected-q2-loss-on-air-force-one-costs/articleshow/132691839.cms",
@@ -30,18 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/nithin-kamath-warns-closing-auction-session-may-hit-zerodhas-revenue-from-august-3/articleshow/132686172.cms",
           "date": "28 Jul 2026",
           "summary": "Zerodha CEO Nithin Kamath said the new Closing Auction Session for F&O stocks could reduce brokerage revenue by 1–5% while making market timings more complex. The auction aims to improve price discovery, reduce index distortions and lower passive fund tracking…"
-        },
-        {
-          "title": "L&amp;T Q1 Results: Net profit rises 14% YoY to Rs 4,123 crore, revenue up 7%",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/lt-q1-results-net-profit-rises-14-yoy-to-rs-4123-crore-revenue-up-7/articleshow/132684207.cms",
-          "date": "28 Jul 2026",
-          "summary": "L&T Q1 Results: Larsen & Toubro (L&T) on Tuesday reported a consolidated net profit of Rs 4,123 crore for the April-June quarter of the ongoing financial year 2027, marking nearly 14% year-on-year (YoY) rise from the Rs 3,617 crore net profit reported in the s…"
-        },
-        {
-          "title": "Vedanta Aluminium shares in a sweet spot, says ICICI Securities; initiates coverage with Buy rating",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-aluminium-shares-in-a-sweet-spot-says-icici-securities-initiates-coverage-with-buy-rating/articleshow/132682352.cms",
-          "date": "28 Jul 2026",
-          "summary": "ICICI Securities has initiated coverage on Vedanta Aluminium Metal (VAML) with a 'Buy' rating and a target price of Rs 520, implying over 19% upside. The brokerage expects strong earnings growth, driven by favourable aluminium prices, higher volumes, backward…"
         },
         {
           "title": "India-UK CETA takes effect: First zero-duty Indian coffee, jewellery consignments reach UK shores",
@@ -196,22 +196,22 @@
       "ok": true,
       "items": [
         {
-          "title": "'Clock it', 'delulu': How Gen Z lingo took over Parl during anti-paper leak Bill debate",
-          "link": "https://timesofindia.indiatimes.com/india/clock-it-delulu-how-gen-z-lingo-took-over-parliament-during-anti-paper-leak-bill-debate/articleshow/132684933.cms",
-          "date": "28 Jul 2026",
-          "summary": ""
-        },
-        {
-          "title": "13 Indians stranded aboard vessel in Ukraine amid 'repeated drone, missile attacks'",
-          "link": "https://timesofindia.indiatimes.com/india/13-indians-stranded-aboard-vessel-in-ukraine-amid-repeated-drone-missile-attacks-report/articleshow/132689805.cms",
-          "date": "28 Jul 2026",
-          "summary": ""
-        },
-        {
-          "title": "‘It hurts to remember’: Blind since 14, J&amp;K pellet survivor searches for tomorrow",
-          "link": "https://timesofindia.indiatimes.com/india/it-hurts-to-remember-blind-since-14-jk-pellet-survivor-searches-for-tomorrow/articleshow/132692667.cms",
+          "title": "Trump, Netanyahu hold 'excellent' White House meeting as Iran differences come into focus",
+          "link": "https://timesofindia.indiatimes.com/world/us/donald-trump-netanyahu-meet-at-white-house-as-iran-differences-come-into-focus/articleshow/132694110.cms",
           "date": "29 Jul 2026",
-          "summary": "Insha Mushtaq lost her sight to pellet guns during 2016 Kashmir unrest. She now pursues education and a government job despite her visual impairment. Recent protests in Delhi have reopened old wounds for her. Pellet guns, introduced as non-lethal, caused hundr…"
+          "summary": "US President Trump and Prime Minister Netanyahu met at the White House to discuss Iran. Both leaders sought to manage differences over the future course of the conflict. They also discussed implementing a US-Israel framework agreement with Lebanon. Discussions…"
+        },
+        {
+          "title": "After stalemate, government, opposition spar over paper leak law in Lok Sabha",
+          "link": "https://timesofindia.indiatimes.com/india/after-stalemate-government-opposition-spar-over-paper-leak-law-in-lok-sabha/articleshow/132694398.cms",
+          "date": "29 Jul 2026",
+          "summary": "Parliament debated a bill to strengthen penalties for exam paper leaks. Opposition members supported student protests and criticized police actions during demonstrations. Government speakers highlighted past paper leaks and PM Modi's reform efforts. They empha…"
+        },
+        {
+          "title": "Reports on alleged cybersecurity incident involving DRDO are incorrect: Sources",
+          "link": "https://timesofindia.indiatimes.com/defence/news/reports-on-alleged-cybersecurity-incident-involving-drdo-are-incorrect-unverified-official-sources/articleshow/132693442.cms",
+          "date": "29 Jul 2026",
+          "summary": "Official sources have denied reports of a cybersecurity incident involving DRDO data. Investigations found no evidence of active cyber attacks or unauthorized network intrusions. Most alleged leaked data is unclassified and from an old breach. Threat actors fa…"
         },
         {
           "title": "'It is not FIFA's to sell': UEFA blasts Infantino's $20 billion World Cup plan",
@@ -220,26 +220,26 @@
           "summary": "UEFA strongly criticises FIFA's ambitious plan to create a new commercial company. This new entity aims to manage major football tournaments and seek private investment. UEFA declares that football's governing institutions have crossed a dangerous and unaccept…"
         },
         {
-          "title": "CBI files chargesheet against 13 accused in NEET-UG paper leak case; hearing tomorrow",
-          "link": "https://timesofindia.indiatimes.com/india/cbi-files-chargesheet-against-13-accused-in-neet-ug-paper-leak-case-hearing-tomorrow/articleshow/132690039.cms",
-          "date": "28 Jul 2026",
-          "summary": ""
-        },
-        {
-          "title": "Jeff Bezos may buy stake in football club that Google DeepMind CEO is a fan of",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-may-be-in-talks-to-purchase-stake-in-english-football-club-that-google-deepmind-ceo-demis-hassabis-is-a-lifelong-fan-of/articleshow/132690234.cms",
-          "date": "28 Jul 2026",
-          "summary": "Amazon founder Jeff Bezos is reportedly considering a stake in Liverpool Football Club. He is in talks to join a bid for a 30% ownership share. This potential move shifts his focus from American football investments. Bezos previously attempted to acquire the W…"
-        },
-        {
-          "title": "'I regret it': Mehbooba Mufti claims Jantar Mantar remark a slip of tongue, apologises",
-          "link": "https://timesofindia.indiatimes.com/india/i-regret-it-mehbooba-mufti-claims-jantar-mantar-remark-a-slip-of-tongue-apologises/articleshow/132693157.cms",
+          "title": "Shipping min Sonowal says no Indian seafarer should be caught in crossfire",
+          "link": "https://timesofindia.indiatimes.com/india/every-possible-measure-must-be-taken-shipping-minister-sarbananda-sonowal-says-no-indian-seafarer-should-be-caught-in-crossfire/articleshow/132693322.cms",
           "date": "29 Jul 2026",
-          "summary": "Mehbooba Mufti apologized for her Jantar Mantar remark which appeared to justify force in Kashmir. She claimed the controversial statement was a slip of tongue and a misinterpretation. The PDP president stated that her words were taken out of context by politi…"
+          "summary": "Indian shipping minister directed officials to safeguard seafarers from geopolitical conflicts. The government prioritizes the safety and welfare of Indian mariners serving on merchant vessels. Officials reviewed security situations and diplomatic mission prep…"
         },
         {
-          "title": "'Corruption on Earth': Iran indicts Trump over Khamenei killing, faces death penalty",
-          "link": "https://timesofindia.indiatimes.com/world/middle-east/corruption-on-earth-iran-indicts-trump-over-khamenei-killing-faces-death-penalty/articleshow/132691599.cms",
+          "title": "What made California's largest AI datacenter file a lawsuit over access to river water",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/what-made-californias-largest-ai-datacenter-that-had-promised-not-to-use-colorado-river-water-to-file-lawsuit-to-access-280-million-gallons-of-river-water-meant-for-farming/articleshow/132691681.cms",
+          "date": "29 Jul 2026",
+          "summary": "California's largest AI data centre seeks Colorado River water after wastewater plans failed. The company needs 287 million gallons annually for its proposed facility. Local cities and the Imperial Irrigation District rejected its initial water requests. This…"
+        },
+        {
+          "title": "Trump, Zelenskyy discuss Patriot production, Russia peace talks at White House",
+          "link": "https://timesofindia.indiatimes.com/world/us/donald-trump-zelenskyy-discuss-patriot-production-russia-peace-talks-at-white-house/articleshow/132694259.cms",
+          "date": "29 Jul 2026",
+          "summary": "US President Trump and President Zelenskyy met to discuss Ukraine's defense capabilities. They focused on expanding Patriot missile interceptor production and defense cooperation. The leaders also explored efforts to restart stalled peace talks with Russia. Uk…"
+        },
+        {
+          "title": "13 Indians stranded aboard vessel in Ukraine amid 'repeated drone, missile attacks'",
+          "link": "https://timesofindia.indiatimes.com/india/13-indians-stranded-aboard-vessel-in-ukraine-amid-repeated-drone-missile-attacks-report/articleshow/132689805.cms",
           "date": "28 Jul 2026",
           "summary": ""
         },
@@ -250,22 +250,16 @@
           "summary": "A federal case in Atlanta questions privacy software use as criminal intent evidence. Prosecutors accuse Samuel Tunick of wiping his phone to prevent authorities from accessing its contents. GrapheneOS, a privacy-focused operating system, is central to the ong…"
         },
         {
-          "title": "Asmongold breaks silence after Kaise house video as Tectone fuels online drama",
-          "link": "https://timesofindia.indiatimes.com/world/us-streamers/asmongold-finally-responds-after-kaise-posts-video-from-his-house-as-tectone-adds-to-the-drama/articleshow/132691062.cms",
-          "date": "28 Jul 2026",
-          "summary": "Kaise shared a video from what appeared to be Zack “Asmongold’s” home, joking that he talks to himself for six hours a day. The clip featured Asmongold discussing Tyler Perry before he responded with a humorous comment saying he was not live. Tectone also join…"
+          "title": "Scuba divers thought they rarely touched reefs. Observers found damage",
+          "link": "https://timesofindia.indiatimes.com/science/most-scuba-divers-believed-they-rarely-touched-reefs-underwater-observers-found-more-than-40-of-contacts-caused-visible-damage/articleshow/132662758.cms",
+          "date": "27 Jul 2026",
+          "summary": ""
         },
         {
-          "title": "Teen’s nuclear energy idea could cut Antarctic base emissions by 3,254 tons",
-          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/a-17-year-old-student-proposed-a-hybrid-nuclear-energy-system-that-could-reduce-an-antarctic-bases-carbon-emissions-by-3254-tons-annually/articleshow/132682749.cms",
-          "date": "28 Jul 2026",
-          "summary": "A young Chilean student has proposed an innovative energy system for Antarctica. This concept combines renewable sources with a nuclear microreactor for reliable power. The system aims to significantly reduce diesel fuel dependence and carbon emissions. It off…"
-        },
-        {
-          "title": "Husky with bouncing walk forms unlikely bond with wild sea lion",
-          "link": "https://timesofindia.indiatimes.com/etimes/animals/fenix-the-husky-has-a-neurological-condition-that-gives-him-a-bouncing-walk-at-the-harbour-a-wild-sea-lion-named-wilbur-regularly-swims-over-to-meet-him/articleshow/132685129.cms",
-          "date": "28 Jul 2026",
-          "summary": "A husky named Fenix, who was born with the neurological condition cerebellar hypoplasia, has gone viral after videos showed his heartwarming friendship with a wild sea lion named Wilbur. Millions have watched the pair reunite at a waterfront pier, while Fenix'…"
+          "title": "No H-1B visa, two layoffs, then a job at Silicon Valley tech giant",
+          "link": "https://timesofindia.indiatimes.com/etimes/work-career/indian-origin-woman-without-an-h-1b-visa-was-laid-off-twice-in-three-months-before-being-hired-by-a-silicon-valley-tech-giant-says-still-in-survival-mode/articleshow/132655649.cms",
+          "date": "27 Jul 2026",
+          "summary": "Tanvi Pisal, an Indian UX designer, faced job insecurity and back-to-back layoffs in the United States. She hoped for a stable career and permanent residency through an H-1B visa. Her initial job offer was rescinded, and a subsequent role ended abruptly after…"
         },
         {
           "title": "How Europe's heatwave is proving Americans right about air conditioning",
@@ -274,16 +268,22 @@
           "summary": "Europeans are now buying air conditioning units in unprecedented numbers. This trend is driven by record heatwaves and rising health concerns across the continent. Manufacturers report significant sales growth for cooling solutions in several European countrie…"
         },
         {
-          "title": "Jammu and Kashmir: Army duo hurt in Uri accidental blast",
-          "link": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-army-duo-hurt-in-uri-accidental-blast/articleshow/132693113.cms",
-          "date": "29 Jul 2026",
-          "summary": "Two Army jawans sustained injuries from an accidental blast near the Line of Control. The incident occurred in the Kamalkote area of Uri sector on Tuesday. Both injured soldiers were promptly transported to the Army Base Hospital in Badamibagh. Medical officia…"
+          "title": "'Clock it', 'delulu': How Gen Z lingo took over Parl during anti-paper leak Bill debate",
+          "link": "https://timesofindia.indiatimes.com/india/clock-it-delulu-how-gen-z-lingo-took-over-parliament-during-anti-paper-leak-bill-debate/articleshow/132684933.cms",
+          "date": "28 Jul 2026",
+          "summary": ""
         },
         {
-          "title": "Jammu and Kashmir: Bus with Amarnath pilgrims slips into gorge, 39 hurt",
-          "link": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-bus-with-amarnath-pilgrims-slips-into-gorge-39-hurt/articleshow/132692306.cms",
+          "title": "Kangana hits back at CJP's Saurav after his response to her 'generation gutter' remark",
+          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-hits-back-at-cjps-saurav-das-after-his-response-to-her-generation-gutter-remark-calls-him-useless-says-i-had-2-national-awards-at-his-age/articleshow/132691800.cms",
           "date": "28 Jul 2026",
-          "summary": "Thirty-nine Amarnath pilgrims were injured when their bus fell into a gorge. The bus skidded off the road in Ganiwan, Ganderbal district, on Tuesday morning. A house broke the fall, preventing a more severe tragedy for the pilgrims. Injured devotees were moved…"
+          "summary": "BJP MP and actress Kangana Ranaut has once again targeted the Cockroach Janata Party (CJP), this time responding to the outfit's spokesperson Saurav Das after his criticism of her remarks on Gen Z protesters. Kangana's reaction came after Saurav Das criticised…"
+        },
+        {
+          "title": "‘It hurts to remember’: Blind since 14, J&amp;K pellet survivor searches for tomorrow",
+          "link": "https://timesofindia.indiatimes.com/india/it-hurts-to-remember-blind-since-14-jk-pellet-survivor-searches-for-tomorrow/articleshow/132692667.cms",
+          "date": "29 Jul 2026",
+          "summary": "Insha Mushtaq lost her sight to pellet guns during 2016 Kashmir unrest. She now pursues education and a government job despite her visual impairment. Recent protests in Delhi have reopened old wounds for her. Pellet guns, introduced as non-lethal, caused hundr…"
         },
         {
           "title": "Packers, Giants eye Buccaneers' $76m veteran tackle amid contract standoff",
@@ -302,6 +302,48 @@
           "link": "https://timesofindia.indiatimes.com/sports/nfl/news/we-are-committed-to-doing-all-we-can-how-patrick-mahomes-and-brittany-mahomes-1-625-million-move-created-new-opportunities-for-east-texas-children/articleshow/132657018.cms",
           "date": "27 Jul 2026",
           "summary": "Patrick Mahomes and Brittany Mahomes made a lasting impact off the football field with a $1.625 million partnership through the 15 and the Mahomies Foundation. Announced in October 2023, the initiative supports Boys &amp; Girls Clubs in East Texas, Greater Kan…"
+        },
+        {
+          "title": "CBI files chargesheet against 13 accused in NEET-UG paper leak case; hearing tomorrow",
+          "link": "https://timesofindia.indiatimes.com/india/cbi-files-chargesheet-against-13-accused-in-neet-ug-paper-leak-case-hearing-tomorrow/articleshow/132690039.cms",
+          "date": "28 Jul 2026",
+          "summary": ""
+        },
+        {
+          "title": "Horoscope today: Daily astrological predictions for Wednesday",
+          "link": "https://timesofindia.indiatimes.com/astrology/horoscope/horoscope-today-daily-astrological-predictions-for-july-29-2026/articleshow/132688228.cms",
+          "date": "29 Jul 2026",
+          "summary": "Horoscope Today: Read daily horoscope predictions for July 29, 2026. Know all about the astrological events and influences that will be affecting each of the 12 zodiac signs. Our astrologer has analyzed the movements of the planets and the alignment of the sta…"
+        },
+        {
+          "title": "'I regret it': Mehbooba Mufti claims Jantar Mantar remark a slip of tongue, apologises",
+          "link": "https://timesofindia.indiatimes.com/india/i-regret-it-mehbooba-mufti-claims-jantar-mantar-remark-a-slip-of-tongue-apologises/articleshow/132693157.cms",
+          "date": "29 Jul 2026",
+          "summary": "Mehbooba Mufti apologized for her Jantar Mantar remark which appeared to justify force in Kashmir. She claimed the controversial statement was a slip of tongue and a misinterpretation. The PDP president stated that her words were taken out of context by politi…"
+        },
+        {
+          "title": "'Corruption on Earth': Iran indicts Trump over Khamenei killing, faces death penalty",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/corruption-on-earth-iran-indicts-trump-over-khamenei-killing-faces-death-penalty/articleshow/132691599.cms",
+          "date": "28 Jul 2026",
+          "summary": ""
+        },
+        {
+          "title": "Asmongold breaks silence after Kaise house video as Tectone fuels online drama",
+          "link": "https://timesofindia.indiatimes.com/world/us-streamers/asmongold-finally-responds-after-kaise-posts-video-from-his-house-as-tectone-adds-to-the-drama/articleshow/132691062.cms",
+          "date": "28 Jul 2026",
+          "summary": "Kaise shared a video from what appeared to be Zack “Asmongold’s” home, joking that he talks to himself for six hours a day. The clip featured Asmongold discussing Tyler Perry before he responded with a humorous comment saying he was not live. Tectone also join…"
+        },
+        {
+          "title": "Jammu and Kashmir: Army duo hurt in Uri accidental blast",
+          "link": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-army-duo-hurt-in-uri-accidental-blast/articleshow/132693113.cms",
+          "date": "29 Jul 2026",
+          "summary": "Two Army jawans sustained injuries from an accidental blast near the Line of Control. The incident occurred in the Kamalkote area of Uri sector on Tuesday. Both injured soldiers were promptly transported to the Army Base Hospital in Badamibagh. Medical officia…"
+        },
+        {
+          "title": "Jammu and Kashmir: Bus with Amarnath pilgrims slips into gorge, 39 hurt",
+          "link": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-bus-with-amarnath-pilgrims-slips-into-gorge-39-hurt/articleshow/132692306.cms",
+          "date": "28 Jul 2026",
+          "summary": "Thirty-nine Amarnath pilgrims were injured when their bus fell into a gorge. The bus skidded off the road in Ganiwan, Ganderbal district, on Tuesday morning. A house broke the fall, preventing a more severe tragedy for the pilgrims. Injured devotees were moved…"
         },
         {
           "title": "Shobhaa De calls Salman Khan's Sonam Wangchuk post 'cringe', slams stars over CJP row",
@@ -332,48 +374,6 @@
           "link": "https://timesofindia.indiatimes.com/india/two-army-personnel-injured-in-landmine-blast-in-jks-baramulla/articleshow/132688497.cms",
           "date": "28 Jul 2026",
           "summary": ""
-        },
-        {
-          "title": "How injured Tejaswin put aside heartbreak to help Kushare script CWG history",
-          "link": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/tj-told-me-to-move-forward-how-injured-tejaswin-shankar-put-aside-his-heartbreak-to-help-sarvesh-kushare-script-cwg-history/articleshow/132689197.cms",
-          "date": "28 Jul 2026",
-          "summary": "Tejaswin Shankar's Commonwealth Games high jump ended due to injury. He then coached Sarvesh Kushare, who won a historic silver medal. Kushare credited Shankar's advice for his improved performance during the competition. Shankar's own medal hopes were dashed…"
-        },
-        {
-          "title": "Can India replace a satellite in days? Vikram-1 opens a bigger space question",
-          "link": "https://timesofindia.indiatimes.com/science/can-india-replace-a-satellite-in-days-vikram-1-opens-a-bigger-space-question/articleshow/132685541.cms",
-          "date": "28 Jul 2026",
-          "summary": "India’s space programme has traditionally been driven almost entirely by Isro. Private companies manufactured components, supplied technology and supported missions, but orbital launches remained the domain of the state. Vikram-1 changed that equation. For the…"
-        },
-        {
-          "title": "Trump’s 2-front challenge: Shades of 1914 as Zelenskyy, Netanyahu converge on Washington",
-          "link": "https://timesofindia.indiatimes.com/world/us/trumps-two-front-challenge-shades-of-1914-as-zelenskyy-and-netanyahu-converge-on-washington/articleshow/132689027.cms",
-          "date": "28 Jul 2026",
-          "summary": ""
-        },
-        {
-          "title": "Remains of five infants found in French couple's home; partner made discovery",
-          "link": "https://timesofindia.indiatimes.com/world/europe/remains-of-five-infants-found-in-french-couples-home-partner-made-discovery/articleshow/132689486.cms",
-          "date": "28 Jul 2026",
-          "summary": ""
-        },
-        {
-          "title": "Quote of the Day by Robert Frost: A reflection on mothers, love &amp; life’s unexpected turns",
-          "link": "https://timesofindia.indiatimes.com/life-style/books/features/quote-of-the-day-by-robert-frost-a-mother-takes-twenty-years-to-make-a-man-of-her-boy-and-another-woman-makes-a-fool-of-him-in-twenty-minutes/articleshow/132688950.cms",
-          "date": "28 Jul 2026",
-          "summary": "Robert Frost remains a celebrated American poet known for his accessible yet profound verse. His poems often use rural imagery to explore deep human themes and choices. Frost's journey to success involved years of struggle before achieving recognition. He won…"
-        },
-        {
-          "title": "Cricket club under fire after 'Clicky Ponting' finger-click cheating claim goes viral",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/english-cricket-club-under-fire-after-clicky-ponting-finger-click-cheating-claim-goes-viral/articleshow/132689463.cms",
-          "date": "28 Jul 2026",
-          "summary": "An amateur cricket match has sparked controversy over alleged umpire deception. A fielder reportedly clicked his fingers to simulate an edge off the bat. This incident has led to a formal investigation by the league officials. Other similar allegations have al…"
-        },
-        {
-          "title": "Maharashtra CM directs withdrawal of FIRs against protesters involved in NEET stir",
-          "link": "https://timesofindia.indiatimes.com/city/mumbai/maharashtra-cm-devendra-fadnavis-directs-home-dept-to-withdraw-firs-against-student-protesters/articleshow/132687941.cms",
-          "date": "28 Jul 2026",
-          "summary": "Maharashtra's Chief Minister has ordered the withdrawal of cases against protesting students. These cases were registered during recent demonstrations supporting the Cockroach Janta Party. Opposition parties urged the government to formally withdraw these pend…"
         }
       ]
     },
@@ -398,6 +398,12 @@
         {
           "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
           "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+          "date": "27 Jul 2026",
+          "summary": ""
+        },
+        {
+          "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+          "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
           "date": "27 Jul 2026",
           "summary": ""
         },
@@ -554,12 +560,6 @@
         {
           "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
           "link": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
-          "date": "22 Jun 2026",
-          "summary": ""
-        },
-        {
-          "title": "We got local models to triage the OpenClaw repo for FREE!*",
-          "link": "https://huggingface.co/blog/local-models-pr-triage",
           "date": "22 Jun 2026",
           "summary": ""
         }
@@ -760,6 +760,12 @@
       "ok": true,
       "items": [
         {
+          "title": "Anthropic says its Mythos model found vulnerabilities in cryptographic algorithms that secure the internet",
+          "link": "https://the-decoder.com/anthropic-says-its-mythos-model-found-vulnerabilities-in-cryptographic-algorithms-that-secure-the-internet/",
+          "date": "28 Jul 2026",
+          "summary": "Anthropic's Claude Mythos Preview found weaknesses in key cryptographic algorithms, including a better attack on HAWK, a post-quantum signature scheme that human experts had reviewed for more than two years. The model found it in just 60 hours at an API cost o…"
+        },
+        {
           "title": "Amazon reportedly scales back its Nova AI models and bets on a new Frontier research team",
           "link": "https://the-decoder.com/amazon-reportedly-scales-back-its-nova-ai-models-and-bets-on-a-new-frontier-research-team/",
           "date": "28 Jul 2026",
@@ -812,12 +818,6 @@
           "link": "https://the-decoder.com/metr-introduces-a-new-metric-to-calculate-exactly-when-ai-agents-become-more-expensive-than-humans/",
           "date": "27 Jul 2026",
           "summary": "METR's new metric, the \"expenditure horizon,\" puts a dollar figure on how cost-effective AI agents are at solving problems. Early results on the NanoGPT speedrun are underwhelming, the metric has blind spots, and the newest generation of models could change th…"
-        },
-        {
-          "title": "Shared Claude chats were reportedly showing up in search engines",
-          "link": "https://the-decoder.com/shared-claude-chats-were-reportedly-showing-up-in-search-engines/",
-          "date": "27 Jul 2026",
-          "summary": "Shared conversations with Anthropic's Claude chatbot briefly appeared in Google search results because the pages lacked a noindex tag. Users said some chats contained crypto keys and legal questions. OpenAI made the same mistake last year. The article Shared C…"
         }
       ]
     },
@@ -895,6 +895,12 @@
       "cat": "Technical · AI",
       "ok": true,
       "items": [
+        {
+          "title": "Developing Healthcare Robotics with GPU-Native Medical Physics Simulation",
+          "link": "https://developer.nvidia.com/blog/developing-healthcare-robotics-with-gpu-native-medical-physics-simulation/",
+          "date": "28 Jul 2026",
+          "summary": "Unlike autonomous driving or industrial robotics, healthcare robotics can’t rely on internet-scale data collection or unlimited real-world experimentation...."
+        },
         {
           "title": "NVIDIA Ising Enables Fully Automated Quantum Computer Calibration with Enhanced In-Context Learning",
           "link": "https://developer.nvidia.com/blog/nvidia-ising-enables-fully-automated-quantum-computer-calibration-with-enhanced-in-context-learning/",
@@ -1068,12 +1074,6 @@
           "link": "https://developer.nvidia.com/blog/accelerating-end-to-end-co-folding-performance-with-nvidia-bionemo-agent-toolkit/",
           "date": "23 Jul 2026",
           "summary": "Biomolecular structure prediction and co-folding with models like OpenFold3 are now mainstream, large-scale workloads powering drug discovery and protein..."
-        },
-        {
-          "title": "Synthetic Data Generation for Financial AI Research with NVIDIA NeMo",
-          "link": "https://developer.nvidia.com/blog/synthetic-data-generation-for-financial-ai-research-with-nvidia-nemo/",
-          "date": "23 Jul 2026",
-          "summary": "Fine-tuning LLMs for financial natural language processing (NLP) is constrained by limited, imbalanced data. Real-world financial news overrepresents earnings..."
         }
       ]
     },
@@ -1151,6 +1151,12 @@
       "cat": "Tech · News",
       "ok": true,
       "items": [
+        {
+          "title": "Anthropic AI Model Finds Flaws in Tough-to-Crack Encryption Algorithms",
+          "link": "https://it.slashdot.org/story/26/07/28/1911218/anthropic-ai-model-finds-flaws-in-tough-to-crack-encryption-algorithms?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "28 Jul 2026",
+          "summary": "Anthropic's Claude Mythos Preview has \"found flaws in a weakened version of a digital encryption standard that is in pervasive use throughout the internet,\" reports The New York Times. Researchers said the model discovered novel attacks against weakened versio…"
+        },
         {
           "title": "Judge Blocks First State Law That Would Have Banned Prediction Markets",
           "link": "https://yro.slashdot.org/story/26/07/28/1858208/judge-blocks-first-state-law-that-would-have-banned-prediction-markets?utm_source=rss1.0mainlinkanon&utm_medium=feed",
@@ -1234,12 +1240,6 @@
           "link": "https://slashdot.org/story/26/07/27/185249/chatgpt-starts-blocking-direct-requests-to-copy-an-authors-style?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "27 Jul 2026",
           "summary": "An anonymous reader quotes a report from Ars Technica: OpenAI's ChatGPT is now refusing requests to generate text that directly mimics the style of famous authors. When asked to do so, the popular LLM instead offers a response that draws on the \"broad qualitie…"
-        },
-        {
-          "title": "Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
-          "link": "https://apple.slashdot.org/story/26/07/27/1656234/apple-will-watch-everything-burn-when-ai-bubble-bursts?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "27 Jul 2026",
-          "summary": "MacRumors interviewed AI critic Ed Zitron, author of the Where's Your Ed At newsletter and host of the Better Offline podcast, about what could happen to Apple if the costly AI infrastructure boom collapses. Zitron argued that Apple is relatively well insulate…"
         }
       ]
     },
@@ -1247,69 +1247,8 @@
       "url": "https://www.aitrends.com/feed",
       "name": "AI Trends",
       "cat": "Artificial Intelligence",
-      "ok": true,
-      "items": [
-        {
-          "title": "Best Practices for Building the AI Development Platform in Government",
-          "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
-          "date": "28 Oct 2021",
-          "summary": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for its AI development platform efforts, according to Isaac Faber, Chief Data Scientist at the US Army AI Integrat…"
-        },
-        {
-          "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-          "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-          "date": "28 Oct 2021",
-          "summary": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Service…"
-        },
-        {
-          "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
-          "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
-          "date": "28 Oct 2021",
-          "summary": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a risk of wide discrimination if not implemented carefully. That was the message from Keith Sonderling, Commissione…"
-        },
-        {
-          "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
-          "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
-          "date": "28 Oct 2021",
-          "summary": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to collect data that anticipates breakdowns and recommends preventive action before break or machines fail, in a demo…"
-        },
-        {
-          "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
-          "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
-          "date": "28 Oct 2021",
-          "summary": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act itself is welcomed and not altogether disturbing when it occurs. What about when Artificial Intelligence (AI) se…"
-        },
-        {
-          "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
-          "link": "https://www.aitrends.com/ai-world-government/getting-government-ai-engineers-to-tune-into-ai-ethics-seen-as-challenge/",
-          "date": "21 Oct 2021",
-          "summary": "By John P. Desmond, AI Trends Editor Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray are…"
-        },
-        {
-          "title": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams",
-          "link": "https://www.aitrends.com/ai-world-government/digital-natives-seen-having-advantages-as-part-of-government-ai-engineering-teams/",
-          "date": "21 Oct 2021",
-          "summary": "By John P. Desmond, AI Trends Editor AI is more accessible to young people in the workforce who grew up as ‘digital natives’ with Alexa and self-driving cars as part of the landscape, giving them expectations grounded in their experience of what is possible. T…"
-        },
-        {
-          "title": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government",
-          "link": "https://www.aitrends.com/ai-world-government/how-accountability-practices-are-pursued-by-ai-engineers-in-the-federal-government/",
-          "date": "21 Oct 2021",
-          "summary": "By John P. Desmond, AI Trends Editor Two experiences of how AI developers within the federal government are pursuing AI accountability practices were outlined at the AI World Government event held virtually and in-person this week in Alexandria, Va. Taka Ariga…"
-        },
-        {
-          "title": "Startup: AssemblyAI Represents New Generation Speech Recognition",
-          "link": "https://www.aitrends.com/speech-recognition/startup-assemblyai-represents-new-generation-speech-recognition/",
-          "date": "21 Oct 2021",
-          "summary": "By AI Trends Staff Advances in the AI behind speech recognition are driving growth in the market, attracting venture capital and funding startups, posing challenges to established players. The growing acceptance and use of speech recognition devices are drivin…"
-        },
-        {
-          "title": "Pursuit of Autonomous Cars May Pose Risk of AI Tapping Forbidden Knowledge",
-          "link": "https://www.aitrends.com/ai-insider/pursuing-autonomous-cars-raises-anguish-on-surfacing-taboo-ai-forbidden-fruit/",
-          "date": "21 Oct 2021",
-          "summary": "By Lance Eliot, the AI Trends Insider Are there things that we must not know? This is an age-old question. Some assert that there is the potential for knowledge that ought to not be known. In other words, there are ideas, concepts, or mental formulations that…"
-        }
-      ]
+      "ok": false,
+      "items": []
     },
     {
       "url": "https://bair.berkeley.edu/blog/feed.xml",
@@ -1630,18 +1569,6 @@
       "ok": true,
       "items": [
         {
-          "title": "sphinx-vtk-xref added to PyPI",
-          "link": "https://pypi.org/project/sphinx-vtk-xref/",
-          "date": "28 Jul 2026",
-          "summary": "Sphinx extension for linking to VTK class documentation."
-        },
-        {
-          "title": "tabforecast added to PyPI",
-          "link": "https://pypi.org/project/tabforecast/",
-          "date": "28 Jul 2026",
-          "summary": "Add your description here"
-        },
-        {
           "title": "datasette-mcp added to PyPI",
           "link": "https://pypi.org/project/datasette-mcp/",
           "date": "28 Jul 2026",
@@ -1664,6 +1591,12 @@
           "link": "https://pypi.org/project/fitscout/",
           "date": "28 Jul 2026",
           "summary": "Preflight training advisor: detect your hardware, size an LLM fine-tune to fit it, and emit a runnable config - before you download the model."
+        },
+        {
+          "title": "ragify_docs added to PyPI",
+          "link": "https://pypi.org/project/ragify-docs/",
+          "date": "28 Jul 2026",
+          "summary": "A Developer's Tool for Interactive Documentation. Scrape entire documentation recursively and ask AI-powered questions using Retrieval-Augmented Generation (RAG)"
         },
         {
           "title": "jsonseek added to PyPI",
@@ -1808,6 +1741,12 @@
           "link": "https://pypi.org/project/audiate/",
           "date": "28 Jul 2026",
           "summary": "Render a symbolic music score (MIDI, MusicXML, ABC, ...) to audio"
+        },
+        {
+          "title": "textile-quote-engine-x24329274 added to PyPI",
+          "link": "https://pypi.org/project/textile-quote-engine-x24329274/",
+          "date": "28 Jul 2026",
+          "summary": "Validated wholesale textile quotation and weight calculations"
         }
       ]
     }
