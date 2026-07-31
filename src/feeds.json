@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-31T13:43:11Z",
+  "generated": "2026-07-31T15:55:46Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -196,16 +196,142 @@
       "ok": true,
       "items": [
         {
+          "title": "US proposes stricter J-1 visa rules; Indian researchers, docs could be affected",
+          "link": "https://timesofindia.indiatimes.com/world/us/us-proposes-stricter-j-1-visa-compliance-rules-indian-researchers-doctors-could-be-affected/articleshow/132767507.cms",
+          "date": "31 Jul 2026",
+          "summary": ""
+        },
+        {
+          "title": "‘Samudra Manthan’: Cabinet approves Rs 84,084 cr scheme for oil &amp; gas exploration",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/samudra-manthan-cabinet-approves-rs-84084-cr-scheme-for-oil-gas-exploration-top-things-to-know/articleshow/132765198.cms",
+          "date": "31 Jul 2026",
+          "summary": "The scheme will be implemented through FY2030-31 with an aim to harness India's vast offshore energy resources - in what the government has termed as a modern day Samudra Manthan."
+        },
+        {
+          "title": "'Clarify algorithmic bias': Govt summons Meta's global team over PM Modi post",
+          "link": "https://timesofindia.indiatimes.com/india/govt-summons-metas-global-team-over-pm-modi-post-restriction-to-question-algorithmic-bias/articleshow/132768495.cms",
+          "date": "31 Jul 2026",
+          "summary": "India's government has summoned Meta's global team to discuss Prime Minister Modi's post. Officials will question the social media giant on algorithmic bias and content moderation. Meta's global representatives will also appear before a parliamentary panel for…"
+        },
+        {
+          "title": "Russia hits Ukraine military cargo vessel near Odesa as Kyiv targets oil refinery",
+          "link": "https://timesofindia.indiatimes.com/world/europe/russia-hits-ukraine-military-cargo-vessel-near-odesa-as-kyiv-targets-oil-refinery/articleshow/132770999.cms",
+          "date": "31 Jul 2026",
+          "summary": "Russia claimed striking a vessel near Odesa carrying military cargo. Ukraine reported hitting Russia's Volgograd oil refinery and port infrastructure. Both nations are increasingly targeting logistics and supply chains. This escalation highlights the Black Sea…"
+        },
+        {
+          "title": "US plans $100K fee on foreign students: What it means for engineers",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/us-government-plans-100000-fee-on-foreign-students-what-it-means-for-engineers-and-others-planning-to-work-in-us/articleshow/132764950.cms",
+          "date": "31 Jul 2026",
+          "summary": "The US government is reportedly considering a $100,000 fee for foreign students seeking post-graduation work. This proposed fee targets the Optional Practical Training program, impacting many international graduates. This follows a significant H-1B visa fee hi…"
+        },
+        {
+          "title": "India likely to play waiting game with Bumrah for Sri Lanka Tests | Exclusive",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/india-likely-to-play-waiting-game-with-jasprit-bumrah-for-sri-lanka-tests-exclusive/articleshow/132771076.cms",
+          "date": "31 Jul 2026",
+          "summary": "The 32-year-old was picked in the Shubman Gill-led squad for the series, but subject to fitness clearance. Bumrah missed the third ODI against England at Lord's due to an \"impact injury\" to his left knee but looked very sharp in the two fixtures he did play."
+        },
+        {
+          "title": "'Not Morocco, please': The human stories behind Spain's migrant crisis",
+          "link": "https://timesofindia.indiatimes.com/world/europe/not-morocco-please-the-human-stories-behind-spains-migrant-crisis-report/articleshow/132771091.cms",
+          "date": "31 Jul 2026",
+          "summary": ""
+        },
+        {
+          "title": "How this African region became the hub of global jihad",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/sahel-how-this-african-region-became-the-hub-of-global-jihad/articleshow/132769286.cms",
+          "date": "31 Jul 2026",
+          "summary": ""
+        },
+        {
+          "title": "Meta AI head has message for Google Cloud executive joining Scale AI",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/meta-ai-head-shares-message-for-google-cloud-head-who-announced-he-is-joining-scaleai-the-company-alexandr-wang-founded-but-left-to-head-mark-zuckerbergs-ai-division/articleshow/132755725.cms",
+          "date": "31 Jul 2026",
+          "summary": "Francis deSouza has been appointed the new CEO of Scale AI. He previously served as chief operating officer at Google Cloud. DeSouza aims to position Scale AI as an enterprise AI company. He replaces interim chief executive Jason Droege, who led the company af…"
+        },
+        {
+          "title": "PM Modi, UK PM Andy Burnham discuss AI, defence, Strait of Hormuz in first phone call",
+          "link": "https://timesofindia.indiatimes.com/india/pm-modi-uk-pm-andy-burnham-discuss-ai-defence-strait-of-hormuz-in-first-phone-call/articleshow/132769167.cms",
+          "date": "31 Jul 2026",
+          "summary": ""
+        },
+        {
+          "title": "Man shuns mother over looks; boss fires him and gives her the job",
+          "link": "https://timesofindia.indiatimes.com/world/china/chinese-man-didnt-invite-his-mother-to-his-wedding-because-he-was-ashamed-of-her-looks-boss-fired-him-and-gave-her-the-job/articleshow/132768140.cms",
+          "date": "31 Jul 2026",
+          "summary": "A company founder in China has sparked debate after revealing he fired an employee who refused to invite his mother to his wedding because he was ashamed of her appearance. The businessman later offered the employee's mother a job. The incident has divided opi…"
+        },
+        {
+          "title": "Arctic charr evolved distinct metabolism after 100 years in Lake Allos",
+          "link": "https://timesofindia.indiatimes.com/science/in-1924-arctic-charr-from-lake-geneva-were-stocked-into-lake-allos-a-century-later-their-descendants-showed-distinct-metabolic-responses-under-identical-conditions/articleshow/132768545.cms",
+          "date": "31 Jul 2026",
+          "summary": "Introduced to Lake Allos in 1924, Arctic charr exhibit remarkable metabolic adaptations within just a century. These fish showcase rapid physiological changes, attributed mainly to their phenotypic plasticity, resulting in distinct body shapes. Notably, juveni…"
+        },
+        {
+          "title": "Michael Dell shares 'one page' that 'changed his life 42 years ago'",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/michael-dell-shares-one-page-that-changed-his-life-42-years-ago-says-i-started-by-upgrading-pcs-from-a-dorm-room-and-today-dell-is-/articleshow/132770605.cms",
+          "date": "31 Jul 2026",
+          "summary": "Michael Dell shared a 1984 financial statement which convinced his parents he should not return to college. This document showed significant revenue and earnings from his dorm room business. Dell Computer Corporation began by selling PC upgrade packages to cus…"
+        },
+        {
+          "title": "Vedika Pinto's sea-facing Mumbai home with Goan-Portuguese charm",
+          "link": "https://timesofindia.indiatimes.com/web-series/news/hindi/inside-musafir-cafe-star-vedika-pintos-4000-sq-ft-sea-facing-mumbai-home-inspired-by-goan-portugese-heritage-and-a-covered-up-green-choli-painting/articleshow/132767971.cms",
+          "date": "31 Jul 2026",
+          "summary": "'Musafir Cafe' actor Vedika Pinto gives an intimate tour of her 4000 sq ft Mumbai home, blending contemporary design with Goan-Portuguese touches that pay homage to her father's ancestry. From a restored newspaper artwork bought in Beirut to a painting with a…"
+        },
+        {
+          "title": "'Done by BJP goons': CJP's Dipke responds after injured Delhi cops' kin seek justice",
+          "link": "https://timesofindia.indiatimes.com/city/delhi/done-by-bjp-goons-abhijeet-dipke-responds-after-injured-delhi-cops-kin-seek-justice/articleshow/132767852.cms",
+          "date": "31 Jul 2026",
+          "summary": "Families of the injured Delhi Police officers are advocating for a discussion in Parliament regarding their pain. CJP founder Abhijeet Dipke suggested a deliberate effort to target students amid the protests, expressing concern for the hurt officers while also…"
+        },
+        {
+          "title": "Japan launches first centralised intelligence body since WWII",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/paradise-for-spies-no-more-japan-launches-first-centralised-intelligence-body-since-wwii/articleshow/132770383.cms",
+          "date": "31 Jul 2026",
+          "summary": ""
+        },
+        {
+          "title": "'India always supportive of dialogue and diplomacy': Jaishankar speaks to Iran FM",
+          "link": "https://timesofindia.indiatimes.com/india/india-always-supportive-of-dialogue-and-diplomacy-jaishankar-speaks-to-iran-fm-araghchi/articleshow/132770797.cms",
+          "date": "31 Jul 2026",
+          "summary": ""
+        },
+        {
+          "title": "Why 2030 WC hosts Spain, Portugal could miss tournament amid FIFA-UEFA standoff",
+          "link": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/why-spain-and-portugal-could-miss-2030-world-cup-they-are-set-to-host-if-fifa-and-uefa-fail-to-reach-agreement/articleshow/132769536.cms",
+          "date": "31 Jul 2026",
+          "summary": "UEFA’s threat to boycott FIFA competitions has raised the possibility of an unprecedented 2030 World Cup scenario, with co-hosts Spain and Portugal potentially missing their own tournament. The standoff centres on FIFA’s plan to sell a minority stake in commer…"
+        },
+        {
+          "title": "Rajinikanth skipped Malaysia launch for 'Jailer 2' to avoid Vijay comparisons",
+          "link": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rajinikanth-turned-down-malaysia-audio-launch-for-jailer-2-to-avoid-comparisons-and-rivalry-with-vijay-report/articleshow/132769542.cms",
+          "date": "31 Jul 2026",
+          "summary": "Jailer 2's audio launch venue is reportedly not Malaysia as Rajinikanth wishes to avoid comparisons. He reportedly stated he does not want to compete with Vijay's previous event. This reported decision has sparked discussions among fans and cinema enthusiasts.…"
+        },
+        {
+          "title": "India assure three judo medals as Asmita, Harsh and Yamini reach CWG finals",
+          "link": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/india-assure-three-judo-medals-as-asmita-dey-harsh-singh-and-yamini-reach-cwg-finals/articleshow/132769543.cms",
+          "date": "31 Jul 2026",
+          "summary": "Asmita produced a strong comeback to beat Scotland's Summer Shaw by yuko in the women's 48kg semifinal and book her place in the final, where she will face Canada's Heidi Quach later on Friday."
+        },
+        {
+          "title": "Assam floods: Death toll rises to 80; state shifts focus to rehabilitation",
+          "link": "https://timesofindia.indiatimes.com/india/assam-floods-death-toll-rises-to-80-state-shifts-focus-to-rehabilitation-announces-loan-relief/articleshow/132768989.cms",
+          "date": "31 Jul 2026",
+          "summary": ""
+        },
+        {
           "title": "Watch: Chaos at Spain-Morocco border as thousands try to swim across; 34 dead",
           "link": "https://timesofindia.indiatimes.com/world/europe/footage-shows-chaos-at-spain-morocco-border-as-thousands-try-to-swim-across-34-dead/articleshow/132766198.cms",
           "date": "31 Jul 2026",
           "summary": ""
         },
         {
-          "title": "'Clarify algorithmic bias, role in public order': Govt to Meta over PM post",
-          "link": "https://timesofindia.indiatimes.com/india/govt-summons-metas-global-team-over-pm-modi-post-restriction-to-question-algorithmic-bias/articleshow/132768495.cms",
+          "title": "'Brilliant story if he does': England leave door open for Stokes' Ashes return",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/brilliant-story-if-he-does-england-leave-door-open-for-ben-stokes-ashes-return/articleshow/132768609.cms",
           "date": "31 Jul 2026",
-          "summary": "India's government has summoned Meta's global team to discuss Prime Minister Modi's post. Officials will question the social media giant on algorithmic bias and content moderation. Meta's global representatives will also appear before a parliamentary panel for…"
+          "summary": ""
         },
         {
           "title": "'System has collapsed': Pak minister warns of power of 'cockroaches'",
@@ -220,22 +346,16 @@
           "summary": ""
         },
         {
-          "title": "US plans $100K fee on foreign students: What it means for engineers",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/us-government-plans-100000-fee-on-foreign-students-what-it-means-for-engineers-and-others-planning-to-work-in-us/articleshow/132764950.cms",
-          "date": "31 Jul 2026",
-          "summary": "The US government is reportedly considering a $100,000 fee for foreign students seeking post-graduation work. This proposed fee targets the Optional Practical Training program, impacting many international graduates. This follows a significant H-1B visa fee hi…"
-        },
-        {
-          "title": "'Brilliant story if he does': England leave door open for Stokes' Ashes return",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/brilliant-story-if-he-does-england-leave-door-open-for-ben-stokes-ashes-return/articleshow/132768609.cms",
-          "date": "31 Jul 2026",
-          "summary": ""
-        },
-        {
           "title": "139 Indians freed from Russian Army, 24 remain: MEA warns against shady job offers",
           "link": "https://timesofindia.indiatimes.com/india/139-indians-released-from-russian-army-2-dozen-remain-mea-warns-against-shady-job-offers/articleshow/132767003.cms",
           "date": "31 Jul 2026",
           "summary": ""
+        },
+        {
+          "title": "Rajinikanth donates Rs 1 lakh to Mohan Sharma after financial crisis plea",
+          "link": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rajinikanth-donates-rs-1-lakh-to-mohan-sharma-after-viral-plea-on-financial-crisis-veteran-actor-expresses-gratitude-i-am-managing-my-life-with-that-help/articleshow/132766472.cms",
+          "date": "31 Jul 2026",
+          "summary": "Superstar Rajinikanth provided financial assistance to veteran actor Mohan Sharma. Sharma expressed gratitude for the one lakh rupee donation which helped him. He shared his struggles after selling his house and facing family issues. Sharma, a respected actor,…"
         },
         {
           "title": "Tahir Hussain gives first public reaction after being sentenced to life in prison",
@@ -244,136 +364,16 @@
           "summary": ""
         },
         {
-          "title": "Meta AI head has message for Google Cloud executive joining Scale AI",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/meta-ai-head-shares-message-for-google-cloud-head-who-announced-he-is-joining-scaleai-the-company-alexandr-wang-founded-but-left-to-head-mark-zuckerbergs-ai-division/articleshow/132755725.cms",
-          "date": "31 Jul 2026",
-          "summary": "Francis deSouza has been appointed the new CEO of Scale AI. He previously served as chief operating officer at Google Cloud. DeSouza aims to position Scale AI as an enterprise AI company. He replaces interim chief executive Jason Droege, who led the company af…"
-        },
-        {
           "title": "India to get plastic notes soon: Why the move is important - explained",
           "link": "https://timesofindia.indiatimes.com/business/india-business/india-to-get-plastic-notes-soon-rbi-polymer-currency-why-the-move-is-important-explained/articleshow/132764423.cms",
           "date": "31 Jul 2026",
           "summary": "RBI has already floated the tender to source materials for the polymer notes with its currency printing arm Bharatiya Reserve Bank Note Mudran Pvt Ltd inviting global expressions of interest. The step assumes significance because India has discarded around Rs…"
         },
         {
-          "title": "Rats drove out seabirds, reshaping an entire reef food chain",
-          "link": "https://timesofindia.indiatimes.com/science/tiny-reef-fish-flourished-beside-islands-filled-with-seabirds-where-rats-removed-the-birds-the-entire-underwater-food-chain-took-another-route/articleshow/132756134.cms",
-          "date": "31 Jul 2026",
-          "summary": "Tropical islands are facing a surprising ecological shift as invasive rats disrupt the balance of coral reef ecosystems. By decimating seabird numbers, these rats cut down on essential nutrient contributions to the reefs. As a result, tiny cryptobenthic fish f…"
-        },
-        {
-          "title": "US avocado imports cut chemical use, reduce nitrogen pollution by 10%",
-          "link": "https://timesofindia.indiatimes.com/world/us/america-allowed-avocados-from-across-mexico-under-stricter-inspection-rules-in-2016-farmers-reduced-routine-chemical-use-and-nearby-nitrogen-pollution-fell-about-10/articleshow/132758920.cms",
-          "date": "31 Jul 2026",
-          "summary": "New United States import rules for Mexican avocados prompted growers to reduce chemical use. This change significantly lowered nitrogen pollution in nearby Mexican waterways. Stricter inspections and phytosanitary certificates encouraged more careful pest mana…"
-        },
-        {
-          "title": "'I planted a nuclear plant in Iran': AI researcher's claim triggers Google reply",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/google-clarifies-after-researcher-claims-he-planted-nuclear-plant-in-iran-and-put-refugees-near-mexico-border-on-google-earth/articleshow/132767300.cms",
-          "date": "31 Jul 2026",
-          "summary": "An AI researcher demonstrated Google Earth's new feature fabricating crises. He generated images of nuclear plants and refugee situations on real maps. Google stated that all generated images include digital watermarking for identification. The company also me…"
-        },
-        {
           "title": "Perfect start! Boxers Preeti Pawar, Ankush Panghal storm into CWG finals",
           "link": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/perfect-start-preeti-pawar-ankush-panghal-storm-into-cwg-2026-finals-as-india-goes-2-0-in-boxing-semis/articleshow/132767721.cms",
           "date": "31 Jul 2026",
           "summary": "Preeti Pawar and Ankush Panghal advanced to their respective finals today. Both boxers secured commanding victories to keep gold medal hopes alive. Pawar dominated her bout, securing a unanimous decision win. Panghal also delivered a strong performance, outcla…"
-        },
-        {
-          "title": "Kangana Ranaut shares sita pics, gives 'aashirwad' to liberals",
-          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amid-ranbir-kapoors-ramayana-trailer-launch-kangana-ranaut-reveals-she-played-sita-drops-pics-from-1997-gives-aashirwad-to-all-the-liberals/articleshow/132765236.cms",
-          "date": "31 Jul 2026",
-          "summary": "Kangana Ranaut shared a childhood photograph from a 1997 school play. She portrayed Goddess Sita in the Ramayana during her school days. This memory surfaced amid discussions surrounding the recent Ramayana trailer release. The actress also recently criticized…"
-        },
-        {
-          "title": "‘Samudra Manthan’: Cabinet approves Rs 84,084 cr scheme for oil &amp; gas exploration",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/samudra-manthan-cabinet-approves-rs-84084-cr-scheme-for-oil-gas-exploration-top-things-to-know/articleshow/132765198.cms",
-          "date": "31 Jul 2026",
-          "summary": "The scheme will be implemented through FY2030-31 with an aim to harness India's vast offshore energy resources - in what the government has termed as a modern day Samudra Manthan."
-        },
-        {
-          "title": "US, Israel considering land blockade to cripple Iran's economy: Report",
-          "link": "https://timesofindia.indiatimes.com/world/us/us-israel-considering-land-blockade-to-cripple-irans-economy-report/articleshow/132766988.cms",
-          "date": "31 Jul 2026",
-          "summary": ""
-        },
-        {
-          "title": "Happy Girlfriend Day 2026: Top 50 wishes, messages to share with your friends",
-          "link": "https://timesofindia.indiatimes.com/etimes/trending/happy-girlfriend-day-2026-top-50-wishes-messages-greetings-card-gifs-whatsapp-instagram-status-and-quotes-to-share-with-your-friends/articleshow/132755037.cms",
-          "date": "31 Jul 2026",
-          "summary": "Girlfriend Day offers a chance to express appreciation for loved ones. Simple messages can convey deep feelings and strengthen relationships. Personalizing sentiments makes them more meaningful and memorable for your girlfriend. The article provides numerous e…"
-        },
-        {
-          "title": "Cauvery water row: Screening of TN CM Vijay's 'Jana Nayagan' stopped across K'taka",
-          "link": "https://timesofindia.indiatimes.com/city/hubballi/cauvery-water-row-screening-of-cm-vijays-jana-nayagan-stopped-across-karnataka/articleshow/132764687.cms",
-          "date": "31 Jul 2026",
-          "summary": "Tamil film screenings have been halted across Karnataka until further notice. Protests erupted over the Cauvery water-sharing dispute, disrupting movie showings. Pro-Kannada groups announced a statewide bandh for August 13 against water release. Farmers and ac…"
-        },
-        {
-          "title": "‘Stands in solidarity’: AFC joins UEFA, CONCACAF in opposing FIFA's World Cup plan",
-          "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/stands-in-solidarity-afc-joins-uefa-concacaf-in-opposing-fifas-world-cup-investment-plan/articleshow/132766393.cms",
-          "date": "31 Jul 2026",
-          "summary": "The Asian Football Confederation opposes FIFA's plan for private investors in commercial rights. This move escalates resistance to FIFA president Gianni Infantino's ambitious commercial proposal. AFC stands in solidarity with UEFA and CONCACAF against the plan…"
-        },
-        {
-          "title": "Bengal terror plot: Suspected JeM terrorist held, CM surveillance info found",
-          "link": "https://timesofindia.indiatimes.com/city/kolkata/bengal-terror-plot-suspected-jem-terrorist-arrested-surveillance-info-of-suvendu-adhikari-found/articleshow/132764475.cms",
-          "date": "31 Jul 2026",
-          "summary": "In a significant development, authorities in West Bengal's Purba Bardhaman district have apprehended Hamid Mondal, a suspected member of Jaish-e-Mohammed. The Special Task Force captured Mondal from his rental home, where he was reportedly gathering intelligen…"
-        },
-        {
-          "title": "Former Army Chief General VN Sharma passes away at the age of 96",
-          "link": "https://timesofindia.indiatimes.com/defence/news/former-army-chief-general-vn-sharma-passes-away-at-the-age-of-96/articleshow/132766343.cms",
-          "date": "31 Jul 2026",
-          "summary": "Former Army Chief General Vishwa Nath Sharma passed away at ninety-six years old. He played a pivotal role during the 1987 military stand-off with China. General Sharma became the first officer commissioned after Independence to lead the Army. His tenure saw t…"
-        },
-        {
-          "title": "34 killed trying to breach Morocco border, army sent: Spain crisis explained in 10 points",
-          "link": "https://timesofindia.indiatimes.com/world/europe/18-killed-trying-to-breach-morocco-border-army-sent-in-ceuta-spain-migrant-crisis-explained-in-10-points/articleshow/132760028.cms",
-          "date": "31 Jul 2026",
-          "summary": ""
-        },
-        {
-          "title": "Delhi riots 2020: Why Tahir Hussain escaped death penalty in IB officer murder case",
-          "link": "https://timesofindia.indiatimes.com/india/delhi-riots-2020-why-tahir-hussain-escaped-death-penalty-in-ib-officer-ankit-sharma-murder-case/articleshow/132766366.cms",
-          "date": "31 Jul 2026",
-          "summary": "A Delhi court sentenced Tahir Hussain and four others to life imprisonment. They were convicted for the murder of IB officer Ankit Sharma. The court rejected the death penalty, citing reformation possibilities. The prosecution argued the case was rarest of rar…"
-        },
-        {
-          "title": "Infantino’s closest adviser quits, denounces World Cup plan as ‘bad deal for football’",
-          "link": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/infantinos-inner-circle-cracks-top-fifa-adviser-quits-denounces-world-cup-plan-as-a-bad-deal-for-football/articleshow/132764178.cms",
-          "date": "31 Jul 2026",
-          "summary": "Carlos Cordeiro, one of Gianni Infantino's closest advisers, has resigned in protest over FIFA's controversial World Cup investment proposal, calling it \"a bad deal for football\" and questioning its governance. His departure adds to mounting opposition from UE…"
-        },
-        {
-          "title": "Delhi riots: Tahir Hussain, 4 others get life term for IB officer Ankit Sharma's murder",
-          "link": "https://timesofindia.indiatimes.com/city/delhi/delhi-riots-former-aap-councillor-tahir-hussain-4-others-gets-life-term-for-ib-officer-ankit-sharmas-murder/articleshow/132765205.cms",
-          "date": "31 Jul 2026",
-          "summary": "In a significant ruling, a Delhi court has imposed a life sentence on former AAP councillor Tahir Hussain along with four co-defendants for the gruesome murder of Ankit Sharma, an Intelligence Bureau official. The victim was tragically killed during the violen…"
-        },
-        {
-          "title": "How Iran's military ran a $4bn gambling network as part of a sanctions-dodging op",
-          "link": "https://timesofindia.indiatimes.com/world/middle-east/how-irans-military-ran-a-4bn-gambling-network-as-part-of-a-sanctions-dodging-op-report/articleshow/132764717.cms",
-          "date": "31 Jul 2026",
-          "summary": ""
-        },
-        {
-          "title": "Watch: Saffron-clad Pappu Yadav, oppn stage Ram Temple donation theft skit in Parliament",
-          "link": "https://timesofindia.indiatimes.com/india/watch-saffron-clad-pappu-yadav-opposition-stage-ram-temple-donation-theft-skit-in-parliament/articleshow/132762209.cms",
-          "date": "31 Jul 2026",
-          "summary": "Opposition MPs staged a symbolic protest in Parliament over alleged Ram Temple donation embezzlement. They also demanded Union Home Minister Amit Shah's resignation regarding NEET-UG student protests. Independent MP Pappu Yadav enacted a priest pocketing donat…"
-        },
-        {
-          "title": "Army Major killed, 2 Lieutenant-rank officers injured in SUV crash in Jaisalmer",
-          "link": "https://timesofindia.indiatimes.com/city/jodhpur/army-major-killed-2-lieutenant-rank-officers-injured-in-suv-crash-near-jaisalmer-military-station/articleshow/132760844.cms",
-          "date": "31 Jul 2026",
-          "summary": "A young Army Major tragically died after his SUV collided with a camel near Jaisalmer. Two Lieutenant-rank officers sustained injuries in the same late-night road accident. The vehicle overturned multiple times after hitting the animal on the road. Army person…"
-        },
-        {
-          "title": "'Vendetta by filing FIRs against students': Kharge demands HM's resignation",
-          "link": "https://timesofindia.indiatimes.com/india/vendetta-by-filing-firs-against-students-kharge-demands-amit-shahs-resignation-over-police-action/articleshow/132759063.cms",
-          "date": "31 Jul 2026",
-          "summary": ""
         }
       ]
     },
@@ -760,6 +760,12 @@
       "ok": true,
       "items": [
         {
+          "title": "EU pools up to €30 billion for AI gigafactories while US tech giants casually spend 20 times more",
+          "link": "https://the-decoder.com/eu-pools-up-to-e30-billion-for-ai-gigafactories-while-us-tech-giants-casually-spend-20-times-more/",
+          "date": "31 Jul 2026",
+          "summary": "The European Commission wants to build up to seven AI gigafactories across Europe, backed by around 30 billion euros in public and private funding. For context, the major U.S. tech companies alone plan to spend more than $600 billion on computing infrastructur…"
+        },
+        {
           "title": "Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
           "link": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems/",
           "date": "31 Jul 2026",
@@ -812,12 +818,6 @@
           "link": "https://the-decoder.com/googles-lyria-3-5-music-model-now-lets-users-edit-individual-track-sections-without-starting-over/",
           "date": "29 Jul 2026",
           "summary": "Google released Lyria 3.5, its new music generation model, and built it into Google Flow Music. The model generates tracks between 30 seconds and 3 minutes long. A new feature called \"Selective Section Painting\" lets users edit specific sections of a track. Go…"
-        },
-        {
-          "title": "PwC has allegedly published AI-generated reports containing false or fabricated sources",
-          "link": "https://the-decoder.com/pwc-has-allegedly-published-ai-generated-reports-containing-false-or-fabricated-sources/",
-          "date": "29 Jul 2026",
-          "summary": "Following KPMG, Deloitte, and Ernst &#038; Young, GPTZero has now found fabricated sources and false claims in four PwC Middle East reports. One governance report scored 84 percent AI-generated and promoted a PwC product with unverified customer references. Al…"
         }
       ]
     },
@@ -827,6 +827,12 @@
       "cat": "Data Science",
       "ok": true,
       "items": [
+        {
+          "title": "Building Voice-Controlled AI Agents",
+          "link": "https://www.kdnuggets.com/building-voice-controlled-ai-agents",
+          "date": "31 Jul 2026",
+          "summary": "Building a voice-controlled AI agents isn't hard, this article breaks the pipeline into its real components: streaming speech recognition, turn detection, streaming generation, interruption handling, and tool calling under voice constraints and shows what each…"
+        },
         {
           "title": "5 Books That Will Deepen Your Understanding of Large Language Models",
           "link": "https://www.kdnuggets.com/5-books-that-will-deepen-your-understanding-of-large-language-models",
@@ -880,12 +886,6 @@
           "link": "https://www.kdnuggets.com/7-steps-to-building-and-deploying-your-first-autonomous-agent",
           "date": "27 Jul 2026",
           "summary": "This article shows you up all the steps in building and deploying your first autonomous AI agents from start to finish."
-        },
-        {
-          "title": "KDnuggets Weekly Roundup: Week of July 20, 2026",
-          "link": "https://www.kdnuggets.com/kdnuggets-weekly-roundup-2026-07-20",
-          "date": "25 Jul 2026",
-          "summary": "Top 5 MCP Servers for High Performance Agentic Development • 10 Newsletters Keeping You Ahead in AI • Kaggle + Google’s Free 5-Day Agentic AI Course • Language Model Hallucination Evaluation with GraphEval"
         }
       ]
     },
@@ -895,6 +895,12 @@
       "cat": "Technical · AI",
       "ok": true,
       "items": [
+        {
+          "title": "NVIDIA Video Codec SDK 13.1: Zero-Copy Transcode, AV1 B-Frames, and Frame-Accurate Seek",
+          "link": "https://developer.nvidia.com/blog/nvidia-video-codec-sdk-13-1-zero-copy-transcode-av1-b-frames-and-frame-accurate-seek/",
+          "date": "31 Jul 2026",
+          "summary": "The demand for high-quality video continues to accelerate across industries, powering everything from immersive streaming experiences to remote collaboration,..."
+        },
         {
           "title": "Run High-Performance Core Math at Scale with NVIDIA nvmath-python",
           "link": "https://developer.nvidia.com/blog/run-high-performance-core-math-at-scale-with-nvidia-nvmath-python/",
@@ -1068,12 +1074,6 @@
           "link": "https://developer.nvidia.com/blog/extreme-event-likelihoods-with-guided-generative-models/",
           "date": "23 Jul 2026",
           "summary": "Across science, engineering, and finance, many of the most important risks come from low-likelihood, high-impact events. Estimating the probability of these..."
-        },
-        {
-          "title": "How to Evaluate General-Purpose Robot Policies for Real-World Deployment",
-          "link": "https://developer.nvidia.com/blog/how-to-evaluate-general-purpose-robot-policies-for-real-world-deployment/",
-          "date": "23 Jul 2026",
-          "summary": "Robotics foundation models have made remarkable progress. Today's best systems can follow natural language instructions to pick, place, sort, and manipulate a..."
         }
       ]
     },
@@ -1630,184 +1630,184 @@
       "ok": true,
       "items": [
         {
-          "title": "simplestacktrace added to PyPI",
-          "link": "https://pypi.org/project/simplestacktrace/",
+          "title": "secintel added to PyPI",
+          "link": "https://pypi.org/project/secintel/",
+          "date": "31 Jul 2026",
+          "summary": "Python client for the SEC Intel API — SEC EDGAR filings, financials & insider-conviction scores for AI agents."
+        },
+        {
+          "title": "agrifoodpy-data added to PyPI",
+          "link": "https://pypi.org/project/agrifoodpy-data/",
+          "date": "31 Jul 2026",
+          "summary": "Prepackaged data for the AgriFoodPy modelling package"
+        },
+        {
+          "title": "cuesplice added to PyPI",
+          "link": "https://pypi.org/project/cuesplice/",
+          "date": "31 Jul 2026",
+          "summary": "Timed transcript conversion and caption export."
+        },
+        {
+          "title": "katagoanal added to PyPI",
+          "link": "https://pypi.org/project/katagoanal/",
+          "date": "31 Jul 2026",
+          "summary": "A lightweight CLI tool to inject KataGo win-rate (SBKV) and score lead (SBKS) into SGF files (Sabaki-readable)."
+        },
+        {
+          "title": "nexus-ide-utility added to PyPI",
+          "link": "https://pypi.org/project/nexus-ide-utility/",
+          "date": "31 Jul 2026",
+          "summary": "IDE-agnostic, on-device token-management utility (US 19/656,853 + 64067945)"
+        },
+        {
+          "title": "dbpm added to PyPI",
+          "link": "https://pypi.org/project/dbpm/",
+          "date": "31 Jul 2026",
+          "summary": "Oracle database package manager and deployment orchestrator."
+        },
+        {
+          "title": "entirius-django-regon-api added to PyPI",
+          "link": "https://pypi.org/project/entirius-django-regon-api/",
+          "date": "31 Jul 2026",
+          "summary": "REGON/GUS lookup Django module for Volkanos — NIP/REGON search against Polish government registries"
+        },
+        {
+          "title": "entirius-django-contact-forms added to PyPI",
+          "link": "https://pypi.org/project/entirius-django-contact-forms/",
+          "date": "31 Jul 2026",
+          "summary": "Forms Django module for Volkanos — contact forms, bookings, leads, ad-conversion uploads"
+        },
+        {
+          "title": "stmoc-pp added to PyPI",
+          "link": "https://pypi.org/project/stmoc-pp/",
+          "date": "31 Jul 2026",
+          "summary": "Command-line to create and query a ST-MOC persitent precursors set, i.e. a list of (Time rrange, S-MOC) couples."
+        },
+        {
+          "title": "mimiko added to PyPI",
+          "link": "https://pypi.org/project/mimiko/",
+          "date": "31 Jul 2026",
+          "summary": "Remote WebSocket Mock built on top of jj"
+        },
+        {
+          "title": "cognikit added to PyPI",
+          "link": "https://pypi.org/project/cognikit/",
+          "date": "31 Jul 2026",
+          "summary": "Shared AI toolkit helpers: config, paths, identity, framing, file transfer"
+        },
+        {
+          "title": "project-sandbox added to PyPI",
+          "link": "https://pypi.org/project/project-sandbox/",
+          "date": "31 Jul 2026",
+          "summary": "Sandbox coding agents inside isolated container runtimes."
+        },
+        {
+          "title": "catalogai added to PyPI",
+          "link": "https://pypi.org/project/catalogai/",
+          "date": "31 Jul 2026",
+          "summary": "Local profile and extension catalog export for AI lab tooling"
+        },
+        {
+          "title": "terrarium-python added to PyPI",
+          "link": "https://pypi.org/project/terrarium-python/",
+          "date": "31 Jul 2026",
+          "summary": "Async Python client for the Terrarium orchestrator API — manage sandboxed Claude agents and sessions (Claude-Agent-SDK-aligned)."
+        },
+        {
+          "title": "phantomfill-lint added to PyPI",
+          "link": "https://pypi.org/project/phantomfill-lint/",
+          "date": "31 Jul 2026",
+          "summary": "Find JSON Schema fields that leave a language model no way to say 'the evidence is not here'."
+        },
+        {
+          "title": "aiprepkit added to PyPI",
+          "link": "https://pypi.org/project/aiprepkit/",
+          "date": "31 Jul 2026",
+          "summary": "Prep kit for AI lab embedded runtime dependencies"
+        },
+        {
+          "title": "ailaunchkit added to PyPI",
+          "link": "https://pypi.org/project/ailaunchkit/",
+          "date": "31 Jul 2026",
+          "summary": "Launch kit helpers for AI lab client autostart"
+        },
+        {
+          "title": "wringer added to PyPI",
+          "link": "https://pypi.org/project/wringer/",
+          "date": "31 Jul 2026",
+          "summary": "One command that proves whether this change is mergeable — wring verify, a standalone evidence compiler"
+        },
+        {
+          "title": "lushai added to PyPI",
+          "link": "https://pypi.org/project/lushai/",
+          "date": "31 Jul 2026",
+          "summary": "Official Python SDK for the LushAI Chat API — a Mizo-first AI assistant you can shape with your own system prompt."
+        },
+        {
+          "title": "aichannel added to PyPI",
+          "link": "https://pypi.org/project/aichannel/",
+          "date": "31 Jul 2026",
+          "summary": "AI sync channel client: session, handlers, and remote control loop"
+        },
+        {
+          "title": "aiassistcore added to PyPI",
+          "link": "https://pypi.org/project/aiassistcore/",
+          "date": "31 Jul 2026",
+          "summary": "Workspace assist core for AI lab input and clipboard utilities"
+        },
+        {
+          "title": "huldah added to PyPI",
+          "link": "https://pypi.org/project/huldah/",
+          "date": "31 Jul 2026",
+          "summary": "Huldah — human-systems analysis over Deborah process descriptions: human factors, UI evidence, layout load, live observation, and interface recommendations."
+        },
+        {
+          "title": "deborah added to PyPI",
+          "link": "https://pypi.org/project/deborah/",
+          "date": "31 Jul 2026",
+          "summary": "Deborah — a human-readable process language for governed agentic work in human systems, with grammar and plan conformance."
+        },
+        {
+          "title": "simple-stacktrace added to PyPI",
+          "link": "https://pypi.org/project/simple-stacktrace/",
           "date": "31 Jul 2026",
           "summary": "None"
+        },
+        {
+          "title": "typer-examples added to PyPI",
+          "link": "https://pypi.org/project/typer-examples/",
+          "date": "31 Jul 2026",
+          "summary": "Beautiful example rendering for Typer CLI help output"
+        },
+        {
+          "title": "project_darpan added to PyPI",
+          "link": "https://pypi.org/project/project-darpan/",
+          "date": "31 Jul 2026",
+          "summary": "Development flow as Paleofuturistic Python"
+        },
+        {
+          "title": "splent-feature-theme added to PyPI",
+          "link": "https://pypi.org/project/splent-feature-theme/",
+          "date": "31 Jul 2026",
+          "summary": "None"
+        },
+        {
+          "title": "ladder-cli added to PyPI",
+          "link": "https://pypi.org/project/ladder-cli/",
+          "date": "31 Jul 2026",
+          "summary": "Track every branch, stage, and alternative path in your AI pair-programming sessions."
+        },
+        {
+          "title": "aetherrpc added to PyPI",
+          "link": "https://pypi.org/project/aetherrpc/",
+          "date": "31 Jul 2026",
+          "summary": "A zero-dependency RPC framework for Python"
         },
         {
           "title": "smolserve added to PyPI",
           "link": "https://pypi.org/project/smolserve/",
           "date": "31 Jul 2026",
           "summary": "Lightweight local multi-protocol server for Gemini, Gopher, and Finger protocols"
-        },
-        {
-          "title": "custodian-talaria added to PyPI",
-          "link": "https://pypi.org/project/custodian-talaria/",
-          "date": "31 Jul 2026",
-          "summary": "Talaria — governed, kernel-enforced security for Hermes Agent and NemoClaw"
-        },
-        {
-          "title": "custodian-hermes-guard added to PyPI",
-          "link": "https://pypi.org/project/custodian-hermes-guard/",
-          "date": "31 Jul 2026",
-          "summary": "Fail-closed Custodian policy guard for Hermes Agent, managed by Talaria"
-        },
-        {
-          "title": "rag-debug-cli added to PyPI",
-          "link": "https://pypi.org/project/rag-debug-cli/",
-          "date": "31 Jul 2026",
-          "summary": "A debugger for RAG applications: diagnoses retrieval, context, and grounding failures."
-        },
-        {
-          "title": "turbotwix added to PyPI",
-          "link": "https://pypi.org/project/turbotwix/",
-          "date": "31 Jul 2026",
-          "summary": "High-throughput reader for Siemens MRI raw data (.dat / TWIX) files"
-        },
-        {
-          "title": "runopsy added to PyPI",
-          "link": "https://pypi.org/project/runopsy/",
-          "date": "31 Jul 2026",
-          "summary": "Find where an AI agent run started going wrong, not just where it stopped"
-        },
-        {
-          "title": "labcraft added to PyPI",
-          "link": "https://pypi.org/project/labcraft/",
-          "date": "31 Jul 2026",
-          "summary": "Thermodynamic simulation engine for multiplex primer panel design (LAMP & PCR)"
-        },
-        {
-          "title": "runopsy-core added to PyPI",
-          "link": "https://pypi.org/project/runopsy-core/",
-          "date": "31 Jul 2026",
-          "summary": "Framework-agnostic trace schema, graph, detectors and causal ranking for Runopsy"
-        },
-        {
-          "title": "runopsy-collector added to PyPI",
-          "link": "https://pypi.org/project/runopsy-collector/",
-          "date": "31 Jul 2026",
-          "summary": "Append-only local ingest and queryable storage for Runopsy traces"
-        },
-        {
-          "title": "prank added to PyPI",
-          "link": "https://pypi.org/project/prank/",
-          "date": "31 Jul 2026",
-          "summary": "Turns every uncaught exception into emotional damage."
-        },
-        {
-          "title": "devarshibalu-demo-proj added to PyPI",
-          "link": "https://pypi.org/project/devarshibalu-demo-proj/",
-          "date": "31 Jul 2026",
-          "summary": "Add your description here"
-        },
-        {
-          "title": "project_yy added to PyPI",
-          "link": "https://pypi.org/project/project-yy/",
-          "date": "31 Jul 2026",
-          "summary": "None"
-        },
-        {
-          "title": "project_jeroen added to PyPI",
-          "link": "https://pypi.org/project/project-jeroen/",
-          "date": "31 Jul 2026",
-          "summary": "Development flow as Paleofuturistic Python"
-        },
-        {
-          "title": "arabikit added to PyPI",
-          "link": "https://pypi.org/project/arabikit/",
-          "date": "31 Jul 2026",
-          "summary": "مكتبة شاملة لمعالجة النصوص العربية: تطبيع، تصحيح العرض (reshaping/bidi)، وتكامل مباشر مع matplotlib للرسوم البيانية."
-        },
-        {
-          "title": "chemelex-nuheat added to PyPI",
-          "link": "https://pypi.org/project/chemelex-nuheat/",
-          "date": "31 Jul 2026",
-          "summary": "Community-maintained typed async client for the Chemelex NuHeat API v2"
-        },
-        {
-          "title": "alpic-ai-insights added to PyPI",
-          "link": "https://pypi.org/project/alpic-ai-insights/",
-          "date": "31 Jul 2026",
-          "summary": "User insights helpers for Alpic-hosted Python MCP servers"
-        },
-        {
-          "title": "agentwisper added to PyPI",
-          "link": "https://pypi.org/project/agentwisper/",
-          "date": "31 Jul 2026",
-          "summary": "Multi-agent message broker for AI agent coordination via MCP"
-        },
-        {
-          "title": "splent-feature-search added to PyPI",
-          "link": "https://pypi.org/project/splent-feature-search/",
-          "date": "31 Jul 2026",
-          "summary": "None"
-        },
-        {
-          "title": "user-data-ingest-cli added to PyPI",
-          "link": "https://pypi.org/project/user-data-ingest-cli/",
-          "date": "31 Jul 2026",
-          "summary": "CLI tool for ingesting user data via the API"
-        },
-        {
-          "title": "rwkv-tl added to PyPI",
-          "link": "https://pypi.org/project/rwkv-tl/",
-          "date": "31 Jul 2026",
-          "summary": "Add your description here"
-        },
-        {
-          "title": "audiosig added to PyPI",
-          "link": "https://pypi.org/project/audiosig/",
-          "date": "31 Jul 2026",
-          "summary": "Portable, dependency-light audio signal processing for NumPy arrays."
-        },
-        {
-          "title": "cn2kana added to PyPI",
-          "link": "https://pypi.org/project/cn2kana/",
-          "date": "31 Jul 2026",
-          "summary": "把中文/英文的读音用日文假名拼出(普通话音段近似),产物喂给 VOICEVOX 等 TTS 引擎"
-        },
-        {
-          "title": "icmesh added to PyPI",
-          "link": "https://pypi.org/project/icmesh/",
-          "date": "31 Jul 2026",
-          "summary": "Mesh, geometry and OpenFOAM utilities for technical computing."
-        },
-        {
-          "title": "gemseo-sysml added to PyPI",
-          "link": "https://pypi.org/project/gemseo-sysml/",
-          "date": "31 Jul 2026",
-          "summary": "A GEMSEO connector to SysML v2"
-        },
-        {
-          "title": "secondbrain-memory added to PyPI",
-          "link": "https://pypi.org/project/secondbrain-memory/",
-          "date": "31 Jul 2026",
-          "summary": "One shared, local-first persistent memory for every AI coding agent you use (Codex, Claude Code, Cursor, and more)."
-        },
-        {
-          "title": "approxkit added to PyPI",
-          "link": "https://pypi.org/project/approxkit/",
-          "date": "31 Jul 2026",
-          "summary": "Approximation theory utilities for Chebyshev and Padé approximations"
-        },
-        {
-          "title": "behave-pool added to PyPI",
-          "link": "https://pypi.org/project/behave-pool/",
-          "date": "31 Jul 2026",
-          "summary": "Parallel test execution for Behave BDD via native ITestRunner."
-        },
-        {
-          "title": "esp-blfd added to PyPI",
-          "link": "https://pypi.org/project/esp-blfd/",
-          "date": "31 Jul 2026",
-          "summary": "Streaming decoders for BLE log frames"
-        },
-        {
-          "title": "vmware-vdi added to PyPI",
-          "link": "https://pypi.org/project/vmware-vdi/",
-          "date": "31 Jul 2026",
-          "summary": "VMware/Omnissa Horizon VDI intelligent operations — pools, sessions, machines, entitlements, images (MCP + CLI)"
         }
       ]
     }
