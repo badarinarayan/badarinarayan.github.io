@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-31T15:55:46Z",
+  "generated": "2026-07-31T17:22:17Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,12 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "NSE pays Rs 715 crore to settle pending Rs 1,491-crore co-location case ahead of IPO",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-pays-rs-715-crore-to-settle-pending-rs-1491-crore-co-location-case-ahead-of-ipo/articleshow/132772270.cms",
+          "date": "31 Jul 2026",
+          "summary": "NSE has paid the remaining Rs 714.74 crore to Sebi, completing the Rs 1,491.21-crore settlement of the long-pending colocation and dark fibre cases. The payment follows Sebi's in-principle approval and clears a key hurdle as the exchange moves closer to its pl…"
+        },
         {
           "title": "Vedanta Aluminium share price target: Why Citi, CLSA, Nuvama see up to 20% upside after Q1 earnings",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-aluminium-share-price-target-why-citi-clsa-nuvama-see-up-to-20-upside-after-q1-earnings/articleshow/132756392.cms",
@@ -36,12 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/multibagger-astra-microwave-shares-rally-14-to-52-week-high-after-rs-2205-crore-order-win-from-hal/articleshow/132755861.cms",
           "date": "31 Jul 2026",
           "summary": "Astra Microwave Products shares surged 14% to a fresh 52-week high of Rs 1,960 after securing a massive Rs 2,205 crore order from Hindustan Aeronautics (HAL) for Uttam Radar components. The five-year contract nearly doubles the company's existing order book, d…"
-        },
-        {
-          "title": "Redington shares gain 4% after Q1 profit jumps 77% YoY, revenue growth remains robust",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/redington-shares-gain-4-after-q1-profit-jumps-77-yoy-revenue-growth-remains-robust/articleshow/132757444.cms",
-          "date": "31 Jul 2026",
-          "summary": "Redington shares gained nearly 4% after a 15% surge in the previous session, following a strong Q1FY27 performance. The technology solutions provider reported a 77% YoY rise in net profit to Rs 486 crore, aided by record revenue and operating leverage. The sto…"
         },
         {
           "title": "India-UK CETA takes effect: First zero-duty Indian coffee, jewellery consignments reach UK shores",
@@ -196,8 +196,140 @@
       "ok": true,
       "items": [
         {
+          "title": "'Pak-trained Mujahideen turned guns inwards': MEA slams Islamabad over PoK crackdown",
+          "link": "https://timesofindia.indiatimes.com/india/pak-trained-mujahideen-have-turned-their-guns-inwards-india-slams-islamabad-over-pok-crackdown/articleshow/132769923.cms",
+          "date": "31 Jul 2026",
+          "summary": "India condemned Pakistan's admission of training and arming militants who have turned against the state. The Ministry of External Affairs also criticized Pakistan's harsh crackdown on protesters in Pakistan-occupied Jammu and Kashmir. Over forty civilians were…"
+        },
+        {
+          "title": "Commonwealth Games: India strike double gold in judo as Asmita Dey, Harsh make history",
+          "link": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/commonwealth-games-india-strike-double-gold-in-judo-as-asmita-dey-harsh-singh-make-history/articleshow/132771738.cms",
+          "date": "31 Jul 2026",
+          "summary": "Asmita created history by becoming the first Indian judoka to win a Commonwealth Games gold medal after defeating Canada's Heidi Quach in the women's 48kg final."
+        },
+        {
+          "title": "'Not agreed to that': Trump shifts stance on Ukraine building Patriot missiles",
+          "link": "https://timesofindia.indiatimes.com/world/us/not-agreed-to-that-trump-shifts-stance-on-ukraine-building-patriot-missiles/articleshow/132773474.cms",
+          "date": "31 Jul 2026",
+          "summary": ""
+        },
+        {
+          "title": "1 killed as terrorists open fire at brick kiln workers in J&amp;K's Kulgam",
+          "link": "https://timesofindia.indiatimes.com/india/terror-suspects-open-fire-at-brick-kiln-workers-in-jks-kulgam-2-injured/articleshow/132771833.cms",
+          "date": "31 Jul 2026",
+          "summary": ""
+        },
+        {
+          "title": "Michael Dell shares 'one page' that 'changed his life 42 years ago'",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/michael-dell-shares-one-page-that-changed-his-life-42-years-ago-says-i-started-by-upgrading-pcs-from-a-dorm-room-and-today-dell-is-/articleshow/132770605.cms",
+          "date": "31 Jul 2026",
+          "summary": "Michael Dell shared a 1984 financial statement which convinced his parents he should not return to college. This document showed significant revenue and earnings from his dorm room business. Dell Computer Corporation began by selling PC upgrade packages to cus…"
+        },
+        {
+          "title": "MAGA piles on to Morocco as Trump twits Spain over Ceuta",
+          "link": "https://timesofindia.indiatimes.com/world/us/maga-piles-on-to-morocco-as-trump-twits-spain-over-ceuta/articleshow/132772346.cms",
+          "date": "31 Jul 2026",
+          "summary": "The migrant surge into Ceuta is escalating into a geopolitical flashpoint. President Trump is using the crisis to reinforce his border security message. This event is also fueling online conspiracy theories linking it to wider international disputes. US offici…"
+        },
+        {
+          "title": "Heaps of cash &amp; gold, 242 vehicles &amp; more: WB CM Suvendu lists Tulu Mondal's assets",
+          "link": "https://timesofindia.indiatimes.com/city/kolkata/mountains-of-cash-gold-242-vehicles-7-houses-2-petrol-pumps-suvendu-lists-tulu-assets-blames-mamata-for-stone-barons-meteoric-rise/articleshow/132769852.cms",
+          "date": "31 Jul 2026",
+          "summary": "Authorities have confiscated more than Rs 150 crore in cash, gold, and various assets belonging to mining mogul Tulu Mondal. This haul comprises numerous vehicles, petrol pumps, and several properties. Chief Minister Suvendu Adhikari attributed the rise of thi…"
+        },
+        {
           "title": "US proposes stricter J-1 visa rules; Indian researchers, docs could be affected",
           "link": "https://timesofindia.indiatimes.com/world/us/us-proposes-stricter-j-1-visa-compliance-rules-indian-researchers-doctors-could-be-affected/articleshow/132767507.cms",
+          "date": "31 Jul 2026",
+          "summary": ""
+        },
+        {
+          "title": "Meta AI head has message for Google Cloud executive joining Scale AI",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/meta-ai-head-shares-message-for-google-cloud-head-who-announced-he-is-joining-scaleai-the-company-alexandr-wang-founded-but-left-to-head-mark-zuckerbergs-ai-division/articleshow/132755725.cms",
+          "date": "31 Jul 2026",
+          "summary": "Francis deSouza has been appointed the new CEO of Scale AI. He previously served as chief operating officer at Google Cloud. DeSouza aims to position Scale AI as an enterprise AI company. He replaces interim chief executive Jason Droege, who led the company af…"
+        },
+        {
+          "title": "Tough road for Trump: Why sanctions Bill for tariffs on Russian oil buyers may fail",
+          "link": "https://timesofindia.indiatimes.com/business/international-business/tough-road-for-trump-why-sanctions-bill-for-tariffs-on-russian-oil-buyers-may-fail-house-test/articleshow/132770964.cms",
+          "date": "31 Jul 2026",
+          "summary": "Lawmakers from both parties, along with industry trade groups, have raised concerns over a section of the legislation that would allow Trump to impose hefty tariffs on countries that buy significant volumes of Russian oil and gas."
+        },
+        {
+          "title": "Michigan woman sues Toll Brothers over access to her 19-acre property",
+          "link": "https://timesofindia.indiatimes.com/world/us/a-michigan-woman-owns-19-acres-between-two-planned-toll-brothers-communities-she-is-suing-over-her-only-access-route-and-a-proposed-wastewater-discharge/articleshow/132770064.cms",
+          "date": "31 Jul 2026",
+          "summary": "A woman from Michigan has initiated legal action against Toll Brothers concerning their wastewater management and access rights. Her property, undeveloped, is situated between two upcoming luxury housing estates. The lawsuit alleges that the developers have di…"
+        },
+        {
+          "title": "13-year-old turns peanut shells into pesticide remover, eyes $25K prize",
+          "link": "https://timesofindia.indiatimes.com/science/minnesota-student-arika-kundu-13-designed-a-method-that-turns-peanut-shell-waste-into-a-material-for-removing-pesticide-residues-from-fresh-produce-she-is-now-competing-for-a-25000-science-prize/articleshow/132734564.cms",
+          "date": "30 Jul 2026",
+          "summary": "Thirteen-year-old Minnesota student Arika Kundu has designed a method that uses discarded peanut shells to help remove pesticide residues from fresh fruits and vegetables. Her project, called LIGNEX, has made her one of 10 finalists in the 2026 3M Young Scient…"
+        },
+        {
+          "title": "US plans $100K fee on foreign students: What it means for engineers",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/us-government-plans-100000-fee-on-foreign-students-what-it-means-for-engineers-and-others-planning-to-work-in-us/articleshow/132764950.cms",
+          "date": "31 Jul 2026",
+          "summary": "The US government is reportedly considering a $100,000 fee for foreign students seeking post-graduation work. This proposed fee targets the Optional Practical Training program, impacting many international graduates. This follows a significant H-1B visa fee hi…"
+        },
+        {
+          "title": "Student turns discarded wood into insulation for beverage coolers",
+          "link": "https://timesofindia.indiatimes.com/science/meet-quazeem-tiamiyu-a-student-who-turned-discarded-wood-into-insulation-for-beverage-coolers/articleshow/132772648.cms",
+          "date": "31 Jul 2026",
+          "summary": "Quazeem Tiamiyu developed safe insulation from wood fiber for beverage coolers. This bio-based component offers an environmentally friendly alternative to toxic polyurethane foam. His innovation utilizes cellulose nanofibrils and wood flour as binders and stab…"
+        },
+        {
+          "title": "Critically endangered sawfish killed for teeth worth up to $8k in illegal trade",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/critically-endangered-sawfish-are-still-killed-for-teeth-carved-into-cockfighting-spurs-one-rostrum-can-produce-products-worth-roughly-8000/articleshow/132771073.cms",
+          "date": "31 Jul 2026",
+          "summary": "Sawfish are now targeted for their unique rostrums, which are carved into spurs for illegal cockfighting. This hidden trade, particularly prevalent in Peru, devastates critically endangered sawfish populations. A single sawfish rostrum can fetch thousands of d…"
+        },
+        {
+          "title": "Rashmika Mandanna suffers major hip injury on set; doctors advise six weeks of rest",
+          "link": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandanna-suffers-major-hip-injury-on-set-doctors-advise-six-weeks-of-rest/articleshow/132771670.cms",
+          "date": "31 Jul 2026",
+          "summary": "Actress Rashmika Mandanna sustained a major hip injury while filming an intense dance sequence. Doctors have advised her a complete rest period of six weeks for recovery. This injury will likely impact her ongoing film schedules and endorsement commitments. Ma…"
+        },
+        {
+          "title": "How childhood heartbreak forged Dak Prescott into Cowboys' resilient leader now!",
+          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/inspiring-story-of-the-day-by-dak-prescott-this-little-adversity-is-going-to-be-another-chapter-in-the-book-im-excited-to-move-forward-and-write-it-the-childhood-hardships-and-heartbreak-that-shaped-the-dallas-cowboys-leader/articleshow/132770290.cms",
+          "date": "31 Jul 2026",
+          "summary": "Dak Prescott lost his mother to colon cancer in 2013 and his brother Jace to suicide in April 2020, and kept playing. The Dallas Cowboys quarterback has never hidden from grief. He's used it. Here's the story of the setbacks that quietly built one of the NFL's…"
+        },
+        {
+          "title": "How to get Fortnite Spider-Man Brand New Day skins: Bundle, price and more",
+          "link": "https://timesofindia.indiatimes.com/sports/esports/fortnite/how-to-get-fortnite-spider-man-brand-new-day-skins-bundle-price-and-more/articleshow/132753513.cms",
+          "date": "31 Jul 2026",
+          "summary": "Fortnite's latest update introduces Spider-Man and Punisher skins from the Brand New Day collaboration. Players can acquire these popular character outfits and related cosmetic items through the in-game Item Shop. The bundle offers significant value, featuring…"
+        },
+        {
+          "title": "Brittany Mahomes turns $325M success into a powerful message for mothers today",
+          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/want-them-to-know-that-being-a-mother-is-powerful-how-patrick-mahomes-wife-brittany-mahomes-turned-a-325-million-success-into-a-powerful-message-for-the-next-generation/articleshow/132753175.cms",
+          "date": "31 Jul 2026",
+          "summary": "Kansas City Chiefs star Patrick Mahomes' wife, Brittany Mahomes, shared a heartfelt message about motherhood, leadership and the next generation while celebrating another major milestone beyond football. The Kansas City Current co-owner reflected on why she wa…"
+        },
+        {
+          "title": "Mukesh Khanna says CJP doesn't represent students or Gen Z",
+          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mukesh-khanna-calls-cjp-sponsored-says-they-dont-represent-students-or-gen-z-amid-abusive-language-against-pm-narendra-modi-ye-log-sarkar-girane-/articleshow/132772933.cms",
+          "date": "31 Jul 2026",
+          "summary": "Veteran actor Mukesh Khanna has weighed in on the ongoing controversy surrounding the recent Gen Z protests, reacting to the self-styled Cockroach Janta Party (CJP) and backing criticism over the alleged use of abusive language against Prime Minister Narendra…"
+        },
+        {
+          "title": "Perfect 5-0! Indian boxers storm into CWG finals after dominant semifinal sweep",
+          "link": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/perfect-5-0-indian-boxers-storm-into-cwg-2026-finals-after-dominant-semifinal-sweep/articleshow/132772352.cms",
+          "date": "31 Jul 2026",
+          "summary": "India's boxing contingent achieved a flawless 5-0 record in the semifinals. Five Indian boxers have now secured spots in the gold medal bouts. Arundhati Choudhary defeated the defending champion in a significant upset victory. Jaismine Lamboria and Preeti Pawa…"
+        },
+        {
+          "title": "Delhi riots: Convicts' kin to challenge life sentence in HC, deny links to Tahir Hussain",
+          "link": "https://timesofindia.indiatimes.com/india/delhi-riots-convicts-kin-to-challenge-life-sentence-in-hc-deny-links-to-tahir-hussain/articleshow/132771324.cms",
+          "date": "31 Jul 2026",
+          "summary": ""
+        },
+        {
+          "title": "'Muslims can't regard country as deity': Islamic body objects to Vande Mataram Bill",
+          "link": "https://timesofindia.indiatimes.com/india/muslims-cant-regard-country-as-deity-islamic-body-objects-to-vande-mataram-bill/articleshow/132771605.cms",
           "date": "31 Jul 2026",
           "summary": ""
         },
@@ -220,12 +352,6 @@
           "summary": "Russia claimed striking a vessel near Odesa carrying military cargo. Ukraine reported hitting Russia's Volgograd oil refinery and port infrastructure. Both nations are increasingly targeting logistics and supply chains. This escalation highlights the Black Sea…"
         },
         {
-          "title": "US plans $100K fee on foreign students: What it means for engineers",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/us-government-plans-100000-fee-on-foreign-students-what-it-means-for-engineers-and-others-planning-to-work-in-us/articleshow/132764950.cms",
-          "date": "31 Jul 2026",
-          "summary": "The US government is reportedly considering a $100,000 fee for foreign students seeking post-graduation work. This proposed fee targets the Optional Practical Training program, impacting many international graduates. This follows a significant H-1B visa fee hi…"
-        },
-        {
           "title": "India likely to play waiting game with Bumrah for Sri Lanka Tests | Exclusive",
           "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/india-likely-to-play-waiting-game-with-jasprit-bumrah-for-sri-lanka-tests-exclusive/articleshow/132771076.cms",
           "date": "31 Jul 2026",
@@ -244,136 +370,10 @@
           "summary": ""
         },
         {
-          "title": "Meta AI head has message for Google Cloud executive joining Scale AI",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/meta-ai-head-shares-message-for-google-cloud-head-who-announced-he-is-joining-scaleai-the-company-alexandr-wang-founded-but-left-to-head-mark-zuckerbergs-ai-division/articleshow/132755725.cms",
-          "date": "31 Jul 2026",
-          "summary": "Francis deSouza has been appointed the new CEO of Scale AI. He previously served as chief operating officer at Google Cloud. DeSouza aims to position Scale AI as an enterprise AI company. He replaces interim chief executive Jason Droege, who led the company af…"
-        },
-        {
           "title": "PM Modi, UK PM Andy Burnham discuss AI, defence, Strait of Hormuz in first phone call",
           "link": "https://timesofindia.indiatimes.com/india/pm-modi-uk-pm-andy-burnham-discuss-ai-defence-strait-of-hormuz-in-first-phone-call/articleshow/132769167.cms",
           "date": "31 Jul 2026",
           "summary": ""
-        },
-        {
-          "title": "Man shuns mother over looks; boss fires him and gives her the job",
-          "link": "https://timesofindia.indiatimes.com/world/china/chinese-man-didnt-invite-his-mother-to-his-wedding-because-he-was-ashamed-of-her-looks-boss-fired-him-and-gave-her-the-job/articleshow/132768140.cms",
-          "date": "31 Jul 2026",
-          "summary": "A company founder in China has sparked debate after revealing he fired an employee who refused to invite his mother to his wedding because he was ashamed of her appearance. The businessman later offered the employee's mother a job. The incident has divided opi…"
-        },
-        {
-          "title": "Arctic charr evolved distinct metabolism after 100 years in Lake Allos",
-          "link": "https://timesofindia.indiatimes.com/science/in-1924-arctic-charr-from-lake-geneva-were-stocked-into-lake-allos-a-century-later-their-descendants-showed-distinct-metabolic-responses-under-identical-conditions/articleshow/132768545.cms",
-          "date": "31 Jul 2026",
-          "summary": "Introduced to Lake Allos in 1924, Arctic charr exhibit remarkable metabolic adaptations within just a century. These fish showcase rapid physiological changes, attributed mainly to their phenotypic plasticity, resulting in distinct body shapes. Notably, juveni…"
-        },
-        {
-          "title": "Michael Dell shares 'one page' that 'changed his life 42 years ago'",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/michael-dell-shares-one-page-that-changed-his-life-42-years-ago-says-i-started-by-upgrading-pcs-from-a-dorm-room-and-today-dell-is-/articleshow/132770605.cms",
-          "date": "31 Jul 2026",
-          "summary": "Michael Dell shared a 1984 financial statement which convinced his parents he should not return to college. This document showed significant revenue and earnings from his dorm room business. Dell Computer Corporation began by selling PC upgrade packages to cus…"
-        },
-        {
-          "title": "Vedika Pinto's sea-facing Mumbai home with Goan-Portuguese charm",
-          "link": "https://timesofindia.indiatimes.com/web-series/news/hindi/inside-musafir-cafe-star-vedika-pintos-4000-sq-ft-sea-facing-mumbai-home-inspired-by-goan-portugese-heritage-and-a-covered-up-green-choli-painting/articleshow/132767971.cms",
-          "date": "31 Jul 2026",
-          "summary": "'Musafir Cafe' actor Vedika Pinto gives an intimate tour of her 4000 sq ft Mumbai home, blending contemporary design with Goan-Portuguese touches that pay homage to her father's ancestry. From a restored newspaper artwork bought in Beirut to a painting with a…"
-        },
-        {
-          "title": "'Done by BJP goons': CJP's Dipke responds after injured Delhi cops' kin seek justice",
-          "link": "https://timesofindia.indiatimes.com/city/delhi/done-by-bjp-goons-abhijeet-dipke-responds-after-injured-delhi-cops-kin-seek-justice/articleshow/132767852.cms",
-          "date": "31 Jul 2026",
-          "summary": "Families of the injured Delhi Police officers are advocating for a discussion in Parliament regarding their pain. CJP founder Abhijeet Dipke suggested a deliberate effort to target students amid the protests, expressing concern for the hurt officers while also…"
-        },
-        {
-          "title": "Japan launches first centralised intelligence body since WWII",
-          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/paradise-for-spies-no-more-japan-launches-first-centralised-intelligence-body-since-wwii/articleshow/132770383.cms",
-          "date": "31 Jul 2026",
-          "summary": ""
-        },
-        {
-          "title": "'India always supportive of dialogue and diplomacy': Jaishankar speaks to Iran FM",
-          "link": "https://timesofindia.indiatimes.com/india/india-always-supportive-of-dialogue-and-diplomacy-jaishankar-speaks-to-iran-fm-araghchi/articleshow/132770797.cms",
-          "date": "31 Jul 2026",
-          "summary": ""
-        },
-        {
-          "title": "Why 2030 WC hosts Spain, Portugal could miss tournament amid FIFA-UEFA standoff",
-          "link": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/why-spain-and-portugal-could-miss-2030-world-cup-they-are-set-to-host-if-fifa-and-uefa-fail-to-reach-agreement/articleshow/132769536.cms",
-          "date": "31 Jul 2026",
-          "summary": "UEFA’s threat to boycott FIFA competitions has raised the possibility of an unprecedented 2030 World Cup scenario, with co-hosts Spain and Portugal potentially missing their own tournament. The standoff centres on FIFA’s plan to sell a minority stake in commer…"
-        },
-        {
-          "title": "Rajinikanth skipped Malaysia launch for 'Jailer 2' to avoid Vijay comparisons",
-          "link": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rajinikanth-turned-down-malaysia-audio-launch-for-jailer-2-to-avoid-comparisons-and-rivalry-with-vijay-report/articleshow/132769542.cms",
-          "date": "31 Jul 2026",
-          "summary": "Jailer 2's audio launch venue is reportedly not Malaysia as Rajinikanth wishes to avoid comparisons. He reportedly stated he does not want to compete with Vijay's previous event. This reported decision has sparked discussions among fans and cinema enthusiasts.…"
-        },
-        {
-          "title": "India assure three judo medals as Asmita, Harsh and Yamini reach CWG finals",
-          "link": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/india-assure-three-judo-medals-as-asmita-dey-harsh-singh-and-yamini-reach-cwg-finals/articleshow/132769543.cms",
-          "date": "31 Jul 2026",
-          "summary": "Asmita produced a strong comeback to beat Scotland's Summer Shaw by yuko in the women's 48kg semifinal and book her place in the final, where she will face Canada's Heidi Quach later on Friday."
-        },
-        {
-          "title": "Assam floods: Death toll rises to 80; state shifts focus to rehabilitation",
-          "link": "https://timesofindia.indiatimes.com/india/assam-floods-death-toll-rises-to-80-state-shifts-focus-to-rehabilitation-announces-loan-relief/articleshow/132768989.cms",
-          "date": "31 Jul 2026",
-          "summary": ""
-        },
-        {
-          "title": "Watch: Chaos at Spain-Morocco border as thousands try to swim across; 34 dead",
-          "link": "https://timesofindia.indiatimes.com/world/europe/footage-shows-chaos-at-spain-morocco-border-as-thousands-try-to-swim-across-34-dead/articleshow/132766198.cms",
-          "date": "31 Jul 2026",
-          "summary": ""
-        },
-        {
-          "title": "'Brilliant story if he does': England leave door open for Stokes' Ashes return",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/brilliant-story-if-he-does-england-leave-door-open-for-ben-stokes-ashes-return/articleshow/132768609.cms",
-          "date": "31 Jul 2026",
-          "summary": ""
-        },
-        {
-          "title": "'System has collapsed': Pak minister warns of power of 'cockroaches'",
-          "link": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-minister-invokes-cockroaches-analogy-says-united-gen-z-can-turn-everything-upside-down/articleshow/132765500.cms",
-          "date": "31 Jul 2026",
-          "summary": "Pakistan's interior minister declared the nation's governance system has collapsed. He urged political parties to create new administrative units and provinces. Sweeping constitutional and governance reforms are essential for Pakistan's progress. Without struc…"
-        },
-        {
-          "title": "CBI arrests 2 in Suvendu Adhikari aide murder case, probes political links",
-          "link": "https://timesofindia.indiatimes.com/india/cbi-arrests-2-in-suvendu-adhikari-aide-murder-case-probes-political-links/articleshow/132768338.cms",
-          "date": "31 Jul 2026",
-          "summary": ""
-        },
-        {
-          "title": "139 Indians freed from Russian Army, 24 remain: MEA warns against shady job offers",
-          "link": "https://timesofindia.indiatimes.com/india/139-indians-released-from-russian-army-2-dozen-remain-mea-warns-against-shady-job-offers/articleshow/132767003.cms",
-          "date": "31 Jul 2026",
-          "summary": ""
-        },
-        {
-          "title": "Rajinikanth donates Rs 1 lakh to Mohan Sharma after financial crisis plea",
-          "link": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rajinikanth-donates-rs-1-lakh-to-mohan-sharma-after-viral-plea-on-financial-crisis-veteran-actor-expresses-gratitude-i-am-managing-my-life-with-that-help/articleshow/132766472.cms",
-          "date": "31 Jul 2026",
-          "summary": "Superstar Rajinikanth provided financial assistance to veteran actor Mohan Sharma. Sharma expressed gratitude for the one lakh rupee donation which helped him. He shared his struggles after selling his house and facing family issues. Sharma, a respected actor,…"
-        },
-        {
-          "title": "Tahir Hussain gives first public reaction after being sentenced to life in prison",
-          "link": "https://timesofindia.indiatimes.com/india/tahir-hussain-gives-first-public-reaction-after-being-sentenced-to-life-in-prison/articleshow/132767599.cms",
-          "date": "31 Jul 2026",
-          "summary": ""
-        },
-        {
-          "title": "India to get plastic notes soon: Why the move is important - explained",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/india-to-get-plastic-notes-soon-rbi-polymer-currency-why-the-move-is-important-explained/articleshow/132764423.cms",
-          "date": "31 Jul 2026",
-          "summary": "RBI has already floated the tender to source materials for the polymer notes with its currency printing arm Bharatiya Reserve Bank Note Mudran Pvt Ltd inviting global expressions of interest. The step assumes significance because India has discarded around Rs…"
-        },
-        {
-          "title": "Perfect start! Boxers Preeti Pawar, Ankush Panghal storm into CWG finals",
-          "link": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/perfect-start-preeti-pawar-ankush-panghal-storm-into-cwg-2026-finals-as-india-goes-2-0-in-boxing-semis/articleshow/132767721.cms",
-          "date": "31 Jul 2026",
-          "summary": "Preeti Pawar and Ankush Panghal advanced to their respective finals today. Both boxers secured commanding victories to keep gold medal hopes alive. Pawar dominated her bout, securing a unanimous decision win. Panghal also delivered a strong performance, outcla…"
         }
       ]
     },
@@ -760,6 +760,12 @@
       "ok": true,
       "items": [
         {
+          "title": "New Deepseek Flash model matches OpenAI's GPT-5.6 Luna at roughly 60 percent lower cost",
+          "link": "https://the-decoder.com/new-deepseek-flash-model-matches-openais-gpt-5-6-luna-at-roughly-60-percent-lower-cost/",
+          "date": "31 Jul 2026",
+          "summary": "Deepseek's budget model V4 Flash gets a major boost with the \"0731\" update, jumping ten points to 50 on the Artificial Analysis Intelligence Index. That puts it just one point behind OpenAI's GPT-5.6 Luna, at roughly 60 percent lower cost per task. The article…"
+        },
+        {
           "title": "EU pools up to €30 billion for AI gigafactories while US tech giants casually spend 20 times more",
           "link": "https://the-decoder.com/eu-pools-up-to-e30-billion-for-ai-gigafactories-while-us-tech-giants-casually-spend-20-times-more/",
           "date": "31 Jul 2026",
@@ -812,12 +818,6 @@
           "link": "https://the-decoder.com/openai-claims-gpt-5-6-sol-beats-opus-5-on-arc-agi-3-with-its-latest-api-and-two-additional-settings/",
           "date": "30 Jul 2026",
           "summary": "OpenAI counters Anthropic's ARC-AGI-3 record: GPT-5.6 Sol scores 38.3 percent, but only with its own API features instead of the official test setup, where the model landed at 7.8 percent. ARC Prize claims its test environment is provider-neutral, but may have…"
-        },
-        {
-          "title": "Google's Lyria 3.5 music model now lets users edit individual track sections without starting over",
-          "link": "https://the-decoder.com/googles-lyria-3-5-music-model-now-lets-users-edit-individual-track-sections-without-starting-over/",
-          "date": "29 Jul 2026",
-          "summary": "Google released Lyria 3.5, its new music generation model, and built it into Google Flow Music. The model generates tracks between 30 seconds and 3 minutes long. A new feature called \"Selective Section Painting\" lets users edit specific sections of a track. Go…"
         }
       ]
     },
@@ -1152,6 +1152,18 @@
       "ok": true,
       "items": [
         {
+          "title": "New York Sues Kalshi For Running 'Illegal Gambling Operation'",
+          "link": "https://yro.slashdot.org/story/26/07/31/1628208/new-york-sues-kalshi-for-running-illegal-gambling-operation?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "31 Jul 2026",
+          "summary": "New York has sued prediction-market platform Kalshi, alleging it operates an \"illegal gambling operation\" without state authorization. \"No matter what they call themselves, prediction markets like Kalshi are gambling platforms, plain and simple,\" said New York…"
+        },
+        {
+          "title": "Chrome Is Using AI To Fix Hundreds of Bugs, Eliminate Full Browser Restarts",
+          "link": "https://tech.slashdot.org/story/26/07/31/0549203/chrome-is-using-ai-to-fix-hundreds-of-bugs-eliminate-full-browser-restarts?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "31 Jul 2026",
+          "summary": "Google says AI-assisted workflows helped Chrome fix 1,072 security bugs across versions 149 and 150, more than the previous 23 releases combined. The company is also testing twice-weekly security updates and \"dynamic patching,\" which could apply most fixes wit…"
+        },
+        {
           "title": "LinkedIn Introduces a 'Seems Like AI Slop' Button",
           "link": "https://tech.slashdot.org/story/26/07/31/0540241/linkedin-introduces-a-seems-like-ai-slop-button?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "31 Jul 2026",
@@ -1228,18 +1240,6 @@
           "link": "https://news.slashdot.org/story/26/07/29/2217254/gcc-adopts-policy-rejecting-significant-ai-generated-code?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "30 Jul 2026",
           "summary": "GCC has adopted a policy rejecting substantial code contributions generated by or derived from LLMs. \"This covers not just code copied directly from tools like ChatGPT, Gemini, or GitHub Copilot, but also any versions of the code later edited or rewritten by a…"
-        },
-        {
-          "title": "Comcast Store Punished Low Sales By Smashing Pies In Workers' Faces, Lawsuit Claims",
-          "link": "https://yro.slashdot.org/story/26/07/30/0031205/comcast-store-punished-low-sales-by-smashing-pies-in-workers-faces-lawsuit-claims?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "30 Jul 2026",
-          "summary": "A former Comcast retail employee alleges that a Connecticut store manager tied the lowest-performing salesperson to a chair each month and had co-workers smash a cream pie into their face, recording the incidents as a sales-motivation tactic. The plaintiff say…"
-        },
-        {
-          "title": "Qantas Plane Flies For More Than 24 Hours In Record-Breaking Flight",
-          "link": "https://tech.slashdot.org/story/26/07/30/0022247/qantas-plane-flies-for-more-than-24-hours-in-record-breaking-flight?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "30 Jul 2026",
-          "summary": "Qantas completed a record-breaking 24-hour, 24-minute test flight from Melbourne to Toulouse on Tuesday. \"The specially adapted A350-1000ULR airliner is due to debut with the Australian carrier's nonstop Sydney-London route from 2027,\" reports The Guardian. Fr…"
         }
       ]
     },
@@ -1247,69 +1247,8 @@
       "url": "https://www.aitrends.com/feed",
       "name": "AI Trends",
       "cat": "Artificial Intelligence",
-      "ok": true,
-      "items": [
-        {
-          "title": "Best Practices for Building the AI Development Platform in Government",
-          "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
-          "date": "28 Oct 2021",
-          "summary": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for its AI development platform efforts, according to Isaac Faber, Chief Data Scientist at the US Army AI Integrat…"
-        },
-        {
-          "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-          "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-          "date": "28 Oct 2021",
-          "summary": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Service…"
-        },
-        {
-          "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
-          "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
-          "date": "28 Oct 2021",
-          "summary": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a risk of wide discrimination if not implemented carefully. That was the message from Keith Sonderling, Commissione…"
-        },
-        {
-          "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
-          "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
-          "date": "28 Oct 2021",
-          "summary": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to collect data that anticipates breakdowns and recommends preventive action before break or machines fail, in a demo…"
-        },
-        {
-          "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
-          "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
-          "date": "28 Oct 2021",
-          "summary": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act itself is welcomed and not altogether disturbing when it occurs. What about when Artificial Intelligence (AI) se…"
-        },
-        {
-          "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
-          "link": "https://www.aitrends.com/ai-world-government/getting-government-ai-engineers-to-tune-into-ai-ethics-seen-as-challenge/",
-          "date": "21 Oct 2021",
-          "summary": "By John P. Desmond, AI Trends Editor Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray are…"
-        },
-        {
-          "title": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams",
-          "link": "https://www.aitrends.com/ai-world-government/digital-natives-seen-having-advantages-as-part-of-government-ai-engineering-teams/",
-          "date": "21 Oct 2021",
-          "summary": "By John P. Desmond, AI Trends Editor AI is more accessible to young people in the workforce who grew up as ‘digital natives’ with Alexa and self-driving cars as part of the landscape, giving them expectations grounded in their experience of what is possible. T…"
-        },
-        {
-          "title": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government",
-          "link": "https://www.aitrends.com/ai-world-government/how-accountability-practices-are-pursued-by-ai-engineers-in-the-federal-government/",
-          "date": "21 Oct 2021",
-          "summary": "By John P. Desmond, AI Trends Editor Two experiences of how AI developers within the federal government are pursuing AI accountability practices were outlined at the AI World Government event held virtually and in-person this week in Alexandria, Va. Taka Ariga…"
-        },
-        {
-          "title": "Startup: AssemblyAI Represents New Generation Speech Recognition",
-          "link": "https://www.aitrends.com/speech-recognition/startup-assemblyai-represents-new-generation-speech-recognition/",
-          "date": "21 Oct 2021",
-          "summary": "By AI Trends Staff Advances in the AI behind speech recognition are driving growth in the market, attracting venture capital and funding startups, posing challenges to established players. The growing acceptance and use of speech recognition devices are drivin…"
-        },
-        {
-          "title": "Pursuit of Autonomous Cars May Pose Risk of AI Tapping Forbidden Knowledge",
-          "link": "https://www.aitrends.com/ai-insider/pursuing-autonomous-cars-raises-anguish-on-surfacing-taboo-ai-forbidden-fruit/",
-          "date": "21 Oct 2021",
-          "summary": "By Lance Eliot, the AI Trends Insider Are there things that we must not know? This is an age-old question. Some assert that there is the potential for knowledge that ought to not be known. In other words, there are ideas, concepts, or mental formulations that…"
-        }
-      ]
+      "ok": false,
+      "items": []
     },
     {
       "url": "https://bair.berkeley.edu/blog/feed.xml",
@@ -1630,184 +1569,184 @@
       "ok": true,
       "items": [
         {
-          "title": "secintel added to PyPI",
-          "link": "https://pypi.org/project/secintel/",
+          "title": "Moon-API-MC added to PyPI",
+          "link": "https://pypi.org/project/moon-api-mc/",
           "date": "31 Jul 2026",
-          "summary": "Python client for the SEC Intel API — SEC EDGAR filings, financials & insider-conviction scores for AI agents."
+          "summary": "Library python untuk membuat launcher minecraft dengan mudah."
         },
         {
-          "title": "agrifoodpy-data added to PyPI",
-          "link": "https://pypi.org/project/agrifoodpy-data/",
+          "title": "autocacher added to PyPI",
+          "link": "https://pypi.org/project/autocacher/",
           "date": "31 Jul 2026",
-          "summary": "Prepackaged data for the AgriFoodPy modelling package"
+          "summary": "Experimental zero-decorator automatic in-memory caching for Python functions."
         },
         {
-          "title": "cuesplice added to PyPI",
-          "link": "https://pypi.org/project/cuesplice/",
+          "title": "metrik-ai added to PyPI",
+          "link": "https://pypi.org/project/metrik-ai/",
           "date": "31 Jul 2026",
-          "summary": "Timed transcript conversion and caption export."
+          "summary": "Metrik — the AI systems engineering platform. Measure, trace, and optimize transformer models."
         },
         {
-          "title": "katagoanal added to PyPI",
-          "link": "https://pypi.org/project/katagoanal/",
+          "title": "metrik-cli added to PyPI",
+          "link": "https://pypi.org/project/metrik-cli/",
           "date": "31 Jul 2026",
-          "summary": "A lightweight CLI tool to inject KataGo win-rate (SBKV) and score lead (SBKS) into SGF files (Sabaki-readable)."
+          "summary": "Metrik command-line interface."
         },
         {
-          "title": "nexus-ide-utility added to PyPI",
-          "link": "https://pypi.org/project/nexus-ide-utility/",
+          "title": "metrik-bench added to PyPI",
+          "link": "https://pypi.org/project/metrik-bench/",
           "date": "31 Jul 2026",
-          "summary": "IDE-agnostic, on-device token-management utility (US 19/656,853 + 64067945)"
+          "summary": "Metrik Benchmark Lab — sandboxed evaluation, or a refusal. Never an unsandboxed run."
         },
         {
-          "title": "dbpm added to PyPI",
-          "link": "https://pypi.org/project/dbpm/",
+          "title": "metrik-viz added to PyPI",
+          "link": "https://pypi.org/project/metrik-viz/",
           "date": "31 Jul 2026",
-          "summary": "Oracle database package manager and deployment orchestrator."
+          "summary": "Metrik Visualization Lab — artifacts to VizSpec, and VizSpec to terminal or HTML."
         },
         {
-          "title": "entirius-django-regon-api added to PyPI",
-          "link": "https://pypi.org/project/entirius-django-regon-api/",
+          "title": "metrik-explorer added to PyPI",
+          "link": "https://pypi.org/project/metrik-explorer/",
           "date": "31 Jul 2026",
-          "summary": "REGON/GUS lookup Django module for Volkanos — NIP/REGON search against Polish government registries"
+          "summary": "Metrik Model Explorer — architecture, parameter, and memory analysis without a forward pass."
         },
         {
-          "title": "entirius-django-contact-forms added to PyPI",
-          "link": "https://pypi.org/project/entirius-django-contact-forms/",
+          "title": "joke-api-fetcher added to PyPI",
+          "link": "https://pypi.org/project/joke-api-fetcher/",
           "date": "31 Jul 2026",
-          "summary": "Forms Django module for Volkanos — contact forms, bookings, leads, ad-conversion uploads"
+          "summary": "An interface to JokeAPI"
         },
         {
-          "title": "stmoc-pp added to PyPI",
-          "link": "https://pypi.org/project/stmoc-pp/",
+          "title": "nanomarkup added to PyPI",
+          "link": "https://pypi.org/project/nanomarkup/",
           "date": "31 Jul 2026",
-          "summary": "Command-line to create and query a ST-MOC persitent precursors set, i.e. a list of (Time rrange, S-MOC) couples."
+          "summary": "Python parser and serializer for Nano Markup, a minimal, human-readable structured data format."
         },
         {
-          "title": "mimiko added to PyPI",
-          "link": "https://pypi.org/project/mimiko/",
+          "title": "metrik-core added to PyPI",
+          "link": "https://pypi.org/project/metrik-core/",
           "date": "31 Jul 2026",
-          "summary": "Remote WebSocket Mock built on top of jj"
+          "summary": "Metrik core — artifact envelope, canonical serialization, content addressing."
         },
         {
-          "title": "cognikit added to PyPI",
-          "link": "https://pypi.org/project/cognikit/",
+          "title": "metrik-sdk added to PyPI",
+          "link": "https://pypi.org/project/metrik-sdk/",
           "date": "31 Jul 2026",
-          "summary": "Shared AI toolkit helpers: config, paths, identity, framing, file transfer"
+          "summary": "Metrik plugin SDK — the public contracts every producer and consumer is written against."
         },
         {
-          "title": "project-sandbox added to PyPI",
-          "link": "https://pypi.org/project/project-sandbox/",
+          "title": "metrik-torch added to PyPI",
+          "link": "https://pypi.org/project/metrik-torch/",
           "date": "31 Jul 2026",
-          "summary": "Sandbox coding agents inside isolated container runtimes."
+          "summary": "Metrik torch loader — observed ModelGraph extraction from a real nn.Module tree."
         },
         {
-          "title": "catalogai added to PyPI",
-          "link": "https://pypi.org/project/catalogai/",
+          "title": "t2do added to PyPI",
+          "link": "https://pypi.org/project/t2do/",
           "date": "31 Jul 2026",
-          "summary": "Local profile and extension catalog export for AI lab tooling"
+          "summary": "A todo list that lives in your terminal. Nothing else."
         },
         {
-          "title": "terrarium-python added to PyPI",
-          "link": "https://pypi.org/project/terrarium-python/",
+          "title": "arknights-datakit added to PyPI",
+          "link": "https://pypi.org/project/arknights-datakit/",
           "date": "31 Jul 2026",
-          "summary": "Async Python client for the Terrarium orchestrator API — manage sandboxed Claude agents and sessions (Claude-Agent-SDK-aligned)."
+          "summary": "Pure & framework-independent Arknights data toolkit: gacha/archive/voice/story/recruit, with CLI + HTTP microservice"
         },
         {
-          "title": "phantomfill-lint added to PyPI",
-          "link": "https://pypi.org/project/phantomfill-lint/",
+          "title": "hebi-charts added to PyPI",
+          "link": "https://pypi.org/project/hebi-charts/",
           "date": "31 Jul 2026",
-          "summary": "Find JSON Schema fields that leave a language model no way to say 'the evidence is not here'."
+          "summary": "Real-time plotting, 3D scenes, and control UIs for robotics."
         },
         {
-          "title": "aiprepkit added to PyPI",
-          "link": "https://pypi.org/project/aiprepkit/",
+          "title": "algovoi-key-credential-binding added to PyPI",
+          "link": "https://pypi.org/project/algovoi-key-credential-binding/",
           "date": "31 Jul 2026",
-          "summary": "Prep kit for AI lab embedded runtime dependencies"
+          "summary": "Reference verifier and conformance vectors for binding an RFC 9421 signature key to an issued agent credential"
         },
         {
-          "title": "ailaunchkit added to PyPI",
-          "link": "https://pypi.org/project/ailaunchkit/",
+          "title": "artemis-app added to PyPI",
+          "link": "https://pypi.org/project/artemis-app/",
           "date": "31 Jul 2026",
-          "summary": "Launch kit helpers for AI lab client autostart"
+          "summary": "A stupidly easy way to build Android and desktop apps in Python, on top of Flet."
         },
         {
-          "title": "wringer added to PyPI",
-          "link": "https://pypi.org/project/wringer/",
+          "title": "trading-static-ip added to PyPI",
+          "link": "https://pypi.org/project/trading-static-ip/",
           "date": "31 Jul 2026",
-          "summary": "One command that proves whether this change is mergeable — wring verify, a standalone evidence compiler"
+          "summary": "Official Python SDK for routing verified broker API traffic through a ServLoci dedicated IPv6."
         },
         {
-          "title": "lushai added to PyPI",
-          "link": "https://pypi.org/project/lushai/",
+          "title": "django-healthkit added to PyPI",
+          "link": "https://pypi.org/project/django-healthkit/",
           "date": "31 Jul 2026",
-          "summary": "Official Python SDK for the LushAI Chat API — a Mizo-first AI assistant you can shape with your own system prompt."
+          "summary": "Health checks and monitoring toolkit for Django applications."
         },
         {
-          "title": "aichannel added to PyPI",
-          "link": "https://pypi.org/project/aichannel/",
+          "title": "physcatter added to PyPI",
+          "link": "https://pypi.org/project/physcatter/",
           "date": "31 Jul 2026",
-          "summary": "AI sync channel client: session, handlers, and remote control loop"
+          "summary": "Reserved name for a future physics scattering utility."
         },
         {
-          "title": "aiassistcore added to PyPI",
-          "link": "https://pypi.org/project/aiassistcore/",
+          "title": "servloci added to PyPI",
+          "link": "https://pypi.org/project/servloci/",
           "date": "31 Jul 2026",
-          "summary": "Workspace assist core for AI lab input and clipboard utilities"
+          "summary": "Official Python SDK for routing verified broker API traffic through a ServLoci dedicated IPv6."
         },
         {
-          "title": "huldah added to PyPI",
-          "link": "https://pypi.org/project/huldah/",
+          "title": "temporalfix added to PyPI",
+          "link": "https://pypi.org/project/temporalfix/",
           "date": "31 Jul 2026",
-          "summary": "Huldah — human-systems analysis over Deborah process descriptions: human factors, UI evidence, layout load, live observation, and interface recommendations."
+          "summary": "Detector-agnostic temporal repair for frame-level video detections"
         },
         {
-          "title": "deborah added to PyPI",
-          "link": "https://pypi.org/project/deborah/",
+          "title": "emintes-testframework added to PyPI",
+          "link": "https://pypi.org/project/emintes-testframework/",
           "date": "31 Jul 2026",
-          "summary": "Deborah — a human-readable process language for governed agentic work in human systems, with grammar and plan conformance."
+          "summary": "Autogenerated host-side stubs for the CHECKBOX testframework API"
         },
         {
-          "title": "simple-stacktrace added to PyPI",
-          "link": "https://pypi.org/project/simple-stacktrace/",
+          "title": "review-mcp added to PyPI",
+          "link": "https://pypi.org/project/review-mcp/",
           "date": "31 Jul 2026",
-          "summary": "None"
+          "summary": "MCP server for managing .review folder and git operations"
         },
         {
-          "title": "typer-examples added to PyPI",
-          "link": "https://pypi.org/project/typer-examples/",
+          "title": "usda-mcp added to PyPI",
+          "link": "https://pypi.org/project/usda-mcp/",
           "date": "31 Jul 2026",
-          "summary": "Beautiful example rendering for Typer CLI help output"
+          "summary": "MCP server exposing a USDA-accurate food database with deterministic macro math — no hallucinated nutrition numbers."
         },
         {
-          "title": "project_darpan added to PyPI",
-          "link": "https://pypi.org/project/project-darpan/",
+          "title": "artemis-ui added to PyPI",
+          "link": "https://pypi.org/project/artemis-ui/",
           "date": "31 Jul 2026",
-          "summary": "Development flow as Paleofuturistic Python"
+          "summary": "A stupidly easy way to build Android and desktop apps in Python, on top of Flet."
         },
         {
-          "title": "splent-feature-theme added to PyPI",
-          "link": "https://pypi.org/project/splent-feature-theme/",
+          "title": "az-scout-plugin-mana-supportability added to PyPI",
+          "link": "https://pypi.org/project/az-scout-plugin-mana-supportability/",
           "date": "31 Jul 2026",
-          "summary": "None"
+          "summary": "Best-effort MANA (Microsoft Azure Network Adapter) supportability risk assessment for Azure VMs"
         },
         {
-          "title": "ladder-cli added to PyPI",
-          "link": "https://pypi.org/project/ladder-cli/",
+          "title": "forge-prep added to PyPI",
+          "link": "https://pypi.org/project/forge-prep/",
           "date": "31 Jul 2026",
-          "summary": "Track every branch, stage, and alternative path in your AI pair-programming sessions."
+          "summary": "Data readiness toolkit for Mistral Forge — audit, clean, and prepare enterprise data for custom model training. forge-prep is an independent open-source project. It is not affiliated with, endorsed by, or sponsored by Mistral AI."
         },
         {
-          "title": "aetherrpc added to PyPI",
-          "link": "https://pypi.org/project/aetherrpc/",
+          "title": "wintsr added to PyPI",
+          "link": "https://pypi.org/project/wintsr/",
           "date": "31 Jul 2026",
-          "summary": "A zero-dependency RPC framework for Python"
+          "summary": "Windowed Temporal Saliency Rescaling: interpretability for time series deep learning models"
         },
         {
-          "title": "smolserve added to PyPI",
-          "link": "https://pypi.org/project/smolserve/",
+          "title": "depfix added to PyPI",
+          "link": "https://pypi.org/project/depfix/",
           "date": "31 Jul 2026",
-          "summary": "Lightweight local multi-protocol server for Gemini, Gopher, and Finger protocols"
+          "summary": "Import multiple Python package versions side by side with isolated dependency realms"
         }
       ]
     }
