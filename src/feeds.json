@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-01T21:44:55Z",
+  "generated": "2026-08-01T22:44:55Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -1152,6 +1152,12 @@
       "ok": true,
       "items": [
         {
+          "title": "150-Game Discount Bundle Raises $57,000 for Videogame Workers 'Hardship Fund'",
+          "link": "https://games.slashdot.org/story/26/08/01/2240259/150-game-discount-bundle-raises-57000-for-videogame-workers-hardship-fund?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "1 Aug 2026",
+          "summary": "\"An itch.io game bundle put together by Necrosoft Games and The United Videogame Workers-CWA union is a new way gamers can show their support for developers who have been let go amidst the ongoing video game industry labor crisis,\" writes Kotaku. Launched Thur…"
+        },
+        {
           "title": "NASA's Curiosity Mars Rover Discovers a Field of Honeycomb Textures",
           "link": "https://science.slashdot.org/story/26/08/01/2136251/nasas-curiosity-mars-rover-discovers-a-field-of-honeycomb-textures?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "1 Aug 2026",
@@ -1234,12 +1240,6 @@
           "link": "https://tech.slashdot.org/story/26/07/31/1841253/new-google-earth-ai-tool-could-fuel-misinformation-experts-say?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "31 Jul 2026",
           "summary": "Google has integrated its Nano Banana 2 image generator into Google Earth, allowing users to place AI-generated events and objects onto real satellite imagery. The company says its AI-generated images contain invisible watermarks detectable through Gemini or L…"
-        },
-        {
-          "title": "Publishers Are Losing Google Traffic As AI Answers Replace Links",
-          "link": "https://news.slashdot.org/story/26/07/31/1639202/publishers-are-losing-google-traffic-as-ai-answers-replace-links?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "31 Jul 2026",
-          "summary": "alternative_right shares a report from Axios: Google has basically stopped sending people to websites (including our site) for answers and information. Instead, it's using AI to answer them on its platform, in its words. Chartbeat data shared with Axios shows…"
         }
       ]
     },
@@ -1630,184 +1630,184 @@
       "ok": true,
       "items": [
         {
-          "title": "mcp-server-rfc added to PyPI",
-          "link": "https://pypi.org/project/mcp-server-rfc/",
+          "title": "redaction-mcp added to PyPI",
+          "link": "https://pypi.org/project/redaction-mcp/",
           "date": "1 Aug 2026",
-          "summary": "MCP server for looking up IETF RFCs, with obsolescence warnings and section-level reads"
+          "summary": "A MCP server library to provide Document Redaction and Data replacement capabilities to AI Agents"
         },
         {
-          "title": "loom-ir added to PyPI",
-          "link": "https://pypi.org/project/loom-ir/",
+          "title": "litica added to PyPI",
+          "link": "https://pypi.org/project/litica/",
           "date": "1 Aug 2026",
-          "summary": "Schema validation and graph rewriting for Heterograph IRs"
+          "summary": "Python client for Litica — human memory for AI agents"
         },
         {
-          "title": "superred-optimizer-libertas added to PyPI",
-          "link": "https://pypi.org/project/superred-optimizer-libertas/",
+          "title": "html-reader-llm added to PyPI",
+          "link": "https://pypi.org/project/html-reader-llm/",
           "date": "1 Aug 2026",
-          "summary": "Byte-faithful, model-aware replay of Pliny's L1B3RT4S jailbreak prompt corpus"
+          "summary": "HTML simplification and intelligent extraction for LLM"
         },
         {
-          "title": "autonomous-synthesis-planner added to PyPI",
-          "link": "https://pypi.org/project/autonomous-synthesis-planner/",
+          "title": "sharedincc-test-fabric-journey added to PyPI",
+          "link": "https://pypi.org/project/sharedincc-test-fabric-journey/",
           "date": "1 Aug 2026",
-          "summary": "Open-source software for AI-powered autonomous chemical synthesis planning."
+          "summary": "Canonical Python backend-journey reporter for Sharedincc Test Fabric"
         },
         {
-          "title": "legacy-bbs-toolkit added to PyPI",
-          "link": "https://pypi.org/project/legacy-bbs-toolkit/",
+          "title": "comfyui-async-api-tool added to PyPI",
+          "link": "https://pypi.org/project/comfyui-async-api-tool/",
           "date": "1 Aug 2026",
-          "summary": "日本語BBS過去ログのアーカイブ前処理基盤（実装） / Preprocessing foundation for legacy Japanese BBS archives (1999-2002 era)"
+          "summary": "Async Python client for ComfyUI: dispatch, stream progress, fetch images."
         },
         {
-          "title": "fortisec added to PyPI",
-          "link": "https://pypi.org/project/fortisec/",
+          "title": "statpilot added to PyPI",
+          "link": "https://pypi.org/project/statpilot/",
           "date": "1 Aug 2026",
-          "summary": "Lightweight security utilities for validation, hashes, entropy, redaction, headers, and safe paths."
+          "summary": "Automated, transparent statistical analysis for researchers — picks the right test, explains why, and generates a publication-ready report."
         },
         {
-          "title": "cloadtester added to PyPI",
-          "link": "https://pypi.org/project/cloadtester/",
+          "title": "travis234-offsec added to PyPI",
+          "link": "https://pypi.org/project/travis234-offsec/",
           "date": "1 Aug 2026",
-          "summary": "High performance C++ multithreaded API load tester for Python"
+          "summary": "Terminal OffSec agent with persistent sessions, tool-capable subagents, and long-lived terminal workflows."
         },
         {
-          "title": "biz-dfch-asdste100nlp added to PyPI",
-          "link": "https://pypi.org/project/biz-dfch-asdste100nlp/",
+          "title": "agentic_terminal_mcp_sayani added to PyPI",
+          "link": "https://pypi.org/project/agentic-terminal-mcp-sayani/",
           "date": "1 Aug 2026",
-          "summary": "An ASD-STE100 Issue 9 library for natural language processing."
+          "summary": "A MCP which adds terminal capabilities to an agent."
         },
         {
-          "title": "python-pyproxy added to PyPI",
-          "link": "https://pypi.org/project/python-pyproxy/",
+          "title": "selecting-machine added to PyPI",
+          "link": "https://pypi.org/project/selecting-machine/",
           "date": "1 Aug 2026",
-          "summary": "A modern, production-grade reverse proxy built on Python asyncio."
+          "summary": "A machine that selects ideas and hypotheses."
         },
         {
-          "title": "hackersnap added to PyPI",
-          "link": "https://pypi.org/project/hackersnap/",
+          "title": "omdf added to PyPI",
+          "link": "https://pypi.org/project/omdf/",
           "date": "1 Aug 2026",
-          "summary": "Turn Hacker News top stories into a clean markdown digest"
+          "summary": "A tiny specification for defining mirrors, made for both humans and programs to consume."
         },
         {
-          "title": "FPMsBMF added to PyPI",
-          "link": "https://pypi.org/project/fpmsbmf/",
+          "title": "prtLab added to PyPI",
+          "link": "https://pypi.org/project/prtlab/",
           "date": "1 Aug 2026",
-          "summary": "Factorisation matricielle booleenne : structures bit-packees et solveurs exacts"
+          "summary": "Polarization ray tracing for isotropic and anisotropic optical systems"
         },
         {
-          "title": "cswap-pin added to PyPI",
-          "link": "https://pypi.org/project/cswap-pin/",
+          "title": "guardpipe added to PyPI",
+          "link": "https://pypi.org/project/guardpipe/",
           "date": "1 Aug 2026",
-          "summary": "Keep Claude Code's Remote Control and Artifacts on one account while inference follows cswap's account swap"
+          "summary": "Universal, framework-agnostic AI guardrails middleware for LLM applications"
         },
         {
-          "title": "eidoscope added to PyPI",
-          "link": "https://pypi.org/project/eidoscope/",
+          "title": "browserbuddy added to PyPI",
+          "link": "https://pypi.org/project/browserbuddy/",
           "date": "1 Aug 2026",
-          "summary": "The navigation and rendering instrument of the Syneidos personal knowledge system. Seed release: a text-mode eidoscope — renders an eide neighborhood as a navigable outline."
+          "summary": "Name reservation for BrowserBuddy, the browser/AI shared-space MCP server. The actual server ships on npm: npx browserbuddy"
         },
         {
-          "title": "eidoteka added to PyPI",
-          "link": "https://pypi.org/project/eidoteka/",
+          "title": "yiqiao added to PyPI",
+          "link": "https://pypi.org/project/yiqiao/",
           "date": "1 Aug 2026",
-          "summary": "The storage backend of the Syneidos personal knowledge system — the repository of eide: ground truth, long-term persistence, caching, and queries, over any backend that signs the storage treaty."
+          "summary": "YiQiao 自托管 AI 记忆核心 / Self-hosted AI memory core"
         },
         {
-          "title": "syneidos added to PyPI",
-          "link": "https://pypi.org/project/syneidos/",
+          "title": "agentic_mcp_terminal added to PyPI",
+          "link": "https://pypi.org/project/agentic-mcp-terminal/",
           "date": "1 Aug 2026",
-          "summary": "Core data model of the Syneidos personal knowledge system: eide, nodes, typed directed edges, axes, situations — and the storage-backend treaty."
+          "summary": "An MCP which adds terminal capabilities to an agent."
         },
         {
-          "title": "nakagai added to PyPI",
-          "link": "https://pypi.org/project/nakagai/",
+          "title": "zodb-backup added to PyPI",
+          "link": "https://pypi.org/project/zodb-backup/",
           "date": "1 Aug 2026",
-          "summary": "Deterministic core for rule-driven trading agents: bar cache, walk-forward engine, RuleSpec strategy DSL, screener"
+          "summary": "Container-native backup and restore for ZODB FileStorage and blobstorage"
         },
         {
-          "title": "calibra-robotics added to PyPI",
-          "link": "https://pypi.org/project/calibra-robotics/",
+          "title": "dsm-optimizer added to PyPI",
+          "link": "https://pypi.org/project/dsm-optimizer/",
           "date": "1 Aug 2026",
-          "summary": "Dataset reliability and risk profiling for robotics imitation learning"
+          "summary": "Design Structure Matrix optimization: clustering (Spectral, MCL, Thebeau, Louvain), process partitioning with Tarjan SCCs and tearing analysis, simulated-annealing sequencing, and stability analysis - with a local web UI and CLI."
         },
         {
-          "title": "lagrangefoundry-knowledge added to PyPI",
-          "link": "https://pypi.org/project/lagrangefoundry-knowledge/",
+          "title": "boardwatch added to PyPI",
+          "link": "https://pypi.org/project/boardwatch/",
           "date": "1 Aug 2026",
-          "summary": "Knowledge component (placeholder)."
+          "summary": "Self-hosted job radar over official ATS APIs"
         },
         {
-          "title": "lagrangefoundry-ai added to PyPI",
-          "link": "https://pypi.org/project/lagrangefoundry-ai/",
+          "title": "broz-cli added to PyPI",
+          "link": "https://pypi.org/project/broz-cli/",
           "date": "1 Aug 2026",
-          "summary": "AI backend component (placeholder)."
+          "summary": "The fastest and smartest Developer Workspace Manager. Create, template, learn, clone, and AI-assist your projects."
         },
         {
-          "title": "lagrangefoundry-ai-ticketing added to PyPI",
-          "link": "https://pypi.org/project/lagrangefoundry-ai-ticketing/",
+          "title": "vectoryai added to PyPI",
+          "link": "https://pypi.org/project/vectoryai/",
           "date": "1 Aug 2026",
-          "summary": "AI ticketing component (placeholder)."
+          "summary": "Trace-aware AI evaluation toolkit and local Vectory Benchmark runner."
         },
         {
-          "title": "lagrangefoundry-ai-knowledge added to PyPI",
-          "link": "https://pypi.org/project/lagrangefoundry-ai-knowledge/",
+          "title": "yy-workload-receipt added to PyPI",
+          "link": "https://pypi.org/project/yy-workload-receipt/",
           "date": "1 Aug 2026",
-          "summary": "AI knowledge component (placeholder)."
+          "summary": "Deterministic, prompt-free receipts for AI workload consumption"
         },
         {
-          "title": "harriers-django-geocoding added to PyPI",
-          "link": "https://pypi.org/project/harriers-django-geocoding/",
+          "title": "better-gradescope-utils added to PyPI",
+          "link": "https://pypi.org/project/better-gradescope-utils/",
           "date": "1 Aug 2026",
-          "summary": "Django address autocomplete and reverse geocoding: Google plus free national-register providers (CZ RÚIAN, SK Register adries)."
+          "summary": "Utilities for building Gradescope autograders, with extended functionality"
         },
         {
-          "title": "PersonalBPNet added to PyPI",
-          "link": "https://pypi.org/project/personalbpnet/",
+          "title": "shenlun-forge added to PyPI",
+          "link": "https://pypi.org/project/shenlun-forge/",
           "date": "1 Aug 2026",
-          "summary": "PyTorch BPNet-family models (CLIPNET, ProCapNet, PauseNet) for base-resolution genomic signal prediction, extending bpnetlite."
+          "summary": "Task-driven context compression for LLM agents with analytical compression strategy"
         },
         {
-          "title": "materialx-bookmarks added to PyPI",
-          "link": "https://pypi.org/project/materialx-bookmarks/",
+          "title": "RNA-lexis added to PyPI",
+          "link": "https://pypi.org/project/rna-lexis/",
           "date": "1 Aug 2026",
-          "summary": "Bookmark list component for mkdocs-materialx, with search, tag filtering and pagination"
+          "summary": "A python package to explore RNA data"
         },
         {
-          "title": "moofs added to PyPI",
-          "link": "https://pypi.org/project/moofs/",
+          "title": "hayahash added to PyPI",
+          "link": "https://pypi.org/project/hayahash/",
           "date": "1 Aug 2026",
-          "summary": "Multi-objective feature selection with a scikit-learn API: MOFS-RFGA, NSGA-II, Pareto-front visualization and PlatEMO-compatible metrics"
+          "summary": "hayahash64, a small, fast, portable 64-bit hash function; CPython C extension over the C reference"
         },
         {
-          "title": "conformdag added to PyPI",
-          "link": "https://pypi.org/project/conformdag/",
+          "title": "mpratyush54-sdk added to PyPI",
+          "link": "https://pypi.org/project/mpratyush54-sdk/",
           "date": "1 Aug 2026",
-          "summary": "Explainable conformance checks for Apache Airflow engineering policies"
+          "summary": "Platform Python SDK"
         },
         {
-          "title": "viva-superpowers added to PyPI",
-          "link": "https://pypi.org/project/viva-superpowers/",
+          "title": "dataray-bridge added to PyPI",
+          "link": "https://pypi.org/project/dataray-bridge/",
           "date": "1 Aug 2026",
-          "summary": "Plugin Python helpers for the viva-superpowers skills (was pbg-superpowers)"
+          "summary": "Native, OS-agnostic Python interface and ISO 11146 beam analysis for DataRay beam profiling cameras."
         },
         {
-          "title": "kellermap added to PyPI",
-          "link": "https://pypi.org/project/kellermap/",
+          "title": "tree2dir added to PyPI",
+          "link": "https://pypi.org/project/tree2dir/",
           "date": "1 Aug 2026",
-          "summary": "Polynomial Keller maps and certified transformations of them, working towards the Bass–Connell–Wright degree reduction."
+          "summary": "A CLI tool to convert ASCII tree diagrams into actual folder structures."
         },
         {
-          "title": "sophyane added to PyPI",
-          "link": "https://pypi.org/project/sophyane/",
+          "title": "fungmod added to PyPI",
+          "link": "https://pypi.org/project/fungmod/",
           "date": "1 Aug 2026",
-          "summary": "Local-first AI software engineering platform with durable execution, repository intelligence, validator-driven recovery, browser verification, multi-provider orchestration, MCP interoperability, and native COI sub-agents"
+          "summary": "Traceable, unit-aware scientific modelling framework for fungal and enzyme-mediated substrate degradation."
         },
         {
-          "title": "shotwise added to PyPI",
-          "link": "https://pypi.org/project/shotwise/",
+          "title": "cansyd added to PyPI",
+          "link": "https://pypi.org/project/cansyd/",
           "date": "1 Aug 2026",
-          "summary": "Defensible error bars for quantum measurement data. Counts in, publishable numbers out."
+          "summary": "Reserved name placeholder."
         }
       ]
     }
