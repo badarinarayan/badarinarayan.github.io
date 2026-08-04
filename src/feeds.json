@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-04T20:19:16Z",
+  "generated": "2026-08-04T22:04:37Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,18 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "US stocks: SpaceX quarterly revenue surges in debut results on strong growth in its Starlink business",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-spacex-quarterly-revenue-surges-in-debut-results-on-strong-growth-in-its-starlink-business/articleshow/132872768.cms",
+          "date": "5 Aug 2026",
+          "summary": "SpaceX has announced an impressive 92% increase in revenue for the latest quarter, primarily fueled by the growth of Starlink and its AI initiatives. Despite this surge, the firm faced a net loss due to significant capital allocated towards infrastructure and…"
+        },
+        {
+          "title": "US stocks: Dow, S&amp;P 500 close at record highs as AI earnings impress, oil prices tumble",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-dow-sp-500-close-at-record-highs-as-ai-earnings-impress-oil-prices-tumble/articleshow/132872181.cms",
+          "date": "5 Aug 2026",
+          "summary": "Stock markets soared to all-time highs on Tuesday, fueled by stellar earnings from corporations. AI-focused entities like Palantir and the esteemed Caterpillar delivered eye-popping results. The drop in oil prices and Treasury yields created a favorable backdr…"
+        },
         {
           "title": "BSE Q1 Results: Profit soars 62% YoY to Rs 874 crore, revenue surges 63%",
           "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bse-q1-results-profit-soars-62-yoy-to-rs-874-crore-revenue-surges-63/articleshow/132862347.cms",
@@ -30,18 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/a-crash-coming-ray-dalio-warns-ai-rally-looks-like-1929-and-2000-bubbles/articleshow/132862682.cms",
           "date": "4 Aug 2026",
           "summary": "Bridgewater founder Ray Dalio warned the AI-driven market rally displays bubble-like traits seen before the 1929 crash and dot-com bust. He cited stretched valuations, rising rates and heavy stock issuance as key risks, echoing concerns from Jeremy Grantham an…"
-        },
-        {
-          "title": "Elon Musk likely to face tough questions during SpaceX's first earnings call after stock market listing",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/elon-musk-likely-to-face-tough-questions-during-spacexs-first-earnings-call-after-stock-market-listing/articleshow/132862778.cms",
-          "date": "4 Aug 2026",
-          "summary": "SpaceX's investors are gearing up to challenge Elon Musk about the company's trajectory and financial stability as stock prices have plummeted since June's highs. Anticipated insider share sales could amplify trading fluctuations. Investors are particularly in…"
-        },
-        {
-          "title": "Sebi proposes depository receipts against REITs, InvITs units",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-depository-receipts-against-reits-invits-units/articleshow/132862848.cms",
-          "date": "4 Aug 2026",
-          "summary": "India's markets regulator has unveiled a fresh set of regulations concerning depository receipts aimed at real estate and infrastructure investment trusts. This initiative seeks to draw increased foreign investment into these vital sectors, providing overseas…"
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -196,22 +196,22 @@
       "ok": true,
       "items": [
         {
-          "title": "'Strongly condemn unprovoked attack': India after cargo ship sinks in Yemeni waters",
-          "link": "https://timesofindia.indiatimes.com/india/indian-cargo-vessel-sinks-after-attack-in-yemeni-waters-all-14-crew-rescued/articleshow/132868285.cms",
-          "date": "4 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Iran war drains US missile arsenal, fuels fears over weak China deterrence",
-          "link": "https://timesofindia.indiatimes.com/defence/international/us-has-nearly-emptied-its-stock-of-long-range-precision-weapons-in-war-with-iran-report/articleshow/132862107.cms",
-          "date": "4 Aug 2026",
-          "summary": ""
-        },
-        {
           "title": "‘No insurance, no fuel’: SC directs govt to prepare pilot project",
           "link": "https://timesofindia.indiatimes.com/india/no-insurance-no-fuel-sc-directs-govt-to-prepare-pilot-project-flags-16-54-crore-uninsured-vehicles/articleshow/132866959.cms",
           "date": "4 Aug 2026",
           "summary": "The Supreme Court has initiated a pilot project that connects fuel supply to the vehicle's insurance status, aiming to enhance adherence to mandatory third-party insurance laws. Additionally, the court has extended the insurance requirement period for new vehi…"
+        },
+        {
+          "title": "US Congressman warns FCRA Bill could affect India-US ties",
+          "link": "https://timesofindia.indiatimes.com/india/us-congressman-warns-fcra-bill-could-affect-india-us-ties/articleshow/132874161.cms",
+          "date": "5 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Day after PK's poll win, PM Modi talks to Nabin, meets Nitish",
+          "link": "https://timesofindia.indiatimes.com/india/day-after-pks-poll-win-pm-modi-talks-to-nabin-meets-nitish/articleshow/132874445.cms",
+          "date": "5 Aug 2026",
+          "summary": "During a recent NDA meeting, government officials emphasized the importance of economic growth and the creation of jobs. The event also saw discussions surrounding India's evolving sports landscape. Prime Minister Modi and Amit Shah were present, and a humorou…"
         },
         {
           "title": "Pakistan boxer Qudratullah ‘goes missing’ in Glasgow after CWG campaign",
@@ -220,10 +220,10 @@
           "summary": "Pakistani boxer Qudratullah reportedly went missing in Glasgow hours before the national team’s departure, with his passport and return ticket remaining with the team manager. Pakistan finished the Commonwealth Games with just one medal, a bronze for Fatima Za…"
         },
         {
-          "title": "'No double meaning in my speech; TN CM using diversion tactic,' says Udhayanidhi",
-          "link": "https://timesofindia.indiatimes.com/india/udhayanidhi-stalin-arrest-drama-cops-change-venue-where-dmk-leader-will-be-quizzed-top-developments/articleshow/132862266.cms",
-          "date": "4 Aug 2026",
-          "summary": "Udhayanidhi Stalin faced arrest over alleged remarks linked to actor Trisha. The Madras High Court directed his release on station bail after questioning. DMK workers staged protests across Tamil Nadu following the arrest. The TVK government and opposition eng…"
+          "title": "Govt dismisses reports of fuel quality issues, says checks on",
+          "link": "https://timesofindia.indiatimes.com/india/govt-dismisses-reports-of-fuel-quality-issues-says-checks-on/articleshow/132874612.cms",
+          "date": "5 Aug 2026",
+          "summary": ""
         },
         {
           "title": "Priscilla Chan founded a school in 2016; 10 yrs later, it closed after $125m funding",
@@ -232,16 +232,22 @@
           "summary": "The Primary School, a tuition-free institution, will close in June after a decade of operation. This school provided education, healthcare, and family support to low-income children. The Chan Zuckerberg Initiative will not continue funding beyond the upcoming…"
         },
         {
+          "title": "Iran war drains US missile arsenal, fuels fears over weak China deterrence",
+          "link": "https://timesofindia.indiatimes.com/defence/international/us-has-nearly-emptied-its-stock-of-long-range-precision-weapons-in-war-with-iran-report/articleshow/132862107.cms",
+          "date": "4 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "'No double meaning in my speech; TN CM using diversion tactic,' says Udhayanidhi",
+          "link": "https://timesofindia.indiatimes.com/india/udhayanidhi-stalin-arrest-drama-cops-change-venue-where-dmk-leader-will-be-quizzed-top-developments/articleshow/132862266.cms",
+          "date": "4 Aug 2026",
+          "summary": "Udhayanidhi Stalin faced arrest over alleged remarks linked to actor Trisha. The Madras High Court directed his release on station bail after questioning. DMK workers staged protests across Tamil Nadu following the arrest. The TVK government and opposition eng…"
+        },
+        {
           "title": "EU eyes tougher border controls after Ceuta migrant surge triggers alarm",
           "link": "https://timesofindia.indiatimes.com/world/europe/eu-eyes-tougher-border-controls-after-ceuta-migrant-surge-triggers-alarm/articleshow/132868130.cms",
           "date": "4 Aug 2026",
           "summary": "European Union ministers are demanding stricter measures against migrant smuggling networks. They also seek stronger return policies following a large influx into Ceuta. The bloc is enhancing border security and intelligence sharing with external partners. Dis…"
-        },
-        {
-          "title": "After opening golf tournament, CM Omar says authorities must not allow repeat of migrant worker killings",
-          "link": "https://timesofindia.indiatimes.com/india/after-opening-golf-tournament-cm-omar-says-authorities-must-not-allow-repeat-of-migrant-worker-killings/articleshow/132869943.cms",
-          "date": "5 Aug 2026",
-          "summary": "Omar Abdullah, the chief minister of Jammu and Kashmir, strongly condemned the recent violence against migrant laborers, emphasizing that such acts are unacceptable and calling for heightened security measures. He also underscored the significance of golf tour…"
         },
         {
           "title": "Lauren Sanchez worked at waterpark; 40 years later, she takes luxurious ocean trips",
@@ -250,22 +256,22 @@
           "summary": "Lauren Sanchez's career evolved from a teenage waterpark job to ocean conservation leadership. She recently explored the Galápagos Islands, highlighting shark importance for marine health. The Bezos Earth Fund supports significant conservation projects in the…"
         },
         {
-          "title": "Veteran actor Pradeep Rawat of 'Ghajini', 'Lagaan' fame passes away after battle with cancer",
-          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/veteran-actor-pradeep-rawat-of-ghajini-lagaan-fame-passes-away-after-battle-with-cancer-confirms-his-manager-funeral-to-take-place-on-wednesday-exclusive/articleshow/132866966.cms",
-          "date": "4 Aug 2026",
-          "summary": "Renowned veteran actor Pradeep Rawat, celebrated for his iconic villain roles, has passed away at the age of seventy-four. His death occurred on the evening of August 4, 2026, as announced by his Lagaan co-star Yashpal Sharma. Rawat's remarkable contributions…"
+          "title": "After opening golf tournament, CM Omar says authorities must not allow repeat of migrant worker killings",
+          "link": "https://timesofindia.indiatimes.com/india/after-opening-golf-tournament-cm-omar-says-authorities-must-not-allow-repeat-of-migrant-worker-killings/articleshow/132869943.cms",
+          "date": "5 Aug 2026",
+          "summary": "Omar Abdullah, the chief minister of Jammu and Kashmir, strongly condemned the recent violence against migrant laborers, emphasizing that such acts are unacceptable and calling for heightened security measures. He also underscored the significance of golf tour…"
         },
         {
-          "title": "China’s native-tree islands restored only part of a damaged forest",
-          "link": "https://timesofindia.indiatimes.com/science/in-2003-china-planted-small-islands-of-native-trees-along-a-degraded-river-20-years-later-they-held-only-1930-of-an-intact-forests-diversity-and-biomass/articleshow/132857914.cms",
+          "title": "Illinois farmhouse becomes final training ground for 100 firefighters",
+          "link": "https://timesofindia.indiatimes.com/world/us/a-fitting-farewell-an-illinois-family-gave-its-old-farmhouse-one-final-purpose-about-100-firefighters-trained-inside-before-it-burned/articleshow/132860634.cms",
           "date": "5 Aug 2026",
-          "summary": "A 20-year study in southwest China found that planting small patches of native trees can help restore damaged tropical forests without planting entire landscapes. The approach successfully rebuilt forest cover, but researchers found that biodiversity and matur…"
+          "summary": "A four-generation family farmhouse in Illinois was given a meaningful final purpose before being demolished. The Kestel family donated the vacant house to the New Lenox Fire Protection District, where nearly 100 firefighters trained in realistic live-fire resc…"
         },
         {
-          "title": "Great white sharks may already be lurking off UK beaches",
-          "link": "https://timesofindia.indiatimes.com/science/as-uk-oceans-warm-up-experts-warn-great-white-sharks-are-already-lurking-off-beaches-and-another-toothy-predator-could-follow/articleshow/132858670.cms",
+          "title": "Over half of infected Caribbean corals resisted widespread bleaching",
+          "link": "https://timesofindia.indiatimes.com/world/us/florida-laboratory-tests-exposed-endangered-caribbean-corals-to-predatory-bacteria-more-than-half-showed-no-bleaching-beyond-the-infection-site/articleshow/132864377.cms",
           "date": "5 Aug 2026",
-          "summary": "With rising ocean temperatures, great white sharks are migrating further north than ever documented. Researchers suggest that these formidable predators might already be silently exploring British waters. This phenomenon signifies a broader ecological crisis,…"
+          "summary": "In the Caribbean, researchers are exploring the use of predatory bacteria as a means to combat coral diseases. Laboratory tests have demonstrated that these microscopic bacteria can successfully eliminate harmful Vibrio bacteria while preserving the coral's vi…"
         },
         {
           "title": "US may raise H-1B, L-1 visa fees for large employers under DHS proposal",
@@ -274,22 +280,16 @@
           "summary": "The US government plans to expand an additional visa fee. This fee currently applies to certain large employers filing H-1B and L-1 petitions. The planned change will extend this charge to visa extension requests. Qualifying employers with over fifty employees…"
         },
         {
+          "title": "Veteran actor Pradeep Rawat of 'Ghajini', 'Lagaan' fame passes away after battle with cancer",
+          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/veteran-actor-pradeep-rawat-of-ghajini-lagaan-fame-passes-away-after-battle-with-cancer-confirms-his-manager-funeral-to-take-place-on-wednesday-exclusive/articleshow/132866966.cms",
+          "date": "4 Aug 2026",
+          "summary": "Renowned veteran actor Pradeep Rawat, celebrated for his iconic villain roles, has passed away at the age of seventy-four. His death occurred on the evening of August 4, 2026, as announced by his Lagaan co-star Yashpal Sharma. Rawat's remarkable contributions…"
+        },
+        {
           "title": "Tom Selleck's quote on self-improvement and pushing beyond your limits",
           "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-tom-selleck-few-of-us-are-as-good-as-we-think-we-are-none-of-us-is-as-good-as-we-can-be-when-blue-bloods-star-explained-perception-and-limits/articleshow/132866365.cms",
           "date": "4 Aug 2026",
           "summary": "Hollywood artist Tom Selleck achieved fame through his acting skills and screen presence. His career spanned decades, including iconic roles in television and film. Selleck's quote emphasizes continuous improvement and realizing one's full potential. He began…"
-        },
-        {
-          "title": "Gaza mass funeral for 112 Palestinians, including children, recovered from 2023 strike",
-          "link": "https://timesofindia.indiatimes.com/world/middle-east/gaza-mass-funeral-for-112-palestinians-including-dozens-of-children-recovered-from-2023-strike/articleshow/132867323.cms",
-          "date": "4 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "'Will give fitting reply': Sunetra Pawar on Congress' 'gungi gudiya' jibe",
-          "link": "https://timesofindia.indiatimes.com/india/will-give-fitting-reply-at-appropriate-time-sunetra-pawar-on-congress-gungi-gudiya-jibe/articleshow/132866911.cms",
-          "date": "4 Aug 2026",
-          "summary": ""
         },
         {
           "title": "Cristiano Ronaldo’s journey from poverty to football greatness",
@@ -308,6 +308,18 @@
           "link": "https://timesofindia.indiatimes.com/sports/nfl/news/born-with-a-complex-heart-condition-a-6-year-old-signed-with-the-carolina-panthers-for-one-day-and-scored-a-touchdown-in-an-nfl-stadium/articleshow/132853485.cms",
           "date": "4 Aug 2026",
           "summary": "Six-year-old Asher Harvey, who was born with a complex heart condition and has undergone multiple heart surgeries, fulfilled his dream of becoming a Carolina Panthers player for a day through Make-A-Wish. He signed a one-day contract, met quarterback Bryce You…"
+        },
+        {
+          "title": "Gaza mass funeral for 112 Palestinians, including children, recovered from 2023 strike",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/gaza-mass-funeral-for-112-palestinians-including-dozens-of-children-recovered-from-2023-strike/articleshow/132867323.cms",
+          "date": "4 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "'Will give fitting reply': Sunetra Pawar on Congress' 'gungi gudiya' jibe",
+          "link": "https://timesofindia.indiatimes.com/india/will-give-fitting-reply-at-appropriate-time-sunetra-pawar-on-congress-gungi-gudiya-jibe/articleshow/132866911.cms",
+          "date": "4 Aug 2026",
+          "summary": ""
         },
         {
           "title": "Pak drone spotted in Kathua amid reports of Islamabad's military build-up along border",
@@ -362,18 +374,6 @@
           "link": "https://timesofindia.indiatimes.com/real-estate/news/odishas-pucca-ghar-yojana-mining-eligibility-process-purpose-explained/articleshow/132864983.cms",
           "date": "4 Aug 2026",
           "summary": "Odisha's Pucca Ghar Yojana is designed to provide durable housing solutions for eligible kutcha households. The initiative focuses on 36 blocks within nine mineral-rich districts impacted by mining. Beneficiaries will receive financial aid for construction, al…"
-        },
-        {
-          "title": "‘Respectful language should still be maintained’: Ex-India captain on abuse against PM Modi",
-          "link": "https://timesofindia.indiatimes.com/sports/off-the-field/respectful-language-should-sill-be-maintained-ex-india-captain-on-pm-modi-abuse/articleshow/132860154.cms",
-          "date": "4 Aug 2026",
-          "summary": "Former India football captain Bhaichung Bhutia said citizens have the right to protest but should avoid abusive language, especially against the Prime Minister. Manu Bhaker also urged youngsters to use respectful words. Prime Minister Narendra Modi, meanwhile,…"
-        },
-        {
-          "title": "From apps to 'intent': How AI agents will rewrite the way we use next‑gen phones",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/from-apps-to-intent-how-ai-agents-will-rewrite-the-way-we-use-nextgeneration-smartphones/articleshow/132687351.cms",
-          "date": "4 Aug 2026",
-          "summary": "Smartphones are set to abandon their traditional app icon grids in favor of AI-driven interfaces. Instead of manually opening apps, users will communicate their intentions via voice or text to smart agents that handle tasks seamlessly. This groundbreaking shif…"
         }
       ]
     },
@@ -1152,6 +1152,18 @@
       "ok": true,
       "items": [
         {
+          "title": "Apple Limits Bug Bounty Submissions After Flood of AI Slop",
+          "link": "https://it.slashdot.org/story/26/08/04/2045214/apple-limits-bug-bounty-submissions-after-flood-of-ai-slop?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "4 Aug 2026",
+          "summary": "Apple has capped the number of open bug-bounty reports researchers can submit after being flooded with low-quality and sometimes entirely fabricated vulnerabilities generated by AI. MacRumors reports: The Financial Times learned of the limit after cybersecurit…"
+        },
+        {
+          "title": "Bending Spoons to Buy Airtable For $1.28 Billion",
+          "link": "https://slashdot.org/story/26/08/04/2041222/bending-spoons-to-buy-airtable-for-128-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "4 Aug 2026",
+          "summary": "Bending Spoons has made its first acquisition since going public last month at an $18 billion valuation, agreeing to buy spreadsheet and database startup Airtable for $1.28 billion in cash. Airtable joins a growing portfolio of notable brands owned by the Ital…"
+        },
+        {
           "title": "Microsoft Tells Engineers 'Tokenmaxxing Is Not What We Are Optimizing For'",
           "link": "https://slashdot.org/story/26/08/04/1833219/microsoft-tells-engineers-tokenmaxxing-is-not-what-we-are-optimizing-for?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "4 Aug 2026",
@@ -1228,18 +1240,6 @@
           "link": "https://slashdot.org/story/26/08/03/1934211/microsoft-ceo-touts-his-own-diy-ai-project-to-wall-street-and-his-20-million-followers?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "3 Aug 2026",
           "summary": "theodp writes: During Microsoft's 2026Q4 earnings call, CEO Microsoft Satya Nadella took time to tout a dashboard he personally created using AI from a Morgan Stanley analyst's PDF research report, which suggested a rosy payback for the so-called MAG7's ('Magn…"
-        },
-        {
-          "title": "Apple's iCloud File Sharing Left Ex-Employees With Access to Secret Documents",
-          "link": "https://apple.slashdot.org/story/26/08/03/195248/apples-icloud-file-sharing-left-ex-employees-with-access-to-secret-documents?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "3 Aug 2026",
-          "summary": "Apple's practice of mixing employees' work files with personal iCloud accounts reportedly left some former staff with continued access to confidential documents, messages, and even new updates after leaving the company. \"The former employees said many Apple fi…"
-        },
-        {
-          "title": "Samsung Bans Smart TV Apps That Share Users' Internet Connections",
-          "link": "https://entertainment.slashdot.org/story/26/08/03/1637257/samsung-bans-smart-tv-apps-that-share-users-internet-connections?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "3 Aug 2026",
-          "summary": "An anonymous reader quotes a report from TechCrunch: Several popular Samsung smart TV apps contain code that share the owner's internet connection with strangers, potentially putting millions of Samsung smart TVs at risk of hijacking, according to new security…"
         }
       ]
     },
@@ -1630,6 +1630,42 @@
       "ok": true,
       "items": [
         {
+          "title": "cupxco added to PyPI",
+          "link": "https://pypi.org/project/cupxco/",
+          "date": "4 Aug 2026",
+          "summary": "Official CupX Ecosystems Python Library"
+        },
+        {
+          "title": "jitto added to PyPI",
+          "link": "https://pypi.org/project/jitto/",
+          "date": "4 Aug 2026",
+          "summary": "A universal AST to x86-64 & ARM64 machine code JIT compiler engine for Python language creators"
+        },
+        {
+          "title": "dietcode added to PyPI",
+          "link": "https://pypi.org/project/dietcode/",
+          "date": "4 Aug 2026",
+          "summary": "A CLI coding agent that writes and runs code in a sandbox."
+        },
+        {
+          "title": "halucinator added to PyPI",
+          "link": "https://pypi.org/project/halucinator/",
+          "date": "4 Aug 2026",
+          "summary": "Firmware emulation and rehosting framework"
+        },
+        {
+          "title": "goal-api added to PyPI",
+          "link": "https://pypi.org/project/goal-api/",
+          "date": "4 Aug 2026",
+          "summary": "Python SDK for the GOAL API: football fixtures, live scores, standings, stats and live WebSocket updates."
+        },
+        {
+          "title": "cupx added to PyPI",
+          "link": "https://pypi.org/project/cupx/",
+          "date": "4 Aug 2026",
+          "summary": "Official CupX Corporation Python Library"
+        },
+        {
           "title": "cfdi-toolkit added to PyPI",
           "link": "https://pypi.org/project/cfdi-toolkit/",
           "date": "4 Aug 2026",
@@ -1772,42 +1808,6 @@
           "link": "https://pypi.org/project/paddle-api-cli/",
           "date": "4 Aug 2026",
           "summary": "A secure, spec-driven CLI for Paddle Billing"
-        },
-        {
-          "title": "todo2code added to PyPI",
-          "link": "https://pypi.org/project/todo2code/",
-          "date": "4 Aug 2026",
-          "summary": "Dependency-free Python SDK for todo2code A2A and the local TypeScript runtime"
-        },
-        {
-          "title": "aivas added to PyPI",
-          "link": "https://pypi.org/project/aivas/",
-          "date": "4 Aug 2026",
-          "summary": "AI-Assisted Network Vulnerability Assessment System — offline CVE scanning, bilingual risk narration, Textual TUI"
-        },
-        {
-          "title": "hedron-charts added to PyPI",
-          "link": "https://pypi.org/project/hedron-charts/",
-          "date": "4 Aug 2026",
-          "summary": "Visualization adapters and chart components for Hedron"
-        },
-        {
-          "title": "coding-os added to PyPI",
-          "link": "https://pypi.org/project/coding-os/",
-          "date": "4 Aug 2026",
-          "summary": "The cognitive operating system that gives AI agents memory, structure, and discipline"
-        },
-        {
-          "title": "madis-data added to PyPI",
-          "link": "https://pypi.org/project/madis-data/",
-          "date": "4 Aug 2026",
-          "summary": "Python toolkit for downloading and processing Meteorological Assimilation Data Ingest System (MADIS) data."
-        },
-        {
-          "title": "libciss added to PyPI",
-          "link": "https://pypi.org/project/libciss/",
-          "date": "4 Aug 2026",
-          "summary": "Python client for CISS applications"
         }
       ]
     }
