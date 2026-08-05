@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-05T19:16:19Z",
+  "generated": "2026-08-05T20:58:09Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,18 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "US stocks: Dow closes at record on Mideast optimism; SpaceX, AMD drag Nasdaq",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-dow-closes-at-record-on-mideast-optimism-spacex-amd-drag-nasdaq/articleshow/132970250.cms",
+          "date": "6 Aug 2026",
+          "summary": "The Dow Jones Industrial Average achieved an all-time high on Wednesday, driven by rising optimism over potential peace talks with Iran. Meanwhile, both SpaceX and AMD saw their stock prices drop following their earnings announcements. The growth in private pa…"
+        },
+        {
+          "title": "US stocks: Alphabet shares fall 4% as DeepMind chief shifts role in Google’s AI shakeup",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-alphabet-shares-fall-4-as-deepmind-chief-shifts-role-in-googles-ai-shakeup/articleshow/132967508.cms",
+          "date": "6 Aug 2026",
+          "summary": "Alphabet's Class C shares declined significantly after a major AI leadership restructuring. DeepMind CEO Demis Hassabis is moving to a new chief scientist role. Several prominent Gemini researchers have departed the company recently. This overhaul occurs as Go…"
+        },
         {
           "title": "SpaceX draws retail investors despite fall in shares post earnings",
           "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/spacex-draws-retail-investors-despite-fall-in-shares-post-earnings/articleshow/132956840.cms",
@@ -30,18 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/qsr-stocks-near-turning-point-as-risk-reward-turns-favorable-says-motilal-oswal/articleshow/132901657.cms",
           "date": "5 Aug 2026",
           "summary": "The Indian quick-service restaurant (QSR) sector is entering a favourable phase after a challenging period, according to Motilal Oswal Financial Services. The brokerage believes easing valuations, improving operational trends, and long-term consumption growth…"
-        },
-        {
-          "title": "MCX shares fall 4% after Q1 profit falls 22% QoQ to Rs 413 crore. What should investors do?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/mcx-shares-fall-4-after-q1-profit-falls-22-qoq-to-rs-413-crore-what-should-investors-do/articleshow/132900030.cms",
-          "date": "5 Aug 2026",
-          "summary": "Multi Commodity Exchange shares fell after reporting lower June quarter profit and revenue. Profit after tax declined twenty-two percent sequentially while revenue also dropped. However, profit surged one hundred three percent year-on-year with strong trading…"
-        },
-        {
-          "title": "Sterlite Tech, HFCL gain 5% each on reports of US ban on Chinese data centre devices",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sterlite-tech-hfcl-gain-5-each-on-reports-of-us-ban-on-chinese-data-centre-devices/articleshow/132902650.cms",
-          "date": "5 Aug 2026",
-          "summary": "Shares of Sterlite Technologies and HFCL rallied 5% each after reports that the US administration is considering restrictions on Chinese data centre equipment imports. The proposed curbs could impact optical transceivers used in AI infrastructure. HFCL’s plann…"
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -196,6 +196,12 @@
       "ok": true,
       "items": [
         {
+          "title": "Trump's immigration crackdown hits US military families; over 50 spouses detained",
+          "link": "https://timesofindia.indiatimes.com/world/us/donald-trumps-immigration-crackdown-hits-us-military-families-over-50-spouses-parents-detained/articleshow/132919173.cms",
+          "date": "5 Aug 2026",
+          "summary": "Dozens of parents and spouses of US service members face detention and deportation. This marks a significant shift from prior bipartisan immigration policies for military families. Many are detained during routine immigration status adjustment appointments. Th…"
+        },
+        {
           "title": "Peace talks abroad, protests at home: The many contradictions shaping Pakistan today",
           "link": "https://timesofindia.indiatimes.com/world/pakistan/peace-talks-abroad-protests-at-home-the-many-contradictions-shaping-pakistan-today/articleshow/132919234.cms",
           "date": "5 Aug 2026",
@@ -208,22 +214,16 @@
           "summary": ""
         },
         {
-          "title": "With all eyes on delimitation &amp; FCRA, monsoon session sinks deeper into deadlock",
-          "link": "https://timesofindia.indiatimes.com/india/with-all-eye-on-delimination-fcra-monsoon-session-sinks-deeper-into-deadlock/articleshow/132949704.cms",
-          "date": "5 Aug 2026",
-          "summary": "Parliament has hit yet another impasse as the opposition protests continue for the thirteenth day. Despite this, the government succeeded in passing important legislation, including the Bankers' Books Evidence Bill and a bill concerning Supreme Court judges. I…"
-        },
-        {
           "title": "World C'ships: Shetty to face top-ranked Shi Yuqi in opener - full draw",
           "link": "https://timesofindia.indiatimes.com/sports/badminton/bwf-world-cships-draw-ayush-shetty-gets-blockbuster-start-vs-top-ranked-shi-yuqi-pv-sindhu-in-same-half-as-an-se-young/articleshow/132951992.cms",
           "date": "5 Aug 2026",
           "summary": "Ayush Shetty will get the chance to improve his win-loss record against top-ranked Chinese shuttler Shi Yuqi in the first round of the 2026 BWF World Championships in New Delhi that begin on August 17. PV Sindhu, chasing her sixth medal, could face top seed an…"
         },
         {
-          "title": "‘Miles to go before I sleep...’: Omar gets poetic, says ‘wounds of Art 370 abrogation yet to heal’",
-          "link": "https://timesofindia.indiatimes.com/india/miles-to-go-before-i-sleep-omar-gets-poetic-says-wounds-of-art-370-abrogation-yet-to-heal/articleshow/132958994.cms",
-          "date": "5 Aug 2026",
-          "summary": ""
+          "title": "'May be jailed, but I’ll return to Bangladesh this December,' says Sheikh Hasina",
+          "link": "https://timesofindia.indiatimes.com/world/south-asia/may-be-jailed-but-ill-return-to-bangladesh-this-december-says-hasina/articleshow/132971880.cms",
+          "date": "6 Aug 2026",
+          "summary": "Sheikh Hasina declared she is not afraid of arrest upon her return to Bangladesh in December. She stated her return is for the nation's future and to set it on the right track. Dhaka reacted sharply, calling her an absconding convicted genocider and expressing…"
         },
         {
           "title": "OpenAI's Greg Brockman gives millions to save eagles Jackie and Shadow's home",
@@ -232,22 +232,22 @@
           "summary": "Greg Brockman and his wife Anna donated five point five million dollars to save shoreline forest. This significant contribution helped secure ten million dollars for land conservation efforts. The land, which is home to rare species, will now be protected from…"
         },
         {
+          "title": "With all eyes on delimitation &amp; FCRA, monsoon session sinks deeper into deadlock",
+          "link": "https://timesofindia.indiatimes.com/india/with-all-eye-on-delimination-fcra-monsoon-session-sinks-deeper-into-deadlock/articleshow/132949704.cms",
+          "date": "5 Aug 2026",
+          "summary": "Parliament has hit yet another impasse as the opposition protests continue for the thirteenth day. Despite this, the government succeeded in passing important legislation, including the Bankers' Books Evidence Bill and a bill concerning Supreme Court judges. I…"
+        },
+        {
+          "title": "‘Miles to go before I sleep...’: Omar gets poetic, says ‘wounds of Art 370 abrogation yet to heal’",
+          "link": "https://timesofindia.indiatimes.com/india/miles-to-go-before-i-sleep-omar-gets-poetic-says-wounds-of-art-370-abrogation-yet-to-heal/articleshow/132958994.cms",
+          "date": "5 Aug 2026",
+          "summary": ""
+        },
+        {
           "title": "Tamil Nadu government vows to secure rightful share in inter-state river water",
           "link": "https://timesofindia.indiatimes.com/india/government-vows-to-secure-rightful-share-in-inter-state-river-water/articleshow/132961604.cms",
           "date": "6 Aug 2026",
           "summary": ""
-        },
-        {
-          "title": "Black Sea attack: Merchant Navy officer's family refuses cremation, seeks martyr status",
-          "link": "https://timesofindia.indiatimes.com/city/kanpur/black-sea-attack-kanpur-merchant-navy-officers-family-refuses-cremation-seeks-martyr-status/articleshow/132947272.cms",
-          "date": "5 Aug 2026",
-          "summary": "Following a brutal attack in the Black Sea, the remains of Merchant Navy chief officer Sagar Gupta were brought back to Kanpur. His family, deeply affected by the loss, has declared they will not conduct any last rites until specific demands are fulfilled, inc…"
-        },
-        {
-          "title": "Jiya Shankar announces engagement to Kaaran Dhanak; shares dreamy proposal pics",
-          "link": "https://timesofindia.indiatimes.com/tv/news/hindi/jiya-shankar-breaks-down-as-boyfriend-kaaran-dhanak-proposes-actress-flaunts-her-gorgeous-diamond-ring/articleshow/132960386.cms",
-          "date": "5 Aug 2026",
-          "summary": "Jiya Shankar from Bigg Boss OTT 2 has officially shared the joyous news of her engagement to Kaaran Dhanak. She celebrated this special milestone by posting their heartfelt proposal pictures on social media. The actress expressed her overwhelming love for her…"
         },
         {
           "title": "DHS plan hints at higher H1B, L1 visa fees for large companies",
@@ -256,22 +256,22 @@
           "summary": "The US government plans to expand an additional fee for certain visa petitions. This fee currently applies to initial H-1B and L-1 visa grants. The proposed change will extend this charge to petitions for extensions of stay. Companies with over fifty employees…"
         },
         {
-          "title": "Real-time mineral monitoring system to curb illegal mining: Tamil Nadu government",
-          "link": "https://timesofindia.indiatimes.com/india/real-time-mineral-monitoring-system-to-curb-illegal-mining-government/articleshow/132961292.cms",
+          "title": "Black Sea attack: Merchant Navy officer's family refuses cremation, seeks martyr status",
+          "link": "https://timesofindia.indiatimes.com/city/kanpur/black-sea-attack-kanpur-merchant-navy-officers-family-refuses-cremation-seeks-martyr-status/articleshow/132947272.cms",
+          "date": "5 Aug 2026",
+          "summary": "Following a brutal attack in the Black Sea, the remains of Merchant Navy chief officer Sagar Gupta were brought back to Kanpur. His family, deeply affected by the loss, has declared they will not conduct any last rites until specific demands are fulfilled, inc…"
+        },
+        {
+          "title": "Judas goats helped eliminate 140,000 invasive goats from Galapagos",
+          "link": "https://timesofindia.indiatimes.com/science/experts-used-judas-goats-to-hunt-down-their-own-kind-eliminating-over-140000-invasive-goats-in-a-10-5-million-mission-to-save-the-galapagos-native-wildlife/articleshow/132918741.cms",
+          "date": "5 Aug 2026",
+          "summary": "In a remarkable ecological initiative, over 140,000 invasive goats have been eradicated from three areas of the Galapagos Islands. This operation, costing $10.5 million, aims to rejuvenate the habitat for native wildlife. Using judas goats fitted with transmit…"
+        },
+        {
+          "title": "Family seeks probe after NYPD officer dies following surgery abroad",
+          "link": "https://timesofindia.indiatimes.com/world/us/rebecca-depaula-was-an-nypd-officer-pastor-and-mother-of-three-her-family-is-demanding-an-investigation-after-she-died-following-surgery-in-the-dominican-republic/articleshow/132921261.cms",
           "date": "5 Aug 2026",
           "summary": ""
-        },
-        {
-          "title": "Teen recreates late grandparents’ Illinois home inside backyard shed",
-          "link": "https://timesofindia.indiatimes.com/world/us/after-losing-both-grandparents-17-year-old-hudson-waters-recreated-their-illinois-home-inside-a-backyard-shed-using-their-furniture-flowers-and-decorations/articleshow/132915758.cms",
-          "date": "5 Aug 2026",
-          "summary": "Hudson Waters created a heartfelt replica of his grandparents' home in a backyard shed. He carefully filled the space with their furniture and cherished belongings. This personal project helped him cope with profound grief after their passing. The touching tri…"
-        },
-        {
-          "title": "Fish misidentified in 2006 recognised as new species 20 years later",
-          "link": "https://timesofindia.indiatimes.com/science/in-2006-a-tiny-deep-reef-fish-was-pulled-from-deep-water-off-south-australia-and-misidentified-nearly-20-years-later-scientists-recognised-a-new-species/articleshow/132909806.cms",
-          "date": "5 Aug 2026",
-          "summary": "A newly identified species of deep-reef fish, collected back in 2006, has intrigued scientists after spending nearly twenty years in a museum's vault due to a mix-up. A thorough re-examination unveiled unique physical traits that highlight the significance of…"
         },
         {
           "title": "Priscilla Chan founded a school in 2016; 10 yrs later, it closed after $125m funding",
@@ -280,22 +280,22 @@
           "summary": "The Primary School, a tuition-free institution, will close in June after a decade of operation. This school provided education, healthcare, and family support to low-income children. The Chan Zuckerberg Initiative will not continue funding beyond the upcoming…"
         },
         {
-          "title": "Horoscope today: Daily astrological predictions for August 6, 2026",
-          "link": "https://timesofindia.indiatimes.com/astrology/horoscope/horoscope-today-daily-astrological-predictions-for-august-6-2026/articleshow/132952637.cms",
+          "title": "Kazakhstan releases first wild Caspian tiger after 70 years of extinction",
+          "link": "https://timesofindia.indiatimes.com/life-style/travel/news/kazakhstans-caspian-tiger-was-declared-extinct-due-to-hunting-by-the-military-and-prey-reduction-now-the-country-has-released-its-first-tiger-in-the-wild-after-70-years/articleshow/132903502.cms",
+          "date": "5 Aug 2026",
+          "summary": "Kazakhstan has released adult Amur tigers into the wild after a 70-year absence. This reintroduction follows extensive habitat preparation and prey population restoration efforts. Scientists confirmed the genetic similarity between extinct Turanian and current…"
+        },
+        {
+          "title": "Jiya Shankar announces engagement to Kaaran Dhanak; shares dreamy proposal pics",
+          "link": "https://timesofindia.indiatimes.com/tv/news/hindi/jiya-shankar-breaks-down-as-boyfriend-kaaran-dhanak-proposes-actress-flaunts-her-gorgeous-diamond-ring/articleshow/132960386.cms",
+          "date": "5 Aug 2026",
+          "summary": "Jiya Shankar from Bigg Boss OTT 2 has officially shared the joyous news of her engagement to Kaaran Dhanak. She celebrated this special milestone by posting their heartfelt proposal pictures on social media. The actress expressed her overwhelming love for her…"
+        },
+        {
+          "title": "Navigation sat NVS-03 ready for launch, 3 more to follow: Space min Jitendra Singh",
+          "link": "https://timesofindia.indiatimes.com/india/navigation-sat-nvs-03-ready-for-launch-3-more-satellites-to-follow-space-min-jitendra-singh-in-ls/articleshow/132967589.cms",
           "date": "6 Aug 2026",
-          "summary": "Horoscope Today: Read daily horoscope predictions for August 6, 2026. Know all about the astrological events and influences that will be affecting each of the 12 zodiac signs. Our astrologer has analyzed the movements of the planets and the alignment of the st…"
-        },
-        {
-          "title": "Terrorist hideout busted in Poonch; search ops launched in Jammu, Kathua",
-          "link": "https://timesofindia.indiatimes.com/india/terrorist-hideout-busted-in-poonch-ammo-seized-search-ops-launched-in-jammu-kathua/articleshow/132958290.cms",
-          "date": "5 Aug 2026",
           "summary": ""
-        },
-        {
-          "title": "Pakistan win first away Test after three years, beat WI by 8 wickets",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/babar-azams-pakistan-register-first-away-test-win-after-three-years-beat-west-indies-by-8-wickets/articleshow/132955685.cms",
-          "date": "5 Aug 2026",
-          "summary": "The two-match series finished 1-1 after the West Indies had won the first Test by 90 runs."
         },
         {
           "title": "How Cristiano Ronaldo overcame poverty and loss to become a football legend",
@@ -316,10 +316,40 @@
           "summary": "Brock Lesnar, the WWE legend, leads a private family life with his wife Sable. They share two sons, Turk and Duke, who play competitive hockey. Lesnar also has twins, Mya and Luke, from a previous relationship. Mya excels in college shot put while Luke wrestle…"
         },
         {
-          "title": "Trump's immigration crackdown hits US military families; over 50 spouses detained",
-          "link": "https://timesofindia.indiatimes.com/world/us/donald-trumps-immigration-crackdown-hits-us-military-families-over-50-spouses-parents-detained/articleshow/132919173.cms",
+          "title": "20 LEO satellites at higher collision risk due to crowding: Space min Jitendra Singh",
+          "link": "https://timesofindia.indiatimes.com/science/20-low-earth-orbit-satellites-at-higher-risk-of-collision-due-to-crowding-space-minister-jitendra-singh-in-lok-sabha/articleshow/132966921.cms",
+          "date": "6 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Army chief General Dhiraj Seth visits Central Command HQ, Lucknow",
+          "link": "https://timesofindia.indiatimes.com/india/army-chief-general-dhiraj-seth-visits-central-command-hq-to-review-operational-readiness/articleshow/132966449.cms",
+          "date": "6 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Real-time mineral monitoring system to curb illegal mining: Tamil Nadu government",
+          "link": "https://timesofindia.indiatimes.com/india/real-time-mineral-monitoring-system-to-curb-illegal-mining-government/articleshow/132961292.cms",
           "date": "5 Aug 2026",
-          "summary": "Dozens of parents and spouses of US service members face detention and deportation. This marks a significant shift from prior bipartisan immigration policies for military families. Many are detained during routine immigration status adjustment appointments. Th…"
+          "summary": ""
+        },
+        {
+          "title": "Horoscope today: Daily astrological predictions for August 6, 2026",
+          "link": "https://timesofindia.indiatimes.com/astrology/horoscope/horoscope-today-daily-astrological-predictions-for-august-6-2026/articleshow/132952637.cms",
+          "date": "6 Aug 2026",
+          "summary": "Horoscope Today: Read daily horoscope predictions for August 6, 2026. Know all about the astrological events and influences that will be affecting each of the 12 zodiac signs. Our astrologer has analyzed the movements of the planets and the alignment of the st…"
+        },
+        {
+          "title": "Terrorist hideout busted in Poonch; search ops launched in Jammu, Kathua",
+          "link": "https://timesofindia.indiatimes.com/india/terrorist-hideout-busted-in-poonch-ammo-seized-search-ops-launched-in-jammu-kathua/articleshow/132958290.cms",
+          "date": "5 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Pakistan win first away Test after three years, beat WI by 8 wickets",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/babar-azams-pakistan-register-first-away-test-win-after-three-years-beat-west-indies-by-8-wickets/articleshow/132955685.cms",
+          "date": "5 Aug 2026",
+          "summary": "The two-match series finished 1-1 after the West Indies had won the first Test by 90 runs."
         },
         {
           "title": "FIFA 'blackmailing' members to back Infantino, alleges former vice president",
@@ -344,36 +374,6 @@
           "link": "https://timesofindia.indiatimes.com/world/us/america-edges-towards-first-muslim-senator-as-michigan-backs-progressive-rebel/articleshow/132949427.cms",
           "date": "5 Aug 2026",
           "summary": ""
-        },
-        {
-          "title": "Commercial plane takes off as Trump’s helicopter nears airport; FAA investigates",
-          "link": "https://timesofindia.indiatimes.com/world/us/commercial-plane-takes-off-as-trumps-helicopter-nears-airport-faa-investigates/articleshow/132950919.cms",
-          "date": "5 Aug 2026",
-          "summary": "An investigation by the Federal Aviation Administration has been initiated concerning a potential safety breach. A commercial aircraft took off just as President Trump’s helicopter was nearing Reagan National Airport, leading to a brief loss of separation. Fol…"
-        },
-        {
-          "title": "Inside Marilyn Monroe's California home where the Hollywood icon spent her final days",
-          "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/marilyn-monroes-house-all-about-the-quiet-california-residence-where-she-took-her-last-breath-in-1962/articleshow/132928761.cms",
-          "date": "5 Aug 2026",
-          "summary": "Marilyn Monroe's former Los Angeles home, a Spanish-style residence, remains a significant cultural landmark today. The property was acquired by new owners with plans for demolition in 2023. However, the L.A. City Council designated the house a Historic Cultur…"
-        },
-        {
-          "title": "'I worked tirelessly while staying in Pakistan': Nadeem blames cold for CWG poor show",
-          "link": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/i-worked-tirelessly-while-staying-in-pakistan-arshad-nadeem-blames-glasgow-cold-for-cwg-poor-show/articleshow/132935980.cms",
-          "date": "5 Aug 2026",
-          "summary": "Pakistan’s Olympic javelin champion Arshad Nadeem blamed Glasgow’s cold weather for his ninth-place Commonwealth Games finish, saying it stiffened his body and affected his run-up. Despite the setback, he urged fans not to lose faith and promised a strong come…"
-        },
-        {
-          "title": "Cong vs Cong in Punjab: With 'sleeper cell' warning, party puts Channi camp on notice",
-          "link": "https://timesofindia.indiatimes.com/india/congress-vs-congress-in-punjab-with-sleeper-cell-warning-party-puts-channi-camp-on-notice/articleshow/132931804.cms",
-          "date": "5 Aug 2026",
-          "summary": "Amid rising infighting, the Congress party has issued a stern warning to Punjab's dissenters regarding their involvement with internal 'sleeper cells.' Amarinder Singh Raja Warring, the state president, has promised that party members acting against Congress w…"
-        },
-        {
-          "title": "Indian-American Congressman Shri Thanedar loses Democratic primary in Michigan",
-          "link": "https://timesofindia.indiatimes.com/world/us/indian-american-congressman-shri-thanedar-loses-democratic-primary-in-michigan/articleshow/132944487.cms",
-          "date": "5 Aug 2026",
-          "summary": "Shri Thanedar lost the Michigan Democratic primary to Donavan McKinney. McKinney secured victory with support from the party's progressive wing. Thanedar acknowledged the socialist movement's influence on the election outcome. His defeat may reduce Indian-Amer…"
         }
       ]
     },
@@ -1152,6 +1152,12 @@
       "ok": true,
       "items": [
         {
+          "title": "Apple's 'Private Relay' Is Exposing Users' Real IP Addresses",
+          "link": "https://yro.slashdot.org/story/26/08/05/1918253/apples-private-relay-is-exposing-users-real-ip-addresses?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "5 Aug 2026",
+          "summary": "Security researchers found that Apple's iCloud Private Relay can expose users' real IP addresses because some passkey-related requests bypass Safari and its proxy protections at the operating-system level. \"In short: any website that supports, or pretends to s…"
+        },
+        {
           "title": "Lawmaker Who Wants Data Center Pause Wins Kansas Democratic Primary",
           "link": "https://politics.slashdot.org/story/26/08/05/1737252/lawmaker-who-wants-data-center-pause-wins-kansas-democratic-primary?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "5 Aug 2026",
@@ -1234,12 +1240,6 @@
           "link": "https://yro.slashdot.org/story/26/08/04/1729250/trump-administration-drafting-ban-on-chinese-data-center-devices?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "4 Aug 2026",
           "summary": "Longtime Slashdot reader schwit1 shares a report from Reuters: The Federal Communications Commission, which oversees the U.S. telecom industry, is working on the measure to bar imports of new Chinese optical transceivers, which allow data to travel over fiber-…"
-        },
-        {
-          "title": "Apple Says More Ex-Employees May Have Taken Confidential Data to OpenAI",
-          "link": "https://yro.slashdot.org/story/26/08/04/1719218/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "4 Aug 2026",
-          "summary": "Apple is now seeking a preliminary injunction to prevent OpenAI and Jony Ive's io startup from developing AI hardware allegedly based on stolen Apple trade secrets. \"The iPhone maker also claims that more of its former employees may be involved with the trade…"
         }
       ]
     },
@@ -1630,184 +1630,184 @@
       "ok": true,
       "items": [
         {
-          "title": "grip-search added to PyPI",
-          "link": "https://pypi.org/project/grip-search/",
+          "title": "tenzro-mcp-server added to PyPI",
+          "link": "https://pypi.org/project/tenzro-mcp-server/",
           "date": "5 Aug 2026",
-          "summary": "Agent-grade retrieval on top of grip: a question in, ranked cited passages out"
+          "summary": "MCP server for Tenzro Network — 360 tools for AI agents"
         },
         {
-          "title": "freeleaps-mqserv added to PyPI",
-          "link": "https://pypi.org/project/freeleaps-mqserv/",
+          "title": "weinc added to PyPI",
+          "link": "https://pypi.org/project/weinc/",
           "date": "5 Aug 2026",
-          "summary": "Name reserved by Freeleaps; the real package lives in a private registry. Do not depend on this placeholder."
+          "summary": "WeInc AI website builder API client for the WeInc v1 REST API (projects, publish, preview, domains). Pure stdlib, zero dependencies."
         },
         {
-          "title": "freeleaps-flag added to PyPI",
-          "link": "https://pypi.org/project/freeleaps-flag/",
+          "title": "odoo-addon-partner-classification added to PyPI",
+          "link": "https://pypi.org/project/odoo-addon-partner-classification/",
           "date": "5 Aug 2026",
-          "summary": "Name reserved by Freeleaps; the real package lives in a private registry. Do not depend on this placeholder."
+          "summary": "Structured partner classification (alternative to tags)"
         },
         {
-          "title": "freeleaps-basic added to PyPI",
-          "link": "https://pypi.org/project/freeleaps-basic/",
+          "title": "nf-icons added to PyPI",
+          "link": "https://pypi.org/project/nf-icons/",
           "date": "5 Aug 2026",
-          "summary": "Name reserved by Freeleaps; the real package lives in a private registry. Do not depend on this placeholder."
+          "summary": "Typed Python access to every Nerd Fonts glyph."
         },
         {
-          "title": "freeleaps-authentication added to PyPI",
-          "link": "https://pypi.org/project/freeleaps-authentication/",
+          "title": "pydependencycheck added to PyPI",
+          "link": "https://pypi.org/project/pydependencycheck/",
           "date": "5 Aug 2026",
-          "summary": "Name reserved by Freeleaps; the real package lives in a private registry. Do not depend on this placeholder."
+          "summary": "Dependency intelligence and governance platform for Python projects"
         },
         {
-          "title": "valius-kimlik added to PyPI",
-          "link": "https://pypi.org/project/valius-kimlik/",
+          "title": "context-gc added to PyPI",
+          "link": "https://pypi.org/project/context-gc/",
           "date": "5 Aug 2026",
-          "summary": "Tissue- and diagnosis-specific gene signatures for labeling cell types in single-cell RNA-seq data"
+          "summary": "Deterministic, receipt-preserving context compaction middleware for LLM agents"
         },
         {
-          "title": "aetherpod added to PyPI",
-          "link": "https://pypi.org/project/aetherpod/",
+          "title": "py-probelab added to PyPI",
+          "link": "https://pypi.org/project/py-probelab/",
           "date": "5 Aug 2026",
-          "summary": "Terminal Podcast Manager — subscribe, browse, and play podcasts from your terminal"
+          "summary": "Shared ProbeLab utilities"
         },
         {
-          "title": "auth-service-byom added to PyPI",
-          "link": "https://pypi.org/project/auth-service-byom/",
+          "title": "better-commons added to PyPI",
+          "link": "https://pypi.org/project/better-commons/",
           "date": "5 Aug 2026",
-          "summary": "Authentication Service for Distributed Issue Tracker - Centralized authentication and JWT token management with OAuth2 integration, RBAC, and security features"
+          "summary": "better commons python library"
         },
         {
-          "title": "kino-is added to PyPI",
-          "link": "https://pypi.org/project/kino-is/",
+          "title": "squadcue added to PyPI",
+          "link": "https://pypi.org/project/squadcue/",
           "date": "5 Aug 2026",
-          "summary": "Official Python client for the kino.is API — films, people, ratings, where-to-watch & live cinema showtimes. Zero dependencies."
+          "summary": "Local-first mission control for CLI coding agents — flows, approval gates, run history, optional Telegram bridge."
         },
         {
-          "title": "synforecast added to PyPI",
-          "link": "https://pypi.org/project/synforecast/",
+          "title": "pi-py-storage-sqlite added to PyPI",
+          "link": "https://pypi.org/project/pi-py-storage-sqlite/",
           "date": "5 Aug 2026",
-          "summary": "Fast synthetic time series for testing, augmentation, and pretraining"
+          "summary": "Python port of @earendil-works/pi-storage-sqlite-node — SQLite session storage backend"
         },
         {
-          "title": "simula-gen added to PyPI",
-          "link": "https://pypi.org/project/simula-gen/",
+          "title": "nn-webhooks-cli added to PyPI",
+          "link": "https://pypi.org/project/nn-webhooks-cli/",
           "date": "5 Aug 2026",
-          "summary": "Schema-driven synthetic data generator inspired by reasoning-first taxonomy coverage."
+          "summary": "Command-line interface for NimbusNexus Webhooks."
         },
         {
-          "title": "zuvloop added to PyPI",
-          "link": "https://pypi.org/project/zuvloop/",
+          "title": "weaverstack added to PyPI",
+          "link": "https://pypi.org/project/weaverstack/",
           "date": "5 Aug 2026",
-          "summary": "A libuv event loop for asyncio, written in Zig."
+          "summary": "Central-catalogue data engineering runtime for Microsoft Fabric Lakehouses and Warehouses."
         },
         {
-          "title": "isotope-zero added to PyPI",
-          "link": "https://pypi.org/project/isotope-zero/",
+          "title": "nn-webhooks-sdk added to PyPI",
+          "link": "https://pypi.org/project/nn-webhooks-sdk/",
           "date": "5 Aug 2026",
-          "summary": "Sub-millisecond, local-first cognitive memory layer for AI agents — Rust-accelerated hybrid retrieval, Ebbinghaus decay, and knowledge compaction."
+          "summary": "Official Python SDK for NimbusNexus Webhooks — publish events + verify webhook signatures."
         },
         {
-          "title": "flochart added to PyPI",
-          "link": "https://pypi.org/project/flochart/",
+          "title": "featuremesh-serving-runtime added to PyPI",
+          "link": "https://pypi.org/project/featuremesh-serving-runtime/",
           "date": "5 Aug 2026",
-          "summary": "Sankey plots and diagrams with fixed node positions"
+          "summary": "Compiled runtime for FeatureMesh embedded serving. Install through featuremesh[serving]; its direct Python API is internal."
         },
         {
-          "title": "openniw added to PyPI",
-          "link": "https://pypi.org/project/openniw/",
+          "title": "pyusbdisplay added to PyPI",
+          "link": "https://pypi.org/project/pyusbdisplay/",
           "date": "5 Aug 2026",
-          "summary": "Local companion for the OpenNIW immigration Agent Skills (EB-2 NIW, EB-1A, O-1A, I-485): localhost browser wizard, deterministic USCIS PDF filling, filing-package ZIP, DOCX export, OpenAlex citation harvest, claim-registry linting - all over a case folder on y…"
+          "summary": "Python bindings for MSDisplaySDK USB secondary display"
         },
         {
-          "title": "heddura added to PyPI",
-          "link": "https://pypi.org/project/heddura/",
+          "title": "forge-fullstack-cli added to PyPI",
+          "link": "https://pypi.org/project/forge-fullstack-cli/",
           "date": "5 Aug 2026",
-          "summary": "Trellis GPU acceleration platform — probe, budget, validate, run"
+          "summary": "A CLI for generating Forge full-stack projects."
         },
         {
-          "title": "whereip added to PyPI",
-          "link": "https://pypi.org/project/whereip/",
+          "title": "red-loom added to PyPI",
+          "link": "https://pypi.org/project/red-loom/",
           "date": "5 Aug 2026",
-          "summary": "The whole world's IP addresses, located offline in 3.7 MB"
+          "summary": "Local-model agent loop for Ollama, LM Studio, Hugging Face, MLX, and OpenAI-compatible servers."
         },
         {
-          "title": "banking-nlu added to PyPI",
-          "link": "https://pypi.org/project/banking-nlu/",
+          "title": "mcp-bastion-autogen added to PyPI",
+          "link": "https://pypi.org/project/mcp-bastion-autogen/",
           "date": "5 Aug 2026",
-          "summary": "Banking NLU library for intent classification and entity extraction."
+          "summary": "MCP-Bastion security helpers for Microsoft AutoGen / Agent Framework tool messages."
         },
         {
-          "title": "rendfly added to PyPI",
-          "link": "https://pypi.org/project/rendfly/",
+          "title": "lockally-django added to PyPI",
+          "link": "https://pypi.org/project/lockally-django/",
           "date": "5 Aug 2026",
-          "summary": "rendfly — agent observability. One line to see your agent's full execution tree."
+          "summary": "Official Lockally email backend for Django — send transactional email via Lockally."
         },
         {
-          "title": "pyscf-ifdft added to PyPI",
-          "link": "https://pypi.org/project/pyscf-ifdft/",
+          "title": "mcp-bastion-xai added to PyPI",
+          "link": "https://pypi.org/project/mcp-bastion-xai/",
           "date": "5 Aug 2026",
-          "summary": "Fixed-density integral-feature DFT evaluation for PySCF"
+          "summary": "MCP-Bastion security middleware for xAI Grok (OpenAI-compatible API)."
         },
         {
-          "title": "video-transcoders added to PyPI",
-          "link": "https://pypi.org/project/video-transcoders/",
+          "title": "faster-astap added to PyPI",
+          "link": "https://pypi.org/project/faster-astap/",
           "date": "5 Aug 2026",
-          "summary": "High performance FFmpeg HLS encoder with C++ and pybind11"
+          "summary": "Fast astrometric plate solving: ASTAP's algorithm in C++, plus a whole-sky index solver"
         },
         {
-          "title": "bindai-embeddings added to PyPI",
-          "link": "https://pypi.org/project/bindai-embeddings/",
+          "title": "dragoraapi added to PyPI",
+          "link": "https://pypi.org/project/dragoraapi/",
           "date": "5 Aug 2026",
-          "summary": "Embedding providers for BindAI"
+          "summary": "Official Dragora panel API client for Python. Supports user (dlpu_) and admin (dpla_) API keys."
         },
         {
-          "title": "pyqtermx added to PyPI",
-          "link": "https://pypi.org/project/pyqtermx/",
+          "title": "audioql added to PyPI",
+          "link": "https://pypi.org/project/audioql/",
           "date": "5 Aug 2026",
-          "summary": "A Python terminal emulator targeting ECMA-48, VT102, and xterm compatibility"
+          "summary": "The semantic layer for audio. Query any audio file by what happens in it."
         },
         {
-          "title": "proofofcontext added to PyPI",
-          "link": "https://pypi.org/project/proofofcontext/",
+          "title": "mcp-bastion-openrouter added to PyPI",
+          "link": "https://pypi.org/project/mcp-bastion-openrouter/",
           "date": "5 Aug 2026",
-          "summary": "Decision-aware context injection for an existing repo: scaffold, deliver, and enforce project decisions with a human approve step. Stdlib only, offline, no per-commit LLM cost."
+          "summary": "MCP-Bastion security middleware for OpenRouter (multi-model gateway)."
         },
         {
-          "title": "bindai-workflow added to PyPI",
-          "link": "https://pypi.org/project/bindai-workflow/",
+          "title": "repo-clone-system added to PyPI",
+          "link": "https://pypi.org/project/repo-clone-system/",
           "date": "5 Aug 2026",
-          "summary": "None"
+          "summary": "A professional, open-source Python CLI application for cloning GitHub repositories with destination memory, VS Code command palette, and subcommands."
         },
         {
-          "title": "exterior-shell added to PyPI",
-          "link": "https://pypi.org/project/exterior-shell/",
+          "title": "skillwitness added to PyPI",
+          "link": "https://pypi.org/project/skillwitness/",
           "date": "5 Aug 2026",
-          "summary": "Extract lightweight exterior shells from BIM models (IFC). Produces stripped IFC and 2D footprints with elevation for GIS use."
+          "summary": "Security and compliance CI gate for AI skills and agent extensions."
         },
         {
-          "title": "imbi-scheduler added to PyPI",
-          "link": "https://pypi.org/project/imbi-scheduler/",
+          "title": "pyfox-auto added to PyPI",
+          "link": "https://pypi.org/project/pyfox-auto/",
           "date": "5 Aug 2026",
-          "summary": "Imbi scheduled task trigger service"
+          "summary": "Firefox browser automation via WebDriver BiDi with integrated ForgeAPI antidetect"
         },
         {
-          "title": "apple-tools-mcp added to PyPI",
-          "link": "https://pypi.org/project/apple-tools-mcp/",
+          "title": "mcp-bastion-ollama added to PyPI",
+          "link": "https://pypi.org/project/mcp-bastion-ollama/",
           "date": "5 Aug 2026",
-          "summary": "Unified Apple ecosystem MCP server for macOS"
+          "summary": "MCP-Bastion security middleware for Ollama local models (OpenAI-compatible API)."
         },
         {
-          "title": "rjson-parser added to PyPI",
-          "link": "https://pypi.org/project/rjson-parser/",
+          "title": "otter-chess added to PyPI",
+          "link": "https://pypi.org/project/otter-chess/",
           "date": "5 Aug 2026",
-          "summary": "RJSON -- JSON with multiple inheritances, references and commands"
+          "summary": "Otter chess move prediction library API"
         },
         {
-          "title": "bindai-providers added to PyPI",
-          "link": "https://pypi.org/project/bindai-providers/",
+          "title": "aegis-agentguard added to PyPI",
+          "link": "https://pypi.org/project/aegis-agentguard/",
           "date": "5 Aug 2026",
-          "summary": "None"
+          "summary": "AgentGuard installation entry point"
         }
       ]
     }
