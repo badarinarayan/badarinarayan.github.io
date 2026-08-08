@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-08T10:22:03Z",
+  "generated": "2026-08-08T11:20:33Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,12 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "Explained: How BSE traded fewer contracts after CAS but premiums rose 75% in first week",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/explained-how-bse-traded-fewer-contracts-after-cas-but-premiums-rose-75-in-first-week/articleshow/133049697.cms",
+          "date": "8 Aug 2026",
+          "summary": "BSE’s derivatives activity fell sharply in the first week of the Closing Auction Session, but higher premiums more than offset the decline in contracts. Premium per contract surged 74.8%, lifting average daily premium turnover 21.3% and pushing BSE’s market sh…"
+        },
         {
           "title": "F&amp;O Talk: Smallcaps look strong on charts, says Sudeep Shah; outlines Trent, Swiggy, Kalyan Jewellers strategy",
           "link": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-smallcaps-look-strong-on-charts-says-sudeep-shah-outlines-trent-swiggy-kalyan-jewellers-strategy/articleshow/133048679.cms",
@@ -36,12 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/mukul-agrawals-winning-picks-9-stocks-rallied-over-50-in-cy26-one-fresh-q1-addition/slideshow/133048465.cms",
           "date": "8 Aug 2026",
           "summary": "Investor Mukul Mahavir Agrawal’s portfolio rose 12% to around Rs 7,720 crore by June 2026. Several holdings delivered strong CY26 gains, led by Apollo Pipes, Hind Rectifiers and KRN Heat Exchanger. The portfolio also saw a new addition, Arisinfra Solutions, hi…"
-        },
-        {
-          "title": "Vedanta and Infosys among 5 stocks with highest dividend yield. Check details",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-and-infosys-among-5-stocks-with-highest-dividend-yield-check-details/slideshow/133048351.cms",
-          "date": "8 Aug 2026",
-          "summary": "Five high-dividend-yield stocks include Vedanta, Gujarat Pipavav Port, Castrol India, TCS and Infosys. As of July 29, 2026, Vedanta topped the list with a 12.9% yield, followed by Gujarat Pipavav Port at 6.9%. Investors should consider fundamentals, valuation,…"
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -202,10 +202,34 @@
           "summary": "Police registered a case of abetment of suicide against two women recently. A 24-year-old law graduate died after jumping from his apartment. The women had allegedly threatened to frame him in a police case. This caused the young man significant stress and anx…"
         },
         {
-          "title": "'A morning I will cherish': Raghav Chadha's first social media post with PM Modi",
-          "link": "https://timesofindia.indiatimes.com/india/a-morning-i-will-cherish-raghav-chadhas-first-social-media-post-with-pm-modi/articleshow/133049673.cms",
+          "title": "Congress lost the millennials. Can it win over Gen Z?",
+          "link": "https://timesofindia.indiatimes.com/india/congress-lost-the-millennials-can-it-win-over-gen-z/articleshow/133049402.cms",
           "date": "8 Aug 2026",
-          "summary": ""
+          "summary": "Rahul Gandhi is focusing on forging a bond with the youth ahead of the 2029 elections, recognizing that Gen Z will be a key voting bloc."
+        },
+        {
+          "title": "‘Jealousy, argument, murder’: Classmate slits BCA student’s throat at Lucknow home",
+          "link": "https://timesofindia.indiatimes.com/city/lucknow/jealousy-argument-murder-classmate-slits-bca-students-throat-at-lucknow-home/articleshow/133050445.cms",
+          "date": "8 Aug 2026",
+          "summary": "A tragic incident unfolded when a 20-year-old BCA student was allegedly murdered by her classmate within her own home. The altercation reportedly stemmed from disputes regarding her communication with another individual. Police discovered the victim with sever…"
+        },
+        {
+          "title": "From training in dry ponds with wooden javelin to following Chopra's trail: Rise of Ashish",
+          "link": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/ashish-yadavs-road-to-u20-worlds-silver-from-training-in-dry-ponds-with-wooden-javelin-to-following-neeraj-chopras-trail/articleshow/133051131.cms",
+          "date": "8 Aug 2026",
+          "summary": "Ashish secured the second spot in the men's javelin final with a best effort of 74.09 metres, which came in his third attempt. His performance earned India a podium finish at the global junior event. It is the first time India have won a medal in javelin throw…"
+        },
+        {
+          "title": "SAD backs women's quota, delimitation bills after Badal-PM Modi meet fuels buzz",
+          "link": "https://timesofindia.indiatimes.com/india/sad-backs-womens-quota-delimitation-bills-after-badal-pm-modi-meet-fuels-buzz/articleshow/133050813.cms",
+          "date": "8 Aug 2026",
+          "summary": "Shiromani Akali Dal has expressed strong support for the prompt enactment of the women's reservation bill, emphasizing the need for fair delimitation to ensure equitable state representation. This advocacy follows a meeting between party president Sukhbir Sing…"
+        },
+        {
+          "title": "US proposes ending 60-day grace period for H-1B workers after job loss",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/under-us-governments-new-proposed-rule-h-1b-visa-workers-would-be-required-to-leave-us-immediately-and-cannot-change-their-status-or-employers-unless-uscis-/articleshow/133050209.cms",
+          "date": "8 Aug 2026",
+          "summary": "A US government proposal could eliminate the current 60-day grace period for H-1B visa holders. Affected workers might need to depart the United States immediately after job termination. They generally cannot change immigration status or employers within the c…"
         },
         {
           "title": "Sarfaraz Khan in contention to replace Sai Sudharsan for Sri Lanka Tests",
@@ -214,10 +238,34 @@
           "summary": "Sai Sudharsan is all but ruled out of India's Sri Lanka Tests due to a foot niggle, with Shaik Rasheed and Sarfaraz Khan emerging as the frontrunners to replace him. Rasheed's recent India A stint and strong feedback from the CoE could give the youngster the e…"
         },
         {
-          "title": "Woman’s skeletal remains found in B'luru home; lived alone after son, husband died",
-          "link": "https://timesofindia.indiatimes.com/city/bengaluru/skeletal-remains-of-woman-found-in-bengaluru-home-lived-alone-after-husband-son-died/articleshow/133047589.cms",
+          "title": "'A morning I will cherish': Raghav Chadha's first post with PM Modi",
+          "link": "https://timesofindia.indiatimes.com/india/a-morning-i-will-cherish-raghav-chadhas-first-social-media-post-with-pm-modi/articleshow/133049673.cms",
           "date": "8 Aug 2026",
-          "summary": "In a distressing incident, the skeletal remains of Dakshayini, a 57-year-old woman from Bengaluru, were discovered in her residence. Living independently and suffering from schizophrenia, she had lost touch with her family for nearly two years. The police noti…"
+          "summary": ""
+        },
+        {
+          "title": "After Germany’s exit, India eyes France-led sixth-generation fighter programme",
+          "link": "https://timesofindia.indiatimes.com/defence/news/after-germanys-exit-india-eyes-france-led-sixth-generation-fighter-programme/articleshow/133050625.cms",
+          "date": "8 Aug 2026",
+          "summary": "India is discussing joining France's Future Combat Air System program. This development follows Germany's departure from the advanced fighter jet project. India's own fifth-generation fighter is also expected to fly around 2028. This collaboration aligns with…"
+        },
+        {
+          "title": "Michael Dell’s son’s startup offers $695 alternative to costly home generators",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/michael-dells-son-zachs-3-year-old-startup-currently-valued-at-13-billion-wants-to-replace-costly-home-generators-in-american-homes-with-/articleshow/133048601.cms",
+          "date": "8 Aug 2026",
+          "summary": "Zach Dell's Base Power is installing home battery systems across America. These systems offer backup power and reduce electricity bills for customers. The company aims to replace expensive gas generators with its innovative technology. Base Power is rapidly ex…"
+        },
+        {
+          "title": "Colorado teen gets $15,000 piano from stranger, releases debut album",
+          "link": "https://timesofindia.indiatimes.com/world/us/colorado-teen-jude-kofie-taught-himself-piano-by-ear-at-10-a-stranger-bought-him-a-15000-grand-piano-and-now-he-has-released-his-debut-album/articleshow/133050467.cms",
+          "date": "8 Aug 2026",
+          "summary": "Colorado teenager Jude Kofie has released his debut album, showcasing his piano skills. He taught himself to play the piano by ear at age ten. A generous piano tuner gifted him a valuable instrument and professional lessons. His album features diverse musical…"
+        },
+        {
+          "title": "Kansas bans student phones, earbuds and smartwatches for entire school day",
+          "link": "https://timesofindia.indiatimes.com/education/news/a-new-kansas-law-bars-students-from-accessing-phones-earbuds-and-smartwatches-all-school-day-while-one-parent-group-is-pushing-for-tighter-ipad-limits/articleshow/133050817.cms",
+          "date": "8 Aug 2026",
+          "summary": "Many states are banning smartphones in schools due to growing distractions and health concerns. Some districts now restrict student phone access from morning bell to afternoon dismissal. Parents are increasingly supporting these bans, citing research and devel…"
         },
         {
           "title": "Mark Zuckerberg gave an update on ‘Meta's 4 am layoff email’ to employees",
@@ -226,10 +274,34 @@
           "summary": "Meta's CEO Mark Zuckerberg addressed the recent layoffs alongside substantial investments in artificial intelligence. Despite reporting impressive revenue growth, the surge in expenses, particularly from severance and legal fees, negatively influenced the seco…"
         },
         {
+          "title": "Maryland 10-year-old’s champion cake sells for $15,000",
+          "link": "https://timesofindia.indiatimes.com/life-style/food-news/maryland-10-year-old-herbie-martin-iv-stayed-up-until-2-a-m-perfecting-his-lemon-blueberry-buttercream-cake-the-grand-champion-cake-sold-for-15000/articleshow/133049506.cms",
+          "date": "8 Aug 2026",
+          "summary": "At a recent county fair auction, a remarkable cake created by 10-year-old baker Herbie Martin IV fetched an astounding $15,000. Herbie dedicated countless late-night hours to master his delightful lemon blueberry recipe. This impressive sale contributed to an…"
+        },
+        {
+          "title": "'Congress not realising own errors': Rijiju draws parallel with Indira's post Emergency",
+          "link": "https://timesofindia.indiatimes.com/india/congress-not-realising-own-errors-rijiju-draws-parallel-with-indira-gandhi-post-emergency/articleshow/133050210.cms",
+          "date": "8 Aug 2026",
+          "summary": "Parliamentary affairs minister Kiren Rijiju criticized the Congress party for its perceived lack of self-awareness. He contrasted the current leadership with former Prime Minister Indira Gandhi's admission of Emergency actions. Rahul Gandhi questioned the dela…"
+        },
+        {
+          "title": "Woman’s skeletal remains found in B'luru home; lived alone after son, husband died",
+          "link": "https://timesofindia.indiatimes.com/city/bengaluru/skeletal-remains-of-woman-found-in-bengaluru-home-lived-alone-after-husband-son-died/articleshow/133047589.cms",
+          "date": "8 Aug 2026",
+          "summary": "In a distressing incident, the skeletal remains of Dakshayini, a 57-year-old woman from Bengaluru, were discovered in her residence. Living independently and suffering from schizophrenia, she had lost touch with her family for nearly two years. The police noti…"
+        },
+        {
           "title": "Greenland issues ‘strong warning’ over Arctic drilling by Trump-linked firm",
           "link": "https://timesofindia.indiatimes.com/world/europe/greenland-issues-strong-warning-as-trump-linked-us-oil-firm-pushes-ahead-with-arctic-drilling/articleshow/133050012.cms",
           "date": "8 Aug 2026",
           "summary": "A US oil firm has moved equipment to Greenland without local approval. This action occurs while President Trump seeks greater US influence over the territory. Greenland's government issued a strong warning regarding the unauthorized logistical operation. The c…"
+        },
+        {
+          "title": "IT ministry asks Meta to revamp algorithms, submit roadmap to tackle deepfakes",
+          "link": "https://timesofindia.indiatimes.com/india/it-ministry-asks-meta-to-revamp-algorithms-submit-roadmap-to-tackle-deepfakes/articleshow/133050160.cms",
+          "date": "8 Aug 2026",
+          "summary": ""
         },
         {
           "title": "'Changing colours like chameleon': Mayawati slams Akhilesh over PDA's 'Pandit' twist",
@@ -238,34 +310,16 @@
           "summary": "BSP chief Mayawati criticized the Samajwadi Party's changing political stance. She accused the SP of altering its PDA formula for electoral gains. Mayawati stated the SP now targets Brahmin voters after noticing BSP's growing support. She urged all communities…"
         },
         {
+          "title": "How US Navy is turning submarines into multi-domain weapons platforms",
+          "link": "https://timesofindia.indiatimes.com/defence/international/how-us-navy-is-turning-submarines-into-multi-domain-weapons-platforms/articleshow/133050459.cms",
+          "date": "8 Aug 2026",
+          "summary": "The US Navy is integrating new payload launchers for future attack submarines. These advanced systems will support a wider variety of unmanned systems and payloads. India's Navy is also strengthening its undersea capabilities with new submarine programs. Delay…"
+        },
+        {
           "title": "Estranged wife calls for Gardner's vice-captaincy to be stripped, slams CA",
           "link": "https://timesofindia.indiatimes.com/sports/cricket/news/ashleigh-gardner-under-pressure-ex-wife-calls-for-vice-captaincy-to-be-stripped-slams-cricket-australia/articleshow/133049096.cms",
           "date": "8 Aug 2026",
           "summary": "Ashleigh Gardner's leadership role faces scrutiny after her estranged wife's public accusations. Monica Wright questioned Cricket Australia's silence regarding the alleged affair with Georgia Voll. Wright believes a power imbalance necessitates consequences fo…"
-        },
-        {
-          "title": "Elon Musk's preferred state halts data center approvals, says 'prove' this",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/governor-of-the-state-elon-musk-wants-tech-companies-to-move-their-headquarters-to-has-halted-data-center-approvals-says-prove-this-first/articleshow/133027787.cms",
-          "date": "7 Aug 2026",
-          "summary": "Texas Governor Greg Abbott has temporarily halted the approval of new data centers while regulators perform a thorough audit of existing projects. Developers are required to demonstrate their electricity and water usage, reflecting a response to mounting conce…"
-        },
-        {
-          "title": "Colorado River faces fish-versus-power dilemma as waters warm",
-          "link": "https://timesofindia.indiatimes.com/world/us/colorado-river-officials-face-a-fish-versus-power-tradeoff-as-warmer-water-threatens-native-humpback-chub-and-cool-releases-bypass-dam-turbines/articleshow/133049127.cms",
-          "date": "8 Aug 2026",
-          "summary": "This year, federal officials have decided against releasing cool water from the Colorado River reservoirs, emphasizing the need for hydropower production over the conservation of a threatened fish species. The river and its reservoirs are facing severe depleti…"
-        },
-        {
-          "title": "Maryland 10-year-old’s champion cake sells for $15,000",
-          "link": "https://timesofindia.indiatimes.com/life-style/food-news/maryland-10-year-old-herbie-martin-iv-stayed-up-until-2-a-m-perfecting-his-lemon-blueberry-buttercream-cake-the-grand-champion-cake-sold-for-15000/articleshow/133049506.cms",
-          "date": "8 Aug 2026",
-          "summary": "At a recent county fair auction, a remarkable cake created by 10-year-old baker Herbie Martin IV fetched an astounding $15,000. Herbie dedicated countless late-night hours to master his delightful lemon blueberry recipe. This impressive sale contributed to an…"
-        },
-        {
-          "title": "Microsoft's top AI boss has a message for engineers using GitHub Copilot",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/microsofts-top-ai-boss-has-a-message-for-engineers-using-github-copilot-your-token-spend-is-now-being-tracked/articleshow/133046474.cms",
-          "date": "8 Aug 2026",
-          "summary": "Microsoft EVP Jay Parikh has told engineers that \"tokenmaxxing is not what we are optimizing for,\" in an internal memo first reported by 404 Media. Microsoft has made OpenAI's cheaper GPT-5.6 the default internal model, set AI token budget targets for every di…"
         },
         {
           "title": "Shubman Gill unlikely to bat in warm-up game, on track for Galle Test",
@@ -320,60 +374,6 @@
           "link": "https://timesofindia.indiatimes.com/city/kanpur/dostoevsky-tehran-coup-novels-found-in-atiq-sons-ill-fated-car/articleshow/133040978.cms",
           "date": "8 Aug 2026",
           "summary": "Tragically, Aaban Ahmed, the son of Atiq Ahmed, lost his life in a devastating road accident on Thursday. While his vehicle was found to contain personal belongings, including books by Fyodor Dostoevsky and Marjan Kamali, police clarified that these items were…"
-        },
-        {
-          "title": "Friday’s downpour in Delhi wasn’t just about rain; it was about what happened after",
-          "link": "https://timesofindia.indiatimes.com/city/delhi/fridays-rain-in-delhi-wasnt-just-about-rain-it-was-about-what-happened-after/articleshow/133046755.cms",
-          "date": "8 Aug 2026",
-          "summary": "Delhi has faced an unprecedented deluge at the start of August, marking the wettest beginning in sixteen years. As rain poured relentlessly, streets transformed into mini rivers, rendering underpasses impassable. Commutes were hampered, with essential services…"
-        },
-        {
-          "title": "Why Travis Head doesn't see himself as a 'true' Test opener despite runs in Ashes?",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/why-travis-head-doesnt-see-himself-as-a-true-test-opener-despite-629-runs-in-ashes/articleshow/133048089.cms",
-          "date": "8 Aug 2026",
-          "summary": "Travis Head shares insights on his role as a Test opener, acknowledging that he doesn't fit the conventional mold of an opening batter. His dynamic and aggressive approach aligns well with the demands of the top order. Australia is bracing for a challenging ru…"
-        },
-        {
-          "title": "Iran hails Saudi-Pakistan-Turkey defence pact, calls for Muslim unity",
-          "link": "https://timesofindia.indiatimes.com/world/middle-east/iran-hails-saudi-pak-turkey-defence-pact-calls-for-muslim-unity-amid-west-asia-tensions/articleshow/133047316.cms",
-          "date": "8 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Women’s quota Bill: Rahul counters Rijiju, calls delimitation link ‘unnecessary’",
-          "link": "https://timesofindia.indiatimes.com/india/visible-change-of-heart-rijiju-challenges-rahul-gandhi-to-support-womens-quota-bill/articleshow/133046823.cms",
-          "date": "8 Aug 2026",
-          "summary": "Union minister Kiren Rijiju has called upon Rahul Gandhi to lend his 'unconditional' support to the Women's Reservation Bill. This appeal came after Gandhi's comments highlighting the necessity of women's freedom of expression for India's comprehensive develop…"
-        },
-        {
-          "title": "‘Honey-trapped’ IAF officer held for allegedly sharing classified defence data",
-          "link": "https://timesofindia.indiatimes.com/india/honey-trapped-iaf-officer-held-for-allegedly-sharing-classified-defence-data/articleshow/133047975.cms",
-          "date": "8 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "'I may not fit in, but I'll fight': Sarfaraz Khan's cryptic post goes viral",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/sarfaraz-khans-cryptic-post-goes-viral-amid-continued-india-snub-i-may-not-fit-in-but-ill-fight/articleshow/133047712.cms",
-          "date": "8 Aug 2026",
-          "summary": "Sarfaraz Khan's Test career faces uncertainty despite his strong first-class performance. He recently shared a cryptic message reflecting his current situation and determination. The batter was again overlooked for the upcoming Sri Lanka Test series. His fitne…"
-        },
-        {
-          "title": "100% tariffs on India? US Senate clears Russia sanctions bill; 10 things to know",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/100-tariffs-on-india-soon-us-senate-clears-russia-sanctions-bill-10-things-to-know/articleshow/133046387.cms",
-          "date": "8 Aug 2026",
-          "summary": "The US Senate approved a bill allowing President Trump to impose tariffs on nations buying Russian energy. India could face up to 100% tariffs on its goods if the bill becomes law. This legislation pressures countries to choose between US markets and Russian e…"
-        },
-        {
-          "title": "Sick teen dies as ambulance gets stuck in mud for hours in J&amp;K's Rajouri",
-          "link": "https://timesofindia.indiatimes.com/india/sick-teen-dies-as-ambulance-gets-stuck-in-mud-for-hours-in-jks-rajouri/articleshow/133047461.cms",
-          "date": "8 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Centre seeks Meta's action on deepfakes, awaits legal opinion on further steps",
-          "link": "https://timesofindia.indiatimes.com/india/centre-seeks-metas-action-on-deepfakes-awaits-legal-opinion-on-further-steps/articleshow/133047307.cms",
-          "date": "8 Aug 2026",
-          "summary": ""
         }
       ]
     },
@@ -760,6 +760,12 @@
       "ok": true,
       "items": [
         {
+          "title": "Fields Medalist who published a paper on AI-driven human extinction now works for OpenAI",
+          "link": "https://the-decoder.com/fields-medalist-who-published-a-paper-on-ai-driven-human-extinction-now-works-for-openai/",
+          "date": "8 Aug 2026",
+          "summary": "Newly awarded Fields Medalist Jacob Tsimerman is leaving the University of Toronto to join OpenAI and work on AI safety. In a recent paper, he analyzes scenarios where AI could contribute to human extinction and calls for far more investment in safety research…"
+        },
+        {
           "title": "AI agents use roughly 600 times more energy than a simple chat prompt",
           "link": "https://the-decoder.com/ai-agents-use-roughly-600-times-more-energy-than-a-simple-chat-prompt/",
           "date": "8 Aug 2026",
@@ -812,12 +818,6 @@
           "link": "https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab/",
           "date": "7 Aug 2026",
           "summary": "A research team in California has used artificial intelligence to design working viruses that kill bacteria, in what they describe as the \"first generative design of complete genomes.\" The project marks an early step toward AI-designed life forms, according to…"
-        },
-        {
-          "title": "OpenAI reportedly slows research after its own models secretly coordinated hacks for weeks undetected",
-          "link": "https://the-decoder.com/openai-reportedly-slows-research-after-its-own-models-secretly-coordinated-hacks-for-weeks-undetected/",
-          "date": "7 Aug 2026",
-          "summary": "During internal security tests, OpenAI's AI agents built their own message board with hundreds of thousands of posts, shared exploits and credentials, and eventually attacked external platforms like Hugging Face. When OpenAI shut the board down, the agents reb…"
         }
       ]
     },
@@ -1152,6 +1152,12 @@
       "ok": true,
       "items": [
         {
+          "title": "NASA Figured Out How To Keep Its 48-Year-Old Voyager 2 Probe Running For Yet Another Year",
+          "link": "https://science.slashdot.org/story/26/08/08/0415215/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "8 Aug 2026",
+          "summary": "NASA has squeezed at least another year of science out of Voyager 2 by cutting power to nonessential systems and switching to lower-power alternatives. Voyager 1 is expected to receive the same power-saving changes in the coming months. Space.com reports: Voya…"
+        },
+        {
           "title": "Woman Pulled From Car at Gunpoint By Police After Mistaken Flock Alert - Twice",
           "link": "https://yro.slashdot.org/story/26/08/08/042259/woman-pulled-from-car-at-gunpoint-by-police-after-mistaken-flock-alert---twice?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "8 Aug 2026",
@@ -1234,12 +1240,6 @@
           "link": "https://science.slashdot.org/story/26/08/06/1824255/scientists-make-first-viruses-designed-by-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "7 Aug 2026",
           "summary": "An anonymous reader quotes a report from The Guardian: Scientists have made the first viruses designed by artificial intelligence in a milestone that raises hopes for new medicines but also concerns over how to ensure the technology remains safe. The viruses a…"
-        },
-        {
-          "title": "Court Orders Meta To Establish $567 Million Fund To Abate Harms To Youth",
-          "link": "https://yro.slashdot.org/story/26/08/07/0053247/court-orders-meta-to-establish-567-million-fund-to-abate-harms-to-youth?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "7 Aug 2026",
-          "summary": "A New Mexico court ordered (PDF) Meta to create a $567 million fund to address harms linked to youth mental health and child sexual exploitation after finding its platforms constituted a public nuisance. \"In sum, the Court finds that New Mexico is in the midst…"
         }
       ]
     },
@@ -1630,184 +1630,184 @@
       "ok": true,
       "items": [
         {
-          "title": "grantscan added to PyPI",
-          "link": "https://pypi.org/project/grantscan/",
+          "title": "heliokit-viz3d-custom-streamline added to PyPI",
+          "link": "https://pypi.org/project/heliokit-viz3d-custom-streamline/",
           "date": "8 Aug 2026",
-          "summary": "Screen a library of paper PDFs for the grant codes they cite."
+          "summary": "Prepare VTK custom-streamline visualization workflows."
         },
         {
-          "title": "indexnow-ping added to PyPI",
-          "link": "https://pypi.org/project/indexnow-ping/",
+          "title": "heliokit-viz3d-animation added to PyPI",
+          "link": "https://pypi.org/project/heliokit-viz3d-animation/",
           "date": "8 Aug 2026",
-          "summary": "Notify search engines (IndexNow + Google Search Console) of a site's sitemap URLs, with a pre-launch robots.txt guard."
+          "summary": "Prepare VTK animation visualization workflows."
         },
         {
-          "title": "llm-security-gates added to PyPI",
-          "link": "https://pypi.org/project/llm-security-gates/",
+          "title": "heliokit-viz2d-xy-line added to PyPI",
+          "link": "https://pypi.org/project/heliokit-viz2d-xy-line/",
           "date": "8 Aug 2026",
-          "summary": "Practical, FOSS-backed security gates for LLM systems: model-file supply-chain gate, runtime I/O firewall proxy, and model resilience scoring."
+          "summary": "Prepare XY-line visualization workflows."
         },
         {
-          "title": "contigger added to PyPI",
-          "link": "https://pypi.org/project/contigger/",
+          "title": "heliokit-viz2d-synoptic-map added to PyPI",
+          "link": "https://pypi.org/project/heliokit-viz2d-synoptic-map/",
           "date": "8 Aug 2026",
-          "summary": "Conservative, provenance-aware reconciliation of assembled contigs"
+          "summary": "Prepare synoptic-map visualization workflows."
         },
         {
-          "title": "timeverse-office-doc-mcp added to PyPI",
-          "link": "https://pypi.org/project/timeverse-office-doc-mcp/",
+          "title": "claudesync-index added to PyPI",
+          "link": "https://pypi.org/project/claudesync-index/",
           "date": "8 Aug 2026",
-          "summary": "面向 Word / Excel / PowerPoint / PDF 四大格式的全场景读写与分析 MCP Server"
+          "summary": "Hierarchical AI-generated index over a claudesync export of your claude.ai conversations."
         },
         {
-          "title": "qiskit-stateviz added to PyPI",
-          "link": "https://pypi.org/project/qiskit-stateviz/",
+          "title": "arc56-generated-algor-9cee2a80 added to PyPI",
+          "link": "https://pypi.org/project/arc56-generated-algor-9cee2a80/",
           "date": "8 Aug 2026",
-          "summary": "Interactive Plotly-based statevector visualizations (Q-sphere, Bloch multivector) for Qiskit"
+          "summary": "Generated ARC-56 Algorand smart-contract clients for Algorand-Developer-Retreat/web-vrf-example."
         },
         {
-          "title": "cloudsentrix added to PyPI",
-          "link": "https://pypi.org/project/cloudsentrix/",
+          "title": "arc56-generated-aksha-b5001e0b added to PyPI",
+          "link": "https://pypi.org/project/arc56-generated-aksha-b5001e0b/",
           "date": "8 Aug 2026",
-          "summary": "GCP IAM Privilege-Escalation Attack-Path Analyzer — Free open-source alternative to Wiz/Orca"
+          "summary": "Generated ARC-56 Algorand smart-contract clients for akshayaaa727/fact-funders."
         },
         {
-          "title": "file-easy added to PyPI",
-          "link": "https://pypi.org/project/file-easy/",
+          "title": "msxls2xlsx added to PyPI",
+          "link": "https://pypi.org/project/msxls2xlsx/",
           "date": "8 Aug 2026",
-          "summary": "File handling, but made easy"
+          "summary": "Convert legacy Excel XLS files to XLSX/XLSM with source preservation"
         },
         {
-          "title": "fusha-msa added to PyPI",
-          "link": "https://pypi.org/project/fusha-msa/",
+          "title": "arc56-generated-akita-5cada353 added to PyPI",
+          "link": "https://pypi.org/project/arc56-generated-akita-5cada353/",
           "date": "8 Aug 2026",
-          "summary": "Explainable Arabic dialect-to-MSA converter. Word-by-word rewrite from dialect (Egyptian, Levantine) to Modern Standard Arabic with per-word explanations."
+          "summary": "Generated ARC-56 Algorand smart-contract clients for akita-protocol/akita-sc."
         },
         {
-          "title": "takopy added to PyPI",
-          "link": "https://pypi.org/project/takopy/",
+          "title": "arc56-generated-ajbon-a52d1702 added to PyPI",
+          "link": "https://pypi.org/project/arc56-generated-ajbon-a52d1702/",
           "date": "8 Aug 2026",
-          "summary": "Create Jira tickets from your shell — or from Claude Code session context."
+          "summary": "Generated ARC-56 Algorand smart-contract clients for ajboni/algorand-typescript-workshop."
         },
         {
-          "title": "task-system added to PyPI",
-          "link": "https://pypi.org/project/task-system/",
+          "title": "tftree2d-vision added to PyPI",
+          "link": "https://pypi.org/project/tftree2d-vision/",
           "date": "8 Aug 2026",
-          "summary": "Placeholder. Reserved by Spheriously; the real package is private and installed from source."
+          "summary": "2D TF tree viewer/editor UI built on tftree-manager services"
         },
         {
-          "title": "flowchart-charter-engine added to PyPI",
-          "link": "https://pypi.org/project/flowchart-charter-engine/",
+          "title": "plot3d-vehicle-sensor added to PyPI",
+          "link": "https://pypi.org/project/plot3d-vehicle-sensor/",
           "date": "8 Aug 2026",
-          "summary": "Execution-first multi-agent engine: YAML Charterfiles, TPC fear metrics, Muscle-Memory vectors, Boss hierarchy — the process alternative to GraphRAG."
+          "summary": "Headless and optional UI 3D vehicle/sensor orientation plotting based on tftree-manager workspaces"
         },
         {
-          "title": "beadle added to PyPI",
-          "link": "https://pypi.org/project/beadle/",
+          "title": "minieye-runtime-config added to PyPI",
+          "link": "https://pypi.org/project/minieye-runtime-config/",
           "date": "8 Aug 2026",
-          "summary": "Build an AI employee without building an agent platform — deterministic checks, one-shot judgment, and a gate that keeps the model out of the loop on quiet days."
+          "summary": "Strict v1 runtime, path, private configuration, initialization, and migration helpers."
         },
         {
-          "title": "testbricks added to PyPI",
-          "link": "https://pypi.org/project/testbricks/",
+          "title": "minieye-d0a-tools added to PyPI",
+          "link": "https://pypi.org/project/minieye-d0a-tools/",
           "date": "8 Aug 2026",
-          "summary": "A set of proxy objects to facilitate testing of Databricks notebooks in CI/CD pipelines"
+          "summary": "CLI tools for comparing and locally installing D_pypi packages."
         },
         {
-          "title": "Flask-Dayjs added to PyPI",
-          "link": "https://pypi.org/project/flask-dayjs/",
+          "title": "django-captcha-kit added to PyPI",
+          "link": "https://pypi.org/project/django-captcha-kit/",
           "date": "8 Aug 2026",
-          "summary": "Formatting of dates and times in Flask templates using day.js."
+          "summary": "Interchangeable CAPTCHA service for Django (Turnstile, reCAPTCHA, hCaptcha) with zero dependencies."
         },
         {
-          "title": "ml-pipes-lang added to PyPI",
-          "link": "https://pypi.org/project/ml-pipes-lang/",
+          "title": "hyperroute-mcp added to PyPI",
+          "link": "https://pypi.org/project/hyperroute-mcp/",
           "date": "8 Aug 2026",
-          "summary": "OpenAI Responses API invocation for ml-pipes"
+          "summary": "MCP server for HyperRoute — routes each task to the best external tool and runs it for your coordinator agent."
         },
         {
-          "title": "wappalyzer-python3 added to PyPI",
-          "link": "https://pypi.org/project/wappalyzer-python3/",
+          "title": "action0-service added to PyPI",
+          "link": "https://pypi.org/project/action0-service/",
           "date": "8 Aug 2026",
-          "summary": "Identify the technologies used on websites. Maintained fork of the archived python-Wappalyzer by Chris Horsley (chorsley) and contributors."
+          "summary": "Lightweight service registry and dependency injection framework"
         },
         {
-          "title": "ml-pipes-agent added to PyPI",
-          "link": "https://pypi.org/project/ml-pipes-agent/",
+          "title": "sae-arabic added to PyPI",
+          "link": "https://pypi.org/project/sae-arabic/",
           "date": "8 Aug 2026",
-          "summary": "OpenAI Agents SDK invocation for ml-pipes"
+          "summary": "Open-source toolkit for training and causally validating Sparse Autoencoder (SAE) features in Arabic LLMs using ALDi as external ground truth."
         },
         {
-          "title": "wavqwise added to PyPI",
-          "link": "https://pypi.org/project/wavqwise/",
+          "title": "scet-toolkit added to PyPI",
+          "link": "https://pypi.org/project/scet-toolkit/",
           "date": "8 Aug 2026",
-          "summary": "Pluggable temporal intelligence, Any model, Any signal, Five lines to forecast - Sense, Forecast, Alert."
+          "summary": "Shoreline Change Estimation Toolkit: extract shorelines from segmented imagery and compute change rates via OpenDSAS"
         },
         {
-          "title": "mini-code-agent added to PyPI",
-          "link": "https://pypi.org/project/mini-code-agent/",
+          "title": "janus-argos added to PyPI",
+          "link": "https://pypi.org/project/janus-argos/",
           "date": "8 Aug 2026",
-          "summary": "A terminal-based coding agent tool inspired by Claude Code"
+          "summary": "Argos, the DataHub watchdog: the desktop window for janus-datahub"
         },
         {
-          "title": "opencl-ocl added to PyPI",
-          "link": "https://pypi.org/project/opencl-ocl/",
+          "title": "sipora-server-catchers added to PyPI",
+          "link": "https://pypi.org/project/sipora-server-catchers/",
           "date": "8 Aug 2026",
-          "summary": "OpenCL acceleration for PyTorch neural network operations via libtorch tensors"
+          "summary": "A lightweight distributed in-memory caching server and Python client."
         },
         {
-          "title": "whereip-network added to PyPI",
-          "link": "https://pypi.org/project/whereip-network/",
+          "title": "textgraph-kg added to PyPI",
+          "link": "https://pypi.org/project/textgraph-kg/",
           "date": "8 Aug 2026",
-          "summary": "Which network announces an IP address, for whereip"
+          "summary": "Turn any textual corpus into a queryable knowledge graph with byte-level provenance on every claim. Local-first, deterministic, zero-LLM-by-default."
         },
         {
-          "title": "jetblack-ksql-dbapi added to PyPI",
-          "link": "https://pypi.org/project/jetblack-ksql-dbapi/",
+          "title": "freeleaps-redis added to PyPI",
+          "link": "https://pypi.org/project/freeleaps-redis/",
           "date": "8 Aug 2026",
-          "summary": "A vanilla and asyncio DBAPI interface for ksql"
+          "summary": "Name reserved by Freeleaps; the real package lives in a private registry. Do not depend on this placeholder."
         },
         {
-          "title": "sigorbit added to PyPI",
-          "link": "https://pypi.org/project/sigorbit/",
+          "title": "lihi-py added to PyPI",
+          "link": "https://pypi.org/project/lihi-py/",
           "date": "8 Aug 2026",
-          "summary": "Rotation-robust handwritten-signature embeddings with SO(2) canonicalization"
+          "summary": "Python SDK for the Lihi short-URL and SMS API"
         },
         {
-          "title": "synaster-client added to PyPI",
-          "link": "https://pypi.org/project/synaster-client/",
+          "title": "shopping-cli added to PyPI",
+          "link": "https://pypi.org/project/shopping-cli/",
           "date": "8 Aug 2026",
-          "summary": "Official Python SDK and CLI for SynAster"
+          "summary": "Standalone local-commerce AI consultation marketplace runtime"
         },
         {
-          "title": "tac-utils added to PyPI",
-          "link": "https://pypi.org/project/tac-utils/",
+          "title": "pse-edge-mcp added to PyPI",
+          "link": "https://pypi.org/project/pse-edge-mcp/",
           "date": "8 Aug 2026",
-          "summary": "Утилиты для консольных приложений"
+          "summary": "MCP server exposing Philippine Stock Exchange (PSE Edge) data — quotes, price history, disclosures, and more"
         },
         {
-          "title": "opencode-sdx added to PyPI",
-          "link": "https://pypi.org/project/opencode-sdx/",
+          "title": "MultiLangEngine added to PyPI",
+          "link": "https://pypi.org/project/multilangengine/",
           "date": "8 Aug 2026",
-          "summary": "Hexagonal-architected runtime that runs opencode (serve/agent) inside lightweight OS sandboxes on any machine."
+          "summary": "A fully customizable multi-language programming engine (Hinglish, Punjabi, Sanskrit, GenZ, etc.)"
         },
         {
-          "title": "bloomsieve added to PyPI",
-          "link": "https://pypi.org/project/bloomsieve/",
+          "title": "django-admin-tests added to PyPI",
+          "link": "https://pypi.org/project/django-admin-tests/",
           "date": "8 Aug 2026",
-          "summary": "A high-performance Python Bloom Filter with local mmap persistence and RedisBloom support."
+          "summary": "Automatic admin smoke-test coverage for Django projects."
         },
         {
-          "title": "Cayley-Calculator added to PyPI",
-          "link": "https://pypi.org/project/cayley-calculator/",
+          "title": "cie-inspector added to PyPI",
+          "link": "https://pypi.org/project/cie-inspector/",
           "date": "8 Aug 2026",
-          "summary": "Installing a fast table calculator for Cayley-Dickson numbers"
+          "summary": "Extract ROS 2 callback/CallbackGroup structure from source code — no build, no ROS required"
         },
         {
-          "title": "sodamem added to PyPI",
-          "link": "https://pypi.org/project/sodamem/",
+          "title": "tradezero-python added to PyPI",
+          "link": "https://pypi.org/project/tradezero-python/",
           "date": "8 Aug 2026",
-          "summary": "Evidence-grounded temporal memory for AI agents"
+          "summary": "Python client for the TradeZero Trading API"
         }
       ]
     }
