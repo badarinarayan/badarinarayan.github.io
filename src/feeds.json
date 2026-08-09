@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-09T16:23:39Z",
+  "generated": "2026-08-09T17:22:44Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -196,34 +196,16 @@
       "ok": true,
       "items": [
         {
-          "title": "Backed into a corner? Trump ready to end Iran war without nuclear deal - report",
-          "link": "https://timesofindia.indiatimes.com/world/us/trump-ready-to-end-iran-war-without-nuclear-deal-tehrans-demands-complicate-exit-report/articleshow/133069218.cms",
-          "date": "9 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "What Saudi-Pak-Turkey Mecca defence deal means for India's future military ops",
-          "link": "https://timesofindia.indiatimes.com/defence/news/can-india-still-pull-off-another-operation-sindoor-what-saudi-pak-turkey-mecca-defence-deal-means/articleshow/133065783.cms",
-          "date": "9 Aug 2026",
-          "summary": "The agreement comes as Saudi Arabia faces a difficult regional security environment shaped by the conflict involving Iran, Israel and the United States, threats from Iran-aligned groups and continuing concerns over the safety of energy infrastructure and marit…"
-        },
-        {
           "title": "Indian national accused of strangling US girlfriend arrested in Germany",
           "link": "https://timesofindia.indiatimes.com/world/us/indian-man-accused-of-strangling-us-girlfriend-after-she-planned-to-end-relationship-arrested-in-germany/articleshow/133064980.cms",
           "date": "9 Aug 2026",
           "summary": ""
         },
         {
-          "title": "Watch: PM Modi meets CWG medallists, says ‘Jo khelega, woh khilega’",
-          "link": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/watch-pm-modi-meets-cwg-medallists-says-jo-khelega-woh-khilega/articleshow/133070255.cms",
+          "title": "What is AI model distillation and why is it becoming a US-China flashpoint?",
+          "link": "https://timesofindia.indiatimes.com/defence/international/what-is-ai-model-distillation-and-why-is-it-becoming-a-us-china-flashpoint/articleshow/133065118.cms",
           "date": "9 Aug 2026",
-          "summary": "Prime Minister Narendra Modi met India’s Commonwealth Games 2026 medallists in New Delhi and congratulated them after the country finished fourth in Glasgow. Sharing a video, he wrote, \"Always #Cheer4Bharat.\" Modi told athletes, \"Jo khelega, woh khilega\" and l…"
-        },
-        {
-          "title": "Sundar Pichai's letter to Google staff on AI leadership change: 'We'll keep moving'",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/google-ceo-sundar-pichai-in-email-to-employees-on-jeff-dean-leaving-after-27-years-and-demis-hassabis-new-role-with-these-changes-we-are-going-to-/articleshow/133065968.cms",
-          "date": "9 Aug 2026",
-          "summary": "Google announced significant leadership changes within its DeepMind division. Demis Hassabis will now chair Google DeepMind and serve as Chief Scientist. Koray Kavukcuoglu steps up as Senior Vice President overseeing Gemini model development. Long-time employe…"
+          "summary": "The competition between the US and China in the realm of artificial intelligence has shifted focus towards harnessing model capabilities rather than merely their creation. AI model distillation enables smaller systems to mimic larger counterparts, which has sp…"
         },
         {
           "title": "6,6,6! Siraj goes boom with 3 sixes in final over as India seal six-wicket win - Watch",
@@ -232,16 +214,34 @@
           "summary": "Mohammed Siraj stunned Sri Lanka Cricket XI with an explosive 32 off 15 balls, smashing three consecutive sixes in the final over to seal India’s six-wicket win with three balls remaining. His unbeaten cameo included four sixes and a boundary. Yashasvi Jaiswal…"
         },
         {
-          "title": "'$200 bn market in 15 countries': Here's what India can do if US slaps 100% tariffs",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/200-billion-market-in-15-countries-heres-what-india-can-do-if-us-slaps-100-tariffs/articleshow/133069941.cms",
+          "title": "What happens after you apply for an organ transplant?",
+          "link": "https://timesofindia.indiatimes.com/india/what-happens-after-you-apply-for-an-organ-transplant/articleshow/133063497.cms",
           "date": "9 Aug 2026",
-          "summary": "As the US contemplates imposing substantial tariffs on Russian crude, India is strategically exploring alternative markets to bolster its exports. With fifteen potential markets worth an impressive two hundred billion dollars, Indian exporters are adapting to…"
+          "summary": "From medical evaluation and registry enrolment to waitlist priority, organ matching, surgery and lifelong follow-up, the transplant process in India involves multiple clinical, regulatory and coordination stages before a patient receives an organ."
         },
         {
-          "title": "ED director Rahul Navin gets 1-year extension",
-          "link": "https://timesofindia.indiatimes.com/india/ed-director-rahul-navin-gets-1-year-extension/articleshow/133070211.cms",
+          "title": "Sundar Pichai's letter to Google staff on AI leadership change: 'We'll keep moving'",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/google-ceo-sundar-pichai-in-email-to-employees-on-jeff-dean-leaving-after-27-years-and-demis-hassabis-new-role-with-these-changes-we-are-going-to-/articleshow/133065968.cms",
+          "date": "9 Aug 2026",
+          "summary": "Google announced significant leadership changes within its DeepMind division. Demis Hassabis will now chair Google DeepMind and serve as Chief Scientist. Koray Kavukcuoglu steps up as Senior Vice President overseeing Gemini model development. Long-time employe…"
+        },
+        {
+          "title": "Backed into a corner? Trump ready to end Iran war without nuclear deal - report",
+          "link": "https://timesofindia.indiatimes.com/world/us/trump-ready-to-end-iran-war-without-nuclear-deal-tehrans-demands-complicate-exit-report/articleshow/133069218.cms",
           "date": "9 Aug 2026",
           "summary": ""
+        },
+        {
+          "title": "'We know how to stand up to American ideas': Netanyahu rejects Trump's 15-point Gaza plan",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/we-know-how-to-stand-up-to-american-ideas-israeli-pm-netanyahu-rejects-trumps-15-point-gaza-plan/articleshow/133066764.cms",
+          "date": "9 Aug 2026",
+          "summary": "Israel has turned down a US proposal regarding the peace process in Gaza, with Prime Minister Netanyahu firmly asserting that Hamas must be completely disarmed before any Israeli forces withdraw. He mentioned that discussions are ongoing with Washington. Conve…"
+        },
+        {
+          "title": "US Navy needs 66 attack submarines but fleet could fall to 46-47 by 2030",
+          "link": "https://timesofindia.indiatimes.com/defence/international/uss-san-juan-retires-us-navy-needs-66-attack-submarines-but-fleet-could-fall-to-46-47-by-2030/articleshow/133071322.cms",
+          "date": "9 Aug 2026",
+          "summary": "The USS San Juan submarine retired after thirty-eight years of service. Aging submarines are leaving service faster than new ones are delivered. This creates a significant gap in the United States attack submarine fleet. Production challenges and other naval p…"
         },
         {
           "title": "Michael Dell son’s startup offers $695 alternative to costly home generators",
@@ -250,22 +250,22 @@
           "summary": "Zach Dell's Base Power is installing home battery systems across America. These systems offer backup power and reduce electricity bills for customers. The company aims to replace expensive gas generators with its innovative technology. Base Power is rapidly ex…"
         },
         {
-          "title": "Sarfaraz Khan replaces Sai Sudharsan in India squad for Sri Lanka Tests",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/sarfaraz-khan-replaces-sai-sudharsan-in-india-squad-for-sri-lanka-tests/articleshow/133069271.cms",
+          "title": "Will Kuldeep Yadav play? India coach reveals big selection headache ahead of Galle Test",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/will-kuldeep-yadav-play-india-coach-reveals-big-selection-headache-ahead-of-galle-test/articleshow/133070219.cms",
           "date": "9 Aug 2026",
-          "summary": "India's Test squad sees a new addition as Sarfaraz Khan steps in for the injured Sai Sudharsan ahead of the Sri Lanka series. Sudharsan is sidelined due to a toe injury. The selectors felt Sarfaraz's middle-order experience would be invaluable. After a warm-up…"
+          "summary": "India's spin bowling coach addressed worries about Kuldeep Yadav's fitness after the warm-up match, highlighting that Kuldeep bowled almost twenty overs before taking a precautionary break to evaluate his condition. Fellow spinners Jadeja and Suthar garnered e…"
         },
         {
-          "title": "Morning coffee and sunshine: A simple habit that may boost your health",
-          "link": "https://timesofindia.indiatimes.com/etimes/wellness/take-your-morning-coffee-with-a-side-of-sunshine-what-this-simple-habit-can-do-for-your-health/articleshow/133069567.cms",
+          "title": "California's 1986 sewage marshes now a 307-acre sanctuary for 300+ bird species",
+          "link": "https://timesofindia.indiatimes.com/world/us/in-1986-a-california-city-began-polishing-sewage-through-constructed-marshes-the-307-acre-system-is-now-a-wildlife-sanctuary-that-has-hosted-over-300-bird-species/articleshow/133069284.cms",
           "date": "9 Aug 2026",
-          "summary": "Getting outside for natural light in the morning aids your body's sleep-regulating mechanisms. Just fifteen to thirty minutes of sunlight exposure can help you feel more awake and rejuvenated. Unlike indoor lighting, outdoor sunlight provides the necessary cue…"
+          "summary": "Arcata's groundbreaking wastewater treatment approach utilizes beautifully designed constructed wetlands, turning once barren industrial land into a vibrant wildlife haven. This innovative system now attracts over 300 bird species migrating along the Pacific F…"
         },
         {
-          "title": "New York's Bluebelt wetlands saved $80 million in infrastructure costs",
-          "link": "https://timesofindia.indiatimes.com/world/us/in-the-1990s-new-york-chose-wetlands-over-conventional-storm-sewers-on-staten-island-the-bluebelt-strategy-saved-taxpayers-80-million-in-infrastructure-costs/articleshow/133069096.cms",
+          "title": "Shot 4 times while pregnant, mom sees daughter graduate 18 years later",
+          "link": "https://timesofindia.indiatimes.com/life-style/people/rose-smith-was-shot-four-times-while-pregnant-in-2007-gave-birth-to-baby-girl-miracle-18-years-later-she-gets-emotional-watching-daughter-graduate/articleshow/133070882.cms",
           "date": "9 Aug 2026",
-          "summary": "In an innovative move, New York City has turned to its natural wetlands for stormwater management, resulting in significant cost savings. The Bluebelt initiative has replaced expensive underground drainage systems with revitalized waterways, integrating both g…"
+          "summary": "Rose Smith was shot four times in a 2007 drive-by shooting while three months pregnant. Doctors feared her baby might not survive surgery, but six months later she gave birth to a daughter she named Miracle. Now 18, Miracle has graduated high school, leaving S…"
         },
         {
           "title": "NYC Mayor Zohran Mamdani extends tax deadline after residents call emails 'unclear'",
@@ -280,16 +280,16 @@
           "summary": "The Pradhan Mantri Awas Yojana-Urban has granted over 1.25 crore homes, with more than one crore completed to date. Notably, one crore of those houses were designated for women beneficiaries nationwide. Recently, the scheme approved an additional 2.09 lakh hom…"
         },
         {
-          "title": "Clean power push: India hits 300 GW non-fossil capacity milestone ahead of 2030 target",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/clean-power-push-india-hits-300-gw-non-fossil-capacity-milestone-ahead-of-2030-target/articleshow/133070158.cms",
+          "title": "What Saudi-Pak-Turkey Mecca defence deal means for India's future military ops",
+          "link": "https://timesofindia.indiatimes.com/defence/news/can-india-still-pull-off-another-operation-sindoor-what-saudi-pak-turkey-mecca-defence-deal-means/articleshow/133065783.cms",
           "date": "9 Aug 2026",
-          "summary": "India has now achieved over 300 GW of non-fossil fuel electricity generation capacity. This significant milestone represents more than half of the nation's total installed power capacity. Solar power leads this expansion, followed by wind and hydro energy sour…"
+          "summary": "The agreement comes as Saudi Arabia faces a difficult regional security environment shaped by the conflict involving Iran, Israel and the United States, threats from Iran-aligned groups and continuing concerns over the safety of energy infrastructure and marit…"
         },
         {
-          "title": "'Stones thrown to kill Mamata on CM's order': TMC MPs allege 'attempt to murder'",
-          "link": "https://timesofindia.indiatimes.com/india/attempt-to-murder-tmc-mps-blame-bjp-for-attack-on-mamata-banerjees-car-claim-cm-suvendu-link/articleshow/133069189.cms",
+          "title": "Watch: PM Modi meets CWG medallists, says ‘Jo khelega, woh khilega’",
+          "link": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/watch-pm-modi-meets-cwg-medallists-says-jo-khelega-woh-khilega/articleshow/133070255.cms",
           "date": "9 Aug 2026",
-          "summary": "Trinamool Congress leaders accused the BJP of orchestrating an attack on Mamata Banerjee's vehicle. Stones and objects were reportedly hurled at her car while she traveled to meet a grieving family. TMC MPs described the incident as an attempt to murder and a…"
+          "summary": "Prime Minister Narendra Modi met India’s Commonwealth Games 2026 medallists in New Delhi and congratulated them after the country finished fourth in Glasgow. Sharing a video, he wrote, \"Always #Cheer4Bharat.\" Modi told athletes, \"Jo khelega, woh khilega\" and l…"
         },
         {
           "title": "Stephen and Ayesha Curry reach $100 million milestone through their foundation",
@@ -308,6 +308,36 @@
           "link": "https://timesofindia.indiatimes.com/sports/international-sports/inspiring-story-of-the-day-my-parents-always-worked-hard-they-gave-me-the-freedom-to-choose-how-jannik-sinner-turned-mountain-roots-and-family-values-into-tennis-glory/articleshow/133044222.cms",
           "date": "8 Aug 2026",
           "summary": "Jannik Sinner’s rise to world No. 1 is about much more than tennis. Growing up in a hardworking family, leaving home at 14 and always having his parents’ support helped shape the person he is today. Their trust and freedom gave him the confidence to follow his…"
+        },
+        {
+          "title": "'$200 bn market in 15 countries': Here's what India can do if US slaps 100% tariffs",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/200-billion-market-in-15-countries-heres-what-india-can-do-if-us-slaps-100-tariffs/articleshow/133069941.cms",
+          "date": "9 Aug 2026",
+          "summary": "As the US contemplates imposing substantial tariffs on Russian crude, India is strategically exploring alternative markets to bolster its exports. With fifteen potential markets worth an impressive two hundred billion dollars, Indian exporters are adapting to…"
+        },
+        {
+          "title": "ED director Rahul Navin gets 1-year extension",
+          "link": "https://timesofindia.indiatimes.com/india/ed-director-rahul-navin-gets-1-year-extension/articleshow/133070211.cms",
+          "date": "9 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Sarfaraz Khan replaces Sai Sudharsan in India squad for Sri Lanka Tests",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/sarfaraz-khan-replaces-sai-sudharsan-in-india-squad-for-sri-lanka-tests/articleshow/133069271.cms",
+          "date": "9 Aug 2026",
+          "summary": "India's Test squad sees a new addition as Sarfaraz Khan steps in for the injured Sai Sudharsan ahead of the Sri Lanka series. Sudharsan is sidelined due to a toe injury. The selectors felt Sarfaraz's middle-order experience would be invaluable. After a warm-up…"
+        },
+        {
+          "title": "Clean power push: India hits 300 GW non-fossil capacity milestone ahead of 2030 target",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/clean-power-push-india-hits-300-gw-non-fossil-capacity-milestone-ahead-of-2030-target/articleshow/133070158.cms",
+          "date": "9 Aug 2026",
+          "summary": "India has now achieved over 300 GW of non-fossil fuel electricity generation capacity. This significant milestone represents more than half of the nation's total installed power capacity. Solar power leads this expansion, followed by wind and hydro energy sour…"
+        },
+        {
+          "title": "'Stones thrown to kill Mamata on CM's order': TMC MPs allege 'attempt to murder'",
+          "link": "https://timesofindia.indiatimes.com/india/attempt-to-murder-tmc-mps-blame-bjp-for-attack-on-mamata-banerjees-car-claim-cm-suvendu-link/articleshow/133069189.cms",
+          "date": "9 Aug 2026",
+          "summary": "Trinamool Congress leaders accused the BJP of orchestrating an attack on Mamata Banerjee's vehicle. Stones and objects were reportedly hurled at her car while she traveled to meet a grieving family. TMC MPs described the incident as an attempt to murder and a…"
         },
         {
           "title": "Skyroot founder reacts to PM Modi's 'first in my bloodline' remark",
@@ -344,36 +374,6 @@
           "link": "https://timesofindia.indiatimes.com/india/jharkhand-govt-rejects-cgl-exam-cancellation-demand-students-vow-to-intensify-agitation/articleshow/133068114.cms",
           "date": "9 Aug 2026",
           "summary": ""
-        },
-        {
-          "title": "DGCA to conduct preliminary probe into Baramati aircraft runway excursion: Centre",
-          "link": "https://timesofindia.indiatimes.com/india/dgca-to-conduct-preliminary-probe-into-baramati-aircraft-runway-excursion-centre/articleshow/133069361.cms",
-          "date": "9 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Iran to release more footage of Supreme Leader as health rumours intensify",
-          "link": "https://timesofindia.indiatimes.com/world/middle-east/supreme-leader-khamenei-footage-to-be-released-in-future-iran-says-as-reports-claim-he-is-close-to-dead/articleshow/133068260.cms",
-          "date": "9 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "'Hellscape' strategy: How Taiwan plans to use drones to stop China in its tracks",
-          "link": "https://timesofindia.indiatimes.com/defence/international/hellscape-strategy-how-taiwan-plans-to-use-drones-to-stop-china-in-its-tracks/articleshow/133067936.cms",
-          "date": "9 Aug 2026",
-          "summary": "Taiwan is rapidly building drone fleets to deter a Chinese invasion. This strategy draws lessons from Ukraine's successful drone warfare against Russia. The island aims to produce 100,000 drones monthly by 2030 for defense. Taiwanese companies are also expandi…"
-        },
-        {
-          "title": "India tick boxes in warm-up: Captain Gill fit, Jaiswal finds rhythm, Brar impresses",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/india-tick-boxes-in-warm-up-captain-shubman-gill-fit-yashasvi-jaiswal-finds-rhythm-gurnoor-brar-impresses/articleshow/133067373.cms",
-          "date": "9 Aug 2026",
-          "summary": "Shubman Gill's return to the middle, Yashasvi Jaiswal's fluent knock and Gurnoor Brar's impressive outing gave India plenty of positives in their Colombo warm-up, while a surprise visit from Sri Lanka head coach Gary Kirsten added an interesting subplot ahead…"
-        },
-        {
-          "title": "Ex-US Prez Biden’s cancer ‘painful, spread into his bones &amp; further’, says son Hunter",
-          "link": "https://timesofindia.indiatimes.com/world/us/ex-us-president-joe-bidens-cancer-painful-spread-into-his-bones-and-further-says-son-hunter/articleshow/133068457.cms",
-          "date": "9 Aug 2026",
-          "summary": "Hunter Biden revealed that his father's prostate cancer has metastasized to his bones, which brings considerable pain and debilitation. Despite this aggressive diagnosis, Joe Biden continues to undergo radiation and hormone therapies, maintaining an optimistic…"
         }
       ]
     },
@@ -1152,6 +1152,12 @@
       "ok": true,
       "items": [
         {
+          "title": "OpenAI Announces It's Enhancing Security Controls, Pausing Some Work for New AI Model Astra",
+          "link": "https://it.slashdot.org/story/26/08/09/1640211/openai-announces-its-enhancing-security-controls-pausing-some-work-for-new-ai-model-astra?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "9 Aug 2026",
+          "summary": "OpenAI announced Friday it's pausing work on its Astra AI model because of security concerns. The Guardian reports: The company had evaluated the agent, Astra, and found \"significant advancements in agentic coding and cybersecurity\", which had moved to a \"crit…"
+        },
+        {
           "title": "Brain Activity Reveals the Melodies That People Imagine",
           "link": "https://science.slashdot.org/story/26/08/09/0050249/brain-activity-reveals-the-melodies-that-people-imagine?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "9 Aug 2026",
@@ -1234,12 +1240,6 @@
           "link": "https://science.slashdot.org/story/26/08/08/0410218/before-and-after-views-of-spacex-rockets-moon-crash?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "8 Aug 2026",
           "summary": "A South Korean lunar orbiter has captured the first before-and-after images of the Moon's crash scene caused by a stray SpaceX Falcon 9 rocket. The Associated Press reports: The Korea Aerospace Research Institute's Danuri spacecraft flew over the impact site s…"
-        },
-        {
-          "title": "NASA Figured Out How To Keep Its 48-Year-Old Voyager 2 Probe Running For Yet Another Year",
-          "link": "https://science.slashdot.org/story/26/08/08/0415215/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "8 Aug 2026",
-          "summary": "NASA has squeezed at least another year of science out of Voyager 2 by cutting power to nonessential systems and switching to lower-power alternatives. Voyager 1 is expected to receive the same power-saving changes in the coming months. Space.com reports: Voya…"
         }
       ]
     },
@@ -1630,184 +1630,184 @@
       "ok": true,
       "items": [
         {
-          "title": "zimerate added to PyPI",
-          "link": "https://pypi.org/project/zimerate/",
+          "title": "datasluice added to PyPI",
+          "link": "https://pypi.org/project/datasluice/",
           "date": "9 Aug 2026",
-          "summary": "A ZIM file reader for the terminal"
+          "summary": "One Python interface for open-data discovery, extraction, format normalization, and pipeline integration"
         },
         {
-          "title": "rosbag-doctor added to PyPI",
-          "link": "https://pypi.org/project/rosbag-doctor/",
+          "title": "athanor_bio_tools added to PyPI",
+          "link": "https://pypi.org/project/athanor-bio-tools/",
           "date": "9 Aug 2026",
-          "summary": "Check ROS 2 bags for timing gaps, bad rates, timestamp problems, coverage loss, and sensor-sync issues."
+          "summary": "Install, run, and inspect computational biology and chemistry tools, e.g. AlphaFold, Boltz, RFdiffusion, and ProteinMPNN"
         },
         {
-          "title": "quantcoda added to PyPI",
-          "link": "https://pypi.org/project/quantcoda/",
+          "title": "GyRAPH added to PyPI",
+          "link": "https://pypi.org/project/gyraph/",
           "date": "9 Aug 2026",
-          "summary": "QuantCoda A 股量化数据 API 官方 Python SDK：行情、财务、资金流、龙虎榜，一个 Key 全部拿到"
+          "summary": "None"
         },
         {
-          "title": "security-ai-scanner added to PyPI",
-          "link": "https://pypi.org/project/security-ai-scanner/",
+          "title": "supaapps-platform93-webhooks added to PyPI",
+          "link": "https://pypi.org/project/supaapps-platform93-webhooks/",
           "date": "9 Aug 2026",
-          "summary": "AI-powered security scanner for source code, driven by agentic LLM analysis with SARIF output"
+          "summary": "Platform93 webhook signature verification"
         },
         {
-          "title": "perp-md added to PyPI",
-          "link": "https://pypi.org/project/perp-md/",
+          "title": "agent-ledger-harness added to PyPI",
+          "link": "https://pypi.org/project/agent-ledger-harness/",
           "date": "9 Aug 2026",
-          "summary": "Typed, asynchronous open-interest market data adapters"
+          "summary": "Deterministic Obsidian Markdown and Git-backed personal work ledger"
         },
         {
-          "title": "variometer added to PyPI",
-          "link": "https://pypi.org/project/variometer/",
+          "title": "nooie-proxy added to PyPI",
+          "link": "https://pypi.org/project/nooie-proxy/",
           "date": "9 Aug 2026",
-          "summary": "Variometer — multi-year cash-flow and net-worth planning for tech workers with equity comp"
+          "summary": "A live MPEG-TS stream from your own Nooie IP camera"
         },
         {
-          "title": "vekna added to PyPI",
-          "link": "https://pypi.org/project/vekna/",
+          "title": "cogkura added to PyPI",
+          "link": "https://pypi.org/project/cogkura/",
           "date": "9 Aug 2026",
-          "summary": "Run coding agents as rituals: ordinary Python programs whose steps you control"
+          "summary": "Research-driven cognitive memory framework for AI systems."
         },
         {
-          "title": "metamer added to PyPI",
-          "link": "https://pypi.org/project/metamer/",
+          "title": "otter-mcp added to PyPI",
+          "link": "https://pypi.org/project/otter-mcp/",
           "date": "9 Aug 2026",
-          "summary": "Fit stochastic noise models to time series and select among them by information criteria."
+          "summary": "Otter MCP — repository brain and verification layer for AI coding agents"
         },
         {
-          "title": "officework added to PyPI",
-          "link": "https://pypi.org/project/officework/",
+          "title": "git-hop added to PyPI",
+          "link": "https://pypi.org/project/git-hop/",
           "date": "9 Aug 2026",
-          "summary": "帳票を壊さない xlsx エンジンと、動いているオフィスソフトを Python から操る橋"
+          "summary": "Helper for quick git branch hopping."
         },
         {
-          "title": "bitcask-dataset added to PyPI",
-          "link": "https://pypi.org/project/bitcask-dataset/",
+          "title": "ratefence added to PyPI",
+          "link": "https://pypi.org/project/ratefence/",
           "date": "9 Aug 2026",
-          "summary": "A small, mmap-backed dataset for keyed byte blobs"
+          "summary": "Read-only AWS cost-findings CLI: scan for savings, generate Terraform/CloudFormation fixes, export evidence."
         },
         {
-          "title": "whybig added to PyPI",
-          "link": "https://pypi.org/project/whybig/",
+          "title": "pluggle added to PyPI",
+          "link": "https://pypi.org/project/pluggle/",
           "date": "9 Aug 2026",
-          "summary": "Why is this so big? Treemap + ranked culprits and fixes for Docker images, Python wheels, model checkpoints, JS bundles, and git repos."
+          "summary": "Generic, plugin-based ETL & data sync engine."
         },
         {
-          "title": "pyverdikt added to PyPI",
-          "link": "https://pypi.org/project/pyverdikt/",
+          "title": "agentclose added to PyPI",
+          "link": "https://pypi.org/project/agentclose/",
           "date": "9 Aug 2026",
-          "summary": "Configurable LLM-as-judge library: pluggable judges, multi-model broadcast, consensus, and resumable pipelines."
+          "summary": "Python SDK and read-only MCP server for AgentClose"
         },
         {
-          "title": "licensify-sdk added to PyPI",
-          "link": "https://pypi.org/project/licensify-sdk/",
+          "title": "django-agentweb added to PyPI",
+          "link": "https://pypi.org/project/django-agentweb/",
           "date": "9 Aug 2026",
-          "summary": "Python SDK for Licensify license authentication — one call to authenticate, with encrypted key exchange, server-identity verification and heartbeat handled for you."
+          "summary": "Make Django sites first-class citizens of the agentic web: llms.txt, Schema.org/JSON-LD, agent discovery, WebMCP tools, agentic commerce/booking and SDF — per-site opt-in."
         },
         {
-          "title": "aiwonderland.functools added to PyPI",
-          "link": "https://pypi.org/project/aiwonderland-functools/",
+          "title": "whetstonehq added to PyPI",
+          "link": "https://pypi.org/project/whetstonehq/",
           "date": "9 Aug 2026",
-          "summary": "Additional functools in the spirit of the standard library."
+          "summary": "A model that trains itself overnight — and proves it didn't cheat."
         },
         {
-          "title": "aiwonderland added to PyPI",
-          "link": "https://pypi.org/project/aiwonderland/",
+          "title": "supaapps-platform93-auth added to PyPI",
+          "link": "https://pypi.org/project/supaapps-platform93-auth/",
           "date": "9 Aug 2026",
-          "summary": "Additional functools in the spirit of the standard library."
+          "summary": "Strict Platform93 JWT verification"
         },
         {
-          "title": "sphinx-umlet added to PyPI",
-          "link": "https://pypi.org/project/sphinx-umlet/",
+          "title": "retrocat added to PyPI",
+          "link": "https://pypi.org/project/retrocat/",
           "date": "9 Aug 2026",
-          "summary": "Add a short description here!"
+          "summary": "Retrospective conversion cataloging: paired ISBN/barcode scans -> validated MARC21 for bulk import into a library ILS"
         },
         {
-          "title": "resumable-file-upload added to PyPI",
-          "link": "https://pypi.org/project/resumable-file-upload/",
+          "title": "hexcolor-tools added to PyPI",
+          "link": "https://pypi.org/project/hexcolor-tools/",
           "date": "9 Aug 2026",
-          "summary": "Chunked, resumable file uploads for Python backends — resume after failure without re-sending what already arrived."
+          "summary": "Fast Python color converter, RGB to HSL calculator, and hex code validator by HexColor.ie"
         },
         {
-          "title": "telegram-managed-bot-factory added to PyPI",
-          "link": "https://pypi.org/project/telegram-managed-bot-factory/",
+          "title": "maf-sandbox-acas added to PyPI",
+          "link": "https://pypi.org/project/maf-sandbox-acas/",
           "date": "9 Aug 2026",
-          "summary": "A secure MCP control plane for Telegram Managed Bots"
+          "summary": "Azure Container Apps Sandboxes as a sandbox backend for Microsoft Agent Framework agents — reference implementation of agent-framework#7568."
         },
         {
-          "title": "pynetlearn added to PyPI",
-          "link": "https://pypi.org/project/pynetlearn/",
+          "title": "protonvpn-cli-linux added to PyPI",
+          "link": "https://pypi.org/project/protonvpn-cli-linux/",
           "date": "9 Aug 2026",
-          "summary": "Plataforma interactiva para la experimentación en Machine Learning y Deep Learning basada en Python"
+          "summary": "Community Linux CLI for ProtonVPN"
         },
         {
-          "title": "privyscope-ja added to PyPI",
-          "link": "https://pypi.org/project/privyscope-ja/",
+          "title": "awgit added to PyPI",
+          "link": "https://pypi.org/project/awgit/",
           "date": "9 Aug 2026",
-          "summary": "privyscope-ja — Japanese language pack for the privyscope PII engine"
+          "summary": "Aither World-Graph git — semantic version control on top of git: edit-ops keyed on stable node ids, content-addressed bodies, differential sync."
         },
         {
-          "title": "easyprotolib added to PyPI",
-          "link": "https://pypi.org/project/easyprotolib/",
+          "title": "netcurfew added to PyPI",
+          "link": "https://pypi.org/project/netcurfew/",
           "date": "9 Aug 2026",
-          "summary": "A Minecraft protocol library written in Python."
+          "summary": "Parental internet timer & screen-time control daemon"
         },
         {
-          "title": "fewertokens added to PyPI",
-          "link": "https://pypi.org/project/fewertokens/",
+          "title": "combee added to PyPI",
+          "link": "https://pypi.org/project/combee/",
           "date": "9 Aug 2026",
-          "summary": "FewerTokens Python SDK — control-plane routing with local LiteLLM dispatch"
+          "summary": "Combee SDK — One app, one Cell. SQL + KV included."
         },
         {
-          "title": "bybit-predict added to PyPI",
-          "link": "https://pypi.org/project/bybit-predict/",
+          "title": "risforge added to PyPI",
+          "link": "https://pypi.org/project/risforge/",
           "date": "9 Aug 2026",
-          "summary": "Rule-based cryptocurrency market analysis and reproducible backtesting using Bybit V5 market data."
+          "summary": "Clean, deduplicate, and enrich RIS bibliographic files for systematic reviews."
         },
         {
-          "title": "saihm-langgraph added to PyPI",
-          "link": "https://pypi.org/project/saihm-langgraph/",
+          "title": "oxipy added to PyPI",
+          "link": "https://pypi.org/project/oxipy/",
           "date": "9 Aug 2026",
-          "summary": "Long-term memory for LangGraph your users own — a drop-in BaseStore, portable across every model, sealed client-side, and provably erasable (GDPR Art. 17)."
+          "summary": "Python client for Oxidized API with TTP-based config parsing"
         },
         {
-          "title": "Seacret added to PyPI",
-          "link": "https://pypi.org/project/seacret/",
+          "title": "fastpluggy-docker added to PyPI",
+          "link": "https://pypi.org/project/fastpluggy-docker/",
           "date": "9 Aug 2026",
-          "summary": "Seacret is a encryption package that adds non intelegable version of core python functions"
+          "summary": "Placeholder to reserve this name — not the real package."
         },
         {
-          "title": "mighty-mouse-mcp added to PyPI",
-          "link": "https://pypi.org/project/mighty-mouse-mcp/",
+          "title": "routeros-client added to PyPI",
+          "link": "https://pypi.org/project/routeros-client/",
           "date": "9 Aug 2026",
-          "summary": "MCP transport for Mighty Mouse project verification and coding protocols"
+          "summary": "Client MikroTik RouterOS multi-transport : API binaire, SSH et REST sous une seule et même surface d'API."
         },
         {
-          "title": "UniMath-lituus added to PyPI",
-          "link": "https://pypi.org/project/unimath-lituus/",
+          "title": "mode-sdk added to PyPI",
+          "link": "https://pypi.org/project/mode-sdk/",
           "date": "9 Aug 2026",
-          "summary": "Python binding for the UniMath C library"
+          "summary": "Unofficial Python SDK for the Mode Analytics REST and Discovery APIs"
         },
         {
-          "title": "mighty-mouse added to PyPI",
-          "link": "https://pypi.org/project/mighty-mouse/",
+          "title": "caniollama added to PyPI",
+          "link": "https://pypi.org/project/caniollama/",
           "date": "9 Aug 2026",
-          "summary": "Provider-agnostic coding protocols and project verification for AI agents"
+          "summary": "Standardized compatibility checker for local Ollama model tool-calling support"
         },
         {
-          "title": "agentmuru added to PyPI",
-          "link": "https://pypi.org/project/agentmuru/",
+          "title": "frame-extractor-ffmpeg added to PyPI",
+          "link": "https://pypi.org/project/frame-extractor-ffmpeg/",
           "date": "9 Aug 2026",
-          "summary": "A Python-native runtime and workspace for observable, human-governed AI applications."
+          "summary": "Extract frames from a video within a time range, using ffmpeg."
         },
         {
-          "title": "vq-openmemory added to PyPI",
-          "link": "https://pypi.org/project/vq-openmemory/",
+          "title": "qi-agent added to PyPI",
+          "link": "https://pypi.org/project/qi-agent/",
           "date": "9 Aug 2026",
-          "summary": "A 100/100 Enterprise-grade, async, and mathematically secure AI Memory System."
+          "summary": "Python-first extensible agent backend, server, and built-in adapters"
         }
       ]
     }
