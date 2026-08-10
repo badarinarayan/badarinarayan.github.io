@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-10T17:43:51Z",
+  "generated": "2026-08-10T18:43:29Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,12 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "Archer Aviation shares jump nearly 10% on deal to acquire Boeing’s Wisk, two other units",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/archer-aviation-shares-jump-nearly-10-on-deal-to-acquire-boeings-wisk-two-other-units/articleshow/133126628.cms",
+          "date": "10 Aug 2026",
+          "summary": "Archer Aviation shares surged after agreeing to acquire Boeing's Wisk Aero and two other units. This strategic acquisition grants Archer access to Boeing's autonomous-flight technology and defence capabilities. Boeing will receive a significant stake in Archer…"
+        },
         {
           "title": "Has Dalal Street's near term outlook improved? HSBC lists 4 headwinds, 3 tailwinds to watch out for",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/has-dalal-streets-near-term-outlook-improved-hsbc-lists-4-headwinds-3-tailwinds-to-watch-out-for/articleshow/133097555.cms",
@@ -36,12 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/project-sudarsan-how-sebi-is-using-ai-to-police-finfluencers-with-60-of-investors-trusting-their-advice/articleshow/133099411.cms",
           "date": "10 Aug 2026",
           "summary": "Sebi is stepping up its use of artificial intelligence to monitor misleading financial advice on social media. Its Project Sudarsan tracks unsolicited advice, while Sebi R(AI)DAR reviews advertisements. The regulator said 62% of investors are influenced by fin…"
-        },
-        {
-          "title": "FIIs more than doubled their stakes in 11 multibaggers in June quarter. Do you own any?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-more-than-doubled-their-stakes-in-11-multibaggers-in-june-quarter-do-you-own-any/slideshow/133096409.cms",
-          "date": "10 Aug 2026",
-          "summary": "At least 34 BSE-listed companies with a market capitalisation above Rs 3,000 crore have delivered over 100% returns in the past six months. Notably, FIIs increased their holdings in 27 of these stocks during the June quarter, with stakes more than doubling in…"
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -196,22 +196,76 @@
       "ok": true,
       "items": [
         {
-          "title": "'You can laugh at solution': Sindhu reacts to monkey-proof Worlds preps",
-          "link": "https://timesofindia.indiatimes.com/sports/badminton/you-can-laugh-at-the-solution-pv-sindhu-reacts-to-monkey-proof-world-cships-preparations/articleshow/133112897.cms",
+          "title": "'Don't fall into political trap': J'khand CM Soren writes open letter to students",
+          "link": "https://timesofindia.indiatimes.com/india/dont-fall-into-political-trap-jharkhand-cm-soren-writes-open-letter-to-protesting-students/articleshow/133121434.cms",
           "date": "10 Aug 2026",
-          "summary": "PV Sindhu praised organisers preparing Delhi’s BWF World Championships venue after animals disrupted the India Open earlier this year. The Indira Gandhi Stadium has been upgraded with sealed vents, double doors, anti-pest gel and predator-call machines. Three…"
+          "summary": ""
         },
         {
-          "title": "Ethanol-blended diesel fails safety test, says govt; wider use ruled out for now",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/ethanol-blended-diesel-fails-safety-test-says-govt-wider-use-ruled-out-for-now/articleshow/133119219.cms",
+          "title": "'Unfortunate': Tiger Shroff won’t play for Mumbai FC in Durand Cup; here's why",
+          "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/really-unfortunate-tiger-shroff-wont-play-for-mumbai-fc-in-durand-cup-heres-why/articleshow/133122182.cms",
           "date": "10 Aug 2026",
-          "summary": "Ethanol-blended diesel fails safety specifications, lowering its flash point significantly. Public sector oil companies tested these blends, finding them unsuitable for current use. India is expanding ethanol use in petrol and exploring it for cooking fuel. Oi…"
+          "summary": "Shroff was included in Mumbai FC’s squad for the tournament on July 28, leading to speculation that he could make his competitive debut for the club. However, he confirmed that a last-minute work commitment will prevent him from travelling to Shillong for Mumb…"
         },
         {
           "title": "Mark Zuckerberg's $300m yacht booed over rescue call; clarification issued",
           "link": "https://timesofindia.indiatimes.com/technology/tech-news/after-mark-zuckerbergs-300-million-387-foot-yacht-launchpad-booed-for-not-responding-to-distress-call-by-stranded-small-cruise-ship-clarification-issued/articleshow/133094464.cms",
           "date": "10 Aug 2026",
           "summary": "In a surprising turn of events, Mark Zuckerberg's opulent yacht, Launchpad, faced backlash for not helping a stranded vessel within reach. Crew members clarified that they were on a different radio frequency and claimed assistance was imminent. A cruise ship l…"
+        },
+        {
+          "title": "'You can laugh at solution': Sindhu reacts to monkey-proof Worlds preps",
+          "link": "https://timesofindia.indiatimes.com/sports/badminton/you-can-laugh-at-the-solution-pv-sindhu-reacts-to-monkey-proof-world-cships-preparations/articleshow/133112897.cms",
+          "date": "10 Aug 2026",
+          "summary": "PV Sindhu praised organisers preparing Delhi’s BWF World Championships venue after animals disrupted the India Open earlier this year. The Indira Gandhi Stadium has been upgraded with sealed vents, double doors, anti-pest gel and predator-call machines. Accord…"
+        },
+        {
+          "title": "SpaceX retail investors sell $4.5 million in shares, first net outflow since IPO",
+          "link": "https://timesofindia.indiatimes.com/business/international-business/spacex-retail-investors-turn-net-sellers-for-first-time-since-ipo-offload-4-5-million-worth-of-shares/articleshow/133126012.cms",
+          "date": "10 Aug 2026",
+          "summary": "Retail investors turned into net sellers of SpaceX shares as of August 7, marking the end of a buying frenzy. This change coincided with a stock price recovery, indicating that individuals may be taking profits. The shares have struggled post-IPO, dropping ben…"
+        },
+        {
+          "title": "Actor Vikram flaunts lar gibbon; conservationists raise red flag",
+          "link": "https://timesofindia.indiatimes.com/city/chennai/actor-vikram-flaunts-lar-gibbon-conservationists-raise-red-flag/articleshow/133127780.cms",
+          "date": "10 Aug 2026",
+          "summary": "The reel, which went viral, shocked conservationists as they disapproved of the exotic primate being kept as a pet in Chennai."
+        },
+        {
+          "title": "Jeff Bezos' ex-wife MacKenzie Scott returns to writing with 80K-word novel",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-ex-wife-mackenzie-scott-who-sold-half-of-her-amazon-stake-is-back-to-writing-after-13-years-says-serially-throughout-august-i-will-publish-an-80000-word-/articleshow/133094419.cms",
+          "date": "10 Aug 2026",
+          "summary": "Novelist MacKenzie Scott returns to fiction writing after a thirteen-year hiatus. She will serially release an eighty-thousand-word novel throughout the month of August. Scott studied creative writing under Nobel laureate Toni Morrison at Princeton University.…"
+        },
+        {
+          "title": "On cam: Swollen river sweeps away bridge after flash flood in Uttarakhand's Chamoli",
+          "link": "https://timesofindia.indiatimes.com/india/on-camera-swollen-river-sweeps-away-bridge-after-flash-flood-in-uttarakhands-chamoli/articleshow/133124498.cms",
+          "date": "10 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Hoover Dam submerged a town in 1935; Lake Mead is revealing it again",
+          "link": "https://timesofindia.indiatimes.com/world/us/hoover-dams-construction-submerged-a-us-town-in-1935-90-years-later-lake-meads-falling-water-levels-are-helping-it-reemerge/articleshow/133094037.cms",
+          "date": "10 Aug 2026",
+          "summary": "The receding waters of Lake Mead have unveiled the eerie remnants of St. Thomas, a ghost town in Nevada. Originally a thriving Mormon settlement founded in 1865, it was swallowed by rising waters after the Hoover Dam was built in 1938. Now, the lakebed display…"
+        },
+        {
+          "title": "Missouri plant turns old wind turbine blades into cement feedstock",
+          "link": "https://timesofindia.indiatimes.com/science/wyomings-casper-landfill-buried-1124-turbine-blades-after-each-was-cut-into-three-pieces-a-missouri-plant-offers-another-route-by-turning-old-blades-into-cement-feedstock/articleshow/133095619.cms",
+          "date": "10 Aug 2026",
+          "summary": "Repurposing decommissioned wind turbine blades is becoming a promising trend, moving away from traditional landfill disposal. These large fiberglass structures are now being shredded and incorporated into cement production. Furthermore, innovative designs have…"
+        },
+        {
+          "title": "Google Drive ends Photos backups starting August 10: What users need to do",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/google-drive-ends-photos-backups-starting-august-10-what-users-need-to-do/articleshow/133087769.cms",
+          "date": "10 Aug 2026",
+          "summary": "Starting August 10, 2026, the Google Drive desktop app will no longer support backups for Google Photos. Users are required to switch to the Google Photos app to continue folder backups smoothly. Thankfully, existing photos will remain intact and secure. Howev…"
+        },
+        {
+          "title": "Ethanol-blended diesel fails safety test, says govt; wider use ruled out for now",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/ethanol-blended-diesel-fails-safety-test-says-govt-wider-use-ruled-out-for-now/articleshow/133119219.cms",
+          "date": "10 Aug 2026",
+          "summary": "Ethanol-blended diesel fails safety specifications, lowering its flash point significantly. Public sector oil companies tested these blends, finding them unsuitable for current use. India is expanding ethanol use in petrol and exploring it for cooking fuel. Oi…"
         },
         {
           "title": "Pakistan hockey elevates goalkeeping coach to head coach days before World Cup",
@@ -226,40 +280,34 @@
           "summary": "A significant earthquake jolted western Colombia on Monday, resulting in injuries and extensive destruction. fourty seven fatalities have been confirmed while multiple buildings collapsed across the country. Air travel was halted at several airports in various…"
         },
         {
+          "title": "Tom Brady’s million-dollar collection: Cars, watches, mansions and team ownership",
+          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/tom-brady-million-dollar-collection-its-never-come-easy-for-me-i-dont-think-my-mind-allows-me-to-rest-ever-from-luxurious-cars-and-impressive-watches-to-massive-mansions-and-team-ownerships/articleshow/133111305.cms",
+          "date": "10 Aug 2026",
+          "summary": "Beginning his illustrious career from unremarkable roots, Tom Brady faced several trials that he ultimately triumphed over. His stellar rise in the realm of professional football is unmatched. Now a prominent figure, he enjoys an exquisite collection of luxury…"
+        },
+        {
+          "title": "Cristiano Ronaldo’s ex Gemma Atkinson breaks silence on their romance",
+          "link": "https://timesofindia.indiatimes.com/sports/international-sports/i-was-offered-a-lot-of-money-cristiano-ronaldos-ex-gemma-atkinson-breaks-silence-on-their-romance-ahead-of-his-wedding-to-georgina-rodriguez/articleshow/133097999.cms",
+          "date": "10 Aug 2026",
+          "summary": "Cristiano Ronaldo is all set to tie the knot with Georgina Rodriguez in the next few weeks and now, his ex Gemma Atkinson's comments on their romance has resurfaced."
+        },
+        {
+          "title": "Joe Burrow has much to prove, but one Bengals factor could change everything",
+          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/joe-burrow-has-plenty-to-prove-but-one-bengals-factor-could-change-everything-for-the-star-quarterback/articleshow/133107220.cms",
+          "date": "10 Aug 2026",
+          "summary": "Cincinnati's offense has a wealth of talent, featuring dynamic receivers and a flexible running back. A healthy Joe Burrow is set to spearhead the team following previous injuries. Key to their Super Bowl dreams will be the offensive line's ability to protect…"
+        },
+        {
           "title": "'Disrupts planning': Associate nations blast ICC over ODI World Cup format changes",
           "link": "https://timesofindia.indiatimes.com/sports/cricket/news/creates-uncertainty-disrupts-planning-associate-nations-take-aim-at-icc-over-odi-world-cup-format-changes/articleshow/133100812.cms",
           "date": "10 Aug 2026",
           "summary": "The two European Associate Member boards said they were disappointed that the ICC had made what they described as “significant structural changes” less than 18 months before the tournament."
         },
         {
-          "title": "Jeff Bezos' ex-wife MacKenzie Scott returns to writing with 80K-word novel",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-ex-wife-mackenzie-scott-who-sold-half-of-her-amazon-stake-is-back-to-writing-after-13-years-says-serially-throughout-august-i-will-publish-an-80000-word-/articleshow/133094419.cms",
-          "date": "10 Aug 2026",
-          "summary": "Novelist MacKenzie Scott returns to fiction writing after a thirteen-year hiatus. She will serially release an eighty-thousand-word novel throughout the month of August. Scott studied creative writing under Nobel laureate Toni Morrison at Princeton University.…"
-        },
-        {
           "title": "In 1998, Honduras counted its mammals. 8 years later, 227 species emerge",
           "link": "https://timesofindia.indiatimes.com/science/in-1998-honduras-last-counted-its-mammals-nearly-30-years-later-8-years-of-digging-through-300000-records-reveal-227-native-species/articleshow/133112213.cms",
           "date": "10 Aug 2026",
           "summary": ""
-        },
-        {
-          "title": "Moving grass led Australian caver to discover one of Victoria’s longest caves",
-          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/in-2006-an-australian-caver-saw-grass-moving-when-there-was-no-wind-digging-beneath-it-revealed-elk-river-now-one-of-victorias-longest-caves/articleshow/133113469.cms",
-          "date": "10 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Lake Mead falls to 1,040.4 feet as Colorado River crisis deepens",
-          "link": "https://timesofindia.indiatimes.com/world/us/lake-mead-fell-to-1040-4-feet-as-the-colorado-river-crisis-deepened-lake-powell-is-also-under-pressure-raising-questions-over-water-and-hydropower/articleshow/133112588.cms",
-          "date": "10 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Google Drive ends Photos backups starting August 10: What users need to do",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/google-drive-ends-photos-backups-starting-august-10-what-users-need-to-do/articleshow/133087769.cms",
-          "date": "10 Aug 2026",
-          "summary": "Starting August 10, 2026, the Google Drive desktop app will no longer support backups for Google Photos. Users are required to switch to the Google Photos app to continue folder backups smoothly. Thankfully, existing photos will remain intact and secure. Howev…"
         },
         {
           "title": "Jharkhand protest: Devendra Mahto hospitalised; aide says injured in lathicharge",
@@ -278,24 +326,6 @@
           "link": "https://timesofindia.indiatimes.com/real-estate/news/dda-puts-leasehold-to-freehold-conversions-on-hold-what-delhi-homeowners-need-to-know/articleshow/133115648.cms",
           "date": "10 Aug 2026",
           "summary": "The ongoing review of the Delhi Development Authority's residential property conversion policy aims to streamline procedures for the public. All outstanding requests for conversion are currently frozen while this evaluation occurs. The policy allows for leaseh…"
-        },
-        {
-          "title": "George Russell and Carmen Montero Mundt’s combined net worth, careers and engagement",
-          "link": "https://timesofindia.indiatimes.com/sports/international-sports/george-russell-and-carmen-montero-mundt-combined-net-worth-2026-exploring-mercedes-stars-salary-earnings-the-couples-engagement-and-more/articleshow/133095225.cms",
-          "date": "10 Aug 2026",
-          "summary": "Engagement bells rang for Formula 1 star George Russell and finance guru Carmen Montero Mundt on August 9, 2026. Russell boasts a stunning net worth of $40 million, thanks to his illustrious racing career. This year, Carmen Montero Mundt co-founded a skincare…"
-        },
-        {
-          "title": "Tom Brady’s love advice: “The secret to being loved is to love” amid Gisele milestone",
-          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/tom-bradys-advice-on-love-and-life-i-really-think-the-secret-to-being-loved-is-to-love-how-the-nfl-goat-quietly-responded-to-gisele-bndchens-life-changing-milestone/articleshow/133052038.cms",
-          "date": "9 Aug 2026",
-          "summary": "Tom Brady shared a heartfelt message about love on Instagram one day after news broke that ex-wife Gisele Bündchen had welcomed her first child with Joaquim Valente. The timing of the post sparked widespread discussion among fans, although Brady did not mentio…"
-        },
-        {
-          "title": "Emma Gretzky engagement marks major family milestone for NHL icon Wayne Gretzky",
-          "link": "https://timesofindia.indiatimes.com/sports/nhl/news/emma-gretzky-engagement-brings-major-family-milestone-for-nhl-legend-wayne-gretzky-and-his-loved-ones/articleshow/133099738.cms",
-          "date": "10 Aug 2026",
-          "summary": "Emma Gretzky, youngest daughter of NHL legend Wayne Gretzky, is engaged to former Southern Methodist University football player Stone Eby. The couple, who met at SMU and welcomed son Walter in 2025, shared the news of their engagement on Instagram. The news ad…"
         },
         {
           "title": "Watch: Chinese rocket explodes shortly after liftoff from Wenchang spaceport",
@@ -344,36 +374,6 @@
           "link": "https://timesofindia.indiatimes.com/sports/badminton/imported-machines-non-toxic-gel-double-door-entries-and-monkey-whisperers-how-delhi-is-bracing-for-bwf-world-championships/articleshow/133109057.cms",
           "date": "10 Aug 2026",
           "summary": "The Indira Gandhi Indoor Stadium in New Delhi has undergone major upgrades and innovative measures to ensure a smooth BWF World Championships, returning to India after 17 years. Pigeons and monkeys, not the feathers of a shuttle, captured headlines during the…"
-        },
-        {
-          "title": "Vijay's film producer Archana Kalpathi gets top post in TN govt committee",
-          "link": "https://timesofindia.indiatimes.com/city/chennai/archana-kalpathi-producer-of-vijays-goat-and-bigil-movies-appointed-member-of-hrcetemple-trustee-panel/articleshow/133104401.cms",
-          "date": "10 Aug 2026",
-          "summary": "Film producer Archana Kalpathi Aghoram joins a state committee. This seven-member panel will appoint non-hereditary temple trustees for two years. Thavathiru Sivagnana Balaya Swamikal chairs the committee, and K Ramanathan serves as deputy. Archana is known fo…"
-        },
-        {
-          "title": "'Love &amp; War' sparks Rs 300 crore distribution rights battle between major studios",
-          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-alia-bhatt-and-vicky-kaushals-love-war-sparks-rs-300-crore-distribution-rights-battle-as-major-production-houses-compete-for-film-reports/articleshow/133102727.cms",
-          "date": "10 Aug 2026",
-          "summary": "Sanjay Leela Bhansali’s highly anticipated film 'Love &amp; War' is drawing significant interest from distribution companies eager to secure its theatrical rights. With over Rs 200 crore already generated through non-theatrical ventures, the film's shooting is…"
-        },
-        {
-          "title": "'IAS officer' posing as Ajit Doval's 'undercover agent' held, cops seize Tesla car",
-          "link": "https://timesofindia.indiatimes.com/city/patna/ias-officer-posing-as-ajit-dovals-undercover-agent-held-cops-seize-tesla-car-liquor-stash/articleshow/133101268.cms",
-          "date": "10 Aug 2026",
-          "summary": "A man impersonating an IAS officer and claiming NSA links was arrested. Police found a Tesla car and imported liquor at his residence. He allegedly ran fraudulent operations across Bihar using fake credentials. Authorities are investigating his assets acquired…"
-        },
-        {
-          "title": "Beijing’s billion-barrel weapon: Why India must prepare for China-driven oil prices",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/beijings-billion-barrel-weapon-why-india-must-prepare-for-china-driven-oil-prices/articleshow/133101573.cms",
-          "date": "10 Aug 2026",
-          "summary": "China has accumulated as much as 1.4 billion barrels in strategic and enterprise-controlled inventories, according to a new RAND study. That is more than three times the roughly 413 million barrels held in the US government’s Strategic Petroleum Reserve."
-        },
-        {
-          "title": "Daughter saves father's 34-year-old shoe store with social media, draws long queues in London",
-          "link": "https://timesofindia.indiatimes.com/life-style/parenting/moments/daughter-saves-fathers-34-year-old-shoe-store-from-shutting-down-by-using-social-media-now-customers-wait-for-hours-outside-their-london-store/articleshow/133094426.cms",
-          "date": "10 Aug 2026",
-          "summary": "A father's shoe shop faced closure due to rising rents and changing demographics. His daughter, Zineb, used TikTok to showcase vintage shoe styles to a new generation. This social media strategy attracted younger customers, revitalizing the family business sig…"
         }
       ]
     },
@@ -760,6 +760,18 @@
       "ok": true,
       "items": [
         {
+          "title": "Old OCR text cripples language model training, and FineBooks wants to fix that at scale",
+          "link": "https://the-decoder.com/old-ocr-text-cripples-language-model-training-and-finebooks-wants-to-fix-that-at-scale/",
+          "date": "10 Aug 2026",
+          "summary": "The FineBooks project from Hugging Face and EleutherAI tested 14 open-source OCR models on more than 2,000 historical book pages. The top model, dots.mocr, hits 97.6 percent character accuracy at under two dollars per thousand pages. That's good enough for AI…"
+        },
+        {
+          "title": "OpenAI launches GPT-5.6-Cyber to help defenders find vulnerabilities before attackers do",
+          "link": "https://the-decoder.com/openai-launches-gpt-5-6-cyber-to-help-defenders-find-vulnerabilities-before-attackers-do/",
+          "date": "10 Aug 2026",
+          "summary": "OpenAI aims to give cybersecurity defenders a head start: The new GPT-5.6-Cyber model answers up to 98.5 percent of security queries that would otherwise be blocked and has already uncovered two previously unknown Chrome vulnerabilities. According to OpenAI, t…"
+        },
+        {
           "title": "Meta returns to open models with Zuckerberg's plan to out-copy China and sell compute by auction",
           "link": "https://the-decoder.com/meta-returns-to-open-models-with-zuckerbergs-plan-to-out-copy-china-and-sell-compute-by-auction/",
           "date": "10 Aug 2026",
@@ -806,18 +818,6 @@
           "link": "https://the-decoder.com/googles-diffusiongemma-proves-you-dont-need-to-train-from-scratch-to-build-a-text-diffusion-model/",
           "date": "9 Aug 2026",
           "summary": "Instead of training a new model from scratch, Google DeepMind retrofitted Gemma 4 into a diffusion model using less than 10 percent of the original training budget. DiffusionGemma generates 256 tokens in parallel instead of one at a time, hitting about 1,500 t…"
-        },
-        {
-          "title": "AI's energy appetite drives Nvidia and Amazon to pour billions into massive power infrastructure",
-          "link": "https://the-decoder.com/ais-energy-appetite-drives-nvidia-and-amazon-to-pour-billions-into-massive-power-infrastructure/",
-          "date": "9 Aug 2026",
-          "summary": "The AI industry's hunger for power keeps growing. Nvidia is investing up to $3 billion in Lancium, a power infrastructure developer that already has four gigawatts under contract in Texas. Amazon, meanwhile, is building a gas-fired power plant in the state wit…"
-        },
-        {
-          "title": "Google dismantles Deepmind and bets on a fresh start as Hassabis heads for the exit",
-          "link": "https://the-decoder.com/google-dismantles-deepmind-and-bets-on-a-fresh-start-as-hassabis-heads-for-the-exit/",
-          "date": "9 Aug 2026",
-          "summary": "Google Deepmind is losing its autonomy, and founder Demis Hassabis may leave the AI lab for good in the coming months. AI researcher Koray Kavukcuoglu will take over day-to-day operations without the CEO title, and all Gemini development is moving to the Bay A…"
         }
       ]
     },
@@ -1152,6 +1152,12 @@
       "ok": true,
       "items": [
         {
+          "title": "Meta's 'Open' Muse Glimmer Model Can Run On a Single Computer",
+          "link": "https://tech.slashdot.org/story/26/08/10/163237/metas-open-muse-glimmer-model-can-run-on-a-single-computer?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "10 Aug 2026",
+          "summary": "Meta has released Muse Glimmer, a slimmed-down open-weight AI model designed to run locally on a single GPU for agent tasks such as scheduling, file management, coding, and tool use. The release is based on Meta's closed Muse Spark 1.2 model and appears to be…"
+        },
+        {
           "title": "Taiwan 'Throttles' Mobile Internet For First Time During Annual War Games",
           "link": "https://tech.slashdot.org/story/26/08/10/1557258/taiwan-throttles-mobile-internet-for-first-time-during-annual-war-games?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "10 Aug 2026",
@@ -1234,12 +1240,6 @@
           "link": "https://it.slashdot.org/story/26/08/09/1640211/openai-announces-its-enhancing-security-controls-pausing-some-work-for-new-ai-model-astra?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "9 Aug 2026",
           "summary": "OpenAI announced Friday it's pausing work on its Astra AI model because of security concerns. The Guardian reports: The company had evaluated the agent, Astra, and found \"significant advancements in agentic coding and cybersecurity\", which had moved to a \"crit…"
-        },
-        {
-          "title": "Brain Activity Reveals the Melodies That People Imagine",
-          "link": "https://science.slashdot.org/story/26/08/09/0050249/brain-activity-reveals-the-melodies-that-people-imagine?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "9 Aug 2026",
-          "summary": "Researchers believe they've found evidence that brain signals reveal the pitches of notes in imagined musical melodies, reports Medical Express: Study participants were 10 epilepsy patients with electrodes on the surfaces of their brains for clinical monitorin…"
         }
       ]
     },
@@ -1630,6 +1630,78 @@
       "ok": true,
       "items": [
         {
+          "title": "repodelta added to PyPI",
+          "link": "https://pypi.org/project/repodelta/",
+          "date": "10 Aug 2026",
+          "summary": "Requirement-first, evidence-linked pull request review briefs"
+        },
+        {
+          "title": "mcp-authz added to PyPI",
+          "link": "https://pypi.org/project/mcp-authz/",
+          "date": "10 Aug 2026",
+          "summary": "Authorization for MCP Python servers: OAuth resource server, policy, and permission-gated capabilities"
+        },
+        {
+          "title": "statelet-sdk added to PyPI",
+          "link": "https://pypi.org/project/statelet-sdk/",
+          "date": "10 Aug 2026",
+          "summary": "Python SDK for Statelet — agent memory with KV, vector search, and temporal causal graphs in one database"
+        },
+        {
+          "title": "interelate added to PyPI",
+          "link": "https://pypi.org/project/interelate/",
+          "date": "10 Aug 2026",
+          "summary": "Comparative, distance-aware genomic overlap testing between reference and query BED files."
+        },
+        {
+          "title": "affinityfit added to PyPI",
+          "link": "https://pypi.org/project/affinityfit/",
+          "date": "10 Aug 2026",
+          "summary": "A library for saturation curve fitting and estimation reliability diagnostics"
+        },
+        {
+          "title": "timecopilot-tirex2 added to PyPI",
+          "link": "https://pypi.org/project/timecopilot-tirex2/",
+          "date": "10 Aug 2026",
+          "summary": "TiRex-2 time series forecasting inference"
+        },
+        {
+          "title": "tjsp_unidades added to PyPI",
+          "link": "https://pypi.org/project/tjsp-unidades/",
+          "date": "10 Aug 2026",
+          "summary": "Add your description here"
+        },
+        {
+          "title": "oryon-pentest added to PyPI",
+          "link": "https://pypi.org/project/oryon-pentest/",
+          "date": "10 Aug 2026",
+          "summary": "Autonomous pentesting runtime with explicit tool contracts and auditable evidence."
+        },
+        {
+          "title": "configdirector-server-sdk added to PyPI",
+          "link": "https://pypi.org/project/configdirector-server-sdk/",
+          "date": "10 Aug 2026",
+          "summary": "Python server SDK for ConfigDirector. ConfigDirector is a remote configuration and feature flag service."
+        },
+        {
+          "title": "openbao-cli added to PyPI",
+          "link": "https://pypi.org/project/openbao-cli/",
+          "date": "10 Aug 2026",
+          "summary": "Python wrapper for the OpenBao CLI - install bao with pip, no package manager required"
+        },
+        {
+          "title": "agent-orchestration-process added to PyPI",
+          "link": "https://pypi.org/project/agent-orchestration-process/",
+          "date": "10 Aug 2026",
+          "summary": "Bounded multi-harness agent orchestration for autoresearch loops"
+        },
+        {
+          "title": "RobotSecLibrary added to PyPI",
+          "link": "https://pypi.org/project/robotseclibrary/",
+          "date": "10 Aug 2026",
+          "summary": "Robot Framework security testing library based on OWASP guidelines"
+        },
+        {
           "title": "hypermcts added to PyPI",
           "link": "https://pypi.org/project/hypermcts/",
           "date": "10 Aug 2026",
@@ -1681,7 +1753,7 @@
           "title": "stakt added to PyPI",
           "link": "https://pypi.org/project/stakt/",
           "date": "10 Aug 2026",
-          "summary": "Official Python SDK for the Stakt Trading Platform"
+          "summary": "Official Python Client for the Stakt Trading Platform"
         },
         {
           "title": "nimbuskv added to PyPI",
@@ -1736,78 +1808,6 @@
           "link": "https://pypi.org/project/bird-dtw/",
           "date": "10 Aug 2026",
           "summary": "Dynamic Time Warping for bird migration trajectories, tuned per species"
-        },
-        {
-          "title": "onith added to PyPI",
-          "link": "https://pypi.org/project/onith/",
-          "date": "10 Aug 2026",
-          "summary": "Human-in-the-loop pipeline generator for harmonization of non-clinical study data in SEND format (onith = ontology-based non-clinical integration and term harmonization)"
-        },
-        {
-          "title": "pntos-cobra-frontend added to PyPI",
-          "link": "https://pypi.org/project/pntos-cobra-frontend/",
-          "date": "10 Aug 2026",
-          "summary": "UI components and frontend assets for pntOS Cobra."
-        },
-        {
-          "title": "UniPercept-lituus added to PyPI",
-          "link": "https://pypi.org/project/unipercept-lituus/",
-          "date": "10 Aug 2026",
-          "summary": "Perceptual image hashing and Hamming-distance search backed by the native UniPercept engine"
-        },
-        {
-          "title": "voicepilot added to PyPI",
-          "link": "https://pypi.org/project/voicepilot/",
-          "date": "10 Aug 2026",
-          "summary": "AI voice calls from Python — place outbound calls, text-to-speech voice broadcasts (with press-1 transfer), and live AI voice agents. The official Python SDK for the Zcall voice API."
-        },
-        {
-          "title": "pretix-bagnumbers added to PyPI",
-          "link": "https://pypi.org/project/pretix-bagnumbers/",
-          "date": "10 Aug 2026",
-          "summary": "Sequential bag numbers with configurable number ranges per product"
-        },
-        {
-          "title": "boundary-chunker added to PyPI",
-          "link": "https://pypi.org/project/boundary-chunker/",
-          "date": "10 Aug 2026",
-          "summary": "Boundary-aware semantic chunking for RAG, using a ModernBERT topic-shift model"
-        },
-        {
-          "title": "redcheck added to PyPI",
-          "link": "https://pypi.org/project/redcheck/",
-          "date": "10 Aug 2026",
-          "summary": "AI Guardrail engine for LLM output evaluation and hallucination detection"
-        },
-        {
-          "title": "cowork-tunnel added to PyPI",
-          "link": "https://pypi.org/project/cowork-tunnel/",
-          "date": "10 Aug 2026",
-          "summary": "SSH and HTTP proxy for environments whose only outbound path is HTTPS"
-        },
-        {
-          "title": "agentic_terminal_by_nick added to PyPI",
-          "link": "https://pypi.org/project/agentic-terminal-by-nick/",
-          "date": "10 Aug 2026",
-          "summary": "An MCP which adds terminal capabilities to an agent."
-        },
-        {
-          "title": "vacancy-radar added to PyPI",
-          "link": "https://pypi.org/project/vacancy-radar/",
-          "date": "10 Aug 2026",
-          "summary": "Local-first job application tracker with hybrid search and an MCP server."
-        },
-        {
-          "title": "pixfaro added to PyPI",
-          "link": "https://pypi.org/project/pixfaro/",
-          "date": "10 Aug 2026",
-          "summary": "Every image model, one port. Pixfaro SDK - coming soon."
-        },
-        {
-          "title": "pinn-rk added to PyPI",
-          "link": "https://pypi.org/project/pinn-rk/",
-          "date": "10 Aug 2026",
-          "summary": "Runge–Kutta Physics-Informed Neural Networks with time-discrete losses (Gauss/Radau/Lobatto) in PyTorch."
         }
       ]
     }
