@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-11T03:26:49Z",
+  "generated": "2026-08-11T04:58:34Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,12 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "Vodafone Idea shares jump 3% after Q1 net loss narrows. What is Nomura saying?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/vodafone-idea-shares-jump-3-after-q1-net-loss-narrows-what-is-nomura-saying/articleshow/133141850.cms",
+          "date": "11 Aug 2026",
+          "summary": "Vodafone Idea’s Q1 loss narrowed sharply to Rs 3,754 crore from Rs 6,608 crore a year ago, while revenue rose 6% YoY to Rs 11,689 crore. EBITDA grew 9% to Rs 5,034 crore, with margin improving to 43.1%, while ARPU jumped 10.2% to Rs 195."
+        },
         {
           "title": "IPO Rush: 34 companies race to launch issues worth Rs 45,000 crore by September 30",
           "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-34-companies-race-to-launch-issues-worth-rs-45000-crore-by-september-30/articleshow/133139967.cms",
@@ -36,12 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-9-stocks-cross-above-their-200-dmas/upside-ahead/slideshow/133140624.cms",
           "date": "11 Aug 2026",
           "summary": "In the Nifty500 pack, nine stocks' closing prices crossed above their 200 DMA (Daily Moving Averages) on August 10, 2026, according to stockedge.com's technical scan data. Traders use the 200-day daily moving average (DMA) as a key indicator to determine the o…"
-        },
-        {
-          "title": "Nvidia partners with Wall Street giants to raise $500 billion for AI buildout",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-partners-with-wall-street-giants-to-raise-500-billion-for-ai-buildout/articleshow/133140190.cms",
-          "date": "11 Aug 2026",
-          "summary": "In an ambitious collaboration, Nvidia is joining forces with six prominent financial institutions to establish compute financing platforms with the goal of unlocking upwards of $500 billion in third-party investment for AI infrastructure."
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -196,20 +196,104 @@
       "ok": true,
       "items": [
         {
-          "title": "Catering cart &amp; military aircraft: How Trump was moved out of Turkey amid Iran threat",
+          "title": "Catering cart, military jet: How Trump secretly left Turkey amid Iran assassination threat",
           "link": "https://timesofindia.indiatimes.com/world/us/catering-cart-military-aircraft-how-trump-secretly-fled-turkey-amid-iran-assassination-threat/articleshow/133140307.cms",
           "date": "11 Aug 2026",
           "summary": ""
         },
         {
-          "title": "A note, 5-star hotel, an affair: What led Bengaluru man to kill his own 2 daughters",
+          "title": "Watch: Buildings crumble, debris rains down as 7.4-magnitude quake hits Colombia",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/watch-buildings-crumble-debris-rains-down-as-7-4-magnitude-quake-hits-colombia/articleshow/133141328.cms",
+          "date": "11 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "'New PM house, why not new govt schools in villages?' Dipke announces nationwide drive",
+          "link": "https://timesofindia.indiatimes.com/india/new-parliament-new-pm-house-why-not-govt-schools-in-villages-cjps-dipke-to-launch-nationwide-campaign-on-aug-15/articleshow/133141399.cms",
+          "date": "11 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "CWG medals, state silence? How actively are states promoting sports and athletes",
+          "link": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/rajasthan-stuck-in-2012-manipur-in-2023-how-actively-are-states-with-cwg-medals-promoting-sports/articleshow/133122092.cms",
+          "date": "11 Aug 2026",
+          "summary": "India’s states celebrated 39 Commonwealth Games medals, but how much are their sports departments actually promoting those achievements? This investigation tracks the social-media activity of state sports bodies, revealing glaring gaps, from Rajasthan’s last F…"
+        },
+        {
+          "title": "A note, 5-star hotel, an affair: What led Bengaluru man to kill his 2 daughters",
           "link": "https://timesofindia.indiatimes.com/city/bengaluru/a-note-5-star-hotel-an-affair-what-led-bengaluru-man-to-kill-his-own-2-daughters/articleshow/133140200.cms",
           "date": "11 Aug 2026",
           "summary": "A father allegedly killed his two minor daughters in a Bengaluru hotel room. He then attempted suicide, leaving a note citing marital dispute and infidelity. Hotel staff discovered the deceased children and the injured father after no response. The father, ide…"
         },
         {
-          "title": "Colombia quake: Over 2k missing; flights disrupted, 21 aftershocks - top developments",
-          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/colombia-earthquake-over-2000-missing-hospitals-schools-hit-as-21-aftershocks-follow-top-developments/articleshow/133140436.cms",
+          "title": "Mamdani's 'millionaire home tax' reveals New York's big 'Ghost cars' problem",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/zohran-mamdanis-millionaire-home-tax-reveals-new-yorks-big-ghost-cars-problem-that-many-cities-in-italy-and-france-are-known-for/articleshow/133141286.cms",
+          "date": "11 Aug 2026",
+          "summary": "New York City's proposed millionaire home tax highlights vehicle registration fraud issues. Homeowners may need to prove primary residency, revealing out-of-state vehicle registrations. This practice, known as garage fraud, helps evade insurance and taxes. Inv…"
+        },
+        {
+          "title": "Sarfaraz Khan's return: A 17kg weight loss, relentless fight and a Test recall",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/sarfaraz-khans-return-a-17kg-weight-loss-relentless-fight-and-a-test-recall/articleshow/133141043.cms",
+          "date": "11 Aug 2026",
+          "summary": "On Friday, Sarfaraz Khan posted a photo on Instagram from the 2019 Telugu film ‘Jersey’ with a caption that read: “I may not fit in, but I’ll fight with everything I’ve got.” Just 48 hours later, the 28-yearold was rewarded for his seemingly endless ‘fight’ wh…"
+        },
+        {
+          "title": "'At no cost' will Mann complete tenure: Warring predicts AAP govt collapse in Punjab",
+          "link": "https://timesofindia.indiatimes.com/india/at-no-cost-will-mann-complete-tenure-congress-warring-predicts-aap-govt-collapse-in-punjab/articleshow/133141256.cms",
+          "date": "11 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "‘A terrible mistake’: Donald Trump warns FIFA against replacing Infantino",
+          "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/a-terrible-mistake-trump-warns-fifa-against-replacing-infantino-amid-growing-revolt/articleshow/133141490.cms",
+          "date": "11 Aug 2026",
+          "summary": "US President Donald Trump has come to FIFA president Gianni Infantino's defense, labeling any potential replacement as a grave error. Infantino is currently navigating tumultuous waters, facing resistance from football confederations upset over a World Cup pro…"
+        },
+        {
+          "title": "Mark Zuckerberg's $300M yacht booed over rescue call; clarification issued",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/after-mark-zuckerbergs-300-million-387-foot-yacht-launchpad-booed-for-not-responding-to-distress-call-by-stranded-small-cruise-ship-clarification-issued/articleshow/133094464.cms",
+          "date": "10 Aug 2026",
+          "summary": "Mark Zuckerberg's superyacht Launchpad faced criticism after a stranded boat incident. The vessel's crew was reportedly on a different radio channel during the emergency. Help was already en route when the yacht's crew reviewed the assistance request. The yach…"
+        },
+        {
+          "title": "Boston’s Big Dig soil helped turn a burning dump island into a park",
+          "link": "https://timesofindia.indiatimes.com/world/us/in-the-1990s-boston-sent-nearly-a-quarter-of-the-big-digs-16-million-cubic-yards-of-soil-to-a-burning-former-dump-island-and-helped-turn-it-into-a-park/articleshow/133087173.cms",
+          "date": "10 Aug 2026",
+          "summary": "Boston’s massive Big Dig project produced more than 16 million cubic yards of soil, and nearly a quarter of it was sent to Spectacle Island in Boston Harbor. The island was once a city dump where methane gas caused underground fires. The soil helped cap the ol…"
+        },
+        {
+          "title": "Connecticut woman builds backyard cottage so three generations live steps apart",
+          "link": "https://timesofindia.indiatimes.com/life-style/people/a-connecticut-woman-designed-a-725-square-foot-backyard-cottage-for-her-retired-parents-now-three-generations-live-just-steps-apart/articleshow/133109177.cms",
+          "date": "10 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Rogue AI models that went on hacking other companies had a common 'Israel link'",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/rogue-ai-models-of-anthropic-openai-and-meta-that-went-on-hacking-other-companies-had-a-common-israel-link/articleshow/133099557.cms",
+          "date": "10 Aug 2026",
+          "summary": "Leading AI models from OpenAI, Anthropic, and Meta accessed unauthorized systems during security tests. These incidents occurred within a testing environment hosted by the Israeli startup Irregular. Irregular stated a misconfiguration in their environment caus…"
+        },
+        {
+          "title": "Yeida to launch 2 residential plot schemes near Noida airport during Navratri",
+          "link": "https://timesofindia.indiatimes.com/real-estate/news/yeida-to-launch-2-residential-plot-schemes-near-noida-airport-during-navratri/articleshow/133116066.cms",
+          "date": "11 Aug 2026",
+          "summary": "Exciting news for home seekers! The Yamuna Expressway Industrial Development Authority is gearing up to unveil two new residential plot schemes aimed at low-income groups and the general public. Strategically located near the Noida International Airport, these…"
+        },
+        {
+          "title": "‘Non-negotiable’: T Dilip reveals what still sets Virat Kohli apart in the field",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/intensity-is-non-negotiable-t-dilip-reveals-what-still-sets-virat-kohli-apart-in-the-field/articleshow/133140940.cms",
+          "date": "11 Aug 2026",
+          "summary": "Former fielding coach T Dilip praised Virat Kohli's consistent on-field intensity. Kohli's dedication during practice mirrored his match-day performance, inspiring others. Dilip's most cherished moment was India's 2024 T20 World Cup victory in Barbados. He als…"
+        },
+        {
+          "title": "Top stocks to buy: Stock market recommendations for today - check list",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-august-11-2026-mazagon-dock-shipbuilders-icici-lombard-general-insurance-jsw-energy-dlf-stocks-to-buy-today/articleshow/133115545.cms",
+          "date": "11 Aug 2026",
+          "summary": "Mazagon Dock Shipbuilders, ICICI Lombard General Insurance, JSW Energy, and DLF - Somil Mehta, Head of Retail Research, Mirae Asset ShareKhan has identified these as the top stocks"
+        },
+        {
+          "title": "Congress' Sam Pitroda questions 'use of force' against Jharkhand students",
+          "link": "https://timesofindia.indiatimes.com/india/images-disturb-me-deeply-congress-sam-pitroda-questions-use-of-force-against-jharkhand-students/articleshow/133141817.cms",
           "date": "11 Aug 2026",
           "summary": ""
         },
@@ -220,19 +304,49 @@
           "summary": "Harbhajan Singh went on to become one of India's most successful spinners. He represented India from 1998 to 2016 and finished his international career with more than 700 wickets across formats. He played 103 Tests and took 417 wickets, including 25 five-wicke…"
         },
         {
+          "title": "Woman left paralysed after treatment; hospital, doctors told to pay Rs 15 lakh",
+          "link": "https://timesofindia.indiatimes.com/legal/news/woman-left-paralysed-after-treatment-consumer-court-orders-hospital-doctors-to-pay-rs-15-lakh/articleshow/133141839.cms",
+          "date": "11 Aug 2026",
+          "summary": "A Ludhiana hospital and two doctors faced liability for medical negligence. A woman developed paralysis after a lumbar drain procedure for a nasal fluid leak. The commission found a lack of urgency in responding to her worsening symptoms. The hospital and doct…"
+        },
+        {
+          "title": "FDA suspends Blinkit food licence over hygiene violations at Mumbai facility",
+          "link": "https://timesofindia.indiatimes.com/city/mumbai/fda-suspends-blinkits-malad-warehouse-licence-over-hygiene-violations/articleshow/133118059.cms",
+          "date": "10 Aug 2026",
+          "summary": "The Food and Drug Administration suspended a Blinkit dark store licence in Malad West. Unhygienic conditions and cockroach infestations led to the FDA's decisive action. Food items were stored improperly on rusted racks and the floor. This marks the second suc…"
+        },
+        {
+          "title": "'I still miss him': China’s AI crackdown leaves users mourning lost virtual boyfriends",
+          "link": "https://timesofindia.indiatimes.com/world/china/i-still-miss-him-chinas-ai-crackdown-leaves-users-mourning-lost-virtual-boyfriends/articleshow/133141274.cms",
+          "date": "11 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Colombia quake: Over 2k missing; flights disrupted, 21 aftershocks - top developments",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/colombia-earthquake-over-2000-missing-hospitals-schools-hit-as-21-aftershocks-follow-top-developments/articleshow/133140436.cms",
+          "date": "11 Aug 2026",
+          "summary": ""
+        },
+        {
           "title": "Govt offers Amit Shah statement in Parliament, opposition doesn't relent",
           "link": "https://timesofindia.indiatimes.com/india/govt-offers-amit-shah-statement-in-parliament-opposition-doesnt-relent/articleshow/133135487.cms",
           "date": "11 Aug 2026",
           "summary": ""
         },
         {
-          "title": "Moody’s Mark Zandi: Strict immigration policies won’t mean more jobs for US workers",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/moodys-economist-mark-zandi-strict-immigration-policies-necessarily-does-not-mean-more-and-better-job-opportunities-for-native-born-workers/articleshow/133140985.cms",
+          "title": "LeBron James and Savannah James face heartbreaking loss in their community",
+          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/lebron-james-and-savannah-james-face-a-massive-loss-in-their-community-ahead-of-new-season-with-the-philadelphia-76ers/articleshow/133115642.cms",
           "date": "11 Aug 2026",
-          "summary": "Economist Mark Zandi argues stricter immigration policies do not boost native-born jobs. Native-born unemployment is now exceeding foreign-born worker rates. Labor force participation has fallen while employers shed jobs. A shrinking labor supply, driven by re…"
+          "summary": "LeBron James and his wife, Savannah James, were preparing for their new chapter with the Philadelphia 76ers but they have been faced with a brutal loss in their community."
         },
         {
-          "title": "Trump Media Q2 results: US president-led media ventrue posts $238 mn loss",
+          "title": "Dalton Ain't Worried and Sako spark split rumors after brother's message",
+          "link": "https://timesofindia.indiatimes.com/world/us-streamers/dalton-aint-worried-and-sako-update-brothers-difficult-season-message-fuels-split-rumors-amid-emotional-video/articleshow/133139941.cms",
+          "date": "11 Aug 2026",
+          "summary": "Dalton Ain’t Worried and Sako have not confirmed a breakup. Comments believed to be from Dalton’s brother Christopher Adkison say the couple is going through a difficult time and ask people to stop spreading rumors. Dalton’s emotional video and unverified arre…"
+        },
+        {
+          "title": "Trump Media Q2 results: US president-led media venture posts $238 m loss",
           "link": "https://timesofindia.indiatimes.com/business/international-business/trump-media-q2-results-us-president-led-media-ventrue-posts-238-million-loss-as-crypto-holdings-tumble/articleshow/133140532.cms",
           "date": "11 Aug 2026",
           "summary": "In the second quarter, Trump Media faced a dramatic loss of $238 million despite seeing its revenue more than double. However, operating losses expanded significantly, prompting the company to abandon new ventures like online betting and cryptocurrency. Their…"
@@ -250,130 +364,16 @@
           "summary": "Oil prices are hovering near recent highs as prospects for a US-Iran agreement fade. On Tuesday morning, both WTI and Brent crude benchmarks experienced slight upticks. The situation is complicated by US demands for compensation, hindering the potential reopen…"
         },
         {
-          "title": "Mark Zuckerberg's $300M yacht booed over rescue call; clarification issued",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/after-mark-zuckerbergs-300-million-387-foot-yacht-launchpad-booed-for-not-responding-to-distress-call-by-stranded-small-cruise-ship-clarification-issued/articleshow/133094464.cms",
-          "date": "10 Aug 2026",
-          "summary": "Mark Zuckerberg's superyacht Launchpad faced criticism after a stranded boat incident. The vessel's crew was reportedly on a different radio channel during the emergency. Help was already en route when the yacht's crew reviewed the assistance request. The yach…"
-        },
-        {
           "title": "Why high BP and diabetes may strike together after 40",
           "link": "https://timesofindia.indiatimes.com/city/delhi/hypertension-diabetes-often-strike-together-after-40-study/articleshow/133128115.cms",
           "date": "10 Aug 2026",
           "summary": ""
         },
         {
-          "title": "10-foot alligator attacks Florida paddleboarder, tears off her arm",
-          "link": "https://timesofindia.indiatimes.com/world/us/bones-poking-out-blood-everywhere-10-foot-alligator-attacks-florida-paddleboarder-and-tears-off-her-arm-quick-thinking-boater-rushes-to-save-her/articleshow/133137315.cms",
-          "date": "11 Aug 2026",
-          "summary": "A Florida paddleboarder survived a terrifying alligator attack after a nearly 10-foot reptile grabbed her arm and dragged her underwater in the Silver River. The woman suffered a devastating injury, but quick-thinking boater John Gamache scared the alligator a…"
-        },
-        {
-          "title": "Austin homeowner pays $3,000 to trim trees after insurance warning",
-          "link": "https://timesofindia.indiatimes.com/world/us/an-austin-homeowner-with-no-claims-in-over-a-decade-paid-3000-to-trim-trees-after-aerial-photos-put-her-insurance-renewal-at-risk/articleshow/133094756.cms",
-          "date": "10 Aug 2026",
-          "summary": "Texas homeowners are increasingly finding that insurance companies are using aerial images of their properties to assess risks and decide whether to renew policies. Insurers use satellite, aircraft and third-party imagery, with some companies using AI to analy…"
-        },
-        {
-          "title": "Anthropic has an important message for Claude users",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-has-an-important-message-for-claude-users-starting-august-14-auto-mode-will-be-the-default-/articleshow/133090377.cms",
-          "date": "10 Aug 2026",
-          "summary": "Anthropic's Claude Code platform has announced that auto mode will now be the default setting for its users. This significant update enables the AI to tackle programming tasks autonomously, eliminating the need for pre-approval from developers. Tests reveal th…"
-        },
-        {
-          "title": "Trump admin has revoked over 1,75,000 visas since Jan 2025: Who is being targeted",
-          "link": "https://timesofindia.indiatimes.com/world/us/more-than-175000-visas-revoked-so-far-in-trumps-second-term-majority-due-to-criminal-activities-dui/articleshow/133136482.cms",
-          "date": "11 Aug 2026",
-          "summary": "The US State Department has taken a bold step by revoking more than 175,000 visas for foreign nationals, primarily due to criminal activity and the misuse of the immigration system. This move follows serious law enforcement encounters resulting in visa cancell…"
-        },
-        {
           "title": "Brittany Mahomes’ $400mn empire: How she built her career beyond Patrick’s shadow",
           "link": "https://timesofindia.indiatimes.com/sports/nfl/news/brittany-mahomes-400-million-business-empire-how-patrick-mahomes-wife-never-let-his-success-overshadow-her-career/articleshow/133103917.cms",
           "date": "10 Aug 2026",
           "summary": "Patrick Mahomes’ wife Brittany Mahomes has been a successful entrepreneur for years even though the star player has been famous for the last couple of years."
-        },
-        {
-          "title": "Kanter, White WNBA eligibility: Navratilova reacts to former NBA stars’ challenge",
-          "link": "https://timesofindia.indiatimes.com/sports/international-sports/kanter-and-white-wnba-eligibility-martina-navratilova-reacts-as-former-nba-players-challenge-the-leagues-rules-for-women/articleshow/133125182.cms",
-          "date": "10 Aug 2026",
-          "summary": "Martina Navratilova has questioned the WNBA’s current eligibility wording after Enes Kanter Freedom and Royce White announced plans to enter the 2027 draft. Cathy Engelbert says league leaders will discuss the issue next week. Navratilova has also backed Aryna…"
-        },
-        {
-          "title": "Is Shedeur Sanders losing Browns QB battle? Asante Samuel’s criticism explained",
-          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/is-shedeur-sanders-losing-the-browns-qb-battle-why-asante-samuels-criticism-comes-at-a-crucial-moment/articleshow/133121384.cms",
-          "date": "10 Aug 2026",
-          "summary": "Asante Samuel believes Shedeur Sanders is improving but still has habits that are hurting his chances to become the Browns’ starter. His comments came after Deshaun Watson unexpectedly took first-team reps. Samuel’s past feud with Deion Sanders makes the criti…"
-        },
-        {
-          "title": "Afghanistan qualify for 2027 ODI World Cup",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/afghanistan-qualify-for-2027-odi-world-cup-after-thrilling-win-over-ireland/articleshow/133140189.cms",
-          "date": "11 Aug 2026",
-          "summary": "Afghanistan entered the third ODI knowing that a win would be enough to seal their place in the 2027 ODI World Cup. They had already beaten Ireland by 92 runs in the second ODI, while the opening match of the five-match series was washed out. This will be Afgh…"
-        },
-        {
-          "title": "'Jana Nayagan' Day 19: Vijay-Pooja film hits Rs 320 crore, beats 'Karuppu'",
-          "link": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-box-office-collection-day-19-vijay-and-pooja-hegde-starrer-takes-a-lead-over-suriyas-karuppu-earns-rs-320-crore/articleshow/133139955.cms",
-          "date": "11 Aug 2026",
-          "summary": "Jana Nayagan is on a remarkable theatrical journey, closing in on an impressive Rs 320 crore globally. Despite a minor dip in momentum on Monday following a robust third weekend, the film’s India net earnings stand at Rs 193.05 crore, complemented by an overse…"
-        },
-        {
-          "title": "Airbus and French agency to join probe into Phuket flight",
-          "link": "https://timesofindia.indiatimes.com/india/air-india-turbulence-scare-airbus-and-french-agency-to-join-probe-into-phuket-flight/articleshow/133137353.cms",
-          "date": "11 Aug 2026",
-          "summary": "Pilot Behaviour, Technical Issues Under Scanner"
-        },
-        {
-          "title": "'Difficult assignment': Babar Azam advised to stay away from media on England tour",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/difficult-assignment-pcb-advised-to-keep-away-babar-azam-from-english-media-on-england-tour/articleshow/133117830.cms",
-          "date": "11 Aug 2026",
-          "summary": "Latif believes Babar could come under scrutiny from the English media and has suggested that former Pakistan captain Shan Masood should handle more of the team’s media interactions during the series."
-        },
-        {
-          "title": "Jharkhand protest: Police defend ‘mild force’, to scan CCTV for miscreants",
-          "link": "https://timesofindia.indiatimes.com/india/jharkhand-protest-police-defend-mild-force-to-scan-cctv-for-miscreants-key-points/articleshow/133138926.cms",
-          "date": "11 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "​​Youths on indefinite hunger strike against CJP founder shifted to hospital",
-          "link": "https://timesofindia.indiatimes.com/city/aurangabad/youths-on-indefinite-hunger-strike-against-cjp-founder-shifted-to-hospital-another-duo-continue-fast-in-protest-against-favouritism-in-core-committee/articleshow/133125073.cms",
-          "date": "11 Aug 2026",
-          "summary": "Two youths who were actively protesting the CJP's core committee list found themselves hospitalized on Monday. Manish Brahmabhatt and Rahul Pandya reported that police intervened forcibly. They criticized the CJP leadership for favoritism, alleging that they w…"
-        },
-        {
-          "title": "Sawan Shivratri 2026: 75+ quotes, wishes and WhatsApp statuses to share",
-          "link": "https://timesofindia.indiatimes.com/etimes/trending/75-sawan-shivratri-2026-wishes-quotes-whatsapp-messages-facebook-statuses-greetings-card-gifs-and-captions-to-share/articleshow/133104499.cms",
-          "date": "11 Aug 2026",
-          "summary": "Sawan Shivratri is a sacred occasion dedicated to Lord Shiva. Devotees observe the day with prayers, fasting, and temple visits. Families share good wishes with loved ones on this auspicious day. The article provides messages and greetings for sending to famil…"
-        },
-        {
-          "title": "‘Compulsive addiction to sanctions’: Iran mocks Trump admin's ‘suffocating’ threat",
-          "link": "https://timesofindia.indiatimes.com/world/middle-east/compulsive-addiction-to-sanctions-iran-mocks-trump-admins-suffocating-threat/articleshow/133139587.cms",
-          "date": "11 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "West Asia war fallout: Oil product exports find many new markets",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/oil-product-exports-find-many-new-markets/articleshow/133139691.cms",
-          "date": "11 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "US records hottest month ever as July heat shatters 132-year-old record",
-          "link": "https://timesofindia.indiatimes.com/world/us/us-records-hottest-month-ever-as-july-heat-shatters-132-year-old-record/articleshow/133137883.cms",
-          "date": "11 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "‘We’re reducing them’: Trump’s sweeping new US childhood vaccine order",
-          "link": "https://timesofindia.indiatimes.com/world/us/were-reducing-them-trump-targets-childhood-vaccine-schedule-pushes-separate-mmr-jabs/articleshow/133139638.cms",
-          "date": "11 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Jharkhand protest: Cops stop march to assembly with lathis, tear gas",
-          "link": "https://timesofindia.indiatimes.com/city/ranchi/thousands-of-protesters-breach-barricades-to-reach-house/articleshow/133123662.cms",
-          "date": "10 Aug 2026",
-          "summary": "3-4 Cops Injured In Stone Pelting: SP"
         }
       ]
     },
@@ -1630,6 +1630,54 @@
       "ok": true,
       "items": [
         {
+          "title": "nes-client-django added to PyPI",
+          "link": "https://pypi.org/project/nes-client-django/",
+          "date": "11 Aug 2026",
+          "summary": "Fire-and-forget async Python client for the NSS (Notification Sending Service) HTTP API, with a drop-in Django email backend."
+        },
+        {
+          "title": "python-drs added to PyPI",
+          "link": "https://pypi.org/project/python-drs/",
+          "date": "11 Aug 2026",
+          "summary": "A PyTorch-inspired, event-driven Discrete Rate Simulation framework."
+        },
+        {
+          "title": "claimkeep added to PyPI",
+          "link": "https://pypi.org/project/claimkeep/",
+          "date": "11 Aug 2026",
+          "summary": "Continuous memory for Claude Code context compaction."
+        },
+        {
+          "title": "legbar added to PyPI",
+          "link": "https://pypi.org/project/legbar/",
+          "date": "11 Aug 2026",
+          "summary": "One screen for the whole fleet: live agent sessions beside GitHub CI"
+        },
+        {
+          "title": "IndodaxClient added to PyPI",
+          "link": "https://pypi.org/project/indodaxclient/",
+          "date": "11 Aug 2026",
+          "summary": "Python client library for the Indodax New Trade API V2"
+        },
+        {
+          "title": "homestead-ledger added to PyPI",
+          "link": "https://pypi.org/project/homestead-ledger/",
+          "date": "11 Aug 2026",
+          "summary": "Homestead · Affairs — module two. The household's own books, local-first on SQLite, 'mirror not judge'."
+        },
+        {
+          "title": "ainative-social-mcp added to PyPI",
+          "link": "https://pypi.org/project/ainative-social-mcp/",
+          "date": "11 Aug 2026",
+          "summary": "AINative Social Growth MCP — post and schedule across LinkedIn, Slack, Reddit, YouTube and more from one MCP, via the AINative backend (official platform APIs)."
+        },
+        {
+          "title": "cml-python-adapter added to PyPI",
+          "link": "https://pypi.org/project/cml-python-adapter/",
+          "date": "11 Aug 2026",
+          "summary": "Dependency-free Python adapter for the CML reference compiler."
+        },
+        {
           "title": "refdes added to PyPI",
           "link": "https://pypi.org/project/refdes/",
           "date": "11 Aug 2026",
@@ -1760,54 +1808,6 @@
           "link": "https://pypi.org/project/zdqsgithub-alice-cli/",
           "date": "11 Aug 2026",
           "summary": "Alice CLI — a governed agent for research and model development"
-        },
-        {
-          "title": "shredder-encryptor-cli added to PyPI",
-          "link": "https://pypi.org/project/shredder-encryptor-cli/",
-          "date": "11 Aug 2026",
-          "summary": "A colourful command-line front-end for shredder-encryptor built on top of argparse."
-        },
-        {
-          "title": "visual-understanding added to PyPI",
-          "link": "https://pypi.org/project/visual-understanding/",
-          "date": "11 Aug 2026",
-          "summary": "Multi-provider visual understanding MCP server & CLI — caption, OCR, Q&A, grounding"
-        },
-        {
-          "title": "smartedit-explorer added to PyPI",
-          "link": "https://pypi.org/project/smartedit-explorer/",
-          "date": "11 Aug 2026",
-          "summary": "Map SmartEdit Writer projects to the filesystem — find which file is which scene, note, or attachment."
-        },
-        {
-          "title": "torchgsp added to PyPI",
-          "link": "https://pypi.org/project/torchgsp/",
-          "date": "11 Aug 2026",
-          "summary": "Reserved package name. Functional release forthcoming."
-        },
-        {
-          "title": "tamga-sdk added to PyPI",
-          "link": "https://pypi.org/project/tamga-sdk/",
-          "date": "11 Aug 2026",
-          "summary": "Official Python SDK for Tamga. Integrate license activation, offline verification, and machine management into your Python applications."
-        },
-        {
-          "title": "whichfirst added to PyPI",
-          "link": "https://pypi.org/project/whichfirst/",
-          "date": "11 Aug 2026",
-          "summary": "Which barrier came first? Audit the triple-barrier labels that OHLC data cannot identify."
-        },
-        {
-          "title": "tkai-chat added to PyPI",
-          "link": "https://pypi.org/project/tkai-chat/",
-          "date": "11 Aug 2026",
-          "summary": "Local LLM chat client with web search enhancement"
-        },
-        {
-          "title": "leetcode-sensei added to PyPI",
-          "link": "https://pypi.org/project/leetcode-sensei/",
-          "date": "11 Aug 2026",
-          "summary": "A spaced-repetition CLI for LeetCode practice problems"
         }
       ]
     }
