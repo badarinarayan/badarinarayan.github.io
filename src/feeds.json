@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-11T19:55:17Z",
+  "generated": "2026-08-11T20:35:14Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,18 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "US stocks: US market ends down as Iran peace deal optimism fades",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-down-as-iran-peace-deal-optimism-fades/articleshow/133165118.cms",
+          "date": "12 Aug 2026",
+          "summary": "Wall Street closed lower as investors grew pessimistic about Middle East stability. Amazon and Alphabet stocks dipped, impacting major indices like the S&P 500. Brent crude futures held near one-week highs amid rising oil prices and uncertainty. Investors awai…"
+        },
+        {
+          "title": "Fed’s Austan Goolsbee says inflation is the biggest problem on Fed rate signal",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/feds-austan-goolsbee-says-inflation-is-the-biggest-problem-on-fed-rate-signal/articleshow/133164860.cms",
+          "date": "12 Aug 2026",
+          "summary": "Chicago Fed President Austan Goolsbee has voiced significant worry over soaring inflation, recognizing it as the foremost challenge facing the economy today. While he deems the labor market stable, he doesn't classify it as vigorous. Meanwhile, traders are wei…"
+        },
         {
           "title": "India govt says retail option trader losses fell 18% after regulatory curbs",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/india-says-retail-option-trader-losses-fell-18-after-regulatory-curbs/articleshow/133156271.cms",
@@ -30,18 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/commodities/news/sebi-proposes-to-widen-foreign-investors-access-to-non-agricultural-commodities-derivatives/articleshow/133153234.cms",
           "date": "11 Aug 2026",
           "summary": "Sebi plans to permit Foreign Portfolio Investors in physically settled commodity derivatives. This move aims to boost institutional participation and market liquidity. Safeguards ensure FPIs avoid delivery obligations through a two-tier mechanism. Positions ar…"
-        },
-        {
-          "title": "CME to allow round-the-clock trading of 100-Ounce Silver futures from September",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/cme-to-allow-round-the-clock-trading-of-100-ounce-silver-futures-from-september/articleshow/133156331.cms",
-          "date": "11 Aug 2026",
-          "summary": "CME Group is set to launch 24/7 trading for silver futures starting in September, responding to heightened retail demand for precious metal products. Over fifty-three thousand gold futures contracts changed hands during weekend trading sessions alone. The comp…"
-        },
-        {
-          "title": "Without Warren Buffett, Berkshire Hathaway is no longer an attractive investment: ‘Big Short’ fame Michael Burry",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/without-warren-buffett-berkshire-hathaway-is-no-longer-an-attractive-investment-big-short-fame-michael-burry/articleshow/133147802.cms",
-          "date": "11 Aug 2026",
-          "summary": "Veteran investor Michael Burry said Berkshire Hathaway has lost its investment appeal after Warren Buffett’s succession, arguing that Greg Abel may lack Buffett’s patience for major opportunities. Burry also flagged concerns over Berkshire’s large cash pile, s…"
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -196,22 +196,16 @@
       "ok": true,
       "items": [
         {
-          "title": "Middle East standoff: Why Gulf states may accept that Iran will control Hormuz",
-          "link": "https://timesofindia.indiatimes.com/world/middle-east/middle-east-standoff-why-gulf-states-may-accept-that-iran-will-control-the-strait-of-hormuz/articleshow/133161794.cms",
+          "title": "70 dead, 204 roads blocked: Himachal reels under monsoon fury; damage tops Rs 910 cr",
+          "link": "https://timesofindia.indiatimes.com/india/70-dead-204-roads-blocked-himachal-pradesh-reels-under-monsoon-fury-damage-tops-rs-910-crore/articleshow/133160297.cms",
           "date": "11 Aug 2026",
-          "summary": "Gulf energy producers have acknowledged Iran's assertion of control over the critical Strait of Hormuz. This development occurs amidst attempts to resume passage through this essential route, which are stymied by ongoing tensions. Governments in the region pri…"
+          "summary": "Himachal Pradesh has been severely affected by monsoon rains, resulting in 70 fatalities and 204 roadblocks. Damages to public property have skyrocketed to over Rs 910 crore. The primary causes of these tragic deaths include landslides and mishaps from steep t…"
         },
         {
-          "title": "Old allies, new equation? Why SAD and BJP may join hands for Punjab polls",
-          "link": "https://timesofindia.indiatimes.com/india/old-allies-new-equation-why-sad-and-bjp-may-join-hands-for-2027-punjab-assembly-elections/articleshow/133151042.cms",
-          "date": "11 Aug 2026",
-          "summary": "Haryana chief minister Nayab Singh Saini has categorically denied any prospective alliance with Shiromani Akali Dal for 2027 Punjab assembly elections. However, recent discussions between Prime Minister Narendra Modi and SAD leader Sukhbir Singh Badal have led…"
-        },
-        {
-          "title": "Trump's Turkey takeout: World's most protected man spirited out in catering container",
-          "link": "https://timesofindia.indiatimes.com/world/us/trumps-turkey-takeout-worlds-most-protected-man-was-spirited-out-in-a-catering-container/articleshow/133158586.cms",
-          "date": "11 Aug 2026",
-          "summary": "In a covert operation to ensure President Trump's safety, his security team reportedly employed a catering vehicle to transport him from a decoy aircraft in Turkey, responding to credible Iranian threats. This complex plan involved a smaller airplane ferrying…"
+          "title": "Kashmiri Pandits’ security stepped up after ‘threat letter’ from Lashkar arm",
+          "link": "https://timesofindia.indiatimes.com/india/kashmiri-pandits-security-stepped-up-after-threat-letter-from-lashkar-arm/articleshow/133165148.cms",
+          "date": "12 Aug 2026",
+          "summary": ""
         },
         {
           "title": "Why Messi didn't visit Kerala? Sports department tells govt in 'highly confidential manner'",
@@ -220,10 +214,10 @@
           "summary": "Kerala’s Sports Department has submitted a confidential inquiry report into the failed proposal to bring Lionel Messi and Argentina’s football team to the state. The probe examined whether proper procedures and agreements were followed. While reports suggest s…"
         },
         {
-          "title": "70 dead, 204 roads blocked: Himachal reels under monsoon fury; damage tops Rs 910 cr",
-          "link": "https://timesofindia.indiatimes.com/india/70-dead-204-roads-blocked-himachal-pradesh-reels-under-monsoon-fury-damage-tops-rs-910-crore/articleshow/133160297.cms",
-          "date": "11 Aug 2026",
-          "summary": "Himachal Pradesh has been severely affected by monsoon rains, resulting in 70 fatalities and 204 roadblocks. Damages to public property have skyrocketed to over Rs 910 crore. The primary causes of these tragic deaths include landslides and mishaps from steep t…"
+          "title": "HC bins plea of J&amp;K cop sacked for skipping duty over terror threat",
+          "link": "https://timesofindia.indiatimes.com/india/only-god-can-save-this-country-hc-bins-plea-of-jk-cop-sacked-for-skipping-duty-over-terror-threat/articleshow/133165098.cms",
+          "date": "12 Aug 2026",
+          "summary": ""
         },
         {
           "title": "August 12 solar eclipse: Europe set for first total eclipse in 27 years",
@@ -232,28 +226,34 @@
           "summary": "Europe will witness its first total solar eclipse in twenty-seven years on August twelfth. Millions across Iceland and northern Spain will experience this rare celestial event. Nasa will livestream the eclipse for viewers outside the path of totality. American…"
         },
         {
-          "title": "Trump promises 'a great cheeseburger' to marine veteran freed from Russian prison",
-          "link": "https://timesofindia.indiatimes.com/world/us/trump-promises-a-great-cheeseburger-to-marine-veteran-freed-from-russian-prison/articleshow/133161218.cms",
+          "title": "Middle East standoff: Why Gulf states may accept that Iran will control Hormuz",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/middle-east-standoff-why-gulf-states-may-accept-that-iran-will-control-the-strait-of-hormuz/articleshow/133161794.cms",
           "date": "11 Aug 2026",
-          "summary": ""
+          "summary": "Gulf energy producers have acknowledged Iran's assertion of control over the critical Strait of Hormuz. This development occurs amidst attempts to resume passage through this essential route, which are stymied by ongoing tensions. Governments in the region pri…"
         },
         {
-          "title": "Examining Mecca pact impact on national security, will protect interests, says MEA",
-          "link": "https://timesofindia.indiatimes.com/india/examining-mecca-pact-impact-on-national-security-will-protect-interests-says-mea/articleshow/133154226.cms",
-          "date": "11 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Horoscope Today: Daily astrological predictions for August 12",
-          "link": "https://timesofindia.indiatimes.com/astrology/horoscope/horoscope-today-daily-astrological-predictions-for-august-12-2026/articleshow/133160142.cms",
+          "title": "Row erupts over plans to convert listed pub in UK into mosque",
+          "link": "https://timesofindia.indiatimes.com/world/uk/row-erupts-over-plans-to-convert-listed-pub-in-uk-into-mosque/articleshow/133165059.cms",
           "date": "12 Aug 2026",
-          "summary": "Horoscope Today: Read daily horoscope predictions for August 12, 2026. Know all about the astrological events and influences that will be affecting each of the 12 zodiac signs. Our astrologer has analyzed the movements of the planets and the alignment of the s…"
+          "summary": ""
+        },
+        {
+          "title": "Old allies, new equation? Why SAD and BJP may join hands for Punjab polls",
+          "link": "https://timesofindia.indiatimes.com/india/old-allies-new-equation-why-sad-and-bjp-may-join-hands-for-2027-punjab-assembly-elections/articleshow/133151042.cms",
+          "date": "11 Aug 2026",
+          "summary": "Haryana chief minister Nayab Singh Saini has categorically denied any prospective alliance with Shiromani Akali Dal for 2027 Punjab assembly elections. However, recent discussions between Prime Minister Narendra Modi and SAD leader Sukhbir Singh Badal have led…"
         },
         {
           "title": "Mark Zuckerberg's $300M yacht booed over rescue call; clarification issued",
           "link": "https://timesofindia.indiatimes.com/technology/tech-news/after-mark-zuckerbergs-300-million-387-foot-yacht-launchpad-booed-for-not-responding-to-distress-call-by-stranded-small-cruise-ship-clarification-issued/articleshow/133094464.cms",
           "date": "10 Aug 2026",
           "summary": "Mark Zuckerberg's superyacht Launchpad faced criticism after a stranded boat incident. The vessel's crew was reportedly on a different radio channel during the emergency. Help was already en route when the yacht's crew reviewed the assistance request. The yach…"
+        },
+        {
+          "title": "Trump's Turkey takeout: World's most protected man spirited out in catering container",
+          "link": "https://timesofindia.indiatimes.com/world/us/trumps-turkey-takeout-worlds-most-protected-man-was-spirited-out-in-a-catering-container/articleshow/133158586.cms",
+          "date": "11 Aug 2026",
+          "summary": "In a covert operation to ensure President Trump's safety, his security team reportedly employed a catering vehicle to transport him from a decoy aircraft in Turkey, responding to credible Iranian threats. This complex plan involved a smaller airplane ferrying…"
         },
         {
           "title": "Yonkers uncovers buried river, creating 14,000 sq ft of aquatic habitat",
@@ -274,22 +274,22 @@
           "summary": "Accenture has implemented a new policy allowing employees to carry over their unused vacation days, aiming to bolster business performance as the fiscal year winds down. CEO Julie Sweet has urged employees to maximize their efforts in these critical weeks. How…"
         },
         {
-          "title": "Shweta Tiwari diagnosed with dengue, hospitalised",
-          "link": "https://timesofindia.indiatimes.com/tv/news/hindi/shweta-tiwari-diagnosed-with-dengue-hospitalised-ahead-of-the-traitors-2-premiere/articleshow/133160323.cms",
-          "date": "11 Aug 2026",
-          "summary": "Shweta Tiwari, the popular actress renowned for her performances in shows like Kasautii Zindagii Kay, has been hospitalized due to dengue fever. As she undergoes treatment, she remains focused on her upcoming appearance in The Traitors 2. Meanwhile, her ex-hus…"
+          "title": "Terror suspects spotted, search ops launched in J&amp;K’s Doda &amp; Poonch",
+          "link": "https://timesofindia.indiatimes.com/india/terror-suspects-spotted-search-ops-launched-in-jks-doda-poonch/articleshow/133165131.cms",
+          "date": "12 Aug 2026",
+          "summary": ""
         },
         {
-          "title": "After being denied a direct spot, how can Windies qualify for the 2027 WC?",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/after-being-denied-a-direct-spot-how-can-west-indies-qualify-for-the-2027-odi-world-cup/articleshow/133156408.cms",
+          "title": "Trump promises 'a great cheeseburger' to marine veteran freed from Russian prison",
+          "link": "https://timesofindia.indiatimes.com/world/us/trump-promises-a-great-cheeseburger-to-marine-veteran-freed-from-russian-prison/articleshow/133161218.cms",
           "date": "11 Aug 2026",
-          "summary": "West Indies, two-time ODI World Cup champions, will miss out on direct qualification for the 2027 tournament and must go through the Qualifier in February. Winning it secures direct entry to the second round, while finishing second to fourth means another hurd…"
+          "summary": ""
         },
         {
-          "title": "UK radio station falsely announces King Charles’ death, breaches standards",
-          "link": "https://timesofindia.indiatimes.com/world/uk/king-charles-death-falsely-announced-followed-by-national-anthem-and-16-minutes-of-silence-uk-radio-station-breached-broadcast-standards/articleshow/133160187.cms",
-          "date": "11 Aug 2026",
-          "summary": "King Charles’ death was mistakenly announced on UK radio station Radio Caroline after a staff member accidentally aired pre-recorded statements prepared for such an event. The broadcast included the national anthem and 16 minutes of silence before regular prog…"
+          "title": "Connecticut woman builds 725-square-foot backyard cottage for retired parents",
+          "link": "https://timesofindia.indiatimes.com/life-style/people/a-connecticut-woman-designed-a-725-square-foot-backyard-cottage-for-her-retired-parents-now-three-generations-live-just-steps-apart/articleshow/133109177.cms",
+          "date": "10 Aug 2026",
+          "summary": ""
         },
         {
           "title": "Jaguar TCS Racing sets world record with 29 runners over 100km",
@@ -308,6 +308,36 @@
           "link": "https://timesofindia.indiatimes.com/sports/nfl/news/patrick-mahomes-controversial-confession-sparks-a-heated-debate-as-fitness-concerns-loom-ahead-of-new-season/articleshow/133155868.cms",
           "date": "11 Aug 2026",
           "summary": "Patrick Mahomes' recent confesion about his wealth has sparked a massive debate about his fitness as many remain worried about him."
+        },
+        {
+          "title": "Examining Mecca pact impact on national security, will protect interests, says MEA",
+          "link": "https://timesofindia.indiatimes.com/india/examining-mecca-pact-impact-on-national-security-will-protect-interests-says-mea/articleshow/133154226.cms",
+          "date": "11 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Horoscope Today: Daily astrological predictions for August 12",
+          "link": "https://timesofindia.indiatimes.com/astrology/horoscope/horoscope-today-daily-astrological-predictions-for-august-12-2026/articleshow/133160142.cms",
+          "date": "12 Aug 2026",
+          "summary": "Horoscope Today: Read daily horoscope predictions for August 12, 2026. Know all about the astrological events and influences that will be affecting each of the 12 zodiac signs. Our astrologer has analyzed the movements of the planets and the alignment of the s…"
+        },
+        {
+          "title": "Shweta Tiwari diagnosed with dengue, hospitalised",
+          "link": "https://timesofindia.indiatimes.com/tv/news/hindi/shweta-tiwari-diagnosed-with-dengue-hospitalised-ahead-of-the-traitors-2-premiere/articleshow/133160323.cms",
+          "date": "11 Aug 2026",
+          "summary": "Shweta Tiwari, the popular actress renowned for her performances in shows like Kasautii Zindagii Kay, has been hospitalized due to dengue fever. As she undergoes treatment, she remains focused on her upcoming appearance in The Traitors 2. Meanwhile, her ex-hus…"
+        },
+        {
+          "title": "After being denied a direct spot, how can Windies qualify for the 2027 WC?",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/after-being-denied-a-direct-spot-how-can-west-indies-qualify-for-the-2027-odi-world-cup/articleshow/133156408.cms",
+          "date": "11 Aug 2026",
+          "summary": "West Indies, two-time ODI World Cup champions, will miss out on direct qualification for the 2027 tournament and must go through the Qualifier in February. Winning it secures direct entry to the second round, while finishing second to fourth means another hurd…"
+        },
+        {
+          "title": "UK radio station falsely announces King Charles’ death, breaches standards",
+          "link": "https://timesofindia.indiatimes.com/world/uk/king-charles-death-falsely-announced-followed-by-national-anthem-and-16-minutes-of-silence-uk-radio-station-breached-broadcast-standards/articleshow/133160187.cms",
+          "date": "11 Aug 2026",
+          "summary": "King Charles’ death was mistakenly announced on UK radio station Radio Caroline after a staff member accidentally aired pre-recorded statements prepared for such an event. The broadcast included the national anthem and 16 minutes of silence before regular prog…"
         },
         {
           "title": "HC rules in the favour of Janhvi, orders removal of obscene content from 5000 pages",
@@ -344,36 +374,6 @@
           "link": "https://timesofindia.indiatimes.com/sports/cricket/news/duan-jansen-marcos-twin-brother-earns-maiden-south-africa-call-up-for-namibia-tour/articleshow/133155140.cms",
           "date": "11 Aug 2026",
           "summary": "Duan Jansen, twin brother of Marco, has received his maiden South Africa call-up for the Namibia tour. The Proteas will play a T20I tri-series against Namibia and Zimbabwe before a historic three-match ODI series against Namibia. Bjorn Fortuin will captain the…"
-        },
-        {
-          "title": "Fitch retains India’s credit rating at BBB-, sees strong economy",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/fitch-retains-indias-credit-rating-at-bbb-sees-strong-economy-warns-of-fiscal-risks-due-to-protests/articleshow/133159371.cms",
-          "date": "11 Aug 2026",
-          "summary": "The ratings agency said the Indian economy continues to demonstrate resilience despite the energy shock arising from the conflict in West Asia, supported by a strong growth outlook and sound external financing fundamentals."
-        },
-        {
-          "title": "'I'm their banker': Trump says US controls Iran's frozen assets, threatens action",
-          "link": "https://timesofindia.indiatimes.com/world/us/im-their-banker-trump-says-us-controls-irans-frozen-assets-as-he-threatens-economic-or-military-action/articleshow/133160695.cms",
-          "date": "11 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "'Gruesome assault': High court denies bail to Olympic medallist in murder case",
-          "link": "https://timesofindia.indiatimes.com/sports/off-the-field/premeditated-and-gruesome-assault-delhi-high-court-denies-bail-to-olympic-medalist-sushil-kumar-in-murder-case/articleshow/133152292.cms",
-          "date": "11 Aug 2026",
-          "summary": "Justice Purushaindra Kumar dismissed Kumar's bail plea on August 6, citing concerns about his ability to influence witnesses, his conduct before his arrest, the seriousness of the alleged offence and his ability to affect the outcome of the ongoing trial."
-        },
-        {
-          "title": "Gangs of WhatsAppur: Mumbai’s thieves reinvent codes for digital age",
-          "link": "https://timesofindia.indiatimes.com/city/mumbai/gangs-of-whatsappur-mumbais-thieves-reinvent-codes-for-digital-age/articleshow/133128967.cms",
-          "date": "10 Aug 2026",
-          "summary": "Mumbai police have made headlines by unearthing a pickpocketing ring that relied on encrypted WhatsApp chats for coordination. This gang demonstrated intricate organization, defining roles and modifying their communication codes daily. Historically, thieves ad…"
-        },
-        {
-          "title": "'No Chinese encroachment in Arunachal': Social media claims dismissed",
-          "link": "https://timesofindia.indiatimes.com/india/no-chinese-encroachment-in-arunachal-social-media-claims-attention-seeking-ploy-report/articleshow/133158001.cms",
-          "date": "11 Aug 2026",
-          "summary": ""
         }
       ]
     },
@@ -1152,6 +1152,12 @@
       "ok": true,
       "items": [
         {
+          "title": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices On a Call",
+          "link": "https://it.slashdot.org/story/26/08/11/1951224/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "11 Aug 2026",
+          "summary": "An anonymous reader quotes a report from Wired: As AI models gain advanced capabilities to find vulnerabilities in software, develop ways to exploit them, and even carry out autonomous hacking sprees, researchers offered a sobering new example on Tuesday, disc…"
+        },
+        {
           "title": "Spotify Will Label 'AI Persona' Profiles, Exclude Their Music From Recommendations",
           "link": "https://entertainment.slashdot.org/story/26/08/11/1741252/spotify-will-label-ai-persona-profiles-exclude-their-music-from-recommendations?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "11 Aug 2026",
@@ -1234,12 +1240,6 @@
           "link": "https://tech.slashdot.org/story/26/08/10/163237/metas-open-muse-glimmer-model-can-run-on-a-single-computer?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "10 Aug 2026",
           "summary": "Meta has released Muse Glimmer, a slimmed-down open-weight AI model designed to run locally on a single GPU for agent tasks such as scheduling, file management, coding, and tool use. The release is based on Meta's closed Muse Spark 1.2 model and appears to be…"
-        },
-        {
-          "title": "Taiwan 'Throttles' Mobile Internet For First Time During Annual War Games",
-          "link": "https://tech.slashdot.org/story/26/08/10/1557258/taiwan-throttles-mobile-internet-for-first-time-during-annual-war-games?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "10 Aug 2026",
-          "summary": "Taiwan deliberately throttled mobile internet across the Taichung area during its annual Han Kuang war games, \"simulating communication disruption in the event of a Chinese attack or natural disaster,\" reports Reuters. The drill accompanied air-raid exercises…"
         }
       ]
     },
@@ -1630,184 +1630,184 @@
       "ok": true,
       "items": [
         {
-          "title": "bifpack added to PyPI",
-          "link": "https://pypi.org/project/bifpack/",
+          "title": "lumos-code added to PyPI",
+          "link": "https://pypi.org/project/lumos-code/",
           "date": "11 Aug 2026",
-          "summary": "A Python interface to BIFPACK, R. Seydel's Fortran package for continuation, bifurcation, and stability analysis."
+          "summary": "Polyglot CPG-Stack für lokales Live-Coding & Agent-Guardrails"
         },
         {
-          "title": "usbairq added to PyPI",
-          "link": "https://pypi.org/project/usbairq/",
+          "title": "prompt-manager-client-dl added to PyPI",
+          "link": "https://pypi.org/project/prompt-manager-client-dl/",
           "date": "11 Aug 2026",
-          "summary": "Asynchronous library to talk to air-Q devices over their USB serial port."
+          "summary": "Live-updating client for Prompt Manager"
         },
         {
-          "title": "agent2 added to PyPI",
-          "link": "https://pypi.org/project/agent2/",
+          "title": "almond-pyroki added to PyPI",
+          "link": "https://pypi.org/project/almond-pyroki/",
           "date": "11 Aug 2026",
-          "summary": "A modular agent system framework for learning and research"
+          "summary": "Almond's fork of PyRoki: Python robot kinematics library. Installs the `pyroki` module."
         },
         {
-          "title": "tasq-remote added to PyPI",
-          "link": "https://pypi.org/project/tasq-remote/",
+          "title": "designspace added to PyPI",
+          "link": "https://pypi.org/project/designspace/",
           "date": "11 Aug 2026",
-          "summary": "Thin authenticated Python client for Tasq Server"
+          "summary": "Declarative design spaces with a polars-like expression API"
         },
         {
-          "title": "fastpluggy-ia-tools added to PyPI",
-          "link": "https://pypi.org/project/fastpluggy-ia-tools/",
+          "title": "labcensus added to PyPI",
+          "link": "https://pypi.org/project/labcensus/",
           "date": "11 Aug 2026",
-          "summary": "Placeholder to reserve this name — not the real package."
+          "summary": "A read-only scanner that reports what is actually on a research lab's storage."
         },
         {
-          "title": "fmps added to PyPI",
-          "link": "https://pypi.org/project/fmps/",
+          "title": "boundaryguard added to PyPI",
+          "link": "https://pypi.org/project/boundaryguard/",
           "date": "11 Aug 2026",
-          "summary": "Compiler and Decompiler for the FMP (Flexible Music Packed) audio format."
+          "summary": "Detect and remove invisible Unicode security hazards (Trojan Source / CVE-2021-42574 class)"
         },
         {
-          "title": "bindai-prompt-builder added to PyPI",
-          "link": "https://pypi.org/project/bindai-prompt-builder/",
+          "title": "aws-iac-cost-estimator-mcp-server added to PyPI",
+          "link": "https://pypi.org/project/aws-iac-cost-estimator-mcp-server/",
           "date": "11 Aug 2026",
-          "summary": "BindAI Prompt Builder"
+          "summary": "An MCP server that estimates AWS monthly costs from Terraform and CDK infrastructure-as-code files"
         },
         {
-          "title": "pysht added to PyPI",
-          "link": "https://pypi.org/project/pysht/",
+          "title": "serp-audit-engine added to PyPI",
+          "link": "https://pypi.org/project/serp-audit-engine/",
           "date": "11 Aug 2026",
-          "summary": "Validated statistical hypothesis tests for scientific Python"
+          "summary": "SERP Audit Engine is an AI-powered SEO and search visibility audit framework that helps businesses identify website issues and improve their visibility across traditional search and AI platforms."
         },
         {
-          "title": "yrcom added to PyPI",
-          "link": "https://pypi.org/project/yrcom/",
+          "title": "lechapo-lib added to PyPI",
+          "link": "https://pypi.org/project/lechapo-lib/",
           "date": "11 Aug 2026",
-          "summary": "Yaskawa robot communication — Ethernet Server, HSES and HSES File Control (pure stdlib)"
+          "summary": "A tiny python layer of abstraction for the TKinter library"
         },
         {
-          "title": "jaimenbell-video-digest added to PyPI",
-          "link": "https://pypi.org/project/jaimenbell-video-digest/",
+          "title": "shsk_doc_writing_styles added to PyPI",
+          "link": "https://pypi.org/project/shsk-doc-writing-styles/",
           "date": "11 Aug 2026",
-          "summary": "Turn a video (URL or local mp4) into keyframes + transcript + a structured markdown digest. Fully local, $0."
+          "summary": "A Claude Code plugin providing personal documentation writing style conventions."
         },
         {
-          "title": "fs-palm added to PyPI",
-          "link": "https://pypi.org/project/fs-palm/",
+          "title": "omem-infrastructure added to PyPI",
+          "link": "https://pypi.org/project/omem-infrastructure/",
           "date": "11 Aug 2026",
-          "summary": "Software package accompanying FS-P-ALM paper (with examples)."
+          "summary": "Trustworthy memory for AI agents — the official OMEM Python SDK."
         },
         {
-          "title": "record-index added to PyPI",
-          "link": "https://pypi.org/project/record-index/",
+          "title": "colonynet added to PyPI",
+          "link": "https://pypi.org/project/colonynet/",
           "date": "11 Aug 2026",
-          "summary": "A governed SQLite+FTS5 map over a markdown decision record — query the record instead of reading it, with per-repo conventions declared rather than hard-coded."
+          "summary": "An open-source orchestration and governance layer for private, distributed AI-agent networks."
         },
         {
-          "title": "advect added to PyPI",
-          "link": "https://pypi.org/project/advect/",
+          "title": "types-boto3-account-access added to PyPI",
+          "link": "https://pypi.org/project/types-boto3-account-access/",
           "date": "11 Aug 2026",
-          "summary": "Automatic differentiation for the NumPy code you already write"
+          "summary": "Type annotations for boto3 AccountAccess 1.43.69 service generated with mypy-boto3-builder 8.12.0"
         },
         {
-          "title": "peewee-access added to PyPI",
-          "link": "https://pypi.org/project/peewee-access/",
+          "title": "agent-capability-negotiation added to PyPI",
+          "link": "https://pypi.org/project/agent-capability-negotiation/",
           "date": "11 Aug 2026",
-          "summary": "Microsoft Access (JET/ACE) backend for the peewee ORM"
+          "summary": "Canonical capability manifest schema + 3-step pre-delegation negotiation handshake with HMAC-signed manifests, capability diff, and TTL. Zero runtime dependencies."
         },
         {
-          "title": "telebot-pro added to PyPI",
-          "link": "https://pypi.org/project/telebot-pro/",
+          "title": "heatpumpmodel added to PyPI",
+          "link": "https://pypi.org/project/heatpumpmodel/",
           "date": "11 Aug 2026",
-          "summary": "Расширенная библиотека для Telegram Bot API"
+          "summary": "Heat-pump seasonal-performance model (Rogeau et al. 2024) shared by buildingmodel and building_eload"
         },
         {
-          "title": "agent-safety-doctor added to PyPI",
-          "link": "https://pypi.org/project/agent-safety-doctor/",
+          "title": "obiobi added to PyPI",
+          "link": "https://pypi.org/project/obiobi/",
           "date": "11 Aug 2026",
-          "summary": "Local-first safety scanner and incident report generator for AI coding agent workspaces."
+          "summary": "帯 — a quiet band around your shell. Ask in plain English; the command appears in grey, Tab accepts it."
         },
         {
-          "title": "stream-transformer added to PyPI",
-          "link": "https://pypi.org/project/stream-transformer/",
+          "title": "statsbadge-octopus added to PyPI",
+          "link": "https://pypi.org/project/statsbadge-octopus/",
           "date": "11 Aug 2026",
-          "summary": "Depth-Invariant Layer-Streaming Engine for Lossless Full-Precision LLM Inference and Training with O(1) Memory."
+          "summary": "Octopus Energy half-hourly prices and meter readings as statsbadge readings"
         },
         {
-          "title": "kicad-mcp-kipy added to PyPI",
-          "link": "https://pypi.org/project/kicad-mcp-kipy/",
+          "title": "operator-architecture added to PyPI",
+          "link": "https://pypi.org/project/operator-architecture/",
           "date": "11 Aug 2026",
-          "summary": "KiCad MCP server for KiCad 10 using kipy (official KiCad Python API)"
+          "summary": "Framework-agnostic multi-agent orchestration SDK (Operator Architecture)"
         },
         {
-          "title": "caddie-mcp added to PyPI",
-          "link": "https://pypi.org/project/caddie-mcp/",
+          "title": "readerkit added to PyPI",
+          "link": "https://pypi.org/project/readerkit/",
           "date": "11 Aug 2026",
-          "summary": "LLM-optimized MCP connector for Garmin golf and health data"
+          "summary": "Cached HTTP sessions, cache-directory resolution, and a bulk artifact cache for data readers."
         },
         {
-          "title": "se-harness added to PyPI",
-          "link": "https://pypi.org/project/se-harness/",
+          "title": "constellation-node-sdk added to PyPI",
+          "link": "https://pypi.org/project/constellation-node-sdk/",
           "date": "11 Aug 2026",
-          "summary": "A repository-native, specification-driven software-engineering harness"
+          "summary": "L9 Constellation Node SDK — TransportPacket runtime, Gate client, and node factory"
         },
         {
-          "title": "sleepyrat-cli added to PyPI",
-          "link": "https://pypi.org/project/sleepyrat-cli/",
+          "title": "vyank added to PyPI",
+          "link": "https://pypi.org/project/vyank/",
           "date": "11 Aug 2026",
-          "summary": "Secure command-line client for the SleepyRat V1 API"
+          "summary": "Tkinter YouTube downloader for videos, audio, playlists, and channels."
         },
         {
-          "title": "chatmesh added to PyPI",
-          "link": "https://pypi.org/project/chatmesh/",
+          "title": "whatsapp-mcp-local added to PyPI",
+          "link": "https://pypi.org/project/whatsapp-mcp-local/",
           "date": "11 Aug 2026",
-          "summary": "Connect long-running agents over NATS JetStream."
+          "summary": "MCP server: visão e escrita no WhatsApp nativo do macOS (leitura via banco local read-only + escrita com gate de confirmação)"
         },
         {
-          "title": "nepkit added to PyPI",
-          "link": "https://pypi.org/project/nepkit/",
+          "title": "assist-sim added to PyPI",
+          "link": "https://pypi.org/project/assist-sim/",
           "date": "11 Aug 2026",
-          "summary": "Typed Bikram Sambat ↔ Gregorian date conversion, as a library and a CLI."
+          "summary": "Programmatic combination of musculoskeletal models and assistive devices for MyoAssist training"
         },
         {
-          "title": "tp-wy added to PyPI",
-          "link": "https://pypi.org/project/tp-wy/",
+          "title": "myoassist-terrains added to PyPI",
+          "link": "https://pypi.org/project/myoassist-terrains/",
           "date": "11 Aug 2026",
-          "summary": "从项目文件（PRD / 规格 / README 等）中提取任务拆解模板，供 tasker 多智能体编排器的 LLM 拆分阶段使用"
+          "summary": "Modular procedural terrain generator for MuJoCo musculoskeletal simulation, designed to be consumed by MyoAssist."
         },
         {
-          "title": "readndraft-imap-mcp added to PyPI",
-          "link": "https://pypi.org/project/readndraft-imap-mcp/",
+          "title": "fastcatan added to PyPI",
+          "link": "https://pypi.org/project/fastcatan/",
           "date": "11 Aug 2026",
-          "summary": "Capability-minimized IMAP MCP service"
+          "summary": "High-throughput Catan simulator with Python bindings (frozen)"
         },
         {
-          "title": "zetify-sdk added to PyPI",
-          "link": "https://pypi.org/project/zetify-sdk/",
+          "title": "lipid-pathway-integrator added to PyPI",
+          "link": "https://pypi.org/project/lipid-pathway-integrator/",
           "date": "11 Aug 2026",
-          "summary": "Name reserved by Zetify. The Zetify Python SDK is `zetify-app`."
+          "summary": "Unifies lipid ontology-aware representation and pathway-based multi-omics integration in a single framework"
         },
         {
-          "title": "zetify added to PyPI",
-          "link": "https://pypi.org/project/zetify/",
+          "title": "membo added to PyPI",
+          "link": "https://pypi.org/project/membo/",
           "date": "11 Aug 2026",
-          "summary": "Name reserved by Zetify. The Zetify Python SDK is `zetify-app`."
+          "summary": "Local-first persistent project context layer shared by AI coding agents over MCP"
         },
         {
-          "title": "ascribe-link added to PyPI",
-          "link": "https://pypi.org/project/ascribe-link/",
+          "title": "defi-hunter added to PyPI",
+          "link": "https://pypi.org/project/defi-hunter/",
           "date": "11 Aug 2026",
-          "summary": "Ascribe-Link: HTTP server bridging Python processing functions and curated specimens to Ascribe-XR"
+          "summary": "Open Source DeFi Security Analysis Toolkit"
         },
         {
-          "title": "ultralytics-platform added to PyPI",
-          "link": "https://pypi.org/project/ultralytics-platform/",
+          "title": "parsethis-ai added to PyPI",
+          "link": "https://pypi.org/project/parsethis-ai/",
           "date": "11 Aug 2026",
-          "summary": "Python client for Ultralytics Platform API"
+          "summary": "Parse (parsethis.ai) client: direct prompt/output/trust screening plus a drop-in OpenAI/Anthropic interceptor."
         },
         {
-          "title": "calbredge added to PyPI",
-          "link": "https://pypi.org/project/calbredge/",
+          "title": "queryforge-ai added to PyPI",
+          "link": "https://pypi.org/project/queryforge-ai/",
           "date": "11 Aug 2026",
-          "summary": "Edge AI inference benchmarking agent"
+          "summary": "Natural language to SQL and MongoDB queries, with a validated AST in between"
         }
       ]
     }
