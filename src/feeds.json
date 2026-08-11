@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-11T09:52:04Z",
+  "generated": "2026-08-11T10:42:14Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -196,8 +196,80 @@
       "ok": true,
       "items": [
         {
+          "title": "IPL cricketer Abishek Porel arrested on rape charge; woman alleges promise of marriage",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/ipl-cricketer-abishek-porel-arrested-in-rape-case-bengal-police-take-delhi-capitals-player-into-custody/articleshow/133149391.cms",
+          "date": "11 Aug 2026",
+          "summary": "Bengal Police arrested cricketer Abishek Porel on Tuesday in connection with a rape case. The arrest followed a directive from the Calcutta High Court regarding the complaint. A medical student alleged a physical relationship on the promise of marriage. The co…"
+        },
+        {
+          "title": "‘Women coming for signatures, dress properly’: Delhi CM targets AAP MLA over viral video",
+          "link": "https://timesofindia.indiatimes.com/india/women-are-coming-for-signatures-at-least-dress-properly-delhi-cm-targets-aap-mla-over-viral-video/articleshow/133149141.cms",
+          "date": "11 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Nasa invites Isro to join Moon base programme",
+          "link": "https://timesofindia.indiatimes.com/india/nasa-invites-isro-to-join-moon-base-programme/articleshow/133150827.cms",
+          "date": "11 Aug 2026",
+          "summary": ""
+        },
+        {
           "title": "Syria's ousted leader Bashar al-Assad sentenced to death for crimes against humanity",
           "link": "https://timesofindia.indiatimes.com/world/middle-east/syrias-ousted-leader-bashar-al-assad-sentenced-to-death-for-crimes-against-humanity/articleshow/133148343.cms",
+          "date": "11 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Accenture CEO Julie Sweet makes an 'August request' to employees",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/accenture-ceo-julie-sweet-makes-an-august-request-to-employees-says-our-shareholders-are-counting-on-us-to-/articleshow/133143276.cms",
+          "date": "11 Aug 2026",
+          "summary": "Accenture has implemented a new policy allowing employees to carry over their unused vacation days, aiming to bolster business performance as the fiscal year winds down. CEO Julie Sweet has urged employees to maximize their efforts in these critical weeks. How…"
+        },
+        {
+          "title": "Indian Army’s tech leap: 6G, quantum, AI cloud and 300 capability projects in the works",
+          "link": "https://timesofindia.indiatimes.com/defence/news/indian-armys-tech-leap-6g-quantum-ai-cloud-and-300-capability-projects-in-the-works/articleshow/133150896.cms",
+          "date": "11 Aug 2026",
+          "summary": "The Indian Army is significantly modernizing its forces through advanced technology adoption. It is integrating technologies like 6G and quantum computing into its operations. Indigenous procurement of defense equipment is rapidly increasing, with a strong foc…"
+        },
+        {
+          "title": "Mark Zuckerberg's $300M yacht booed over rescue call; clarification issued",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/after-mark-zuckerbergs-300-million-387-foot-yacht-launchpad-booed-for-not-responding-to-distress-call-by-stranded-small-cruise-ship-clarification-issued/articleshow/133094464.cms",
+          "date": "10 Aug 2026",
+          "summary": "Mark Zuckerberg's superyacht Launchpad faced criticism after a stranded boat incident. The vessel's crew was reportedly on a different radio channel during the emergency. Help was already en route when the yacht's crew reviewed the assistance request. The yach…"
+        },
+        {
+          "title": "Kerala govt seeks 45 days to address teachers’ demands; 1:25 ratio top ask",
+          "link": "https://timesofindia.indiatimes.com/india/kerala-govt-seeks-45-days-to-address-protesting-teachers-demands-125-teacher-student-ratio-top-ask/articleshow/133149588.cms",
+          "date": "11 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "New Haven landfill becomes solar farm powering 200 homes",
+          "link": "https://timesofindia.indiatimes.com/world/us/new-haven-turned-a-capped-landfill-into-a-1920-panel-solar-farm-the-site-now-powers-about-200-homes-and-pays-the-city-72000-a-year/articleshow/133149344.cms",
+          "date": "11 Aug 2026",
+          "summary": "New Haven is transforming a decommissioned landfill into a major solar energy project, installation of 1,920 solar panels that will produce a significant amount of clean energy every year. With anticipated revenue exceeding $1.4 million over two decades, this…"
+        },
+        {
+          "title": "Yonkers uncovers buried river, creating 14,000 sq ft of aquatic habitat",
+          "link": "https://timesofindia.indiatimes.com/world/us/in-2012-yonkers-tore-up-a-downtown-parking-lot-to-uncover-a-river-buried-for-decades-within-six-months-it-had-created-14000-sq-ft-of-aquatic-habitat/articleshow/133147516.cms",
+          "date": "11 Aug 2026",
+          "summary": "In 2012, Yonkers, New York, completed a project to uncover a section of the Saw Mill River that had been buried beneath a downtown parking lot since the 1920s. The former Larkin Plaza was turned into a three-acre public park. Within six months, the restored ri…"
+        },
+        {
+          "title": "Anthropic researcher thanks Claude for solving 87-year-old Math conjecture",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-researcher-thanks-claude-for-solving-87-year-old-math-conjecture-says-hello-there-the-jacobian-conjecture-is-false/articleshow/133149331.cms",
+          "date": "11 Aug 2026",
+          "summary": "An Anthropic researcher used the AI model Claude Fable 5 to find a counterexample. This discovery challenges the 87-year-old Jacobian conjecture in mathematics. The AI-assisted finding reportedly offers a simple counterexample for verification. The conjecture,…"
+        },
+        {
+          "title": "'Insulting Lord Ram, Sita': Google tells HC why Dhruve Rathee's video was witheld",
+          "link": "https://timesofindia.indiatimes.com/india/insulting-lord-ram-krishna-sita-google-tells-hc-why-dhruve-rathees-video-was-witheld/articleshow/133150635.cms",
+          "date": "11 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "19-year-old gang-raped by 6 men near Mumbai",
+          "link": "https://timesofindia.indiatimes.com/city/mumbai/19-year-old-woman-gang-raped-by-6-men-near-mumbai/articleshow/133148899.cms",
           "date": "11 Aug 2026",
           "summary": ""
         },
@@ -214,16 +286,10 @@
           "summary": "A fitness trainer and his wife were traumatized by a road-rage incident in Bandra. Five men in an SUV allegedly assaulted the trainer and damaged his car. The incident began when the accused vehicle obstructed the trainer's path. Police detained three individu…"
         },
         {
-          "title": "IPL cricketer Abishek Porel arrested in rape case",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/ipl-cricketer-abishek-porel-arrested-in-rape-case-bengal-police-take-delhi-capitals-player-into-custody/articleshow/133149391.cms",
+          "title": "Kangana slams Naseeruddin: 'Hai iss desh ke, ladte hai padosi desh ke liye'",
+          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-slams-naseeruddin-shah-after-piyush-mishras-reaction-to-his-dog-comment-woh-iss-desh-ke-hai-lekin-ladte-padosi-desh-ke-liye-hai/articleshow/133149693.cms",
           "date": "11 Aug 2026",
-          "summary": "Bengal Police arrested cricketer Abishek Porel on Tuesday in connection with a rape case. The arrest followed a directive from the Calcutta High Court regarding the complaint. A medical student alleged a physical relationship on the promise of marriage. The co…"
-        },
-        {
-          "title": "Accenture CEO Julie Sweet makes an 'August request' to employees",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/accenture-ceo-julie-sweet-makes-an-august-request-to-employees-says-our-shareholders-are-counting-on-us-to-/articleshow/133143276.cms",
-          "date": "11 Aug 2026",
-          "summary": "Accenture has implemented a new policy allowing employees to carry over their unused vacation days, aiming to bolster business performance as the fiscal year winds down. CEO Julie Sweet has urged employees to maximize their efforts in these critical weeks. How…"
+          "summary": "A heated exchange has ignited between Naseeruddin Shah and Piyush Mishra, drawing Kangana Ranaut into the fray as she backs Mishra. This controversy escalated after Shah previously admonished Bollywood for its silence on student protests. In response, Mishra c…"
         },
         {
           "title": "‘You guys cheat’: Pathan reveals Sangakkara clash that turned ‘personal’",
@@ -244,34 +310,10 @@
           "summary": ""
         },
         {
-          "title": "Mark Zuckerberg's $300M yacht booed over rescue call; clarification issued",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/after-mark-zuckerbergs-300-million-387-foot-yacht-launchpad-booed-for-not-responding-to-distress-call-by-stranded-small-cruise-ship-clarification-issued/articleshow/133094464.cms",
-          "date": "10 Aug 2026",
-          "summary": "Mark Zuckerberg's superyacht Launchpad faced criticism after a stranded boat incident. The vessel's crew was reportedly on a different radio channel during the emergency. Help was already en route when the yacht's crew reviewed the assistance request. The yach…"
-        },
-        {
           "title": "'Zealots overlooked human nature': Tharoor questions full Vande Mataram rendition",
           "link": "https://timesofindia.indiatimes.com/india/zealots-overlooked-human-nature-shashi-tharoor-questions-full-vande-mataram-rendition-at-official-events/articleshow/133147383.cms",
           "date": "11 Aug 2026",
           "summary": ""
-        },
-        {
-          "title": "Utah boy, 13, spends 300 hours 3D-printing wheelchair for toddler",
-          "link": "https://timesofindia.indiatimes.com/world/us/meet-zac-waters-the-13-year-old-utah-boy-who-spent-300-hours-3d-printing-a-wheelchair-for-a-21-month-old-girl/articleshow/133146255.cms",
-          "date": "11 Aug 2026",
-          "summary": "A 13-year-old boy from Lehi, Utah, spent about 300 hours during his summer designing, printing, testing and assembling a custom mobility chair for a 21-month-old girl. Zac Waters found MakeGood, a nonprofit that provides free 3D-printed mobility devices, and u…"
-        },
-        {
-          "title": "Saudi prince towed Alaskan iceberg to Iowa in 1977 for drinking-water pitch",
-          "link": "https://timesofindia.indiatimes.com/science/in-1977-a-saudi-prince-towed-an-alaskan-iceberg-to-iowa-to-pitch-shipping-icebergs-to-arabia-for-drinking-water-now-engineers-are-exploring-the-idea-as-freshwater-scarcity-worsens/articleshow/133147897.cms",
-          "date": "11 Aug 2026",
-          "summary": "In a bold venture back in 1977, a Saudi prince attempted to tow an iceberg to address a water supply dilemma. This audacious project confronted considerable engineering hurdles and substantial expenses. With current desalination methods proving both expensive…"
-        },
-        {
-          "title": "Meta 'spy glasses' banned across UK: Pubs, restaurants and theatres say no",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/metas-spy-glasses-face-resistance-in-uk-banned-by-restaurants-pubs-and-theatres-across-the-country/articleshow/133146816.cms",
-          "date": "11 Aug 2026",
-          "summary": "Meta's smart glasses are being banned across United Kingdon. Wetherspoons, Soho House, ATG Theatres and restaurateur Jeremy King's London venues have all restricted the Kylie Jenner-fronted wearables over privacy fears. Owners argue the cameras enable surrepti…"
         },
         {
           "title": "Jana Nayagan box office day 20: Vijay’s film nears Rs194 crore in India",
@@ -332,48 +374,6 @@
           "link": "https://timesofindia.indiatimes.com/defence/news/operation-safed-sagar-how-iaf-took-the-fight-to-pakistan-at-18000-feet-in-kargil/articleshow/133144288.cms",
           "date": "11 Aug 2026",
           "summary": "The Indian Air Force launched Operation Safed Sagar against Pakistani intruders. Pilots faced unprecedented challenges fighting at extreme altitudes. Early setbacks led to tactical reassessments and technological adaptations. Mirage-2000 aircraft with laser-gu…"
-        },
-        {
-          "title": "Faulty Ola scooter, no proper service: Consumer panel orders Rs 1.04 lakh refund",
-          "link": "https://timesofindia.indiatimes.com/legal/news/faulty-ola-scooter-no-proper-service-consumer-panel-orders-rs-1-04-lakh-refund-compensation/articleshow/133146875.cms",
-          "date": "11 Aug 2026",
-          "summary": "A Kerala consumer commission found Ola Electric guilty of service deficiency and unfair trade practices. The commission ordered Ola Electric to refund the scooter's full purchase price. This decision followed repeated scooter defects and a lack of proper after…"
-        },
-        {
-          "title": "‘The ideal move’: Barcelona captain Ronald Araujo joins Liverpool on loan",
-          "link": "https://timesofindia.indiatimes.com/sports/football/epl/top-stories/the-ideal-move-barcelona-captain-ronald-araujo-joins-liverpool-on-season-long-loan/articleshow/133144167.cms",
-          "date": "11 Aug 2026",
-          "summary": "Ronald Araujo, the captain of Barcelona, has officially joined Liverpool on a season-long loan, labeling the transition as an ideal choice for his professional journey right now. He agreed to a pay reduction to make the transfer to Anfield possible. Liverpool…"
-        },
-        {
-          "title": "Indian-origin ex-CFO of US firm gets 4-month jail term for bribing surgeons",
-          "link": "https://timesofindia.indiatimes.com/world/us/indian-origin-ex-cfo-of-us-firm-gets-4-month-jail-term-for-bribing-surgeons-with-sham-consulting-fees/articleshow/133143754.cms",
-          "date": "11 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "'Nai naveli dulhan ho': Faculty remark sparks scrutiny after junior doctor’s death",
-          "link": "https://timesofindia.indiatimes.com/city/surat/aap-log-nai-naveli-dulhan-ho-faculty-members-remark-triggers-scrutiny-after-junior-doctors-suicide/articleshow/133140585.cms",
-          "date": "11 Aug 2026",
-          "summary": "Four faculty members at Surat Government Medical College received show-cause notices. An inquiry followed the suicide of postgraduate student Dr Harsh Pandya. Students reported harassment by senior residents to faculty members. The committee found faculty fail…"
-        },
-        {
-          "title": "SC seeks EC data on appeals against voter deletions during Bengal SIR",
-          "link": "https://timesofindia.indiatimes.com/india/supreme-court-seeks-ec-data-on-appeals-against-voter-deletions-during-bengal-sir/articleshow/133145835.cms",
-          "date": "11 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "In 1868, an eclipse in India revealed an element found on Earth 27 years later",
-          "link": "https://timesofindia.indiatimes.com/science/in-1868-a-solar-eclipse-in-india-revealed-a-mysterious-element-in-the-sun-that-would-not-be-found-on-earth-for-27-years/articleshow/133145974.cms",
-          "date": "11 Aug 2026",
-          "summary": "During the solar eclipse of 1868 in India, astronomers stumbled upon an enigmatic yellow spectral line, initially observed by Pierre Jules Janssen. Although its significance was not immediately recognized, Norman Lockyer soon named the unidentified element hel…"
-        },
-        {
-          "title": "Watch: Buildings crumble, debris rains down as 7.4-magnitude quake hits Colombia",
-          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/watch-buildings-crumble-debris-rains-down-as-7-4-magnitude-quake-hits-colombia/articleshow/133141328.cms",
-          "date": "11 Aug 2026",
-          "summary": ""
         }
       ]
     },
@@ -1630,6 +1630,174 @@
       "ok": true,
       "items": [
         {
+          "title": "bolttx added to PyPI",
+          "link": "https://pypi.org/project/bolttx/",
+          "date": "11 Aug 2026",
+          "summary": "Official Python SDK for BoltTx — low-latency Solana transaction delivery"
+        },
+        {
+          "title": "depwolf added to PyPI",
+          "link": "https://pypi.org/project/depwolf/",
+          "date": "11 Aug 2026",
+          "summary": "Post-process any scanner output (Trivy, Grype, SAST, ...): CVE extraction, AVIP false-positive reduction, AI remediation"
+        },
+        {
+          "title": "refstat added to PyPI",
+          "link": "https://pypi.org/project/refstat/",
+          "date": "11 Aug 2026",
+          "summary": "Distance-based deviation scoring, reference standardisation, and temporal pattern decomposition for small reference sets (n as low as 3)."
+        },
+        {
+          "title": "telekinesis-rlbotics added to PyPI",
+          "link": "https://pypi.org/project/telekinesis-rlbotics/",
+          "date": "11 Aug 2026",
+          "summary": "Reinforcement Learning package from Telekinesis"
+        },
+        {
+          "title": "mttx added to PyPI",
+          "link": "https://pypi.org/project/mttx/",
+          "date": "11 Aug 2026",
+          "summary": "None"
+        },
+        {
+          "title": "braillebaseoutput added to PyPI",
+          "link": "https://pypi.org/project/braillebaseoutput/",
+          "date": "11 Aug 2026",
+          "summary": "A complete and extensible Unicode Braille processing library."
+        },
+        {
+          "title": "merchant-prospect-x added to PyPI",
+          "link": "https://pypi.org/project/merchant-prospect-x/",
+          "date": "11 Aug 2026",
+          "summary": "周边小微商户拓客 — 独立陌拜助手（园区扫描 + 深查）"
+        },
+        {
+          "title": "caveman-sdk added to PyPI",
+          "link": "https://pypi.org/project/caveman-sdk/",
+          "date": "11 Aug 2026",
+          "summary": "Stdlib-only Python client for Caveman gateway tracing, tool deferral, checkpoints, and recoverable compression."
+        },
+        {
+          "title": "llm-agent-trace added to PyPI",
+          "link": "https://pypi.org/project/llm-agent-trace/",
+          "date": "11 Aug 2026",
+          "summary": "Zero-dependency LLM call tracer — patch once, trace everything"
+        },
+        {
+          "title": "getgo added to PyPI",
+          "link": "https://pypi.org/project/getgo/",
+          "date": "11 Aug 2026",
+          "summary": "One file that installs your tool on any machine — a universal Cosmopolitan APE loader that bootstraps uv, then runs uv tool install. Placeholder release."
+        },
+        {
+          "title": "urmet-sdk added to PyPI",
+          "link": "https://pypi.org/project/urmet-sdk/",
+          "date": "11 Aug 2026",
+          "summary": "SIP protocol SDK for Urmet video doorphones: ring events, door and gate control, audio and video."
+        },
+        {
+          "title": "aster-trading-bot added to PyPI",
+          "link": "https://pypi.org/project/aster-trading-bot/",
+          "date": "11 Aug 2026",
+          "summary": "Production-oriented trading bot framework for Aster DEX USDT-margined futures (EIP-712 signed FAPI V3)"
+        },
+        {
+          "title": "spendcap added to PyPI",
+          "link": "https://pypi.org/project/spendcap/",
+          "date": "11 Aug 2026",
+          "summary": "Real-time spend tracking, cost prediction, and runaway-loop circuit breakers for LLM API calls. Zero dependencies."
+        },
+        {
+          "title": "xiaozhi-music-mcp added to PyPI",
+          "link": "https://pypi.org/project/xiaozhi-music-mcp/",
+          "date": "11 Aug 2026",
+          "summary": "小智AI免费音乐MCP服务器 (STDIO版，可托管部署到 ModelScope 魔搭)"
+        },
+        {
+          "title": "minieye-image-overlay added to PyPI",
+          "link": "https://pypi.org/project/minieye-image-overlay/",
+          "date": "11 Aug 2026",
+          "summary": "Shared PIL/numpy text overlay helpers for rendered calibration images."
+        },
+        {
+          "title": "minieye-run-state added to PyPI",
+          "link": "https://pypi.org/project/minieye-run-state/",
+          "date": "11 Aug 2026",
+          "summary": "Unified local filesystem run-state, heartbeat, progress, and health helpers for Minieye runners, CLIs, GUIs, and OpenClaw wrappers."
+        },
+        {
+          "title": "minieye-motion-analyzer added to PyPI",
+          "link": "https://pypi.org/project/minieye-motion-analyzer/",
+          "date": "11 Aug 2026",
+          "summary": "INS-based motion state analysis and sensor frame motion evaluation."
+        },
+        {
+          "title": "minieye-calibration-git added to PyPI",
+          "link": "https://pypi.org/project/minieye-calibration-git/",
+          "date": "11 Aug 2026",
+          "summary": "Calibration Git repository helpers for mdrive-pb and mdrive4-json."
+        },
+        {
+          "title": "pijush-calculator added to PyPI",
+          "link": "https://pypi.org/project/pijush-calculator/",
+          "date": "11 Aug 2026",
+          "summary": "A lightweight, dependency-free Python arithmetic engine for reliable calculator operations and reusable math utilities."
+        },
+        {
+          "title": "django-ai-tokens-meter added to PyPI",
+          "link": "https://pypi.org/project/django-ai-tokens-meter/",
+          "date": "11 Aug 2026",
+          "summary": "Full control over AI token quotas in Django apps - free tiers, purchasable packages, custom reset schedules, any subject model, any LLM provider."
+        },
+        {
+          "title": "pyxmlgenerator added to PyPI",
+          "link": "https://pypi.org/project/pyxmlgenerator/",
+          "date": "11 Aug 2026",
+          "summary": "Python bindings for the Rust XMLGenerator library"
+        },
+        {
+          "title": "gdtw-properties added to PyPI",
+          "link": "https://pypi.org/project/gdtw-properties/",
+          "date": "11 Aug 2026",
+          "summary": "Reserved package name for an upcoming release. No functional code is published yet."
+        },
+        {
+          "title": "gdtw-geometry added to PyPI",
+          "link": "https://pypi.org/project/gdtw-geometry/",
+          "date": "11 Aug 2026",
+          "summary": "Reserved package name for an upcoming release. No functional code is published yet."
+        },
+        {
+          "title": "gdtw-embed added to PyPI",
+          "link": "https://pypi.org/project/gdtw-embed/",
+          "date": "11 Aug 2026",
+          "summary": "Reserved package name for an upcoming release. No functional code is published yet."
+        },
+        {
+          "title": "gdtw-decompose added to PyPI",
+          "link": "https://pypi.org/project/gdtw-decompose/",
+          "date": "11 Aug 2026",
+          "summary": "Reserved package name for an upcoming release. No functional code is published yet."
+        },
+        {
+          "title": "aemeathcode added to PyPI",
+          "link": "https://pypi.org/project/aemeathcode/",
+          "date": "11 Aug 2026",
+          "summary": "从零手搓的终端 Coding Agent:daemon + 多路复用协议 + ReAct 循环,纯 Python/asyncio 实现"
+        },
+        {
+          "title": "qrp-mcp added to PyPI",
+          "link": "https://pypi.org/project/qrp-mcp/",
+          "date": "11 Aug 2026",
+          "summary": "Local, offline MCP server that finds quantum-vulnerable cryptography — secp256k1, Ed25519, BLS, Schnorr, RSA — in your codebase"
+        },
+        {
+          "title": "bytejson added to PyPI",
+          "link": "https://pypi.org/project/bytejson/",
+          "date": "11 Aug 2026",
+          "summary": "Random access to very large JSON files without loading the entire document into Python memory"
+        },
+        {
           "title": "ontology-quality-suite added to PyPI",
           "link": "https://pypi.org/project/ontology-quality-suite/",
           "date": "11 Aug 2026",
@@ -1640,174 +1808,6 @@
           "link": "https://pypi.org/project/fetchdriver/",
           "date": "11 Aug 2026",
           "summary": "Browser fetch() API"
-        },
-        {
-          "title": "nosnoc added to PyPI",
-          "link": "https://pypi.org/project/nosnoc/",
-          "date": "11 Aug 2026",
-          "summary": "Nonsmooth Numerical Optimal Control for Python"
-        },
-        {
-          "title": "bitengine-db added to PyPI",
-          "link": "https://pypi.org/project/bitengine-db/",
-          "date": "11 Aug 2026",
-          "summary": "A lightweight, high-performance embedded & network key-value database engine written in Python"
-        },
-        {
-          "title": "purehosting-sdk added to PyPI",
-          "link": "https://pypi.org/project/purehosting-sdk/",
-          "date": "11 Aug 2026",
-          "summary": "Official Python SDK for the PureHosting API (servers, domains, Telegram accounts, balance, webhooks, WebSocket events)."
-        },
-        {
-          "title": "identifier-checker added to PyPI",
-          "link": "https://pypi.org/project/identifier-checker/",
-          "date": "11 Aug 2026",
-          "summary": "Universal Mobile Runtime Identifier Verifier for Android, iOS, React Native, React Native Turbo, Capacitor, and Flutter"
-        },
-        {
-          "title": "django-hq added to PyPI",
-          "link": "https://pypi.org/project/django-hq/",
-          "date": "11 Aug 2026",
-          "summary": "A developer console for Django projects: build, deployment, runtime and environment facts"
-        },
-        {
-          "title": "toolpermit added to PyPI",
-          "link": "https://pypi.org/project/toolpermit/",
-          "date": "11 Aug 2026",
-          "summary": "Local-first permission policies, approvals, and redacted audit for MCP tool calls"
-        },
-        {
-          "title": "cutsum added to PyPI",
-          "link": "https://pypi.org/project/cutsum/",
-          "date": "11 Aug 2026",
-          "summary": "Provider-neutral, strategy-neutral long-video planning and media execution engine."
-        },
-        {
-          "title": "frugalai added to PyPI",
-          "link": "https://pypi.org/project/frugalai/",
-          "date": "11 Aug 2026",
-          "summary": "Frugal : A minimial agentic module"
-        },
-        {
-          "title": "oddyai added to PyPI",
-          "link": "https://pypi.org/project/oddyai/",
-          "date": "11 Aug 2026",
-          "summary": "Oddy AI Python SDK"
-        },
-        {
-          "title": "qaos-agent added to PyPI",
-          "link": "https://pypi.org/project/qaos-agent/",
-          "date": "11 Aug 2026",
-          "summary": "Quality Assurance Operating System — engine-agnostic, documentation-driven, AI-native QA platform"
-        },
-        {
-          "title": "shacl-sparql-extensions-engine added to PyPI",
-          "link": "https://pypi.org/project/shacl-sparql-extensions-engine/",
-          "date": "11 Aug 2026",
-          "summary": "Reference implementation plumbing for the SHACL 1.2 SPARQL Extensions spec, built on pyshacl + rdflib"
-        },
-        {
-          "title": "cmem-plugin-packages added to PyPI",
-          "link": "https://pypi.org/project/cmem-plugin-packages/",
-          "date": "11 Aug 2026",
-          "summary": "Install and uninstall eccenca marketplace packages!"
-        },
-        {
-          "title": "grpc-server-kit added to PyPI",
-          "link": "https://pypi.org/project/grpc-server-kit/",
-          "date": "11 Aug 2026",
-          "summary": "Batteries-optional async gRPC server toolkit (app facade, builder, TLS, lifecycle, health, streaming-aware interceptors, observability)"
-        },
-        {
-          "title": "weft-publish added to PyPI",
-          "link": "https://pypi.org/project/weft-publish/",
-          "date": "11 Aug 2026",
-          "summary": "Python Agent Runtime — long-lived session orchestration, event replay, ask-user interrupt/resume"
-        },
-        {
-          "title": "hapunit added to PyPI",
-          "link": "https://pypi.org/project/hapunit/",
-          "date": "11 Aug 2026",
-          "summary": "Haplotype unit processing"
-        },
-        {
-          "title": "scalpel-elf added to PyPI",
-          "link": "https://pypi.org/project/scalpel-elf/",
-          "date": "11 Aug 2026",
-          "summary": "Insert real instructions into ELF executables, keeping them valid and runnable"
-        },
-        {
-          "title": "glm-pro-cli added to PyPI",
-          "link": "https://pypi.org/project/glm-pro-cli/",
-          "date": "11 Aug 2026",
-          "summary": "CLI tool for GLM Chat Completions via AceDataCloud"
-        },
-        {
-          "title": "antchain-antdigital-creative added to PyPI",
-          "link": "https://pypi.org/project/antchain-antdigital-creative/",
-          "date": "11 Aug 2026",
-          "summary": "Ant Chain CREATIVE SDK Library for Python"
-        },
-        {
-          "title": "cresva added to PyPI",
-          "link": "https://pypi.org/project/cresva/",
-          "date": "11 Aug 2026",
-          "summary": "Name reservation for the official Cresva Python client. Not yet functional; call the API over HTTP."
-        },
-        {
-          "title": "uploadcenter added to PyPI",
-          "link": "https://pypi.org/project/uploadcenter/",
-          "date": "11 Aug 2026",
-          "summary": "Official Python SDK for the UploadCenter API — file uploads, processing, and delivery."
-        },
-        {
-          "title": "ram-rag-lens added to PyPI",
-          "link": "https://pypi.org/project/ram-rag-lens/",
-          "date": "11 Aug 2026",
-          "summary": "An open-source, pip-installable Python library that quantitatively evaluates RAG pipelines using LLM-as-a-Judge methodology."
-        },
-        {
-          "title": "governancedsl added to PyPI",
-          "link": "https://pypi.org/project/governancedsl/",
-          "date": "11 Aug 2026",
-          "summary": "None"
-        },
-        {
-          "title": "factor-audit added to PyPI",
-          "link": "https://pypi.org/project/factor-audit/",
-          "date": "11 Aug 2026",
-          "summary": "Audit A-share factor tests for silent defects: NW-inflated t-stats, survivorship bias, lookahead leakage, and cost infeasibility."
-        },
-        {
-          "title": "crewai-transcriptapi added to PyPI",
-          "link": "https://pypi.org/project/crewai-transcriptapi/",
-          "date": "11 Aug 2026",
-          "summary": "CrewAI tools for TranscriptAPI: fetch YouTube transcripts and search YouTube videos and channels from CrewAI agents."
-        },
-        {
-          "title": "supercmo-skills added to PyPI",
-          "link": "https://pypi.org/project/supercmo-skills/",
-          "date": "11 Aug 2026",
-          "summary": "SuperCMO media client (image, video, audio): stdlib-only routing over BYO-direct vendor keys or one managed SuperCMO key."
-        },
-        {
-          "title": "triana-preview added to PyPI",
-          "link": "https://pypi.org/project/triana-preview/",
-          "date": "11 Aug 2026",
-          "summary": "Source-available local evidence-grounded behavior mapping for conversational agents"
-        },
-        {
-          "title": "nexus-gitops added to PyPI",
-          "link": "https://pypi.org/project/nexus-gitops/",
-          "date": "11 Aug 2026",
-          "summary": "GitOps platform CLI: production-grade Kubernetes for any app, from one nexus.yaml."
-        },
-        {
-          "title": "torchspace added to PyPI",
-          "link": "https://pypi.org/project/torchspace/",
-          "date": "11 Aug 2026",
-          "summary": "Spatial debugger for PyTorch: architecture, tensor geometry, forward activations and backward gradients in one interactive Three.js scene. Built as a non-invasive extension of torchview."
         }
       ]
     }
