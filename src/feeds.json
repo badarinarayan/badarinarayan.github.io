@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T14:15:05Z",
+  "generated": "2026-08-12T15:51:35Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,12 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "Embassy Office REIT to enter Nifty 500, only investment trust in Nifty Midcap 150",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/embassy-office-parks-reit-to-enter-nifty-500-become-only-investment-trust-in-nifty-midcap-150/articleshow/133180478.cms",
+          "date": "12 Aug 2026",
+          "summary": "Embassy Office Parks REIT will be included in the Nifty 500 and Nifty Midcap 150 from September 30, 2026, as part of NSE Indices’ latest periodic review. The REIT will also enter several other broad-based indices, potentially increasing its visibility and part…"
+        },
         {
           "title": "MCX, NISM launch centre to strengthen India’s commodity market skills",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/mcx-nism-launch-centre-to-strengthen-indias-commodity-market-skills/articleshow/133184654.cms",
@@ -36,12 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/lenskart-q1-results-profit-zooms-182-yoy-to-rs-228-crore-revenue-up-34/articleshow/133179868.cms",
           "date": "12 Aug 2026",
           "summary": "Lenskart Solutions reported a 182.3% YoY jump in Q1 FY27 profit to Rs 228 crore, while revenue rose 33.6% to Rs 2,214 crore. EBITDA increased 61.3% to Rs 589 crore, with margins expanding and product margin crossing 70% for the first time."
-        },
-        {
-          "title": "Groww shares climb 2% after July client additions; market share rises to 28.88%",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/groww-shares-climb-2-after-july-client-additions-market-share-rises-to-28-88/articleshow/133179929.cms",
-          "date": "12 Aug 2026",
-          "summary": "Groww shares rose 1.91% after the company added 70,119 clients in July, taking its active client base to 13.12 million and market share to 28.88%. The stock has gained nearly 27% in 2026 so far, outperforming the Sensex, while remaining 13% below its 52-week h…"
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -196,10 +196,124 @@
       "ok": true,
       "items": [
         {
+          "title": "Iran knew Trump's hotel floor, targeted his aircraft during Nato summit: Report",
+          "link": "https://timesofindia.indiatimes.com/world/us/iran-knew-trumps-hotel-floor-targeted-his-aircraft-during-nato-summit-report/articleshow/133179793.cms",
+          "date": "12 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "China says India border 'generally stable' amid tensions in Arunachal",
+          "link": "https://timesofindia.indiatimes.com/india/china-says-india-border-generally-stable-amid-tensions-in-arunachal/articleshow/133186633.cms",
+          "date": "12 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Google Pixel 11 phones, and everything else announced at 'Made by Google 2026'",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/everything-announced-at-made-by-google-2026-pixel-11-phones-pixel-watch-5-and-a-lot-more-ai/articleshow/133185240.cms",
+          "date": "12 Aug 2026",
+          "summary": "Google unveiled its new Pixel 11 phones and Pixel Watch 5 with significant hardware upgrades. The Pixel 11 Pro Fold now closes flush and features brighter displays. New AI capabilities are integrated across devices, enhancing user experiences and device perfor…"
+        },
+        {
+          "title": "'I couldn't': Lionel Messi's first post since his father's death",
+          "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/i-wanted-to-win-another-world-cup-i-coudnt-lionel-messi-pens-emotional-post-after-fathers-demise/articleshow/133184899.cms",
+          "date": "12 Aug 2026",
+          "summary": "Lionel Messi has broken his silence following the death of his father Jorge, sharing an emotional tribute that reveals the depth of his grief. The Argentina captain reflected on their final World Cup dream, the messages he missed after every match and his unce…"
+        },
+        {
+          "title": "MP horror: 9-yr-old girl raped in front of brother while returning home from school",
+          "link": "https://timesofindia.indiatimes.com/city/bhopal/mp-horror-9-year-old-girl-raped-in-front-of-brother-while-returning-home-from-school/articleshow/133177183.cms",
+          "date": "12 Aug 2026",
+          "summary": "A nine-year-old girl was allegedly raped in Bhind district on Tuesday afternoon. Her eleven-year-old brother was assaulted when he tried to intervene and rescue his sister. The suspect, an acquaintance, offered the children a lift home from school. He then too…"
+        },
+        {
+          "title": "Months after Dells' $6.25Bn ‘gift’, US Treasury sets new Trump Account paycheck rules",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/months-after-michael-dell-and-his-wife-susan-dells-6-5-billion-donation-department-of-treasury-announces-new-paycheck-rules-for-trump-accounts/articleshow/133184869.cms",
+          "date": "12 Aug 2026",
+          "summary": "New rules from the US Treasury and IRS will allow payroll contributions to Trump Accounts. Employers can contribute up to $2,500 tax-free annually for employees' dependent children. Employees will also have the option to make pre-tax paycheck contributions dir…"
+        },
+        {
+          "title": "English all-rounder forced to retire aged 30 after neck, spinal cord injury",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/english-all-rounder-danny-lamb-forced-to-retire-from-cricket-aged-30-after-neck-spinal-cord-injury/articleshow/133182568.cms",
+          "date": "12 Aug 2026",
+          "summary": "Lamb suffered a disc herniation in his neck earlier this season, which led to a spinal cord injury. He underwent surgery last month but continued to deal with the effects of the injury. After taking medical advice, the right-arm bowler decided to retire for th…"
+        },
+        {
+          "title": "'Don't pay attention to gossip': What N Chandrasekaran told Tata Sons staff",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/dont-pay-attention-to-gossip-conspiracies-you-hear-what-n-chandrasekaran-told-tata-sons-staff/articleshow/133184586.cms",
+          "date": "12 Aug 2026",
+          "summary": "Speaking at a town hall meeting held at Bombay House in the afternoon, Chandrasekaran reportedly said he had been \"touched with the love and affection\" shown to him by employees throughout his career and looked back on his 40-year journey with the Tata Group."
+        },
+        {
+          "title": "Ex-Microsoft CEO Steve Ballmer changes how his $8 billion philanthropy works",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/in-2015-steve-ballmer-and-his-wife-connie-founded-ballmer-group-that-has-donated-over-8-billion-since-11-years-later-they-are-changing-where-/articleshow/133173959.cms",
+          "date": "12 Aug 2026",
+          "summary": "Steve and Connie Ballmer are redefining their charitable strategy. The Ballmer Group is set to detach three regional branches, allowing them to operate as independent nonprofits. This adaptation is designed to align funding strategies more closely with the nee…"
+        },
+        {
+          "title": "$1.9 million Minnesota river project restored or protected 588 acres",
+          "link": "https://timesofindia.indiatimes.com/world/us/in-2020-minnesota-funded-a-1-918-million-shell-rock-river-habitat-program-by-2025-it-had-protected-or-restored-588-acres/articleshow/133185961.cms",
+          "date": "12 Aug 2026",
+          "summary": "The Shell Rock River Watershed initiative in Minnesota has made significant strides by securing 588 acres of critical habitat, surpassing its original objective by 105 acres through extensive restoration work. This program focused on acquiring various properti…"
+        },
+        {
+          "title": "Harvard-IIT graduate quits 9-to-5 job and says she's not rushing back",
+          "link": "https://timesofindia.indiatimes.com/etimes/work-career/harvard-iit-graduate-quits-9-to-5-job-then-a-top-startup-comes-calling-but-she-says-im-not-in-a-hurry-to-go-back/articleshow/133185706.cms",
+          "date": "12 Aug 2026",
+          "summary": "Charmie Kapoor left a decade-long career after gaining significant savings and privilege. She found liberation in the absence of a structured work schedule and daily commute. Kapoor explored personal projects and gave back to her community during this period.…"
+        },
+        {
+          "title": "Oracle layoffs: Company's '6 am layoff emails' may return in next few days",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-companys-6-am-layoff-emails-may-return-in-next-few-days-as-oracle-plans/articleshow/133177768.cms",
+          "date": "12 Aug 2026",
+          "summary": "Oracle is preparing another round of layoffs this month, with cuts reaching double-digit percentages on some teams and managers already asked to name affected employees. The company wants payroll reduced before its second quarter starts on September 1. Oracle…"
+        },
+        {
           "title": "Standoff with Noel Tata: What led to N Chandrasekaran’s exit as Tata Sons chairman",
           "link": "https://timesofindia.indiatimes.com/business/india-business/standoff-with-noel-tata-what-led-to-n-chandrasekarans-exit-as-tata-sons-chairman/articleshow/133174654.cms",
           "date": "12 Aug 2026",
           "summary": "The 63-year-old Chandrasekaran, who has been associated with the Tata Group for four decades, informed the Tata Sons board on Wednesday that he would not seek another term after his tenure expires on February 20, 2027."
+        },
+        {
+          "title": "CJP’s Saurav Das claims Pondicherry Police ‘harassed’ kin, claims Centre link",
+          "link": "https://timesofindia.indiatimes.com/india/acting-like-goondas-cjps-saurav-das-claims-pondicherry-police-harassed-kin-claims-centre-link/articleshow/133185688.cms",
+          "date": "12 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Oregon's Siletz Bay digs new channels to restore 37 acres of tidal wetland",
+          "link": "https://timesofindia.indiatimes.com/world/us/oregons-siletz-bay-is-restoring-37-acres-of-tidal-wetland-this-summer-digging-new-channels-where-more-than-a-century-of-diking-turned-marsh-into-pasture/articleshow/133183444.cms",
+          "date": "12 Aug 2026",
+          "summary": "Efforts are underway to restore thirty-seven acres of wetlands at Siletz Bay National Wildlife Refuge. By filling in outdated drainage ditches and excavating new tidal channels, the project is set to enhance both habitat quality and water conditions for the lo…"
+        },
+        {
+          "title": "Travis Kelce eyes multi million dollar move amid growing fitness concerns",
+          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/travis-kelce-reportedly-eyes-a-multi-million-dollar-move-in-new-season-as-fitness-concerns-continue-to-grow/articleshow/133165160.cms",
+          "date": "12 Aug 2026",
+          "summary": "Travis Kelce is all set to pull a new move aligned with his new deal with Tommy Hilfiger in the new season as concerns over his fitness grow."
+        },
+        {
+          "title": "Brock Lesnar vs Bill Goldberg net worth in 2026: Salaries, wealth compared",
+          "link": "https://timesofindia.indiatimes.com/sports/wwe/top-stories/brock-lesnar-vs-bill-goldberg-net-worth-in-2026-comparing-salaries-career-earnings-endorsements-investments-lifestyle-and-overall-wealth/articleshow/133153931.cms",
+          "date": "11 Aug 2026",
+          "summary": "Brock Lesnar and Bill Goldberg earned their money through their success in the WWE, big wrestling contracts, international appearances, endorsements, media work and investments, and both were iconic heavyweight stars, but Lesnar had the financial advantage of…"
+        },
+        {
+          "title": "Islam Makhachev frustrated as fan interrupts focus ahead of UFC 330 bout",
+          "link": "https://timesofindia.indiatimes.com/sports/mma/news/islam-makhachev-visibly-frustrated-as-persistent-fan-interrupts-his-focus-with-autograph-demand-ahead-of-ufc-330-with-ian-machado-garry/articleshow/133181116.cms",
+          "date": "12 Aug 2026",
+          "summary": "Islam Makhachev showed frustration with a persistent fan seeking an autograph before his title fight. He is preparing for his UFC welterweight championship defense against Ian Machado Garry. This significant bout is scheduled to headline UFC 330 on August 15.…"
+        },
+        {
+          "title": "Cold, snowy Wyoming winter? Meteorologist questions Farmers’ Almanac forecast",
+          "link": "https://timesofindia.indiatimes.com/world/us/farmers-almanac-predicts-a-cold-snowy-wyoming-winter-but-one-meteorologist-calls-long-range-august-forecasts-voodoo-magic/articleshow/133183454.cms",
+          "date": "12 Aug 2026",
+          "summary": "A meteorologist warns against trusting summer's early winter forecasts, labeling them unreliable due to changing atmospheric conditions. Citing last year's inaccurate predictions as a cautionary tale, he emphasizes that while a strong El Niño will impact winte…"
+        },
+        {
+          "title": "'Stop advance tip feature': Centre tells ride-hailing apps to discontinue practice",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/stop-advance-tip-feature-centre-tells-ride-hailing-apps-to-discontinue-practice/articleshow/133185463.cms",
+          "date": "12 Aug 2026",
+          "summary": ""
         },
         {
           "title": "'Got firebombed': Trump aide Navarro recalls backlash after remarks on India",
@@ -208,28 +322,22 @@
           "summary": ""
         },
         {
-          "title": "Why India wants 114 more Rafales and what gives the fighter its edge",
-          "link": "https://timesofindia.indiatimes.com/defence/news/why-india-wants-114-more-rafales-and-what-gives-the-fighter-its-edge/articleshow/133180407.cms",
-          "date": "12 Aug 2026",
-          "summary": "Dassault Aviation from France has presented its proposal for acquiring 114 Rafale jets, aimed at strengthening India’s fighter fleet and addressing existing capability shortcomings. This initiative prioritizes significant local production and the transfer of t…"
-        },
-        {
           "title": "Hours after Gautam Gambhir's visit to Galle, lawn mower hits the pitch",
           "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/hours-after-gautam-gambhirs-visit-to-galle-lawn-mower-hits-the-pitch/articleshow/133182162.cms",
           "date": "12 Aug 2026",
           "summary": "Sri Lanka held a closed-door practice session in Galle as India coaches Gautam Gambhir and Sitanshu Kotak briefly inspected the pitch. Groundstaff worked extensively on the surface, which could influence India’s choice between three spinners or three seamers.…"
         },
         {
+          "title": "Why India wants 114 more Rafales and what gives the fighter its edge",
+          "link": "https://timesofindia.indiatimes.com/defence/news/why-india-wants-114-more-rafales-and-what-gives-the-fighter-its-edge/articleshow/133180407.cms",
+          "date": "12 Aug 2026",
+          "summary": "Dassault Aviation from France has presented its proposal for acquiring 114 Rafale jets, aimed at strengthening India’s fighter fleet and addressing existing capability shortcomings. This initiative prioritizes significant local production and the transfer of t…"
+        },
+        {
           "title": "'Delete posts, apologise': Bengal CM orders action over derogatory posts about Netaji",
           "link": "https://timesofindia.indiatimes.com/india/delete-posts-apologise-bengal-cm-adhikari-orders-action-over-derogatory-posts-about-netaji/articleshow/133185141.cms",
           "date": "12 Aug 2026",
           "summary": "West Bengal chief minister Suvendu Adhikari has ordered action against those making offensive comments online. He has directed law enforcement to apprehend social media users who disparage historical icon Netaji Subhas Chandra Bose. Additionally, Adhikari has…"
-        },
-        {
-          "title": "How Meta won Utah locals as Kevin O'Leary's nearby data center faces backlash",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/conservation-grants-millions-to-local-schools-and-more-how-meta-managed-data-center-just-miles-away-from-kevin-olearys-failed-dream-project/articleshow/133178173.cms",
-          "date": "12 Aug 2026",
-          "summary": "Meta secured local support for its Utah data center, unlike Kevin O'Leary's Project Stratos. O'Leary's project faced backlash after its approval due to limited outreach. Meta invested in local schools and conservation efforts in Eagle Mountain. O'Leary acknowl…"
         },
         {
           "title": "Karnataka cabinet portfolios out: DKS keeps finance - check full list",
@@ -250,34 +358,10 @@
           "summary": "Cockroach Janta Party founder Abhijeet Dipke announced a new phase of protests soon. He mentioned that the second season of their Jantar Mantar movement is coming. Dipke also supported schoolchildren protesting for a proper road in Uttar Pradesh. He claimed th…"
         },
         {
-          "title": "Ex-Microsoft CEO Steve Ballmer changes how his $8 billion philanthropy works",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/in-2015-steve-ballmer-and-his-wife-connie-founded-ballmer-group-that-has-donated-over-8-billion-since-11-years-later-they-are-changing-where-/articleshow/133173959.cms",
-          "date": "12 Aug 2026",
-          "summary": "Steve and Connie Ballmer are redefining their charitable strategy. The Ballmer Group is set to detach three regional branches, allowing them to operate as independent nonprofits. This adaptation is designed to align funding strategies more closely with the nee…"
-        },
-        {
           "title": "'Charges proved': House panel indicts ex-HC judge Yashwant Varma in cash-at-home case",
           "link": "https://timesofindia.indiatimes.com/india/lok-sabha-inquiry-panel-indicts-ex-hc-judge-yashwant-varma-in-cash-at-home-case/articleshow/133179186.cms",
           "date": "12 Aug 2026",
           "summary": ""
-        },
-        {
-          "title": "Meet the potter wasp, the insect that builds its own mudhouse",
-          "link": "https://timesofindia.indiatimes.com/etimes/animals/the-insect-that-makes-its-own-mudhouse-and-whose-larva-eats-its-prey-alive-meet-the-potter-wasp-which-used-clay-to-create-its-self-designed-abodes-which-hide-a-terrible-secret/articleshow/133180540.cms",
-          "date": "12 Aug 2026",
-          "summary": "Distinguished by their pot-shaped mud nests, Potter wasps are solitary insects that exhibit incredible craftsmanship. Using a combination of mud and saliva, they build their homes with care. Following egg-laying, the females venture out to capture caterpillars…"
-        },
-        {
-          "title": "Study finds one-third of farmland drives two-thirds of farming's nature loss",
-          "link": "https://timesofindia.indiatimes.com/science/one-third-of-global-farmland-accounts-for-about-two-thirds-of-agriculture-linked-biodiversity-and-natural-carbon-storage-loss-a-new-study-finds/articleshow/133182304.cms",
-          "date": "12 Aug 2026",
-          "summary": "A global study reveals one-third of farmland causes two-thirds of farming's environmental damage. Beef and dairy production significantly contribute to biodiversity loss and carbon storage decline. High-impact regions in South America and Asia face concentrate…"
-        },
-        {
-          "title": "Oracle layoffs: Company's '6 am layoff emails' may return in next few days",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-companys-6-am-layoff-emails-may-return-in-next-few-days-as-oracle-plans/articleshow/133177768.cms",
-          "date": "12 Aug 2026",
-          "summary": "Oracle is preparing another round of layoffs this month, with cuts reaching double-digit percentages on some teams and managers already asked to name affected employees. The company wants payroll reduced before its second quarter starts on September 1. Oracle…"
         },
         {
           "title": "The new arms race: 7 technologies that could decide who wins the next big war",
@@ -286,94 +370,10 @@
           "summary": "The next major war may begin with silent cyberattacks and autonomous drone swarms. Artificial intelligence and networked systems are making weapons faster and deadlier. Hypersonic missiles and laser weapons offer new defensive and offensive capabilities. Elect…"
         },
         {
-          "title": "Iran knew Trump's hotel floor, targeted his aircraft during Nato summit: Report",
-          "link": "https://timesofindia.indiatimes.com/world/us/iran-knew-trumps-hotel-floor-targeted-his-aircraft-during-nato-summit-report/articleshow/133179793.cms",
-          "date": "12 Aug 2026",
-          "summary": ""
-        },
-        {
           "title": "Zhu Rongji, former premier who changed China's economic fate passes away at 97",
           "link": "https://timesofindia.indiatimes.com/world/china/zhu-rongji-former-premier-who-changed-chinas-economic-fate-passes-away-at-97/articleshow/133183305.cms",
           "date": "12 Aug 2026",
           "summary": ""
-        },
-        {
-          "title": "Travis Kelce eyes multi million dollar move amid growing fitness concerns",
-          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/travis-kelce-reportedly-eyes-a-multi-million-dollar-move-in-new-season-as-fitness-concerns-continue-to-grow/articleshow/133165160.cms",
-          "date": "12 Aug 2026",
-          "summary": "Travis Kelce is all set to pull a new move aligned with his new deal with Tommy Hilfiger in the new season as concerns over his fitness grow."
-        },
-        {
-          "title": "“Where are the fraud charges?”: Matt Miller case takes brutal turn after crash",
-          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/where-are-the-fraud-charges-matt-millers-case-takes-a-brutal-turn-as-fans-demand-answers-days-after-his-accident/articleshow/133180954.cms",
-          "date": "12 Aug 2026",
-          "summary": "Matt Miller lost his left hand in a brutal accident and now, he has found himself in a mess as fans accuse him of fraud."
-        },
-        {
-          "title": "LeBron James and Savannah James face major community loss ahead of new season",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/lebron-james-and-savannah-james-face-a-massive-loss-in-their-community-ahead-of-new-season-with-the-philadelphia-76ers/articleshow/133115642.cms",
-          "date": "11 Aug 2026",
-          "summary": "LeBron James and his wife, Savannah James, were preparing for their new chapter with the Philadelphia 76ers but they have been faced with a brutal loss in their community."
-        },
-        {
-          "title": "'Aap thoda badal gaye ho': Modi-Kharge banter at Supriya Sule's daughter's reception",
-          "link": "https://timesofindia.indiatimes.com/city/delhi/thoda-badal-gaye-ho-modi-kharge-banter-at-supriya-sules-daughters-wedding-reception/articleshow/133178210.cms",
-          "date": "12 Aug 2026",
-          "summary": "Prime Minister Narendra Modi and Congress leaders interacted at a wedding reception. Modi exchanged pleasantries with Rahul Gandhi and Priyanka Gandhi Vadra. Mallikarjun Kharge joined the conversation, noting the Prime Minister had changed. The leaders shared…"
-        },
-        {
-          "title": "Government suspends Table Tennis federation recognition over governance issues",
-          "link": "https://timesofindia.indiatimes.com/sports/more-sports/others/sports-ministry-suspends-table-tennis-federation-of-india-recognition-over-governance-issues/articleshow/133179346.cms",
-          "date": "12 Aug 2026",
-          "summary": "The ministry also asked the Indian Olympic Association (IOA) to set up an ad-hoc committee to oversee the administration of table tennis in the country until a proper governance structure is restored."
-        },
-        {
-          "title": "In 1922, Olaus Murie entered Alaska to study caribou and wildlife ecosystems",
-          "link": "https://timesofindia.indiatimes.com/science/in-1922-olaus-murie-entered-alaska-to-study-caribou-helping-change-how-scientists-understood-wildlife-and-ecosystems/articleshow/133181553.cms",
-          "date": "12 Aug 2026",
-          "summary": "Olaus Murie began studying Alaskan caribou in 1922, which influenced ecological wildlife understanding. His brother Adolph later investigated wolves and Dall sheep, challenging predator control assumptions. Adolph's research examined species interactions withi…"
-        },
-        {
-          "title": "Ahn Pan-seok passes away at 64: ‘Behind The White Tower’ director's cause of death revealed",
-          "link": "https://timesofindia.indiatimes.com/web-series/news/korean/ahn-pan-seok-passes-away-at-64-behind-the-white-tower-directors-cause-of-death-revealed/articleshow/133184684.cms",
-          "date": "12 Aug 2026",
-          "summary": "South Korean director Ahn Pan-seok, known for 'Behind the White Tower' and 'Spring Night', passed away at 64 after battling lung cancer and suffering a brain hemorrhage. His final project, ENA's 'Love Doctor' starring Choo Young-woo and Kim So-hyun, remains se…"
-        },
-        {
-          "title": "FIFA president offered Mexico switch to CONMEBOL in exchange for vote: Reportt",
-          "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/fifa-president-offered-to-fulfil-mexicos-wish-to-switch-confederations-in-return-for-election-vote-report/articleshow/133179365.cms",
-          "date": "12 Aug 2026",
-          "summary": "Fresh reports claim FIFA president Gianni Infantino offered to help Mexico leave CONCACAF and join CONMEBOL in exchange for political support ahead of the next FIFA presidential election. The alleged proposal could give Mexico access to stronger South American…"
-        },
-        {
-          "title": "In 1998, Nasa sent a rose into space and found microgravity changed its scent",
-          "link": "https://timesofindia.indiatimes.com/science/in-1998-nasa-sent-a-rose-into-space-and-discovered-that-microgravity-could-change-its-scent/articleshow/133183735.cms",
-          "date": "12 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Cauvery row bandh: What's open and what's closed in Karnataka on August 13",
-          "link": "https://timesofindia.indiatimes.com/city/bengaluru/karnataka-bandh-2026-whats-open-and-whats-closed-on-august-13/articleshow/132866936.cms",
-          "date": "12 Aug 2026",
-          "summary": "Karnataka braces for a statewide bandh and potential disruptions on Thursday. Pro-Kannada groups demand action on the Cauvery water dispute and other projects. Public transport and commercial activities may face significant impact across the state. Heavy rain…"
-        },
-        {
-          "title": "Vikram’s Lar Gibbon video sparks forest probe; 1 animal dead and 2 sent back to Erode",
-          "link": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vikram-lar-gibbon-controversy-forest-department-finds-one-gibbon-dead-investigates-animal-transfers/articleshow/133177710.cms",
-          "date": "12 Aug 2026",
-          "summary": "Actor Vikram's video featuring an endangered gibbon has prompted a forest department investigation. Officials are examining how the animal reached the actor and its ownership chain. A third gibbon, linked to the same breeder, reportedly died without notificati…"
-        },
-        {
-          "title": "Speaking Marathi must for cab drivers in Maharashtra, violations to cost permit",
-          "link": "https://timesofindia.indiatimes.com/city/mumbai/driving-a-cab-in-maharashtra-marathi-language-now-mandatory-repeat-violations-may-cost-permit/articleshow/133177288.cms",
-          "date": "12 Aug 2026",
-          "summary": "Maharashtra transport minister Pratap Sarnaik announced new rules for drivers. Commercial passenger vehicle drivers must now know Marathi for their jobs. Failing to demonstrate this skill could lead to permit suspension. This directive applies to auto-rickshaw…"
-        },
-        {
-          "title": "CPI data: Retail inflation moves up to 4.45% in July; above RBI's target for 2nd month",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/cpi-data-retail-inflation-moves-up-to-4-45-in-july-stays-above-rbis-target-for-second-month/articleshow/133179865.cms",
-          "date": "12 Aug 2026",
-          "summary": "Based on the All India Consumer Food Price Index (CFPI), provisional food inflation stood at 5.52% year-on-year in July 2026. Rural food inflation was estimated at 5.79%, whereas the corresponding rate for urban India was 5.05%."
         }
       ]
     },
@@ -760,6 +760,12 @@
       "ok": true,
       "items": [
         {
+          "title": "Google's Gemini is losing market share to ChatGPT and Claude according to new market data",
+          "link": "https://the-decoder.com/googles-gemini-is-losing-market-share-to-chatgpt-and-claude-according-to-new-market-data/",
+          "date": "12 Aug 2026",
+          "summary": "Three data sources paint the same picture: Google's Gemini is losing AI market share. Pangram reports a drop from 12 to 1.9 percent, while OpenAI holds over 50 percent, and Anthropic grew from 4.3 to 14.9 percent. Similarweb and OpenRouter data confirm the tre…"
+        },
+        {
           "title": "Legal startup founder Robert Mahari joins Anthropic to lead Claude's push into law practices",
           "link": "https://the-decoder.com/legal-startup-founder-robert-mahari-joins-anthropic-to-lead-claudes-push-into-law-practices/",
           "date": "12 Aug 2026",
@@ -812,12 +818,6 @@
           "link": "https://the-decoder.com/anthropics-planned-mega-ipo-faces-investor-skepticism-over-chinese-rivals-and-political-headwinds/",
           "date": "11 Aug 2026",
           "summary": "Anthropic is preparing an IPO for September or October, according to the Wall Street Journal, potentially the largest ever. During investor meetings, the company, valued at $965 billion, is fielding tough questions about Chinese competition, tensions with the…"
-        },
-        {
-          "title": "OpenAI introduces $125 Premium Seats for ChatGPT Business as agentic AI burns through more tokens",
-          "link": "https://the-decoder.com/openai-introduces-125-premium-seats-for-chatgpt-business-as-agentic-ai-burns-through-more-tokens/",
-          "date": "11 Aug 2026",
-          "summary": "OpenAI is rolling out \"Premium Seats\" for ChatGPT Business customers at $125 per user per month, five times the price of the existing Standard Seats. In return, users get significantly more capacity and no five-hour usage limit. The move signals that the flat-…"
         }
       ]
     },
@@ -898,7 +898,7 @@
         {
           "title": "NVIDIA JetPack 7.2.1 Adds Agentic Video Skills and T3000 Emulation",
           "link": "https://developer.nvidia.com/blog/nvidia-jetpack-7-2-1-adds-agentic-video-skills-and-t3000-emulation/",
-          "date": "11 Aug 2026",
+          "date": "12 Aug 2026",
           "summary": "Video is a core data path across NVIDIA Jetson applications, from robotics and intelligent video analytics to industrial automation, healthcare, media..."
         },
         {
@@ -1152,6 +1152,12 @@
       "ok": true,
       "items": [
         {
+          "title": "US Hires Over 2,000 Video Gamers As Air Traffic Controllers",
+          "link": "https://games.slashdot.org/story/26/08/12/0542256/us-hires-over-2000-video-gamers-as-air-traffic-controllers?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "12 Aug 2026",
+          "summary": "The FAA says its push to recruit video gamers as air traffic controllers has helped it hire more than 2,000 trainees, reaching 94% of its hiring goal. Another 2,000-plus candidates are in the pipeline. CBS News reports: U.S. Secretary of Transportation Sean Du…"
+        },
+        {
           "title": "Swarms of Tiny Robots Remove Microplastics From Soil and Water",
           "link": "https://hardware.slashdot.org/story/26/08/12/0547231/swarms-of-tiny-robots-remove-microplastics-from-soil-and-water?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "12 Aug 2026",
@@ -1234,12 +1240,6 @@
           "link": "https://hardware.slashdot.org/story/26/08/11/0538200/the-roboguard-revolution-is-short-circuiting?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "11 Aug 2026",
           "summary": "alternative_right shares a report from 404 Media: Robotics companies promise that video-camera-toting security robots can deter and detect crime. But many companies are rethinking the approach after a trail of canceled contracts and questions about whether the…"
-        },
-        {
-          "title": "Taxi Drivers Rarely Die of Alzheimer's",
-          "link": "https://science.slashdot.org/story/26/08/11/0515205/taxi-drivers-rarely-die-of-alzheimers?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "11 Aug 2026",
-          "summary": "An anonymous reader shares a report from The Conversation, written by Hatim Sharif, a civil and environmental engineer who has \"spent more than two decades staring at maps\" and spatial data. Sharif finds one connection especially fascinating: the link between…"
         }
       ]
     },
@@ -1630,184 +1630,184 @@
       "ok": true,
       "items": [
         {
-          "title": "pyproresult added to PyPI",
-          "link": "https://pypi.org/project/pyproresult/",
+          "title": "jira-claude-toolkit added to PyPI",
+          "link": "https://pypi.org/project/jira-claude-toolkit/",
           "date": "12 Aug 2026",
-          "summary": "Library for interfacing with Proresult"
+          "summary": "Reusable Jira → Claude Code → Spec-Kit specification toolkit"
         },
         {
-          "title": "superlog-tui added to PyPI",
-          "link": "https://pypi.org/project/superlog-tui/",
+          "title": "vrchatapi-async added to PyPI",
+          "link": "https://pypi.org/project/vrchatapi-async/",
           "date": "12 Aug 2026",
-          "summary": "Real-time structured log viewer and system monitor TUI for developers"
+          "summary": "VRChat API Library for Python (async version)"
         },
         {
-          "title": "transitional-sync-middleware added to PyPI",
-          "link": "https://pypi.org/project/transitional-sync-middleware/",
+          "title": "nuropb-rmq added to PyPI",
+          "link": "https://pypi.org/project/nuropb-rmq/",
           "date": "12 Aug 2026",
-          "summary": "Transitional fork of Sebastian Behrendt's aas-middleware, carrying four sync fixes for kapps-semantic-middleware. Retired within a few releases; do not build on it."
+          "summary": "Native Python AMQP 0-9-1 client for RabbitMQ service mesh (RPC, events, mesh, reconnect)"
         },
         {
-          "title": "sapient-pydantic added to PyPI",
-          "link": "https://pypi.org/project/sapient-pydantic/",
+          "title": "leo-cub added to PyPI",
+          "link": "https://pypi.org/project/leo-cub/",
           "date": "12 Aug 2026",
-          "summary": "SAPIENT (BSI Flex 335 v2.0) pydantic models with ICD validation and converters to/from the google-protobuf classes"
+          "summary": "Automation-safe library and CLI for Leo outline files"
         },
         {
-          "title": "sapient-proto added to PyPI",
-          "link": "https://pypi.org/project/sapient-proto/",
+          "title": "pycoach-ai added to PyPI",
+          "link": "https://pypi.org/project/pycoach-ai/",
           "date": "12 Aug 2026",
-          "summary": "SAPIENT (BSI Flex 335 v2.0) protobuf message classes for Python, with type stubs"
+          "summary": "An AI-powered Python learning and coding practice engine."
         },
         {
-          "title": "foxsniff added to PyPI",
-          "link": "https://pypi.org/project/foxsniff/",
+          "title": "notrack-cli added to PyPI",
+          "link": "https://pypi.org/project/notrack-cli/",
           "date": "12 Aug 2026",
-          "summary": "Minimal raw-socket IPv4 packet sniffer for Linux, no dependencies."
+          "summary": "Antigravity-style CLI for NoTrack AI with rich UI, code execution, file operations, and Termux support"
         },
         {
-          "title": "ssb-nr-utils added to PyPI",
-          "link": "https://pypi.org/project/ssb-nr-utils/",
+          "title": "nxrt-ep-cpu added to PyPI",
+          "link": "https://pypi.org/project/nxrt-ep-cpu/",
           "date": "12 Aug 2026",
-          "summary": "SSB Nr Utils"
+          "summary": "ONNX Runtime plugin execution provider (CPU) — bundled cdylib for register_execution_provider_library"
         },
         {
-          "title": "mudraid-sdk added to PyPI",
-          "link": "https://pypi.org/project/mudraid-sdk/",
+          "title": "fastpluggy-ocr-service added to PyPI",
+          "link": "https://pypi.org/project/fastpluggy-ocr-service/",
           "date": "12 Aug 2026",
-          "summary": "Python SDK for MudraID — drop-in replacement for `requests` that adds transparent agent authentication and per-platform token routing."
+          "summary": "Placeholder to reserve this name — not the real package."
         },
         {
-          "title": "mudraid-platform-middleware added to PyPI",
-          "link": "https://pypi.org/project/mudraid-platform-middleware/",
+          "title": "hcrulepy added to PyPI",
+          "link": "https://pypi.org/project/hcrulepy/",
           "date": "12 Aug 2026",
-          "summary": "FastAPI/Starlette middleware for MudraID — verifies MudraID-issued JWTs against per-platform scopes with zero changes to your route handlers."
+          "summary": "Pure-Python implementation of hashcat's rule-based attack engine"
         },
         {
-          "title": "perqueue added to PyPI",
-          "link": "https://pypi.org/project/perqueue/",
+          "title": "ai-coustics-livekit-plugin added to PyPI",
+          "link": "https://pypi.org/project/ai-coustics-livekit-plugin/",
           "date": "12 Aug 2026",
-          "summary": "Workflow tool that wraps the MyQueue package to handle dependency chains better for high throughput scenarios"
+          "summary": "ai-coustics noise cancellation for LiveKit Agents"
         },
         {
-          "title": "piilint added to PyPI",
-          "link": "https://pypi.org/project/piilint/",
+          "title": "quantum-exercises added to PyPI",
+          "link": "https://pypi.org/project/quantum-exercises/",
           "date": "12 Aug 2026",
-          "summary": "Local-first PII scanner for notebooks, CSV, JSON, Parquet, and source code."
+          "summary": "Hands-on quantum computing exercises for Qiskit, from an empty laptop to real IBM hardware"
         },
         {
-          "title": "baleon added to PyPI",
-          "link": "https://pypi.org/project/baleon/",
+          "title": "pptx-wzq added to PyPI",
+          "link": "https://pypi.org/project/pptx-wzq/",
           "date": "12 Aug 2026",
-          "summary": "Simple, async-first Python framework for building Bale bots"
+          "summary": "PPT 多模态教学知识库自动化构建：图片/公式/文本提取 → 图片AI解读 → 教材文案 → 图文绑定 → 教材HTML/Deck"
         },
         {
-          "title": "xtworkbuddy added to PyPI",
-          "link": "https://pypi.org/project/xtworkbuddy/",
+          "title": "agent-runtime-guard added to PyPI",
+          "link": "https://pypi.org/project/agent-runtime-guard/",
           "date": "12 Aug 2026",
-          "summary": "XtWorkBuddy — QMT 量化投研 MCP Server + 知识库 + WorkBuddy Connector"
+          "summary": "Agent runtime rule engine: tool ACL -> dangerous pattern -> constitution immutability -> identity continuity"
         },
         {
-          "title": "berliant added to PyPI",
-          "link": "https://pypi.org/project/berliant/",
+          "title": "decimalai-client added to PyPI",
+          "link": "https://pypi.org/project/decimalai-client/",
           "date": "12 Aug 2026",
-          "summary": "Stochastic capability-interaction discovery for failure-inducing capability combinations"
+          "summary": "Looking for the DecimalAI API client? It is published as `decimalai` — run: pip install decimalai"
         },
         {
-          "title": "tsun-local-api added to PyPI",
-          "link": "https://pypi.org/project/tsun-local-api/",
+          "title": "decimalai-cli added to PyPI",
+          "link": "https://pypi.org/project/decimalai-cli/",
           "date": "12 Aug 2026",
-          "summary": "Asynchronous local API for supported TSUN micro-inverters"
+          "summary": "Looking for the DecimalAI CLI? It ships inside `decimalai` — run: pip install decimalai"
         },
         {
-          "title": "portugal-vehicle-tax added to PyPI",
-          "link": "https://pypi.org/project/portugal-vehicle-tax/",
+          "title": "decimalai-sdk added to PyPI",
+          "link": "https://pypi.org/project/decimalai-sdk/",
           "date": "12 Aug 2026",
-          "summary": "ISV + IUC Portuguese vehicle-tax calculators (import tax + annual road tax) — a maintained estimate, cross-checked against the official AT simulator."
+          "summary": "Looking for the DecimalAI SDK? It is published as `decimalai` — run: pip install decimalai"
         },
         {
-          "title": "nodepython added to PyPI",
-          "link": "https://pypi.org/project/nodepython/",
+          "title": "python-ta-z3 added to PyPI",
+          "link": "https://pypi.org/project/python-ta-z3/",
           "date": "12 Aug 2026",
-          "summary": "Execute Node.js code nativamente dentro de scripts Python com JSON I/O."
+          "summary": "Z3 solver integration for PythonTA"
         },
         {
-          "title": "simplibs-randomize added to PyPI",
-          "link": "https://pypi.org/project/simplibs-randomize/",
+          "title": "conditioning added to PyPI",
+          "link": "https://pypi.org/project/conditioning/",
           "date": "12 Aug 2026",
-          "summary": "A powerful type-driven data generation framework for creating randomized values based on Python types, structures, and custom registries."
+          "summary": "A Conditioning Analyzer that tiers its claims: it detects cue, behavior, consequence, reinforcement loops from event sequences and never asserts a pattern from two ordinary points. Ships episode-dedupe."
         },
         {
-          "title": "pytdxdata added to PyPI",
-          "link": "https://pypi.org/project/pytdxdata/",
+          "title": "cognitive-governance added to PyPI",
+          "link": "https://pypi.org/project/cognitive-governance/",
           "date": "12 Aug 2026",
-          "summary": "通达信(TongDaXin)行情数据客户端：动态连接池 + 双层TTL缓存 + 3连接并发分页，纯asyncio零运行时依赖，支持A股/港股/美股/期货/期权"
+          "summary": "Traits, not prompts: persistent dispositions above your model — anti-manipulation governance, investigative drive, moral drift detection. Deterministic, disclosed, zero dependencies."
         },
         {
-          "title": "demoparity added to PyPI",
-          "link": "https://pypi.org/project/demoparity/",
+          "title": "capability-honesty added to PyPI",
+          "link": "https://pypi.org/project/capability-honesty/",
           "date": "12 Aug 2026",
-          "summary": "A Python package for counterfactual demographic auditing of LLM prompts."
+          "summary": "Make an AI report the lowest proven state: advertise abilities only after a probe passes, and call work done only when a verifiable artifact backs it. Fail-closed."
         },
         {
-          "title": "splatset added to PyPI",
-          "link": "https://pypi.org/project/splatset/",
+          "title": "adversarial-honesty-tests added to PyPI",
+          "link": "https://pypi.org/project/adversarial-honesty-tests/",
           "date": "12 Aug 2026",
-          "summary": "A free collection of 3D Gaussian splat objects, loaded in one line, each labelled with how it was made."
+          "summary": "Test an AI for honesty by trying to make it lie: probes that hand the system a dishonesty shape and pass only when it declines and discloses. A silent success on a rigged input is the bug."
         },
         {
-          "title": "evoid-maubot added to PyPI",
-          "link": "https://pypi.org/project/evoid-maubot/",
+          "title": "pdf2epub-v2 added to PyPI",
+          "link": "https://pypi.org/project/pdf2epub-v2/",
           "date": "12 Aug 2026",
-          "summary": "EVOID adapter for maubot — bridge Matrix events to EVOID intents with Jitsi support"
+          "summary": "Convert PDFs — including scanned ones — into clean, readable EPUB3. Bring your own OCR key."
         },
         {
-          "title": "promptstudio-ai added to PyPI",
-          "link": "https://pypi.org/project/promptstudio-ai/",
+          "title": "easy-docker-manager added to PyPI",
+          "link": "https://pypi.org/project/easy-docker-manager/",
           "date": "12 Aug 2026",
-          "summary": "AI-powered prompt engineering assistant: scoring, validation, optimization, and semantic search."
+          "summary": "Keyboard-driven terminal interface for inspecting local Docker containers"
         },
         {
-          "title": "shipyard-devagent added to PyPI",
-          "link": "https://pypi.org/project/shipyard-devagent/",
+          "title": "diffsage added to PyPI",
+          "link": "https://pypi.org/project/diffsage/",
           "date": "12 Aug 2026",
-          "summary": "Per-app developer agent for applications generated by Naviscom Shipyard."
+          "summary": "AI-powered Git workflow assistant"
         },
         {
-          "title": "tolokaforge-models added to PyPI",
-          "link": "https://pypi.org/project/tolokaforge-models/",
+          "title": "istsos4-client added to PyPI",
+          "link": "https://pypi.org/project/istsos4-client/",
           "date": "12 Aug 2026",
-          "summary": "Model data and per-model policy subclasses for tolokaforge."
+          "summary": "Python client for istSOS4 (OGC SensorThings API)"
         },
         {
-          "title": "x-iztro added to PyPI",
-          "link": "https://pypi.org/project/x-iztro/",
+          "title": "xdevsm added to PyPI",
+          "link": "https://pypi.org/project/xdevsm/",
           "date": "12 Aug 2026",
-          "summary": "紫微斗数排盘库：Rust 原生性能，100% 对齐 iztro（66 万金标用例逐字段对照）"
+          "summary": "An SDK framework for building O-RAN xApps over E2 Service Models (KPM, RC, CCC)."
         },
         {
-          "title": "pyobs-auth added to PyPI",
-          "link": "https://pypi.org/project/pyobs-auth/",
+          "title": "icdn added to PyPI",
+          "link": "https://pypi.org/project/icdn/",
           "date": "12 Aug 2026",
-          "summary": "Shared Keycloak/OIDC authentication client for pyobs web services"
+          "summary": "Demand and price elasticity estimation with integrable context-dependent demand networks"
         },
         {
-          "title": "braavos added to PyPI",
-          "link": "https://pypi.org/project/braavos/",
+          "title": "mdbench added to PyPI",
+          "link": "https://pypi.org/project/mdbench/",
           "date": "12 Aug 2026",
-          "summary": "Data analytics on your bank account data"
+          "summary": "A benchmark for discovering scientific mechanisms"
         },
         {
-          "title": "medcat-transformer-ner added to PyPI",
-          "link": "https://pypi.org/project/medcat-transformer-ner/",
+          "title": "zaru-core added to PyPI",
+          "link": "https://pypi.org/project/zaru-core/",
           "date": "12 Aug 2026",
-          "summary": "Transformer based NER for MedCAT"
+          "summary": "A secure payment model engine with transaction state machine and cryptographic verification"
         },
         {
-          "title": "protocli added to PyPI",
-          "link": "https://pypi.org/project/protocli/",
+          "title": "splent-feature-slider added to PyPI",
+          "link": "https://pypi.org/project/splent-feature-slider/",
           "date": "12 Aug 2026",
-          "summary": "Signature-driven CLI dispatcher: typed function signatures become argparse parsers, modules become lazily-imported subcommands, with nested dispatch, --help-all and shell completions."
+          "summary": "None"
         }
       ]
     }
