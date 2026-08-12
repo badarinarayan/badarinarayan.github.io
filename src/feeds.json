@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T19:56:16Z",
+  "generated": "2026-08-12T20:36:48Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,12 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "US stocks: S&amp;P 500 ends higher as CoreWeave results fuel AI optimism",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-500-ends-higher-as-coreweave-results-fuel-ai-optimism/articleshow/133192806.cms",
+          "date": "13 Aug 2026",
+          "summary": "US stock markets closed higher on Wednesday, driven by strong AI infrastructure company earnings. Mild inflation data reinforced expectations that the Federal Reserve will hold interest rates steady. CoreWeave and other AI firms reported upbeat quarterly resul…"
+        },
         {
           "title": "BofA to invest $1.9 billion for 49.9% stake in Jio Financial NBFC unit",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/update-1-bofa-to-invest-1-9-billion-for-49-9-stake-in-jio-financial-nbfc-unit/articleshow/133187370.cms",
@@ -36,12 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/pilani-investment-to-sell-1-7-million-ultratech-cement-shares-for-1908-crore/articleshow/133185360.cms",
           "date": "12 Aug 2026",
           "summary": "Pilani Investment plans to sell 1.7 million UltraTech Cement shares valued at ₹1,908 crore on August 13, 2026, at a 3% discount. Separately, UltraTech Cement is acquiring a 26% stake in Solaris Horizon Energy to support its green energy initiatives."
-        },
-        {
-          "title": "Sebi lowers stress testing limit for commodity derivatives",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/sebi-lowers-stress-testing-limit-for-commodity-derivatives/articleshow/133185205.cms",
-          "date": "12 Aug 2026",
-          "summary": "The Securities and Exchange Board of India (Sebi) has announced a significant reduction in the Z-score limit for stress testing in commodity derivatives, lowering it to five from ten. This strategic shift is designed to enhance compliance and streamline proces…"
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -196,15 +196,15 @@
       "ok": true,
       "items": [
         {
-          "title": "Power struggle at Tata group deepens as N Chandrasekaran steps down",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/n-chandrasekaran-steps-down-how-power-struggle-at-tata-group-is-deepening-with-exit-of-ratan-tatas-key-allies/articleshow/133187749.cms",
-          "date": "12 Aug 2026",
-          "summary": "The battle for influence within the Tata Group after the death of former chairman Ratan Tata in 2024 has led to the exit of several senior leaders who were closely associated with him, altering the leadership dynamics at India's largest business conglomerate."
-        },
-        {
           "title": "Trump announces Karoline Leavitt’s exit as White House press secretary",
           "link": "https://timesofindia.indiatimes.com/world/us/trump-announces-karoline-leavitts-exit-as-white-house-press-secretary/articleshow/133192657.cms",
           "date": "13 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "After 23 years, US to pull out last troops from Iraq by September 30",
+          "link": "https://timesofindia.indiatimes.com/world/us/after-23-years-us-to-pull-out-last-troops-from-iraq-by-september-30/articleshow/133189919.cms",
+          "date": "12 Aug 2026",
           "summary": ""
         },
         {
@@ -220,16 +220,22 @@
           "summary": "Former Pakistan spinner Iqbal Qasim criticised young cricketers for prioritising money and league contracts over improving skills and game awareness. He also questioned selectors’ lack of vision and warned against interference in cricket administration. Recall…"
         },
         {
-          "title": "Why India wants 114 more Rafales and what gives the fighter its edge",
-          "link": "https://timesofindia.indiatimes.com/defence/news/why-india-wants-114-more-rafales-and-what-gives-the-fighter-its-edge/articleshow/133180407.cms",
+          "title": "Power struggle at Tata group deepens as N Chandrasekaran steps down",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/n-chandrasekaran-steps-down-how-power-struggle-at-tata-group-is-deepening-with-exit-of-ratan-tatas-key-allies/articleshow/133187749.cms",
           "date": "12 Aug 2026",
-          "summary": "Dassault Aviation from France has presented its proposal for acquiring 114 Rafale jets, aimed at strengthening India’s fighter fleet and addressing existing capability shortcomings. This initiative prioritizes significant local production and the transfer of t…"
+          "summary": "The battle for influence within the Tata Group after the death of former chairman Ratan Tata in 2024 has led to the exit of several senior leaders who were closely associated with him, altering the leadership dynamics at India's largest business conglomerate."
         },
         {
           "title": "Months after Dells' $6.25Bn ‘gift’, US Treasury sets new Trump Account paycheck rules",
           "link": "https://timesofindia.indiatimes.com/technology/tech-news/months-after-michael-dell-and-his-wife-susan-dells-6-5-billion-donation-department-of-treasury-announces-new-paycheck-rules-for-trump-accounts/articleshow/133184869.cms",
           "date": "12 Aug 2026",
           "summary": "New rules from the US Treasury and IRS will allow payroll contributions to Trump Accounts. Employers can contribute up to $2,500 tax-free annually for employees' dependent children. Employees will also have the option to make pre-tax paycheck contributions dir…"
+        },
+        {
+          "title": "Why India wants 114 more Rafales and what gives the fighter its edge",
+          "link": "https://timesofindia.indiatimes.com/defence/news/why-india-wants-114-more-rafales-and-what-gives-the-fighter-its-edge/articleshow/133180407.cms",
+          "date": "12 Aug 2026",
+          "summary": "Dassault Aviation from France has presented its proposal for acquiring 114 Rafale jets, aimed at strengthening India’s fighter fleet and addressing existing capability shortcomings. This initiative prioritizes significant local production and the transfer of t…"
         },
         {
           "title": "Stalin pulls up DMK MLAs over ‘frivolous’ speeches in budget session",
@@ -250,16 +256,16 @@
           "summary": "Steve and Connie Ballmer are redefining their charitable strategy. The Ballmer Group is set to detach three regional branches, allowing them to operate as independent nonprofits. This adaptation is designed to align funding strategies more closely with the nee…"
         },
         {
-          "title": "Hoover Dam submerged a town in 1935; Lake Mead is revealing it again",
-          "link": "https://timesofindia.indiatimes.com/world/us/hoover-dams-construction-submerged-a-us-town-in-1935-90-years-later-lake-meads-falling-water-levels-are-helping-it-reemerge/articleshow/133094037.cms",
-          "date": "10 Aug 2026",
-          "summary": "The receding waters of Lake Mead have unveiled the eerie remnants of St. Thomas, a ghost town in Nevada. Originally a thriving Mormon settlement founded in 1865, it was swallowed by rising waters after the Hoover Dam was built in 1938. Now, the lakebed display…"
+          "title": "Tennessee farmer refused $20 an acre for national park land: What happened next",
+          "link": "https://timesofindia.indiatimes.com/world/us/in-1929-a-tennessee-farmer-refused-20-an-acre-for-375-acres-wanted-for-great-smoky-mountains-national-park-after-years-in-court-he-received-17000-and-lost-the-farm/articleshow/133164671.cms",
+          "date": "12 Aug 2026",
+          "summary": "In 1929, Tennessee farmer John W. Oliver refused to sell his 375-acre Cades Cove farm for $20 an acre, leading to a lengthy court battle over land wanted for Great Smoky Mountains National Park. After the Tennessee Supreme Court ruled against him, Oliver ultim…"
         },
         {
-          "title": "Yonkers uncovers buried river, creating 14,000 sq ft of aquatic habitat",
-          "link": "https://timesofindia.indiatimes.com/world/us/in-2012-yonkers-tore-up-a-downtown-parking-lot-to-uncover-a-river-buried-for-decades-within-six-months-it-had-created-14000-sq-ft-of-aquatic-habitat/articleshow/133147516.cms",
+          "title": "Malaysia’s Princess Ilyana marries British GT racer Chris Froggatt",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/malaysias-princess-ilyana-29-married-british-gt-racer-chris-froggatt-32-the-multi-day-kuala-lumpur-wedding-blended-royal-traditions-with-motorsport/articleshow/133152388.cms",
           "date": "11 Aug 2026",
-          "summary": "In 2012, Yonkers, New York, completed a project to uncover a section of the Saw Mill River that had been buried beneath a downtown parking lot since the 1920s. The former Larkin Plaza was turned into a three-acre public park. Within six months, the restored ri…"
+          "summary": "Tengku Puteri Raja Tengku Puteri Ilyana Alia, daughter of Pahang Sultan Al-Sultan Abdullah, married British racing driver Christopher Lionel Froggatt in Kuala Lumpur on August 7. The ceremony was attended by members of the Pahang royal family and followed trad…"
         },
         {
           "title": "Oracle layoffs: Company's '6 am layoff emails' may return in next few days",
@@ -318,12 +324,6 @@
         {
           "title": "'False': In rare move, Pak army reacts after rumours swirl of Imran Khan's death",
           "link": "https://timesofindia.indiatimes.com/world/pakistan/imran-khan-no-longer-with-us-noted-pakistani-journalist-makes-big-claim-cites-military-sources/articleshow/133180822.cms",
-          "date": "12 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "After 23 years, US to pull out last troops from Iraq by September 30",
-          "link": "https://timesofindia.indiatimes.com/world/us/after-23-years-us-to-pull-out-last-troops-from-iraq-by-september-30/articleshow/133189919.cms",
           "date": "12 Aug 2026",
           "summary": ""
         },
@@ -1152,6 +1152,12 @@
       "ok": true,
       "items": [
         {
+          "title": "China-Linked Hackers Used AI To Run First-Ever 'Autonomous' Cyberattack On Taiwan",
+          "link": "https://it.slashdot.org/story/26/08/12/1544250/china-linked-hackers-used-ai-to-run-first-ever-autonomous-cyberattack-on-taiwan?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "12 Aug 2026",
+          "summary": "Researchers at Israeli cybersecurity firm Dream say suspected China-linked hackers used an open-source AI-agent system to conduct what may be the first observed end-to-end autonomous cyberattack against a government. According to the Financial Times (paywalled…"
+        },
+        {
           "title": "DEF CON Crowd Suspected In Fake-Hotspot Attack On Delta Flight",
           "link": "https://mobile.slashdot.org/story/26/08/12/064220/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "12 Aug 2026",
@@ -1234,12 +1240,6 @@
           "link": "https://slashdot.org/story/26/08/11/1733246/paramount-considers-leaving-california-amid-antitrust-suit?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "11 Aug 2026",
           "summary": "Paramount CEO David Ellison is threatening to begin moving the studio out of California on October 1 if state Attorney General Rob Bonta refuses to enter settlement talks over the proposed Paramount-Warner Bros. Discovery merger. The company would reportedly m…"
-        },
-        {
-          "title": "France Bans Unsolicited Telemarking Calls",
-          "link": "https://mobile.slashdot.org/story/26/08/11/1657250/france-bans-unsolicited-telemarking-calls?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "11 Aug 2026",
-          "summary": "Starting today, unsolicited telemarking calls are banned in France unless consumers explicitly consent to them. Companies that violate the law can face fines of up to 375,000 euros per call, though existing customers can still be contacted with related offers.…"
         }
       ]
     },
@@ -1630,184 +1630,184 @@
       "ok": true,
       "items": [
         {
-          "title": "dysplai added to PyPI",
-          "link": "https://pypi.org/project/dysplai/",
+          "title": "vinta-django-billing added to PyPI",
+          "link": "https://pypi.org/project/vinta-django-billing/",
           "date": "12 Aug 2026",
-          "summary": "DYSPLAI Oncology Intelligence API — Python SDK (Research Use Only)"
+          "summary": "Subscriptions, plan limits, entitlements and metered usage for multi-organization Django applications"
         },
         {
-          "title": "cdt-data-uploader added to PyPI",
-          "link": "https://pypi.org/project/cdt-data-uploader/",
+          "title": "spatialdeform added to PyPI",
+          "link": "https://pypi.org/project/spatialdeform/",
           "date": "12 Aug 2026",
-          "summary": "Python SDK for uploading CDT datasets (VLA, etc.)"
+          "summary": "Scikit-learn-style spatial deformation of GeoPandas networks from travel costs"
         },
         {
-          "title": "theseus-kit added to PyPI",
-          "link": "https://pypi.org/project/theseus-kit/",
+          "title": "learning-machines added to PyPI",
+          "link": "https://pypi.org/project/learning-machines/",
           "date": "12 Aug 2026",
-          "summary": "MCP server for safely inspecting, editing, templating, and publishing TFRobot configurations"
+          "summary": "A group of machines that learn."
         },
         {
-          "title": "hypershub-agent-core added to PyPI",
-          "link": "https://pypi.org/project/hypershub-agent-core/",
+          "title": "mlx-autoquant added to PyPI",
+          "link": "https://pypi.org/project/mlx-autoquant/",
           "date": "12 Aug 2026",
-          "summary": "Policy-aware, provider-neutral agent runtime built on Pydantic AI"
+          "summary": "Hardware-aware Hugging Face to MLX quantizer"
         },
         {
-          "title": "shot-grammar added to PyPI",
-          "link": "https://pypi.org/project/shot-grammar/",
+          "title": "context-rainbow added to PyPI",
+          "link": "https://pypi.org/project/context-rainbow/",
           "date": "12 Aug 2026",
-          "summary": "Measure a flat-art video's composition grammar from pixels: composition-change timing, element placement bands, caption hold/drop."
+          "summary": "Color-aware OKF context routing for progressively loading repository knowledge."
         },
         {
-          "title": "sparks-dgx added to PyPI",
-          "link": "https://pypi.org/project/sparks-dgx/",
+          "title": "sigtake added to PyPI",
+          "link": "https://pypi.org/project/sigtake/",
           "date": "12 Aug 2026",
-          "summary": "Training runs on the DGX Spark: metrics, launcher, queue"
+          "summary": "SDK oficial de Python para Sigtake — ingesta de alertas y señales"
         },
         {
-          "title": "sip-python-2026 added to PyPI",
-          "link": "https://pypi.org/project/sip-python-2026/",
+          "title": "sacor added to PyPI",
+          "link": "https://pypi.org/project/sacor/",
           "date": "12 Aug 2026",
-          "summary": "Python bindings for the sip-core library"
+          "summary": "The Open Document Extraction Engine"
         },
         {
-          "title": "SimVX-Web added to PyPI",
-          "link": "https://pypi.org/project/simvx-web/",
+          "title": "kizashi-edr-client added to PyPI",
+          "link": "https://pypi.org/project/kizashi-edr-client/",
           "date": "12 Aug 2026",
-          "summary": "Runs SimVX scenes in the browser and exports them as static pages."
+          "summary": "Official Python client SDK for the Kizashi API"
         },
         {
-          "title": "SimVX-Textures-Basis added to PyPI",
-          "link": "https://pypi.org/project/simvx-textures-basis/",
+          "title": "leadpush added to PyPI",
+          "link": "https://pypi.org/project/leadpush/",
           "date": "12 Aug 2026",
-          "summary": "Transcodes compressed KTX2 and Basis Universal textures for SimVX."
+          "summary": "Official Python SDK for the Leadpush API"
         },
         {
-          "title": "SimVX-Physics-Jolt added to PyPI",
-          "link": "https://pypi.org/project/simvx-physics-jolt/",
+          "title": "tracefold added to PyPI",
+          "link": "https://pypi.org/project/tracefold/",
           "date": "12 Aug 2026",
-          "summary": "Jolt Physics as a 3D backend for SimVX. The built-in solver is pure Python; this one is not."
+          "summary": "Tracefold - verified undo and offline-verifiable receipts for AI agent actions. Name reservation; first release coming soon."
         },
         {
-          "title": "yoker-assistant added to PyPI",
-          "link": "https://pypi.org/project/yoker-assistant/",
+          "title": "foldpipe added to PyPI",
+          "link": "https://pypi.org/project/foldpipe/",
           "date": "12 Aug 2026",
-          "summary": "A personal assistant that communicates by email, built on yoker-as-SDK"
+          "summary": "I/O-optimized Machine Learning Force Field (MLFF) data pipeline for constrained hardware."
         },
         {
-          "title": "chowki added to PyPI",
-          "link": "https://pypi.org/project/chowki/",
+          "title": "kapps-semantic-middleware added to PyPI",
+          "link": "https://pypi.org/project/kapps-semantic-middleware/",
           "date": "12 Aug 2026",
-          "summary": "In-process agent state preservation, guardrails, and warm resume."
+          "summary": "Semantic middleware for industrial data integration, built on transitional-sync-middleware"
         },
         {
-          "title": "thermoparser added to PyPI",
-          "link": "https://pypi.org/project/thermoparser/",
+          "title": "sfmon added to PyPI",
+          "link": "https://pypi.org/project/sfmon/",
           "date": "12 Aug 2026",
-          "summary": "Streamlined analysis of thermoelectric properties"
+          "summary": "Monitor a Salesforce org and expose Prometheus metrics from a long-running Python service."
         },
         {
-          "title": "foldrive added to PyPI",
-          "link": "https://pypi.org/project/foldrive/",
+          "title": "retrace-kit added to PyPI",
+          "link": "https://pypi.org/project/retrace-kit/",
           "date": "12 Aug 2026",
-          "summary": "Pair any local folder with any Google Drive folder - git-style two-way sync"
+          "summary": "Lightweight Python error tracking SDK for Retrace Kit"
         },
         {
-          "title": "zarr-http-server added to PyPI",
-          "link": "https://pypi.org/project/zarr-http-server/",
+          "title": "siqa-agent added to PyPI",
+          "link": "https://pypi.org/project/siqa-agent/",
           "date": "12 Aug 2026",
-          "summary": "HTTP server for Zarr stores, arrays, and groups."
+          "summary": "SIQA Agent SDK for Python"
         },
         {
-          "title": "gitprint added to PyPI",
-          "link": "https://pypi.org/project/gitprint/",
+          "title": "mcp-sandbox-computer-vm-for-ai added to PyPI",
+          "link": "https://pypi.org/project/mcp-sandbox-computer-vm-for-ai/",
           "date": "12 Aug 2026",
-          "summary": "Code Provenance Intelligence — verify who really wrote your code. Stylometric author fingerprinting via git mining + pretrained code embeddings."
+          "summary": "Named Docker and Fly Machine sandbox computers with an MCP App dashboard"
         },
         {
-          "title": "snerdmq-python added to PyPI",
-          "link": "https://pypi.org/project/snerdmq-python/",
+          "title": "matrix-orchestrator added to PyPI",
+          "link": "https://pypi.org/project/matrix-orchestrator/",
           "date": "12 Aug 2026",
-          "summary": "The official Python SDK for SnerdMQ. Execute robust, C-speed background jobs in Python without Redis, Celery, or complex config."
+          "summary": "Request/response traffic matrix across a fleet, measured in packets per second"
         },
         {
-          "title": "country-geoip added to PyPI",
-          "link": "https://pypi.org/project/country-geoip/",
+          "title": "dagcache added to PyPI",
+          "link": "https://pypi.org/project/dagcache/",
           "date": "12 Aug 2026",
-          "summary": "A small local IP-to-country database"
+          "summary": "VCR cassettes for agent trajectories: record agent runs as DAGs, replay the canonical path, only call the LLM for net-new paths."
         },
         {
-          "title": "winnex-xfactor added to PyPI",
-          "link": "https://pypi.org/project/winnex-xfactor/",
+          "title": "clickhouse-connect-core added to PyPI",
+          "link": "https://pypi.org/project/clickhouse-connect-core/",
           "date": "12 Aug 2026",
-          "summary": "Deterministic manifold embedding for native LLM inference — the X-Factor operator (O(D²r) power iteration, no training)."
+          "summary": "Compiled Rust native-format codec for clickhouse-connect"
         },
         {
-          "title": "seo-toolkit added to PyPI",
-          "link": "https://pypi.org/project/seo-toolkit/",
+          "title": "saltext.vcf-cloud added to PyPI",
+          "link": "https://pypi.org/project/saltext-vcf-cloud/",
           "date": "12 Aug 2026",
-          "summary": "SEO toolkit — keyword research, SERP analysis, on-page audit, content optimization, and PyPI package SEO"
+          "summary": "A native Salt Cloud driver for VMware vSphere backed by saltext-vcf"
         },
         {
-          "title": "shellforge added to PyPI",
-          "link": "https://pypi.org/project/shellforge/",
+          "title": "openbase-cli added to PyPI",
+          "link": "https://pypi.org/project/openbase-cli/",
           "date": "12 Aug 2026",
-          "summary": "Reverse shell generator, payload encoder, and listener for CTF and pentesting"
+          "summary": "Openbase Cloud CLI — a Heroku-style command line for the Openbase Cloud PaaS (apps, logs, config, usage, workspaces) and an alternative to the web dashboard"
         },
         {
-          "title": "waldur-site-agent-ceph-s3 added to PyPI",
-          "link": "https://pypi.org/project/waldur-site-agent-ceph-s3/",
+          "title": "scMPRAforge added to PyPI",
+          "link": "https://pypi.org/project/scmpraforge/",
           "date": "12 Aug 2026",
-          "summary": "Ceph S3 storage plugin (croit and RadosGW flavours)"
+          "summary": "Modeling, calibration and power analysis for single-cell massively parallel reporter assays"
         },
         {
-          "title": "kwin-mcp-server added to PyPI",
-          "link": "https://pypi.org/project/kwin-mcp-server/",
+          "title": "ovftoolkit added to PyPI",
+          "link": "https://pypi.org/project/ovftoolkit/",
           "date": "12 Aug 2026",
-          "summary": "MCP server that controls native Wayland windows on KDE Plasma (the cua-driver X11 gap, solved). Includes a doctor readiness report, semantic AT-SPI targeting, and an MCP safety contract."
+          "summary": "Fast, lazy NumPy access to OOMMF vector-field files"
         },
         {
-          "title": "ts-etna added to PyPI",
-          "link": "https://pypi.org/project/ts-etna/",
+          "title": "alchemy-utils added to PyPI",
+          "link": "https://pypi.org/project/alchemy-utils/",
           "date": "12 Aug 2026",
-          "summary": "ETNA is the first python open source framework of T-Bank AI Center. It is designed to make working with time series simple, productive, and fun."
+          "summary": "A research spike for a sqlite-utils-style API backed by SQLAlchemy"
         },
         {
-          "title": "maltego added to PyPI",
-          "link": "https://pypi.org/project/maltego/",
+          "title": "tick-proxy added to PyPI",
+          "link": "https://pypi.org/project/tick-proxy/",
           "date": "12 Aug 2026",
-          "summary": "An original, modular OSINT and graph analysis platform for authorized research."
+          "summary": "TickTick administrative proxy — RPC CLI for tasks, projects, habits, tags and query views"
         },
         {
-          "title": "ce-analyzer-mcp added to PyPI",
-          "link": "https://pypi.org/project/ce-analyzer-mcp/",
+          "title": "asterisk-agent added to PyPI",
+          "link": "https://pypi.org/project/asterisk-agent/",
           "date": "12 Aug 2026",
-          "summary": "A bounded Compiler Explorer MCP server for C++ analysis and sharing"
+          "summary": "Reusable Asterisk agent core: ARI websocket events, AMI, CDR database strategies — importable as a library or run as the bundled FastAPI service."
         },
         {
-          "title": "gl-browser-use-binary added to PyPI",
-          "link": "https://pypi.org/project/gl-browser-use-binary/",
+          "title": "stario-ui added to PyPI",
+          "link": "https://pypi.org/project/stario-ui/",
           "date": "12 Aug 2026",
-          "summary": "A typed Python SDK for running browser automation tasks through `browser-use`"
+          "summary": "Server-rendered UI components for Stario"
         },
         {
-          "title": "gyanspark added to PyPI",
-          "link": "https://pypi.org/project/gyanspark/",
+          "title": "parseapi added to PyPI",
+          "link": "https://pypi.org/project/parseapi/",
           "date": "12 Aug 2026",
-          "summary": "GyanSpark SDK — send student chat exchanges to the GyanBeej knowledge graph backend and fetch context back"
+          "summary": "Official parseAPI client for Python. One key, minimal JSON, fast."
         },
         {
-          "title": "adopt-fpml added to PyPI",
-          "link": "https://pypi.org/project/adopt-fpml/",
+          "title": "bruh-dialog added to PyPI",
+          "link": "https://pypi.org/project/bruh-dialog/",
           "date": "12 Aug 2026",
-          "summary": "Automatic discovery of optimal hybrid first-principles–machine-learning models"
+          "summary": "bruh_dialog"
         },
         {
-          "title": "arc56-generated-algor-cf67f71f added to PyPI",
-          "link": "https://pypi.org/project/arc56-generated-algor-cf67f71f/",
+          "title": "dupfinder-gopika added to PyPI",
+          "link": "https://pypi.org/project/dupfinder-gopika/",
           "date": "12 Aug 2026",
-          "summary": "Generated ARC-56 Algorand smart-contract clients for algorandfoundation/algokit-client-generator-ts."
+          "summary": "A python command line tool to find duplicate files"
         }
       ]
     }
