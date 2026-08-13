@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-13T19:51:46Z",
+  "generated": "2026-08-13T20:32:14Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,12 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "US stocks: S&amp;P 500 notches record-high close as rate-hike worries ease",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-500-notches-record-high-close-as-rate-hike-worries-ease/articleshow/133223873.cms",
+          "date": "14 Aug 2026",
+          "summary": "The S&P 500 has hit a historic peak, largely influenced by a surge in technology stocks. With producer price inflation showing stability, expectations of a Federal Reserve rate hike have diminished. Memory chip giants Sandisk and Micron Technology reported imp…"
+        },
         {
           "title": "LG Electronics India Q1 Results: PAT rises marginally YoY to Rs 653 crore; revenue up 15%",
           "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/lg-electronics-india-q1-results-pat-rises-marginally-to-rs-653-crore-revenue-up-15/articleshow/133212601.cms",
@@ -36,12 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-motors-pv-q1-results-net-profit-plunges-80-yoy-to-rs-775-crore-revenue-rises-9/articleshow/133208589.cms",
           "date": "13 Aug 2026",
           "summary": "Tata Motors PV Q1 Results: Tata Motors Passenger Vehicles on Thursday reported a consolidated net profit of Rs 775 crore for the April-June quarter of FY27, marking more than 80% year-on-year decline from the Rs 3,924 crore in the same period last year."
-        },
-        {
-          "title": "Will Bharti Airtel’s ARPU increase after scrapping Rs 299, other popular prepaid plans? What JM Financial says",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-bharti-airtels-arpu-increase-after-scrapping-rs-299-other-popular-prepaid-plans-what-jm-financial-says/articleshow/133199472.cms",
-          "date": "13 Aug 2026",
-          "summary": "Bharti Airtel could see a 2% rise in ARPU after withdrawing four entry-level prepaid plans, including the popular Rs 299 pack, JM Financial said. Subscribers will now need to opt for the Rs 349 plan, a roughly 16% price hike, while Rs 199 and Rs 219 plans rema…"
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -208,10 +208,10 @@
           "summary": ""
         },
         {
-          "title": "Indian IT sector job market is changing: What can get you hired &amp; at a premium",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/indian-it-sector-job-market-is-changing-what-can-get-you-hired-at-a-premium/articleshow/133209023.cms",
-          "date": "13 Aug 2026",
-          "summary": "Experts believe that the era of broad-based recruitment and hefty pay hikes in the Indian IT sector is over. Companies are now tightening hiring at the entry level, while at the same time competing to get experienced professionals in select areas."
+          "title": "US sends new carrier to West Asia amid reports of sailors jumping overboard USS Lincoln",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/us-rushes-new-carrier-to-middle-east-amid-reports-of-mental-health-crisis-on-uss-lincoln/articleshow/133223354.cms",
+          "date": "14 Aug 2026",
+          "summary": ""
         },
         {
           "title": "'Udhar nahi jaana': Auqib Nabi recalls how India call-up came as a surprise",
@@ -220,10 +220,10 @@
           "summary": "That opportunity came when Nabi was added to India's squad as a replacement for injured fast bowler Jasprit Bumrah for the upcoming two-Test series against Sri Lanka, beginning in Sri Lanka on Saturday."
         },
         {
-          "title": "US rushes new carrier to Middle East as sailors report burnout aboard USS Lincoln",
-          "link": "https://timesofindia.indiatimes.com/world/middle-east/us-rushes-new-carrier-to-middle-east-amid-reports-of-mental-health-crisis-on-uss-lincoln/articleshow/133223354.cms",
-          "date": "14 Aug 2026",
-          "summary": ""
+          "title": "Indian IT sector job market is changing: What can get you hired &amp; at a premium",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/indian-it-sector-job-market-is-changing-what-can-get-you-hired-at-a-premium/articleshow/133209023.cms",
+          "date": "13 Aug 2026",
+          "summary": "Experts believe that the era of broad-based recruitment and hefty pay hikes in the Indian IT sector is over. Companies are now tightening hiring at the entry level, while at the same time competing to get experienced professionals in select areas."
         },
         {
           "title": "Robot reaches 4,500-year-old sealed barrier inside Egypt’s Great Pyramid",
@@ -1152,6 +1152,12 @@
       "ok": true,
       "items": [
         {
+          "title": "Amazon Will Train On Twitch Streamers' Content By Default, Unless They Opt Out",
+          "link": "https://games.slashdot.org/story/26/08/13/1853232/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "13 Aug 2026",
+          "summary": "Twitch will begin allowing Amazon to use streamers' content to train generative AI models by default, requiring creators to manually opt out if they don't want their videos and audio included. The decision has drawn backlash from creators, with Twitch's own pr…"
+        },
+        {
           "title": "Anthropic Could Be Worth $2 Trillion When It Goes Public",
           "link": "https://slashdot.org/story/26/08/13/1846256/anthropic-could-be-worth-2-trillion-when-it-goes-public?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "13 Aug 2026",
@@ -1234,12 +1240,6 @@
           "link": "https://tech.slashdot.org/story/26/08/12/1525222/the-pixel-tag-is-googles-answer-to-the-airtag?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "12 Aug 2026",
           "summary": "Google has unveiled the $29 Pixel Tag, its long-awaited AirTag rival that combines UWB with Bluetooth 6.0 Channel Sounding for two forms of precision tracking. It launches November 11. The Verge reports: The Pixel Tag is a slim oblong device available in one g…"
-        },
-        {
-          "title": "German Advocacy Group Lodges Criminal Complaint Over Meta AI Glasses",
-          "link": "https://yro.slashdot.org/story/26/08/12/1518258/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "12 Aug 2026",
-          "summary": "A German digital-rights group has filed a criminal complaint against Meta, Ray-Ban parent EssilorLuxottica, and several retailers over Meta's AI smart glasses, arguing the devices can enable covert recording in violation of German privacy law. Prosecutors have…"
         }
       ]
     },
@@ -1247,8 +1247,69 @@
       "url": "https://www.aitrends.com/feed",
       "name": "AI Trends",
       "cat": "Artificial Intelligence",
-      "ok": false,
-      "items": []
+      "ok": true,
+      "items": [
+        {
+          "title": "Best Practices for Building the AI Development Platform in Government",
+          "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+          "date": "28 Oct 2021",
+          "summary": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for its AI development platform efforts, according to Isaac Faber, Chief Data Scientist at the US Army AI Integrat…"
+        },
+        {
+          "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+          "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+          "date": "28 Oct 2021",
+          "summary": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Service…"
+        },
+        {
+          "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+          "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
+          "date": "28 Oct 2021",
+          "summary": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a risk of wide discrimination if not implemented carefully. That was the message from Keith Sonderling, Commissione…"
+        },
+        {
+          "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
+          "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
+          "date": "28 Oct 2021",
+          "summary": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to collect data that anticipates breakdowns and recommends preventive action before break or machines fail, in a demo…"
+        },
+        {
+          "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
+          "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
+          "date": "28 Oct 2021",
+          "summary": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act itself is welcomed and not altogether disturbing when it occurs. What about when Artificial Intelligence (AI) se…"
+        },
+        {
+          "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
+          "link": "https://www.aitrends.com/ai-world-government/getting-government-ai-engineers-to-tune-into-ai-ethics-seen-as-challenge/",
+          "date": "21 Oct 2021",
+          "summary": "By John P. Desmond, AI Trends Editor Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray are…"
+        },
+        {
+          "title": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams",
+          "link": "https://www.aitrends.com/ai-world-government/digital-natives-seen-having-advantages-as-part-of-government-ai-engineering-teams/",
+          "date": "21 Oct 2021",
+          "summary": "By John P. Desmond, AI Trends Editor AI is more accessible to young people in the workforce who grew up as ‘digital natives’ with Alexa and self-driving cars as part of the landscape, giving them expectations grounded in their experience of what is possible. T…"
+        },
+        {
+          "title": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government",
+          "link": "https://www.aitrends.com/ai-world-government/how-accountability-practices-are-pursued-by-ai-engineers-in-the-federal-government/",
+          "date": "21 Oct 2021",
+          "summary": "By John P. Desmond, AI Trends Editor Two experiences of how AI developers within the federal government are pursuing AI accountability practices were outlined at the AI World Government event held virtually and in-person this week in Alexandria, Va. Taka Ariga…"
+        },
+        {
+          "title": "Startup: AssemblyAI Represents New Generation Speech Recognition",
+          "link": "https://www.aitrends.com/speech-recognition/startup-assemblyai-represents-new-generation-speech-recognition/",
+          "date": "21 Oct 2021",
+          "summary": "By AI Trends Staff Advances in the AI behind speech recognition are driving growth in the market, attracting venture capital and funding startups, posing challenges to established players. The growing acceptance and use of speech recognition devices are drivin…"
+        },
+        {
+          "title": "Pursuit of Autonomous Cars May Pose Risk of AI Tapping Forbidden Knowledge",
+          "link": "https://www.aitrends.com/ai-insider/pursuing-autonomous-cars-raises-anguish-on-surfacing-taboo-ai-forbidden-fruit/",
+          "date": "21 Oct 2021",
+          "summary": "By Lance Eliot, the AI Trends Insider Are there things that we must not know? This is an age-old question. Some assert that there is the potential for knowledge that ought to not be known. In other words, there are ideas, concepts, or mental formulations that…"
+        }
+      ]
     },
     {
       "url": "https://bair.berkeley.edu/blog/feed.xml",
@@ -1569,6 +1630,156 @@
       "ok": true,
       "items": [
         {
+          "title": "aptos-ace-sdk added to PyPI",
+          "link": "https://pypi.org/project/aptos-ace-sdk/",
+          "date": "13 Aug 2026",
+          "summary": "Python SDK for ACE (mirrors @aptos-labs/ace-sdk)"
+        },
+        {
+          "title": "spyder-copy-current added to PyPI",
+          "link": "https://pypi.org/project/spyder-copy-current/",
+          "date": "13 Aug 2026",
+          "summary": "Spyder plugin to copy the current file path and kernel connection info"
+        },
+        {
+          "title": "millionsend added to PyPI",
+          "link": "https://pypi.org/project/millionsend/",
+          "date": "13 Aug 2026",
+          "summary": "Official Python SDK for MillionSend — the open-source email platform. Under active development."
+        },
+        {
+          "title": "narrately added to PyPI",
+          "link": "https://pypi.org/project/narrately/",
+          "date": "13 Aug 2026",
+          "summary": "Convert a web article into a spoken mp3 file from its URL"
+        },
+        {
+          "title": "deepseek-harness-usage added to PyPI",
+          "link": "https://pypi.org/project/deepseek-harness-usage/",
+          "date": "13 Aug 2026",
+          "summary": "DeepSeek Harness account balance monitor for official DeepSeek API accounts"
+        },
+        {
+          "title": "folio-auto-renew added to PyPI",
+          "link": "https://pypi.org/project/folio-auto-renew/",
+          "date": "13 Aug 2026",
+          "summary": "An early preview of the Umbrellaleaf automatic renewals"
+        },
+        {
+          "title": "lovie-tokenops added to PyPI",
+          "link": "https://pypi.org/project/lovie-tokenops/",
+          "date": "13 Aug 2026",
+          "summary": "TokenOps SDK — attribute LLM spend to your customers with one line."
+        },
+        {
+          "title": "frankenstein-transformer added to PyPI",
+          "link": "https://pypi.org/project/frankenstein-transformer/",
+          "date": "13 Aug 2026",
+          "summary": "Config-driven, schema-validated training library and CLI for building, training, and deploying hybrid Transformer architectures (attention mixers, BitNet, MoE, SBERT, and Vision Transformers)."
+        },
+        {
+          "title": "frizbee added to PyPI",
+          "link": "https://pypi.org/project/frizbee/",
+          "date": "13 Aug 2026",
+          "summary": "Fast typo-resistant fuzzy matching via SIMD smith waterman, similar algorithm to FZF"
+        },
+        {
+          "title": "kairos-fm added to PyPI",
+          "link": "https://pypi.org/project/kairos-fm/",
+          "date": "13 Aug 2026",
+          "summary": "KairosFM: less parameters, more signal. A hybrid MoE diffusion language model (DeltaNet + sliding-window attention) for multimodal edge AI"
+        },
+        {
+          "title": "qxui added to PyPI",
+          "link": "https://pypi.org/project/qxui/",
+          "date": "13 Aug 2026",
+          "summary": "An XML-based reactive-declarative native UI framework built on Qt."
+        },
+        {
+          "title": "routerai added to PyPI",
+          "link": "https://pypi.org/project/routerai/",
+          "date": "13 Aug 2026",
+          "summary": "Python wrapper for the RouterAI API — unified access to 400+ AI models with ruble pricing"
+        },
+        {
+          "title": "mutagen-cli added to PyPI",
+          "link": "https://pypi.org/project/mutagen-cli/",
+          "date": "13 Aug 2026",
+          "summary": "Your tests are green. Here's what they don't catch."
+        },
+        {
+          "title": "cdo-oracle-sdk added to PyPI",
+          "link": "https://pypi.org/project/cdo-oracle-sdk/",
+          "date": "13 Aug 2026",
+          "summary": "Python SDK for the RunOnProof decision API"
+        },
+        {
+          "title": "huntzip added to PyPI",
+          "link": "https://pypi.org/project/huntzip/",
+          "date": "13 Aug 2026",
+          "summary": "A fast, lightweight, and universal Python library for archiving and extracting files."
+        },
+        {
+          "title": "kevy added to PyPI",
+          "link": "https://pypi.org/project/kevy/",
+          "date": "13 Aug 2026",
+          "summary": "First-party Python client for kevy — the pure-Rust Redis-compatible engine (embedded + remote, blocking + asyncio)."
+        },
+        {
+          "title": "insta-sophia-sdk added to PyPI",
+          "link": "https://pypi.org/project/insta-sophia-sdk/",
+          "date": "13 Aug 2026",
+          "summary": "SDK oficial da API Nornir para coleta pública de perfis, posts e comentários do Instagram."
+        },
+        {
+          "title": "mingmath-package added to PyPI",
+          "link": "https://pypi.org/project/mingmath-package/",
+          "date": "13 Aug 2026",
+          "summary": "A university math package containing Calculus and Linear Algebra modules"
+        },
+        {
+          "title": "aytgcalls added to PyPI",
+          "link": "https://pypi.org/project/aytgcalls/",
+          "date": "13 Aug 2026",
+          "summary": "Play audio into Telegram group voice chats with Kurigram (Pyrogram) + aiortc. No py-tgcalls."
+        },
+        {
+          "title": "cyclecalcs added to PyPI",
+          "link": "https://pypi.org/project/cyclecalcs/",
+          "date": "13 Aug 2026",
+          "summary": "A thin client for the CycleCalcs astronomy API: moon phase, sunrise and sunset, planet visibility, eclipses and observing windows. No key, no signup, no dependencies."
+        },
+        {
+          "title": "agentic-terminal-tools added to PyPI",
+          "link": "https://pypi.org/project/agentic-terminal-tools/",
+          "date": "13 Aug 2026",
+          "summary": "An MCP which adds terminal capabilities to an agent."
+        },
+        {
+          "title": "apex-mcp-framework added to PyPI",
+          "link": "https://pypi.org/project/apex-mcp-framework/",
+          "date": "13 Aug 2026",
+          "summary": "Framework MCP reutilizável do Apex ERP Contábil — conecta um ERP a agentes MCP via stdio (Python, SDK mcp 1.x)."
+        },
+        {
+          "title": "azure-iot-deviceregistrysoftwareupdate added to PyPI",
+          "link": "https://pypi.org/project/azure-iot-deviceregistrysoftwareupdate/",
+          "date": "13 Aug 2026",
+          "summary": "This package will be released in the near future. Stay tuned!"
+        },
+        {
+          "title": "firekeep-symdex added to PyPI",
+          "link": "https://pypi.org/project/firekeep-symdex/",
+          "date": "13 Aug 2026",
+          "summary": "Token-efficient MCP server for source code exploration via tree-sitter AST parsing"
+        },
+        {
+          "title": "firekeep-client added to PyPI",
+          "link": "https://pypi.org/project/firekeep-client/",
+          "date": "13 Aug 2026",
+          "summary": "Firekeep portable client kit: stdio-proxy shim, hook cores, sidecar, and runtime adapters."
+        },
+        {
           "title": "jsonl-lens added to PyPI",
           "link": "https://pypi.org/project/jsonl-lens/",
           "date": "13 Aug 2026",
@@ -1597,156 +1808,6 @@
           "link": "https://pypi.org/project/calc-tools-yiing681/",
           "date": "13 Aug 2026",
           "summary": "A simple calculation tools package"
-        },
-        {
-          "title": "google-cloud-ftp added to PyPI",
-          "link": "https://pypi.org/project/google-cloud-ftp/",
-          "date": "13 Aug 2026",
-          "summary": "Google Cloud Ftp API client library"
-        },
-        {
-          "title": "agyloop added to PyPI",
-          "link": "https://pypi.org/project/agyloop/",
-          "date": "13 Aug 2026",
-          "summary": "Autonomous Google Antigravity and Gemini session runner that never blocks on a human."
-        },
-        {
-          "title": "phthos-task added to PyPI",
-          "link": "https://pypi.org/project/phthos-task/",
-          "date": "13 Aug 2026",
-          "summary": "Python SDK for the Task AI public API (start_pipeline / get_pl_run, agents)."
-        },
-        {
-          "title": "psics added to PyPI",
-          "link": "https://pypi.org/project/psics/",
-          "date": "13 Aug 2026",
-          "summary": "A sparse covariance selection example package"
-        },
-        {
-          "title": "plaky115 added to PyPI",
-          "link": "https://pypi.org/project/plaky115/",
-          "date": "13 Aug 2026",
-          "summary": "Unofficial Plaky API SDK and MCP server. Not affiliated with, endorsed by, or sponsored by Plaky or CAKE.com."
-        },
-        {
-          "title": "jellyfin-utils added to PyPI",
-          "link": "https://pypi.org/project/jellyfin-utils/",
-          "date": "13 Aug 2026",
-          "summary": "CLI for reclaiming Jellyfin storage: find watched, stale, and duplicate media, reconcile Jellyseerr requests, and run server tasks"
-        },
-        {
-          "title": "CyberDefense added to PyPI",
-          "link": "https://pypi.org/project/cyberdefense/",
-          "date": "13 Aug 2026",
-          "summary": "A menu-driven defensive security toolkit: port scanning, log parsing, incident response, and more."
-        },
-        {
-          "title": "agent-comms-mcp added to PyPI",
-          "link": "https://pypi.org/project/agent-comms-mcp/",
-          "date": "13 Aug 2026",
-          "summary": "MCP service for permissioned, structured agent-to-agent communications"
-        },
-        {
-          "title": "openeia added to PyPI",
-          "link": "https://pypi.org/project/openeia/",
-          "date": "13 Aug 2026",
-          "summary": "A complete Python client for the U.S. Energy Information Administration (EIA) APIv2 — every dataset, auto-pagination, and resumable chunked backfills."
-        },
-        {
-          "title": "django-signals-all added to PyPI",
-          "link": "https://pypi.org/project/django-signals-all/",
-          "date": "13 Aug 2026",
-          "summary": "Signaux Django garantis pour les opérations bulk et le SQL brut"
-        },
-        {
-          "title": "mongo-manager added to PyPI",
-          "link": "https://pypi.org/project/mongo-manager/",
-          "date": "13 Aug 2026",
-          "summary": "None"
-        },
-        {
-          "title": "python-mindrove-emg added to PyPI",
-          "link": "https://pypi.org/project/python-mindrove-emg/",
-          "date": "13 Aug 2026",
-          "summary": "Tools for recording, streaming, and analyzing MindRove EMG and IMU data."
-        },
-        {
-          "title": "insar-rs added to PyPI",
-          "link": "https://pypi.org/project/insar-rs/",
-          "date": "13 Aug 2026",
-          "summary": "Python bindings for the insar-rs InSAR time-series (SBAS) engine written in Rust"
-        },
-        {
-          "title": "flamminium added to PyPI",
-          "link": "https://pypi.org/project/flamminium/",
-          "date": "13 Aug 2026",
-          "summary": "Flamminium"
-        },
-        {
-          "title": "simple-finance-cli added to PyPI",
-          "link": "https://pypi.org/project/simple-finance-cli/",
-          "date": "13 Aug 2026",
-          "summary": "CLI application for personal finance management"
-        },
-        {
-          "title": "qbit-ops added to PyPI",
-          "link": "https://pypi.org/project/qbit-ops/",
-          "date": "13 Aug 2026",
-          "summary": "qBittorrent administration CLI for homelab operations."
-        },
-        {
-          "title": "globwarden added to PyPI",
-          "link": "https://pypi.org/project/globwarden/",
-          "date": "13 Aug 2026",
-          "summary": "Feed it a threat-intel report; it hands back regex, KQL, SPL, YARA-L, and Sigma detection content for command obfuscation techniques (MITRE ATT&CK T1027.010)."
-        },
-        {
-          "title": "jobdock-sdk added to PyPI",
-          "link": "https://pypi.org/project/jobdock-sdk/",
-          "date": "13 Aug 2026",
-          "summary": "Optional telemetry SDK for jobs running in JobDock"
-        },
-        {
-          "title": "opik-rigor added to PyPI",
-          "link": "https://pypi.org/project/opik-rigor/",
-          "date": "13 Aug 2026",
-          "summary": "Statistical assertions and pinned-judge evaluation primitives for LLM test suites."
-        },
-        {
-          "title": "bridge-mcp-server added to PyPI",
-          "link": "https://pypi.org/project/bridge-mcp-server/",
-          "date": "13 Aug 2026",
-          "summary": "Cross-platform intelligence bridge — correlate Ignition SCADA tags with Studio 5000 PLC logic"
-        },
-        {
-          "title": "ignition-mcp-server added to PyPI",
-          "link": "https://pypi.org/project/ignition-mcp-server/",
-          "date": "13 Aug 2026",
-          "summary": "MCP server for Ignition SCADA — read project resources, query live gateways, and give AI agents structured access to tags, views, scripts, UDTs, alarms, and named queries"
-        },
-        {
-          "title": "studio5000-mcp-server added to PyPI",
-          "link": "https://pypi.org/project/studio5000-mcp-server/",
-          "date": "13 Aug 2026",
-          "summary": "MCP server for Studio 5000 — parse L5X project exports and give AI agents structured access to PLC tags, UDTs, routines, AOIs, and cross-references"
-        },
-        {
-          "title": "procuris added to PyPI",
-          "link": "https://pypi.org/project/procuris/",
-          "date": "13 Aug 2026",
-          "summary": "Provable authorization for agent-initiated purchasing"
-        },
-        {
-          "title": "artemis-ai added to PyPI",
-          "link": "https://pypi.org/project/artemis-ai/",
-          "date": "13 Aug 2026",
-          "summary": "Run a small model on-device, escalate only the hard tool calls, and let every escalation train your small model to need the big one less."
-        },
-        {
-          "title": "scanmst added to PyPI",
-          "link": "https://pypi.org/project/scanmst/",
-          "date": "13 Aug 2026",
-          "summary": "A multi-segment transcript caller for long-read transcriptome sequencing data"
         }
       ]
     }
