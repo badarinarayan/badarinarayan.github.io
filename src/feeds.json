@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-13T20:32:14Z",
+  "generated": "2026-08-13T21:35:29Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -12,6 +12,12 @@
           "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-500-notches-record-high-close-as-rate-hike-worries-ease/articleshow/133223873.cms",
           "date": "14 Aug 2026",
           "summary": "The S&P 500 has hit a historic peak, largely influenced by a surge in technology stocks. With producer price inflation showing stability, expectations of a Federal Reserve rate hike have diminished. Memory chip giants Sandisk and Micron Technology reported imp…"
+        },
+        {
+          "title": "Average pay of CEOs of S&amp;P 500 companies rose to record $22.8 million following Elon Musk's nearly $1 trillion compensation, AFL-CIO finds",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/average-pay-of-ceos-of-sp-500-companies-rose-to-record-22-8-million-following-elon-musks-nearly-1-trillion-compensation-afl-cio-finds/articleshow/133223688.cms",
+          "date": "14 Aug 2026",
+          "summary": "Elon Musk's compensation is setting new benchmarks for S&P 500 executive pay. Average CEO pay rose significantly, even as employee wages are facing pressure from artificial intelligence and labor board policies. Shareholder support for special executive awards…"
         },
         {
           "title": "LG Electronics India Q1 Results: PAT rises marginally YoY to Rs 653 crore; revenue up 15%",
@@ -36,12 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/earnings-growth-to-play-larger-role-in-determining-portfolio-returns-than-valuation-re-rating-nilesh-shah/articleshow/133211910.cms",
           "date": "13 Aug 2026",
           "summary": "Earnings growth is likely to play a larger role in determining portfolio returns than valuation re-rating in the near term, as valuations of Indian equities remain neither cheap nor expensive, according to Nilesh Shah, Managing Director, Kotak Mahindra Asset M…"
-        },
-        {
-          "title": "Tata Motors PV Q1 Results: Net profit plunges 80% YoY to Rs 775 crore, revenue rises 9%",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-motors-pv-q1-results-net-profit-plunges-80-yoy-to-rs-775-crore-revenue-rises-9/articleshow/133208589.cms",
-          "date": "13 Aug 2026",
-          "summary": "Tata Motors PV Q1 Results: Tata Motors Passenger Vehicles on Thursday reported a consolidated net profit of Rs 775 crore for the April-June quarter of FY27, marking more than 80% year-on-year decline from the Rs 3,924 crore in the same period last year."
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -196,21 +196,21 @@
       "ok": true,
       "items": [
         {
-          "title": "UP polls: How parties are vying for Dalit votes amid Mayawati’s shrinking base",
-          "link": "https://timesofindia.indiatimes.com/india/2027-up-assembly-elections-how-parties-are-vying-for-dalit-votes-amid-mayawatis-shrinking-base/articleshow/133213851.cms",
-          "date": "13 Aug 2026",
-          "summary": "A notable evolution in Dalit politics is unfolding in Uttar Pradesh, marked by a decline in the Bahujan Samaj Party's dominance. The Bharatiya Janata Party and the Samajwadi Party are actively courting Dalit voters ahead of elections, and the Congress party is…"
-        },
-        {
           "title": "Six dead, 2 missing after water, debris enter under-construction tunnel in U'khand",
           "link": "https://timesofindia.indiatimes.com/city/dehradun/six-workers-dead-2-missing-after-water-debris-enter-under-construction-tunnel-in-uttarakhand/articleshow/133223387.cms",
           "date": "14 Aug 2026",
           "summary": ""
         },
         {
-          "title": "US sends new carrier to West Asia amid reports of sailors jumping overboard USS Lincoln",
-          "link": "https://timesofindia.indiatimes.com/world/middle-east/us-rushes-new-carrier-to-middle-east-amid-reports-of-mental-health-crisis-on-uss-lincoln/articleshow/133223354.cms",
-          "date": "14 Aug 2026",
+          "title": "UP polls: How parties are vying for Dalit votes amid Mayawati’s shrinking base",
+          "link": "https://timesofindia.indiatimes.com/india/2027-up-assembly-elections-how-parties-are-vying-for-dalit-votes-amid-mayawatis-shrinking-base/articleshow/133213851.cms",
+          "date": "13 Aug 2026",
+          "summary": "A notable evolution in Dalit politics is unfolding in Uttar Pradesh, marked by a decline in the Bahujan Samaj Party's dominance. The Bharatiya Janata Party and the Samajwadi Party are actively courting Dalit voters ahead of elections, and the Congress party is…"
+        },
+        {
+          "title": "Trump creates task force to crack down on birth tourism, revokes over 600 visas",
+          "link": "https://timesofindia.indiatimes.com/world/us/trump-admin-creates-task-force-to-crack-down-on-birth-tourism-revokes-over-600-visas/articleshow/133213302.cms",
+          "date": "13 Aug 2026",
           "summary": ""
         },
         {
@@ -220,16 +220,22 @@
           "summary": "That opportunity came when Nabi was added to India's squad as a replacement for injured fast bowler Jasprit Bumrah for the upcoming two-Test series against Sri Lanka, beginning in Sri Lanka on Saturday."
         },
         {
-          "title": "Indian IT sector job market is changing: What can get you hired &amp; at a premium",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/indian-it-sector-job-market-is-changing-what-can-get-you-hired-at-a-premium/articleshow/133209023.cms",
-          "date": "13 Aug 2026",
-          "summary": "Experts believe that the era of broad-based recruitment and hefty pay hikes in the Indian IT sector is over. Companies are now tightening hiring at the entry level, while at the same time competing to get experienced professionals in select areas."
+          "title": "US sends new carrier to West Asia amid reports of sailors jumping overboard USS Lincoln",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/us-rushes-new-carrier-to-middle-east-amid-reports-of-mental-health-crisis-on-uss-lincoln/articleshow/133223354.cms",
+          "date": "14 Aug 2026",
+          "summary": ""
         },
         {
           "title": "Robot reaches 4,500-year-old sealed barrier inside Egypt’s Great Pyramid",
           "link": "https://timesofindia.indiatimes.com/technology/tech-news/a-robot-traveled-to-great-pyramid-via-hidden-path-and-stopped-in-front-of-a-door-that-had-remained-sealed-for-4500-years-heres-what-happened/articleshow/133221874.cms",
           "date": "14 Aug 2026",
           "summary": "A robot explored a hidden passage within Egypt's Great Pyramid of Giza. It reached a sealed barrier which may be 4,500 years old. This discovery has renewed questions about the ancient monument's hidden contents. Researchers used modern technology to examine a…"
+        },
+        {
+          "title": "Indian IT sector job market is changing: What can get you hired &amp; at a premium",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/indian-it-sector-job-market-is-changing-what-can-get-you-hired-at-a-premium/articleshow/133209023.cms",
+          "date": "13 Aug 2026",
+          "summary": "Experts believe that the era of broad-based recruitment and hefty pay hikes in the Indian IT sector is over. Companies are now tightening hiring at the entry level, while at the same time competing to get experienced professionals in select areas."
         },
         {
           "title": "UK records hottest day of year as temperature crosses 38°C in west London",
@@ -244,28 +250,28 @@
           "summary": ""
         },
         {
-          "title": "She was just 3km from home: B'luru keeps fixing roads, yet they keep turning deadly",
-          "link": "https://timesofindia.indiatimes.com/city/bengaluru/she-was-just-3km-from-home-bengaluru-keeps-fixing-roads-yet-they-keep-turning-deadly/articleshow/133208039.cms",
-          "date": "13 Aug 2026",
-          "summary": "The tragic accident involving Medha Akarsh underscores the ongoing road infrastructure challenges in Bengaluru. Despite ongoing attempts to repair the extensive pothole issue, the roads are frequently excavated for utility repairs, leading to further damage. T…"
-        },
-        {
           "title": "Months after Dells' $6.25bn ‘gift’, US Treasury sets new Trump Account paycheck rules",
           "link": "https://timesofindia.indiatimes.com/technology/tech-news/months-after-michael-dell-and-his-wife-susan-dells-6-5-billion-donation-department-of-treasury-announces-new-paycheck-rules-for-trump-accounts/articleshow/133184869.cms",
           "date": "12 Aug 2026",
           "summary": "Under the new guidelines for Trump Accounts, both employers and employees can make contributions towards payrolls. Employers are permitted to add up to $2,500 annually without tax for dependent children, while employees can contribute pre-tax funds directly fr…"
         },
         {
-          "title": "Engineers turned dredged sediment into four new Columbia River islands",
-          "link": "https://timesofindia.indiatimes.com/science/in-2020-engineers-pumped-225000-cubic-yards-of-dredged-sediment-into-the-columbia-river-it-became-four-new-islands-now-being-studied-as-salmon-habitat/articleshow/133186604.cms",
-          "date": "12 Aug 2026",
-          "summary": "In an exciting environmental initiative, dredged sediment is being repurposed to form new islands aimed at habitat restoration. Engineers have meticulously placed this sediment to construct islands and adjacent channels along the river. Researchers are examini…"
+          "title": "She was just 3km from home: B'luru keeps fixing roads, yet they keep turning deadly",
+          "link": "https://timesofindia.indiatimes.com/city/bengaluru/she-was-just-3km-from-home-bengaluru-keeps-fixing-roads-yet-they-keep-turning-deadly/articleshow/133208039.cms",
+          "date": "13 Aug 2026",
+          "summary": "The tragic accident involving Medha Akarsh underscores the ongoing road infrastructure challenges in Bengaluru. Despite ongoing attempts to repair the extensive pothole issue, the roads are frequently excavated for utility repairs, leading to further damage. T…"
         },
         {
-          "title": "Louisiana restores 1,170 acres in Barataria Basin, shrimp and crabs return",
-          "link": "https://timesofindia.indiatimes.com/world/us/louisiana-created-1170-acres-of-new-wetlands-in-barataria-basin-one-year-later-shrimp-and-crabs-are-returning-to-the-restored-habitat/articleshow/133192949.cms",
+          "title": "Deepwater Horizon damaged deep-sea corals; NOAA is now planting new colonies",
+          "link": "https://timesofindia.indiatimes.com/science/in-2010-deepwater-horizon-damaged-deep-sea-coral-habitats-16-years-later-noaa-divers-are-planting-lab-grown-colonies-to-help-rebuild-them/articleshow/133206991.cms",
           "date": "13 Aug 2026",
-          "summary": "Louisiana’s Upper Barataria Marsh Creation Project has restored 1,170 acres of new wetland habitat in the Barataria Basin. One year after construction, white and brown shrimp, blue crab and red drum are using the restored marsh and water features. The project…"
+          "summary": "In a groundbreaking initiative, scientists are working to revive deep-sea coral ecosystems that were harmed by an oil spill. Utilizing corals grown in laboratories along with advanced tools, they have successfully deployed these corals at great depths. This pr…"
+        },
+        {
+          "title": "Connecticut woman donated island in husband's memory to protect wildlife",
+          "link": "https://timesofindia.indiatimes.com/world/us/in-1964-elizabeth-hird-and-her-husband-bought-connecticuts-outer-island-in-1995-she-donated-it-in-his-memory-so-it-could-remain-protected-for-wildlife-research-and-education/articleshow/133205386.cms",
+          "date": "13 Aug 2026",
+          "summary": "Outer Island, once a charming summer getaway, has been transformed into a vital protected wildlife refuge. The island was generously donated to the U.S. Fish and Wildlife Service by Elizabeth Hird in 1995, with the intention of preserving its natural resources…"
         },
         {
           "title": "Google co-founder’s message for DeepMind staff after Demis Hassabis exits as CEO",
@@ -286,12 +292,6 @@
           "summary": ""
         },
         {
-          "title": "The real cost of a govt exam: Years, money, age &amp; a future postponed",
-          "link": "https://timesofindia.indiatimes.com/city/ranchi/the-real-cost-of-a-government-exam-years-money-age-and-a-future-that-keeps-getting-pushed-forward/articleshow/133209829.cms",
-          "date": "13 Aug 2026",
-          "summary": "Students in Ranchi are protesting alleged irregularities in government examinations for 20 days. Seven students are on hunger strike, with three hospitalized due to failing health. They demand the chief minister meet them to discuss their concerns directly. Ye…"
-        },
-        {
           "title": "Cruz Beckham looks just like Brooklyn on family yacht as tattoos spark interest",
           "link": "https://timesofindia.indiatimes.com/sports/international-sports/cruz-beckham-looks-just-like-brooklyn-on-family-yacht-as-tattoos-spark-fresh-interest-amid-beckham-family-feud/articleshow/133217551.cms",
           "date": "13 Aug 2026",
@@ -310,16 +310,16 @@
           "summary": "Maxx Crosby landed at No. 24 on the 2026 NFL Top 100, but the Raiders star is still surrounded by trade speculation. With the Cowboys linked to Crosby again after Baltimore's failed offseason deal, here's why his ranking, production and uncertain long-term fut…"
         },
         {
+          "title": "The real cost of a govt exam: Years, money, age &amp; a future postponed",
+          "link": "https://timesofindia.indiatimes.com/city/ranchi/the-real-cost-of-a-government-exam-years-money-age-and-a-future-that-keeps-getting-pushed-forward/articleshow/133209829.cms",
+          "date": "13 Aug 2026",
+          "summary": "Students in Ranchi are protesting alleged irregularities in government examinations for 20 days. Seven students are on hunger strike, with three hospitalized due to failing health. They demand the chief minister meet them to discuss their concerns directly. Ye…"
+        },
+        {
           "title": "Horoscope Today: Daily astrological predictions for August 14",
           "link": "https://timesofindia.indiatimes.com/astrology/horoscope/horoscope-today-daily-astrological-predictions-for-august-14-2026/articleshow/133219069.cms",
           "date": "14 Aug 2026",
           "summary": "Horoscope Today: Read daily horoscope predictions for August 14, 2026. Know all about the astrological events and influences that will be affecting each of the 12 zodiac signs. Our astrologer has analyzed the movements of the planets and the alignment of the s…"
-        },
-        {
-          "title": "Trump creates task force to crack down on birth tourism, revokes over 600 visas",
-          "link": "https://timesofindia.indiatimes.com/world/us/trump-admin-creates-task-force-to-crack-down-on-birth-tourism-revokes-over-600-visas/articleshow/133213302.cms",
-          "date": "13 Aug 2026",
-          "summary": ""
         },
         {
           "title": "American mom who had daughter at 18 helps her reach dream college 18 years later",
@@ -1084,6 +1084,12 @@
       "ok": true,
       "items": [
         {
+          "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
+          "link": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
+          "date": "13 Aug 2026",
+          "summary": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. This was fodder for the right-wing information sphere for years…"
+        },
+        {
           "title": "Building a practical path to post-quantum cryptography",
           "link": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
           "date": "13 Aug 2026",
@@ -1136,12 +1142,6 @@
           "link": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
           "date": "12 Aug 2026",
           "summary": "Next month, on September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people from around the world who are doing groundbreaking scientific work and building clever technical fixes for sticky problems.&#160; By…"
-        },
-        {
-          "title": "How the “censorship-industrial complex” is changing the internet and US policy",
-          "link": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
-          "date": "11 Aug 2026",
-          "summary": "I first heard the term “censorship-industrial complex” on April 15, 2025.&#160; That’s when I got the tip that a small office in the U.S. State Department, which focused on monitoring and countering foreign disinformation from the likes of Russia, Iran, and Ch…"
         }
       ]
     },
@@ -1151,6 +1151,12 @@
       "cat": "Tech · News",
       "ok": true,
       "items": [
+        {
+          "title": "Microsoft Is Combining Its Copilot Apps Ahead of a 'Super App'",
+          "link": "https://slashdot.org/story/26/08/13/1943229/microsoft-is-combining-its-copilot-apps-ahead-of-a-super-app?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "13 Aug 2026",
+          "summary": "Microsoft is merging its consumer Copilot and Microsoft 365 Copilot apps ahead of a broader \"super app\" launch later this year. \"Both personal and work accounts will be moved to the new unified app, which recycles the 'Microsoft Copilot' name but features an u…"
+        },
         {
           "title": "Amazon Will Train On Twitch Streamers' Content By Default, Unless They Opt Out",
           "link": "https://games.slashdot.org/story/26/08/13/1853232/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out?utm_source=rss1.0mainlinkanon&utm_medium=feed",
@@ -1234,12 +1240,6 @@
           "link": "https://mobile.slashdot.org/story/26/08/12/064220/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "12 Aug 2026",
           "summary": "An anonymous reader quotes a report from Ars Technica: On Monday, passengers aboard Delta flight 591 going from Las Vegas to Atlanta allegedly spoofed the onboard Wi-Fi, raising the attention of federal law enforcement. The incident came one day after the DEF…"
-        },
-        {
-          "title": "The Pixel Tag Is Google's Answer To the AirTag",
-          "link": "https://tech.slashdot.org/story/26/08/12/1525222/the-pixel-tag-is-googles-answer-to-the-airtag?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "12 Aug 2026",
-          "summary": "Google has unveiled the $29 Pixel Tag, its long-awaited AirTag rival that combines UWB with Bluetooth 6.0 Channel Sounding for two forms of precision tracking. It launches November 11. The Verge reports: The Pixel Tag is a slim oblong device available in one g…"
         }
       ]
     },
