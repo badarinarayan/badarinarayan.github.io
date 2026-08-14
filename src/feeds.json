@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-14T07:10:31Z",
+  "generated": "2026-08-14T08:59:01Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,12 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "LEAP India shares fall 12% post-listing, slip below IPO price. What should investors do?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/leap-india-shares-fall-12-post-listing-slip-below-ipo-price-what-should-investors-do/articleshow/133231868.cms",
+          "date": "14 Aug 2026",
+          "summary": "LEAP India shares dropped from their listing price, slipping below the IPO issue price after a modest debut. While analysts highlight the company's leadership in pallet pooling and long-term growth potential, demanding valuations and modest return ratios have…"
+        },
         {
           "title": "Zee Entertainment shares rally 8% after SAT grants interim relief in Sebi order",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/zee-entertainment-shares-rise-8-after-sat-grants-interim-relief-in-sebi-order/articleshow/133230722.cms",
@@ -36,12 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/praj-industries-shares-rally-7-after-q1-profit-more-than-doubles-yoy/articleshow/133230447.cms",
           "date": "14 Aug 2026",
           "summary": "Praj Industries shares surged 6.5% after Q1FY27 net profit more than doubled year-on-year to Rs 12 crore, while revenue rose 12% to Rs 716 crore. The company reported Rs 1,000 crore in order intake and ended the quarter with an order backlog of Rs 4,589 crore,…"
-        },
-        {
-          "title": "Sammaan Capital shares fall 4% after Q1 profit declines 27% to Rs 243 crore, revenue drops 31%",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sammaan-capital-shares-fall-4-after-q1-profit-declines-27-to-rs-243-crore-revenue-drops-31/articleshow/133229881.cms",
-          "date": "14 Aug 2026",
-          "summary": "Sammaan Capital reported a 27% YoY decline in consolidated profit to Rs 243 crore in Q1FY27, while revenue from operations also fell. The company reported Rs 56,239 crore in AUM and Rs 3,875 crore in disbursements, with plans to accelerate growth and reduce fu…"
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -196,10 +196,46 @@
       "ok": true,
       "items": [
         {
-          "title": "'Uncalled for': CJI pulls up Bar Council of India over threat of action against NALSAR students",
-          "link": "https://timesofindia.indiatimes.com/india/uncalled-for-cji-pulls-up-bar-council-of-india-over-threat-of-action-against-nalsar-students/articleshow/133229978.cms",
+          "title": "‘Lal Qila ta nishana hove ga’: Delhi HC gets bomb threat day before Independence Day",
+          "link": "https://timesofindia.indiatimes.com/city/delhi/lal-qila-ta-nishana-hove-ga-delhi-hc-gets-bomb-threat-day-before-independence-day/articleshow/133232941.cms",
+          "date": "14 Aug 2026",
+          "summary": "A bomb threat email was received at the Delhi High Court on Friday morning. The threatening message mentioned August 15 and a target at the Red Fort. Authorities promptly initiated standard operating procedures and conducted extensive security checks. Bomb dis…"
+        },
+        {
+          "title": "SC quashes all FIRs against Samay Raina, Ranveer Allahabadia",
+          "link": "https://timesofindia.indiatimes.com/india/sc-quashes-all-firs-against-samay-raina-ranveer-allahabadia-in-indias-got-latent-case/articleshow/133233102.cms",
           "date": "14 Aug 2026",
           "summary": ""
+        },
+        {
+          "title": "Video: Woman damages gear worth Rs 49k at Bhubaneswar airport after flight cancelled",
+          "link": "https://timesofindia.indiatimes.com/city/bhubaneswar/video-woman-goes-on-rampage-at-bhubaneswar-airport-after-indigo-flight-cancelled-damages-gear-worth-rs-49k/articleshow/133232686.cms",
+          "date": "14 Aug 2026",
+          "summary": "Bhubaneswar airport authorities filed a police complaint against a disruptive woman passenger. She allegedly damaged airport property after her IndiGo flight cancellation on Thursday. The passenger created a ruckus in the departure lounge, causing significant…"
+        },
+        {
+          "title": "‘Week or 10 days of prep helps’: Gill wants time to adapt before Test series",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/week-or-10-days-of-preparation-helps-shubman-gill-wants-time-to-adapt-before-test-series/articleshow/133233361.cms",
+          "date": "14 Aug 2026",
+          "summary": "India captain Shubman Gill stresses adequate preparation time for the World Test Championship campaign. The team needs to win several matches to reach the championship final. Players require time to adapt to different conditions and formats of play. Team India…"
+        },
+        {
+          "title": "Punjab man beats woman beggar with slipper, kicks her outside temple",
+          "link": "https://timesofindia.indiatimes.com/city/chandigarh/slipper-blows-kicks-outside-temple-video-shows-punjab-man-assaulting-woman-beggar-holding-child/articleshow/133231795.cms",
+          "date": "14 Aug 2026",
+          "summary": "Police booked a shopkeeper for assaulting a woman beggar outside a Kapurthala temple. The accused attacked the woman and her child with his slipper. He also kicked her after people intervened in the incident. The police are currently searching for the accused…"
+        },
+        {
+          "title": "Netflix co-founder on why he stopped calling CEOs Ted Sarandos &amp; Greg Peters",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/netflix-co-founder-reed-hastings-on-why-he-stopped-calling-ceos-ted-sarandos-and-greg-peters-about-the-business-they-can-mimic-me-and-/articleshow/133232948.cms",
+          "date": "14 Aug 2026",
+          "summary": "Netflix co-founder Reed Hastings says he has stopped calling co-CEOs Ted Sarandos and Greg Peters about the business since leaving the Netflix board in June. Hastings says the two can already guess what he would think, then decide for themselves. He compares t…"
+        },
+        {
+          "title": "TATA Steel sells 100% stake in Jamshedpur FC to Churchill Brothers",
+          "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/tata-steel-sells-100-stake-in-jamshedpur-fc-to-churchill-brothers/articleshow/133232925.cms",
+          "date": "14 Aug 2026",
+          "summary": "Tata Steel has officially sanctioned the sale of its entire ownership stake in Jamshedpur FC for a minimal price. The agreement includes the transfer of the ISL sporting rights to Churchill Brothers Sports Club, as well as the contracts for players and coachin…"
         },
         {
           "title": "'China stopped our army from patrolling several places in Arunachal': Rahul",
@@ -208,10 +244,70 @@
           "summary": ""
         },
         {
-          "title": "‘Shouldn’t govt give employment?’ SC stays HC order on jobs for Karur victims' kin",
-          "link": "https://timesofindia.indiatimes.com/india/shouldnt-govt-give-employment-supreme-court-stays-hc-order-on-jobs-for-karur-stampede-victims-kin/articleshow/133230654.cms",
+          "title": "‘Not scared’: Sukhbir Singh Badal after discharge from hospital day after attack in Nanded",
+          "link": "https://timesofindia.indiatimes.com/india/i-am-not-scared-sukhbir-singh-badal-after-discharge-from-hospital-day-after-attack-in-nanded/articleshow/133233130.cms",
           "date": "14 Aug 2026",
-          "summary": "The Supreme Court has stayed a Madras High Court order regarding government jobs. This order had previously struck down the Tamil Nadu government's decision for stampede victims' relatives. The Supreme Court questioned the challenge to the government's policy…"
+          "summary": ""
+        },
+        {
+          "title": "Robot found 4,500-year-old sealed Great Pyramid door: Here's what happened",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/a-robot-traveled-to-great-pyramid-via-hidden-path-and-stopped-in-front-of-a-door-that-had-remained-sealed-for-4500-years-heres-what-happened/articleshow/133221874.cms",
+          "date": "14 Aug 2026",
+          "summary": "A robot has ventured into a concealed corridor within the Great Pyramid of Giza, uncovering a sealed barrier potentially dating back 4,500 years. This intriguing find reopens inquiries regarding the secrets held by this ancient structure. Employing contemporar…"
+        },
+        {
+          "title": "How to stop Vaibhav Sooryavanshi? Harbhajan Singh reveals the only way",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/how-to-stop-vaibhav-sooryavanshi-harbhajan-singh-reveals-the-only-way/articleshow/133231993.cms",
+          "date": "14 Aug 2026",
+          "summary": "Harbhajan Singh suggests bowlers must attack Vaibhav Sooryavanshi to succeed. He believes containing the young batter is not an effective strategy. Sooryavanshi's aggressive style forces elite bowlers to reconsider their approach. The former spinner emphasises…"
+        },
+        {
+          "title": "Trust paid £3,000 to save Shakespeare's birthplace from being shipped to US",
+          "link": "https://timesofindia.indiatimes.com/world/uk/shakespeares-birth-home-was-about-to-be-shipped-to-the-us-in-1847-the-shakespeare-trust-had-to-buy-it-for-3000-to-save-it-from-a-showman-who-wanted-to-make-it-a-theme-park-attraction/articleshow/133232772.cms",
+          "date": "14 Aug 2026",
+          "summary": "In the 1840s, Shakespeare's birthplace in Stratford-upon-Avon faced the threat of sale, as American showman P.T. Barnum aimed to move the historic home to New York. A dedicated committee formed, rallying public donations and support from notable figures like P…"
+        },
+        {
+          "title": "Indian-origin man rejected for H-1B 3 times finds another way to stay in US",
+          "link": "https://timesofindia.indiatimes.com/world/us/indian-origin-man-rejected-for-h-1b-visa-three-times-compiled-700-pages-of-evidence-and-spent-13000-to-secure-another-way-to-stay-in-us/articleshow/133232380.cms",
+          "date": "14 Aug 2026",
+          "summary": "Sohan Sethi faced multiple H-1B visa rejections after arriving in the United States. He then pursued an O-1 visa, requiring extensive documentation and lawyer fees. Sethi demonstrated extraordinary ability through achievements and industry recognition to secur…"
+        },
+        {
+          "title": "China takes aim at Elon Musk’s ‘Jesus-level’ brain-chip dream with first BCI surgery policy",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/china-takes-aim-at-elon-musks-jesus-level-brain-chip-dream-with-first-bci-surgery-policy/articleshow/133231130.cms",
+          "date": "14 Aug 2026",
+          "summary": "In a significant move, China has introduced its inaugural commercial insurance for invasive brain-computer interface surgery, marking a vital step in fostering the nation’s BCI sector. Collaborating with a hospital from Zhejiang University, state-owned PICC Pr…"
+        },
+        {
+          "title": "'Uncalled for': CJI pulls up Bar Council of India over threat of action against NALSAR students",
+          "link": "https://timesofindia.indiatimes.com/india/uncalled-for-cji-pulls-up-bar-council-of-india-over-threat-of-action-against-nalsar-students/articleshow/133229978.cms",
+          "date": "14 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "PMAY-U 2.0 in Kerala: Who gets Rs 4 lakh housing assistance and how it is funded",
+          "link": "https://timesofindia.indiatimes.com/real-estate/news/pmay-u-2-0-in-kerala-who-gets-rs-4-lakh-housing-assistance-and-how-it-is-funded/articleshow/133231648.cms",
+          "date": "14 Aug 2026",
+          "summary": "Kerala will implement the Pradhan Mantri Awas Yojana-Urban 2.0 scheme soon. Approximately thirty thousand eligible beneficiaries will receive housing assistance under this new phase. The Centre will provide Rs 1.50 lakh, and the state government Rs 1 lakh per…"
+        },
+        {
+          "title": "‘Batwara 1947’ review: Fans praise Sunny Deol, say ‘Aankhon mein emotion’",
+          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/batwara-1947-twitter-review-sunny-deol-earns-praise-for-his-intense-vulnerability-and-emotional-performance-fans-say-aankhon-mein-jo-emotion-hai-woh-kai-baar-dialogues-se-zyada-powerful-lagta-hai/articleshow/133233018.cms",
+          "date": "14 Aug 2026",
+          "summary": "The theatrical release of Sunny Deol's latest venture, 'Batwara 1947', is taking the audience by storm, as social media bursts with reviews. Viewers are lauding Deol's intense and heartfelt performance in this adaptation of a play focused on the events surroun…"
+        },
+        {
+          "title": "Savarkar defamation case: SC quashes Lucknow Court order summoning Rahul",
+          "link": "https://timesofindia.indiatimes.com/india/savarkar-defamation-case-supreme-court-quashes-lucknow-court-order-summoning-rahul-gandhi/articleshow/133231633.cms",
+          "date": "14 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Your humble dhaniya no longer free! Coriander prices rise above Rs 200 kg",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/your-humble-dhaniya-no-longer-free-coriander-prices-rise-above-rs-200-kg-as-heavy-rains-disrupt-supply/articleshow/133231518.cms",
+          "date": "14 Aug 2026",
+          "summary": "Fresh coriander, which neighbourhood vegetable vendors routinely tucked into shopping bags at no extra cost, has become unexpectedly expensive after heavy rainfall disrupted supplies from major growing regions."
         },
         {
           "title": "‘You can’t play forever’: Hayden’s blunt message on Rohit Sharma’s future",
@@ -220,22 +316,52 @@
           "summary": "Matthew Hayden pointed out that Rohit Sharma is the architect of his own cricket destiny. As a veteran, Rohit must consider his desire and endurance for the rigorous schedules, especially following his retirement from the Test and T20I formats. His recent perf…"
         },
         {
+          "title": "‘Shouldn’t govt give employment?’ SC stays HC order on jobs for Karur victims' kin",
+          "link": "https://timesofindia.indiatimes.com/india/shouldnt-govt-give-employment-supreme-court-stays-hc-order-on-jobs-for-karur-stampede-victims-kin/articleshow/133230654.cms",
+          "date": "14 Aug 2026",
+          "summary": "The Supreme Court has stayed a Madras High Court order regarding government jobs. This order had previously struck down the Tamil Nadu government's decision for stampede victims' relatives. The Supreme Court questioned the challenge to the government's policy…"
+        },
+        {
+          "title": "'Our red line': Shehbaz Sharif threatens India with 'direct response' over Indus Water Treaty",
+          "link": "https://timesofindia.indiatimes.com/world/pakistan/water-is-our-red-line-shehbaz-sharif-threatens-india-with-direct-response-over-indus-treaty/articleshow/133231106.cms",
+          "date": "14 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Tenant not paying rent? Know how to claim tax relief on unrealised rent",
+          "link": "https://timesofindia.indiatimes.com/real-estate/news/tenant-not-paying-rent-know-how-to-claim-tax-relief-on-unrealised-rent/articleshow/133221537.cms",
+          "date": "14 Aug 2026",
+          "summary": "In India, landlords are permitted to deduct unpaid rent from their taxable income as unrealised rent, provided they meet certain criteria outlined by the Income Tax Rules. It is important for landlords to select the appropriate Income Tax Return form to ensure…"
+        },
+        {
+          "title": "‘This could be my last WC’: Manpreet Singh eyes title to end India’s 51-year wait",
+          "link": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/this-could-be-my-last-world-cup-manpreet-singh-eyes-title-to-end-indias-51-year-wait/articleshow/133230874.cms",
+          "date": "14 Aug 2026",
+          "summary": "Manpreet Singh aims for India's second World Cup title after Olympic success. He believes the team possesses the necessary talent and experience for victory. The veteran midfielder approaches this as potentially his final World Cup appearance. India will focus…"
+        },
+        {
           "title": "Union minister JP Nadda admitted to AIIMS Delhi after uneasiness",
           "link": "https://timesofindia.indiatimes.com/india/union-minister-jp-nadda-admitted-to-aiims-delhi-after-uneasiness/articleshow/133230999.cms",
           "date": "14 Aug 2026",
           "summary": ""
         },
         {
-          "title": "Phoebe Gates’ shopping app Phia responds to allegations of cookie stuffing",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/phoebe-gates-shopping-app-phia-responds-to-cookie-stuffing-allegations-says-have-started-issuing-transaction-reversals-to-partners/articleshow/133230744.cms",
+          "title": "Actor Risheekaa Ssingh questions Yash's 'Toxic'; objects to controversial nude scene",
+          "link": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/beauty-suits-a-woman-respect-suits-a-man-risheekaa-ssingh-questions-yashs-toxic-objects-to-controversial-nude-scene/articleshow/133232017.cms",
           "date": "14 Aug 2026",
-          "summary": "Phia is taking proactive steps to rectify its sales records by reversing transactions that were misattributed. In light of concerns over cookie stuffing, where tracking cookies are added without user consent, founders Phoebe Gates and Sophia Kianni have acknow…"
+          "summary": "Kannada actor Risheekaa Ssingh has criticized the trailer for the upcoming movie 'Toxic'. She questioned the presentation of female characters and a specific scene featuring actor Yash. Ssingh expressed support for Kannada cinema's growth while objecting to th…"
         },
         {
           "title": "'Shadow transshipment network': US names India among 40 nations helping China evade tariffs",
           "link": "https://timesofindia.indiatimes.com/business/india-business/india-among-countries-flagged-by-us-over-chinese-goods-transshipment-risks/articleshow/133227986.cms",
           "date": "14 Aug 2026",
           "summary": "A US report names India among over forty nations facing risks of transshipping Chinese goods. These countries could become conduits for products avoiding American import tariffs. The White House warns of intensified detection and penalties for such trade pract…"
+        },
+        {
+          "title": "9-month delivery delay, repeated defects: JLR told to replace Rs 1.57 crore luxury SUV",
+          "link": "https://timesofindia.indiatimes.com/legal/news/9-month-delivery-delay-repeated-defects-jaguar-land-rover-told-to-replace-rs-1-57-crore-luxury-suv/articleshow/133231365.cms",
+          "date": "14 Aug 2026",
+          "summary": "A Delhi consumer commission found Jaguar Land Rover and its dealer guilty of service deficiency. The brand-new luxury vehicle developed multiple defects within weeks of purchase. The commission ordered a replacement vehicle or a refund of Rs 1.57 crore. The de…"
         },
         {
           "title": "Phuket-Delhi A320 which plunged 300 feet lost flight controls for 4 seconds: Probe",
@@ -248,132 +374,6 @@
           "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/back-cristiano-ronaldo-returns-to-al-nassr-training-days-after-marrying-georgina-rodriguez/articleshow/133229596.cms",
           "date": "14 Aug 2026",
           "summary": "Cristiano Ronaldo has returned to training with Al-Nassr after his wedding. He confirmed his marriage to Georgina Rodriguez earlier this week. The couple exchanged vows in a private civil ceremony in Portugal. Ronaldo's return to club football follows his fina…"
-        },
-        {
-          "title": "Sam Altman says he is happy he rejected Goldman Sachs job offer",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/sam-altman-is-happy-he-rejected-goldman-sachs-job-offer-and-tells-that-while-it-was-tough-to-say-no-then-it-should-not-be-for-students-nowadays-as-/articleshow/133228513.cms",
-          "date": "14 Aug 2026",
-          "summary": "Sam Altman, OpenAI CEO, shared his college decision to reject a Goldman Sachs internship. He found the corporate path hierarchical and less appealing than building startups. Altman believes artificial intelligence now lowers barriers for students to launch com…"
-        },
-        {
-          "title": "Pakistan joins China Moon race with Jinnah-1 rover; mission in 2029",
-          "link": "https://timesofindia.indiatimes.com/science/pakistan-joins-china-moon-race-with-jinnah-1-rover-mission-in-2029/articleshow/133229225.cms",
-          "date": "14 Aug 2026",
-          "summary": "Pakistan has named its first lunar rover Jinnah-1 for a 2029 mission. The rover will join China's Chang'e-8 mission to study the Moon's south pole. Jinnah-1 will conduct scientific research on plasma, radiation, and lunar geology. This collaboration marks a si…"
-        },
-        {
-          "title": "German startup builds wind turbine blades from wood instead of fibreglass",
-          "link": "https://timesofindia.indiatimes.com/science/german-startup-voodin-replaced-fibreglass-with-laminated-veneer-lumber-in-19-3-metre-turbine-blades-its-new-eu-backed-factory-targets-fully-recyclable-blades-at-commercial-scale/articleshow/133229906.cms",
-          "date": "14 Aug 2026",
-          "summary": "A pioneering startup in Germany is crafting wind turbine blades using laminated veneer lumber, presenting a sustainable solution to the prevalent fiberglass composite problem. The initial prototypes are currently being tested in the field, demonstrating their…"
-        },
-        {
-          "title": "Six generations have vacationed at Lake Winnipesaukee, and tradition continues",
-          "link": "https://timesofindia.indiatimes.com/life-style/people/six-generations-have-vacationed-at-new-hampshires-lake-winnipesaukee-one-family-still-spends-thousands-each-summer-to-keep-the-tradition-alive/articleshow/133157996.cms",
-          "date": "14 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Robot reaches 4,500-year-old sealed barrier inside Egypt’s Great Pyramid",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/a-robot-traveled-to-great-pyramid-via-hidden-path-and-stopped-in-front-of-a-door-that-had-remained-sealed-for-4500-years-heres-what-happened/articleshow/133221874.cms",
-          "date": "14 Aug 2026",
-          "summary": "A robot has ventured into a concealed corridor within the Great Pyramid of Giza, uncovering a sealed barrier potentially dating back 4,500 years. This intriguing find reopens inquiries regarding the secrets held by this ancient structure. Employing contemporar…"
-        },
-        {
-          "title": "Fugitive drug kingpin Virender Singh Basoya extradited from UAE",
-          "link": "https://timesofindia.indiatimes.com/city/delhi/fugitive-drug-kingpin-virender-singh-basoya-extradited-from-uae-in-multi-crore-cocaine-bust/articleshow/133229172.cms",
-          "date": "14 Aug 2026",
-          "summary": "India's Narcotics Control Bureau has secured the extradition of Virender Singh Basoya from the UAE. Basoya is accused of orchestrating a multi-crore cocaine syndicate and fled the country. This significant development follows sustained inter-agency coordinatio…"
-        },
-        {
-          "title": "‘Sooryavanshi doesn’t have that’: Ex-India great explains Rohit-Kohli’s big edge",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/vaibhav-sooryavanshi-doesnt-have-that-ex-india-great-explains-rohit-sharma-virat-kohlis-big-edge/articleshow/133228030.cms",
-          "date": "14 Aug 2026",
-          "summary": "Harbhajan Singh argues that selection for Virat Kohli and Rohit Sharma should rely on their performance rather than age. He highlights that both players have the potential to be key contributors in the upcoming World Cup, assuming they maintain their fitness.…"
-        },
-        {
-          "title": "80th I-Day: 1,057 police, fire &amp; correctional personnel receive gallantry, service medals",
-          "link": "https://timesofindia.indiatimes.com/india/80th-independence-day-1057-police-fire-and-correctional-personnel-receive-gallantry-service-medals/articleshow/133230207.cms",
-          "date": "14 Aug 2026",
-          "summary": "Over one thousand personnel received Gallantry and Service Medals this Independence Day. Gallantry Medals recognized exceptional courage and actions in critical situations. Many gallantry awards went to personnel serving in Left Wing Extremism-affected areas.…"
-        },
-        {
-          "title": "Rohit Sharma could coach Mumbai Indians? Ashwin makes bold prediction",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/rohit-sharma-to-coach-mumbai-indians-ashwin-makes-bold-prediction/articleshow/133229023.cms",
-          "date": "14 Aug 2026",
-          "summary": "Ravichandran Ashwin believes Rohit Sharma could join the Mumbai Indians franchise after his playing career concludes. He suggests Virat Kohli might prefer a break from cricket before considering coaching roles. The former spinner sees growing franchise cricket…"
-        },
-        {
-          "title": "Uttarakhand: 7 dead after water, debris enter under-construction tunnel in Chamoli",
-          "link": "https://timesofindia.indiatimes.com/city/dehradun/six-workers-dead-2-missing-after-water-debris-enter-under-construction-tunnel-in-uttarakhand/articleshow/133223387.cms",
-          "date": "14 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Bihar Kushal Yuva scheme extended till 2031: Check benefits, eligibility and key details",
-          "link": "https://timesofindia.indiatimes.com/education/news/bihar-kushal-yuva-scheme-extended-till-2031-check-benefits-eligibility-and-key-details/articleshow/133228924.cms",
-          "date": "14 Aug 2026",
-          "summary": "Bihar's Kushal Yuva Programme will continue for five more years. The government has allocated significant funds for the upcoming financial year. Its curriculum will be updated to include AI and digital technology advancements. The scheme aims to train approxim…"
-        },
-        {
-          "title": "Will gold price rally now face profit booking? Check August 14 outlook",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-what-is-the-gold-rate-outlook-for-august-14-2026-should-you-buy-or-sell-mcx-gold/articleshow/133230416.cms",
-          "date": "14 Aug 2026",
-          "summary": "MCX Gold October futures are witnessing profit booking after a strong rally over the past several sessions. Prices are currently trading near Rs 1,52,400–Rs 1,52,600, where the recent up move appears to be facing resistance."
-        },
-        {
-          "title": "‘Full support’ for Infantino: Six Arab federations defy growing revolt over WC plan",
-          "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/full-support-for-infantino-six-arab-federations-defy-growing-revolt-over-world-cup-plan/articleshow/133229239.cms",
-          "date": "14 Aug 2026",
-          "summary": "Six Arab football federations have declared their full support for FIFA president Gianni Infantino. This backing comes after his controversial World Cup investment plan faced significant global opposition. The declaration exposes a divide within the Asian foot…"
-        },
-        {
-          "title": "Sniper, knife, missile threats: Israel warned US of alleged Iran plot to assassinate Trump",
-          "link": "https://timesofindia.indiatimes.com/world/us/sniper-knife-missile-threats-israel-warned-us-of-alleged-iran-plot-to-assassinate-donald-trump/articleshow/133227970.cms",
-          "date": "14 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Intrigue around the Galle pitch but India likely to opt for the safe route",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/india-vs-sri-lanka-galle-test-pitch-report-playing-xi-weather-update-fast-bowlers-spinners/articleshow/133227192.cms",
-          "date": "14 Aug 2026",
-          "summary": "Galle may not offer the raging turner many expected, with the pitch looking set to reward batting early before spin comes into play. India, meanwhile, appear inclined towards the safer three-spinner combination, prioritising batting depth and variety."
-        },
-        {
-          "title": "Harsimrat Badal 'deeply touched' by PM Modi's 'kind gesture' after attack on Sukhbir Badal",
-          "link": "https://timesofindia.indiatimes.com/india/deeply-touched-harsimrat-kaur-badal-on-pm-modis-call-after-attack-on-sukhbir-singh-badal/articleshow/133228205.cms",
-          "date": "14 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Happy Independence Day: 95 wishes, messages, cards &amp; quotes to share",
-          "link": "https://timesofindia.indiatimes.com/etimes/trending/happy-independence-day-2026-top-50-wishes-messages-greetings-card-gifs-facebook-whatsapp-status-quotes-to-share-with-your-loved-ones/articleshow/133149062.cms",
-          "date": "12 Aug 2026",
-          "summary": "India's 80th Independence Day celebration is set for August 15, 2026, promising to be a grand affair. Key highlights will include a stirring address from the Prime Minister, alongside the Har Ghar Tiranga initiative. To commemorate this remarkable milestone, t…"
-        },
-        {
-          "title": "‘I need your help’: Wangchuk calls for ‘peaceful revolution’ ahead of Independence Day",
-          "link": "https://timesofindia.indiatimes.com/city/delhi/i-need-your-help-sonam-wangchuk-calls-for-peaceful-revolution-ahead-of-independence-day/articleshow/133226944.cms",
-          "date": "14 Aug 2026",
-          "summary": "Sonam Wangchuk urges a peaceful revolution for India's future by 2047. He seeks citizens' help to identify selfless and fearless national leaders. Wangchuk expresses concern over the criminal backgrounds of many elected Members of Parliament. He believes bette…"
-        },
-        {
-          "title": "‘Give him clarity’: Ashwin’s blunt message to Gambhir over Sarfaraz's future",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/give-him-clarity-ashwins-blunt-message-to-gautam-gambhir-over-sarfaraz-khans-india-future/articleshow/133227464.cms",
-          "date": "14 Aug 2026",
-          "summary": "Sarfaraz Khan's return to the Indian Test squad creates a selection dilemma. He competes with Dhruv Jurel for a spot in the upcoming Sri Lanka series. Former spinner Ravichandran Ashwin believes Jurel might get the nod for the first Test. Ashwin suggests team…"
-        },
-        {
-          "title": "Where is Terrel Williams now after Prichard Colon fight? What happened to his career",
-          "link": "https://timesofindia.indiatimes.com/sports/international-sports/where-is-terrel-williams-now-after-prichard-colon-fight-what-happened-to-his-boxing-career/articleshow/133222498.cms",
-          "date": "14 Aug 2026",
-          "summary": "The 2015 fight between Terrel Williams and Prichard Colon ended in a way few expected. Years later, the bout remains one of boxing’s most painful stories, with questions still surrounding what happened afterward. Colon’s death has now brought the fight back in…"
-        },
-        {
-          "title": "Patrick Mahomes reveals how wife Brittany pushes him to become a better athlete",
-          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/you-learn-a-ton-being-a-father-patrick-mahomes-opens-up-on-fatherhood-after-facing-criticism-for-starting-a-family-young/articleshow/133157602.cms",
-          "date": "11 Aug 2026",
-          "summary": "Patrick mahomes started a family toung and has often got trolled of rit. Despite this, the star player has expresed the prie in being a father."
         }
       ]
     },
@@ -1630,184 +1630,184 @@
       "ok": true,
       "items": [
         {
-          "title": "mg-saic-client added to PyPI",
-          "link": "https://pypi.org/project/mg-saic-client/",
+          "title": "odoo-addon-hr-accident added to PyPI",
+          "link": "https://pypi.org/project/odoo-addon-hr-accident/",
           "date": "14 Aug 2026",
-          "summary": "SAIC next gen client library (MG iSMART)"
+          "summary": "Register and track employee accidents"
         },
         {
-          "title": "httpz-requests added to PyPI",
-          "link": "https://pypi.org/project/httpz-requests/",
+          "title": "privaparse added to PyPI",
+          "link": "https://pypi.org/project/privaparse/",
           "date": "14 Aug 2026",
-          "summary": "Telegram bot module for remote VPS shell access"
+          "summary": "Local privacy layer: detect PII, replace with deterministic placeholders, restore after LLM response."
         },
         {
-          "title": "crewai-agentvalet added to PyPI",
-          "link": "https://pypi.org/project/crewai-agentvalet/",
+          "title": "enigma-machine-py added to PyPI",
+          "link": "https://pypi.org/project/enigma-machine-py/",
           "date": "14 Aug 2026",
-          "summary": "Governed CrewAI tools. Your crew's tool surface is your AgentValet grant matrix, so an agent cannot form a call it was never granted."
+          "summary": "A Python implementation of the historical Enigma cipher machine."
         },
         {
-          "title": "mztrain added to PyPI",
-          "link": "https://pypi.org/project/mztrain/",
+          "title": "worthune added to PyPI",
+          "link": "https://pypi.org/project/worthune/",
           "date": "14 Aug 2026",
-          "summary": "Motor de Entrenamiento en Espacio Comprimido - Entrenamiento de modelos de IA con factorizacion SVD y compresion de memoria via MNEME"
+          "summary": "Official SDK for the Worthune Model API — 27 dual-implementation-verified financial calculation models with published specs and IRS/SSA-sourced constants. Zero dependencies."
         },
         {
-          "title": "sofar-modbus added to PyPI",
-          "link": "https://pypi.org/project/sofar-modbus/",
+          "title": "mailo-cli added to PyPI",
+          "link": "https://pypi.org/project/mailo-cli/",
           "date": "14 Aug 2026",
-          "summary": "Read Sofar Solar inverters (HYD, KTL-X and the older PV/storage range) over Modbus."
+          "summary": "Notify yourself when your AI agent gets stuck, fails, or finishes."
         },
         {
-          "title": "deckmaker added to PyPI",
-          "link": "https://pypi.org/project/deckmaker/",
+          "title": "qiao-mcp added to PyPI",
+          "link": "https://pypi.org/project/qiao-mcp/",
           "date": "14 Aug 2026",
-          "summary": "Typed command-line client for the PresentationsAI Deck API"
+          "summary": "MCP server for intelligent bridge structural design and analysis (桥梁智能设计 MCP 服务器)"
         },
         {
-          "title": "ds-provider-powerofficego-py-lib added to PyPI",
-          "link": "https://pypi.org/project/ds-provider-powerofficego-py-lib/",
+          "title": "fastup-gas added to PyPI",
+          "link": "https://pypi.org/project/fastup-gas/",
           "date": "14 Aug 2026",
-          "summary": "A Python package from the DS library collection"
+          "summary": "FastUp GAS (GEO Audit System) — Open standard and CLI tool for Generative Engine Optimization (GEO) & AI search visibility audit"
         },
         {
-          "title": "slopometer added to PyPI",
-          "link": "https://pypi.org/project/slopometer/",
+          "title": "rvgsrust-xlsxwriter added to PyPI",
+          "link": "https://pypi.org/project/rvgsrust-xlsxwriter/",
           "date": "14 Aug 2026",
-          "summary": "Score prose for simplicity and precision against plain-English reference rules"
+          "summary": "A Rust-powered XLSX library for Python, with a Pythonic API and Polars/Pandas/PyArrow support. Built on rust_xlsxwriter."
         },
         {
-          "title": "tirion-dagster-mssql added to PyPI",
-          "link": "https://pypi.org/project/tirion-dagster-mssql/",
+          "title": "cortexos-engine added to PyPI",
+          "link": "https://pypi.org/project/cortexos-engine/",
           "date": "14 Aug 2026",
-          "summary": "Microsoft SQL Server storage for Dagster"
+          "summary": "CORTEX engine: convert, group, embed, rank, index, graph, search. Zero LLM calls, ever."
         },
         {
-          "title": "warmpy added to PyPI",
-          "link": "https://pypi.org/project/warmpy/",
+          "title": "q-cub added to PyPI",
+          "link": "https://pypi.org/project/q-cub/",
           "date": "14 Aug 2026",
-          "summary": "Keeps Python CLIs warm by holding their slow imports loaded in a background process that starts and stops itself"
+          "summary": "Cute CUBs doing cute things! An unmissable Python package for furry enthusiasts."
         },
         {
-          "title": "bioio-imzml added to PyPI",
-          "link": "https://pypi.org/project/bioio-imzml/",
+          "title": "black-carbon-albedo-utac added to PyPI",
+          "link": "https://pypi.org/project/black-carbon-albedo-utac/",
           "date": "14 Aug 2026",
-          "summary": "BioIO reader plugin for imzML mass spectrometry imaging (MSI) data."
+          "summary": "Black carbon / light-absorbing-particle albedo feedback on glaciers -- Kang et al. 2020's mechanism review, Li et al. 2017's Central Tibetan Plateau melt-enhancement case, and Yang/Kang/Chen et al. 2025's plateau-wide solid-water-storage decline study -- a new…"
         },
         {
-          "title": "grounded-judge-gate added to PyPI",
-          "link": "https://pypi.org/project/grounded-judge-gate/",
+          "title": "mountain-governance-adaptation-utac added to PyPI",
+          "link": "https://pypi.org/project/mountain-governance-adaptation-utac/",
           "date": "14 Aug 2026",
-          "summary": "A deterministic-authority gate with a grounded LLM-judge rescue path for short-answer grading."
+          "summary": "Mountain water governance and adaptation science -- real transboundary treaty status (Indus Waters Treaty, Colorado River Compact, Mekong Agreement), the mountain-specific adaptation finance gap, and Loss & Damage institutions (FRLD, WIM ExCom NEL framework) -…"
         },
         {
-          "title": "midas-dt added to PyPI",
-          "link": "https://pypi.org/project/midas-dt/",
+          "title": "pp-agent-core added to PyPI",
+          "link": "https://pypi.org/project/pp-agent-core/",
           "date": "14 Aug 2026",
-          "summary": "Diffraction / X-ray computed tomography (XRD-CT): scan model, sinogram assembly with error propagation, reconstruction and per-voxel peak fitting."
+          "summary": "General-purpose agent with transport abstraction, state management, and attachment support (Python port of @earendil-works/pi-agent-core)"
         },
         {
-          "title": "git-issue-fixer added to PyPI",
-          "link": "https://pypi.org/project/git-issue-fixer/",
+          "title": "poker-coach-engine added to PyPI",
+          "link": "https://pypi.org/project/poker-coach-engine/",
           "date": "14 Aug 2026",
-          "summary": "Fetch GitHub issues, fix them with an Ollama LLM, and open a pull request."
+          "summary": "MCP poker math engine for No-Limit Texas Hold'em analysis"
         },
         {
-          "title": "sentinel-lab added to PyPI",
-          "link": "https://pypi.org/project/sentinel-lab/",
+          "title": "tg-messenger added to PyPI",
+          "link": "https://pypi.org/project/tg-messenger/",
           "date": "14 Aug 2026",
-          "summary": "Local-first runtime observability for AI agent security experiments."
+          "summary": "Standalone reusable Telegram messenger client (Web / TUI / CLI) over Telethon"
         },
         {
-          "title": "otp-id added to PyPI",
-          "link": "https://pypi.org/project/otp-id/",
+          "title": "keris-toolkit added to PyPI",
+          "link": "https://pypi.org/project/keris-toolkit/",
           "date": "14 Aug 2026",
-          "summary": "Official Python SDK for the OTP.ID V3 API"
+          "summary": "Modular web penetration testing toolkit"
         },
         {
-          "title": "mcdx added to PyPI",
-          "link": "https://pypi.org/project/mcdx/",
+          "title": "dataintuitive-viash-config added to PyPI",
+          "link": "https://pypi.org/project/dataintuitive-viash-config/",
           "date": "14 Aug 2026",
-          "summary": "Switch between saved OpenAI Codex auth profiles"
+          "summary": "Shared Pydantic types for viash config"
         },
         {
-          "title": "mybk-planner added to PyPI",
-          "link": "https://pypi.org/project/mybk-planner/",
+          "title": "universal-ai-watermark-remover added to PyPI",
+          "link": "https://pypi.org/project/universal-ai-watermark-remover/",
           "date": "14 Aug 2026",
-          "summary": "Read-only CLI + library for the HCMUT myBK portal: transcript, GPA, curriculum (CTĐT), timetable, exam schedule, and a next-semester course planner with tuition estimates"
+          "summary": "Universal AI watermark remover, deep neural inpainter, and provenance metadata scrubber by White Way Web."
         },
         {
-          "title": "midas-tomo added to PyPI",
-          "link": "https://pypi.org/project/midas-tomo/",
+          "title": "easy-why added to PyPI",
+          "link": "https://pypi.org/project/easy-why/",
           "date": "14 Aug 2026",
-          "summary": "Gridrec filtered back-projection CT reconstruction (CPU + CUDA) with a NumPy API"
+          "summary": "Easy Why"
         },
         {
-          "title": "baalebos-ai added to PyPI",
-          "link": "https://pypi.org/project/baalebos-ai/",
+          "title": "fileformats-vendor-neuroscan added to PyPI",
+          "link": "https://pypi.org/project/fileformats-vendor-neuroscan/",
           "date": "14 Aug 2026",
-          "summary": "Official Python client and terminal CLI for the Baalebos AI Gateway"
+          "summary": "Classes for representing different file formats in Python classes for use in type hinting in data workflows"
         },
         {
-          "title": "cleanzip added to PyPI",
-          "link": "https://pypi.org/project/cleanzip/",
+          "title": "py-aocl-spsolve added to PyPI",
+          "link": "https://pypi.org/project/py-aocl-spsolve/",
           "date": "14 Aug 2026",
-          "summary": "ZIP a project while respecting .gitignore — no Git required."
+          "summary": "ctypes wrapper around AMD's AOCL-Sparse, with a PyPardiso-like scipy.sparse.linalg.spsolve drop-in"
         },
         {
-          "title": "releaseguard added to PyPI",
-          "link": "https://pypi.org/project/releaseguard/",
+          "title": "agentic-architecture-kit added to PyPI",
+          "link": "https://pypi.org/project/agentic-architecture-kit/",
           "date": "14 Aug 2026",
-          "summary": "Language-agnostic pre-production release safety gate for mobile/app codebases"
+          "summary": "Executable architecture governance for autonomous coding agents"
         },
         {
-          "title": "pdfxz added to PyPI",
-          "link": "https://pypi.org/project/pdfxz/",
+          "title": "okflib added to PyPI",
+          "link": "https://pypi.org/project/okflib/",
           "date": "14 Aug 2026",
-          "summary": "A terminal UI and CLI for compressing PDF files with Ghostscript."
+          "summary": "Store, query, and generate knowledge in the Open Knowledge Format (OKF) — markdown bundles with YAML frontmatter, trust signals, CLI, and LLM ingestion."
         },
         {
-          "title": "gbdocs-mcp added to PyPI",
-          "link": "https://pypi.org/project/gbdocs-mcp/",
+          "title": "torchinstruments added to PyPI",
+          "link": "https://pypi.org/project/torchinstruments/",
           "date": "14 Aug 2026",
-          "summary": "MCP server exposing the Game Boy Pan Docs as structured, citable lookups for decompilation work"
+          "summary": "Passive, trainer-agnostic telemetry for PyTorch models"
         },
         {
-          "title": "omen-tools added to PyPI",
-          "link": "https://pypi.org/project/omen-tools/",
+          "title": "index-tts-2.5-mlx added to PyPI",
+          "link": "https://pypi.org/project/index-tts-2-5-mlx/",
           "date": "14 Aug 2026",
-          "summary": "Blocks a firmware flash until an adversarial review of the change exists, using your parsed schematic as ground truth."
+          "summary": "IndexTTS-2.5 voice cloning on Apple Silicon: MLX int8, torch-free, one-click uvx"
         },
         {
-          "title": "ionsec-trace added to PyPI",
-          "link": "https://pypi.org/project/ionsec-trace/",
+          "title": "django-stravakit added to PyPI",
+          "link": "https://pypi.org/project/django-stravakit/",
           "date": "14 Aug 2026",
-          "summary": "IONSEC TRACE — Tool for Reconnaissance of AI & Compute Evidence"
+          "summary": "Reusable Django app for Strava API integration"
         },
         {
-          "title": "lazpy added to PyPI",
-          "link": "https://pypi.org/project/lazpy/",
+          "title": "relayhub added to PyPI",
+          "link": "https://pypi.org/project/relayhub/",
           "date": "14 Aug 2026",
-          "summary": "A reader for LAS and LAZ point clouds"
+          "summary": "Official Python SDK for the RelayHub webhook and event delivery API."
         },
         {
-          "title": "mango-disease-ai added to PyPI",
-          "link": "https://pypi.org/project/mango-disease-ai/",
+          "title": "scvelo-modern added to PyPI",
+          "link": "https://pypi.org/project/scvelo-modern/",
           "date": "14 Aug 2026",
-          "summary": "AI-powered Amropali mango disease detection: classify 7 diseases, generate Grad-CAM heatmaps, and produce PDF reports."
+          "summary": "A minimally maintained scVelo distribution with modern NumPy compatibility"
         },
         {
-          "title": "linear-algebra-visualizer added to PyPI",
-          "link": "https://pypi.org/project/linear-algebra-visualizer/",
+          "title": "ionosphere-fdtd added to PyPI",
+          "link": "https://pypi.org/project/ionosphere-fdtd/",
           "date": "14 Aug 2026",
-          "summary": "Educational NumPy and Matplotlib visualizations for linear algebra."
+          "summary": "NumPy and PyTorch geodesic FDTD model of the Earth-ionosphere waveguide"
         },
         {
-          "title": "scrapeunblocker-cloud added to PyPI",
-          "link": "https://pypi.org/project/scrapeunblocker-cloud/",
+          "title": "Zala-STT added to PyPI",
+          "link": "https://pypi.org/project/zala-stt/",
           "date": "14 Aug 2026",
-          "summary": "Official Python client and CLI for ScrapeUnblocker Cloud - deploy, run, schedule and pull data from Scrapy spiders hosted on ScrapeUnblocker Cloud. Traffic goes through ScrapeUnblocker by default, so spiders that get blocked elsewhere run here with no proxy or…"
+          "summary": "Speech to text package created by Meetrajsinh Zala"
         }
       ]
     }
