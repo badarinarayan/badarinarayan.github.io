@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-14T21:16:50Z",
+  "generated": "2026-08-14T22:13:38Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -196,8 +196,14 @@
       "ok": true,
       "items": [
         {
-          "title": "‘First Islamic republic with nuclear weapons’: Netanyahu’s sharp rebuke of UK",
+          "title": "Trump claims he will soon declare Strait of Hormuz a US territory; Iran hits back",
           "link": "https://timesofindia.indiatimes.com/world/middle-east/first-islamic-republic-with-nuclear-weapons-netanyahus-sharp-rebuke-of-uk/articleshow/133251347.cms",
+          "date": "15 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "‘Pretty soon’: Trump vows to claim Hormuz as US territory; Iran hits back",
+          "link": "https://timesofindia.indiatimes.com/world/us/pretty-soon-trump-vows-to-claim-hormuz-as-us-territory-iran-hits-back/articleshow/133251741.cms",
           "date": "15 Aug 2026",
           "summary": ""
         },
@@ -208,22 +214,16 @@
           "summary": "From his South Africa years to the freedom struggle, Mahatma Gandhi repeatedly used newspapers to address India’s public. Alok Sharma sifts through letters Gandhi wrote to TOI, illuminating his positions on Satyagraha, the Rowlatt Act, Dalit representation, Hi…"
         },
         {
-          "title": "'Our blood has been sucked': J&amp;K CM Omar hits back at Pak PM Shehbaz over IWT",
-          "link": "https://timesofindia.indiatimes.com/india/in-response-to-pak-pm-sharif-jk-cm-omar-says-iwt-sucked-our-blood-calls-for-its-cancellation/articleshow/133250554.cms",
-          "date": "15 Aug 2026",
-          "summary": ""
-        },
-        {
           "title": "Four losses already, nine Tests left: What India need to do to reach WTC final?",
           "link": "https://timesofindia.indiatimes.com/sports/cricket/news/four-losses-already-nine-tests-left-what-shubman-gills-india-need-to-do-to-reach-wtc-final/articleshow/133242824.cms",
           "date": "14 Aug 2026",
           "summary": "\"The main goal is to play the WTC final, which is next year. And we have got about nine Tests and I think we have to win around six or seven to be able to have a good chance at qualifying. So in terms of that, I think it's a very important series for us,\" Indi…"
         },
         {
-          "title": "‘This house is mine’: Bengaluru couple’s fight ends in wife’s murder, man’s suicide",
-          "link": "https://timesofindia.indiatimes.com/city/bengaluru/this-house-is-mine-bengaluru-couples-fight-ends-in-wifes-murder-mans-suicide/articleshow/133248256.cms",
-          "date": "14 Aug 2026",
-          "summary": "A Bengaluru couple was discovered deceased in their rented home early Thursday morning. The husband, Sumant Jain, reportedly sent a chilling voice message to his mother. He mentioned an argument with his wife, Padmavathi, before his death. Padmavathi's family…"
+          "title": "'Our blood has been sucked': J&amp;K CM Omar hits back at Pak PM Shehbaz over IWT",
+          "link": "https://timesofindia.indiatimes.com/india/in-response-to-pak-pm-sharif-jk-cm-omar-says-iwt-sucked-our-blood-calls-for-its-cancellation/articleshow/133250554.cms",
+          "date": "15 Aug 2026",
+          "summary": ""
         },
         {
           "title": "MacKenzie Scott helped abolish $40B in medical debt; how mechanics work",
@@ -238,6 +238,48 @@
           "summary": "With the 80th Independence Day on the horizon, India stands poised for a time of reflection and celebration of its rich heritage. With these wishes and messages, it’s a chance to unite, reaffirm our commitment to progress, and cherish the liberty that was earn…"
         },
         {
+          "title": "‘This house is mine’: Bengaluru couple’s fight ends in wife’s murder, man’s suicide",
+          "link": "https://timesofindia.indiatimes.com/city/bengaluru/this-house-is-mine-bengaluru-couples-fight-ends-in-wifes-murder-mans-suicide/articleshow/133248256.cms",
+          "date": "14 Aug 2026",
+          "summary": "A Bengaluru couple was discovered deceased in their rented home early Thursday morning. The husband, Sumant Jain, reportedly sent a chilling voice message to his mother. He mentioned an argument with his wife, Padmavathi, before his death. Padmavathi's family…"
+        },
+        {
+          "title": "Karnataka BJP MLA’s daughter allegedly slaps woman SI at Mandya temple; probe on",
+          "link": "https://timesofindia.indiatimes.com/city/mysuru/mlas-daughter-allegedly-slaps-woman-si-at-mandya-temple-probe-on/articleshow/133251234.cms",
+          "date": "15 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Oracle prepares fresh layoffs before September 1, asks managers to name who goes",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-as-oracle-leadership-prepares-to-send-6am-layoff-email-on-september-1-company-asks-managers-to-give-a-list-of/articleshow/133235370.cms",
+          "date": "14 Aug 2026",
+          "summary": "Oracle is planning fresh layoffs this month, with managers reportedly asked to identify employees whose roles will go before its second fiscal quarter opens on September 1. Some teams face double-digit percentage cuts. The move follows a year in which Oracle e…"
+        },
+        {
+          "title": "UP: Man killed by wife, daughter over inter-caste relationship dispute",
+          "link": "https://timesofindia.indiatimes.com/city/lucknow/man-killed-by-wife-daughter-over-inter-caste-relationship-dispute/articleshow/133251261.cms",
+          "date": "15 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Meet Bianca Adler, 18, who turned back near Everest summit then made history",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/meet-bianca-adler-the-18-year-old-from-melbourne-who-turned-back-400-metres-from-everests-summit-then-returned-a-year-later-and-made-history/articleshow/133236766.cms",
+          "date": "14 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Indian-origin man rejected for H-1B 3 times finds another way to stay in US",
+          "link": "https://timesofindia.indiatimes.com/world/us/indian-origin-man-rejected-for-h-1b-visa-three-times-compiled-700-pages-of-evidence-and-spent-13000-to-secure-another-way-to-stay-in-us/articleshow/133232380.cms",
+          "date": "14 Aug 2026",
+          "summary": "Sohan Sethi faced multiple H-1B visa rejections after arriving in the United States. He then pursued an O-1 visa, requiring extensive documentation and lawyer fees. Sethi demonstrated extraordinary ability through achievements and industry recognition to secur…"
+        },
+        {
+          "title": "Zohran Mamdani’s ‘common sense regulation’ may push Amazon to move NYC deliveries",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/new-york-city-mayor-zohran-mamdanis-common-sense-regulation-may-make-unhappy-amazon-move-its-delivery-operations-outside-the-city/articleshow/133238408.cms",
+          "date": "14 Aug 2026",
+          "summary": "In a bold move, New York City Mayor Zohran Mamdani has shown support for a groundbreaking bill that mandates direct employment for delivery drivers, aiming to eliminate subcontracting and bolster the rights of workers. However, Amazon has raised concerns, indi…"
+        },
+        {
           "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
           "link": "https://timesofindia.indiatimes.com/world/uk/jason-arday-ex-cambridge-professor-at-centre-of-plagiarism-row-found-dead/articleshow/133251434.cms",
           "date": "15 Aug 2026",
@@ -250,50 +292,8 @@
           "summary": ""
         },
         {
-          "title": "Oracle prepares fresh layoffs before September 1, asks managers to name who goes",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-as-oracle-leadership-prepares-to-send-6am-layoff-email-on-september-1-company-asks-managers-to-give-a-list-of/articleshow/133235370.cms",
-          "date": "14 Aug 2026",
-          "summary": "Oracle is planning fresh layoffs this month, with managers reportedly asked to identify employees whose roles will go before its second fiscal quarter opens on September 1. Some teams face double-digit percentage cuts. The move follows a year in which Oracle e…"
-        },
-        {
           "title": "Be mindful of strong India-Italy ties, says MEA after Rahul's jibe at Modi &amp; Meloni",
           "link": "https://timesofindia.indiatimes.com/india/be-mindful-of-strong-india-italy-ties-says-mea-after-rahuls-jibe-at-modi-meloni/articleshow/133251455.cms",
-          "date": "15 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Ohio family restores 60 acres of abandoned mine land with native trees",
-          "link": "https://timesofindia.indiatimes.com/world/us/in-2021-an-ohio-family-set-out-to-restore-60-acres-of-abandoned-mine-land-five-years-later-native-trees-are-bringing-it-back-to-life/articleshow/133230415.cms",
-          "date": "14 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "NJ took seaside property in 1962 via eminent domain, family awarded $350,000",
-          "link": "https://timesofindia.indiatimes.com/world/us/in-1962-new-jersey-took-a-familys-seaside-property-through-eminent-domain-for-a-new-park-they-challenged-the-price-and-were-awarded-350000/articleshow/133220258.cms",
-          "date": "13 Aug 2026",
-          "summary": "Exploring vintage postcards reveals a fascinating glimpse into coastal life in early New Jersey. Historian John Joseph Patrick Mulhern recounted his experiences on Sandy Hook, describing the thrilling days of tracking ships and conducting groundbreaking radio…"
-        },
-        {
-          "title": "Zohran Mamdani’s ‘common sense regulation’ may push Amazon to move NYC deliveries",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/new-york-city-mayor-zohran-mamdanis-common-sense-regulation-may-make-unhappy-amazon-move-its-delivery-operations-outside-the-city/articleshow/133238408.cms",
-          "date": "14 Aug 2026",
-          "summary": "In a bold move, New York City Mayor Zohran Mamdani has shown support for a groundbreaking bill that mandates direct employment for delivery drivers, aiming to eliminate subcontracting and bolster the rights of workers. However, Amazon has raised concerns, indi…"
-        },
-        {
-          "title": "'Like coming home': German Ambassador Jasper Wieck recalls 35-year India journey",
-          "link": "https://timesofindia.indiatimes.com/life-style/travel/destinations/german-ambassador-jasper-wieck-revisits-his-india-journey-through-old-delhi-agra-and-beyond-from-35-years-ago-for-me-coming-to-india-is-like-coming-home/articleshow/133236751.cms",
-          "date": "14 Aug 2026",
-          "summary": "German Ambassador Jasper Wieck reflects on his long-standing friendship with India, illustrated through personal photographs from trips he embarked on nearly thirty-five years ago. These snapshots highlight a simpler era, capturing the essence of India’s monum…"
-        },
-        {
-          "title": "Public exams to become more transparent, secure and trustworthy: President Murmu",
-          "link": "https://timesofindia.indiatimes.com/india/public-exams-to-become-more-transparent-secure-and-trustworthy-president-murmu/articleshow/133251351.cms",
-          "date": "15 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "‘Imagine the audacity’: Mahua Moitra alleges late-night eviction bid from Circuit House",
-          "link": "https://timesofindia.indiatimes.com/india/imagine-the-audacity-mahua-moitra-alleges-late-night-eviction-bid-from-circuit-house/articleshow/133250438.cms",
           "date": "15 Aug 2026",
           "summary": ""
         },
@@ -314,6 +314,24 @@
           "link": "https://timesofindia.indiatimes.com/sports/esports/minecraft/whats-new-in-minecraft-third-drop-2026-features-and-more-details/articleshow/133248486.cms",
           "date": "14 Aug 2026",
           "summary": "In the 2026 Third Drop update of Minecraft, players will be thrilled to explore a captivating new dappled forest biome. Discover abandoned camps filled with loot and exploration maps, while new furniture blocks like wool cushions and straw beds enable enhanced…"
+        },
+        {
+          "title": "'Like coming home': German Ambassador Jasper Wieck recalls 35-year India journey",
+          "link": "https://timesofindia.indiatimes.com/life-style/travel/destinations/german-ambassador-jasper-wieck-revisits-his-india-journey-through-old-delhi-agra-and-beyond-from-35-years-ago-for-me-coming-to-india-is-like-coming-home/articleshow/133236751.cms",
+          "date": "14 Aug 2026",
+          "summary": "German Ambassador Jasper Wieck reflects on his long-standing friendship with India, illustrated through personal photographs from trips he embarked on nearly thirty-five years ago. These snapshots highlight a simpler era, capturing the essence of India’s monum…"
+        },
+        {
+          "title": "Public exams to become more transparent, secure and trustworthy: President Murmu",
+          "link": "https://timesofindia.indiatimes.com/india/public-exams-to-become-more-transparent-secure-and-trustworthy-president-murmu/articleshow/133251351.cms",
+          "date": "15 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "‘Imagine the audacity’: Mahua Moitra alleges late-night eviction bid from Circuit House",
+          "link": "https://timesofindia.indiatimes.com/india/imagine-the-audacity-mahua-moitra-alleges-late-night-eviction-bid-from-circuit-house/articleshow/133250438.cms",
+          "date": "15 Aug 2026",
+          "summary": ""
         },
         {
           "title": "'India can take risks, hit hard': NSA says message to world clear after Op Sindoor",
@@ -356,24 +374,6 @@
           "link": "https://timesofindia.indiatimes.com/world/us/i-shot-him-luigi-mangione-pleads-guilty-to-killing-united-healthcare-ceo-sentencing-on-dec-18/articleshow/133247371.cms",
           "date": "14 Aug 2026",
           "summary": "Luigi Mangione has confessed to the fatal shooting of UnitedHealthcare CEO Brian Thompson in Manhattan. He has entered a guilty plea for federal stalking charges in connection to the incident. This plea addresses one of two criminal cases targeting Mangione, w…"
-        },
-        {
-          "title": "Marcus Aurelius' quote on how perception shapes what we hear and see",
-          "link": "https://timesofindia.indiatimes.com/life-style/books/features/quote-of-the-day-by-marcus-aurelius-everything-we-hear-is-an-opinion-not-a-fact-everything-we-see-is-a-/articleshow/133246739.cms",
-          "date": "14 Aug 2026",
-          "summary": "Marcus Aurelius, the philosopher-king of Rome, turned to Stoicism as a means to master the trials of existence. He championed the ability to control one's own reactions, urging acceptance of circumstances beyond personal control. His focus on virtue over fleet…"
-        },
-        {
-          "title": "LS panel sends notice to Rahul over 'unparliamentary' remarks against Shah",
-          "link": "https://timesofindia.indiatimes.com/india/lok-sabha-panel-seeks-rahul-gandhis-response-on-privilege-notices-over-remarks-against-amit-shah/articleshow/133248206.cms",
-          "date": "14 Aug 2026",
-          "summary": "Rahul Gandhi has been served a Lok Sabha notice regarding privilege complaints raised by BJP MPs Anurag Thakur and Sanjay Jaiswal. The complaints accuse Gandhi of using inappropriate and disrespectful language towards Amit Shah. He is required to submit a resp…"
-        },
-        {
-          "title": "Brunei Sultan strips daughter-in-law of royal title over 'unbecoming conduct'",
-          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/sultan-hassanal-bolkiah-of-brunei-strips-daughter-in-law-pengiran-raabiatul-adawiyyah-of-royal-title-over-unbecoming-conduct-no-divorce-yet-announced-from-prince-abdul-malik/articleshow/133246472.cms",
-          "date": "14 Aug 2026",
-          "summary": "Sultan Hassanal Bolkiah of Brunei has stripped daughter-in-law Pengiran Raabi’atul Adawiyyah of her royal title over conduct deemed “unbecoming” of a royal spouse. The palace said her actions tarnished the monarchy’s reputation and showed disrespect towards th…"
         }
       ]
     },
@@ -760,6 +760,12 @@
       "ok": true,
       "items": [
         {
+          "title": "Anthropic announces watermark detection API that will let third parties detect Claude's AI texts",
+          "link": "https://the-decoder.com/anthropic-announces-watermark-detection-api-that-will-let-third-parties-detect-claudes-ai-texts/",
+          "date": "14 Aug 2026",
+          "summary": "Anthropic will soon offer a watermark detection API that lets third parties check whether text was written by Claude. The technology builds on Google's SynthID method and tweaks the randomness during word selection without affecting text quality, Anthropic say…"
+        },
+        {
           "title": "Alibaba's Qwen team releases Qwen 3.8 models with open weights under the Apache 2.0 license",
           "link": "https://the-decoder.com/alibabas-qwen-team-releases-qwen-3-8-models-with-open-weights-under-the-apache-2-0-license/",
           "date": "14 Aug 2026",
@@ -812,12 +818,6 @@
           "link": "https://the-decoder.com/deepseek-launches-an-improved-v4-pro-model-raises-api-prices-and-makes-its-agent-software-open-source/",
           "date": "13 Aug 2026",
           "summary": "Deepseek has moved its flagship V4-Pro out of the testing phase and released its agent software, Harness v0.1, under the MIT license. API prices are going up at the same time, with cache hits jumping to six times their current cost. For agent workflows that re…"
-        },
-        {
-          "title": "Ling 3.0 Flash is the smartest open model at its size",
-          "link": "https://the-decoder.com/ling-3-0-flash-is-the-smartest-open-model-at-its-size/",
-          "date": "13 Aug 2026",
-          "summary": "Ling 3.0 Flash is the smartest open model in its size class. The article Ling 3.0 Flash is the smartest open model at its size appeared first on The Decoder ."
         }
       ]
     },
@@ -1502,6 +1502,12 @@
       "ok": true,
       "items": [
         {
+          "title": "Linux Mint Shares a Possible Kernel Cleanup Solution",
+          "link": "http://www.linux-magazine.com/Online/News/Linux-Mint-Shares-a-Possible-Kernel-Cleanup-Solution",
+          "date": "14 Aug 2026",
+          "summary": "For those on Linux Mint who like to keep multiple kernels around but don't want them to take up too much space, you might be getting a new automated tool."
+        },
+        {
           "title": "CachyOS Gets an Update",
           "link": "http://www.linux-magazine.com/Online/News/CachyOS-Gets-an-Update",
           "date": "14 Aug 2026",
@@ -1614,12 +1620,6 @@
           "link": "http://www.linux-magazine.com/Online/News/EU-Open-Source-Strategy-Plays-Key-Role-in-Tech-Sovereignty-Package",
           "date": "12 Jun 2026",
           "summary": "Comprehensive measures adopted by the European Commission aim to reduce dependency on non-EU countries."
-        },
-        {
-          "title": "Linux Foundation Report Indicates AI Driving Tech Hiring",
-          "link": "http://www.linux-magazine.com/Online/News/Linux-Foundation-Report-Indicates-AI-Driving-Tech-Hiring",
-          "date": "10 Jun 2026",
-          "summary": "Within growing security and skills gaps, AI has been found to be a positive driving force behind tech hiring trends in Europe."
         }
       ]
     },
@@ -1630,184 +1630,184 @@
       "ok": true,
       "items": [
         {
-          "title": "ptl-266-temp added to PyPI",
-          "link": "https://pypi.org/project/ptl-266-temp/",
+          "title": "fontpkg-jetbrains-mono added to PyPI",
+          "link": "https://pypi.org/project/fontpkg-jetbrains-mono/",
           "date": "14 Aug 2026",
-          "summary": "Unofficial temporary build of Lightning 2.6.6 from upstream master"
+          "summary": "JetBrains Mono font family, packaged for Python by fontpkg"
         },
         {
-          "title": "roiapp added to PyPI",
-          "link": "https://pypi.org/project/roiapp/",
+          "title": "newertag added to PyPI",
+          "link": "https://pypi.org/project/newertag/",
           "date": "14 Aug 2026",
-          "summary": "Python port of the MATLAB 2P-imaging ROI selector GUI (app2.mlapp), bundled with movieslider (Python port of the MovieSlider playback/scrubbing widget, used by the 'Play Movie' button)"
+          "summary": "Check running container images for newer stable tags"
         },
         {
-          "title": "fastpluggy-track-page added to PyPI",
-          "link": "https://pypi.org/project/fastpluggy-track-page/",
+          "title": "graphspot added to PyPI",
+          "link": "https://pypi.org/project/graphspot/",
           "date": "14 Aug 2026",
-          "summary": "Placeholder to reserve this name — not the real package."
+          "summary": "Inductive graph anomaly detection with honest baselines. Scores nodes and edges it has never seen, installs without torch."
         },
         {
-          "title": "sophistry added to PyPI",
-          "link": "https://pypi.org/project/sophistry/",
+          "title": "m1-m2-agent added to PyPI",
+          "link": "https://pypi.org/project/m1-m2-agent/",
           "date": "14 Aug 2026",
-          "summary": "Add your description here"
+          "summary": "Cost-Aware Hierarchical Coding Agent & Context Firewall — Universal MCP Server, CLI, and Python SDK"
         },
         {
-          "title": "codey-review added to PyPI",
-          "link": "https://pypi.org/project/codey-review/",
+          "title": "pdfglyph added to PyPI",
+          "link": "https://pypi.org/project/pdfglyph/",
           "date": "14 Aug 2026",
-          "summary": "Production-grade multi-agent AI code review system"
+          "summary": "Official Python client for the PDFGlyph API — render HTML and CSS to pixel-perfect PDFs with one API call."
         },
         {
-          "title": "velox-spark added to PyPI",
-          "link": "https://pypi.org/project/velox-spark/",
+          "title": "filenorm added to PyPI",
+          "link": "https://pypi.org/project/filenorm/",
           "date": "14 Aug 2026",
-          "summary": "Apache Spark with the Gluten/Velox native engine, preconfigured. pip install and go."
+          "summary": "A simple utility to normalize file names"
         },
         {
-          "title": "nightsitter added to PyPI",
-          "link": "https://pypi.org/project/nightsitter/",
+          "title": "mlx-guard added to PyPI",
+          "link": "https://pypi.org/project/mlx-guard/",
           "date": "14 Aug 2026",
-          "summary": "Stop babysitting your AI agents — a night-shift watchdog for unattended agents (Claude Code, cron jobs, anything)."
+          "summary": "External runtime safety supervision for MLX workloads on Apple Silicon"
         },
         {
-          "title": "eventlog-pro added to PyPI",
-          "link": "https://pypi.org/project/eventlog-pro/",
+          "title": "sphinx-vitepress added to PyPI",
+          "link": "https://pypi.org/project/sphinx-vitepress/",
           "date": "14 Aug 2026",
-          "summary": "A tiny, dependency-free structured event log — pure Python (SQLite/PostgreSQL/MySQL/JSONL) or Django, one API, one table shape."
+          "summary": "A Sphinx builder that renders your documentation with VitePress."
         },
         {
-          "title": "battest added to PyPI",
-          "link": "https://pypi.org/project/battest/",
+          "title": "picx-sdk added to PyPI",
+          "link": "https://pypi.org/project/picx-sdk/",
           "date": "14 Aug 2026",
-          "summary": "battest is a runtime test runner for Windows batch files. It executes real cmd.exe scripts and asserts on exit codes, output, environment, and filesystem side effects."
+          "summary": "Official Python SDK for the PicX image and video generation API."
         },
         {
-          "title": "gestaltdb added to PyPI",
-          "link": "https://pypi.org/project/gestaltdb/",
+          "title": "indemnipy-ai added to PyPI",
+          "link": "https://pypi.org/project/indemnipy-ai/",
           "date": "14 Aug 2026",
-          "summary": "A pure Python GraphDB for attributed graphs."
+          "summary": "pydantic-ai capabilities for working with Excel files"
         },
         {
-          "title": "sae-neuropeptide-predictor added to PyPI",
-          "link": "https://pypi.org/project/sae-neuropeptide-predictor/",
+          "title": "comfy-preflight added to PyPI",
+          "link": "https://pypi.org/project/comfy-preflight/",
           "date": "14 Aug 2026",
-          "summary": "Predict neuropeptide precursors from protein sequences using InterPLM sparse-autoencoder features from ESM2."
+          "summary": "A gate that runs on a ComfyUI workflow graph in the seconds before submission, and halts a submission that would spend credits producing a known-wrong result."
         },
         {
-          "title": "armnet-busybox added to PyPI",
-          "link": "https://pypi.org/project/armnet-busybox/",
+          "title": "llmapi-tracker added to PyPI",
+          "link": "https://pypi.org/project/llmapi-tracker/",
           "date": "14 Aug 2026",
-          "summary": "BusyBox instrumented-task-box environment for armnet: live state, semantic decoding, goal-state success checks and automated scene resets."
+          "summary": "Local-first API usage and cost tracking platform"
         },
         {
-          "title": "spaday-regular-table added to PyPI",
-          "link": "https://pypi.org/project/spaday-regular-table/",
+          "title": "polymath-physics added to PyPI",
+          "link": "https://pypi.org/project/polymath-physics/",
           "date": "14 Aug 2026",
-          "summary": "spaday-regular-table"
+          "summary": "A world-class polymorphic physics and calculus engine backed by Triton and SymPy."
         },
         {
-          "title": "spaday-regular-layout added to PyPI",
-          "link": "https://pypi.org/project/spaday-regular-layout/",
+          "title": "datacleaner-lite added to PyPI",
+          "link": "https://pypi.org/project/datacleaner-lite/",
           "date": "14 Aug 2026",
-          "summary": "spaday-regular-layout"
+          "summary": "Utilities for cleaning and reporting CSV datasets."
         },
         {
-          "title": "castlebyaryan added to PyPI",
-          "link": "https://pypi.org/project/castlebyaryan/",
+          "title": "danvas-cli added to PyPI",
+          "link": "https://pypi.org/project/danvas-cli/",
           "date": "14 Aug 2026",
-          "summary": "Python utility library by Aryan"
+          "summary": "Safety-focused command-line tools for day-to-day Canvas course operations"
         },
         {
-          "title": "merlina added to PyPI",
-          "link": "https://pypi.org/project/merlina/",
+          "title": "baselines-rs added to PyPI",
+          "link": "https://pypi.org/project/baselines-rs/",
           "date": "14 Aug 2026",
-          "summary": "Magical LLM fine-tuning with a delightful web interface - ORPO, DPO, SimPO, CPO, IPO, KTO, SFT, VLM and diffusion training"
+          "summary": "Fast baseline correction for signals and surfaces, powered by Rust"
         },
         {
-          "title": "vercel-workflow added to PyPI",
-          "link": "https://pypi.org/project/vercel-workflow/",
+          "title": "onesms added to PyPI",
+          "link": "https://pypi.org/project/onesms/",
           "date": "14 Aug 2026",
-          "summary": "Python SDK for Vercel Workflows"
+          "summary": "Python client for the 1sms.az SMS API"
         },
         {
-          "title": "mlx-minimax-music3 added to PyPI",
-          "link": "https://pypi.org/project/mlx-minimax-music3/",
+          "title": "fastapi-typed-state added to PyPI",
+          "link": "https://pypi.org/project/fastapi-typed-state/",
           "date": "14 Aug 2026",
-          "summary": "Pure MLX inference for MiniMax Music 3 on Apple Silicon."
+          "summary": "Type-safe application state for FastAPI"
         },
         {
-          "title": "ora2pg-gap-report added to PyPI",
-          "link": "https://pypi.org/project/ora2pg-gap-report/",
+          "title": "django-controlled-vocabularies added to PyPI",
+          "link": "https://pypi.org/project/django-controlled-vocabularies/",
           "date": "14 Aug 2026",
-          "summary": "Сканер Oracle-схемы, дополняющий ora2pg: находит объекты, которые он не перенесёт или перенесёт некорректно, до начала миграции на Postgres Pro."
+          "summary": "Manage, publish, and consume SKOS controlled vocabularies in Django"
         },
         {
-          "title": "fontpkg added to PyPI",
-          "link": "https://pypi.org/project/fontpkg/",
+          "title": "amphib added to PyPI",
+          "link": "https://pypi.org/project/amphib/",
           "date": "14 Aug 2026",
-          "summary": "Fonts as Python project dependencies — a Fontsource analog for PyPI"
+          "summary": "Next-gen ASGI Framework"
         },
         {
-          "title": "parakeet-index-core added to PyPI",
-          "link": "https://pypi.org/project/parakeet-index-core/",
+          "title": "labeltastic added to PyPI",
+          "link": "https://pypi.org/project/labeltastic/",
           "date": "14 Aug 2026",
-          "summary": "Unleash smart AI applications."
+          "summary": "Meshtastic contact-QR nametag kiosk for Niimbot label printers: DM a node over the mesh, get a printed badge with a shared-contact QR."
         },
         {
-          "title": "hoymiles-g3-modbus-tcp added to PyPI",
-          "link": "https://pypi.org/project/hoymiles-g3-modbus-tcp/",
+          "title": "open-agent-profile added to PyPI",
+          "link": "https://pypi.org/project/open-agent-profile/",
           "date": "14 Aug 2026",
-          "summary": "Async read/decode of Hoymiles G3 hybrid inverter live telemetry over Modbus TCP"
+          "summary": "Reference validator and applicator for the Open Agent Profile (OAP) specification"
         },
         {
-          "title": "localredact added to PyPI",
-          "link": "https://pypi.org/project/localredact/",
+          "title": "3SAlgorythm added to PyPI",
+          "link": "https://pypi.org/project/3salgorythm/",
           "date": "14 Aug 2026",
-          "summary": "Private, local PDF redaction driven by plain-English instructions"
+          "summary": "Batch-diversity strategies for Bayesian optimization — when naive top-k selection redundantly clusters a batch, and what to do about it."
         },
         {
-          "title": "pgsync-clickhouse added to PyPI",
-          "link": "https://pypi.org/project/pgsync-clickhouse/",
+          "title": "rl-envdoctor added to PyPI",
+          "link": "https://pypi.org/project/rl-envdoctor/",
           "date": "14 Aug 2026",
-          "summary": "Real-time Postgres -> ClickHouse sink for PGSync (mirror mode; denormalized mode via pgsync-clickhouse-pro)"
+          "summary": "Adversarial QA for LLM-RL environments: find the reward an empty answer earns."
         },
         {
-          "title": "tplink-admin-cli added to PyPI",
-          "link": "https://pypi.org/project/tplink-admin-cli/",
+          "title": "mongosense added to PyPI",
+          "link": "https://pypi.org/project/mongosense/",
           "date": "14 Aug 2026",
-          "summary": "Small CLI for managing a local TP-Link router admin page."
+          "summary": "Natural language querying for MongoDB — schema-aware, safety-gated MQL generation."
         },
         {
-          "title": "agux added to PyPI",
-          "link": "https://pypi.org/project/agux/",
+          "title": "matchplan added to PyPI",
+          "link": "https://pypi.org/project/matchplan/",
           "date": "14 Aug 2026",
-          "summary": "Agent experience (AgUX) toolkit for agentic coding — under active development, first release soon"
+          "summary": "Choose how to match records: a run plan, what may be claimed, and repairs if the setup is dirty."
         },
         {
-          "title": "badmidi added to PyPI",
-          "link": "https://pypi.org/project/badmidi/",
+          "title": "semantiql added to PyPI",
+          "link": "https://pypi.org/project/semantiql/",
           "date": "14 Aug 2026",
-          "summary": "Bad MIDI"
+          "summary": "A semantic layer that lets AI query your database accurately."
         },
         {
-          "title": "semlf added to PyPI",
-          "link": "https://pypi.org/project/semlf/",
+          "title": "sonar-tracing added to PyPI",
+          "link": "https://pypi.org/project/sonar-tracing/",
           "date": "14 Aug 2026",
-          "summary": "A diff-aware prose guardrail: one-thought-per-line linefeeds in comments, docstrings, and Markdown"
+          "summary": "One-line OpenTelemetry tracing for AI agents, across frameworks."
         },
         {
-          "title": "robinsaige added to PyPI",
-          "link": "https://pypi.org/project/robinsaige/",
+          "title": "sonar-tracing-strands added to PyPI",
+          "link": "https://pypi.org/project/sonar-tracing-strands/",
           "date": "14 Aug 2026",
-          "summary": "Check the dependency rating of an MCP tool before your agent calls it. A thin, dependency-free client for the Robin Saige observatory."
+          "summary": "AWS Strands Agents adapter for sonar-tracing."
         },
         {
-          "title": "tepfeatures added to PyPI",
-          "link": "https://pypi.org/project/tepfeatures/",
+          "title": "engram-proxy added to PyPI",
+          "link": "https://pypi.org/project/engram-proxy/",
           "date": "14 Aug 2026",
-          "summary": "A Python library for extracting features from TMS-Evoked Potentials (TEPs) using EEG data."
+          "summary": "Transparent memory sidecar for local and cloud LLMs - ACT-R activation scoring, provenance-aware formation, ~90ms recall, one SQLite file"
         }
       ]
     }
