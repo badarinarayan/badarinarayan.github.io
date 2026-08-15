@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-15T18:15:50Z",
+  "generated": "2026-08-15T19:15:09Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -262,16 +262,16 @@
           "summary": "The government clarifies that the introduction of E20 petrol does not hinder vehicle mileage, emphasizing that actual fuel efficiency hinges on how drivers operate their vehicles and maintain them. Comprehensive assessments confirmed that E20 fuel is both dura…"
         },
         {
-          "title": "Commercial whaling killed 350,000 blue whales; the giants are slowly returning",
-          "link": "https://timesofindia.indiatimes.com/science/commercial-whaling-killed-350000-blue-whales-and-725000-fin-whales-more-than-40-years-later-the-giants-are-slowly-returning-to-the-southeast-atlantic/articleshow/133265716.cms",
+          "title": "Invasive carp make up 90% of Mississippi River fish die-off",
+          "link": "https://timesofindia.indiatimes.com/science/about-90-of-fish-found-dead-along-stretches-of-the-mississippi-river-were-invasive-silver-and-bighead-carp-while-native-species-are-handling-the-harsh-conditions-better/articleshow/133253265.cms",
           "date": "15 Aug 2026",
-          "summary": "After years of protection from whaling, whale populations are gradually reclaiming their ancestral habitats, with sightings of blue and fin whales showing remarkable growth since 2012. While these majestic creatures are bouncing back from the catastrophic effe…"
+          "summary": "Hundreds of dead fish have washed up along the Mississippi River in Missouri and Illinois, but wildlife officials say the die-off may benefit the ecosystem. About 90% of the fish found at one Missouri site were invasive silver and bighead carp. Warm temperatur…"
         },
         {
-          "title": "Couple loses dream home to bridge project 1 month after moving in",
-          "link": "https://timesofindia.indiatimes.com/world/us/a-cape-cod-couple-moved-into-their-newly-built-dream-home-in-march-2025-one-month-later-massachusetts-said-it-would-seize-it-for-a-new-bridge/articleshow/133251393.cms",
+          "title": "China installs 15,927 mirrors at world’s highest solar thermal plant",
+          "link": "https://timesofindia.indiatimes.com/world/china/china-completes-installation-of-15927-mirrors-concentrating-heat-at-1040-f-at-worlds-highest-solar-thermal-plant-will-power-50000-homes-while-saving-60000-tons-of-coal-annually/articleshow/133258203.cms",
           "date": "15 Aug 2026",
-          "summary": "In Massachusetts, a newly built residence was taken by state officials for a bridge project, much to the dismay of the Hendel couple who relocated there only a month prior. This eminent domain decision affects thirteen properties in Round Hill as the state pre…"
+          "summary": "China has proudly completed the construction of the world's tallest solar thermal power plant at an impressive altitude of over 15,000 feet. Known as the Tushuo facility, this 100 MW powerhouse utilizes mirrors to effectively concentrate solar energy onto molt…"
         },
         {
           "title": "OpenAI's S7 data centre drops plan to cool it with recycled water after permit snags",
@@ -1152,6 +1152,12 @@
       "ok": true,
       "items": [
         {
+          "title": "AI Fails to Deliver a 4-Day Work Week - Especially at AI Companies",
+          "link": "https://it.slashdot.org/story/26/08/15/079216/ai-fails-to-deliver-a-4-day-work-week---especially-at-ai-companies?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "15 Aug 2026",
+          "summary": "\"An engineering director at Google said four years ago that AI would deliver a four-day work week by 2025,\" remembers the BBC. And earlier this year OpenAI \"formally urged companies to start testing out a four-day work week (with no change in pay), claiming th…"
+        },
+        {
           "title": "It's Not Just RAM: Windows Licenses Are Also Pushing Up PC Prices",
           "link": "https://hardware.slashdot.org/story/26/08/15/0635210/its-not-just-ram-windows-licenses-are-also-pushing-up-pc-prices?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "15 Aug 2026",
@@ -1234,12 +1240,6 @@
           "link": "https://yro.slashdot.org/story/26/08/14/0952221/trump-slaps-a-100-tariff-on-heavy-and-sensitive-drones?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "14 Aug 2026",
           "summary": "President Trump has imposed tariffs of up to 100% on heavier and \"sensitive\" drones, including models over 55 pounds or equipped with docking stations or thermal imaging. \"Those include commercial models from DJI and others used for operations like power line…"
-        },
-        {
-          "title": "Apple Wants to Charge Developers Up to 15 Percent for Linking Outside the App Store",
-          "link": "https://news.slashdot.org/story/26/08/14/0947204/apple-wants-to-charge-developers-up-to-15-percent-for-linking-outside-the-app-store?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "14 Aug 2026",
-          "summary": "Apple is proposing to charge U.S. developers up to 15% when users leave an app through an external purchase link, with lower rates of 10% or 5% for certain programs and smaller developers. The proposal follows years of litigation with Epic Games and a contempt…"
         }
       ]
     },
@@ -1630,184 +1630,184 @@
       "ok": true,
       "items": [
         {
-          "title": "relarena added to PyPI",
-          "link": "https://pypi.org/project/relarena/",
+          "title": "pulseml added to PyPI",
+          "link": "https://pypi.org/project/pulseml/",
           "date": "15 Aug 2026",
-          "summary": "A unified, fair benchmarking framework for models on relational tasks on RelBench databases."
+          "summary": "A live ML training debugger - GUI or CLI, any backend (NumPy, PyTorch, TensorFlow, CuPy, JAX)."
         },
         {
-          "title": "sea-memory added to PyPI",
-          "link": "https://pypi.org/project/sea-memory/",
+          "title": "fastpluggy-website-builder added to PyPI",
+          "link": "https://pypi.org/project/fastpluggy-website-builder/",
           "date": "15 Aug 2026",
-          "summary": "self-evolving-agent CLI — local-first Markdown memory system (memory layering / distillation / skill management)"
+          "summary": "Placeholder to reserve this name — not the real package."
         },
         {
-          "title": "astro-fitted added to PyPI",
-          "link": "https://pypi.org/project/astro-fitted/",
+          "title": "pyrospeed added to PyPI",
+          "link": "https://pypi.org/project/pyrospeed/",
           "date": "15 Aug 2026",
-          "summary": "Fitting astrophysical transients with relativistic accretion disc models."
+          "summary": "High-performance async upload/download acceleration for Pyrogram-compatible Telegram clients"
         },
         {
-          "title": "bloomery added to PyPI",
-          "link": "https://pypi.org/project/bloomery/",
+          "title": "splent-feature-careers added to PyPI",
+          "link": "https://pypi.org/project/splent-feature-careers/",
           "date": "15 Aug 2026",
-          "summary": "Entity-first spec compiler: declarative entity/mapping/metric specs → SQLMesh, dbt, and Cube artifacts"
+          "summary": "None"
         },
         {
-          "title": "duplicate-null-remover-pushpendra added to PyPI",
-          "link": "https://pypi.org/project/duplicate-null-remover-pushpendra/",
+          "title": "odoo-addon-l10n-mx-cfdi-account-addenda-volkswagen added to PyPI",
+          "link": "https://pypi.org/project/odoo-addon-l10n-mx-cfdi-account-addenda-volkswagen/",
           "date": "15 Aug 2026",
-          "summary": "A simple helper package to clean pandas DataFrames"
+          "summary": "Mexican Localization Addendum For Volkswagen"
         },
         {
-          "title": "pdf-studio-py added to PyPI",
-          "link": "https://pypi.org/project/pdf-studio-py/",
+          "title": "edgemind added to PyPI",
+          "link": "https://pypi.org/project/edgemind/",
           "date": "15 Aug 2026",
-          "summary": "Three lines of code for a PDF with a table, a chart, and a header."
+          "summary": "Resource-Aware Agentic Coding Assistant for Local AI Software Engineering"
         },
         {
-          "title": "strbcrypt added to PyPI",
-          "link": "https://pypi.org/project/strbcrypt/",
+          "title": "numerx added to PyPI",
+          "link": "https://pypi.org/project/numerx/",
           "date": "15 Aug 2026",
-          "summary": "Codec library for hashing password inputs as string"
+          "summary": "Numerx es una bibloteca matemtica al estilo numpy basada en biblotecas antigiguas"
         },
         {
-          "title": "perforata added to PyPI",
-          "link": "https://pypi.org/project/perforata/",
+          "title": "bridgenode-skill added to PyPI",
+          "link": "https://pypi.org/project/bridgenode-skill/",
           "date": "15 Aug 2026",
-          "summary": "Parametric perforation pattern generator — node-graph engine with unified CLI and optional Streamlit UI"
+          "summary": "BridgeNode — AI inference without API keys. Pay per request with Solana USDC via x402 (alias for the bridgenode toolkit)."
         },
         {
-          "title": "relational-transformer added to PyPI",
-          "link": "https://pypi.org/project/relational-transformer/",
+          "title": "bridgenode-mcp added to PyPI",
+          "link": "https://pypi.org/project/bridgenode-mcp/",
           "date": "15 Aug 2026",
-          "summary": "Relational Transformer (RT): a foundation model for relational data, bundling a native Rust data-processing engine (rt.rustler)."
+          "summary": "BridgeNode — AI inference without API keys. Pay per request with Solana USDC via x402 (alias for the bridgenode toolkit)."
         },
         {
-          "title": "bybit-history-downloader added to PyPI",
-          "link": "https://pypi.org/project/bybit-history-downloader/",
+          "title": "streamlit-py2dmol added to PyPI",
+          "link": "https://pypi.org/project/streamlit-py2dmol/",
           "date": "15 Aug 2026",
-          "summary": "Download historical Bybit trades and L2 order-book data using Playwright."
+          "summary": "Bidirectional Streamlit component for py2Dmol molecular visualizations"
         },
         {
-          "title": "elfes added to PyPI",
-          "link": "https://pypi.org/project/elfes/",
+          "title": "slop-writer added to PyPI",
+          "link": "https://pypi.org/project/slop-writer/",
           "date": "15 Aug 2026",
-          "summary": "Equivariant Learning Framework for Electronic Structure"
+          "summary": "Telegram channel analytics: the library behind the slop-writer skill, and later its MCP server."
         },
         {
-          "title": "hotkoffee added to PyPI",
-          "link": "https://pypi.org/project/hotkoffee/",
+          "title": "python-package-blueprint added to PyPI",
+          "link": "https://pypi.org/project/python-package-blueprint/",
           "date": "15 Aug 2026",
-          "summary": "A lightweight, reactive UI framework for building Python-based web dashboards and applications."
+          "summary": "A Python package blueprint."
         },
         {
-          "title": "vexy_json added to PyPI",
-          "link": "https://pypi.org/project/vexy-json/",
+          "title": "tinytrain added to PyPI",
+          "link": "https://pypi.org/project/tinytrain/",
           "date": "15 Aug 2026",
-          "summary": "A forgiving JSON parser - Python bindings for the Rust vexy_json library"
+          "summary": "A lightweight training library for small language models"
         },
         {
-          "title": "cachemux added to PyPI",
-          "link": "https://pypi.org/project/cachemux/",
+          "title": "tempest-cli added to PyPI",
+          "link": "https://pypi.org/project/tempest-cli/",
           "date": "15 Aug 2026",
-          "summary": "One wrapper for LLM context caching across providers. Measures whether it pays, and sets it up when it does."
+          "summary": "Framework-agnostic quality gate for Python projects: ruff + mypy + pytest behind one command, with a typing-strictness dial and a PR-description prompt generator."
         },
         {
-          "title": "rafkit added to PyPI",
-          "link": "https://pypi.org/project/rafkit/",
+          "title": "kinegrant-protocol added to PyPI",
+          "link": "https://pypi.org/project/kinegrant-protocol/",
           "date": "15 Aug 2026",
-          "summary": "Autocatalytic (RAF) sets in catalytic reaction networks: maximal RAFs, irreducible cores, and Kauffman binary polymer models."
+          "summary": "Reference implementation of KineGrant, an authorization and accountability layer for physical AI"
         },
         {
-          "title": "duplicate-null-remover added to PyPI",
-          "link": "https://pypi.org/project/duplicate-null-remover/",
+          "title": "ai-office-dashboard added to PyPI",
+          "link": "https://pypi.org/project/ai-office-dashboard/",
           "date": "15 Aug 2026",
-          "summary": "A simple helper package to clean pandas DataFrames"
+          "summary": "Watch your Claude Code subagents work in a pixel-art office"
         },
         {
-          "title": "seanergy-codeguard added to PyPI",
-          "link": "https://pypi.org/project/seanergy-codeguard/",
+          "title": "tabsdata-medallion added to PyPI",
+          "link": "https://pypi.org/project/tabsdata-medallion/",
           "date": "15 Aug 2026",
-          "summary": "CLI wrapper around SonarScanner for easy SonarQube analysis"
+          "summary": "Tabsdata support for building Medallion-architecture data pipelines."
         },
         {
-          "title": "kiss-editor added to PyPI",
-          "link": "https://pypi.org/project/kiss-editor/",
+          "title": "dbslice-ai-connector added to PyPI",
+          "link": "https://pypi.org/project/dbslice-ai-connector/",
           "date": "15 Aug 2026",
-          "summary": "A small terminal text editor"
+          "summary": "Make a dataset on your computer available in dbsliceAI"
         },
         {
-          "title": "podbench added to PyPI",
-          "link": "https://pypi.org/project/podbench/",
+          "title": "tabsdata-conn-stream-stage added to PyPI",
+          "link": "https://pypi.org/project/tabsdata-conn-stream-stage/",
           "date": "15 Aug 2026",
-          "summary": "debugging container for kubernetes pods"
+          "summary": "Tabsdata plugin to access Plugin for stream sources data."
         },
         {
-          "title": "tablespec added to PyPI",
-          "link": "https://pypi.org/project/tablespec/",
+          "title": "tabsdata-conn-starrocks added to PyPI",
+          "link": "https://pypi.org/project/tabsdata-conn-starrocks/",
           "date": "15 Aug 2026",
-          "summary": "Declarative table specifications for PySpark."
+          "summary": "StarRocks connector."
         },
         {
-          "title": "nlpql added to PyPI",
-          "link": "https://pypi.org/project/nlpql/",
+          "title": "tabsdata-conn-snowflake added to PyPI",
+          "link": "https://pypi.org/project/tabsdata-conn-snowflake/",
           "date": "15 Aug 2026",
-          "summary": "Non-Linear Programming by Quadratic Lagrangian (NLPQL) for Python"
+          "summary": "snowflake connector."
         },
         {
-          "title": "powernse added to PyPI",
-          "link": "https://pypi.org/project/powernse/",
+          "title": "osmfinder added to PyPI",
+          "link": "https://pypi.org/project/osmfinder/",
           "date": "15 Aug 2026",
-          "summary": "Download and use NSE India end-of-day equity archives via CLI and Python"
+          "summary": "Find and download OpenStreetMap *.osm.pbf extracts by name, id or geometry."
         },
         {
-          "title": "dagster-dex added to PyPI",
-          "link": "https://pypi.org/project/dagster-dex/",
+          "title": "cms-icd added to PyPI",
+          "link": "https://pypi.org/project/cms-icd/",
           "date": "15 Aug 2026",
-          "summary": "Let dex read your Dagster asset graph the way it reads a dbt project: keys, joins, sources, semantics, drift"
+          "summary": "Version-aware structured access to official CMS ICD-10 materials"
         },
         {
-          "title": "mcplens-ai added to PyPI",
-          "link": "https://pypi.org/project/mcplens-ai/",
+          "title": "slopifc added to PyPI",
+          "link": "https://pypi.org/project/slopifc/",
           "date": "15 Aug 2026",
-          "summary": "A model-agnostic MCP tool intelligence and retrieval library that uses RAG, hybrid search, metadata filtering, and reranking to expose only relevant tools to an LLM."
+          "summary": "Python ctypes binding for slopifc: dependency-free IFC parsing"
         },
         {
-          "title": "gnosis-air added to PyPI",
-          "link": "https://pypi.org/project/gnosis-air/",
+          "title": "channels-webtransport added to PyPI",
+          "link": "https://pypi.org/project/channels-webtransport/",
           "date": "15 Aug 2026",
-          "summary": "Ingest and analyze AI agent conversation logs (Claude Code, Codex): intent classification, friction analysis, and a cross-session knowledge graph — the gnosis CLI"
+          "summary": "Experimental WebTransport support for Django Channels"
         },
         {
-          "title": "agentsparty added to PyPI",
-          "link": "https://pypi.org/project/agentsparty/",
+          "title": "data-cleaner-kingnicks-1 added to PyPI",
+          "link": "https://pypi.org/project/data-cleaner-kingnicks-1/",
           "date": "15 Aug 2026",
-          "summary": "Declarative multiparty session types for AI agents"
+          "summary": "Simple pandas data cleaning utility"
         },
         {
-          "title": "actuate-ai added to PyPI",
-          "link": "https://pypi.org/project/actuate-ai/",
+          "title": "samcoadk added to PyPI",
+          "link": "https://pypi.org/project/samcoadk/",
           "date": "15 Aug 2026",
-          "summary": "Closed-loop graphs for AI generation, validation, and training rewards."
+          "summary": "A small Agent Development Kit — Agent, Runner, SessionService, tools, callbacks and A2A."
         },
         {
-          "title": "spacelith added to PyPI",
-          "link": "https://pypi.org/project/spacelith/",
+          "title": "tropmail added to PyPI",
+          "link": "https://pypi.org/project/tropmail/",
           "date": "15 Aug 2026",
-          "summary": "Spacelith Edge AI SDK: Space-Ready Model Quantization & SEU Protection"
+          "summary": "Official Python SDK for the TropMail API"
         },
         {
-          "title": "kbws-forge-runtime added to PyPI",
-          "link": "https://pypi.org/project/kbws-forge-runtime/",
+          "title": "axonx added to PyPI",
+          "link": "https://pypi.org/project/axonx/",
           "date": "15 Aug 2026",
-          "summary": "Forge coding agent framework core runtime"
+          "summary": "An extensible, Pydantic-based framework for defining, discovering, and running ordered flows."
         },
         {
-          "title": "pp-evals added to PyPI",
-          "link": "https://pypi.org/project/pp-evals/",
+          "title": "detectl added to PyPI",
+          "link": "https://pypi.org/project/detectl/",
           "date": "15 Aug 2026",
-          "summary": "Behavioral, model-backed evals for Pi workflows (Python port of @earendil-works/pi-evals)"
+          "summary": "A CLI for managing detection rules, tuning lists, alerts, and ad-hoc queries across multiple SIEM/EDR platforms through one consistent interface."
         }
       ]
     }
