@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-15T22:11:59Z",
+  "generated": "2026-08-15T23:11:45Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -1152,6 +1152,12 @@
       "ok": true,
       "items": [
         {
+          "title": "How Swarming Jellyfish Overran Three French Nuclear Power Reactors",
+          "link": "https://hardware.slashdot.org/story/26/08/15/2231253/how-swarming-jellyfish-overran-three-french-nuclear-power-reactors?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "15 Aug 2026",
+          "summary": "A \"massive influx\" of jellyfish forced Electricite de France SA to shut three units at its Gravelines nuclear power plant this week and reduce output at a fourth, reports Bloomberg. Just as summer temperatures surged, 3.2 gigawatts went offline &mdash; and the…"
+        },
+        {
           "title": "How Larry Ellison Dropped From World's 2nd-Richest To No. 8 In Just 2 Months",
           "link": "https://developers.slashdot.org/story/26/08/15/2047249/how-larry-ellison-dropped-from-worlds-2nd-richest-to-no-8-in-just-2-months?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "15 Aug 2026",
@@ -1234,12 +1240,6 @@
           "link": "https://tech.slashdot.org/story/26/08/14/1736254/ukraine-finds-nvidia-ai-chip-in-new-russian-missile?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "14 Aug 2026",
           "summary": "Longtime Slashdot reader AmiMoJo shares a report from Kyiv Post: Ukraine's military intelligence (HUR) has identified an Nvidia Jetson Orin computer module inside Russia's new S-71 Monochrome air-launched cruise missile, potentially indicating the use of artif…"
-        },
-        {
-          "title": "Judge Orders Google To Make Rival App Store Installs Easier",
-          "link": "https://tech.slashdot.org/story/26/08/14/1733213/judge-orders-google-to-make-rival-app-store-installs-easier?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "14 Aug 2026",
-          "summary": "A federal judge has ordered Google to remove what he called \"anticompetitive friction\" that makes rival Android app stores harder to find and install. The order is part of the remedies stemming from Epic's antitrust victory, which already requires Google to ca…"
         }
       ]
     },
@@ -1630,6 +1630,132 @@
       "ok": true,
       "items": [
         {
+          "title": "views-postprocessing added to PyPI",
+          "link": "https://pypi.org/project/views-postprocessing/",
+          "date": "15 Aug 2026",
+          "summary": "None"
+        },
+        {
+          "title": "django-goroutine added to PyPI",
+          "link": "https://pypi.org/project/django-goroutine/",
+          "date": "15 Aug 2026",
+          "summary": "Orchestrateur structuré de tâches concurrentes pour Django, inspiré du modèle de concurrence de Go — group()/cpu_map() au-dessus d'asyncio.TaskGroup, erreurs en pycatch.Result."
+        },
+        {
+          "title": "readeverything added to PyPI",
+          "link": "https://pypi.org/project/readeverything/",
+          "date": "15 Aug 2026",
+          "summary": "Give an agent eyes into a filesystem: mimetype-dispatched media representations with locator-carrying provenance."
+        },
+        {
+          "title": "witness-cli added to PyPI",
+          "link": "https://pypi.org/project/witness-cli/",
+          "date": "15 Aug 2026",
+          "summary": "A DFIR agent that can only report what it can prove a tool said."
+        },
+        {
+          "title": "md2p added to PyPI",
+          "link": "https://pypi.org/project/md2p/",
+          "date": "15 Aug 2026",
+          "summary": "Markdown to Print: renders Markdown files to the terminal with ANSI or nroff styling"
+        },
+        {
+          "title": "JEvent added to PyPI",
+          "link": "https://pypi.org/project/jevent/",
+          "date": "15 Aug 2026",
+          "summary": "A Python library to add Single Gamepad Support to simple Tkinter games easily"
+        },
+        {
+          "title": "evennia-shards added to PyPI",
+          "link": "https://pypi.org/project/evennia-shards/",
+          "date": "15 Aug 2026",
+          "summary": "Optional split deployment and horizontal sharding for Evennia, via configuration."
+        },
+        {
+          "title": "evennia-mob-spawner added to PyPI",
+          "link": "https://pypi.org/project/evennia-mob-spawner/",
+          "date": "15 Aug 2026",
+          "summary": "Declarative YAML-driven mob spawn system for Evennia"
+        },
+        {
+          "title": "evennia-world-builder added to PyPI",
+          "link": "https://pypi.org/project/evennia-world-builder/",
+          "date": "15 Aug 2026",
+          "summary": "Declarative YAML-driven world authoring for Evennia"
+        },
+        {
+          "title": "logerr added to PyPI",
+          "link": "https://pypi.org/project/logerr/",
+          "date": "15 Aug 2026",
+          "summary": "Rust-like Option and Result types with automatic logging integration"
+        },
+        {
+          "title": "pm4py-ucm added to PyPI",
+          "link": "https://pypi.org/project/pm4py-ucm/",
+          "date": "15 Aug 2026",
+          "summary": "Use Case Map (URN/UCM) extension for PM4Py — process mining → jUCMNav"
+        },
+        {
+          "title": "paritex added to PyPI",
+          "link": "https://pypi.org/project/paritex/",
+          "date": "15 Aug 2026",
+          "summary": "Check PDF LaTeX parity for paper reconstruction"
+        },
+        {
+          "title": "ablaut added to PyPI",
+          "link": "https://pypi.org/project/ablaut/",
+          "date": "15 Aug 2026",
+          "summary": "A fast, correct German verb conjugator"
+        },
+        {
+          "title": "duar-auth added to PyPI",
+          "link": "https://pypi.org/project/duar-auth/",
+          "date": "15 Aug 2026",
+          "summary": "Duar SDK — JWT middleware, FastAPI dependencies, permission client"
+        },
+        {
+          "title": "fastapi-backbone added to PyPI",
+          "link": "https://pypi.org/project/fastapi-backbone/",
+          "date": "15 Aug 2026",
+          "summary": "A production-oriented, reusable foundation for Python backend projects built with FastAPI."
+        },
+        {
+          "title": "specrel added to PyPI",
+          "link": "https://pypi.org/project/specrel/",
+          "date": "15 Aug 2026",
+          "summary": "Special relativity visualization sandbox"
+        },
+        {
+          "title": "pytest-fahhh-on-fail added to PyPI",
+          "link": "https://pypi.org/project/pytest-fahhh-on-fail/",
+          "date": "15 Aug 2026",
+          "summary": "A pytest plugin that plays FAHHH meme sound when a test session fails."
+        },
+        {
+          "title": "whisper-misp added to PyPI",
+          "link": "https://pypi.org/project/whisper-misp/",
+          "date": "15 Aug 2026",
+          "summary": "Whisper enrichment module for MISP (misp-modules expansion/hover)."
+        },
+        {
+          "title": "agentic_term_mcp added to PyPI",
+          "link": "https://pypi.org/project/agentic-term-mcp/",
+          "date": "15 Aug 2026",
+          "summary": "An MCP which adds terminal capabilities to an agent"
+        },
+        {
+          "title": "windows-context-menus added to PyPI",
+          "link": "https://pypi.org/project/windows-context-menus/",
+          "date": "15 Aug 2026",
+          "summary": "Create windows context menus Pythonically"
+        },
+        {
+          "title": "s-socialkit added to PyPI",
+          "link": "https://pypi.org/project/s-socialkit/",
+          "date": "15 Aug 2026",
+          "summary": "Общий слой соцсетей: контракт видов (кто умеет publish/content/media/comments/feed/metrics/search/profile/session/export), сущности домена (материал, комментарий, показатели, цель публикации) и живость входа. То, что одинаково у Telegram, VK, Instagram, TikTok…"
+        },
+        {
           "title": "axon-ai-agent added to PyPI",
           "link": "https://pypi.org/project/axon-ai-agent/",
           "date": "15 Aug 2026",
@@ -1682,132 +1808,6 @@
           "link": "https://pypi.org/project/gpuqu/",
           "date": "15 Aug 2026",
           "summary": "Lightweight cross-platform GPU job queue with WebUI + metrics (zero pip deps)"
-        },
-        {
-          "title": "python-intl added to PyPI",
-          "link": "https://pypi.org/project/python-intl/",
-          "date": "15 Aug 2026",
-          "summary": "Add your description here"
-        },
-        {
-          "title": "odix added to PyPI",
-          "link": "https://pypi.org/project/odix/",
-          "date": "15 Aug 2026",
-          "summary": "An open-source publishing system for creating beautiful technical books from Markdown."
-        },
-        {
-          "title": "safetensors-print added to PyPI",
-          "link": "https://pypi.org/project/safetensors-print/",
-          "date": "15 Aug 2026",
-          "summary": "Print the header, metadata and complete data-segment layout of a .safetensors file"
-        },
-        {
-          "title": "sbirgrantsearch added to PyPI",
-          "link": "https://pypi.org/project/sbirgrantsearch/",
-          "date": "15 Aug 2026",
-          "summary": "Download US government innovation-funding records into one common schema, filtered how you ask."
-        },
-        {
-          "title": "ctok added to PyPI",
-          "link": "https://pypi.org/project/ctok/",
-          "date": "15 Aug 2026",
-          "summary": "Offline reconstruction of Claude's tokenizer token counts"
-        },
-        {
-          "title": "crs-zone-toolkit added to PyPI",
-          "link": "https://pypi.org/project/crs-zone-toolkit/",
-          "date": "15 Aug 2026",
-          "summary": "Analyse, recommandation et reprojection CRS pour les couches géospatiales du Québec (fuseaux MTM, Québec Lambert)"
-        },
-        {
-          "title": "arcaeon-once added to PyPI",
-          "link": "https://pypi.org/project/arcaeon-once/",
-          "date": "15 Aug 2026",
-          "summary": "Executed-once receipts for non-idempotent agent side effects. Refuses silent double-fires, flags crash-window uncertainty honestly."
-        },
-        {
-          "title": "tf2okf added to PyPI",
-          "link": "https://pypi.org/project/tf2okf/",
-          "date": "15 Aug 2026",
-          "summary": "Generate Open Knowledge Format (OKF) v0.2 bundles from Terraform-family repositories"
-        },
-        {
-          "title": "swit-suite added to PyPI",
-          "link": "https://pypi.org/project/swit-suite/",
-          "date": "15 Aug 2026",
-          "summary": "SWIT: Seismic Waveform Inversion Toolbox (installs the full suite)"
-        },
-        {
-          "title": "swit-bayes added to PyPI",
-          "link": "https://pypi.org/project/swit-bayes/",
-          "date": "15 Aug 2026",
-          "summary": "SWIT: Bayesian full-waveform inversion and uncertainty quantification"
-        },
-        {
-          "title": "swit-optim added to PyPI",
-          "link": "https://pypi.org/project/swit-optim/",
-          "date": "15 Aug 2026",
-          "summary": "SWIT: deterministic full-waveform inversion"
-        },
-        {
-          "title": "myndns added to PyPI",
-          "link": "https://pypi.org/project/myndns/",
-          "date": "15 Aug 2026",
-          "summary": "猫羽雫 DNS · 专为 DNSHE 打造的命令行工具，内置智谱 AI 免费模型"
-        },
-        {
-          "title": "cordispy added to PyPI",
-          "link": "https://pypi.org/project/cordispy/",
-          "date": "15 Aug 2026",
-          "summary": "A Python realization of the spatiotemporal composability runtime described in the Cordis paper"
-        },
-        {
-          "title": "pitguard added to PyPI",
-          "link": "https://pypi.org/project/pitguard/",
-          "date": "15 Aug 2026",
-          "summary": "Bitemporal reconstruction and revision lineage for pandas datasets"
-        },
-        {
-          "title": "specrun added to PyPI",
-          "link": "https://pypi.org/project/specrun/",
-          "date": "15 Aug 2026",
-          "summary": "Blueprints and skills for the AI you already code with"
-        },
-        {
-          "title": "parakeet-index-instrumentation added to PyPI",
-          "link": "https://pypi.org/project/parakeet-index-instrumentation/",
-          "date": "15 Aug 2026",
-          "summary": "Provides the instrumentation hooks for observability in Parakeet."
-        },
-        {
-          "title": "arcaeon-continuity added to PyPI",
-          "link": "https://pypi.org/project/arcaeon-continuity/",
-          "date": "15 Aug 2026",
-          "summary": "The agent-continuity primitive: carry your load-bearing self forward across a reset as a manifest you control, prove the next instance is a faithful continuation, and get a tamper-evident receipt of anything a compaction cut."
-        },
-        {
-          "title": "revela added to PyPI",
-          "link": "https://pypi.org/project/revela/",
-          "date": "15 Aug 2026",
-          "summary": "An image signal processing pipeline written in NumPy, from which synthesisable Verilog is generated"
-        },
-        {
-          "title": "smallib added to PyPI",
-          "link": "https://pypi.org/project/smallib/",
-          "date": "15 Aug 2026",
-          "summary": "State Machine, Async Lock, Logger"
-        },
-        {
-          "title": "beaverweb added to PyPI",
-          "link": "https://pypi.org/project/beaverweb/",
-          "date": "15 Aug 2026",
-          "summary": "A lightweight Python micro web framework built for learning"
-        },
-        {
-          "title": "webrender-worker added to PyPI",
-          "link": "https://pypi.org/project/webrender-worker/",
-          "date": "15 Aug 2026",
-          "summary": "WebRender local worker — a paired daemon that runs read-aloud TTS and handwriting recognition on your own machine."
         }
       ]
     }
