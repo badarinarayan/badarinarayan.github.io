@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-15T11:11:31Z",
+  "generated": "2026-08-15T12:19:19Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,12 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "ETMarkets Management Talk| MAN Industries eyes bigger Saudi footprint; region could contribute 35–40% of revenue in 3 years: Nikhil Mansukhani",
+          "link": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-management-talk-man-industries-eyes-bigger-saudi-footprint-region-could-contribute-3540-of-revenue-in-3-years-nikhil-mansukhani/articleshow/133257522.cms",
+          "date": "15 Aug 2026",
+          "summary": "MAN Industries expects Saudi Arabia to become a major growth driver, contributing 35–40% of revenue within three years. The company is targeting FY27 revenue of ₹5,000 crore, backed by Saudi expansion, Dammam facility and Jammu’s seamless pipe plant."
+        },
         {
           "title": "Madhusudan Kela’s portfolio: 7 stocks rally up to 135% in CY26",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/madhusudan-kelas-portfolio-7-stocks-rally-up-to-135-in-cy26/slideshow/133259821.cms",
@@ -36,12 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-5-companies-to-raise-rs-5499-crore-next-week-shiprocket-4-others-to-list/articleshow/133258703.cms",
           "date": "15 Aug 2026",
           "summary": "India’s IPO market enters another busy week, with five companies set to raise Rs 5,499.32 crore between August 17 and 21. Horizon Industrial Parks leads fundraising, while five recently completed IPOs, including Shiprocket, are scheduled to list."
-        },
-        {
-          "title": "Concurrent Losers: 11 stocks decline for 5 consecutive sessions",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-losers-11-stocks-decline-for-5-consecutive-sessions/slideshow/133258683.cms",
-          "date": "15 Aug 2026",
-          "summary": "The Sensex fell 490 points over five sessions through August 14, while 23 BSE 500 stocks declined daily. Eleven stocks dropped more than 5%, led by Aditya Birla Fashion and Retail, Physicswallah and Techno Electric & Engineering."
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -196,16 +196,88 @@
       "ok": true,
       "items": [
         {
-          "title": "BJP says Sonia Gandhi tried to stop Vande Mataram at I-Day event; Congress hits back",
+          "title": "Another strong earthquake rocks Indonesia hours after 7.7 magnitude quake",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/another-strong-earthquake-strikes-indonesia-after-7-7-magnitude-quake/articleshow/133261556.cms",
+          "date": "15 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "PoK would be protesting to join J&amp;K if Article 370 hadn't been revoked: CM Abdullah",
+          "link": "https://timesofindia.indiatimes.com/city/srinagar/pok-wouldve-wanted-to-join-jk-today-if-article-370-hadnt-been-revoked-omar-abdullah/articleshow/133259655.cms",
+          "date": "15 Aug 2026",
+          "summary": "Omar Abdullah reflected on the 1947 tribal invasion, paying tribute to his grandfather, Sheikh Mohammad Abdullah. He underscored the need to bolster federalism while questioning the current national examination frameworks. Abdullah advocated for restoring Jamm…"
+        },
+        {
+          "title": "Why midnight, why August 15? The story of India's first hours of freedom",
+          "link": "https://timesofindia.indiatimes.com/india/midnight-wasnt-the-end-what-happened-in-the-first-few-hours-of-independent-india/articleshow/133259650.cms",
+          "date": "15 Aug 2026",
+          "summary": "India's liberation from British rule was celebrated at midnight on August 15, 1947, as Jawaharlal Nehru captivated everyone with his famed 'Tryst with Destiny' speech. Following this historic moment, the newly formed government not only celebrated freedom but…"
+        },
+        {
+          "title": "266 days deployed: USS Abraham Lincoln to return home amid rising scrutiny over sailor welfare",
+          "link": "https://timesofindia.indiatimes.com/world/us/266-days-deployed-uss-abraham-lincoln-to-return-home-amid-rising-scrutiny-over-sailor-welfare/articleshow/133261442.cms",
+          "date": "15 Aug 2026",
+          "summary": "After an extended deployment, the USS Abraham Lincoln aircraft carrier is making its way home. While Acting Navy Secretary Hung Cao minimized reports of sailor difficulties and supply deficiencies, the Navy contends that allegations regarding a mental health c…"
+        },
+        {
+          "title": "MacKenzie Scott helped abolish $40B in medical debt; how mechanics work",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-ex-wife-mackenzie-scott-who-sold-half-of-her-amazon-stake-has-helped-abolish-40-billion-in-medical-debt-how-mechanics-work/articleshow/133240371.cms",
+          "date": "14 Aug 2026",
+          "summary": "MacKenzie Scott is leading the charge in medical debt relief, having made groundbreaking donations that freed over $40 billion for families burdened by this often overwhelming responsibility. Her innovative approach, which involves acquiring debt at minimal co…"
+        },
+        {
+          "title": "BJP says Sonia Gandhi tried to stop Vande Mataram at I-Day event; Cong hits back",
           "link": "https://timesofindia.indiatimes.com/india/bjp-says-sonia-objected-to-full-vande-mataram-congress-says-she-was-seeking-chair-for-kharge/articleshow/133258866.cms",
           "date": "15 Aug 2026",
           "summary": ""
         },
         {
-          "title": "AI skills, free coaching, sports &amp; jobs: PM Modi's I-Day speech for unleashed Gen Z",
+          "title": "AI skills, free coaching, sports &amp; jobs: PM Modi's I-Day speech for Gen Z",
           "link": "https://timesofindia.indiatimes.com/india/whats-in-it-for-gen-z-in-pm-modis-independence-day-speech-ai-skills-free-coaching-sports-jobs/articleshow/133256260.cms",
           "date": "15 Aug 2026",
           "summary": ""
+        },
+        {
+          "title": "Zohran Mamdani’s ‘common sense regulation’ may push Amazon to move NYC deliveries",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/new-york-city-mayor-zohran-mamdanis-common-sense-regulation-may-make-unhappy-amazon-move-its-delivery-operations-outside-the-city/articleshow/133238408.cms",
+          "date": "14 Aug 2026",
+          "summary": "In a bold move, New York City Mayor Zohran Mamdani has shown support for a groundbreaking bill that mandates direct employment for delivery drivers, aiming to eliminate subcontracting and bolster the rights of workers. However, Amazon has raised concerns, indi…"
+        },
+        {
+          "title": "Govinda reacts to Sunita Ahuja’s remark",
+          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govinda-strongly-reacts-to-sunita-ahujas-remarks-urges-her-to-be-mindful-of-repeated-abusive-language-involving-family-if-people-start-abusing-your-mother-and-sister-we-will-be-embarrassed/articleshow/133262069.cms",
+          "date": "15 Aug 2026",
+          "summary": "Govinda has made a public plea for his wife, Sunita Ahuja, to cease her use of foul language, notably phrases referencing mothers and sisters. Concerned about the effects of such behavior on impressionable youth, the actor highlighted the responsibilities of p…"
+        },
+        {
+          "title": "Dad rescues 10-year-old girl from Myrtle Beach rip current, then is swept away",
+          "link": "https://timesofindia.indiatimes.com/world/us/father-of-four-derrick-moore-jumped-into-a-myrtle-beach-rip-current-to-save-a-10-year-old-girl-she-survived-but-he-was-swept-away/articleshow/133261101.cms",
+          "date": "15 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Gut bacteria in psychopaths may drive sinful behavior, scientists claim",
+          "link": "https://timesofindia.indiatimes.com/science/organisms-living-inside-the-gut-of-psychopaths-could-be-the-drivers-of-bad-sinful-behaviour-and-conduct-claim-scientists/articleshow/133260343.cms",
+          "date": "15 Aug 2026",
+          "summary": "Recent research indicates a potential connection between gut microorganisms and psychopathic traits. The study unveiled variations in gut and oral bacteria among individuals with differing psychopathy scores. Notably, metabolic byproducts such as glucose and t…"
+        },
+        {
+          "title": "Airtel discontinues several prepaid plans including one of its most popular",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/airtel-has-discontinued-several-prepaid-plans-including-one-of-its-most-popular-heres-the-cheapest-unlimited-daily-data-plan-now/articleshow/133261073.cms",
+          "date": "15 Aug 2026",
+          "summary": "Airtel has decided to eliminate several of its prepaid recharge options, including the frequently used Rs 299 plan. As a result, Airtel's prices are set to rise by approximately three to four percent. Customers who relied on the Rs 299 plan will need to transi…"
+        },
+        {
+          "title": "7.7 magnitude Indonesia quake: 38 killed, buildings collapse; 5 visuals of devastation",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/7-7-magnitude-earthquake-hits-indonesia-38-killed-buildings-collapse-5-visuals-of-devastation/articleshow/133260331.cms",
+          "date": "15 Aug 2026",
+          "summary": "A significant earthquake registering 7.7 on the Richter scale rocked eastern Indonesia early Saturday, claiming the lives of at least thirty-eight individuals and leading to the destruction of various structures. Ongoing rescue missions are striving to aid the…"
+        },
+        {
+          "title": "IPL cricketer Abishek Porel denied bail in alleged rape case",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/cricketer-abishek-porel-denied-bail-in-alleged-rape-case/articleshow/133260455.cms",
+          "date": "15 Aug 2026",
+          "summary": "Abishek Porel, Delhi Capitals and Bengal cricketer, has been denied bail in an alleged rape and blackmail case involving a medical student. Arrested in Hooghly on August 11, he was sent to 14 days of judicial custody. The complainant alleged he promised marria…"
         },
         {
           "title": "‘Ireland’s Independence Day?’ Congress mocks PM Modi over Tricolour pocket square",
@@ -218,12 +290,6 @@
           "link": "https://timesofindia.indiatimes.com/city/bhopal/mp-schoolkids-fall-ill-waiting-for-minister-at-tiranga-yatra/articleshow/133217148.cms",
           "date": "13 Aug 2026",
           "summary": "Twelve students fell ill after a Tiranga Yatra in Singrauli district. They reportedly waited nearly an hour for the state minister to arrive. Some students skipped breakfast and faced inadequate water arrangements during the event. Officials stated all student…"
-        },
-        {
-          "title": "MacKenzie Scott helped abolish $40B in medical debt; how mechanics work",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-ex-wife-mackenzie-scott-who-sold-half-of-her-amazon-stake-has-helped-abolish-40-billion-in-medical-debt-how-mechanics-work/articleshow/133240371.cms",
-          "date": "14 Aug 2026",
-          "summary": "MacKenzie Scott is leading the charge in medical debt relief, having made groundbreaking donations that freed over $40 billion for families burdened by this often overwhelming responsibility. Her innovative approach, which involves acquiring debt at minimal co…"
         },
         {
           "title": "Captain Binface's loss to Farage sums up post-Brexit politics",
@@ -242,30 +308,6 @@
           "link": "https://timesofindia.indiatimes.com/india/cji-surya-kant-urges-young-lawyers-to-shoulder-responsibility-of-future-says-much-remains-to-be-done/articleshow/133260315.cms",
           "date": "15 Aug 2026",
           "summary": "Chief Justice Surya Kant addressed young lawyers at the Supreme Court Bar Association's event. He acknowledged India's progress while stressing much remains to be done. The responsibility of the legal profession will soon rest on their shoulders. He highlighte…"
-        },
-        {
-          "title": "Zohran Mamdani’s ‘common sense regulation’ may push Amazon to move NYC deliveries",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/new-york-city-mayor-zohran-mamdanis-common-sense-regulation-may-make-unhappy-amazon-move-its-delivery-operations-outside-the-city/articleshow/133238408.cms",
-          "date": "14 Aug 2026",
-          "summary": "In a bold move, New York City Mayor Zohran Mamdani has shown support for a groundbreaking bill that mandates direct employment for delivery drivers, aiming to eliminate subcontracting and bolster the rights of workers. However, Amazon has raised concerns, indi…"
-        },
-        {
-          "title": "Moose introduced in 1878 now threaten to wipe out Newfoundland’s forests",
-          "link": "https://timesofindia.indiatimes.com/science/newfoundland-introduced-moose-in-1878-today-the-population-of-11000-is-on-the-verge-of-eradicating-the-islands-forests/articleshow/133259962.cms",
-          "date": "15 Aug 2026",
-          "summary": "Introduced to Newfoundland more than a century ago as a food source, moose have surged in numbers, drastically altering the island’s forest ecosystem. The absence of natural predators allows these massive herbivores to devour young trees at alarming rates. To…"
-        },
-        {
-          "title": "Why putting foil under your ironing board speeds up ironing",
-          "link": "https://timesofindia.indiatimes.com/life-style/home-garden/why-some-people-put-aluminium-foil-under-their-ironing-board-and-how-this-simple-layer-can-speed-up-ironing/articleshow/133258228.cms",
-          "date": "15 Aug 2026",
-          "summary": "Think of aluminum foil as your new ironing ally. When utilized underneath the cover of your ironing board, it reflects heat back towards the fabric, allowing for a dual heating effect. This means you can reshape garments in fewer strokes, enhancing productivit…"
-        },
-        {
-          "title": "Sridhar Vembu, Anand Mahindra, Peyush Bansal extend Independence Day wishes",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/independence-day-2026-sridhar-vembu-anand-mahindra-peyush-bansal-extend-wishes-to-the-nation/articleshow/133259633.cms",
-          "date": "15 Aug 2026",
-          "summary": "As India celebrated its Independence Day, prominent business leaders took to social media to share their thoughts. Sridhar Vembu emphasized the necessity for enhanced research and development in various industries. Anand Mahindra described freedom as a collect…"
         },
         {
           "title": "'Awarapan 2' OTT release: When and where to stream Emraan Hashmi's film",
@@ -310,12 +352,6 @@
           "summary": ""
         },
         {
-          "title": "PoK would be protesting to join J&amp;K if Article 370 hadn't been revoked: CM Abdullah",
-          "link": "https://timesofindia.indiatimes.com/city/srinagar/pok-wouldve-wanted-to-join-jk-today-if-article-370-hadnt-been-revoked-omar-abdullah/articleshow/133259655.cms",
-          "date": "15 Aug 2026",
-          "summary": "Omar Abdullah reflected on the 1947 tribal invasion, paying tribute to his grandfather, Sheikh Mohammad Abdullah. He underscored the need to bolster federalism while questioning the current national examination frameworks. Abdullah advocated for restoring Jamm…"
-        },
-        {
           "title": "With nearly 40 mentions, ‘Mere pyare deshwasiyon’ dominates PM Modi’s speech",
           "link": "https://timesofindia.indiatimes.com/india/with-nearly-40-mentions-mere-pyare-deshwasiyon-dominates-pm-modis-red-fort-speech/articleshow/133258444.cms",
           "date": "15 Aug 2026",
@@ -338,42 +374,6 @@
           "link": "https://timesofindia.indiatimes.com/city/lucknow/lucknow-delhi-tejas-express-becomes-indias-first-privately-branded-train-to-be-called-sprite-tejas/articleshow/133255309.cms",
           "date": "15 Aug 2026",
           "summary": "The Lucknow-Delhi Tejas Express will be known as the Sprite Tejas Express from August 20. Coca-Cola's Sprite unit secured branding rights for the train's name and coaches. This move aims to generate non-fare revenue for the Indian Railway Catering and Tourism…"
-        },
-        {
-          "title": "Hazlewood makes Australian Test history, joins elite club with 300th wicket",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/josh-hazlewood-makes-australian-test-history-joins-elite-club-with-300th-wicket/articleshow/133257567.cms",
-          "date": "15 Aug 2026",
-          "summary": "Josh Hazlewood marked a significant chapter in his career by taking his 300th Test wicket, joining an illustrious group of Australian bowlers. This achievement underscores Australia's strength, with four bowlers each having over 300 Test wickets on the field t…"
-        },
-        {
-          "title": "30 Tests, 30 venues: Yashavi Jaiswal follows Sachin Tendulkar's footsteps",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/30-tests-30-venues-yashavi-jaiswal-follows-sachin-tendulkars-footsteps-with-rare-feat/articleshow/133258476.cms",
-          "date": "15 Aug 2026",
-          "summary": "When Yashasvi Jaiswal walked out to bat in Galle for the first Test against Sri Lanka, he was playing the 30th Test of his career. The milestone came with an unusual record - Jaiswal has played each of his first 30 Tests at a different venue. The India opener…"
-        },
-        {
-          "title": "Emraan Hashmi confirms the possibility of ‘Awarapan 3'",
-          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/emraan-hashmi-teases-awarapan-3-during-awarapan-2-theatre-visit-with-disha-patani-as-fans-cheer-hopefully-awarapan-3-very-soon/articleshow/133258872.cms",
-          "date": "15 Aug 2026",
-          "summary": "Emraan Hashmi has hinted at the exciting chance of a third film in the Awarapan series, showing his appreciation for the fan support of the latest installment. During a promotional event in Mumbai, he teased the potential storyline for Awarapan 3, following th…"
-        },
-        {
-          "title": "The ghost bus of West London: Phantom No 7 linked to 1934 fatal crash",
-          "link": "https://timesofindia.indiatimes.com/life-style/travel/adventures/the-ghost-bus-of-west-london-the-chilling-story-of-the-phantom-no-7-that-appeared-without-a-driver-and-became-linked-to-a-fatal-1934-crash/articleshow/133259011.cms",
-          "date": "15 Aug 2026",
-          "summary": "The legend of the phantom Number 7 bus haunts a road in North Kensington, intertwining with a tragic accident from 1934. While records confirm a real collision, the ghostly narrative surrounding it likely evolved before the crash, gaining traction over time. U…"
-        },
-        {
-          "title": "Arunachal flash floods: Four killed, five Army personnel missing after landslide",
-          "link": "https://timesofindia.indiatimes.com/india/arunachal-pradesh-flash-floods-four-killed-five-army-personnel-missing-after-landslide/articleshow/133258951.cms",
-          "date": "15 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Why India's GCC boom is facing a talent problem — and what companies want next",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/why-indias-gcc-boom-is-facing-a-talent-problem-and-what-companies-want-next/articleshow/133259644.cms",
-          "date": "15 Aug 2026",
-          "summary": "Talent shortages are a growing strategic risk for India's global capability centres. These skill gaps are delaying product launches and limiting digital transformation programs. Rising costs and employee pressure are also contributing to the talent challenge.…"
         }
       ]
     },
@@ -1630,184 +1630,184 @@
       "ok": true,
       "items": [
         {
-          "title": "catpie added to PyPI",
-          "link": "https://pypi.org/project/catpie/",
+          "title": "mal-plugin-cli added to PyPI",
+          "link": "https://pypi.org/project/mal-plugin-cli/",
           "date": "15 Aug 2026",
-          "summary": "Computerized adaptive testing (CAT) in pure Python - a faithful translation of the most relevant subset of the R package catR: 4PL IRF, EAP/BM/ML/WL ability estimation with standard errors, and MFI/bOpt item selection."
+          "summary": "Scaffold and publish MyAppsLibrary plugins from the terminal"
         },
         {
-          "title": "fast-actions added to PyPI",
-          "link": "https://pypi.org/project/fast-actions/",
+          "title": "repocourse added to PyPI",
+          "link": "https://pypi.org/project/repocourse/",
           "date": "15 Aug 2026",
-          "summary": "Add your description here"
+          "summary": "RepoCourse: AI-era project learning review assistant — review reports, knowledge graph, skill assessment and learning plans (zero dependencies)"
         },
         {
-          "title": "ace-experiment-framework added to PyPI",
-          "link": "https://pypi.org/project/ace-experiment-framework/",
+          "title": "aiodisklavier added to PyPI",
+          "link": "https://pypi.org/project/aiodisklavier/",
           "date": "15 Aug 2026",
-          "summary": "Automated Compute Efficiency Experimental Lab - Config-driven experimental framework for discovering compute optimizations"
+          "summary": "Async client for the Yamaha Disklavier ENSPIRE local HTTP API"
         },
         {
-          "title": "deepseek-vision-mcp added to PyPI",
-          "link": "https://pypi.org/project/deepseek-vision-mcp/",
+          "title": "masoora added to PyPI",
+          "link": "https://pypi.org/project/masoora/",
           "date": "15 Aug 2026",
-          "summary": "MCP Server that gives DeepSeek (and other text-only LLMs) vision capability via third-party OpenAI-compatible vision APIs"
+          "summary": "Fluent builder for testable ETL pipelines"
         },
         {
-          "title": "ghost-downloader-plugin-builder added to PyPI",
-          "link": "https://pypi.org/project/ghost-downloader-plugin-builder/",
+          "title": "clmk added to PyPI",
+          "link": "https://pypi.org/project/clmk/",
           "date": "15 Aug 2026",
           "summary": "None"
         },
         {
-          "title": "piliwela added to PyPI",
-          "link": "https://pypi.org/project/piliwela/",
+          "title": "cnequity added to PyPI",
+          "link": "https://pypi.org/project/cnequity/",
           "date": "15 Aug 2026",
-          "summary": "Rust-powered Sinhala legacy-font conversion for text, PyMuPDF pages, and PDF documents."
+          "summary": "Self-hosted A-share Parquet data lake with multi-source ingest and daily orchestration"
         },
         {
-          "title": "apiboot added to PyPI",
-          "link": "https://pypi.org/project/apiboot/",
+          "title": "digitalafarin-cms added to PyPI",
+          "link": "https://pypi.org/project/digitalafarin-cms/",
           "date": "15 Aug 2026",
-          "summary": "apiboot：为组件化构建 Api 服务而生"
+          "summary": "Headless CMS and SEO platform for Django REST Framework and Next.js"
         },
         {
-          "title": "limina-monitor added to PyPI",
-          "link": "https://pypi.org/project/limina-monitor/",
+          "title": "densmix added to PyPI",
+          "link": "https://pypi.org/project/densmix/",
           "date": "15 Aug 2026",
-          "summary": "Python client SDK for multi-turn AI Agent evaluation & trajectory monitoring with Limina AI"
+          "summary": "Tools for simulating and fitting density mixture models."
         },
         {
-          "title": "jiayi0822 added to PyPI",
-          "link": "https://pypi.org/project/jiayi0822/",
+          "title": "docpulse added to PyPI",
+          "link": "https://pypi.org/project/docpulse/",
           "date": "15 Aug 2026",
-          "summary": "🎂 一份在终端里绽放的礼物"
+          "summary": "Hybrid local layout and selective vision document parser"
         },
         {
-          "title": "agentic-project-kit added to PyPI",
-          "link": "https://pypi.org/project/agentic-project-kit/",
+          "title": "peresmichael-tax-sdk added to PyPI",
+          "link": "https://pypi.org/project/peresmichael-tax-sdk/",
           "date": "15 Aug 2026",
-          "summary": "Govern AI-assisted repository work with explicit contracts, gates, evidence, and handoffs."
+          "summary": "Python client for the Novabook tax service: record sales, amendments and tax payments, query your tax position at any point in time."
         },
         {
-          "title": "ardldml added to PyPI",
-          "link": "https://pypi.org/project/ardldml/",
+          "title": "uvai-tools added to PyPI",
+          "link": "https://pypi.org/project/uvai-tools/",
           "date": "15 Aug 2026",
-          "summary": "DML-Bounds: ARDL bounds testing for cointegration with many persistent controls, via orthogonalisation and a restricted system wild bootstrap"
+          "summary": "Тег-команды ( , , , ...) и универсальная обвязка connect/system/system_stream для подключения любой генеративной модели"
         },
         {
-          "title": "klyra added to PyPI",
-          "link": "https://pypi.org/project/klyra/",
+          "title": "action0-github-api added to PyPI",
+          "link": "https://pypi.org/project/action0-github-api/",
           "date": "15 Aug 2026",
-          "summary": "Klyra — enterprise AI engineering gateway and cost-optimization proxy for Claude Code."
+          "summary": "A fully typed GitHub REST API client built on action0-client — sync, async or Twisted, decided by the backend you plug in"
         },
         {
-          "title": "prompt-tailor added to PyPI",
-          "link": "https://pypi.org/project/prompt-tailor/",
+          "title": "pumble-keys-sdk added to PyPI",
+          "link": "https://pypi.org/project/pumble-keys-sdk/",
           "date": "15 Aug 2026",
-          "summary": "Model-aware prompt refinement tool for Claude Code users"
+          "summary": "Unofficial Python SDK for the Pumble API Keys addon"
         },
         {
-          "title": "miteclaw-arena added to PyPI",
-          "link": "https://pypi.org/project/miteclaw-arena/",
+          "title": "songfinderdev added to PyPI",
+          "link": "https://pypi.org/project/songfinderdev/",
           "date": "15 Aug 2026",
-          "summary": "Python SDK for MiteClaw Arena Relay"
+          "summary": "Identify any song from a URL or audio file, then get its BPM, musical key, Camelot code and harmonically compatible tracks. CLI and client for the free Song Finder API — no API key, no dependencies."
         },
         {
-          "title": "erechnung added to PyPI",
-          "link": "https://pypi.org/project/erechnung/",
+          "title": "indonamegender added to PyPI",
+          "link": "https://pypi.org/project/indonamegender/",
           "date": "15 Aug 2026",
-          "summary": "ZUGFeRD/Factur-X Rechnungen (EN 16931, PDF/A-3, DIN 5008) einfach in Python erzeugen."
+          "summary": "Character-level gender classification for Indonesian personal names"
         },
         {
-          "title": "lemmapy added to PyPI",
-          "link": "https://pypi.org/project/lemmapy/",
+          "title": "landscape-restoration-hydrology-utac added to PyPI",
+          "link": "https://pypi.org/project/landscape-restoration-hydrology-utac/",
           "date": "15 Aug 2026",
-          "summary": "Verify annotated production Python: #@ specs compile to runtime contracts and translate to Dafny for SMT proofs."
+          "summary": "Landscape restoration hydrology -- the Murg/Rastatt floodplain reconnection case study, Umer et al. 2025's Kitwe NbS modeling, German drained-peatland emissions, and Pavlidis & Tsihrintzis 2018's agroforestry/hedgerow water-quality review -- extends glacier-bu…"
         },
         {
-          "title": "django-forge-log added to PyPI",
-          "link": "https://pypi.org/project/django-forge-log/",
+          "title": "urban-green-infrastructure-utac added to PyPI",
+          "link": "https://pypi.org/project/urban-green-infrastructure-utac/",
           "date": "15 Aug 2026",
-          "summary": "Audit trail léger et automatique (Qui/Quoi/Quand/Où/Diff) pour les vues Django, DRF et l'Admin"
+          "summary": "Urban green infrastructure hydrology -- soil sealing and groundwater recharge (Grischek et al. 1996, replacing an unverifiable statistic caught during verification), green roof stormwater retention (Zheng et al. 2021, Gregoire & Clausen 2011) -- companion to l…"
         },
         {
-          "title": "django-rentals added to PyPI",
-          "link": "https://pypi.org/project/django-rentals/",
+          "title": "axtbot-plugin-certd added to PyPI",
+          "link": "https://pypi.org/project/axtbot-plugin-certd/",
           "date": "15 Aug 2026",
-          "summary": "A Django Rest API for rental (vehicle/gear) listings, availability, and bookings."
+          "summary": "AxTBot 插件：接收 Certd 自定义 webhook 推送并转发证书通知到指定 QQ 群"
         },
         {
-          "title": "django-hotels added to PyPI",
-          "link": "https://pypi.org/project/django-hotels/",
+          "title": "safestream-redactor added to PyPI",
+          "link": "https://pypi.org/project/safestream-redactor/",
           "date": "15 Aug 2026",
-          "summary": "A Django Rest API for managing hotels, room types, availability, and bookings."
+          "summary": "Streaming PII & credential detection/redaction for very large text files with constant memory usage."
         },
         {
-          "title": "dexflow added to PyPI",
-          "link": "https://pypi.org/project/dexflow/",
+          "title": "assistant-runtime-sdk added to PyPI",
+          "link": "https://pypi.org/project/assistant-runtime-sdk/",
           "date": "15 Aug 2026",
-          "summary": "High-speed, deterministic desktop automation framework & AI agent execution layer for Python"
+          "summary": "Python SDK for Assistant Runtime - AI-powered assistant backend"
         },
         {
-          "title": "telugu-chandassu added to PyPI",
-          "link": "https://pypi.org/project/telugu-chandassu/",
+          "title": "driftwatch-cli added to PyPI",
+          "link": "https://pypi.org/project/driftwatch-cli/",
           "date": "15 Aug 2026",
-          "summary": "A rule-based engine for identifying Telugu prosodic meters (Chandassu) — Vritta, Jati, and Upajati padyam."
+          "summary": "CLI tool that detects Terraform infrastructure drift against live AWS, explains it with AI, and guides remediation."
         },
         {
-          "title": "obyflow-python added to PyPI",
-          "link": "https://pypi.org/project/obyflow-python/",
+          "title": "workspace-metabolism added to PyPI",
+          "link": "https://pypi.org/project/workspace-metabolism/",
           "date": "15 Aug 2026",
-          "summary": "Obyflow Python SDK — canonical event emission and local storage for the Obyflow observability platform"
+          "summary": "Policy-driven file lifecycle management: classify, audit, clean (recyclable), rollback and purge with a hash-chained audit trail."
         },
         {
-          "title": "deywuro added to PyPI",
-          "link": "https://pypi.org/project/deywuro/",
+          "title": "quoridor-rl added to PyPI",
+          "link": "https://pypi.org/project/quoridor-rl/",
           "date": "15 Aug 2026",
-          "summary": "Unofficial Python client for the Deywuro (Npontu) SMS gateway"
+          "summary": "A tested two-player Quoridor environment for reinforcement learning"
         },
         {
-          "title": "ontorag added to PyPI",
-          "link": "https://pypi.org/project/ontorag/",
+          "title": "pepkio-oligo-qc-instant added to PyPI",
+          "link": "https://pypi.org/project/pepkio-oligo-qc-instant/",
           "date": "15 Aug 2026",
-          "summary": "Ontology-first RAG: extract a governed knowledge graph from documents and serve it over SPARQL and MCP."
+          "summary": "Python client for Pepkio oligo-qc-instant tool"
         },
         {
-          "title": "btcu-harness added to PyPI",
-          "link": "https://pypi.org/project/btcu-harness/",
+          "title": "decp-core added to PyPI",
+          "link": "https://pypi.org/project/decp-core/",
           "date": "15 Aug 2026",
-          "summary": "Balanced Ternary Cognitive Unit Harness - A cognitive architecture for LLM-based agents"
+          "summary": "DECP · 联邦数字员工协作平台 —— 产品需求收集、整理与分析（数据层 + MCP 工具层 + 数字员工 Skill 层）"
         },
         {
-          "title": "freshwater-ecosystem-stressors-utac added to PyPI",
-          "link": "https://pypi.org/project/freshwater-ecosystem-stressors-utac/",
+          "title": "pepkio-oligo-qc-bench added to PyPI",
+          "link": "https://pypi.org/project/pepkio-oligo-qc-bench/",
           "date": "15 Aug 2026",
-          "summary": "Freshwater ecosystem stressors under deglacierization -- WWF Living Planet Report 2022's freshwater biodiversity decline, Ramsar Global Wetland Outlook's wetland loss, and the 2022 Oder/Odra River multi-stressor disaster case study -- the ecological bridge bet…"
+          "summary": "Python client for Pepkio oligo-qc-bench tool"
         },
         {
-          "title": "figgen added to PyPI",
-          "link": "https://pypi.org/project/figgen/",
+          "title": "my-agent-mesh added to PyPI",
+          "link": "https://pypi.org/project/my-agent-mesh/",
           "date": "15 Aug 2026",
-          "summary": "YAMLの仕様1枚から説明図を出す。配置はレイアウトエンジンではなく人が決める。"
+          "summary": "Local, auditable coordination and decision tracking for human and AI-agent teams"
         },
         {
-          "title": "nightcode added to PyPI",
-          "link": "https://pypi.org/project/nightcode/",
+          "title": "pepkio-matched-null-gene-set-generator added to PyPI",
+          "link": "https://pypi.org/project/pepkio-matched-null-gene-set-generator/",
           "date": "15 Aug 2026",
-          "summary": "An AI assistant in your terminal"
+          "summary": "Python client for Pepkio matched-null-gene-set-generator tool"
         },
         {
-          "title": "pennylane-zksf added to PyPI",
-          "link": "https://pypi.org/project/pennylane-zksf/",
+          "title": "tarsk added to PyPI",
+          "link": "https://pypi.org/project/tarsk/",
           "date": "15 Aug 2026",
-          "summary": "PennyLane device for the ZKSF certified quantum simulation service"
+          "summary": "Memory-bounded task queue for Python with a Rust runtime"
         },
         {
-          "title": "agents-md-debugger added to PyPI",
-          "link": "https://pypi.org/project/agents-md-debugger/",
+          "title": "aeo added to PyPI",
+          "link": "https://pypi.org/project/aeo/",
           "date": "15 Aug 2026",
-          "summary": "Explain which AGENTS.md instructions Codex discovers for any path"
+          "summary": "Answer Engine Optimization (AEO) for Python — measure and improve how your brand is cited in AI search answers from ChatGPT, Perplexity, Google AI Overviews, and Claude."
         }
       ]
     }
