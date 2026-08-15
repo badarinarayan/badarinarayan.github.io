@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-15T21:12:35Z",
+  "generated": "2026-08-15T22:11:59Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -280,6 +280,12 @@
           "summary": "OpenAI has decided to discontinue its plans for implementing recycled water cooling at its Sydney data center due to regulatory hurdles that hindered the necessary pipeline's construction. Consequently, the facility will adopt a more energy-intensive closed-lo…"
         },
         {
+          "title": "For 12 remote villages near China border, power is finally in sight",
+          "link": "https://timesofindia.indiatimes.com/city/dehradun/in-a-first-grid-power-on-way-to-12-remote-villages-near-border-with-china/articleshow/133255208.cms",
+          "date": "15 Aug 2026",
+          "summary": "Remote villages in Uttarakhand's Johar Valley will soon receive grid electricity for the first time. This significant development will benefit approximately 180 seasonal residents and ITBP personnel stationed there. The electrification project, costing Rs 21 c…"
+        },
+        {
           "title": "Amit Bhatia-led consortium buys minority stake in Liverpool FC",
           "link": "https://timesofindia.indiatimes.com/world/uk/amit-bhatia-led-consortium-buys-minority-stake-in-liverpool-fc/articleshow/133267506.cms",
           "date": "16 Aug 2026",
@@ -292,12 +298,6 @@
           "summary": ""
         },
         {
-          "title": "'I sincerely apologise': BCI chief to law students after row over NALSAR diktat",
-          "link": "https://timesofindia.indiatimes.com/city/hyderabad/after-backlash-bci-chairman-apologises-to-law-students-over-nalsar-controversy/articleshow/133265004.cms",
-          "date": "15 Aug 2026",
-          "summary": "In a heartfelt gesture, Bar Council of India chairman Manan Kumar Mishra issued an apology to law students, expressing regret if his statements or a letter had caused any distress. This move came after a significant uproar involving a guest invitation for NALS…"
-        },
-        {
           "title": "Patrick Mahomes, Brittany Mahomes' $5 million act builds lasting Texas legacy",
           "link": "https://timesofindia.indiatimes.com/sports/nfl/news/we-couldnt-be-prouder-how-patrick-mahomes-and-brittany-mahomes-5-million-act-of-kindness-turned-their-texas-roots-into-a-lasting-legacy/articleshow/133260398.cms",
           "date": "15 Aug 2026",
@@ -308,6 +308,12 @@
           "link": "https://timesofindia.indiatimes.com/sports/mma/news/khabib-nurmagomedov-sends-special-instagram-message-for-islam-makhachev-ahead-of-his-ufc-330-title-defense-against-ian-machado-garry/articleshow/133262580.cms",
           "date": "15 Aug 2026",
           "summary": "Khabib Nurmagomedov has praised Islam Makhachev's dedicated journey ahead of his significant welterweight title defense. Makhachev will face Ian Machado Garry at UFC 330 in Philadelphia this Saturday. While many expect Makhachev to win, Nurmagomedov respects G…"
+        },
+        {
+          "title": "'I sincerely apologise': BCI chief to law students after row over NALSAR diktat",
+          "link": "https://timesofindia.indiatimes.com/city/hyderabad/after-backlash-bci-chairman-apologises-to-law-students-over-nalsar-controversy/articleshow/133265004.cms",
+          "date": "15 Aug 2026",
+          "summary": "In a heartfelt gesture, Bar Council of India chairman Manan Kumar Mishra issued an apology to law students, expressing regret if his statements or a letter had caused any distress. This move came after a significant uproar involving a guest invitation for NALS…"
         },
         {
           "title": "Trump eyes millions from personal political funds for GOP amid midterm fears: Report",
@@ -368,12 +374,6 @@
           "link": "https://timesofindia.indiatimes.com/world/us/americas-civil-war-over-uss-lincoln-grow-a-pair-vs-bring-them-home/articleshow/133265580.cms",
           "date": "15 Aug 2026",
           "summary": ""
-        },
-        {
-          "title": "‘The way he has prepared’: India coach explains key to Padikkal’s maiden century",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/the-way-he-has-prepared-himself-india-coach-explains-key-to-devdutt-padikkals-maiden-test-century/articleshow/133264699.cms",
-          "date": "15 Aug 2026",
-          "summary": "Devdutt Padikkal scored an unbeaten 131 on his maiden international century. His improved back-foot game was credited by batting coach Sitanshu Kotak. Padikkal adapted well to Sri Lanka's spin-heavy bowling attack. KL Rahul also contributed significantly befor…"
         }
       ]
     },
@@ -1630,6 +1630,96 @@
       "ok": true,
       "items": [
         {
+          "title": "axon-ai-agent added to PyPI",
+          "link": "https://pypi.org/project/axon-ai-agent/",
+          "date": "15 Aug 2026",
+          "summary": "An extensible terminal AI agent for research, knowledge retrieval, and software development."
+        },
+        {
+          "title": "talocode-botlane added to PyPI",
+          "link": "https://pypi.org/project/talocode-botlane/",
+          "date": "15 Aug 2026",
+          "summary": "Telegram bridge for Grok/xAI-powered bots — run a Grok bot from Telegram with session memory, groups, and an allowlist"
+        },
+        {
+          "title": "wisrovi-python added to PyPI",
+          "link": "https://pypi.org/project/wisrovi-python/",
+          "date": "15 Aug 2026",
+          "summary": "Programa Integral de Formación en Python: De Cero a Agentes de IA"
+        },
+        {
+          "title": "boardlink added to PyPI",
+          "link": "https://pypi.org/project/boardlink/",
+          "date": "15 Aug 2026",
+          "summary": "Connect to climbing-board apps (Kilter, Tension, MoonBoard) and pull normalized logbooks."
+        },
+        {
+          "title": "acorde added to PyPI",
+          "link": "https://pypi.org/project/acorde/",
+          "date": "15 Aug 2026",
+          "summary": "Orchestrate multiple agents running in parallel."
+        },
+        {
+          "title": "geninit added to PyPI",
+          "link": "https://pypi.org/project/geninit/",
+          "date": "15 Aug 2026",
+          "summary": "Generate explicit, managed Python package initializers"
+        },
+        {
+          "title": "stayput added to PyPI",
+          "link": "https://pypi.org/project/stayput/",
+          "date": "15 Aug 2026",
+          "summary": "Deterministic Git-locus integrity primitive: sealed six-field snapshot, canonicalization, and record digest"
+        },
+        {
+          "title": "flyt added to PyPI",
+          "link": "https://pypi.org/project/flyt/",
+          "date": "15 Aug 2026",
+          "summary": "Your project's second memory"
+        },
+        {
+          "title": "gpuqu added to PyPI",
+          "link": "https://pypi.org/project/gpuqu/",
+          "date": "15 Aug 2026",
+          "summary": "Lightweight cross-platform GPU job queue with WebUI + metrics (zero pip deps)"
+        },
+        {
+          "title": "python-intl added to PyPI",
+          "link": "https://pypi.org/project/python-intl/",
+          "date": "15 Aug 2026",
+          "summary": "Add your description here"
+        },
+        {
+          "title": "odix added to PyPI",
+          "link": "https://pypi.org/project/odix/",
+          "date": "15 Aug 2026",
+          "summary": "An open-source publishing system for creating beautiful technical books from Markdown."
+        },
+        {
+          "title": "safetensors-print added to PyPI",
+          "link": "https://pypi.org/project/safetensors-print/",
+          "date": "15 Aug 2026",
+          "summary": "Print the header, metadata and complete data-segment layout of a .safetensors file"
+        },
+        {
+          "title": "sbirgrantsearch added to PyPI",
+          "link": "https://pypi.org/project/sbirgrantsearch/",
+          "date": "15 Aug 2026",
+          "summary": "Download US government innovation-funding records into one common schema, filtered how you ask."
+        },
+        {
+          "title": "ctok added to PyPI",
+          "link": "https://pypi.org/project/ctok/",
+          "date": "15 Aug 2026",
+          "summary": "Offline reconstruction of Claude's tokenizer token counts"
+        },
+        {
+          "title": "crs-zone-toolkit added to PyPI",
+          "link": "https://pypi.org/project/crs-zone-toolkit/",
+          "date": "15 Aug 2026",
+          "summary": "Analyse, recommandation et reprojection CRS pour les couches géospatiales du Québec (fuseaux MTM, Québec Lambert)"
+        },
+        {
           "title": "arcaeon-once added to PyPI",
           "link": "https://pypi.org/project/arcaeon-once/",
           "date": "15 Aug 2026",
@@ -1663,7 +1753,7 @@
           "title": "myndns added to PyPI",
           "link": "https://pypi.org/project/myndns/",
           "date": "15 Aug 2026",
-          "summary": "猫羽雫 DNS · 专为 DNSHE 打造的命令行工具"
+          "summary": "猫羽雫 DNS · 专为 DNSHE 打造的命令行工具，内置智谱 AI 免费模型"
         },
         {
           "title": "cordispy added to PyPI",
@@ -1718,96 +1808,6 @@
           "link": "https://pypi.org/project/webrender-worker/",
           "date": "15 Aug 2026",
           "summary": "WebRender local worker — a paired daemon that runs read-aloud TTS and handwriting recognition on your own machine."
-        },
-        {
-          "title": "gpt-budget-guard added to PyPI",
-          "link": "https://pypi.org/project/gpt-budget-guard/",
-          "date": "15 Aug 2026",
-          "summary": "Budget checks for OpenAI API costs, locally and in GitHub Actions."
-        },
-        {
-          "title": "small-lib added to PyPI",
-          "link": "https://pypi.org/project/small-lib/",
-          "date": "15 Aug 2026",
-          "summary": "State Machine, Async Lock, Logger"
-        },
-        {
-          "title": "saas-discovery-engine added to PyPI",
-          "link": "https://pypi.org/project/saas-discovery-engine/",
-          "date": "15 Aug 2026",
-          "summary": "SaaS Discovery Engine is a software discovery and comparison tool designed to help users identify the right SaaS products for specific needs."
-        },
-        {
-          "title": "rich-stdout added to PyPI",
-          "link": "https://pypi.org/project/rich-stdout/",
-          "date": "15 Aug 2026",
-          "summary": "A terminal styling and UI tool"
-        },
-        {
-          "title": "agent-ledger-adapters added to PyPI",
-          "link": "https://pypi.org/project/agent-ledger-adapters/",
-          "date": "15 Aug 2026",
-          "summary": "One-liner audit trails + policy enforcement for LangChain, LlamaIndex and OpenAI Agents — zero dependencies"
-        },
-        {
-          "title": "nonebot-plugin-autospeak added to PyPI",
-          "link": "https://pypi.org/project/nonebot-plugin-autospeak/",
-          "date": "15 Aug 2026",
-          "summary": "NoneBot2 定时自动发言插件：群聊/私聊、JSON 配置、多条随机消息、按星期发送、预设占位符"
-        },
-        {
-          "title": "acal-awsadmin added to PyPI",
-          "link": "https://pypi.org/project/acal-awsadmin/",
-          "date": "15 Aug 2026",
-          "summary": "None"
-        },
-        {
-          "title": "llmlatency added to PyPI",
-          "link": "https://pypi.org/project/llmlatency/",
-          "date": "15 Aug 2026",
-          "summary": "Measured latency and uptime for AI inference APIs — client for the open llmlatency.dev dataset"
-        },
-        {
-          "title": "gini-toolkit added to PyPI",
-          "link": "https://pypi.org/project/gini-toolkit/",
-          "date": "15 Aug 2026",
-          "summary": "GINI gBuilder — next-generation topology builder for computer networks and cloud computing experimentation"
-        },
-        {
-          "title": "mitra-functions-sdk added to PyPI",
-          "link": "https://pypi.org/project/mitra-functions-sdk/",
-          "date": "15 Aug 2026",
-          "summary": "Mitra Platform SDK for Python Server Functions"
-        },
-        {
-          "title": "tracedeck added to PyPI",
-          "link": "https://pypi.org/project/tracedeck/",
-          "date": "15 Aug 2026",
-          "summary": "Structured agent decision logs: replay, decision-point diff, golden regression checks, failure-to-test extraction"
-        },
-        {
-          "title": "ctxforge-ai added to PyPI",
-          "link": "https://pypi.org/project/ctxforge-ai/",
-          "date": "15 Aug 2026",
-          "summary": "Context compiler: raw documents to a queryable wiki (concepts, backlinks, search, health checks)"
-        },
-        {
-          "title": "agent-gatekeep added to PyPI",
-          "link": "https://pypi.org/project/agent-gatekeep/",
-          "date": "15 Aug 2026",
-          "summary": "Agent control surface: vault-backed rollback, typed hooks, circuit breaker, audit log"
-        },
-        {
-          "title": "openagentfence added to PyPI",
-          "link": "https://pypi.org/project/openagentfence/",
-          "date": "15 Aug 2026",
-          "summary": "Python interoperability utilities for OpenAgentFence security traces (early development)"
-        },
-        {
-          "title": "scoop-latex-packer added to PyPI",
-          "link": "https://pypi.org/project/scoop-latex-packer/",
-          "date": "15 Aug 2026",
-          "summary": "Package a top-level .tex file and its dependencies into a .zip for submission to publishers or arXiv."
         }
       ]
     }
