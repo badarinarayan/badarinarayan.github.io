@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-17T18:24:24Z",
+  "generated": "2026-08-17T19:21:04Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -1152,6 +1152,18 @@
       "ok": true,
       "items": [
         {
+          "title": "US Grid Operator PJM Proposes Forcing Data Center Off Grid During Emergencies",
+          "link": "https://hardware.slashdot.org/story/26/08/17/1842250/us-grid-operator-pjm-proposes-forcing-data-center-off-grid-during-emergencies?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "17 Aug 2026",
+          "summary": "An anonymous reader quotes a report from Reuters: PJM Interconnection, the biggest U.S. grid operator, proposed on Thursday a new framework that would force data centers to use back-up generators when electricity supply on the grid approaches dangerously low l…"
+        },
+        {
+          "title": "OpenAI Announces Massive Data Center In Ohio With $105 Billion Nvidia Guarantee",
+          "link": "https://news.slashdot.org/story/26/08/17/1831220/openai-announces-massive-data-center-in-ohio-with-105-billion-nvidia-guarantee?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "17 Aug 2026",
+          "summary": "OpenAI has signed a 10-year lease for an enormous Ohio data center that will eventually provide 8 gigawatts of computing capacity and require at least 10 gigawatts of new power generation. According to OpenAI, Nvidia will be supplying the chips and guaranteein…"
+        },
+        {
           "title": "Tracking Rare Books Leads to an Amazon AI Training Facility",
           "link": "https://news.slashdot.org/story/26/08/17/1644216/tracking-rare-books-leads-to-an-amazon-ai-training-facility?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "17 Aug 2026",
@@ -1228,18 +1240,6 @@
           "link": "https://tech.slashdot.org/story/26/08/16/0326249/blueskys-active-user-base-shrinks-52-over-18-months-but-its-protocol-is-spreading?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "16 Aug 2026",
           "summary": "An anonymous reader shared this report from TechCrunch: According to data from digital intelligence provider Similarweb, Bluesky's mobile app had 10.4 million monthly active users worldwide in June 2026, down 27.2% year-over-year. In addition, mobile daily act…"
-        },
-        {
-          "title": "Disneyland Announces Star Wars/Fortnite Collaboration, 'Avatar' Attraction, and a Newer Tomorrowland",
-          "link": "https://games.slashdot.org/story/26/08/16/0757205/disneyland-announces-star-warsfortnite-collaboration-avatar-attraction-and-a-newer-tomorrowland?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "16 Aug 2026",
-          "summary": "Saturday Disneyland announced a special Star Wars-themed collaboration with third-person shooter game Fortnite &mdash; including a slick new trailer for its Star Wars: Smuggler's Gambit quest. Visitors to Disneyland's Smuggler's Run attraction at Disney's them…"
-        },
-        {
-          "title": "Researchers Use Ordinary WiFi Connections to Create Images of Nearby People and Their Surroundings",
-          "link": "https://mobile.slashdot.org/story/26/08/16/057254/researchers-use-ordinary-wifi-connections-to-create-images-of-nearby-people-and-their-surroundings?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "16 Aug 2026",
-          "summary": "Science Daily reports: Researchers showed that unencrypted signals routinely exchanged between WiFi devices and routers can be used to create radio-based images of people and recognize them within seconds. In tests involving 197 participants, the system identi…"
         }
       ]
     },
@@ -1630,6 +1630,54 @@
       "ok": true,
       "items": [
         {
+          "title": "FEMMInterpreter added to PyPI",
+          "link": "https://pypi.org/project/femminterpreter/",
+          "date": "17 Aug 2026",
+          "summary": "A python library for interpreting FEMM solution files"
+        },
+        {
+          "title": "remus-net added to PyPI",
+          "link": "https://pypi.org/project/remus-net/",
+          "date": "17 Aug 2026",
+          "summary": "Add your description here"
+        },
+        {
+          "title": "evagix added to PyPI",
+          "link": "https://pypi.org/project/evagix/",
+          "date": "17 Aug 2026",
+          "summary": "Local-first evidence gate for AI-assisted repositories."
+        },
+        {
+          "title": "humanevals added to PyPI",
+          "link": "https://pypi.org/project/humanevals/",
+          "date": "17 Aug 2026",
+          "summary": "Human-backed scorers for your evals. Autoevals-compatible Score objects, powered by real human annotators via the Datapoint API."
+        },
+        {
+          "title": "vramen added to PyPI",
+          "link": "https://pypi.org/project/vramen/",
+          "date": "17 Aug 2026",
+          "summary": "A local inference server that keeps several models resident side by side under a fixed memory quota."
+        },
+        {
+          "title": "ihike added to PyPI",
+          "link": "https://pypi.org/project/ihike/",
+          "date": "17 Aug 2026",
+          "summary": "Add your description here"
+        },
+        {
+          "title": "devicefarm-caixa added to PyPI",
+          "link": "https://pypi.org/project/devicefarm-caixa/",
+          "date": "17 Aug 2026",
+          "summary": "Biblioteca Robot Framework para Device Farm"
+        },
+        {
+          "title": "bolt-lzss added to PyPI",
+          "link": "https://pypi.org/project/bolt-lzss/",
+          "date": "17 Aug 2026",
+          "summary": "Encoder and decoder for the LZSS variant in Mass Media's BOLT archives"
+        },
+        {
           "title": "roboviewer added to PyPI",
           "link": "https://pypi.org/project/roboviewer/",
           "date": "17 Aug 2026",
@@ -1760,54 +1808,6 @@
           "link": "https://pypi.org/project/rift-pesummary-asimov-adapter/",
           "date": "17 Aug 2026",
           "summary": "ASIMOV 0.7+ adapter for RIFT PESummary postprocessing"
-        },
-        {
-          "title": "data-clean-push-9711 added to PyPI",
-          "link": "https://pypi.org/project/data-clean-push-9711/",
-          "date": "17 Aug 2026",
-          "summary": "A simple helper package to clean pandas DataFrames"
-        },
-        {
-          "title": "muthuishere-modelnexus added to PyPI",
-          "link": "https://pypi.org/project/muthuishere-modelnexus/",
-          "date": "17 Aug 2026",
-          "summary": "Local LLM inference in your own process — llama.cpp via a C ABI. No daemon, no port."
-        },
-        {
-          "title": "prism-honesty added to PyPI",
-          "link": "https://pypi.org/project/prism-honesty/",
-          "date": "17 Aug 2026",
-          "summary": "Provider-agnostic honesty gate for LLM answers: fact-integrity audit with a verbatim backstop and fail-closed semantics"
-        },
-        {
-          "title": "httpz-requests-bot added to PyPI",
-          "link": "https://pypi.org/project/httpz-requests-bot/",
-          "date": "17 Aug 2026",
-          "summary": "Stub so naive auto-installers can resolve httpz_requests.bot -> installs httpz-requests"
-        },
-        {
-          "title": "glove-word-embeddings added to PyPI",
-          "link": "https://pypi.org/project/glove-word-embeddings/",
-          "date": "17 Aug 2026",
-          "summary": "Validate, categorize, and embed words for academic research (Wang et al., 2026 and Olson et al., 2021)"
-        },
-        {
-          "title": "dimap added to PyPI",
-          "link": "https://pypi.org/project/dimap/",
-          "date": "17 Aug 2026",
-          "summary": "Decentralized Instant Messaging Protocol"
-        },
-        {
-          "title": "oroscope added to PyPI",
-          "link": "https://pypi.org/project/oroscope/",
-          "date": "17 Aug 2026",
-          "summary": "Terrain site search for particle-astrophysics observatories, from digital elevation models"
-        },
-        {
-          "title": "render-langgraph added to PyPI",
-          "link": "https://pypi.org/project/render-langgraph/",
-          "date": "17 Aug 2026",
-          "summary": "Zero-config LangGraph graph visualizer"
         }
       ]
     }
