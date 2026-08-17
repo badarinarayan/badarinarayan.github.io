@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-17T07:44:12Z",
+  "generated": "2026-08-17T08:32:46Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -196,16 +196,94 @@
       "ok": true,
       "items": [
         {
+          "title": "Before Chandrasekaran's exit, he and Noel Tata separately briefed govt on rift, concerns",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/before-chandras-exit-he-and-noel-tata-separately-briefed-govt-on-rift-concerns/articleshow/133284282.cms",
+          "date": "17 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Cauvery row: SC asks Karnataka to comply with water release directions to Tamil Nadu",
+          "link": "https://timesofindia.indiatimes.com/india/cauvery-row-supreme-court-asks-karnataka-to-comply-with-water-release-directions-to-tamil-nadu/articleshow/133290747.cms",
+          "date": "17 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "'Will rise for it, won't sing it': Congress MP Masood explains stand on Vande Mataram",
+          "link": "https://timesofindia.indiatimes.com/india/will-rise-for-it-wont-sing-it-congress-mp-imran-masood-explains-stand-on-vande-mataram/articleshow/133291015.cms",
+          "date": "17 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "JD(S) leader arrested for assaulting Bengaluru traffic constable on duty - video",
+          "link": "https://timesofindia.indiatimes.com/city/bengaluru/jds-leader-arrested-for-assaulting-bengaluru-traffic-constable-on-duty/articleshow/133290243.cms",
+          "date": "17 Aug 2026",
+          "summary": "JD(S) leader Manjunath was arrested for allegedly assaulting a traffic constable on duty. The incident occurred when the constable stopped Manjath's vehicle to regulate traffic flow. An argument escalated, and Manjath reportedly grabbed the constable by his co…"
+        },
+        {
+          "title": "Anthropic CEO to AI companies: Fulfil your cancer promise, rather than blaming me",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-ceo-dario-amodei-to-ai-companies-fulfil-your-cancer-promise-rather-than-blaming-me/articleshow/133286084.cms",
+          "date": "17 Aug 2026",
+          "summary": "Anthropic CEO Dario Amodei believes public negativity towards AI stems from a deep crisis of trust. He argues that genuine breakthroughs, not marketing, will rebuild credibility with ordinary people. Amodei stated that AI firms must deliver tangible benefits t…"
+        },
+        {
+          "title": "How India’s WTC final hopes hurt after Bangladesh's win over Australia: Explained",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/how-indias-wtc-final-hopes-take-a-hit-after-bangladeshs-historic-win-over-australia-explained/articleshow/133286100.cms",
+          "date": "17 Aug 2026",
+          "summary": "Cameron Green's maiden Test century at home delayed the result, but Bangladesh had already taken control of the match after three-and-a-half days of cricket on a Marrara Stadium pitch that offered a good contest between bat and ball."
+        },
+        {
+          "title": "'Minor portion' of Ganga Expressway sinks amid heavy rain",
+          "link": "https://timesofindia.indiatimes.com/city/meerut/minor-portion-of-ganga-expressway-sinks-amid-heavy-rain/articleshow/133285229.cms",
+          "date": "17 Aug 2026",
+          "summary": "A section of the Ganga Expressway near Bijnor sank due to heavy rainfall. The road developed a depression and pothole-like damage on August 14. Authorities dispatched a maintenance team which promptly began repair work. The affected road surface was restored s…"
+        },
+        {
+          "title": "2 more Air India pilots fail to clear dope test after Phuket-Delhi flight scare",
+          "link": "https://timesofindia.indiatimes.com/india/two-air-india-pilots-fail-prelim-dope-test-sample-sent-for-confirmation-test/articleshow/133289912.cms",
+          "date": "17 Aug 2026",
+          "summary": "Air India's recent pilot screening revealed two non-negative dope test results, leading to these pilots being grounded while awaiting confirmatory tests. In response, the aviation ministry has instructed the DGCA to revise current dope testing protocols. The i…"
+        },
+        {
+          "title": "MacKenzie Scott helped abolish $40bn in medical debt; how mechanics work",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-ex-wife-mackenzie-scott-who-sold-half-of-her-amazon-stake-has-helped-abolish-40-billion-in-medical-debt-how-mechanics-work/articleshow/133240371.cms",
+          "date": "14 Aug 2026",
+          "summary": "MacKenzie Scott's philanthropic efforts have made a significant impact by enabling the cancellation of medical debt across the United States. By purchasing and eliminating patient debt at a minimal cost, she has set a precedent that encourages other wealthy in…"
+        },
+        {
+          "title": "California startup's $3 billion 'manta ray' jet promises 50% lower fuel use",
+          "link": "https://timesofindia.indiatimes.com/world/us/california-startup-jetzero-is-building-a-3-billion-manta-ray-aircraft-that-promises-to-cut-fuel-consumption-by-50-carry-250-passengers-and-replace-traditional-windows-with-screens-japan-airlines-just-joined-the-project/articleshow/133287884.cms",
+          "date": "17 Aug 2026",
+          "summary": "JetZero is unveiling a cutting-edge 'manta ray' aircraft aimed at revolutionizing the future of commercial aviation. This groundbreaking design is expected to yield impressive fuel savings and significantly lower emissions. With a full-scale prototype schedule…"
+        },
+        {
+          "title": "New Zealand teacher and students turn coastal paddock into native habitat",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/in-1997-a-new-zealand-teacher-began-planting-a-windswept-coastal-paddock-with-year-9-students-29-years-later-12425-plants-have-turned-it-into-native-habitat/articleshow/133288191.cms",
+          "date": "17 Aug 2026",
+          "summary": "Retired teacher Janet Pottinger spent 29 years helping Buller High School students restore native vegetation at Tauranga Bay and Cape Foulwind in New Zealand. Since 1997, around 2,800 students have planted 12,425 native plants across 108 trips. The project has…"
+        },
+        {
+          "title": "Accenture CEO Julie Sweet makes a 'vacation request' to employees for this month",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/accenture-ceo-julie-sweet-makes-a-vacation-request-to-employees-for-this-august/articleshow/133284654.cms",
+          "date": "17 Aug 2026",
+          "summary": "Accenture's CEO, Julie Sweet, has requested that employees delay their vacation in August. This temporary policy adjustment is designed to bolster staff presence as the company approaches the end of its financial year. Following disappointing quarterly results…"
+        },
+        {
+          "title": "Awarapan 2 box office collection day 4: Emraan film nears Rs 85 crore",
+          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/awarapan-2-box-office-collection-day-4-live-emraan-hashmi-and-disha-patani-film-nears-rs-85-crore-and-eyes-rs-100-crore-milestone-amid-worldwide-gross-of-rs-110-10-crore/articleshow/133290775.cms",
+          "date": "17 Aug 2026",
+          "summary": "Emraan Hashmi's 'Awarapan 2' has emerged as the standout performer of the Independence Day box office clash, and the sequel to the 2007 cult favourite is now closing in on a major milestone. After a stellar extended weekend, the film enters its first working M…"
+        },
+        {
           "title": "'We owe them our solidarity': Rahul writes to ally Soren over student protests",
           "link": "https://timesofindia.indiatimes.com/india/we-owe-them-our-solidarity-rahul-gandhi-writes-to-ally-hemant-soren-over-jharkhand-student-protests/articleshow/133288684.cms",
           "date": "17 Aug 2026",
           "summary": "Rahul Gandhi has thrown his weight behind students protesting against the irregularities in Jharkhand's recruitment exams. He has called on Chief Minister Hemant Soren to engage with student representatives amid an ongoing indefinite hunger strike by some. Gan…"
         },
         {
-          "title": "Two Air India pilots fail prelim dope test; sample sent for confirmation test",
-          "link": "https://timesofindia.indiatimes.com/india/two-air-india-pilots-fail-prelim-dope-test-sample-sent-for-confirmation-test/articleshow/133289912.cms",
+          "title": "'Tent fell, barricades collapsed': Stampede-like situation at Ujjain temple leaves devotees injured",
+          "link": "https://timesofindia.indiatimes.com/india/tent-fell-barricades-collapsed-stampede-like-situation-at-ujjain-temple-leaves-devotees-injured/articleshow/133290877.cms",
           "date": "17 Aug 2026",
-          "summary": "Air India's recent pilot screening revealed two non-negative dope test results, leading to these pilots being grounded while awaiting confirmatory tests. In response, the aviation ministry has instructed the DGCA to revise current dope testing protocols. The i…"
+          "summary": ""
         },
         {
           "title": "Hours after CJP's school inspection call, Rajasthan bars outsiders from campuses",
@@ -220,46 +298,16 @@
           "summary": ""
         },
         {
-          "title": "ChatGPT gave Google ‘Code Red’; now OpenAI’s Greg Brockman faces ‘Red Flag’",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/chatgpt-gave-google-code-red-prompting-co-founder-sergey-brins-return-now-openais-greg-brockman-is-facing-red-flag/articleshow/133286089.cms",
-          "date": "17 Aug 2026",
-          "summary": "OpenAI is facing a notable shift in its leadership as key executives step down amid the company's upcoming initial public offering. With the resignation of Chief Revenue Officer Denise Dresser and COO Brad Lightcap, experts are voicing worries about the potent…"
-        },
-        {
           "title": "Prashant Kishor takes oath as Bankipur MLA after first Jan Suraaj victory",
           "link": "https://timesofindia.indiatimes.com/india/prashant-kishor-takes-oath-as-bankipur-mla-after-first-jan-suraaj-victory/articleshow/133288567.cms",
           "date": "17 Aug 2026",
           "summary": ""
         },
         {
-          "title": "MacKenzie Scott helped abolish $40bn in medical debt; how mechanics work",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-ex-wife-mackenzie-scott-who-sold-half-of-her-amazon-stake-has-helped-abolish-40-billion-in-medical-debt-how-mechanics-work/articleshow/133240371.cms",
-          "date": "14 Aug 2026",
-          "summary": "MacKenzie Scott's philanthropic efforts have made a significant impact by enabling the cancellation of medical debt across the United States. By purchasing and eliminating patient debt at a minimal cost, she has set a precedent that encourages other wealthy in…"
-        },
-        {
           "title": "'Not worthy of life': Israel calls for killing '30 to 40' people daily in Gaza",
           "link": "https://timesofindia.indiatimes.com/world/middle-east/not-worthy-of-life-israel-minister-ben-gvir-calls-for-killing-30-to-40-people-daily-in-gaza/articleshow/133285463.cms",
           "date": "17 Aug 2026",
           "summary": ""
-        },
-        {
-          "title": "Four raccoons released in Germany grew into 30,000 in Kassel",
-          "link": "https://timesofindia.indiatimes.com/world/europe/two-pairs-of-north-american-raccoons-were-released-in-germanys-kassel-today-it-is-called-the-raccoon-capital-of-europe-with-a-population-of-around-30000-animals-and-a-disturbed-public-life/articleshow/133288632.cms",
-          "date": "17 Aug 2026",
-          "summary": "Intriguingly, German raccoons, previously thought to have ties to Hermann Göring, were dispersed through administrative action. Research uncovering archival documents traces their onset to Kassel in 1934. Moreover, genetic studies have pinpointed several other…"
-        },
-        {
-          "title": "Ferrari's first electric car sells for $40 million at charity auction",
-          "link": "https://timesofindia.indiatimes.com/world/us/ferraris-first-all-electric-car-sells-for-40-million-at-charity-auction-nearly-40-times-initial-estimate-of-1-1-million-buyer-wont-receive-it-until-2027/articleshow/133279287.cms",
-          "date": "16 Aug 2026",
-          "summary": "Ferrari’s first all-electric car, the bespoke Luce “Chassis 0,” has sold for a record $40 million at a charity auction in Monterey, nearly 40 times its initial $1.1 million estimate. The sale makes it the most expensive new car ever auctioned, while the buyer…"
-        },
-        {
-          "title": "Accenture CEO Julie Sweet makes a 'vacation request' to employees for this month",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/accenture-ceo-julie-sweet-makes-a-vacation-request-to-employees-for-this-august/articleshow/133284654.cms",
-          "date": "17 Aug 2026",
-          "summary": "Accenture's CEO, Julie Sweet, has requested that employees delay their vacation in August. This temporary policy adjustment is designed to bolster staff presence as the company approaches the end of its financial year. Following disappointing quarterly results…"
         },
         {
           "title": "'I’m an actor, I earn from it': Ajay on elaichi row, SRK on controversial ads",
@@ -326,54 +374,6 @@
           "link": "https://timesofindia.indiatimes.com/world/middle-east/iran-offers-30000-bounty-for-killing-capturing-us-soldiers-60000-if-done-by-women/articleshow/133285844.cms",
           "date": "17 Aug 2026",
           "summary": ""
-        },
-        {
-          "title": "‘Very good’ ties with Kim: Trump orders 'substantial' cut in military drills with South Korea",
-          "link": "https://timesofindia.indiatimes.com/world/us/trump-orders-substantial-cut-in-military-drills-with-south-korea-after-it-stayed-out-of-iran-war/articleshow/133284118.cms",
-          "date": "17 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Noida biker at 80kmph dies after Chinese manjha slits his throat",
-          "link": "https://timesofindia.indiatimes.com/city/noida/biker-at-80kmph-dies-after-chinese-manjha-slits-his-throat-on-dme/articleshow/133281570.cms",
-          "date": "17 Aug 2026",
-          "summary": "A delivery agent died after a Chinese manjha slit his throat on the expressway. The synthetic kite string caused fatal bleeding while the bike traveled at high speed. Police have arrested several individuals for selling the banned Chinese manjha. Authorities a…"
-        },
-        {
-          "title": "Trump clears foreign shipyards to build US warships - what it means for India",
-          "link": "https://timesofindia.indiatimes.com/defence/news/trump-clears-foreign-shipyards-to-build-us-warships-what-it-means-for-india/articleshow/133287356.cms",
-          "date": "17 Aug 2026",
-          "summary": "The United States has opened its naval shipbuilding to foreign yards. This new policy allows overseas shipbuilders to construct US Navy vessels. Indian shipyards may now be considered for this significant construction work. Foreign builders must establish or i…"
-        },
-        {
-          "title": "Vande Mataram 'disruption' row: Delhi Police probes complaint against Sonia, Rahul",
-          "link": "https://timesofindia.indiatimes.com/india/vande-mataram-disruption-row-delhi-police-probes-complaint-against-sonia-gandhi-rahul/articleshow/133286228.cms",
-          "date": "17 Aug 2026",
-          "summary": "The Delhi Police have launched an investigation into a complaint against Sonia and Rahul Gandhi, alleging that they disrupted the singing of Vande Mataram at an Independence Day celebration. Advocates supporting the complaint have referenced video evidence and…"
-        },
-        {
-          "title": "Europe wildfires: 2 dead, 500 evacuated as twin blazes hit Greek island near Athens",
-          "link": "https://timesofindia.indiatimes.com/world/europe/europe-wildfires-2-dead-500-evacuated-as-twin-blazes-hit-greek-island-near-athens/articleshow/133285715.cms",
-          "date": "17 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Nurse leaves bedridden woman unattended, consumer commission orders agency to pay Rs 24K",
-          "link": "https://timesofindia.indiatimes.com/legal/news/nurse-leaves-bedridden-woman-unattended-consumer-commission-orders-agency-to-pay-rs-24000/articleshow/133286929.cms",
-          "date": "17 Aug 2026",
-          "summary": "A Kerala consumer commission found a nursing agency deficient in service. The agency failed to provide a replacement nurse for a bedridden elderly woman. This abrupt discontinuation of care caused significant distress and inconvenience to the patient. The comm…"
-        },
-        {
-          "title": "Rupee falls 17 paise against US dollar as FCNR swap deadline weighs down sentiment",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/rupee-falls-17-paise-to-95-59-against-us-dollar-as-fcnr-swap-deadline-weighs-down-sentiment/articleshow/133286610.cms",
-          "date": "17 Aug 2026",
-          "summary": "The Indian rupee fell against the US dollar at the start of Monday, influenced by the Reserve Bank of India's move to advance a deposit swap deadline. While the bank had previously drawn in substantial foreign currency, analysts predict temporary support for t…"
-        },
-        {
-          "title": "Savannah James' $40 million legacy with LeBron James explained",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/its-frustrating-to-still-not-see-healthier-options-for-kids-how-savannah-james-40-million-philanthropic-legacy-with-lebron-james-is-making-a-difference-beyond-basketball/articleshow/133269538.cms",
-          "date": "16 Aug 2026",
-          "summary": "With a strong commitment to philanthropy and entrepreneurship, Savannah James has made a name for herself. Her collaboration with K+ Organics has resulted in healthier sports drink options for young athletes. Moreover, the James family’s generous donation of o…"
         }
       ]
     },
@@ -760,6 +760,12 @@
       "ok": true,
       "items": [
         {
+          "title": "AI and data centers have leapfrogged Israel, racism, and crypto as US campaign topics",
+          "link": "https://the-decoder.com/ai-and-data-centers-have-leapfrogged-israel-racism-and-crypto-as-us-campaign-topics/",
+          "date": "17 Aug 2026",
+          "summary": "AI shows up in nearly 40 percent of all US races, ranking ahead of Israel, racism, and manufacturing as a campaign topic. Data centers and their impact on electricity costs and local resources drive most of the conversation. The article AI and data centers hav…"
+        },
+        {
           "title": "Stripe is reportedly acquiring AI startup OpenRouter for more than $7 billion",
           "link": "https://the-decoder.com/stripe-is-reportedly-acquiring-ai-startup-openrouter-for-more-than-7-billion/",
           "date": "17 Aug 2026",
@@ -812,12 +818,6 @@
           "link": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors/",
           "date": "15 Aug 2026",
           "summary": "AI-generated books make up 20 percent of Amazon's self-published catalog but bring in only 12 percent of sales. A new study finds that revenue per book is dropping for human-written titles too, in seven of eight genres. The findings could give copyright plaint…"
-        },
-        {
-          "title": "Plaintiff hid invisible AI instructions in court filings to secretly influence automated review",
-          "link": "https://the-decoder.com/plaintiff-hid-invisible-ai-instructions-in-court-filings-to-secretly-influence-automated-review/",
-          "date": "15 Aug 2026",
-          "summary": "A plaintiff in Connecticut embedded invisible prompt injections in court filings, formatted in 3-point white text on a white background, to manipulate a potential AI review system. Judge Spader compared the attempt to secretly tampering with a jury and revoked…"
         }
       ]
     },
@@ -1152,6 +1152,12 @@
       "ok": true,
       "items": [
         {
+          "title": "Amazon's New User Agreement Seeks To Curb Class-action Suits",
+          "link": "https://yro.slashdot.org/story/26/08/17/0447233/amazons-new-user-agreement-seeks-to-curb-class-action-suits?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "17 Aug 2026",
+          "summary": "Amazon has \"reintroduced a clause in its user agreement that seeks to prevent shoppers from filing class-action lawsuits against the online retailer,\" reports Bloomberg, \"inserting a legal buffer between itself and plaintiffs attorneys that it removed five yea…"
+        },
+        {
           "title": "A Rosier Future for Linux Gamers? Epic Games Announces Linux Version of Its Storefront",
           "link": "https://linux.slashdot.org/story/26/08/17/0331227/a-rosier-future-for-linux-gamers-epic-games-announces-linux-version-of-its-storefront?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "17 Aug 2026",
@@ -1234,12 +1240,6 @@
           "link": "https://slashdot.org/story/26/08/16/0223258/x-open-sources-its-ranking-and-filtering-algorithms?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "16 Aug 2026",
           "summary": "An anonymous reader shared this report from TechCrunch: X is significantly expanding its open source codebase, which includes the app's \"For You\" algorithm and its core ranking engine, and adding a feature that will let users see if their account or posts have…"
-        },
-        {
-          "title": "Why Europe Keeps Being Pummeled by Heat Waves",
-          "link": "https://news.slashdot.org/story/26/08/15/0544251/why-europe-keeps-being-pummeled-by-heat-waves?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "15 Aug 2026",
-          "summary": "Europe is facing its fifth round of dangerously high temperatures this summer, the New York Times reports. Now climate scientists wonder if global warming is doing more than raise temperatures... The weather patterns that create heat domes aren't new, but toda…"
         }
       ]
     },
@@ -1630,184 +1630,184 @@
       "ok": true,
       "items": [
         {
-          "title": "lintorn added to PyPI",
-          "link": "https://pypi.org/project/lintorn/",
+          "title": "codecat added to PyPI",
+          "link": "https://pypi.org/project/codecat/",
           "date": "17 Aug 2026",
-          "summary": "Audits your code and the memory your AI assistant reads — and tells you when the two drift apart."
+          "summary": "CodeCat: AI-Powered Python Agent Framework"
         },
         {
-          "title": "coderio added to PyPI",
-          "link": "https://pypi.org/project/coderio/",
+          "title": "asimov-lalinference added to PyPI",
+          "link": "https://pypi.org/project/asimov-lalinference/",
           "date": "17 Aug 2026",
-          "summary": "A skill-driven coding agent — structural harness, foldable thinking TUI, deepagents engine."
+          "summary": "LALInference pipeline integration for Asimov"
         },
         {
-          "title": "exuv added to PyPI",
-          "link": "https://pypi.org/project/exuv/",
+          "title": "guildera added to PyPI",
+          "link": "https://pypi.org/project/guildera/",
           "date": "17 Aug 2026",
-          "summary": "A fast, Rust-powered CLI tool that finds, reports, and fixes re-exports in Python projects"
+          "summary": "GuildEra X Scraper SDK - scrape Twitter/X via MCP with x402 crypto payments"
         },
         {
-          "title": "shopee-beeai-adk-session-core added to PyPI",
-          "link": "https://pypi.org/project/shopee-beeai-adk-session-core/",
+          "title": "fontpkg-abril-fatface added to PyPI",
+          "link": "https://pypi.org/project/fontpkg-abril-fatface/",
           "date": "17 Aug 2026",
-          "summary": "A small example package"
+          "summary": "Abril Fatface font family, packaged for Python by fontpkg"
         },
         {
-          "title": "kaisen added to PyPI",
-          "link": "https://pypi.org/project/kaisen/",
+          "title": "fontpkg-abel added to PyPI",
+          "link": "https://pypi.org/project/fontpkg-abel/",
           "date": "17 Aug 2026",
-          "summary": "KAISEN - terminal coding agent that runs commands, reads and writes files in your own shell"
+          "summary": "Abel font family, packaged for Python by fontpkg"
         },
         {
-          "title": "xyberos-redis added to PyPI",
-          "link": "https://pypi.org/project/xyberos-redis/",
+          "title": "fontpkg-abeezee added to PyPI",
+          "link": "https://pypi.org/project/fontpkg-abeezee/",
           "date": "17 Aug 2026",
-          "summary": "Redis plugin (RFC-0019, M4): RedisVectorStore + RedisMemory + cache backing for CacheResponder"
+          "summary": "ABeeZee font family, packaged for Python by fontpkg"
         },
         {
-          "title": "xyberos-qdrant added to PyPI",
-          "link": "https://pypi.org/project/xyberos-qdrant/",
+          "title": "my-A.G.I.E.S added to PyPI",
+          "link": "https://pypi.org/project/my-a-g-i-e-s/",
           "date": "17 Aug 2026",
-          "summary": "Qdrant VectorStore plugin (RFC-0019, M4): hosted or in-memory Qdrant as an xyberos VectorStore"
+          "summary": "This is a speech-to-text package created by Tushar"
         },
         {
-          "title": "xyberos-faiss added to PyPI",
-          "link": "https://pypi.org/project/xyberos-faiss/",
+          "title": "al3dtiles added to PyPI",
+          "link": "https://pypi.org/project/al3dtiles/",
           "date": "17 Aug 2026",
-          "summary": "FAISS VectorStore plugin (RFC-0019, M4): local, dependency-free-of-server vector search"
+          "summary": "High-performance 3D Tiles v1.0/v1.1 reader, parser and converter (Cython + C++)"
         },
         {
-          "title": "bitsandbytes-kernels added to PyPI",
-          "link": "https://pypi.org/project/bitsandbytes-kernels/",
+          "title": "ghviz added to PyPI",
+          "link": "https://pypi.org/project/ghviz/",
           "date": "17 Aug 2026",
-          "summary": "VQ-L2 quantization kernels (import bitsandbytes). Pulled by the bitsandbytes2 metapackage."
+          "summary": "A terminal CLI to visualize GitHub stats and repo/commit trees, right in your terminal."
         },
         {
-          "title": "bitsandbytes-cpp added to PyPI",
-          "link": "https://pypi.org/project/bitsandbytes-cpp/",
+          "title": "soothe-autopilot added to PyPI",
+          "link": "https://pypi.org/project/soothe-autopilot/",
           "date": "17 Aug 2026",
-          "summary": "bitsandbytes.cpp adaptive runtime (Python stub; native llama-server not in this TestPyPI wheel)."
+          "summary": "Soothe autopilot - goal-driven orchestration for 24/7 autonomous agents"
         },
         {
-          "title": "bitsandbytes-code added to PyPI",
-          "link": "https://pypi.org/project/bitsandbytes-code/",
+          "title": "asu-sovereign added to PyPI",
+          "link": "https://pypi.org/project/asu-sovereign/",
           "date": "17 Aug 2026",
-          "summary": "bnbcode agent (TestPyPI stub; TUI binary not embedded)."
+          "summary": "Official Python SDK for ASU Sovereign Workspace (Uganda AI Studio)"
         },
         {
-          "title": "bitsandbytes2 added to PyPI",
-          "link": "https://pypi.org/project/bitsandbytes2/",
+          "title": "luqcords added to PyPI",
+          "link": "https://pypi.org/project/luqcords/",
           "date": "17 Aug 2026",
-          "summary": "Metapackage: kernels + bitsandbytes-cpp + bitsandbytes-code."
+          "summary": "Lightweight Discord bot framework built with REST API"
         },
         {
-          "title": "dj-ordered-model added to PyPI",
-          "link": "https://pypi.org/project/dj-ordered-model/",
+          "title": "zotero-cli-ai added to PyPI",
+          "link": "https://pypi.org/project/zotero-cli-ai/",
           "date": "17 Aug 2026",
-          "summary": "Allows Django models to be ordered and provides a simple admin interface for reordering them."
+          "summary": "Zotero CLI for any AI agent — SQLite reads + Web API writes"
         },
         {
-          "title": "xyberos-web-search added to PyPI",
-          "link": "https://pypi.org/project/xyberos-web-search/",
+          "title": "dinsky added to PyPI",
+          "link": "https://pypi.org/project/dinsky/",
           "date": "17 Aug 2026",
-          "summary": "Web search abstraction plugin (RFC-0019, M5): one WebSearch contract, Tavily/Serper/Brave/Exa/Firecrawl behind it"
+          "summary": "Simple async-like REST bot framework"
         },
         {
-          "title": "PyZALO added to PyPI",
-          "link": "https://pypi.org/project/pyzalo/",
+          "title": "pymcu-lib-dht added to PyPI",
+          "link": "https://pypi.org/project/pymcu-lib-dht/",
           "date": "17 Aug 2026",
-          "summary": "Python library for Zalo OA Bot"
+          "summary": "DHT11 / DHT22 / DHT21 temperature & humidity sensor driver for PyMCU"
         },
         {
-          "title": "xyberos-vision added to PyPI",
-          "link": "https://pypi.org/project/xyberos-vision/",
+          "title": "miskeyed-workbench added to PyPI",
+          "link": "https://pypi.org/project/miskeyed-workbench/",
           "date": "17 Aug 2026",
-          "summary": "Vision plugin (RFC-0019, M8): describe images, OCR, generate images"
+          "summary": "Workbench — a native Qt 6.8 / QRhi Slang shader workbench."
         },
         {
-          "title": "xcreener added to PyPI",
-          "link": "https://pypi.org/project/xcreener/",
+          "title": "dshmarketplace added to PyPI",
+          "link": "https://pypi.org/project/dshmarketplace/",
           "date": "17 Aug 2026",
-          "summary": "Python client for the XCREENER XQL HTTP API"
+          "summary": "Find and install DeepSeek Harness (DSH) plugins from Python. Zero dependencies."
         },
         {
-          "title": "llama-index-tools-blopus added to PyPI",
-          "link": "https://pypi.org/project/llama-index-tools-blopus/",
+          "title": "talocode-datalane added to PyPI",
+          "link": "https://pypi.org/project/talocode-datalane/",
           "date": "17 Aug 2026",
-          "summary": "llama-index tools blopus integration"
+          "summary": "Open-source AI data analysis canvas — connect CSV/JSON/live URLs, describe charts in plain English, get editable artifacts instead of code dumps"
         },
         {
-          "title": "langchain-blopus added to PyPI",
-          "link": "https://pypi.org/project/langchain-blopus/",
+          "title": "storepilot added to PyPI",
+          "link": "https://pypi.org/project/storepilot/",
           "date": "17 Aug 2026",
-          "summary": "An integration package connecting Blopus and LangChain"
+          "summary": "StorePilot — one MCP server to run your entire app portfolio across Google Play and the App Store"
         },
         {
-          "title": "xyberos-tts added to PyPI",
-          "link": "https://pypi.org/project/xyberos-tts/",
+          "title": "tide-eval added to PyPI",
+          "link": "https://pypi.org/project/tide-eval/",
           "date": "17 Aug 2026",
-          "summary": "Text-to-speech plugin (RFC-0019, M8): ElevenLabs/OpenAI/Polly/Piper"
+          "summary": "Autoresearch and continual-learning evaluation on the Harbor task standard: budgeted open-ended tasks, task streams with carried memory, tamper-proof scoring, and resumable sweeps."
         },
         {
-          "title": "xyberos-stt added to PyPI",
-          "link": "https://pypi.org/project/xyberos-stt/",
+          "title": "sf-limiter added to PyPI",
+          "link": "https://pypi.org/project/sf-limiter/",
           "date": "17 Aug 2026",
-          "summary": "Speech-to-text plugin (RFC-0019, M8): local Whisper + Deepgram/AssemblyAI"
+          "summary": "look-ahead brick-wall audio limiter library for Python, implemented in Rust"
         },
         {
-          "title": "omnigent-community-sandbox-opensandbox added to PyPI",
-          "link": "https://pypi.org/project/omnigent-community-sandbox-opensandbox/",
+          "title": "apeSketch added to PyPI",
+          "link": "https://pypi.org/project/apesketch/",
           "date": "17 Aug 2026",
-          "summary": "OpenSandbox community sandbox provider for Omnigent"
+          "summary": "Hand-ink bridge for ape* structural workflows: capture, session, agent export."
         },
         {
-          "title": "xyberos-storage added to PyPI",
-          "link": "https://pypi.org/project/xyberos-storage/",
+          "title": "seal-kernel added to PyPI",
+          "link": "https://pypi.org/project/seal-kernel/",
           "date": "17 Aug 2026",
-          "summary": "Object storage plugin (RFC-0019, M9): S3, Azure Blob, GCS, OneDrive behind one ObjectStore contract"
+          "summary": "Exactly-once admission for irreversible agent actions, world-confirmed settlement, and effect graphs with compensating seals — on a shared Postgres, with a tamper-evident certificate chain."
         },
         {
-          "title": "maeve added to PyPI",
-          "link": "https://pypi.org/project/maeve/",
+          "title": "coherence-check added to PyPI",
+          "link": "https://pypi.org/project/coherence-check/",
           "date": "17 Aug 2026",
-          "summary": "MAEVE — cloud-synced, scope-partitioned memory for AI agents. Placeholder release; full package coming."
+          "summary": "Your AI agent says the work is done. Coherence makes it prove it — evidence, not claims, with tamper-evident CI sessions."
         },
         {
-          "title": "xyberos-slack added to PyPI",
-          "link": "https://pypi.org/project/xyberos-slack/",
+          "title": "codyasbin added to PyPI",
+          "link": "https://pypi.org/project/codyasbin/",
           "date": "17 Aug 2026",
-          "summary": "Slack Web API plugin (RFC-0019, M7): post messages, list channels"
+          "summary": "A Python package for codyasbin"
         },
         {
-          "title": "rung-ai added to PyPI",
-          "link": "https://pypi.org/project/rung-ai/",
+          "title": "qste added to PyPI",
+          "link": "https://pypi.org/project/qste/",
           "date": "17 Aug 2026",
-          "summary": "A verification-evidence framework: shared vocabulary, evidence-bundle schema, declarative policy, and a deterministic stdlib-only gate."
+          "summary": "True-binary training for PyTorch models. Training precision is inference precision."
         },
         {
-          "title": "xyberos-queues added to PyPI",
-          "link": "https://pypi.org/project/xyberos-queues/",
+          "title": "hostmon added to PyPI",
+          "link": "https://pypi.org/project/hostmon/",
           "date": "17 Aug 2026",
-          "summary": "Message queue plugin (RFC-0019, M9): Redis Streams, RabbitMQ, Kafka behind one MessageQueue contract"
+          "summary": "Lightweight, config-driven localhost resource monitoring with Expr Tracker alerts"
         },
         {
-          "title": "plotifi added to PyPI",
-          "link": "https://pypi.org/project/plotifi/",
+          "title": "inspect-robots-dropbear added to PyPI",
+          "link": "https://pypi.org/project/inspect-robots-dropbear/",
           "date": "17 Aug 2026",
-          "summary": "Deterministic portfolio-math engine exposed over MCP"
+          "summary": "Inspect Robots policy adapter for Dropbear-hosted DreamZero-YAM"
         },
         {
-          "title": "xyberos-observability added to PyPI",
-          "link": "https://pypi.org/project/xyberos-observability/",
+          "title": "flaxon-sqlalchemy added to PyPI",
+          "link": "https://pypi.org/project/flaxon-sqlalchemy/",
           "date": "17 Aug 2026",
-          "summary": "Observability exporters plugin (RFC-0019, M10): OTel, Prometheus, Langfuse, Sentry as thin EventBus exporters"
+          "summary": "Async SQLAlchemy integration for Flaxon applications"
         },
         {
-          "title": "xyberos-notion added to PyPI",
-          "link": "https://pypi.org/project/xyberos-notion/",
+          "title": "voxnorm added to PyPI",
+          "link": "https://pypi.org/project/voxnorm/",
           "date": "17 Aug 2026",
-          "summary": "Notion API plugin (RFC-0019, M7): search + create pages"
+          "summary": "Text normalization for TTS: written forms into spoken forms, multilingual, pure Python"
         }
       ]
     }
