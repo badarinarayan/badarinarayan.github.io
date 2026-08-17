@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-17T20:15:50Z",
+  "generated": "2026-08-17T21:17:22Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,18 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "US stocks: US market slips as oil prices rise, retail results awaited",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-slips-as-oil-prices-rise-retail-results-awaited/articleshow/133306298.cms",
+          "date": "18 Aug 2026",
+          "summary": "As investors braced for retail earnings reports, major stock indexes fell, signaling caution in the market. Oil prices surged, driven by concerns over Iran alongside global supply uncertainties. Recent economic data from July amplified the cautious atmosphere,…"
+        },
+        {
+          "title": "Gold appears set for a rebound as it regains safe-haven appeal after US-Iran war selloff",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/gold-appears-set-for-a-rebound-as-it-regains-safe-haven-appeal-after-us-iran-war-selloff/articleshow/133305922.cms",
+          "date": "18 Aug 2026",
+          "summary": "Gold has recovered nine percent, signaling renewed investor and central bank interest. The precious metal is now positioned for further gains after market shocks. Lower oil prices and softer inflation data support gold's upward trajectory. Institutional demand…"
+        },
         {
           "title": "Schneider Electric Infrastructure shares tumble 12% after Q1 profit plunges 70% YoY",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/schneider-electric-infrastructure-shares-tumble-12-after-q1-profit-plunges-70-yoy/articleshow/133289103.cms",
@@ -30,18 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/zaggle-shares-crash-20-hit-lower-circuit-after-q1-pat-declines-33-yoy/articleshow/133287705.cms",
           "date": "17 Aug 2026",
           "summary": "Zaggle Prepaid Ocean Services shares hit the lower circuit after the company reported a sharp year-on-year decline in Q1FY27 profit, despite strong revenue growth. Margin pressure from Dice acquisition-related expenses weighed on earnings, while the company co…"
-        },
-        {
-          "title": "Puravankara shares rally up to 13% after Q1 revenue jumps 62% YoY; EBITDA margin expands to 25%",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/puravankara-shares-rally-up-to-13-after-q1-revenue-jumps-62-yoy-ebitda-margin-expands-to-25/articleshow/133287561.cms",
-          "date": "17 Aug 2026",
-          "summary": "Puravankara shares rose sharply on Monday after Q1FY27 revenue jumped 63% YoY to Rs 877 crore, while PAT turned positive at Rs 25 crore and EBITDA margin expanded to 25%. Pre-sales rose 28% to Rs 1,439 crore, with collections up 40% YoY."
-        },
-        {
-          "title": "NMDC shares decline 4% after Q1 results. Should you buy, sell or hold the stock?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nmdc-shares-decline-4-after-q1-results-should-you-buy-sell-or-hold-the-stock/articleshow/133287154.cms",
-          "date": "17 Aug 2026",
-          "summary": "NMDC shares fell 4% despite a 2% YoY rise in Q1FY27 profit to Rs 2,007 crore, while revenue increased 2% to Rs 6,795 crore. Iron ore production jumped 26% to 151.17 lakh tonnes, but sales rose just 2% to 117.30 lakh tonnes. Ore transferred for pellet job work…"
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -226,20 +226,20 @@
           "summary": "Connor Hill won first place at the 2026 Regeneron Science Talent Search competition. His research classified noble polyhedra, identifying two infinite families and 146 isolated examples. Hill translated a geometric problem into a finite algebraic one for a com…"
         },
         {
-          "title": "'Follow law of land': Centre to X after Musk's new rule on govt censorship requests",
-          "link": "https://timesofindia.indiatimes.com/india/follow-law-of-land-centre-to-x-after-musk-announces-greater-visibility-on-govt-censorship/articleshow/133302784.cms",
-          "date": "17 Aug 2026",
+          "title": "India signs Rs 1,943-cr deal with US firm to lease 2 MQ-9B Sea Guardian drones for Navy",
+          "link": "https://timesofindia.indiatimes.com/defence/news/india-signs-rs-1943-cr-deal-with-us-firm-to-lease-2-mq-9b-sea-guardian-drones-for-navy/articleshow/133306349.cms",
+          "date": "18 Aug 2026",
           "summary": ""
         },
         {
-          "title": "‘Show composure’: Coach’s message to India ahead of must-not-lose Pakistan clash",
-          "link": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/hockey-world-cup-show-a-bit-of-composure-fultons-message-to-india-ahead-of-must-not-lose-pakistan-clash/articleshow/133302422.cms",
-          "date": "17 Aug 2026",
-          "summary": "Following India's defeat in the Hockey World Cup, coach Craig Fulton emphasised the necessity for stricter defensive discipline. He urged players to maintain composure and enhance their defensive strategies ahead of the critical match against Pakistan. Midfiel…"
+          "title": "From 5,921m summit, historic glide to Ladakh roadhead",
+          "link": "https://timesofindia.indiatimes.com/india/from-5921m-summit-historic-glide-to-ladakh-roadhead/articleshow/133306329.cms",
+          "date": "18 Aug 2026",
+          "summary": ""
         },
         {
-          "title": "Drones target Kurdish leaders after Trump names them as key to US talks with IRGC",
-          "link": "https://timesofindia.indiatimes.com/world/middle-east/iran-drones-target-kurdish-leaders-after-trump-used-them-as-backchannel-to-irgc-us-condemns-attack/articleshow/133302540.cms",
+          "title": "'Follow law of land': Centre to X after Musk's new rule on govt censorship requests",
+          "link": "https://timesofindia.indiatimes.com/india/follow-law-of-land-centre-to-x-after-musk-announces-greater-visibility-on-govt-censorship/articleshow/133302784.cms",
           "date": "17 Aug 2026",
           "summary": ""
         },
@@ -250,10 +250,10 @@
           "summary": "MacKenzie Scott's philanthropic efforts have made a significant impact by enabling the cancellation of medical debt across the United States. By purchasing and eliminating patient debt at a minimal cost, she has set a precedent that encourages other wealthy in…"
         },
         {
-          "title": "‘Pollution is pretty insane’: Antonsen wants India Open to move out of Delhi winter",
-          "link": "https://timesofindia.indiatimes.com/sports/badminton/pollution-is-pretty-insane-anders-antonsen-calls-for-india-open-to-move-out-of-delhi-winter/articleshow/133301218.cms",
+          "title": "‘Show composure’: Coach’s message to India ahead of must-not-lose Pakistan clash",
+          "link": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/hockey-world-cup-show-a-bit-of-composure-fultons-message-to-india-ahead-of-must-not-lose-pakistan-clash/articleshow/133302422.cms",
           "date": "17 Aug 2026",
-          "summary": "Danish badminton player Anders Antonsen has voiced concerns regarding the BWF's scheduling of the India Open, criticising the January-February timeframe due to the heavy winter pollution in Delhi. He chose to miss this year's tournament, incurring a fine as a…"
+          "summary": "Following India's defeat in the Hockey World Cup, coach Craig Fulton emphasised the necessity for stricter defensive discipline. He urged players to maintain composure and enhance their defensive strategies ahead of the critical match against Pakistan. Midfiel…"
         },
         {
           "title": "Meet Ananya Nagendra, 18, who built an ant-based digester for food waste",
@@ -274,22 +274,22 @@
           "summary": "Accenture's CEO, Julie Sweet, has requested that employees delay their vacation in August. This temporary policy adjustment is designed to bolster staff presence as the company approaches the end of its financial year. Following disappointing quarterly results…"
         },
         {
-          "title": "'Trump suffering delusions': Iran military denies direct backchannel talks with US",
-          "link": "https://timesofindia.indiatimes.com/world/middle-east/lies-trump-suffering-from-delusions-iran-military-denies-direct-backchannel-talks-with-us/articleshow/133299467.cms",
+          "title": "PDP chief Mehbooba says she is ‘dimagi Naxal’; NC blames her for Article 370 abrogation",
+          "link": "https://timesofindia.indiatimes.com/india/pdp-president-mehbooba-says-she-is-dimagi-naxal-nc-blames-her-for-article-370-abrogation/articleshow/133306305.cms",
+          "date": "18 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Drones target Kurdish leaders after Trump names them as key to US talks with IRGC",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/iran-drones-target-kurdish-leaders-after-trump-used-them-as-backchannel-to-irgc-us-condemns-attack/articleshow/133302540.cms",
           "date": "17 Aug 2026",
           "summary": ""
         },
         {
-          "title": "'Let me die in peace right now': Chargesheet reveals Twisha's chilling final message",
-          "link": "https://timesofindia.indiatimes.com/city/bhopal/let-me-die-in-peace-right-now-chargesheet-reveals-twisha-sharmas-chilling-final-message-before-death/articleshow/133302101.cms",
+          "title": "‘Pollution is pretty insane’: Antonsen wants India Open to move out of Delhi winter",
+          "link": "https://timesofindia.indiatimes.com/sports/badminton/pollution-is-pretty-insane-anders-antonsen-calls-for-india-open-to-move-out-of-delhi-winter/articleshow/133301218.cms",
           "date": "17 Aug 2026",
-          "summary": "The CBI's chargesheet highlights the alleged cruelty faced by Twisha Sharma at the hands of her husband and mother-in-law, who reportedly inflicted mental and psychological torment during their union. Notably, Twisha communicated a final message to her sister-…"
-        },
-        {
-          "title": "WC: India coach questions FIH over China’s penalty stroke, later deletes posts",
-          "link": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/hockey-world-cup-india-coach-marijne-questions-fih-over-chinas-penalty-stroke-later-deletes-posts/articleshow/133301780.cms",
-          "date": "17 Aug 2026",
-          "summary": "Indian women's hockey coach questioned the penalty-stroke rule interpretation after a draw. He shared footage and sought clarification from the International Hockey Federation. Former players also expressed their views on the controversial penalty-stroke actio…"
+          "summary": "Danish badminton player Anders Antonsen has voiced concerns regarding the BWF's scheduling of the India Open, criticising the January-February timeframe due to the heavy winter pollution in Delhi. He chose to miss this year's tournament, incurring a fine as a…"
         },
         {
           "title": "Is Neymar splitting from Bruna Biancardi amid fresh cheating rumors?",
@@ -308,6 +308,24 @@
           "link": "https://timesofindia.indiatimes.com/sports/formula-e/ive-cried-for-a-long-time-taylor-barnard-breaks-down-after-historic-formula-e-win/articleshow/133302563.cms",
           "date": "17 Aug 2026",
           "summary": "Taylor Barnard made Formula E history with a dramatic first win at the London E-Prix on Sunday. The 22-year-old DS PENSKE driver became the youngest race winner in the championship after passing Nyck de Vries with two laps left. The victory came in front of hi…"
+        },
+        {
+          "title": "'Trump suffering delusions': Iran military denies direct backchannel talks with US",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/lies-trump-suffering-from-delusions-iran-military-denies-direct-backchannel-talks-with-us/articleshow/133299467.cms",
+          "date": "17 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "'Let me die in peace right now': Chargesheet reveals Twisha's chilling final message",
+          "link": "https://timesofindia.indiatimes.com/city/bhopal/let-me-die-in-peace-right-now-chargesheet-reveals-twisha-sharmas-chilling-final-message-before-death/articleshow/133302101.cms",
+          "date": "17 Aug 2026",
+          "summary": "The CBI's chargesheet highlights the alleged cruelty faced by Twisha Sharma at the hands of her husband and mother-in-law, who reportedly inflicted mental and psychological torment during their union. Notably, Twisha communicated a final message to her sister-…"
+        },
+        {
+          "title": "WC: India coach questions FIH over China’s penalty stroke, later deletes posts",
+          "link": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/hockey-world-cup-india-coach-marijne-questions-fih-over-chinas-penalty-stroke-later-deletes-posts/articleshow/133301780.cms",
+          "date": "17 Aug 2026",
+          "summary": "Indian women's hockey coach questioned the penalty-stroke rule interpretation after a draw. He shared footage and sought clarification from the International Hockey Federation. Former players also expressed their views on the controversial penalty-stroke actio…"
         },
         {
           "title": "Trump's foreign policy: Strongmen on speed dial, allies and partners on notice",
@@ -356,24 +374,6 @@
           "link": "https://timesofindia.indiatimes.com/business/india-business/ongc-gets-us-licence-to-expand-venezuela-operations-boost-oil-output-and-investments/articleshow/133300426.cms",
           "date": "17 Aug 2026",
           "summary": "ONGC has successfully obtained approval from the US Treasury, allowing it to further extend its oil operations in Venezuela. The newly acquired license significantly reduces sanctions-related barriers, paving the way for increased investments and production ca…"
-        },
-        {
-          "title": "Watch: Saudi military ship struck by missile in Red Sea; Houthis claim attack",
-          "link": "https://timesofindia.indiatimes.com/world/middle-east/houthis-escalate-red-sea-attacks-ballistic-missile-strikes-saudi-military-ship-four-escort-boats/articleshow/133298716.cms",
-          "date": "17 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "‘Jana Nayagan’ OTT: When and where to watch Vijay’s final film",
-          "link": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-ott-find-out-when-and-where-to-watch-vijay-thalapathys-final-film-online/articleshow/133297220.cms",
-          "date": "17 Aug 2026",
-          "summary": "Jana Nayagan, the much-anticipated final film of Vijay, is set to premiere on Zee5 starting August 21. This political action drama has garnered a varied reception but has enjoyed strong box office success. Despite facing numerous obstacles prior to its release…"
-        },
-        {
-          "title": "Smriti Irani's big comeback: Why BJP has turned to its 'giant killer'",
-          "link": "https://timesofindia.indiatimes.com/india/smriti-irani-gets-key-party-role-why-bjp-has-turned-to-its-giant-killer-before-up-elections/articleshow/133295057.cms",
-          "date": "17 Aug 2026",
-          "summary": "Smriti Irani is reappointed as a general secretary for the BJP's national team, a move that highlights the party's strategic push in Uttar Pradesh ahead of upcoming elections. Following setbacks in the recent Lok Sabha elections, her previous success in Amethi…"
         }
       ]
     },
@@ -1152,6 +1152,12 @@
       "ok": true,
       "items": [
         {
+          "title": "Judge Sets Framework For Nine PBS to Retrieve 70 Years of Archival TV Data",
+          "link": "https://hardware.slashdot.org/story/26/08/17/1919201/judge-sets-framework-for-nine-pbs-to-retrieve-70-years-of-archival-tv-data?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "17 Aug 2026",
+          "summary": "District Court Judge Eric Elliff has ordered Iron Mountain to cooperate with Nine PBS in recovering roughly 50TB of archival material stored through now-defunct vendor OSS. \"He found that the station is the rightful owner of the materials and entitled to recov…"
+        },
+        {
           "title": "Meta Faces $1.4 Trillion Reckoning In Latest Trial Over Social Media Addiction",
           "link": "https://yro.slashdot.org/story/26/08/17/1912238/meta-faces-14-trillion-reckoning-in-latest-trial-over-social-media-addiction?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "17 Aug 2026",
@@ -1234,12 +1240,6 @@
           "link": "https://news.slashdot.org/story/26/08/16/2035237/flocks-creepy-cameras-remain-major-threat-to-privacy-despite-small-recent-changes-warns-aclu?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "16 Aug 2026",
           "summary": "While Flock announced changes for its AI-powered traffic cameras, \"Several of the proposed changes Flock is touting are merely retreads of previous ,\" complains the American Civil Liberties Union. \"Flock's latest announcement still appears more focused on addr…"
-        },
-        {
-          "title": "Could a Disc-Free PlayStation Actually Lower Game Prices?",
-          "link": "https://games.slashdot.org/story/26/08/16/1839224/could-a-disc-free-playstation-actually-lower-game-prices?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "16 Aug 2026",
-          "summary": "\"As Sony soldiers ahead with their plans to end hard copies for new PlayStation games, players are fearing a future which will force them to pay more and own less,\" writes Kotaku. What will prices do in a world with no physical copies to share or sell? One for…"
         }
       ]
     },
@@ -1630,102 +1630,6 @@
       "ok": true,
       "items": [
         {
-          "title": "etlantic-kafka added to PyPI",
-          "link": "https://pypi.org/project/etlantic-kafka/",
-          "date": "17 Aug 2026",
-          "summary": "Experimental Kafka reference connector for ETLantic (fake by default)."
-        },
-        {
-          "title": "ha-maison-protegee2-api added to PyPI",
-          "link": "https://pypi.org/project/ha-maison-protegee2-api/",
-          "date": "17 Aug 2026",
-          "summary": "Python client for Orange Maison Protégée (reverse-engineered gRPC API)"
-        },
-        {
-          "title": "ai-emotion-health-tracker added to PyPI",
-          "link": "https://pypi.org/project/ai-emotion-health-tracker/",
-          "date": "17 Aug 2026",
-          "summary": "An all-in-one, 100% local computer vision workstation companion: Fusing contactless rPPG pulse, AffectNet emotion, iris gaze attention, and local LLM coaching into a lightweight Windows tray app."
-        },
-        {
-          "title": "povineq added to PyPI",
-          "link": "https://pypi.org/project/povineq/",
-          "date": "17 Aug 2026",
-          "summary": "Python wrapper for the World Bank PIP API"
-        },
-        {
-          "title": "vyral added to PyPI",
-          "link": "https://pypi.org/project/vyral/",
-          "date": "17 Aug 2026",
-          "summary": "Python-first local runtime for the portable Vyral contract"
-        },
-        {
-          "title": "zeon-format added to PyPI",
-          "link": "https://pypi.org/project/zeon-format/",
-          "date": "17 Aug 2026",
-          "summary": "Zero-overhead Encoding Object Notation - A next-generation tabular serialization format designed for maximum LLM token efficiency."
-        },
-        {
-          "title": "nemo-fabric-adapters-mini-swe-agent added to PyPI",
-          "link": "https://pypi.org/project/nemo-fabric-adapters-mini-swe-agent/",
-          "date": "17 Aug 2026",
-          "summary": "mini-SWE-agent adapter for NeMo Fabric"
-        },
-        {
-          "title": "akctl added to PyPI",
-          "link": "https://pypi.org/project/akctl/",
-          "date": "17 Aug 2026",
-          "summary": "A simple CLI toolkit for everyday server management tasks"
-        },
-        {
-          "title": "costopt added to PyPI",
-          "link": "https://pypi.org/project/costopt/",
-          "date": "17 Aug 2026",
-          "summary": "Drop-in LLM API cost optimization SDK with lexical similarity caching, smart model routing, and local observability dashboard"
-        },
-        {
-          "title": "proxy-checkout-stripe added to PyPI",
-          "link": "https://pypi.org/project/proxy-checkout-stripe/",
-          "date": "17 Aug 2026",
-          "summary": "Stripe SUB-SI server adapter for Proxy Checkout Python integrations."
-        },
-        {
-          "title": "jkbiolib added to PyPI",
-          "link": "https://pypi.org/project/jkbiolib/",
-          "date": "17 Aug 2026",
-          "summary": "Bioinformatics library"
-        },
-        {
-          "title": "sciagent-cli added to PyPI",
-          "link": "https://pypi.org/project/sciagent-cli/",
-          "date": "17 Aug 2026",
-          "summary": "A modular, extensible agent framework for software engineering and scientific computing tasks"
-        },
-        {
-          "title": "uvcornybeta2 added to PyPI",
-          "link": "https://pypi.org/project/uvcornybeta2/",
-          "date": "17 Aug 2026",
-          "summary": "Add your description here"
-        },
-        {
-          "title": "clio-jupyter added to PyPI",
-          "link": "https://pypi.org/project/clio-jupyter/",
-          "date": "17 Aug 2026",
-          "summary": "Clio: browse figures generated in Jupyter notebooks from JupyterLab."
-        },
-        {
-          "title": "binnacle added to PyPI",
-          "link": "https://pypi.org/project/binnacle/",
-          "date": "17 Aug 2026",
-          "summary": "Instruments for Linux boxes, fleets and the networks between: diagnose, don't dump"
-        },
-        {
-          "title": "dbt-frostlake added to PyPI",
-          "link": "https://pypi.org/project/dbt-frostlake/",
-          "date": "17 Aug 2026",
-          "summary": "dbt adapter for Frostlake — the dbt-snowflake adapter pointed at a Frostlake server"
-        },
-        {
           "title": "frostlake-connector added to PyPI",
           "link": "https://pypi.org/project/frostlake-connector/",
           "date": "17 Aug 2026",
@@ -1748,12 +1652,6 @@
           "link": "https://pypi.org/project/infona-client/",
           "date": "17 Aug 2026",
           "summary": "Infona living context graph (OSS core)"
-        },
-        {
-          "title": "cardpy-cmr added to PyPI",
-          "link": "https://pypi.org/project/cardpy-cmr/",
-          "date": "17 Aug 2026",
-          "summary": "CarDpy: Cardiac Diffusion in Python — a cardiac DTI post-processing toolbox."
         },
         {
           "title": "kpane added to PyPI",
@@ -1808,6 +1706,108 @@
           "link": "https://pypi.org/project/pstrain/",
           "date": "17 Aug 2026",
           "summary": "Continuous-density HMM/GMM acoustic model training toolkit"
+        },
+        {
+          "title": "wagtail-auto-block-preview added to PyPI",
+          "link": "https://pypi.org/project/wagtail-auto-block-preview/",
+          "date": "17 Aug 2026",
+          "summary": "Automatic preview values for Wagtail StreamField blocks"
+        },
+        {
+          "title": "brdagriai added to PyPI",
+          "link": "https://pypi.org/project/brdagriai/",
+          "date": "17 Aug 2026",
+          "summary": "Python client for the BRD AgriAI API — read your own farm data (fields, weather, irrigation scheduling, soil health, yield history, equipment, market prices)"
+        },
+        {
+          "title": "review-insights-tool added to PyPI",
+          "link": "https://pypi.org/project/review-insights-tool/",
+          "date": "17 Aug 2026",
+          "summary": "Review Insights Tool analyzes online customer reviews and turns unstructured feedback into useful business insights."
+        },
+        {
+          "title": "talent-gate-base-x added to PyPI",
+          "link": "https://pypi.org/project/talent-gate-base-x/",
+          "date": "17 Aug 2026",
+          "summary": "Shared subscription, payment, and multi-tenancy models for TalentGate ecosystem"
+        },
+        {
+          "title": "autotune-doctor added to PyPI",
+          "link": "https://pypi.org/project/autotune-doctor/",
+          "date": "17 Aug 2026",
+          "summary": "AI-guided compiler optimization and LLVM phase-ordering doctor for C/C++ workloads"
+        },
+        {
+          "title": "arabic-dictionary added to PyPI",
+          "link": "https://pypi.org/project/arabic-dictionary/",
+          "date": "17 Aug 2026",
+          "summary": "A modern open-source Arabic dictionary toolkit."
+        },
+        {
+          "title": "kirby-cost added to PyPI",
+          "link": "https://pypi.org/project/kirby-cost/",
+          "date": "17 Aug 2026",
+          "summary": "Read HERO Designer's own .hdt templates and .hdc characters, and reproduce its point-cost arithmetic exactly."
+        },
+        {
+          "title": "credaleval added to PyPI",
+          "link": "https://pypi.org/project/credaleval/",
+          "date": "17 Aug 2026",
+          "summary": "Uncertainty-aware (credal) evaluation of ML models under annotator disagreement"
+        },
+        {
+          "title": "mammoinsight-math added to PyPI",
+          "link": "https://pypi.org/project/mammoinsight-math/",
+          "date": "17 Aug 2026",
+          "summary": "Deterministic biomedical image processing algorithms, lesion morphometry, and radiomic feature extraction for mammography"
+        },
+        {
+          "title": "robotframework-graphql added to PyPI",
+          "link": "https://pypi.org/project/robotframework-graphql/",
+          "date": "17 Aug 2026",
+          "summary": "GraphQL test library for Robot Framework."
+        },
+        {
+          "title": "zensical-patina added to PyPI",
+          "link": "https://pypi.org/project/zensical-patina/",
+          "date": "17 Aug 2026",
+          "summary": "Zensical theme in cyan and amber like copper patina"
+        },
+        {
+          "title": "sdplab added to PyPI",
+          "link": "https://pypi.org/project/sdplab/",
+          "date": "17 Aug 2026",
+          "summary": "Tools for constructing and solving regularized semidefinite programming problems."
+        },
+        {
+          "title": "unist added to PyPI",
+          "link": "https://pypi.org/project/unist/",
+          "date": "17 Aug 2026",
+          "summary": "A Python package for UniST: A Unified Computational Framework for 3D Spatial Transcriptomics Reconstruction"
+        },
+        {
+          "title": "feature-selection-playbook added to PyPI",
+          "link": "https://pypi.org/project/feature-selection-playbook/",
+          "date": "17 Aug 2026",
+          "summary": "Environment + the fsp package for the Feature Selection Playbook. Claude Code runs the screening guided by PLAYBOOK.md, calling the deterministic fsp tools; this file declares the package and every library it needs."
+        },
+        {
+          "title": "mazu-web added to PyPI",
+          "link": "https://pypi.org/project/mazu-web/",
+          "date": "17 Aug 2026",
+          "summary": "A local browser UI for Mazu -- full command parity with the terminal (chat, run, explore, council, checkpoints, memory, skills, router, usage, log, models, doctor, config, init, setup), streamed."
+        },
+        {
+          "title": "jerryproxy added to PyPI",
+          "link": "https://pypi.org/project/jerryproxy/",
+          "date": "17 Aug 2026",
+          "summary": "An out-of-the-box multi-backend proxy CLI and backend manager."
+        },
+        {
+          "title": "xyo-sdk added to PyPI",
+          "link": "https://pypi.org/project/xyo-sdk/",
+          "date": "17 Aug 2026",
+          "summary": "Official institutional-grade Python client SDK for XYO Financial transaction enrichment API."
         }
       ]
     }
