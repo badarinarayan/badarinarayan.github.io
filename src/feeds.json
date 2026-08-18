@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-18T17:19:17Z",
+  "generated": "2026-08-18T18:24:06Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,12 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "Anthropic pre-IPO credit facility set to climb past $10 billion",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-pre-ipo-credit-facility-set-to-climb-past-10-billion/articleshow/133329176.cms",
+          "date": "18 Aug 2026",
+          "summary": "Anthropic is broadening its revolving credit facility past the initial target to prepare for its much-anticipated initial public offering. Multiple banks are looking to partake in the credit line, establishing their positions in the upcoming IPO. Bolstered by…"
+        },
         {
           "title": "Defence stocks fire up! Paras Defence, GRSE, other stocks jump up to 10% as govt notifies 6th indigenisation list",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/defence-stocks-fire-up-paras-defence-grse-other-stocks-jump-up-to-10-as-govt-notifies-6th-indigenisation-list/articleshow/133318729.cms",
@@ -36,12 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-raises-belrise-industries-target-price-sees-18-upside-on-strong-demand-business-expansion/articleshow/133319608.cms",
           "date": "18 Aug 2026",
           "summary": "Jefferies retained its Buy rating on Belrise Industries and raised its target price to Rs 280, citing strong automotive orders, two-wheeler demand and expanding renewable energy and aerospace businesses. The brokerage expects robust earnings growth, though cus…"
-        },
-        {
-          "title": "SIF AUM crosses Rs 23,000 crore in July; Hybrid Long-Short funds lead with 66% share",
-          "link": "https://economictimes.indiatimes.com/mf/analysis/sif-aum-crosses-rs-23000-crore-in-july-hybrid-long-short-funds-lead-with-66-share/slideshow/133315870.cms",
-          "date": "18 Aug 2026",
-          "summary": "SIF strategies attracted Rs 4,922 crore in inflows in July, up from Rs 3,782 crore in June. Since October 2024, the category has received Rs 22,328 crore, according to ValueMetrics."
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -196,28 +196,52 @@
       "ok": true,
       "items": [
         {
-          "title": "Kejriwal attacks BJP after Satyendar Jain's arrest, calls it 'dictatorship'",
-          "link": "https://timesofindia.indiatimes.com/india/kejriwal-attacks-bjp-after-satyendar-jains-arrest-calls-it-dictatorship/articleshow/133327377.cms",
-          "date": "18 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Ex-AAP minister Satyendar Jain arrested in Delhi Jal Board corruption case",
-          "link": "https://timesofindia.indiatimes.com/india/aap-leader-satyendar-jain-arrested-in-delhi-jal-board-corruption-case/articleshow/133326426.cms",
-          "date": "18 Aug 2026",
-          "summary": "The case includes charges under provisions relating to bribery, criminal breach of trust, cheating and criminal conspiracy. The case was registered on the complaint of Directorate of Vigilance, GNCTD regarding large-scale irregularities, manipulation of tender…"
-        },
-        {
           "title": "Trump's new guru? Why US Prez is pointing to India in America's voter ID debate",
           "link": "https://timesofindia.indiatimes.com/world/us/trumps-new-election-guru-india/articleshow/133326131.cms",
           "date": "18 Aug 2026",
           "summary": "In a recent statement, Donald Trump pointed to India's election framework as a model for implementing stricter voter ID laws in the US. Emphasizing India's impressive voter turnout and limited use of mail-in ballots, Trump supports the SAVE Act, which necessit…"
         },
         {
-          "title": "Hockey World Cup: Dominant India crush South Africa 6-1 to go top of Group D",
-          "link": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/womens-hockey-world-cup-dominant-india-crush-south-africa-6-1-to-go-top-of-group-d/articleshow/133326145.cms",
+          "title": "Kejriwal attacks BJP after Satyendar Jain's arrest, calls it 'dictatorship'",
+          "link": "https://timesofindia.indiatimes.com/india/kejriwal-attacks-bjp-after-satyendar-jains-arrest-calls-it-dictatorship/articleshow/133327377.cms",
           "date": "18 Aug 2026",
-          "summary": "The Indian women's hockey team showcased their prowess by defeating South Africa decisively, 6-1. This thrilling win has catapulted India to the forefront of Pool D in the FIH Hockey World Cup. Key contributions came from Sunelita Toppo and Navneet Kaur, part…"
+          "summary": ""
+        },
+        {
+          "title": "Pune boy, 11, dies on pothole-ridden road; MLA says 'accidents happen'",
+          "link": "https://timesofindia.indiatimes.com/city/pune/when-there-are-roads-accidents-happen-pune-mlas-remark-after-11-year-olds-death-triggers-row/articleshow/133327168.cms",
+          "date": "18 Aug 2026",
+          "summary": "A young boy died on Pune's pothole-filled roads, leading to opposition criticism. Local MLA Shankar Mandekar stated accidents happen when roads exist, drawing anger. Residents complained about unaddressed road repair issues despite repeated pleas. Opposition l…"
+        },
+        {
+          "title": "India vs Pak Hockey WC: Knockout dream, survival at stake in blockbuster clash",
+          "link": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/india-vs-pakistan-hockey-world-cup-knockout-dream-survival-at-stake-in-blockbuster-clash/articleshow/133327797.cms",
+          "date": "18 Aug 2026",
+          "summary": "India and Pakistan face off in a vital Hockey World Cup match on Wednesday. India need at least a draw to advance, while Pakistan must win. England have already secured a place in the next round after winning both their matches. The historic Wagener Stadium in…"
+        },
+        {
+          "title": "AI coming for your money? Who keeps watch as tech becomes new financial advisor",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/ai-coming-for-your-money-who-keeps-watch-as-tech-becomes-new-financial-advisor/articleshow/133319058.cms",
+          "date": "18 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Apple shareholder since IPO in 1980 buys Ferrari’s first EV, designed by Jony Ive",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/apple-shares-owner-since-its-ipo-days-florida-billionaire-buys-ferraris-first-ev-designed-by-iphone-designer-jony-ive-87-year-old-is-known-for-never-selling-/articleshow/133322004.cms",
+          "date": "18 Aug 2026",
+          "summary": "Florida billionaire Herbert Wertheim purchased the first production Ferrari Luce for forty million dollars. This groundbreaking electric vehicle was designed with input from former Apple design chief Jony Ive. The unique car, known as Chassis Zero, fetched an…"
+        },
+        {
+          "title": "Barcelona sign Rodri from Man City: Spain captain joins star-studded squad",
+          "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/barcelona-officially-sign-rodri-from-man-city-spain-captain-joins-star-studded-squad/articleshow/133328511.cms",
+          "date": "18 Aug 2026",
+          "summary": "Barcelona has officially announced the signing of Spain captain Rodri from Manchester City. The accomplished midfielder has signed a contract keeping him at the club until 2030. Rodri arrives after playing a central role in Spain's World Cup triumph and winnin…"
+        },
+        {
+          "title": "'Ready to deal with any threats': UAE vows response after Iran fires two missiles",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/ready-to-deal-with-any-threats-uae-vows-response-after-iran-fires-two-missiles/articleshow/133328252.cms",
+          "date": "18 Aug 2026",
+          "summary": ""
         },
         {
           "title": "Jharkhand exam scam: CID arrests key accused's wife, brother who cleared JSSC-CGL",
@@ -226,10 +250,34 @@
           "summary": "Criminal Investigation Department arrested two relatives of a key exam scam accused. Sushma Kumari and Akshay Kumar Tiwari were taken into custody by the CID. Both had qualified the Jharkhand Staff Selection Commission examination under investigation. The Chie…"
         },
         {
-          "title": "Apple shareholder since IPO in 1980 buys Ferrari’s first EV, designed by Jony Ive",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/apple-shares-owner-since-its-ipo-days-florida-billionaire-buys-ferraris-first-ev-designed-by-iphone-designer-jony-ive-87-year-old-is-known-for-never-selling-/articleshow/133322004.cms",
+          "title": "MacKenzie Scott helped abolish $40B in medical debt; how mechanics work",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-ex-wife-mackenzie-scott-who-sold-half-of-her-amazon-stake-has-helped-abolish-40-billion-in-medical-debt-how-mechanics-work/articleshow/133240371.cms",
+          "date": "14 Aug 2026",
+          "summary": "MacKenzie Scott's donations have enabled medical debt abolition across America. Her approach allows acquiring and erasing patient debt at steep discounts. This model has inspired other billionaires to contribute millions to similar initiatives. While philanthr…"
+        },
+        {
+          "title": "Hockey World Cup: Dominant India crush South Africa 6-1 to go top of Group D",
+          "link": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/womens-hockey-world-cup-dominant-india-crush-south-africa-6-1-to-go-top-of-group-d/articleshow/133326145.cms",
           "date": "18 Aug 2026",
-          "summary": "Florida billionaire Herbert Wertheim purchased the first production Ferrari Luce for forty million dollars. This groundbreaking electric vehicle was designed with input from former Apple design chief Jony Ive. The unique car, known as Chassis Zero, fetched an…"
+          "summary": "The Indian women's hockey team showcased their prowess by defeating South Africa decisively, 6-1. This thrilling win has catapulted India to the forefront of Pool D in the FIH Hockey World Cup. Key contributions came from Sunelita Toppo and Navneet Kaur, part…"
+        },
+        {
+          "title": "Hawaii’s 1905 mosquitofish import now linked to native species decline",
+          "link": "https://timesofindia.indiatimes.com/world/us/in-1905-hawaii-introduced-mosquitofish-to-control-mosquitoes-the-tiny-fish-later-became-linked-to-declines-of-native-damselflies-and-other-threatened-species/articleshow/133280379.cms",
+          "date": "16 Aug 2026",
+          "summary": "The introduction of mosquitofish in Hawaii has dramatically affected the ecosystem, leading to notable declines in native aquatic insects. These invasive fish fiercely prey on local species, disrupting food chains. The native damselflies, unprepared for such p…"
+        },
+        {
+          "title": "California startup's $3 billion 'manta ray' jet promises 50% lower fuel use",
+          "link": "https://timesofindia.indiatimes.com/world/us/california-startup-jetzero-is-building-a-3-billion-manta-ray-aircraft-that-promises-to-cut-fuel-consumption-by-50-carry-250-passengers-and-replace-traditional-windows-with-screens-japan-airlines-just-joined-the-project/articleshow/133287884.cms",
+          "date": "17 Aug 2026",
+          "summary": "JetZero is unveiling a cutting-edge 'manta ray' aircraft aimed at revolutionizing the future of commercial aviation. This groundbreaking design is expected to yield impressive fuel savings and significantly lower emissions. With a full-scale prototype schedule…"
+        },
+        {
+          "title": "Sam Altman: Within 6 months, ChatGPT can watch your screen, meetings and emails",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/openai-ceo-sam-altman-within-six-months-chatgpt-could-watch-your-screen-meetings-and-emails/articleshow/133327319.cms",
+          "date": "18 Aug 2026",
+          "summary": "Sam Altman envisions AI assistants observing user screens and meetings soon. These advanced tools will offer context-sensitive suggestions and perform tasks. Users will control the information and services the AI can access. This development promises to signif…"
         },
         {
           "title": "Watch: Rahane’s hilarious Shastri mimicry steals the show during Galle Test",
@@ -244,10 +292,28 @@
           "summary": ""
         },
         {
-          "title": "MacKenzie Scott helped abolish $40B in medical debt; how mechanics work",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-ex-wife-mackenzie-scott-who-sold-half-of-her-amazon-stake-has-helped-abolish-40-billion-in-medical-debt-how-mechanics-work/articleshow/133240371.cms",
-          "date": "14 Aug 2026",
-          "summary": "MacKenzie Scott's donations have enabled medical debt abolition across America. Her approach allows acquiring and erasing patient debt at steep discounts. This model has inspired other billionaires to contribute millions to similar initiatives. While philanthr…"
+          "title": "Klitschko vows to protect Panettiere's memory for Kaya after her death",
+          "link": "https://timesofindia.indiatimes.com/sports/international-sports/wladimir-klitschko-vows-to-protect-hayden-panettieres-memory-for-daughter-kaya-as-wwe-star-jacob-fatu-shares-cryptic-post-after-her-death/articleshow/133326397.cms",
+          "date": "18 Aug 2026",
+          "summary": "Hayden Panettiere’s former fiancé Wladimir Klitschko shared a promise about their daughter Kaya after the actress died at 36, while WWE stars Jacob Fatu and Shane Helms also reacted publicly. Here is what Klitschko said, how wrestling figures responded, and wh…"
+        },
+        {
+          "title": "Ayesha Curry on fear and finding identity beyond motherhood, career",
+          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/i-was-very-scared-and-frightened-and-how-stephen-currys-wife-ayesha-curry-navigated-motherhood-career-ambitions-and-the-struggle-to-build-an-identity-beyond-raising-her-kids/articleshow/133321187.cms",
+          "date": "18 Aug 2026",
+          "summary": "Ayesha Curry's journey through motherhood and a burgeoning family reflects a quest for self-identity. By launching a personal blog, she turned her love for culinary arts into a thriving career. With steadfast encouragement from Stephen Curry, she gained the co…"
+        },
+        {
+          "title": "Who is Cristina Serra? Inside Pep Guardiola's 30-year marriage and family",
+          "link": "https://timesofindia.indiatimes.com/sports/international-sports/who-is-pep-guardiolas-ex-wife-cristina-serra-inside-the-ex-manchester-city-managers-30-year-relationship-divorce-and-family-life/articleshow/133324853.cms",
+          "date": "18 Aug 2026",
+          "summary": "Pep Guardiola and Cristina Serra have ended their marriage after three decades together. The couple reportedly initiated divorce proceedings in February 2025. They aim for a peaceful and private separation for their three children. Cristina Serra is a Brazilia…"
+        },
+        {
+          "title": "Pakistan suffer major blow as captain Babar ruled out of 1st Test vs England",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-suffer-major-blow-as-captain-babar-azam-ruled-out-of-first-test-against-england/articleshow/133326962.cms",
+          "date": "18 Aug 2026",
+          "summary": "Pakistan captain Babar Azam misses the first Test against England due to a finger injury, with Salman Agha taking charge. Babar hopes to return for the second Test at Lord’s. Shan Masood also returns after recovering from injury. England, meanwhile, begin a ne…"
         },
         {
           "title": "NTA removes 600 experts, brings four-tier checks for question papers",
@@ -256,22 +322,10 @@
           "summary": ""
         },
         {
-          "title": "British Gas customer spent seven weeks trying to return £38,611 error",
-          "link": "https://timesofindia.indiatimes.com/world/uk/british-gas-customer-claimed-300-for-solar-power-but-received-38611-59-by-mistake-she-spent-seven-weeks-trying-to-give-it-back/articleshow/133324564.cms",
+          "title": "Ex-AAP minister Satyendar Jain arrested in Delhi Jal Board corruption case",
+          "link": "https://timesofindia.indiatimes.com/india/aap-leader-satyendar-jain-arrested-in-delhi-jal-board-corruption-case/articleshow/133326426.cms",
           "date": "18 Aug 2026",
-          "summary": "A British Gas customer experienced an astonishing seven-week ordeal due to a clerical error resulting in a £38,000 overpayment. The lack of clear recovery procedures from customer service compounded the issue. Similarly, another homeowner faced bizarre phantom…"
-        },
-        {
-          "title": "New Zealand introduced hedgehogs for pests; now they threaten native wildlife",
-          "link": "https://timesofindia.indiatimes.com/science/in-1885-new-zealand-released-european-hedgehogs-as-garden-pest-killers-140-years-later-doc-calls-them-a-major-threat-to-native-wildlife-and-one-can-empty-an-endangered-tern-colony-of-nesting-birds/articleshow/133326147.cms",
-          "date": "18 Aug 2026",
-          "summary": "European hedgehogs were brought to New Zealand during the 1800s to help manage garden pests. However, these spiky creatures now pose a grave danger to the country's unique wildlife. They feast on the eggs and young of various native species, significantly impa…"
-        },
-        {
-          "title": "Sam Altman: Within 6 months, ChatGPT can watch your screen, meetings and emails",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/openai-ceo-sam-altman-within-six-months-chatgpt-could-watch-your-screen-meetings-and-emails/articleshow/133327319.cms",
-          "date": "18 Aug 2026",
-          "summary": "Sam Altman envisions AI assistants observing user screens and meetings soon. These advanced tools will offer context-sensitive suggestions and perform tasks. Users will control the information and services the AI can access. This development promises to signif…"
+          "summary": "The case includes charges under provisions relating to bribery, criminal breach of trust, cheating and criminal conspiracy. The case was registered on the complaint of Directorate of Vigilance, GNCTD regarding large-scale irregularities, manipulation of tender…"
         },
         {
           "title": "Trollmeister Trump takes his cartographic aggression to Hormuz",
@@ -290,24 +344,6 @@
           "link": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/not-as-tough-as-they-used-to-be-pr-sreejeshs-blunt-take-on-india-pakistan-hockey-world-cup-clash/articleshow/133322772.cms",
           "date": "18 Aug 2026",
           "summary": "India's Hockey World Cup campaign hinges on a vital match against Pakistan. A victory will secure their progression to the tournament's second round. Former captain PR Sreejesh noted changes in the India-Pakistan rivalry's competitive edge. He also advised the…"
-        },
-        {
-          "title": "Baker Mayfield’s expiring contract makes him the NFL’s most motivated QB",
-          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/how-baker-mayfields-expiring-contract-makes-him-the-most-motivated-qb-in-the-nfl-right-now/articleshow/133321453.cms",
-          "date": "18 Aug 2026",
-          "summary": "Entering the 2026 season, Baker Mayfield finds himself at a critical juncture with the Buccaneers as he plays out the last year of his contract. Reports indicate that attempts to extend his deal stalled before training camp. Earning a hefty $33.3 million this…"
-        },
-        {
-          "title": "Nolan Wells’ case takes new turn amid NAACP involvement and concerns",
-          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/the-deaths-of-young-black-people-are-dismissed-nolan-wells-case-takes-a-new-turn-amid-naacp-involvement/articleshow/133320469.cms",
-          "date": "18 Aug 2026",
-          "summary": "Nolan Wells’ case has taken a new turn, after a month and a half that he passed away in Horn Island as his family seeks justice."
-        },
-        {
-          "title": "Hamilton signals 'work mode' ahead of Dutch GP after Kardashian getaway",
-          "link": "https://timesofindia.indiatimes.com/sports/international-sports/f1-legend-lewis-hamilton-sends-work-mode-message-ahead-of-dutch-grand-prix-return-after-relaxing-summer-break-with-girlfriend-kim-kardashian/articleshow/133322009.cms",
-          "date": "18 Aug 2026",
-          "summary": "Lewis Hamilton has resumed his rigorous training routine for the upcoming Dutch Grand Prix. He shared his dedication to fitness on Instagram, signaling the end of his summer break. This marks his return to racing action in his inaugural season with Ferrari. Th…"
         },
         {
           "title": "Russia sent explosives, drone parts to Iran via secret route to rebuild arsenal",
@@ -338,42 +374,6 @@
           "link": "https://timesofindia.indiatimes.com/city/patna/detergent-mistaken-for-salt-2-dozen-students-fall-ill-after-mid-day-meal-in-bihar/articleshow/133325947.cms",
           "date": "18 Aug 2026",
           "summary": "Over two dozen students fell ill after consuming a mid-day meal. The incident occurred at a government school in Bihar's Nalanda district. Affected students were taken to Biharsharif Sadar Hospital for treatment. Officials are conducting an inquiry into the al…"
-        },
-        {
-          "title": "Delhi Police explains why cops wore civil clothes during Jantar Mantar protest",
-          "link": "https://timesofindia.indiatimes.com/india/why-cops-wore-civil-clothes-during-jantar-mantar-protest-delhi-police-explains-in-sc/articleshow/133320284.cms",
-          "date": "18 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "‘That’s a bad one’: Manjrekar, Kartik’s on-air banter turns ugly - Watch",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/thats-a-bad-one-sanjay-manjrekar-murali-kartiks-on-air-banter-turns-ugly-watch/articleshow/133322139.cms",
-          "date": "18 Aug 2026",
-          "summary": "Former India cricketers Sanjay Manjrekar and Murali Kartik get into an awkward exchange during the Galle Test broadcast. What begins as playful banter over Manjrekar’s facial expression soon turns personal, with both taking digs at each other’s appearance. Man…"
-        },
-        {
-          "title": "'Action will be taken': Maha FDA chief warns SRK, Devgn over Vimal ad notice",
-          "link": "https://timesofindia.indiatimes.com/india/action-will-be-taken-maha-fda-chief-warns-srk-ajay-devgn-tiger-over-vimal-ad-notice/articleshow/133326246.cms",
-          "date": "18 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Vijay govt to give women employees 365 days maternity leave for third child",
-          "link": "https://timesofindia.indiatimes.com/india/vijay-government-to-give-women-employees-365-days-maternity-leave-for-third-child/articleshow/133324932.cms",
-          "date": "18 Aug 2026",
-          "summary": "Announcing the change in the state assembly during the demand for grants for his department, minister D Sarathkumar said the decision was aimed at strengthening the state's focus on social welfare and women's empowerment. The state had gradually increased mate…"
-        },
-        {
-          "title": "How long can the world &amp; India absorb the US-Iran war oil shock?",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/how-long-can-the-world-india-absorb-the-us-iran-war-oil-shock/articleshow/133323569.cms",
-          "date": "18 Aug 2026",
-          "summary": "In its August outlook on oil, US Energy Information Administration estimates that it will take until early 2027 for oil production and trade patterns to generally return to pre-conflict status. For how long can the global economy, and India, survive an oil sho…"
-        },
-        {
-          "title": "US-Canada tariff clock ticks: Last-minute talks to avert Trump’s 50% tariffs",
-          "link": "https://timesofindia.indiatimes.com/business/international-business/us-canada-tariff-clock-ticks-last-minute-talks-to-avert-trumps-50-tariffs/articleshow/133326129.cms",
-          "date": "18 Aug 2026",
-          "summary": "The race against time for a tariff agreement unfolds between the United States and Canada, as President Trump has set a firm deadline, warning of hefty tariffs on Canadian imports. With negotiations proving to be both intense and fragile, both nations are eage…"
         }
       ]
     },
@@ -383,6 +383,12 @@
       "cat": "Machine Learning",
       "ok": true,
       "items": [
+        {
+          "title": "How Much Memory Does Your Agent Actually Need?",
+          "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+          "date": "18 Aug 2026",
+          "summary": ""
+        },
         {
           "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
           "link": "https://huggingface.co/blog/multi-vector-encoder",
@@ -423,12 +429,6 @@
           "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
           "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
           "date": "12 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
-          "link": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-          "date": "11 Aug 2026",
           "summary": ""
         },
         {
@@ -760,6 +760,12 @@
       "ok": true,
       "items": [
         {
+          "title": "New benchmark ranks search APIs for AI agents on quality, cost, and speed",
+          "link": "https://the-decoder.com/new-benchmark-ranks-search-apis-for-ai-agents-on-quality-cost-and-speed/",
+          "date": "18 Aug 2026",
+          "summary": "Artificial Analysis has released the \"Search Index,\" a benchmark that rates search API providers for AI agents on quality, cost, and speed. Of seven providers tested with GPT-5.6 Luna, Parallel, Exa, and Firecrawl scored highest. The article New benchmark rank…"
+        },
+        {
           "title": "Anthropic CEO says AI centralizes by nature and open models just shift power to whoever owns the chips",
           "link": "https://the-decoder.com/anthropic-ceo-says-ai-centralizes-by-nature-and-open-models-just-shift-power-to-whoever-owns-the-chips/",
           "date": "18 Aug 2026",
@@ -812,12 +818,6 @@
           "link": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training/",
           "date": "17 Aug 2026",
           "summary": "Amazon buys large quantities of printed books, scans them as AI training data, and destroys them in the process. The article AirTag reveals how Amazon destroys rare books for AI training appeared first on The Decoder ."
-        },
-        {
-          "title": "OpenAI signs record Ohio data center lease with Nvidia backing up to $105 billion",
-          "link": "https://the-decoder.com/openai-signs-record-ohio-data-center-lease-with-nvidia-backing-up-to-105-billion/",
-          "date": "17 Aug 2026",
-          "summary": "OpenAI has signed a 20-year lease for an 8-gigawatt data center in Ohio. Nvidia is guaranteeing up to $105 billion for the residual value of the facilities and becomes the exclusive chip supplier. According to the Wall Street Journal, nine tech companies now h…"
         }
       ]
     },
@@ -895,6 +895,12 @@
       "cat": "Technical · AI",
       "ok": true,
       "items": [
+        {
+          "title": "How AI Coding Agents Can Unlock Materials Simulation with NVIDIA ALCHEMI Toolkit",
+          "link": "https://developer.nvidia.com/blog/how-ai-coding-agents-can-unlock-materials-simulation-with-nvidia-alchemi-toolkit/",
+          "date": "17 Aug 2026",
+          "summary": "Atomistic simulation requires three things: knowledge of the science, compute-efficient implementation of simulations, and accessible interfaces to the..."
+        },
         {
           "title": "Run Massive-Scale UMAP in Minutes Using Multiple GPUs—Without Losing Accuracy",
           "link": "https://developer.nvidia.com/blog/run-massive-scale-umap-in-minutes-using-multiple-gpus-without-losing-accuracy/",
@@ -1068,12 +1074,6 @@
           "link": "https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/",
           "date": "6 Aug 2026",
           "summary": "What began as discrete AI model training and human-facing chat interfaces has evolved into always-on AI factories dedicated to producing intelligence at scale...."
-        },
-        {
-          "title": "NVIDIA Vera CPU: Olympus Cores Built for Maximum Single-Thread Performance in Agentic AI",
-          "link": "https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/",
-          "date": "6 Aug 2026",
-          "summary": "Agentic AI shifts more of the critical execution path onto the CPU. Agents operate in sandboxes to execute code, invoke tools, retrieve context, interact with..."
         }
       ]
     },
@@ -1151,6 +1151,12 @@
       "cat": "Tech · News",
       "ok": true,
       "items": [
+        {
+          "title": "Google Buys All of Spirit Airlines' Data to Feed Its AI Models",
+          "link": "https://tech.slashdot.org/story/26/08/18/1652202/google-buys-all-of-spirit-airlines-data-to-feed-its-ai-models?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "18 Aug 2026",
+          "summary": "Google has agreed to pay $10 million for a massive trove of anonymized Spirit Airlines data following the carrier's shutdown, including internal communications, spreadsheets, booking and frequent-flyer records, transactions, and employee information. CNN repor…"
+        },
         {
           "title": "Apple Lowers App Store Fees In Europe to Settle Dispute With EU",
           "link": "https://apple.slashdot.org/story/26/08/18/1659220/apple-lowers-app-store-fees-in-europe-to-settle-dispute-with-eu?utm_source=rss1.0mainlinkanon&utm_medium=feed",
@@ -1234,12 +1240,6 @@
           "link": "https://slashdot.org/story/26/08/17/1557213/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "17 Aug 2026",
           "summary": "Anthropic CEO Dario Amodei says the growing backlash against AI is less about executives sounding alarms and more about a broader \"crisis of trust\" in companies, governments, and the tech industry. TechCrunch reports: Amodei's comments came in response to inve…"
-        },
-        {
-          "title": "OpenAI Ditches Recall-Style Screenshot Surveillance For Friendly Keylogging",
-          "link": "https://yro.slashdot.org/story/26/08/17/0454255/openai-ditches-recall-style-screenshot-surveillance-for-friendly-keylogging?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "17 Aug 2026",
-          "summary": "An anonymous reader quotes a report from The Register: If you want to record whatever you do on a computer, send those records to OpenAI, use more ChatGPT tokens, and increase your vulnerability to prompt injection, then OpenAI has something for you. It's call…"
         }
       ]
     },
@@ -1630,184 +1630,184 @@
       "ok": true,
       "items": [
         {
-          "title": "adptrbetatools added to PyPI",
-          "link": "https://pypi.org/project/adptrbetatools/",
+          "title": "etlantic-k8s added to PyPI",
+          "link": "https://pypi.org/project/etlantic-k8s/",
           "date": "18 Aug 2026",
-          "summary": "None"
+          "summary": "Experimental Kubernetes resource provider for ETLantic (fake by default)."
         },
         {
-          "title": "mom-llm added to PyPI",
-          "link": "https://pypi.org/project/mom-llm/",
+          "title": "watchlight-engine added to PyPI",
+          "link": "https://pypi.org/project/watchlight-engine/",
           "date": "18 Aug 2026",
-          "summary": "A Mixture-of-Models OpenAI/Anthropic-compatible LLM gateway that fans out to a panel of models and synthesizes one answer."
+          "summary": "In-process Watchlight policy engine — the Developer Edition backend. Zero-infrastructure ALLOW/DENY authorization for AI agents."
         },
         {
-          "title": "listing-image-mcp added to PyPI",
-          "link": "https://pypi.org/project/listing-image-mcp/",
+          "title": "devmemomcp added to PyPI",
+          "link": "https://pypi.org/project/devmemomcp/",
           "date": "18 Aug 2026",
-          "summary": "商品生图 MCP：文生图/参考图生图/组图，可插拔后端（mock 零密钥 / Seedream 5.0 lite）"
+          "summary": "Memoria volátil de pendientes de codificación: grafo en RAM + vectores, expuesto como servidor MCP con la convención triádica proMCP"
         },
         {
-          "title": "ray-hive added to PyPI",
-          "link": "https://pypi.org/project/ray-hive/",
+          "title": "litert-precision-guard added to PyPI",
+          "link": "https://pypi.org/project/litert-precision-guard/",
           "date": "18 Aug 2026",
-          "summary": "A HiveServer2 datasource for Ray Data"
+          "summary": "Automated CLI diagnostic tool to detect silent zero-vectors, NaN poisoning, and precision degradation across LiteRT hardware delegates."
         },
         {
-          "title": "garmin-china added to PyPI",
-          "link": "https://pypi.org/project/garmin-china/",
+          "title": "redlynr added to PyPI",
+          "link": "https://pypi.org/project/redlynr/",
           "date": "18 Aug 2026",
-          "summary": "Garmin Connect 中国区 MCP 服务器 — 55 个工具（训练数据/恢复/天气热应激/健康聚合），适配 WorkBuddy / Claude Desktop 等任意 MCP 客户端"
+          "summary": "Official Python SDK for the Redlynr agent guardrail service"
         },
         {
-          "title": "miniware-mdp-control added to PyPI",
-          "link": "https://pypi.org/project/miniware-mdp-control/",
-          "date": "18 Aug 2026",
-          "summary": "Control Miniware MDP-P906 power supplies through a USB-connected MDP-M01."
+          "title": "codecalc added to PyPI",
+          "link": "https://pypi.org/project/codecalc/",
+          "date": "17 Aug 2026",
+          "summary": "Universal code + logic calculator for AI models: execute 31 languages, evaluate logic, analyze complexity. Exposed via MCP."
         },
         {
-          "title": "hypermem added to PyPI",
-          "link": "https://pypi.org/project/hypermem/",
-          "date": "18 Aug 2026",
-          "summary": "AI memory layer that never forgets what matters — judge, store, recall, inject"
+          "title": "harbor-hypeman added to PyPI",
+          "link": "https://pypi.org/project/harbor-hypeman/",
+          "date": "17 Aug 2026",
+          "summary": "Hypeman environment backend for Harbor Framework"
         },
         {
-          "title": "nanogateway added to PyPI",
-          "link": "https://pypi.org/project/nanogateway/",
-          "date": "18 Aug 2026",
-          "summary": "Ultra-lightweight AI Gateway proxy server"
+          "title": "pydoptic added to PyPI",
+          "link": "https://pypi.org/project/pydoptic/",
+          "date": "17 Aug 2026",
+          "summary": "Model data using reified optics"
         },
         {
-          "title": "turboocr-engine-openvino added to PyPI",
-          "link": "https://pypi.org/project/turboocr-engine-openvino/",
-          "date": "18 Aug 2026",
-          "summary": "Fast multi-backend OCR (PP-OCRv6) for Python — Intel build: the native OpenVINO Runtime engine"
+          "title": "pcd-cli added to PyPI",
+          "link": "https://pypi.org/project/pcd-cli/",
+          "date": "17 Aug 2026",
+          "summary": "Fast project navigator for Bash, Zsh and Fish"
         },
         {
-          "title": "turboocr-engine-cpu added to PyPI",
-          "link": "https://pypi.org/project/turboocr-engine-cpu/",
-          "date": "18 Aug 2026",
-          "summary": "Fast multi-backend OCR (PP-OCRv6) for Python — ONNX Runtime on NVIDIA/AMD/Intel/Apple/CPU, PDF via PDFium"
+          "title": "coolcomputer added to PyPI",
+          "link": "https://pypi.org/project/coolcomputer/",
+          "date": "17 Aug 2026",
+          "summary": "Cool Computers command-line interface"
         },
         {
-          "title": "federaide-dev-nightly added to PyPI",
-          "link": "https://pypi.org/project/federaide-dev-nightly/",
-          "date": "18 Aug 2026",
-          "summary": "A cross-platform terminal based p2p agent orchestration harness and universal automation system"
+          "title": "mmi-consume-roan added to PyPI",
+          "link": "https://pypi.org/project/mmi-consume-roan/",
+          "date": "17 Aug 2026",
+          "summary": "Paquete para consumir el webservice de alertas ABCMASMMI (abc+) e insertarlas en base de datos"
         },
         {
-          "title": "pyflock added to PyPI",
-          "link": "https://pypi.org/project/pyflock/",
-          "date": "18 Aug 2026",
-          "summary": "Placeholder release reserving the pyflock package name. A real release is coming soon."
+          "title": "iterated-consensus added to PyPI",
+          "link": "https://pypi.org/project/iterated-consensus/",
+          "date": "17 Aug 2026",
+          "summary": "Iteratively build a consensus sequence from a BAM/FASTQ by remapping against each new consensus until convergence."
         },
         {
-          "title": "bagof-hints added to PyPI",
-          "link": "https://pypi.org/project/bagof-hints/",
-          "date": "18 Aug 2026",
-          "summary": "Reusable typing hints for Python projects"
+          "title": "observability-sdk added to PyPI",
+          "link": "https://pypi.org/project/observability-sdk/",
+          "date": "17 Aug 2026",
+          "summary": "Lightweight LLM observability SDK for tracing cost, latency, and quality"
         },
         {
-          "title": "addepar-genesis added to PyPI",
-          "link": "https://pypi.org/project/addepar-genesis/",
-          "date": "18 Aug 2026",
-          "summary": "None"
+          "title": "xsetuper added to PyPI",
+          "link": "https://pypi.org/project/xsetuper/",
+          "date": "17 Aug 2026",
+          "summary": "Create standalone executables from Python scripts"
         },
         {
-          "title": "addepar-cli added to PyPI",
-          "link": "https://pypi.org/project/addepar-cli/",
-          "date": "18 Aug 2026",
-          "summary": "None"
+          "title": "asphallea added to PyPI",
+          "link": "https://pypi.org/project/asphallea/",
+          "date": "17 Aug 2026",
+          "summary": "A security runtime that contains what your AI agent can do. Least-privilege sandboxing and a full audit trail for agent tool-execution."
         },
         {
-          "title": "commander-workshop-mcp added to PyPI",
-          "link": "https://pypi.org/project/commander-workshop-mcp/",
-          "date": "18 Aug 2026",
-          "summary": "Local-first Commander deck planning and fulfillment MCP server"
+          "title": "cudaq-algorithms added to PyPI",
+          "link": "https://pypi.org/project/cudaq-algorithms/",
+          "date": "17 Aug 2026",
+          "summary": "Reusable quantum algorithm primitives built on CUDA-Q"
         },
         {
-          "title": "birdhouse-emu added to PyPI",
-          "link": "https://pypi.org/project/birdhouse-emu/",
-          "date": "18 Aug 2026",
-          "summary": "WPS processes for testing and demos."
+          "title": "canteen-di added to PyPI",
+          "link": "https://pypi.org/project/canteen-di/",
+          "date": "17 Aug 2026",
+          "summary": "Lightweight dependency injection for Python"
         },
         {
-          "title": "sold-universal-sdk added to PyPI",
-          "link": "https://pypi.org/project/sold-universal-sdk/",
-          "date": "18 Aug 2026",
-          "summary": "Universal SDK - Akamai Bot Manager support"
+          "title": "manyirons added to PyPI",
+          "link": "https://pypi.org/project/manyirons/",
+          "date": "17 Aug 2026",
+          "summary": "Placeholder release holding the ManyIrons package name."
         },
         {
-          "title": "tiktok-erp-mcp added to PyPI",
-          "link": "https://pypi.org/project/tiktok-erp-mcp/",
-          "date": "18 Aug 2026",
-          "summary": "TikTok Shop 一键上架 MCP：把 Product API 封装成 MCP 工具，实现 草稿→审核→上架 闭环（凭据只在 server 端）"
+          "title": "knowledge-retrieval added to PyPI",
+          "link": "https://pypi.org/project/knowledge-retrieval/",
+          "date": "17 Aug 2026",
+          "summary": "knowledge-retrieval"
         },
         {
-          "title": "avara added to PyPI",
-          "link": "https://pypi.org/project/avara/",
-          "date": "18 Aug 2026",
-          "summary": "The official Python library for the avara API"
+          "title": "syncade added to PyPI",
+          "link": "https://pypi.org/project/syncade/",
+          "date": "17 Aug 2026",
+          "summary": "External blind multi-judge review orchestrator for AI-assisted coding"
         },
         {
-          "title": "sightingdb-client added to PyPI",
-          "link": "https://pypi.org/project/sightingdb-client/",
-          "date": "18 Aug 2026",
-          "summary": "The Python Client Library for SightingDB"
+          "title": "sphinxcontrib-tree-sitter added to PyPI",
+          "link": "https://pypi.org/project/sphinxcontrib-tree-sitter/",
+          "date": "17 Aug 2026",
+          "summary": "Use tree-sitter to highlight code blocks in Sphinx"
         },
         {
-          "title": "web-traffic-api added to PyPI",
-          "link": "https://pypi.org/project/web-traffic-api/",
-          "date": "18 Aug 2026",
-          "summary": "Top website / web traffic leaderboard via the Trends API live feeds. Competitive intel as JSON."
+          "title": "phone-harness added to PyPI",
+          "link": "https://pypi.org/project/phone-harness/",
+          "date": "17 Aug 2026",
+          "summary": "Control a real iPhone through macOS iPhone Mirroring: OCR eyes, CGEvent hands"
         },
         {
-          "title": "news-trends-api added to PyPI",
-          "link": "https://pypi.org/project/news-trends-api/",
-          "date": "18 Aug 2026",
-          "summary": "News mention volume via the Trends API. Media monitoring without scraping news sites."
+          "title": "nexusclaw-agent-governance added to PyPI",
+          "link": "https://pypi.org/project/nexusclaw-agent-governance/",
+          "date": "17 Aug 2026",
+          "summary": "Governance for AI agents: deny-by-default tool gating, L0-L4 guardrails, human approvals and a full audit chain — via the agent-governance sidecar."
         },
         {
-          "title": "trendsapi-youtube added to PyPI",
-          "link": "https://pypi.org/project/trendsapi-youtube/",
-          "date": "18 Aug 2026",
-          "summary": "YouTube search interest trends via the Trends API. History, growth, and live YouTube trending."
+          "title": "grounded-check added to PyPI",
+          "link": "https://pypi.org/project/grounded-check/",
+          "date": "17 Aug 2026",
+          "summary": "Check that generated text is actually supported by its sources. Deterministic, offline, no model."
         },
         {
-          "title": "trendsapi-amazon added to PyPI",
-          "link": "https://pypi.org/project/trendsapi-amazon/",
-          "date": "18 Aug 2026",
-          "summary": "Amazon search interest and bestseller feeds via the Trends API. Ecommerce research without scrapers."
+          "title": "tnkr added to PyPI",
+          "link": "https://pypi.org/project/tnkr/",
+          "date": "17 Aug 2026",
+          "summary": "Get tnkr software onto machines: Tnkr Studio on your computer, robot runtimes on your robot."
         },
         {
-          "title": "quickfilehost added to PyPI",
-          "link": "https://pypi.org/project/quickfilehost/",
-          "date": "18 Aug 2026",
-          "summary": "Quickly spin up a server to serve one file"
+          "title": "certvas-ontology added to PyPI",
+          "link": "https://pypi.org/project/certvas-ontology/",
+          "date": "17 Aug 2026",
+          "summary": "Certvas Ontology — the open schema for African and emerging-market company and asset data."
         },
         {
-          "title": "pyDMS-sorption added to PyPI",
-          "link": "https://pypi.org/project/pydms-sorption/",
-          "date": "18 Aug 2026",
-          "summary": "Python package for physics-informed dual-mode sorption (DMS) optimization"
+          "title": "mach-engine added to PyPI",
+          "link": "https://pypi.org/project/mach-engine/",
+          "date": "17 Aug 2026",
+          "summary": "Inference engine for Apple Silicon: serves Mach-1 packed checkpoints with fused decode-in-GEMV Metal kernels"
         },
         {
-          "title": "dagrun-proxy added to PyPI",
-          "link": "https://pypi.org/project/dagrun-proxy/",
-          "date": "18 Aug 2026",
-          "summary": "Bulk external runs projected into Airflow proxy DAGRuns."
+          "title": "lyntway added to PyPI",
+          "link": "https://pypi.org/project/lyntway/",
+          "date": "17 Aug 2026",
+          "summary": "Verify signed AI action receipts offline, and govern content before it leaves."
         },
         {
-          "title": "exionos-vllm added to PyPI",
-          "link": "https://pypi.org/project/exionos-vllm/",
-          "date": "18 Aug 2026",
-          "summary": "vLLM architecture plugin for Exionos X1"
+          "title": "enharmonic added to PyPI",
+          "link": "https://pypi.org/project/enharmonic/",
+          "date": "17 Aug 2026",
+          "summary": "Real-time enharmonic pitch-spelling for MIDI input — full release coming soon."
         },
         {
-          "title": "plesty-pm100d added to PyPI",
-          "link": "https://pypi.org/project/plesty-pm100d/",
-          "date": "18 Aug 2026",
-          "summary": "A plesty pm100d device."
+          "title": "briefsnap added to PyPI",
+          "link": "https://pypi.org/project/briefsnap/",
+          "date": "17 Aug 2026",
+          "summary": "Morning briefing aggregator — one command pulls HN, RSS, Bluesky, GitHub, and arXiv into a single digest"
         }
       ]
     }
