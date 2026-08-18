@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-18T06:27:32Z",
+  "generated": "2026-08-18T07:30:24Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,12 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "Hindustan Copper, Vedanta, other metal stocks slip up to 2% after sharp gains. Should you buy the dip or avoid?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-copper-vedanta-other-metal-stocks-slip-up-to-2-after-sharp-gains-should-you-buy-the-dip-or-avoid/articleshow/133313559.cms",
+          "date": "18 Aug 2026",
+          "summary": "Metal stocks came under pressure after a sharp rally in the previous session, as global metal prices corrected amid concerns over China’s economic data and geopolitical developments. Analysts, however, see selective opportunities in the sector, with Hindustan…"
+        },
         {
           "title": "BSE shares drop 3% after second downgrade in two days. Nuvama lists CAS among 3 key headwinds",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/bse-shares-drop-3-after-second-downgrade-in-two-days-nuvama-lists-cas-among-3-key-headwinds/articleshow/133313313.cms",
@@ -36,12 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/indo-mim-shares-hit-10-upper-circuit-as-q1-net-profit-rises-32-yoy/articleshow/133312384.cms",
           "date": "18 Aug 2026",
           "summary": "Indo-MIM shares surged after the newly listed precision components maker reported a 31.6% year-on-year rise in Q1FY27 consolidated net profit to Rs 240.12 crore. The stock also touched a fresh 52-week high during early trade."
-        },
-        {
-          "title": "Strong earnings propel mid- and small-cap stocks to a significant rally on D-St",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/strong-earnings-support-mid-small-caps-d-street-run/articleshow/133308944.cms",
-          "date": "18 Aug 2026",
-          "summary": "Mid and small-cap firms achieved their sharpest revenue growth in sixteen quarters. Aggregate revenue climbed twenty percent, and operating profit rose twenty-seven percent. Net profit surged twenty-three percent, marking a second quarter of double-digit growt…"
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -196,10 +196,82 @@
       "ok": true,
       "items": [
         {
-          "title": "BJP appoints state in-charges for poll-bound UP, Punjab day after unveiling ‘Team Nitin Nabin’",
+          "title": "Delhi Police reject claims of 'excessive force' at Jantar Mantar student protest",
+          "link": "https://timesofindia.indiatimes.com/india/illegal-gathering-delhi-police-reject-claims-of-excessive-force-at-jantar-mantar-student-protest/articleshow/133313879.cms",
+          "date": "18 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Death penalty by lethal injection, shooting or electrocution? SC rejects plea",
+          "link": "https://timesofindia.indiatimes.com/legal/news/death-penalty-by-lethal-injection-shooting-or-electrocution-sc-rejects-plea/articleshow/133313839.cms",
+          "date": "18 Aug 2026",
+          "summary": "The Supreme Court declined to abolish hanging as an execution method. New scientific evidence could prompt future reconsideration of this decision. The court permitted the Centre to form an expert panel. This panel will examine alternative execution methods fo…"
+        },
+        {
+          "title": "'I apologise on his behalf': Vijay after minister's Karunanidhi reference",
+          "link": "https://timesofindia.indiatimes.com/india/i-apologise-on-his-behalf-tamil-nadu-cm-vijay-after-ministers-karunanidhi-reference/articleshow/133310237.cms",
+          "date": "18 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "18 years of ruthless Virat Kohli: The man who refused to stay ordinary",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/18-years-of-ruthless-virat-kohli-the-man-who-refused-to-stay-ordinary/articleshow/133314205.cms",
+          "date": "18 Aug 2026",
+          "summary": "Virat Kohli's career began with a modest debut in 2008. He achieved numerous accolades, including World Cups and the Asia Cup. Kohli then captained India to significant Test match victories overseas. He broke Sachin Tendulkar's ODI century record during the 20…"
+        },
+        {
+          "title": "'Take Gyanesh Kumar to US': Cong's jibe after Trump praises India's poll system",
+          "link": "https://timesofindia.indiatimes.com/india/please-take-gyanesh-kumar-to-america-congresss-jibe-at-cec-after-trump-lauds-indian-electoral-system/articleshow/133314095.cms",
+          "date": "18 Aug 2026",
+          "summary": "Congress spokesperson Pawan Khera took aim at Chief Election Commissioner Gyanesh Kumar's views on US voter identification rules, highlighting a comment made by Donald Trump that praised India's election system. With a hint of sarcasm, Khera proposed sending I…"
+        },
+        {
+          "title": "US green card approvals drop 35%, Indians hit hardest",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/us-green-card-approvals-drop-35-indians-hit-hardest-what-us-immigration-authority-data-says/articleshow/133312405.cms",
+          "date": "18 Aug 2026",
+          "summary": "Recent data indicates a considerable drop in US green card approvals for extraordinary workers, with Indian technology professionals facing the brunt of these new regulations. The USCIS has raised the bar for evidence needed in applications, prompting many Ind…"
+        },
+        {
+          "title": "TISS names new chief guest weeks after CJI visit sparked 'protest fears'",
+          "link": "https://timesofindia.indiatimes.com/city/mumbai/tiss-names-new-chief-guest-as-rescheduled-convocation-set-for-aug-22-weeks-after-cji-visit-protest-fears/articleshow/133312883.cms",
+          "date": "18 Aug 2026",
+          "summary": "The Tata Institute of Social Sciences has rescheduled its 86th convocation for August 22. Dr C S Pramesh will now be the chief guest at the postponed event. The original ceremony was abruptly cancelled just two days before its scheduled date. Students faced fi…"
+        },
+        {
+          "title": "BJP names in-charges for poll-bound UP, Punjab &amp; Gujarat",
           "link": "https://timesofindia.indiatimes.com/india/bjp-appoints-state-in-charges-for-poll-bound-up-and-punjab-day-after-unveiling-team-nitin-nabin/articleshow/133312923.cms",
           "date": "18 Aug 2026",
           "summary": ""
+        },
+        {
+          "title": "MacKenzie Scott helped abolish $40B in medical debt; how mechanics work",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-ex-wife-mackenzie-scott-who-sold-half-of-her-amazon-stake-has-helped-abolish-40-billion-in-medical-debt-how-mechanics-work/articleshow/133240371.cms",
+          "date": "14 Aug 2026",
+          "summary": "MacKenzie Scott's donations have enabled medical debt abolition across America. Her approach allows acquiring and erasing patient debt at steep discounts. This model has inspired other billionaires to contribute millions to similar initiatives. While philanthr…"
+        },
+        {
+          "title": "‘No safe harbour if law violated’: Govt’s message to Meta on content moderation",
+          "link": "https://timesofindia.indiatimes.com/india/no-safe-harbour-if-law-violated-governments-message-to-meta-on-content-moderation/articleshow/133313710.cms",
+          "date": "18 Aug 2026",
+          "summary": "India has warned Meta that safe-harbour protection is not guaranteed if laws are violated. Discussions focused on content moderation and child sexual abuse material handling. The government seeks greater local sensitivity in content moderation decisions. Deepf…"
+        },
+        {
+          "title": "'La Abuela' orca found wounded as Iberian population falls below 40",
+          "link": "https://timesofindia.indiatimes.com/etimes/animals/a-rare-orca-known-as-la-abuela-was-found-with-wounds-consistent-with-shotgun-pellets-the-suspected-attack-could-threaten-an-entire-iberian-population-of-fewer-than-40-whales/articleshow/133312792.cms",
+          "date": "18 Aug 2026",
+          "summary": "Spain's Environment Ministry is actively investigating a distressing situation involving Toni, an injured Iberian orca. The oldest member of her pod has been discovered with wounds resembling those inflicted by shotgun pellets, as witnessed by marine conservat…"
+        },
+        {
+          "title": "Black drongos introduced for pest control later threatened Guam’s native birds",
+          "link": "https://timesofindia.indiatimes.com/science/in-1935-black-drongos-were-introduced-on-rota-to-control-crop-pests-decades-later-the-aggressive-birds-spread-to-guam-and-became-a-threat-to-native-birds/articleshow/133304771.cms",
+          "date": "18 Aug 2026",
+          "summary": "In 1935, the introduction of black drongos to Rota aimed to control agricultural pests. This effort led to the birds establishing their populations, eventually spreading to Guam. However, their aggressive behavior towards native bird species has contributed si…"
+        },
+        {
+          "title": "Reliance Jio brings back Jio Prime with ‘one-year price guarantee’: Details",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/reliance-jio-brings-back-jio-prime-this-time-with-one-year-price-guarantee-all-details/articleshow/133295954.cms",
+          "date": "17 Aug 2026",
+          "summary": "Reliance Jio has brought back its Prime membership program, catering to its vast community of over 500 million users. With this renewed offering, members enjoy a one-year price protection guarantee on their recharges, along with attractive cashback vouchers wo…"
         },
         {
           "title": "14 of 28 CMs face serious criminal cases, Supreme Court told",
@@ -214,22 +286,46 @@
           "summary": "The Uttar Pradesh home department has submitted the SIT's final report on the Ayodhya temple donation theft. This report was handed over to the Shri Ram Janmabhoomi Teerth Kshetra Trust for further action. A three-member SIT, formed at the Trust's request, con…"
         },
         {
+          "title": "Carrier killers, long deployments and floating airfields: Why aircraft carriers still matter",
+          "link": "https://timesofindia.indiatimes.com/defence/news/carrier-killers-long-deployments-and-floating-airfields-why-aircraft-carriers-still-matter/articleshow/133314178.cms",
+          "date": "18 Aug 2026",
+          "summary": "The US is repositioning aircraft carriers in West Asia amid ongoing conflict. These powerful naval assets are central to projecting American military power globally. India also operates aircraft carriers, viewing them as vital for regional security interests.…"
+        },
+        {
+          "title": "Shah Rukh Khan’s mannat sees two snakes; one rescued, another still missing: report",
+          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khans-mannat-sees-two-snakes-in-the-propertys-lawn-one-rescued-other-still-missing-report/articleshow/133313810.cms",
+          "date": "18 Aug 2026",
+          "summary": "Two snakes were reportedly spotted at Shah Rukh Khan's Mumbai residence Mannat on August 17. Rescuer Vicky Dubey saved one, an eight-foot Dhaman, found hiding under a ladder; the second escaped and remains untraceable. Meanwhile, Shah Rukh awaits his film King…"
+        },
+        {
           "title": "'You’re loud, boisterous, you're fake news, be quiet': Trump snaps at reporter",
           "link": "https://timesofindia.indiatimes.com/world/us/youre-loud-boisterous-person-youre-fake-news-be-quiet-trump-snaps-at-reporter-over-korea-question/articleshow/133311889.cms",
           "date": "18 Aug 2026",
           "summary": ""
         },
         {
-          "title": "US green card approvals drop 35%, Indians hit hardest",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/us-green-card-approvals-drop-35-indians-hit-hardest-what-us-immigration-authority-data-says/articleshow/133312405.cms",
+          "title": "'Victory for Jharkhand': Mahto ends 16-day hunger strike after Soren govt accepts demands",
+          "link": "https://timesofindia.indiatimes.com/india/huge-victory-for-jharkhand-student-leader-mahto-ends-16-day-hunger-strike-after-soren-govt-accepts-demands/articleshow/133306400.cms",
           "date": "18 Aug 2026",
-          "summary": "Recent data indicates a considerable drop in US green card approvals for extraordinary workers, with Indian technology professionals facing the brunt of these new regulations. The USCIS has raised the bar for evidence needed in applications, prompting many Ind…"
+          "summary": ""
         },
         {
           "title": "‘No intention to attack N Korea’: S Korea Prez Lee after Trump reduces US drills",
           "link": "https://timesofindia.indiatimes.com/world/rest-of-world/no-intention-to-attack-north-korea-south-korea-president-lee-after-donald-trump-reduces-us-drills/articleshow/133312562.cms",
           "date": "18 Aug 2026",
           "summary": "South Korean President Lee Jae Myung advocates for stronger independent defense capabilities. He defended annual civil-defense exercises as purely defensive measures. These drills occur alongside joint US-South Korea military exercises. President Trump previou…"
+        },
+        {
+          "title": "Gold price prediction today: Will gold continue its rally?",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-where-are-gold-rates-headed-on-august-18-2026-and-in-the-near-term-mcx-gold-silver-prices/articleshow/133313240.cms",
+          "date": "18 Aug 2026",
+          "summary": "Spot gold extended its weekly winning streak to the second straight week in the week ending August 14. It closed 0.70% higher for the week at $4376."
+        },
+        {
+          "title": "When calculus meets fractions! UC Berkeley professor raises math alarm",
+          "link": "https://timesofindia.indiatimes.com/education/news/five-to-eight-years-behind-uc-berkeley-professor-raises-alarm-over-student-math-skills/articleshow/133313658.cms",
+          "date": "18 Aug 2026",
+          "summary": "A UC Berkeley mathematics professor has raised concerns about declining math preparedness among incoming calculus students. Zvezdelina Stankova says some students arrive five to eight years behind in mathematics, requiring instruction in fractions and basic al…"
         },
         {
           "title": "How Devdutt Padikkal's alertness saved KL Rahul's wicket in Galle - WATCH",
@@ -244,28 +340,16 @@
           "summary": ""
         },
         {
-          "title": "MacKenzie Scott helped abolish $40B in medical debt; how mechanics work",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-ex-wife-mackenzie-scott-who-sold-half-of-her-amazon-stake-has-helped-abolish-40-billion-in-medical-debt-how-mechanics-work/articleshow/133240371.cms",
-          "date": "14 Aug 2026",
-          "summary": "MacKenzie Scott's donations have enabled medical debt abolition across America. Her approach allows acquiring and erasing patient debt at steep discounts. This model has inspired other billionaires to contribute millions to similar initiatives. While philanthr…"
+          "title": "Bigg Boss Malayalam 7 winner Anumol marries Bhuvanesh Rajendiran; reception planned",
+          "link": "https://timesofindia.indiatimes.com/tv/news/malayalam/bigg-boss-malayalam-winner-anumol-ties-the-knot-with-tamil-paiyan-bhuvanesh-rajendrir/articleshow/133313361.cms",
+          "date": "18 Aug 2026",
+          "summary": "In a heartfelt ceremony at Guruvayoor Temple, TV star Anumol married Bhuvanesh Rajendrir, exuding elegance in a golden lehenga while her husband complemented her in a stylish kurta. With celebrated actor Suresh Gopi present, the wedding, arranged through a mut…"
         },
         {
-          "title": "'Victory for Jharkhand': Mahto ends 16-day hunger strike after Soren govt accepts demands",
-          "link": "https://timesofindia.indiatimes.com/india/huge-victory-for-jharkhand-student-leader-mahto-ends-16-day-hunger-strike-after-soren-govt-accepts-demands/articleshow/133306400.cms",
+          "title": "'Paid trolls': Shatrughan on Sonakshi's trolling for silence on Jharkhand protests",
+          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/trolls-are-being-paid-to-target-her-shatrughan-sinha-reacts-to-sonakshi-sinhas-trolling-for-silence-on-jharkhand-protests-after-she-supported-neet-paper-leak-protests-says-she-may-join-politics/articleshow/133312711.cms",
           "date": "18 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "$186M cleanup transforms Minnesota lake, creates 14-acre fish habitat",
-          "link": "https://timesofindia.indiatimes.com/world/us/in-2020-a-186-million-cleanup-began-at-minnesotas-spirit-lake-four-years-later-1-3-million-cubic-yards-had-been-remediated-and-a-14-acre-fish-spawning-bay-created/articleshow/133304654.cms",
-          "date": "18 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Sridhar Vembu says rising memory &amp; AI token prices are making business very difficult",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/zoho-founder-sridhar-vembu-says-rising-memory-and-ai-token-prices-are-making-business-very-difficult-we-have-/articleshow/133311214.cms",
-          "date": "18 Aug 2026",
-          "summary": "Sridhar Vembu, co-founder of Zoho, raised alarms over the soaring prices of computer memory, highlighting the difficulties businesses face as costs rise. The sharp increases in memory prices, particularly for certain DDR5 RAM kits, complicate operations for ma…"
+          "summary": "Shatrughan Sinha recently addressed the online trolling directed at his daughter, Sonakshi, emphasizing her previous support for underprivileged children in Jharkhand. He attributed the trolling to orchestrated efforts by the BJP's IT cell, asserting that Sona…"
         },
         {
           "title": "'39k soldiers guarding you from Kim': Trump cuts S Korea military drills over Iran",
@@ -290,90 +374,6 @@
           "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govinda-sunita-ahujas-three-month-old-daughter-passed-away-as-her-lungs-had-not-fully-developed-the-actor-once-said-jeevan-hai-ye-aapko-stardom-mein-bhi-bhikari-se-battar-baat-dikhata-hai/articleshow/133312107.cms",
           "date": "18 Aug 2026",
           "summary": "Govinda and Sunita Ahuja's past tragedy of losing a child resurfaces amid current marital rumors. The couple lost a baby girl who was born prematurely and passed away at three months old. This devastating loss deeply affected Govinda and Sunita for many years.…"
-        },
-        {
-          "title": "'Not a single protester died': Rijiju defends police action at Jantar Mantar",
-          "link": "https://timesofindia.indiatimes.com/india/not-a-single-protester-died-rijiju-defends-delhi-police-response-to-jantar-mantar-protests/articleshow/133310843.cms",
-          "date": "18 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Process for 26/11 trial in absentia of Lashkar handlers Saeed, Lakhvi starts",
-          "link": "https://timesofindia.indiatimes.com/city/mumbai/ball-set-rolling-for-trial-in-absentia-against-six-26/11-pakistani-accused/articleshow/133302907.cms",
-          "date": "17 Aug 2026",
-          "summary": "India has launched a trial in absentia for six accused linked to the 26/11 terror attacks. This initiative, guided by the new Bharatiya Nagarik Suraksha Sanhita, 2023, aims to expedite justice. A special court has declared Hafiz Saeed and Zaki-ur-Rehman Lakhvi…"
-        },
-        {
-          "title": "'Which RSS, BJP man fought for nation?' Kharge hits back amid Vande Mataram row",
-          "link": "https://timesofindia.indiatimes.com/city/goa/amid-bjp-criticism-congress-sings-vande-mataram-at-kharge-meet/articleshow/133303625.cms",
-          "date": "17 Aug 2026",
-          "summary": "During a spirited gathering led by Mallikarjun Kharge, Congress workers passionately sang Vande Mataram, igniting debates over the BJP's accusations of disrespect towards the national anthem. Kharge swiftly defended the party's honor, emphasizing the need for…"
-        },
-        {
-          "title": "'Sab talvaar chalayenge': Pant's hilarious Jadeja banter caught on stump mic",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/sab-talvaar-chalayenge-rishabh-pants-hilarious-ravindra-jadeja-banter-with-sarfaraz-khan-caught-on-stump-mic-watch/articleshow/133310112.cms",
-          "date": "18 Aug 2026",
-          "summary": "India had reduced Sri Lanka to 99/5 by lunch, with Manav Suthar leading the attack. However, Ravindra Jadeja was yet to take a wicket at that stage. Sarfaraz Khan was heard telling Jadeja to remain patient, as the Indian bowlers would share the wickets among t…"
-        },
-        {
-          "title": "Builder refusing RERA registration details? Here’s what homebuyers should do",
-          "link": "https://timesofindia.indiatimes.com/real-estate/news/builder-refusing-rera-registration-details-heres-what-homebuyers-should-do/articleshow/133311131.cms",
-          "date": "18 Aug 2026",
-          "summary": "The Enforcement Directorate has issued a strong warning to homebuyers regarding builders who deny access to RERA information. It is crucial for buyers to confirm a project's registration and necessary approvals prior to any financial commitment. The agency hig…"
-        },
-        {
-          "title": "Rupee slips 7 paise against US dollar as crude soars beyond $90 per barrel levels",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/rupee-slips-7-paise-against-us-dollar-as-crude-soars-beyond-90-per-barrel-levels/articleshow/133311523.cms",
-          "date": "18 Aug 2026",
-          "summary": "On Tuesday morning, the Indian rupee experienced a drop against the US dollar, influenced by rising crude oil prices and persistent demand for dollars. Brent crude futures remained above ninety-one dollars per barrel, amplifying the necessity for dollars. Comp…"
-        },
-        {
-          "title": "Two builders jailed for two years for failing to hand over possession of flat to buyers",
-          "link": "https://timesofindia.indiatimes.com/legal/news/two-builders-jailed-for-two-years-for-failing-to-hand-over-possession-of-mumbai-flat-to-buyers/articleshow/133311525.cms",
-          "date": "18 Aug 2026",
-          "summary": "Two construction firm partners received two-year jail sentences for failing to complete a flat. They also faced a ten thousand rupee fine each from the commission. The builders were ordered to complete the flat and obtain occupancy certificates. Complainants a…"
-        },
-        {
-          "title": "'I apologise on his behalf': Vijay after minister's Karunanidhi reference",
-          "link": "https://timesofindia.indiatimes.com/india/i-apologise-on-his-behalf-tamil-nadu-cm-vijay-after-ministers-karunanidhi-reference/articleshow/133310237.cms",
-          "date": "18 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "'Every voter had valid ID': Trump praises India polls, renews push for SAVE America Act",
-          "link": "https://timesofindia.indiatimes.com/india/everyone-had-valid-photo-id-trump-recalls-talk-with-cec-gyanesh-kumar-praises-indias-election-system/articleshow/133308662.cms",
-          "date": "18 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "ISI-backed ring busted, 253 operatives held across 14 states",
-          "link": "https://timesofindia.indiatimes.com/india/i-day-terror-plot-foiled-isi-backed-ring-busted-253-operatives-held-across-14-states/articleshow/133307027.cms",
-          "date": "18 Aug 2026",
-          "summary": "Shahzad Bhatti Gang's Terror Plans Foiled"
-        },
-        {
-          "title": "Gen Alpha, Gen Z students march in Lucknow over shortage of teachers, amenities",
-          "link": "https://timesofindia.indiatimes.com/city/lucknow/schoolgirls-lay-siege-to-road-to-protest-shortage-of-teachers-amenities/articleshow/133305868.cms",
-          "date": "18 Aug 2026",
-          "summary": "Students protested teacher shortages and poor school amenities on Monday. They walked 2.5km to the bypass, demanding immediate teacher appointments. The residential school students worried about upcoming board exams due to few classes. Police intervened after…"
-        },
-        {
-          "title": "2 killed in school shooting in Philippines’ Zamboanga",
-          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/2-killed-in-school-shooting-in-philippines-zamboanga-gunman-among-casualties/articleshow/133309616.cms",
-          "date": "18 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Top stocks to buy: Stock market recommendations for today - check list",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-august-18-2026-mphasis-supreme-industries-united-spirits-kfin-technologies-stocks-to-buy-today/articleshow/133310300.cms",
-          "date": "18 Aug 2026",
-          "summary": "Stock market recommendations: Mphasis, Supreme Industries, United Spirits, and Kfin Technologies are the top stocks to buy that Somil Mehta, Head of Retail Research, Mirae Asset ShareKhan has recommended for August 18, 2026:"
-        },
-        {
-          "title": "74% big-turn deliveries: Manav Suthar out-turns Jadeja, Kuldeep in Galle",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/manav-suthar-out-turns-ravindra-jadeja-kuldeep-yadav-with-74-big-turn-deliveries-in-galle/articleshow/133309017.cms",
-          "date": "18 Aug 2026",
-          "summary": "Manav Suthar played an important role in keeping the Sri Lankan batters under pressure. He also produced the highest percentage of deliveries with a large turn in the match so far. As many as 74% of his deliveries turned more than 4.5 degrees, the best among a…"
         }
       ]
     },
@@ -1630,6 +1630,120 @@
       "ok": true,
       "items": [
         {
+          "title": "renlei-tu added to PyPI",
+          "link": "https://pypi.org/project/renlei-tu/",
+          "date": "18 Aug 2026",
+          "summary": "Human Design (人类图) chart calculator CLI: dual imprint, 64 gates, type/authority/profile/definition/incarnation cross, LLM-ready JSON."
+        },
+        {
+          "title": "ollama-usage added to PyPI",
+          "link": "https://pypi.org/project/ollama-usage/",
+          "date": "18 Aug 2026",
+          "summary": "Log, budget, and visualise token usage for local Ollama models."
+        },
+        {
+          "title": "tgcrypto-zig added to PyPI",
+          "link": "https://pypi.org/project/tgcrypto-zig/",
+          "date": "18 Aug 2026",
+          "summary": "Fast and Portable Cryptography Extension Library for Pyrogram (Zig backend)"
+        },
+        {
+          "title": "accrawl added to PyPI",
+          "link": "https://pypi.org/project/accrawl/",
+          "date": "18 Aug 2026",
+          "summary": "Official Python client for the Accrawl Provider API — trigger crawls, poll sessions, submit OTPs, read accounts/transactions/positions, and verify webhooks. Zero dependencies (stdlib only)."
+        },
+        {
+          "title": "sikandarmoyaldev-rvc added to PyPI",
+          "link": "https://pypi.org/project/sikandarmoyaldev-rvc/",
+          "date": "18 Aug 2026",
+          "summary": "Lightweight, WebUI-free RVC inference and training engine for Manhwa Studio"
+        },
+        {
+          "title": "uvloop-snapshot added to PyPI",
+          "link": "https://pypi.org/project/uvloop-snapshot/",
+          "date": "18 Aug 2026",
+          "summary": "Snapshot build of uvloop from upstream commit e8efea407c783b0d9ad6993cfe1e3a56d1b1dc2e"
+        },
+        {
+          "title": "promem-mcp added to PyPI",
+          "link": "https://pypi.org/project/promem-mcp/",
+          "date": "18 Aug 2026",
+          "summary": "Persistent project context runtime for AI coding agents — local-first, MCP-native, token-efficient."
+        },
+        {
+          "title": "yxd-local-chat-forms added to PyPI",
+          "link": "https://pypi.org/project/yxd-local-chat-forms/",
+          "date": "18 Aug 2026",
+          "summary": "None"
+        },
+        {
+          "title": "PyInception-riz added to PyPI",
+          "link": "https://pypi.org/project/pyinception-riz/",
+          "date": "18 Aug 2026",
+          "summary": "A small python package"
+        },
+        {
+          "title": "agent-push-kit added to PyPI",
+          "link": "https://pypi.org/project/agent-push-kit/",
+          "date": "18 Aug 2026",
+          "summary": "Agent Push Kit API"
+        },
+        {
+          "title": "sidequery-pyiceberg added to PyPI",
+          "link": "https://pypi.org/project/sidequery-pyiceberg/",
+          "date": "18 Aug 2026",
+          "summary": "Sidequery's PyIceberg distribution with equality-delete read and write support"
+        },
+        {
+          "title": "gtwy-sdk added to PyPI",
+          "link": "https://pypi.org/project/gtwy-sdk/",
+          "date": "18 Aug 2026",
+          "summary": "Official Python SDK for the GTWY API — build and call agentic AI, RAG, and LLM-powered agents"
+        },
+        {
+          "title": "cclinks added to PyPI",
+          "link": "https://pypi.org/project/cclinks/",
+          "date": "18 Aug 2026",
+          "summary": "Open links from your Claude Code sessions with the keyboard, including Markdown links the terminal never shows"
+        },
+        {
+          "title": "rtl-lint-mcp added to PyPI",
+          "link": "https://pypi.org/project/rtl-lint-mcp/",
+          "date": "18 Aug 2026",
+          "summary": "Portable RTL lint MCP server for Codex, VS Code, Cursor, KRutrim, and other MCP hosts"
+        },
+        {
+          "title": "ovos-skill-wiki-offline added to PyPI",
+          "link": "https://pypi.org/project/ovos-skill-wiki-offline/",
+          "date": "18 Aug 2026",
+          "summary": "Fully offline general-knowledge fallback for OVOS, covering Wikipedia's own ~9,000 Level 4 Vital Articles - an offline alternative to Wikipedia/DDG/Wolfram Common Query skills"
+        },
+        {
+          "title": "starforge-cli added to PyPI",
+          "link": "https://pypi.org/project/starforge-cli/",
+          "date": "18 Aug 2026",
+          "summary": "StarForge（星锻）命令行客户端：pip 安装后用 sf init 创建微调项目，再提交训练。"
+        },
+        {
+          "title": "starforge-core added to PyPI",
+          "link": "https://pypi.org/project/starforge-core/",
+          "date": "18 Aug 2026",
+          "summary": "StarForge 平台契约内核：Console/CLI 共享 JobSpec 与 recipe，作业侧由 Job Capsule PEX 携带。"
+        },
+        {
+          "title": "valodesk added to PyPI",
+          "link": "https://pypi.org/project/valodesk/",
+          "date": "18 Aug 2026",
+          "summary": "Conversational CLI agent for VCT esports match/stats questions"
+        },
+        {
+          "title": "zemplayer added to PyPI",
+          "link": "https://pypi.org/project/zemplayer/",
+          "date": "18 Aug 2026",
+          "summary": "A remote control for mplayer which runs in a browser."
+        },
+        {
           "title": "ls-algorithm-plugin-sdk added to PyPI",
           "link": "https://pypi.org/project/ls-algorithm-plugin-sdk/",
           "date": "18 Aug 2026",
@@ -1694,120 +1808,6 @@
           "link": "https://pypi.org/project/odonian/",
           "date": "18 Aug 2026",
           "summary": "Task-coordination substrate for AI agent fleets. Name-reservation placeholder."
-        },
-        {
-          "title": "bc7enc-py added to PyPI",
-          "link": "https://pypi.org/project/bc7enc-py/",
-          "date": "18 Aug 2026",
-          "summary": "Python bindings for bc7enc_rdo, state of the art RDO BC1-7 GPU texture encoders"
-        },
-        {
-          "title": "csvstat-bharat added to PyPI",
-          "link": "https://pypi.org/project/csvstat-bharat/",
-          "date": "18 Aug 2026",
-          "summary": "A command-line tool for analyzing CSV files"
-        },
-        {
-          "title": "graph-r added to PyPI",
-          "link": "https://pypi.org/project/graph-r/",
-          "date": "18 Aug 2026",
-          "summary": "Embedded persistent knowledge graph: absorb a crawl, keep it fresh on an adaptive TTL, answer with URLs and anchors inside a token budget."
-        },
-        {
-          "title": "metric-breakdown added to PyPI",
-          "link": "https://pypi.org/project/metric-breakdown/",
-          "date": "18 Aug 2026",
-          "summary": "Bayesian metric trees: root cause analysis for business metrics over the dbt Semantic Layer"
-        },
-        {
-          "title": "firmwareloop added to PyPI",
-          "link": "https://pypi.org/project/firmwareloop/",
-          "date": "18 Aug 2026",
-          "summary": "AI Agent Firmware Development and Lab Automation Platform (Dual-Tier MCP Server)"
-        },
-        {
-          "title": "multiloop added to PyPI",
-          "link": "https://pypi.org/project/multiloop/",
-          "date": "18 Aug 2026",
-          "summary": "High-performance multi-event-loop concurrency engine for Python 3.14t with Rust core"
-        },
-        {
-          "title": "aiomarstek added to PyPI",
-          "link": "https://pypi.org/project/aiomarstek/",
-          "date": "18 Aug 2026",
-          "summary": "Async client library for local Marstek devices"
-        },
-        {
-          "title": "pepkio-gene-hypothesis-roulette added to PyPI",
-          "link": "https://pypi.org/project/pepkio-gene-hypothesis-roulette/",
-          "date": "18 Aug 2026",
-          "summary": "Python client for Pepkio gene-hypothesis-roulette tool"
-        },
-        {
-          "title": "clousight-bench added to PyPI",
-          "link": "https://pypi.org/project/clousight-bench/",
-          "date": "18 Aug 2026",
-          "summary": "Clousight Bench (指北测评): reproducible, evidence-graded benchmarking for cloud products."
-        },
-        {
-          "title": "scalar-tabular-intake added to PyPI",
-          "link": "https://pypi.org/project/scalar-tabular-intake/",
-          "date": "18 Aug 2026",
-          "summary": "Deterministic normalization and review classification for tabular intake data."
-        },
-        {
-          "title": "MyA.G.I.E.S added to PyPI",
-          "link": "https://pypi.org/project/mya-g-i-e-s/",
-          "date": "18 Aug 2026",
-          "summary": "This is a speech-to-text package created by Tushar"
-        },
-        {
-          "title": "ajaxapi added to PyPI",
-          "link": "https://pypi.org/project/ajaxapi/",
-          "date": "18 Aug 2026",
-          "summary": "Ajax Systems sorgu API istemcisi — ücretsiz, key'siz erişim (apiv2.ajaxsystems.fun)"
-        },
-        {
-          "title": "prompt-crafter added to PyPI",
-          "link": "https://pypi.org/project/prompt-crafter/",
-          "date": "18 Aug 2026",
-          "summary": "Say what the picture must contain, check that it does, and refuse when it does not. A typed contract of depictable claims drives both the prompt and the gate that verifies the pixels."
-        },
-        {
-          "title": "dhms-agentfuse added to PyPI",
-          "link": "https://pypi.org/project/dhms-agentfuse/",
-          "date": "18 Aug 2026",
-          "summary": "Experimental fail-closed pre-dispatch boundary for AI agent tools."
-        },
-        {
-          "title": "handoverai added to PyPI",
-          "link": "https://pypi.org/project/handoverai/",
-          "date": "18 Aug 2026",
-          "summary": "Handover of In-Context Learning state across session boundaries (spec 2.0-icl-handover) — writer/reader engines, guarantees, conformance suite, and agent skill."
-        },
-        {
-          "title": "pepkio-floor-time-lab-meeting-clock added to PyPI",
-          "link": "https://pypi.org/project/pepkio-floor-time-lab-meeting-clock/",
-          "date": "18 Aug 2026",
-          "summary": "Python client for Pepkio floor-time-lab-meeting-clock tool"
-        },
-        {
-          "title": "stackshift-sandbox added to PyPI",
-          "link": "https://pypi.org/project/stackshift-sandbox/",
-          "date": "18 Aug 2026",
-          "summary": "Typed public client for the Stackshift Sandbox API"
-        },
-        {
-          "title": "yncli added to PyPI",
-          "link": "https://pypi.org/project/yncli/",
-          "date": "18 Aug 2026",
-          "summary": "Autonomous Polyglot AI Coding Agent & TUI"
-        },
-        {
-          "title": "spillway added to PyPI",
-          "link": "https://pypi.org/project/spillway/",
-          "date": "18 Aug 2026",
-          "summary": "Congestion control for language model API traffic"
         }
       ]
     }
