@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-18T20:13:24Z",
+  "generated": "2026-08-18T21:14:40Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,12 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "US stocks: Tech selloff weighs down Wall Street as bond yields climb",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-tech-selloff-weighs-down-wall-street-as-bond-yields-climb/articleshow/133332021.cms",
+          "date": "19 Aug 2026",
+          "summary": "Wall Street faced a downturn as escalating tensions in the Middle East triggered a surge in bond yields. A steep decline was particularly evident in technology stocks, with semiconductors taking the brunt of the losses. Investors pivoted from growth-focused se…"
+        },
         {
           "title": "Anthropic pre-IPO credit facility set to climb past $10 billion",
           "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-pre-ipo-credit-facility-set-to-climb-past-10-billion/articleshow/133329176.cms",
@@ -36,12 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/india-expo-centre-operator-files-ipo-drhp-with-sebi-check-details/articleshow/133320423.cms",
           "date": "18 Aug 2026",
           "summary": "India Exposition Mart has filed draft IPO papers with Sebi, comprising a fresh issue of up to 75 lakh shares and an offer for sale of 2.3 crore shares. The company plans to use Rs 63.8 crore for capital expenditure at India Expo Centre."
-        },
-        {
-          "title": "Jefferies raises Belrise Industries target price, sees 18% upside on strong demand, business expansion",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-raises-belrise-industries-target-price-sees-18-upside-on-strong-demand-business-expansion/articleshow/133319608.cms",
-          "date": "18 Aug 2026",
-          "summary": "Jefferies retained its Buy rating on Belrise Industries and raised its target price to Rs 280, citing strong automotive orders, two-wheeler demand and expanding renewable energy and aerospace businesses. The brokerage expects robust earnings growth, though cus…"
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -202,14 +202,14 @@
           "summary": ""
         },
         {
-          "title": "Kharge's Vande Mataram dare to BJP: Slap case on Gandhi, Nehru",
-          "link": "https://timesofindia.indiatimes.com/india/kharges-vande-mataram-dare-to-bjp-slap-case-on-gandhi-nehru/articleshow/133331535.cms",
+          "title": "'I won': Trump renews 2020 election claim, says 24,000 noncitizens voted illegally",
+          "link": "https://timesofindia.indiatimes.com/world/us/i-won-trump-renews-2020-election-claim-says-24000-noncitizens-voted-illegally/articleshow/133332156.cms",
           "date": "19 Aug 2026",
           "summary": ""
         },
         {
-          "title": "Use of EVs going up steadily: Consumption at public chargers rises by 72%",
-          "link": "https://timesofindia.indiatimes.com/india/use-of-evs-going-up-steadily-consumption-at-public-chargers-rises-by-72/articleshow/133331764.cms",
+          "title": "Kharge's Vande Mataram dare to BJP: Slap case on Gandhi, Nehru",
+          "link": "https://timesofindia.indiatimes.com/india/kharges-vande-mataram-dare-to-bjp-slap-case-on-gandhi-nehru/articleshow/133331535.cms",
           "date": "19 Aug 2026",
           "summary": ""
         },
@@ -220,8 +220,8 @@
           "summary": "India and Pakistan face off in a vital Hockey World Cup match on Wednesday. India need at least a draw to advance, while Pakistan must win. England have already secured a place in the next round after winning both their matches. The historic Wagener Stadium in…"
         },
         {
-          "title": "SC rejects plea to replace hanging as execution mode",
-          "link": "https://timesofindia.indiatimes.com/india/no-evidence-lethal-jab-is-less-painful-sc-rejects-plea-to-replace-hanging-as-execution-mode/articleshow/133331906.cms",
+          "title": "Use of EVs going up steadily: Consumption at public chargers rises by 72%",
+          "link": "https://timesofindia.indiatimes.com/india/use-of-evs-going-up-steadily-consumption-at-public-chargers-rises-by-72/articleshow/133331764.cms",
           "date": "19 Aug 2026",
           "summary": ""
         },
@@ -232,10 +232,52 @@
           "summary": "Florida billionaire Herbert Wertheim purchased the first production Ferrari Luce for forty million dollars. This groundbreaking electric vehicle was designed with input from former Apple design chief Jony Ive. The unique car, known as Chassis Zero, fetched an…"
         },
         {
+          "title": "Nepal: Break Agniveer hiring deadlock, Gorkha veterans press Balen government",
+          "link": "https://timesofindia.indiatimes.com/india/nepal-break-agniveer-hiring-deadlock-gorkha-veterans-press-balen-government/articleshow/133332119.cms",
+          "date": "19 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "SC rejects plea to replace hanging as execution mode",
+          "link": "https://timesofindia.indiatimes.com/india/no-evidence-lethal-jab-is-less-painful-sc-rejects-plea-to-replace-hanging-as-execution-mode/articleshow/133331906.cms",
+          "date": "19 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "BJP puts Vinod Tawde, who played role in Bihar win, in charge of UP",
+          "link": "https://timesofindia.indiatimes.com/india/bjp-puts-vinod-tawde-who-played-role-in-bihar-win-in-charge-of-up/articleshow/133332018.cms",
+          "date": "19 Aug 2026",
+          "summary": "The BJP has designated Vinod Tawde as its new state in-charge for Uttar Pradesh, while Satish Poonia takes the helm in Punjab. Additionally, Tarun Chugh has been entrusted with managing Gujarat's party affairs. These strategic appointments are pivotal as the B…"
+        },
+        {
+          "title": "MacKenzie Scott helped abolish $40B in medical debt; how mechanics work",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-ex-wife-mackenzie-scott-who-sold-half-of-her-amazon-stake-has-helped-abolish-40-billion-in-medical-debt-how-mechanics-work/articleshow/133240371.cms",
+          "date": "14 Aug 2026",
+          "summary": "MacKenzie Scott's donations have enabled medical debt abolition across America. Her approach allows acquiring and erasing patient debt at steep discounts. This model has inspired other billionaires to contribute millions to similar initiatives. While philanthr…"
+        },
+        {
           "title": "Goa moves SC, seeks life imprisonment for Tejpal for sex assault",
           "link": "https://timesofindia.indiatimes.com/india/goa-moves-sc-seeks-life-imprisonment-for-tejpal-for-sex-assault/articleshow/133331982.cms",
           "date": "19 Aug 2026",
           "summary": "In a significant move, the Goa government has approached the Supreme Court, requesting a harsher sentence for Tarun Tejpal in a sexual assault case. The state argues that his current penalty is insufficient given the severity of the crime. They emphasize that…"
+        },
+        {
+          "title": "New Zealand released 40 sparrows for pests, then paid bounties to kill them",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/in-1867-canterbury-released-40-house-sparrows-to-eat-crop-pests-within-15-years-new-zealand-was-poisoning-the-birds-and-paying-bounties-after-they-began-stripping-grain-crops/articleshow/133313299.cms",
+          "date": "18 Aug 2026",
+          "summary": "New Zealand introduced house sparrows in 1867 hoping they would help farmers control crop-eating insects. The birds multiplied quickly and soon became a problem, feeding on grains and fruit and damaging wheat, barley and maize crops. Their rapid rise led to or…"
+        },
+        {
+          "title": "US reservoir plan displaced 600 families; abandoned land became national park",
+          "link": "https://timesofindia.indiatimes.com/world/us/in-the-1960s-the-us-began-displacing-around-600-families-for-a-40-mile-reservoir-in-1975-the-dam-was-shelved-and-their-land-became-a-70000-acre-national-park/articleshow/133281988.cms",
+          "date": "18 Aug 2026",
+          "summary": "The ambitious dam project planned for the Delaware River faced substantial backlash, resulting in its cancellation. This pivotal decision ultimately fostered the establishment of the Delaware Water Gap National Recreation Area, a refuge for the river's unspoil…"
+        },
+        {
+          "title": "Solar-powered backpacks to save endangered monarch butterflies in California",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/monarch-butterfly-has-been-added-to-endangered-species-list-to-conserve-them-scientists-in-california-have-given-them-solar-powered-radio-backpacks/articleshow/133330676.cms",
+          "date": "19 Aug 2026",
+          "summary": "Scientists are using tiny solar-powered devices to track endangered monarch butterflies. Researchers are studying how these butterflies use their overwintering habitats and nectar sources. The migratory monarch butterfly was listed as Endangered on the IUCN Re…"
         },
         {
           "title": "Kejriwal attacks BJP after Satyendar Jain's arrest, calls it 'dictatorship'",
@@ -250,46 +292,10 @@
           "summary": "A young boy died on Pune's pothole-filled roads, leading to opposition criticism. Local MLA Shankar Mandekar stated accidents happen when roads exist, drawing anger. Residents complained about unaddressed road repair issues despite repeated pleas. Opposition l…"
         },
         {
-          "title": "MacKenzie Scott helped abolish $40B in medical debt; how mechanics work",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-ex-wife-mackenzie-scott-who-sold-half-of-her-amazon-stake-has-helped-abolish-40-billion-in-medical-debt-how-mechanics-work/articleshow/133240371.cms",
-          "date": "14 Aug 2026",
-          "summary": "MacKenzie Scott's donations have enabled medical debt abolition across America. Her approach allows acquiring and erasing patient debt at steep discounts. This model has inspired other billionaires to contribute millions to similar initiatives. While philanthr…"
-        },
-        {
           "title": "AI coming for your money? Who keeps watch as tech becomes new financial advisor",
           "link": "https://timesofindia.indiatimes.com/business/india-business/ai-coming-for-your-money-who-keeps-watch-as-tech-becomes-new-financial-advisor/articleshow/133319058.cms",
           "date": "18 Aug 2026",
           "summary": ""
-        },
-        {
-          "title": "$186M cleanup transforms Minnesota lake, creates 14-acre fish habitat",
-          "link": "https://timesofindia.indiatimes.com/world/us/in-2020-a-186-million-cleanup-began-at-minnesotas-spirit-lake-four-years-later-1-3-million-cubic-yards-had-been-remediated-and-a-14-acre-fish-spawning-bay-created/articleshow/133304654.cms",
-          "date": "18 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Watch: Indian-origin Nasa astronaut Anil Menon takes second spacewalk",
-          "link": "https://timesofindia.indiatimes.com/science/watch-indian-origin-nasa-astronaut-anil-menon-takes-second-spacewalk/articleshow/133330977.cms",
-          "date": "19 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Solar-powered backpacks to save endangered monarch butterflies in California",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/monarch-butterfly-has-been-added-to-endangered-species-list-to-conserve-them-scientists-in-california-have-given-them-solar-powered-radio-backpacks/articleshow/133330676.cms",
-          "date": "19 Aug 2026",
-          "summary": "Scientists are using tiny solar-powered devices to track endangered monarch butterflies. Researchers are studying how these butterflies use their overwintering habitats and nectar sources. The migratory monarch butterfly was listed as Endangered on the IUCN Re…"
-        },
-        {
-          "title": "Barcelona sign Rodri from Man City: Spain captain joins star-studded squad",
-          "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/barcelona-officially-sign-rodri-from-man-city-spain-captain-joins-star-studded-squad/articleshow/133328511.cms",
-          "date": "18 Aug 2026",
-          "summary": "Barcelona has officially announced the signing of Spain captain Rodri from Manchester City. The accomplished midfielder has signed a contract keeping him at the club until 2030. Rodri arrives after playing a central role in Spain's World Cup triumph and winnin…"
-        },
-        {
-          "title": "In 1989, Apple buried about 2,700 Lisa computers in a landfill; here's why",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/in-1989-apple-buried-about-2700-unsold-lisa-computers-in-a-utah-landfill-after-its-10000-machine-failed-37-years-later-it-remains-one-of-the-strangest-product-failures-in-the-companys-history/articleshow/133316306.cms",
-          "date": "18 Aug 2026",
-          "summary": "In 1989, Apple buried about 2,700 unsold Lisa computers at a landfill in Logan, Utah, ending the story of one of its biggest early failures. Launched in 1983 with a graphical interface and mouse, the Lisa was ahead of its time but struggled because of its near…"
         },
         {
           "title": "Zero self-awareness: Jayden Daniels faces criticism over LSU number drama",
@@ -308,6 +314,24 @@
           "link": "https://timesofindia.indiatimes.com/sports/esports/minecraft/how-to-download-minecraft-bedrock-26-50-26-beta-and-preview-on-all-platforms/articleshow/133328035.cms",
           "date": "18 Aug 2026",
           "summary": "On August 18, 2026, the highly anticipated Minecraft Bedrock 26.50.26 beta and preview versions were released. This update aims to enhance gameplay with improved features and overall quality of life changes for players. Gamers across PC, Xbox, PlayStation, and…"
+        },
+        {
+          "title": "Watch: Indian-origin Nasa astronaut Anil Menon takes second spacewalk",
+          "link": "https://timesofindia.indiatimes.com/science/watch-indian-origin-nasa-astronaut-anil-menon-takes-second-spacewalk/articleshow/133330977.cms",
+          "date": "19 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Barcelona sign Rodri from Man City: Spain captain joins star-studded squad",
+          "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/barcelona-officially-sign-rodri-from-man-city-spain-captain-joins-star-studded-squad/articleshow/133328511.cms",
+          "date": "18 Aug 2026",
+          "summary": "Barcelona has officially announced the signing of Spain captain Rodri from Manchester City. The accomplished midfielder has signed a contract keeping him at the club until 2030. Rodri arrives after playing a central role in Spain's World Cup triumph and winnin…"
+        },
+        {
+          "title": "In 1989, Apple buried about 2,700 Lisa computers in a landfill; here's why",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/in-1989-apple-buried-about-2700-unsold-lisa-computers-in-a-utah-landfill-after-its-10000-machine-failed-37-years-later-it-remains-one-of-the-strangest-product-failures-in-the-companys-history/articleshow/133316306.cms",
+          "date": "18 Aug 2026",
+          "summary": "In 1989, Apple buried about 2,700 unsold Lisa computers at a landfill in Logan, Utah, ending the story of one of its biggest early failures. Launched in 1983 with a graphical interface and mouse, the Lisa was ahead of its time but struggled because of its near…"
         },
         {
           "title": "'Ready to deal with any threats': UAE vows response after Iran fires two missiles",
@@ -350,30 +374,6 @@
           "link": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-suffer-major-blow-as-captain-babar-azam-ruled-out-of-first-test-against-england/articleshow/133326962.cms",
           "date": "18 Aug 2026",
           "summary": "Pakistan captain Babar Azam misses the first Test against England due to a finger injury, with Salman Agha taking charge. Babar hopes to return for the second Test at Lord’s. Shan Masood also returns after recovering from injury. England, meanwhile, begin a ne…"
-        },
-        {
-          "title": "Ex-AAP minister Satyendar Jain arrested in Delhi Jal Board corruption case",
-          "link": "https://timesofindia.indiatimes.com/india/aap-leader-satyendar-jain-arrested-in-delhi-jal-board-corruption-case/articleshow/133326426.cms",
-          "date": "18 Aug 2026",
-          "summary": "The case includes charges under provisions relating to bribery, criminal breach of trust, cheating and criminal conspiracy. The case was registered on the complaint of Directorate of Vigilance, GNCTD regarding large-scale irregularities, manipulation of tender…"
-        },
-        {
-          "title": "Trollmeister Trump takes his cartographic aggression to Hormuz",
-          "link": "https://timesofindia.indiatimes.com/world/us/trollmeister-trump-takes-his-cartographic-aggression-to-hormuz/articleshow/133327322.cms",
-          "date": "18 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "What Trump’s latest safeguard tariff move on quartz surface products means for India",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/what-trumps-latest-safeguard-tariff-move-on-quartz-surface-products-means-for-india/articleshow/133325771.cms",
-          "date": "18 Aug 2026",
-          "summary": "The US accounted for 72.5% of India’s quartz surface-product exports in FY2026, according to a Global Trade Research Initiative (GTRI) report. India’s move does not amount to a formal WTO dispute at this stage. During the consultations, India could challenge t…"
-        },
-        {
-          "title": "‘Not tough’: Sreejesh’s blunt take on India-Pakistan Hockey World Cup clash",
-          "link": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/not-as-tough-as-they-used-to-be-pr-sreejeshs-blunt-take-on-india-pakistan-hockey-world-cup-clash/articleshow/133322772.cms",
-          "date": "18 Aug 2026",
-          "summary": "India's Hockey World Cup campaign hinges on a vital match against Pakistan. A victory will secure their progression to the tournament's second round. Former captain PR Sreejesh noted changes in the India-Pakistan rivalry's competitive edge. He also advised the…"
         }
       ]
     },
@@ -1152,6 +1152,12 @@
       "ok": true,
       "items": [
         {
+          "title": "Disney, ABC Sue FCC Over Threats to Broadcast Licenses",
+          "link": "https://yro.slashdot.org/story/26/08/18/2039239/disney-abc-sue-fcc-over-threats-to-broadcast-licenses?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "18 Aug 2026",
+          "summary": "Disney and ABC are suing the FCC to block an early review of eight station licenses, arguing the Trump administration is using the agency's regulatory power to punish the network over programming and editorial decisions it dislikes. Reuters reports: In a lawsu…"
+        },
+        {
           "title": "Memory Prices Climb 500% In 12 Months",
           "link": "https://hardware.slashdot.org/story/26/08/18/202210/memory-prices-climb-500-in-12-months?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "18 Aug 2026",
@@ -1234,12 +1240,6 @@
           "link": "https://hardware.slashdot.org/story/26/08/17/1842250/us-grid-operator-pjm-proposes-forcing-data-center-off-grid-during-emergencies?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "17 Aug 2026",
           "summary": "An anonymous reader quotes a report from Reuters: PJM Interconnection, the biggest U.S. grid operator, proposed on Thursday a new framework that would force data centers to use back-up generators when electricity supply on the grid approaches dangerously low l…"
-        },
-        {
-          "title": "OpenAI Announces Massive Data Center In Ohio With $105 Billion Nvidia Guarantee",
-          "link": "https://news.slashdot.org/story/26/08/17/1831220/openai-announces-massive-data-center-in-ohio-with-105-billion-nvidia-guarantee?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "17 Aug 2026",
-          "summary": "OpenAI has signed a 10-year lease for an enormous Ohio data center that will eventually provide 8 gigawatts of computing capacity and require at least 10 gigawatts of new power generation. According to OpenAI, Nvidia will be supplying the chips and guaranteein…"
         }
       ]
     },
@@ -1502,6 +1502,12 @@
       "ok": true,
       "items": [
         {
+          "title": "The Bullet-Proof KDE Software Initiative Is Coming",
+          "link": "http://www.linux-magazine.com/Online/News/The-Bullet-Proof-KDE-Software-Initiative-Is-Coming",
+          "date": "18 Aug 2026",
+          "summary": "KDE, Techpaladin, and Kubuntu Focus have announced a new initiative that will provide at least three years of support for KDE Plasma 6.6 LTS and related software."
+        },
+        {
           "title": "Linux Mint Shares a Possible Kernel Cleanup Solution",
           "link": "http://www.linux-magazine.com/Online/News/Linux-Mint-Shares-a-Possible-Kernel-Cleanup-Solution",
           "date": "14 Aug 2026",
@@ -1614,12 +1620,6 @@
           "link": "http://www.linux-magazine.com/Online/News/Alpine-Linux-3.24-Features-Fresh-Desktops-and-a-Newer-Kernel",
           "date": "15 Jun 2026",
           "summary": "If you're a fan of Alpine Linux, it's time to upgrade because the latest version has been released with KDE Plasma 6.6, Gnome 50, and Linux kernel 6.18 LTS."
-        },
-        {
-          "title": "EU Open Source Strategy Plays Key Role in Tech Sovereignty Package",
-          "link": "http://www.linux-magazine.com/Online/News/EU-Open-Source-Strategy-Plays-Key-Role-in-Tech-Sovereignty-Package",
-          "date": "12 Jun 2026",
-          "summary": "Comprehensive measures adopted by the European Commission aim to reduce dependency on non-EU countries."
         }
       ]
     },
@@ -1630,184 +1630,184 @@
       "ok": true,
       "items": [
         {
-          "title": "maxwell-modernized added to PyPI",
-          "link": "https://pypi.org/project/maxwell-modernized/",
+          "title": "cob-farm added to PyPI",
+          "link": "https://pypi.org/project/cob-farm/",
           "date": "18 Aug 2026",
-          "summary": "A computational implementation of Maxwell's 1873 Treatise on Electricity and Magnetism — all 866 articles, CGS-EMU units, citation-traceable."
+          "summary": "Official Python SDK for the COB API (cob.farm): silo document intelligence with cited answers"
         },
         {
-          "title": "mcp-agent-guard added to PyPI",
-          "link": "https://pypi.org/project/mcp-agent-guard/",
+          "title": "agentic-terminal-station added to PyPI",
+          "link": "https://pypi.org/project/agentic-terminal-station/",
           "date": "18 Aug 2026",
-          "summary": "Runtime security proxy for MCP agent tool calls"
+          "summary": "An MCP server that gives an agent terminal capabilities: run shell commands, run Python, and manage files."
         },
         {
-          "title": "marrow-agent added to PyPI",
-          "link": "https://pypi.org/project/marrow-agent/",
+          "title": "poetry-plugin-gitversion added to PyPI",
+          "link": "https://pypi.org/project/poetry-plugin-gitversion/",
           "date": "18 Aug 2026",
-          "summary": "The self-improving AI agent — creates skills from experience, improves them during use, and runs anywhere"
+          "summary": "This plugins wrap the gitversion tool to automatically create versions for poetry modules."
         },
         {
-          "title": "pumpwood-deploy-crawler-escavador added to PyPI",
-          "link": "https://pypi.org/project/pumpwood-deploy-crawler-escavador/",
+          "title": "tpu-runner added to PyPI",
+          "link": "https://pypi.org/project/tpu-runner/",
           "date": "18 Aug 2026",
-          "summary": "Package to assist deploy Pumpwood Crawler Escavador on K8s"
+          "summary": "Minimal Google Cloud TPU job runner"
         },
         {
-          "title": "algrecognize added to PyPI",
-          "link": "https://pypi.org/project/algrecognize/",
+          "title": "pumpwood-streamlit added to PyPI",
+          "link": "https://pypi.org/project/pumpwood-streamlit/",
           "date": "18 Aug 2026",
-          "summary": "Recognize low-complexity algebraic numbers from high-precision numerical approximations using FLINT"
+          "summary": "Package to deploy Streamlit at Pumpwood Systems"
         },
         {
-          "title": "cadtopo added to PyPI",
-          "link": "https://pypi.org/project/cadtopo/",
+          "title": "ellipsis-dev added to PyPI",
+          "link": "https://pypi.org/project/ellipsis-dev/",
           "date": "18 Aug 2026",
-          "summary": "Cost-aware dynamic-topology multi-agent LLM orchestration (DyTopo-based)"
+          "summary": "Python SDK for the Ellipsis agents platform: every /v1 operation, sync and async."
         },
         {
-          "title": "local-board added to PyPI",
-          "link": "https://pypi.org/project/local-board/",
+          "title": "pumpwood-deploy-streamlit added to PyPI",
+          "link": "https://pypi.org/project/pumpwood-deploy-streamlit/",
           "date": "18 Aug 2026",
-          "summary": "Repository-local issue tracker with MCP and a lightweight web UI"
+          "summary": "Package to assist deploy Pumpwood Streamlit Dashboards on K8s"
         },
         {
-          "title": "telepane added to PyPI",
-          "link": "https://pypi.org/project/telepane/",
+          "title": "swc-visualizer added to PyPI",
+          "link": "https://pypi.org/project/swc-visualizer/",
           "date": "18 Aug 2026",
-          "summary": "Mouse-driven tmux control dashboard. Type into any pane from one place"
+          "summary": "Validation, summaries, and 2D/3D visualization of SWC files"
         },
         {
-          "title": "sanhe_claude_code_plugin_marketplace added to PyPI",
-          "link": "https://pypi.org/project/sanhe-claude-code-plugin-marketplace/",
+          "title": "bot-todo added to PyPI",
+          "link": "https://pypi.org/project/bot-todo/",
           "date": "18 Aug 2026",
-          "summary": "Central marketplace catalog for Sanhe's Claude Code plugins, each developed and released from its own repository."
+          "summary": "Manage canonical repository task files."
         },
         {
-          "title": "pumpwood-deploy-crawler-bigdata added to PyPI",
-          "link": "https://pypi.org/project/pumpwood-deploy-crawler-bigdata/",
+          "title": "radixly added to PyPI",
+          "link": "https://pypi.org/project/radixly/",
           "date": "18 Aug 2026",
-          "summary": "Package to assist deploy Pumpwood Crawler BigData on K8s"
+          "summary": "Fast binary-to-text codecs for code-point-limited channels: base32768 and friends"
         },
         {
-          "title": "threedia added to PyPI",
-          "link": "https://pypi.org/project/threedia/",
+          "title": "busybar-mcp added to PyPI",
+          "link": "https://pypi.org/project/busybar-mcp/",
           "date": "18 Aug 2026",
-          "summary": "3DIA — a browser-based 3D architectural diagram & animation studio. Placeholder release reserving the name; API coming soon."
+          "summary": "An MCP server for the busy bar"
         },
         {
-          "title": "chronoloompy added to PyPI",
-          "link": "https://pypi.org/project/chronoloompy/",
+          "title": "pythermocalcdb-nasa-mcp added to PyPI",
+          "link": "https://pypi.org/project/pythermocalcdb-nasa-mcp/",
           "date": "18 Aug 2026",
-          "summary": "Temporal data processing primitives, backed by the chronoloom Rust crate."
+          "summary": "MCP server and orchestration layer for pythermocalcdb-nasa thermodynamic calculations."
         },
         {
-          "title": "mindweft added to PyPI",
-          "link": "https://pypi.org/project/mindweft/",
+          "title": "pumpwood-deploy-model-llm added to PyPI",
+          "link": "https://pypi.org/project/pumpwood-deploy-model-llm/",
           "date": "18 Aug 2026",
-          "summary": "Local-first AI agent runtime with HTTP, CLI, MCP, and coding-workspace interfaces"
+          "summary": "Package for deploy LLM Model Service"
         },
         {
-          "title": "oragon added to PyPI",
-          "link": "https://pypi.org/project/oragon/",
+          "title": "mcp-atlassian-cli added to PyPI",
+          "link": "https://pypi.org/project/mcp-atlassian-cli/",
           "date": "18 Aug 2026",
-          "summary": "Placeholder for the Oragon SDK. The SDK is distributed to licensed customers by Oragon Labs — see https://www.oragonlabs.com."
+          "summary": "atli - a CLI for Jira and Confluence, powered by mcp-atlassian"
         },
         {
-          "title": "fastaddress added to PyPI",
-          "link": "https://pypi.org/project/fastaddress/",
+          "title": "busybar_python_sdk added to PyPI",
+          "link": "https://pypi.org/project/busybar-python-sdk/",
           "date": "18 Aug 2026",
-          "summary": "Drop-in usaddress-compatible US address parser backed by a Rust engine (exact output parity, dramatically faster)"
+          "summary": "BUSY Bar HTTP API"
         },
         {
-          "title": "sugarai-erp-connector-epicor added to PyPI",
-          "link": "https://pypi.org/project/sugarai-erp-connector-epicor/",
+          "title": "antigravity-chrome-bridge added to PyPI",
+          "link": "https://pypi.org/project/antigravity-chrome-bridge/",
           "date": "18 Aug 2026",
-          "summary": "Epicor-specific mapping layer for the SugarAI ERP connector — normalization, resources, deep-links, and Epicor transformer/model extensions. Not agnostic core."
+          "summary": "Persistent Python REPL Runtime and Native Messaging Bridge for Google Chrome"
         },
         {
-          "title": "sugarai-erp-connector-ext-sdk added to PyPI",
-          "link": "https://pypi.org/project/sugarai-erp-connector-ext-sdk/",
+          "title": "pumpwood-deploy-frontend added to PyPI",
+          "link": "https://pypi.org/project/pumpwood-deploy-frontend/",
           "date": "18 Aug 2026",
-          "summary": "None"
+          "summary": "Package to assist deploy Pumpwood Frontend components on K8s"
         },
         {
-          "title": "sugarai-erp-connector-base added to PyPI",
-          "link": "https://pypi.org/project/sugarai-erp-connector-base/",
+          "title": "lang-parsing-substrate added to PyPI",
+          "link": "https://pypi.org/project/lang-parsing-substrate/",
           "date": "18 Aug 2026",
-          "summary": "Shared base models for SugarAI ERP connector — depended on by both connector-core and connector-ext-sdk"
+          "summary": "Shared language-parsing substrate for static-analysis tools — tree-sitter dispatch and analysis primitives across 16 languages, from Rust."
         },
         {
-          "title": "evalite added to PyPI",
-          "link": "https://pypi.org/project/evalite/",
+          "title": "BattCompiler added to PyPI",
+          "link": "https://pypi.org/project/battcompiler/",
           "date": "18 Aug 2026",
-          "summary": "A lightweight, model-agnostic agent evaluation framework"
+          "summary": "Automatically convert a Windows Batch file to an EXE using PyInstaller."
         },
         {
-          "title": "vapoursynth-tivtc added to PyPI",
-          "link": "https://pypi.org/project/vapoursynth-tivtc/",
+          "title": "commit-delta added to PyPI",
+          "link": "https://pypi.org/project/commit-delta/",
           "date": "18 Aug 2026",
-          "summary": "IVTC, field matching and decimation filters for VapourSynth."
+          "summary": "Find a minimal failure-inducing subset of a dirty Git working tree."
         },
         {
-          "title": "harper-cli added to PyPI",
-          "link": "https://pypi.org/project/harper-cli/",
+          "title": "pumpwood-deploy-estimation added to PyPI",
+          "link": "https://pypi.org/project/pumpwood-deploy-estimation/",
           "date": "18 Aug 2026",
-          "summary": "Wrap the `harper-cli` binary from `Automattic/harper` into a Python package distributable via `pypi`."
+          "summary": "Package to assist deploy Pumpwood Estimation on K8s"
         },
         {
-          "title": "ccharts added to PyPI",
-          "link": "https://pypi.org/project/ccharts/",
+          "title": "quaesitor-zero added to PyPI",
+          "link": "https://pypi.org/project/quaesitor-zero/",
           "date": "18 Aug 2026",
-          "summary": "Terminal charts for financial OHLC data (line and candlestick)"
+          "summary": "Does your data assistant say \"I don't know\" when it cannot know?"
         },
         {
-          "title": "hexus-lang added to PyPI",
-          "link": "https://pypi.org/project/hexus-lang/",
+          "title": "khiops-drivers added to PyPI",
+          "link": "https://pypi.org/project/khiops-drivers/",
           "date": "18 Aug 2026",
-          "summary": "Hexus (E-Knowledge) programming language"
+          "summary": "Khiops Drivers"
         },
         {
-          "title": "unslopify added to PyPI",
-          "link": "https://pypi.org/project/unslopify/",
+          "title": "langchain-xns added to PyPI",
+          "link": "https://pypi.org/project/langchain-xns/",
           "date": "18 Aug 2026",
-          "summary": "Audit and rewrite text to remove AI-generated writing patterns. Deterministic audit core plus an agent skill for the rewrite loop."
+          "summary": "LangChain document loaders and byte store for XNS — S3-compatible object storage with $0 egress"
         },
         {
-          "title": "obstack-py added to PyPI",
-          "link": "https://pypi.org/project/obstack-py/",
+          "title": "mat-summarize added to PyPI",
+          "link": "https://pypi.org/project/mat-summarize/",
           "date": "18 Aug 2026",
-          "summary": "Name-hold placeholder for the obstack Python SDK. Real releases begin with obstack M3; do not depend on this version."
+          "summary": "A package of methods to summarize MATs"
         },
         {
-          "title": "dwn2rtl added to PyPI",
-          "link": "https://pypi.org/project/dwn2rtl/",
+          "title": "ezmsg-kinematics added to PyPI",
+          "link": "https://pypi.org/project/ezmsg-kinematics/",
           "date": "18 Aug 2026",
-          "summary": "Turn a trained Differentiable Weightless Neural Network into synthesizable Verilog, and prove the Verilog matches the model"
+          "summary": "ezmsg units and utility code for streaming kinematics"
         },
         {
-          "title": "nodelink.py added to PyPI",
-          "link": "https://pypi.org/project/nodelink-py/",
+          "title": "steam-ungarbage added to PyPI",
+          "link": "https://pypi.org/project/steam-ungarbage/",
           "date": "18 Aug 2026",
-          "summary": "An async-ready wrapper for NodeLink"
+          "summary": "A utility to clean up Steam created link files."
         },
         {
-          "title": "ha-mqtt-device added to PyPI",
-          "link": "https://pypi.org/project/ha-mqtt-device/",
+          "title": "pumpwood-deploy-datalake added to PyPI",
+          "link": "https://pypi.org/project/pumpwood-deploy-datalake/",
           "date": "18 Aug 2026",
-          "summary": "Thin library for Home Assistant devices discoverable via MQTT device discovery"
+          "summary": "Package to assist deploy Pumpwood Datalake on K8s"
         },
         {
-          "title": "vapoursynth-bifrost added to PyPI",
-          "link": "https://pypi.org/project/vapoursynth-bifrost/",
+          "title": "offgridsec-kira-cli added to PyPI",
+          "link": "https://pypi.org/project/offgridsec-kira-cli/",
           "date": "18 Aug 2026",
-          "summary": "Temporal derainbowing filter for VapourSynth"
+          "summary": "Kira security scanner CLI — scan local repositories for vulnerabilities"
         },
         {
-          "title": "mcqemu added to PyPI",
-          "link": "https://pypi.org/project/mcqemu/",
+          "title": "pumpwood-deploy-complex-datalake added to PyPI",
+          "link": "https://pypi.org/project/pumpwood-deploy-complex-datalake/",
           "date": "18 Aug 2026",
-          "summary": "MCP server for managing QEMU virtual machines"
+          "summary": "Package to assist deploy Pumpwood Complex Datalake on K8s"
         }
       ]
     }
