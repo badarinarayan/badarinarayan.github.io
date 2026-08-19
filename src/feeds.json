@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-19T03:38:42Z",
+  "generated": "2026-08-19T04:27:55Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,12 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "Symbiotec Pharmalab sets price band for Rs 1,757 crore IPO, to open on August 24",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/symbiotec-pharmalab-sets-price-band-for-rs-1757-crore-ipo-to-open-on-august-24/articleshow/133336512.cms",
+          "date": "19 Aug 2026",
+          "summary": "Symbiotec Pharmalab will launch its ₹1,757-crore IPO from August 24–27, 2026, with a price band of ₹938–988 per share. The minimum bid is 15 shares, requiring an investment of ₹14,820 at the upper price band. The IPO is expected to list on BSE and NSE on Septe…"
+        },
         {
           "title": "Gaja Alternative Asset Management IPO opens today: GMP at 19% — Should You Subscribe?",
           "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/gaja-alternative-asset-management-ipo-opens-today-gmp-at-19-should-you-subscribe/articleshow/133335323.cms",
@@ -36,12 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-indian-markets-continue-their-six-day-losing-streak-as-oil-prices-and-geopolitical-tensions-rise/articleshow/133334664.cms",
           "date": "19 Aug 2026",
           "summary": "Indian markets faced pressure as the Nifty declined for a sixth consecutive trading session. Rising oil prices and ongoing West Asia conflict kept traders cautious throughout the day. The Nifty closed lower, reflecting broader market weakness and investor conc…"
-        },
-        {
-          "title": "Negative Breakout: These 13 stocks cross below their 200 DMAs",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-13-stocks-cross-below-their-200-dmas/downside-ahead/slideshow/133335353.cms",
-          "date": "19 Aug 2026",
-          "summary": "In the Nifty500 pack, 13 stocks' close prices crossed below their 200 DMA (Daily Moving Averages) on August 18, according to stockedge.com's technical scan data. Trading below the 200 DMA is considered a negative signal because it indicates that the stock's pr…"
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -202,16 +202,16 @@
           "summary": "A Kolkata hotel fire claimed nine lives early Wednesday morning. Six individuals sustained injuries and received immediate medical attention. Meanwhile, a separate incident in Birbhum resulted in seven fatalities. This second fire occurred at a private hotel i…"
         },
         {
+          "title": "ED raids 10 locations linked to Azam Khan, Jauhar University across UP, Delhi",
+          "link": "https://timesofindia.indiatimes.com/india/ed-raids-10-locations-linked-to-sp-leader-azam-khan-jauhar-university-across-up-delhi/articleshow/133336695.cms",
+          "date": "19 Aug 2026",
+          "summary": ""
+        },
+        {
           "title": "Goa moves SC seeking life term for Tarun Tejpal in sexual assault case",
           "link": "https://timesofindia.indiatimes.com/india/goa-moves-sc-seeks-life-imprisonment-for-tejpal-for-sex-assault/articleshow/133331982.cms",
           "date": "19 Aug 2026",
           "summary": "In a significant move, the Goa government has approached the Supreme Court, requesting a harsher sentence for Tarun Tejpal in a sexual assault case. The state argues that his current penalty is insufficient given the severity of the crime. They emphasize that…"
-        },
-        {
-          "title": "Bhopal cops hunt for private parts of boy killed by 'testicle traffickers'",
-          "link": "https://timesofindia.indiatimes.com/city/bhopal/cops-hunt-for-private-parts-of-boy-killed-by-testicle-traffickers/articleshow/133335179.cms",
-          "date": "19 Aug 2026",
-          "summary": "Police divers will search Bhopal's lakes for testicles removed by a gang. A 20-year-old student allegedly led the group after seeing a social media hoax. They failed to find a buyer for the organs and then disposed of them. The victim was a 16-year-old boy mur…"
         },
         {
           "title": "Pant scripts history, leapfrogs Gill to become India’s top WTC run-scorer",
@@ -220,10 +220,10 @@
           "summary": "In a remarkable feat, Rishabh Pant has now taken the lead in India's World Test Championship run charts, overtaking Shubman Gill following his impressive performance in Galle. Pant's milestone of achieving 100 Test sixes marks a historic moment for Indian cric…"
         },
         {
-          "title": "'Trade, commercial exchanges halted': UAE's response to Iran's latest missile attack",
-          "link": "https://timesofindia.indiatimes.com/world/middle-east/ballistic-missiles-target-uae-trade-ties-snap-how-abu-dhabi-responded-to-irans-latest-escalation/articleshow/133335044.cms",
+          "title": "Imran Khan’s sister meets him after 9 months as Pak SC orders hospital transfer",
+          "link": "https://timesofindia.indiatimes.com/world/pakistan/imran-khans-sister-meets-him-after-9-months-as-pakistan-sc-orders-hospital-transfer-for-jailed-ex-pm/articleshow/133336489.cms",
           "date": "19 Aug 2026",
-          "summary": ""
+          "summary": "Noreen Niazi met her brother Imran Khan in Adiala Jail after nine months. The Supreme Court ordered weekly family meetings and his transfer to a hospital. Imran also met his wife, Bushra Bibi, for a longer duration. Medical reports indicated fluctuating blood…"
         },
         {
           "title": "Within 6 months, ChatGPT can watch your screen, meetings &amp; emails: CEO Altman",
@@ -232,28 +232,22 @@
           "summary": "Sam Altman envisions a future where AI assistants can observe user activities on screens and during meetings. These intuitive systems are designed to access emails, documents, and Slack messages for better context and efficiency. Users will have control over t…"
         },
         {
-          "title": "US-Canada tariff row eases: Trump pauses 50% levies after last-minute deal",
-          "link": "https://timesofindia.indiatimes.com/business/international-business/us-canada-tariff-row-eases-trump-pauses-50-levies-after-last-minute-deal/articleshow/133335629.cms",
+          "title": "Bhopal cops hunt for private parts of boy killed by 'testicle traffickers'",
+          "link": "https://timesofindia.indiatimes.com/city/bhopal/cops-hunt-for-private-parts-of-boy-killed-by-testicle-traffickers/articleshow/133335179.cms",
           "date": "19 Aug 2026",
-          "summary": "The United States and Canada have agreed to delay significant tariffs on imports. This pause allows both nations more time to negotiate a comprehensive trade agreement. President Donald Trump announced the tariff delay on social media after last-minute talks.…"
+          "summary": "Police divers will search Bhopal's lakes for testicles removed by a gang. A 20-year-old student allegedly led the group after seeing a social media hoax. They failed to find a buyer for the organs and then disposed of them. The victim was a 16-year-old boy mur…"
         },
         {
-          "title": "'Wife wanted to start new life': More skeletons tumble out in Bengaluru double murder",
-          "link": "https://timesofindia.indiatimes.com/city/bengaluru/wanted-to-start-new-life-more-skeletons-tumble-out-as-bengaluru-woman-lover-kill-husband/articleshow/133335120.cms",
+          "title": "Bus takes different route, passenger misses flight; commission orders Rs 73K payout",
+          "link": "https://timesofindia.indiatimes.com/legal/news/bus-takes-different-route-passenger-misses-flight-consumer-commission-orders-rs-73000-payout/articleshow/133336903.cms",
           "date": "19 Aug 2026",
-          "summary": "Police are investigating a Bengaluru double murder involving a man and his young son. The man's wife, Harini, and her alleged boyfriend, Vinay Kumar, have been arrested. They allegedly planned the husband's death, which escalated when the child witnessed the a…"
+          "summary": "A consumer commission ordered Greenline Travels to pay compensation for a significant delay. The bus company's route deviation caused a passenger to miss his flight to Delhi. The complainant was pursuing an M.Phil. and needed to reach Delhi for his course. The…"
         },
         {
-          "title": "MacKenzie Scott helped abolish $40B in medical debt; how mechanics work",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-ex-wife-mackenzie-scott-who-sold-half-of-her-amazon-stake-has-helped-abolish-40-billion-in-medical-debt-how-mechanics-work/articleshow/133240371.cms",
-          "date": "14 Aug 2026",
-          "summary": "MacKenzie Scott's donations have enabled medical debt abolition across America. Her model allows acquiring and erasing patient debt at steep discounts. This approach has inspired other billionaires to contribute millions to similar initiatives. While philanthr…"
-        },
-        {
-          "title": "Democrat Angie Nixon defeats Alexander Vindman in surprise Florida Senate primary upset",
-          "link": "https://timesofindia.indiatimes.com/world/us/democrat-angie-nixon-defeats-alexander-vindman-in-surprise-florida-senate-primary-upset/articleshow/133336088.cms",
+          "title": "'Trade, commercial exchanges halted': UAE's response to Iran's latest missile attack",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/ballistic-missiles-target-uae-trade-ties-snap-how-abu-dhabi-responded-to-irans-latest-escalation/articleshow/133335044.cms",
           "date": "19 Aug 2026",
-          "summary": "Angie Nixon secured a surprise Democratic Senate primary victory in Florida. She will now face Republican Ashley Moody in the general election. Byron Donalds and David Jolly won their respective governor primary nominations. New congressional maps are expected…"
+          "summary": ""
         },
         {
           "title": "Hawaii’s 1905 mosquitofish import now linked to native species decline",
@@ -274,22 +268,22 @@
           "summary": "To protect the endangered monarch butterfly, researchers are harnessing the power of tiny solar-equipped devices for monitoring. These trackers provide valuable data on how butterflies interact with their overwintering habitats and locate nearby nectar sources…"
         },
         {
-          "title": "‘Ball was on the ground’: Ex-cricketer baffled as Jurel catch sparks controversy",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/ball-was-on-the-ground-ex-cricketer-baffled-as-dhruv-jurel-catch-sparks-controversy/articleshow/133334725.cms",
-          "date": "19 Aug 2026",
-          "summary": "As the final day of the Galle Test match unfolds, India edges closer to victory with crucial wickets. A contentious catch by Dhruv Jurel has left the Sri Lankan team in uncertainty. With 288 runs required for a win, Rishabh Pant shines, scoring 66 runs and ach…"
+          "title": "MacKenzie Scott helped abolish $40B in medical debt; how mechanics work",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-ex-wife-mackenzie-scott-who-sold-half-of-her-amazon-stake-has-helped-abolish-40-billion-in-medical-debt-how-mechanics-work/articleshow/133240371.cms",
+          "date": "14 Aug 2026",
+          "summary": "MacKenzie Scott's donations have enabled medical debt abolition across America. Her model allows acquiring and erasing patient debt at steep discounts. This approach has inspired other billionaires to contribute millions to similar initiatives. While philanthr…"
         },
         {
-          "title": "Top stocks to buy today: Stock recommendations for August 19 - check list",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-august-19-2026-bata-india-ifci-kfin-technologies-best-stocks-to-buy-today/articleshow/133325565.cms",
+          "title": "Coffee beans found in Civet poop makes one of the world’s most expensive Kopi Luwak",
+          "link": "https://timesofindia.indiatimes.com/science/coffee-beans-found-in-civet-poop-used-to-make-one-of-the-worlds-most-expensive-kopi-luwak-coffee-which-costs-thousands-of-dollars-per-kilogram/articleshow/133324277.cms",
           "date": "19 Aug 2026",
-          "summary": "Stock market recommendations: Bata India, IFCI, and KFin Technologies - these are the top stocks to buy for August 19 2026, identified by Mehul Kothari, DVP - Technical Research at Anand Rathi Shares:"
+          "summary": ""
         },
         {
-          "title": "'Batwara 1947' hits Rs 30 crore with a 12.5% Day 5 jump, lags at 24% of budget",
-          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/12-5-percent-growth-on-day-5-over-monday-sunny-deols-batwara-1947-crosses-rs-30-crore-in-5-days-recovers-only-24-percent-of-its-budget-awarapan-2-races-ahead-with-rs-100-crore-mark/articleshow/133334685.cms",
+          "title": "US-Canada tariff row eases: Trump pauses 50% levies after last-minute deal",
+          "link": "https://timesofindia.indiatimes.com/business/international-business/us-canada-tariff-row-eases-trump-pauses-50-levies-after-last-minute-deal/articleshow/133335629.cms",
           "date": "19 Aug 2026",
-          "summary": "Batwara 1947's box office journey shows a sharp downward turn. The film collected approximately thirty crore rupees after five days. Weekday performances have been particularly underwhelming for the period drama. The movie has recovered only twenty-four point…"
+          "summary": "The United States and Canada have agreed to delay significant tariffs on imports. This pause allows both nations more time to negotiate a comprehensive trade agreement. President Donald Trump announced the tariff delay on social media after last-minute talks.…"
         },
         {
           "title": "Travis Kelce expands business empire with major move for college athletes",
@@ -308,6 +302,42 @@
           "link": "https://timesofindia.indiatimes.com/sports/nfl/news/we-couldnt-be-prouder-how-patrick-mahomes-and-brittany-mahomes-5-million-act-of-kindness-turned-their-texas-roots-into-a-lasting-legacy/articleshow/133260398.cms",
           "date": "15 Aug 2026",
           "summary": "Chiefs star Patrick Mahomes and his wife Brittany Mahomes' $5 million donation to Texas Tech marks a transformative moment for the university's football facilities. This substantial amount amplifies the fundraising efforts and ensures naming rights for promine…"
+        },
+        {
+          "title": "India to take on Pakistan in high-stakes Hockey World Cup clash",
+          "link": "https://timesofindia.indiatimes.com/sports/hockey/hockey-world-cup/india-to-take-on-pakistan-in-high-stakes-hockey-world-cup-clash/articleshow/133336355.cms",
+          "date": "19 Aug 2026",
+          "summary": "None of the current crop of Indian players has faced Pakistan in a hockey World Cup before. But they have someone in their corner who knows exactly what such a contest entails."
+        },
+        {
+          "title": "'Wife wanted to start new life': More skeletons tumble out in Bengaluru double murder",
+          "link": "https://timesofindia.indiatimes.com/city/bengaluru/wanted-to-start-new-life-more-skeletons-tumble-out-as-bengaluru-woman-lover-kill-husband/articleshow/133335120.cms",
+          "date": "19 Aug 2026",
+          "summary": "Police are investigating a Bengaluru double murder involving a man and his young son. The man's wife, Harini, and her alleged boyfriend, Vinay Kumar, have been arrested. They allegedly planned the husband's death, which escalated when the child witnessed the a…"
+        },
+        {
+          "title": "Democrat Angie Nixon defeats Alexander Vindman in surprise Florida Senate primary upset",
+          "link": "https://timesofindia.indiatimes.com/world/us/democrat-angie-nixon-defeats-alexander-vindman-in-surprise-florida-senate-primary-upset/articleshow/133336088.cms",
+          "date": "19 Aug 2026",
+          "summary": "Angie Nixon secured a surprise Democratic Senate primary victory in Florida. She will now face Republican Ashley Moody in the general election. Byron Donalds and David Jolly won their respective governor primary nominations. New congressional maps are expected…"
+        },
+        {
+          "title": "‘Ball was on the ground’: Ex-cricketer baffled as Jurel catch sparks controversy",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/ball-was-on-the-ground-ex-cricketer-baffled-as-dhruv-jurel-catch-sparks-controversy/articleshow/133334725.cms",
+          "date": "19 Aug 2026",
+          "summary": "As the final day of the Galle Test match unfolds, India edges closer to victory with crucial wickets. A contentious catch by Dhruv Jurel has left the Sri Lankan team in uncertainty. With 288 runs required for a win, Rishabh Pant shines, scoring 66 runs and ach…"
+        },
+        {
+          "title": "Top stocks to buy today: Stock recommendations for August 19 - check list",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-august-19-2026-bata-india-ifci-kfin-technologies-best-stocks-to-buy-today/articleshow/133325565.cms",
+          "date": "19 Aug 2026",
+          "summary": "Stock market recommendations: Bata India, IFCI, and KFin Technologies - these are the top stocks to buy for August 19 2026, identified by Mehul Kothari, DVP - Technical Research at Anand Rathi Shares:"
+        },
+        {
+          "title": "'Batwara 1947' hits Rs 30 crore with a 12.5% Day 5 jump, lags at 24% of budget",
+          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/12-5-percent-growth-on-day-5-over-monday-sunny-deols-batwara-1947-crosses-rs-30-crore-in-5-days-recovers-only-24-percent-of-its-budget-awarapan-2-races-ahead-with-rs-100-crore-mark/articleshow/133334685.cms",
+          "date": "19 Aug 2026",
+          "summary": "Batwara 1947's box office journey shows a sharp downward turn. The film collected approximately thirty crore rupees after five days. Weekday performances have been particularly underwhelming for the period drama. The movie has recovered only twenty-four point…"
         },
         {
           "title": "'Fake case' or established money trail? Kejriwal, BJP clash over Satyendar Jain",
@@ -342,36 +372,6 @@
         {
           "title": "'I won': Trump renews 2020 election claim, says 24,000 noncitizens voted illegally",
           "link": "https://timesofindia.indiatimes.com/world/us/i-won-trump-renews-2020-election-claim-says-24000-noncitizens-voted-illegally/articleshow/133332156.cms",
-          "date": "19 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "India vs Pak Hockey WC: Knockout dream, survival at stake in blockbuster clash",
-          "link": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/india-vs-pakistan-hockey-world-cup-knockout-dream-survival-at-stake-in-blockbuster-clash/articleshow/133327797.cms",
-          "date": "18 Aug 2026",
-          "summary": "India and Pakistan face off in a vital Hockey World Cup match on Wednesday. India need at least a draw to advance, while Pakistan must win. England have already secured a place in the next round after winning both their matches. The historic Wagener Stadium in…"
-        },
-        {
-          "title": "Ex-SC judge to lead probe into police action on CJP Parliament march",
-          "link": "https://timesofindia.indiatimes.com/india/ex-sc-judge-to-lead-probe-into-police-action-on-cjp-parliament-march/articleshow/133334424.cms",
-          "date": "19 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "'Awarapan 2' Day 5: Emraan Hashmi scores first Rs 100cr solo hit with 122% ROI",
-          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/awarapan-2-box-office-collection-day-5-emraan-hashmi-delivers-the-first-rs-100-crore-solo-lead-film-of-his-career-earns-122-percent-return-on-investment/articleshow/133334546.cms",
-          "date": "19 Aug 2026",
-          "summary": "Emraan Hashmi's sequel 'Awarapan 2' has successfully hit the Rs 100 crore milestone in India, achieving this impressive feat just five days post-release. After a strong opening day with Rs 22 crore, the film experienced substantial growth over the weekend. Wit…"
-        },
-        {
-          "title": "Kharge's Vande Mataram dare to BJP: Slap case on Gandhi, Nehru",
-          "link": "https://timesofindia.indiatimes.com/india/kharges-vande-mataram-dare-to-bjp-slap-case-on-gandhi-nehru/articleshow/133331535.cms",
-          "date": "19 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Use of EVs going up steadily: Consumption at public chargers rises by 72%",
-          "link": "https://timesofindia.indiatimes.com/india/use-of-evs-going-up-steadily-consumption-at-public-chargers-rises-by-72/articleshow/133331764.cms",
           "date": "19 Aug 2026",
           "summary": ""
         }
@@ -1630,6 +1630,126 @@
       "ok": true,
       "items": [
         {
+          "title": "prismschema added to PyPI",
+          "link": "https://pypi.org/project/prismschema/",
+          "date": "19 Aug 2026",
+          "summary": "Open-source DDL parser and PrismSQL schema contract generator"
+        },
+        {
+          "title": "htst-code-flow-skill added to PyPI",
+          "link": "https://pypi.org/project/htst-code-flow-skill/",
+          "date": "19 Aug 2026",
+          "summary": "Installable Code Flow skill and command templates for Claude Code, GitHub Copilot, OpenAI Codex, Antigravity and Gemini CLI."
+        },
+        {
+          "title": "pypoldata added to PyPI",
+          "link": "https://pypi.org/project/pypoldata/",
+          "date": "19 Aug 2026",
+          "summary": "Acceso reproducible a datasets abiertos para Ciencia Política y Ciencias Sociales."
+        },
+        {
+          "title": "tokenspend added to PyPI",
+          "link": "https://pypi.org/project/tokenspend/",
+          "date": "19 Aug 2026",
+          "summary": "Official Python client for the TokenSpend API"
+        },
+        {
+          "title": "rag-governance-eval added to PyPI",
+          "link": "https://pypi.org/project/rag-governance-eval/",
+          "date": "19 Aug 2026",
+          "summary": "Evaluation and quality-gating layer for RAG pipelines governed by Microsoft's Agent Governance Toolkit (agent-rag-governance)"
+        },
+        {
+          "title": "levymmd added to PyPI",
+          "link": "https://pypi.org/project/levymmd/",
+          "date": "19 Aug 2026",
+          "summary": "Expected signature kernels and maximum mean discrepancies for inhomogeneous Lévy processes"
+        },
+        {
+          "title": "ollama-json-fixer added to PyPI",
+          "link": "https://pypi.org/project/ollama-json-fixer/",
+          "date": "19 Aug 2026",
+          "summary": "Force local Ollama models to output strict, valid JSON. Auto-strips markdown fences and retries on failure."
+        },
+        {
+          "title": "shengwen-backend added to PyPI",
+          "link": "https://pypi.org/project/shengwen-backend/",
+          "date": "19 Aug 2026",
+          "summary": "Django 与 FastAPI 强约定业务模板生成器"
+        },
+        {
+          "title": "kree4py-commons-events added to PyPI",
+          "link": "https://pypi.org/project/kree4py-commons-events/",
+          "date": "19 Aug 2026",
+          "summary": "Placeholder package reserving the PyPI name. Self-built EventEmitter/Event/Listener, ported directly."
+        },
+        {
+          "title": "kree4py-commons-collection added to PyPI",
+          "link": "https://pypi.org/project/kree4py-commons-collection/",
+          "date": "19 Aug 2026",
+          "summary": "Placeholder package reserving the PyPI name. CappedMap/CappedSet/LinkedList/IndexedLinkedList/TimeWheelCache."
+        },
+        {
+          "title": "habit-ptf added to PyPI",
+          "link": "https://pypi.org/project/habit-ptf/",
+          "date": "19 Aug 2026",
+          "summary": "HABIT: predict soil water retention curves from basic soil properties"
+        },
+        {
+          "title": "kree4py added to PyPI",
+          "link": "https://pypi.org/project/kree4py/",
+          "date": "19 Aug 2026",
+          "summary": "Placeholder package reserving the PyPI name."
+        },
+        {
+          "title": "kree4py-commons-lang added to PyPI",
+          "link": "https://pypi.org/project/kree4py-commons-lang/",
+          "date": "19 Aug 2026",
+          "summary": "Placeholder package reserving the PyPI name. TypeAssert/_Error/lang-utils and the class-proxy metaclass helpers."
+        },
+        {
+          "title": "visionstory-mcp added to PyPI",
+          "link": "https://pypi.org/project/visionstory-mcp/",
+          "date": "19 Aug 2026",
+          "summary": "MCP server for the VisionStory API - task-oriented tools for AI talking-avatar video generation."
+        },
+        {
+          "title": "visionstory added to PyPI",
+          "link": "https://pypi.org/project/visionstory/",
+          "date": "19 Aug 2026",
+          "summary": "Official Python SDK for the VisionStory API - AI talking-avatar video generation."
+        },
+        {
+          "title": "marlo-learn added to PyPI",
+          "link": "https://pypi.org/project/marlo-learn/",
+          "date": "19 Aug 2026",
+          "summary": "Manifold Approximation, Graph Reduction and Layout Optimization"
+        },
+        {
+          "title": "burst-align added to PyPI",
+          "link": "https://pypi.org/project/burst-align/",
+          "date": "19 Aug 2026",
+          "summary": "Stabilize a photo burst using border features only, and turn it into a GIF."
+        },
+        {
+          "title": "fivedollarfootball added to PyPI",
+          "link": "https://pypi.org/project/fivedollarfootball/",
+          "date": "19 Aug 2026",
+          "summary": "Official Python client for the 5DollarFootballAPI — football fixtures, live scores, standings and odds history"
+        },
+        {
+          "title": "earthaccess-auth added to PyPI",
+          "link": "https://pypi.org/project/earthaccess-auth/",
+          "date": "19 Aug 2026",
+          "summary": "NASA Earthdata Login (EDL) authentication core, extracted from earthaccess"
+        },
+        {
+          "title": "ranla added to PyPI",
+          "link": "https://pypi.org/project/ranla/",
+          "date": "19 Aug 2026",
+          "summary": "Ranla email API client for Python"
+        },
+        {
           "title": "voyager-island added to PyPI",
           "link": "https://pypi.org/project/voyager-island/",
           "date": "19 Aug 2026",
@@ -1688,126 +1808,6 @@
           "link": "https://pypi.org/project/zentao-mcp-v1/",
           "date": "19 Aug 2026",
           "summary": "禅道 (ZenTao) V1.0 REST API MCP 服务器"
-        },
-        {
-          "title": "deepbom added to PyPI",
-          "link": "https://pypi.org/project/deepbom/",
-          "date": "19 Aug 2026",
-          "summary": "Deployment-artifact inspection for on-device neural network models"
-        },
-        {
-          "title": "verdict-core added to PyPI",
-          "link": "https://pypi.org/project/verdict-core/",
-          "date": "19 Aug 2026",
-          "summary": "Policy-gated, availability-aware LLM routing control plane — deterministic safety floors, quantitative-trading-grade execution, closed-loop telemetry."
-        },
-        {
-          "title": "opendpp-sdk added to PyPI",
-          "link": "https://pypi.org/project/opendpp-sdk/",
-          "date": "19 Aug 2026",
-          "summary": "Official Python SDK for the OpenDPP Digital Product Passport API — a fully-typed client (pydantic v2) generated from the public OpenAPI contract and version-locked to it."
-        },
-        {
-          "title": "rabo-robolib added to PyPI",
-          "link": "https://pypi.org/project/rabo-robolib/",
-          "date": "19 Aug 2026",
-          "summary": "rabo_robolib: ROS2 机器人能力封装"
-        },
-        {
-          "title": "huhongkai-hs300-factor-lab added to PyPI",
-          "link": "https://pypi.org/project/huhongkai-hs300-factor-lab/",
-          "date": "19 Aug 2026",
-          "summary": "HS300 high-frequency factor modeling research source and documentation snapshot"
-        },
-        {
-          "title": "all_might added to PyPI",
-          "link": "https://pypi.org/project/all-might/",
-          "date": "19 Aug 2026",
-          "summary": "An easy-to-use Python library containing useful beginner-friendly programs and tools."
-        },
-        {
-          "title": "onehux-sso added to PyPI",
-          "link": "https://pypi.org/project/onehux-sso/",
-          "date": "19 Aug 2026",
-          "summary": "Django SDK for OneHux Accounts SSO (Authorization Code + PKCE, real hosted login page, RP-initiated logout)."
-        },
-        {
-          "title": "etlantic-mcp added to PyPI",
-          "link": "https://pypi.org/project/etlantic-mcp/",
-          "date": "19 Aug 2026",
-          "summary": "Experimental read-only MCP server for ETLantic (fake by default)."
-        },
-        {
-          "title": "daft-hive added to PyPI",
-          "link": "https://pypi.org/project/daft-hive/",
-          "date": "19 Aug 2026",
-          "summary": "Community-maintained HiveServer2 datasource for Daft"
-        },
-        {
-          "title": "livery added to PyPI",
-          "link": "https://pypi.org/project/livery/",
-          "date": "19 Aug 2026",
-          "summary": "Reserved package name."
-        },
-        {
-          "title": "etlantic-spark-connect added to PyPI",
-          "link": "https://pypi.org/project/etlantic-spark-connect/",
-          "date": "19 Aug 2026",
-          "summary": "Experimental Spark Connect provider for ETLantic (fake by default)."
-        },
-        {
-          "title": "xiaoyu-desk added to PyPI",
-          "link": "https://pypi.org/project/xiaoyu-desk/",
-          "date": "19 Aug 2026",
-          "summary": "Xiaoyu Desk — a KiroCrew distribution driven by the xiaoyu agent"
-        },
-        {
-          "title": "stretis-sdk added to PyPI",
-          "link": "https://pypi.org/project/stretis-sdk/",
-          "date": "19 Aug 2026",
-          "summary": "Python SDK for indie automation platforms: list app/action nodes for your picker UI, render their input forms, and turn filled forms into ready-to-fire API requests."
-        },
-        {
-          "title": "pydantic-zotero-mcp added to PyPI",
-          "link": "https://pypi.org/project/pydantic-zotero-mcp/",
-          "date": "19 Aug 2026",
-          "summary": "MCP server exposing a Zotero library — search, metadata, notes, and PDF full text — to AI agents"
-        },
-        {
-          "title": "crawloom added to PyPI",
-          "link": "https://pypi.org/project/crawloom/",
-          "date": "19 Aug 2026",
-          "summary": "Declarative, config-driven web crawling framework. In early development."
-        },
-        {
-          "title": "silentbugs added to PyPI",
-          "link": "https://pypi.org/project/silentbugs/",
-          "date": "19 Aug 2026",
-          "summary": "Find the bugs that pass your tests and your linter: code that fails by returning something plausible instead of raising."
-        },
-        {
-          "title": "ai-blackbox-recorder added to PyPI",
-          "link": "https://pypi.org/project/ai-blackbox-recorder/",
-          "date": "19 Aug 2026",
-          "summary": "Universal, zero-dependency KISS flight recorder for AI agents"
-        },
-        {
-          "title": "project-guard added to PyPI",
-          "link": "https://pypi.org/project/project-guard/",
-          "date": "19 Aug 2026",
-          "summary": "Small, local-first AI coding governance CLI"
-        },
-        {
-          "title": "entra-stale-accounts added to PyPI",
-          "link": "https://pypi.org/project/entra-stale-accounts/",
-          "date": "19 Aug 2026",
-          "summary": "Read-only CLI that flags inactive Microsoft Entra ID accounts past a configurable threshold."
-        },
-        {
-          "title": "herbiedss added to PyPI",
-          "link": "https://pypi.org/project/herbiedss/",
-          "date": "19 Aug 2026",
-          "summary": "Fetch NOAA weather model output (HRRR, GFS, GEFS) with Herbie, reproject to USACE SHG or NWS HRAP hydrologic grids, clip to a watershed boundary, and write the result to HEC-DSS for use in HEC-HMS/HEC-RAS."
         }
       ]
     }
