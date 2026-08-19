@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-19T15:21:37Z",
+  "generated": "2026-08-19T16:20:23Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,12 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "US stocks: US market regains ground as bond yields ease; healthcare stocks rally",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-up-after-tech-led-slump-as-yields-ease-earnings-watched/articleshow/133350322.cms",
+          "date": "19 Aug 2026",
+          "summary": "Major stock indexes recovered on Wednesday after a prior day's decline. Moderna shares surged significantly following positive cancer therapy trial results. Government bond yields eased from highs, boosting investor risk appetite. Retailers like Target and Low…"
+        },
         {
           "title": "Moderna shares soar 135% in a day after cancer vaccine succeeds in late-stage trial",
           "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/moderna-shares-soar-135-in-a-day-after-cancer-vaccine-succeeds-in-late-stage-trial/articleshow/133351080.cms",
@@ -36,12 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/igl-mgl-adani-total-gas-shares-rally-up-to-6-as-govt-boosts-domestic-png-push/articleshow/133339597.cms",
           "date": "19 Aug 2026",
           "summary": "City gas distributor stocks rallied after the government approved an incentive scheme to accelerate domestic PNG connections from September 1. Mahanagar Gas, IGL, Adani Total Gas rose as the scheme aims to expand active piped gas connections and promote cleane…"
-        },
-        {
-          "title": "HG Infra Engineering shares jump over 8% after receiving LoI from REC",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hg-infra-engineering-shares-jump-over-8-after-receiving-loi-from-rec/articleshow/133338862.cms",
-          "date": "19 Aug 2026",
-          "summary": "HG Infra Engineering shares rose after the company received a letter of intent from REC Power Development and Consultancy for constructing two 220/132/33 kV AIS substations and associated transmission lines in Uttar Pradesh."
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -196,10 +196,46 @@
       "ok": true,
       "items": [
         {
+          "title": "US funded it, China built it at scale: How robot dogs entered new arms race",
+          "link": "https://timesofindia.indiatimes.com/defence/international/us-funded-the-breakthrough-china-built-at-scale-how-robot-dogs-entered-the-new-arms-race/articleshow/133343045.cms",
+          "date": "19 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Road to US green card gets tougher; public charge scrutiny to begin Sept 18",
+          "link": "https://timesofindia.indiatimes.com/nri/us-canada-news/us-green-card-applicants-to-face-broader-public-charge-scrutiny-from-september-18/articleshow/133347630.cms",
+          "date": "19 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "WC: India extend dominance over Pakistan with 5-3 thriller, seal next-round spot",
+          "link": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/hockey-world-cup-india-extend-dominance-over-pakistan-with-5-3-thriller-seal-next-round-spot/articleshow/133352075.cms",
+          "date": "19 Aug 2026",
+          "summary": "In a thrilling Pool D showdown, India triumphed over Pakistan with a score of 5-3. With Harmanpreet Singh and Abhishek each netting two goals, India showcased their strength. Pakistan's Hannan Shahid and Sufyan Khan put up a valiant effort by scoring, yet Indi…"
+        },
+        {
           "title": "Govt planning to bring E10 back? Clamour grows after top bureaucrat's remark",
           "link": "https://timesofindia.indiatimes.com/india/government-planning-to-bring-e10-back-clamour-grows-after-top-bureaucrats-remark/articleshow/133351117.cms",
           "date": "19 Aug 2026",
           "summary": "E20 is petrol containing 20% ethanol and 80% petrol. The government has promoted higher ethanol blending as a way to reduce crude oil imports, save foreign exchange and improve India's energy security. India also achieved its 20% blending target ahead of the o…"
+        },
+        {
+          "title": "Trouble brewing for Zelenskyy? Ex-defence minister calls for wartime polls",
+          "link": "https://timesofindia.indiatimes.com/world/europe/trouble-brewing-for-zelenskyy-ex-defence-minister-calls-for-wartime-polls/articleshow/133353219.cms",
+          "date": "19 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Meet 10-yr-old Hsu Ting-wei, winner of Silicon Valley invention award",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/meet-10-year-old-hsu-ting-wei-winner-of-top-silicon-valley-invention-award-for-building-an-ai-electronic-nose-that-samples-air-behind-x-ray-baggage-scanners/articleshow/133342162.cms",
+          "date": "19 Aug 2026",
+          "summary": "In a remarkable showcase of talent, Taiwanese inventors made waves at the Silicon Valley International Festival. Among them, a ten-year-old prodigy captured prestigious awards with his innovative AI-powered electronic nose, designed to identify airborne chemic…"
+        },
+        {
+          "title": "'Speechless' Garret Tan silences Lakshya Sen and Delhi crowd at BWF World C'ships",
+          "link": "https://timesofindia.indiatimes.com/sports/badminton/speechless-garret-tan-silences-lakshya-sen-and-delhi-crowd-at-bwf-world-championships/articleshow/133352771.cms",
+          "date": "19 Aug 2026",
+          "summary": "American teenager Garret Tan stunned Lakshya Sen, the 14th seed and the 2021 World Championships bronze medallist, in a thrilling three-set match at the Delhi World Championships. Overcoming crowd pressure, a head injury and Sen’s aggressive play, Tan triumphe…"
         },
         {
           "title": "Chhatron ki Goonj &amp; chanda chori: Cong forms plan to corner Centre",
@@ -214,20 +250,50 @@
           "summary": ""
         },
         {
+          "title": "US issues details of new Green Card rules coming into effect from September 18",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/us-issues-details-of-new-green-card-rules-coming-into-effect-from-september-18-wants-bond-to-prove-that-they-do-not-/articleshow/133338315.cms",
+          "date": "19 Aug 2026",
+          "summary": "Beginning September 18, 2026, new rules from the United States Citizenship and Immigration Services will reshape the Green Card application landscape. Applicants will undergo a more rigorous public charge evaluation that now includes a broader range of public…"
+        },
+        {
+          "title": "‘Magnificent’ Manav Suthar can serve India for a long time, says Shubman Gill",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/magnificent-manav-suthar-can-serve-india-for-a-long-time-says-shubman-gill/articleshow/133347955.cms",
+          "date": "19 Aug 2026",
+          "summary": "In a remarkable display of skill, Manav Suthar claimed ten wickets, leading India to a triumphant victory over Sri Lanka in Galle. Devdutt Padikkal showcased his talent with an impressive 167 in the first innings, followed by 44 in the second. Captain Shubman…"
+        },
+        {
+          "title": "California couple restored 136-acre farm into thriving wildlife habitat",
+          "link": "https://timesofindia.indiatimes.com/world/us/in-1988-a-california-couple-began-restoring-their-136-acre-family-farm-decades-later-it-has-become-a-thriving-habitat-for-birds-quail-and-even-cougars/articleshow/133344956.cms",
+          "date": "19 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Virginia woman donated 100 acres that became America's performing arts park",
+          "link": "https://timesofindia.indiatimes.com/world/us/in-1966-a-71-year-old-woman-donated-nearly-100-acres-of-her-virginia-farm-and-money-for-an-amphitheatre-the-land-became-americas-only-national-park-dedicated-to-the-performing-arts/articleshow/133347082.cms",
+          "date": "19 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "US tech firm asks court to block CEO who fired 900 in 79-second call",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/us-tech-company-whose-ceo-fired-900-people-in-79-second-call-tells-court-dont-allow-him-to-go-to-shareholders-for-30-days/articleshow/133339187.cms",
+          "date": "19 Aug 2026",
+          "summary": "Better Home &amp; Finance is suing former CEO Vishal Garg in a US court. The company seeks to block Garg from gathering shareholder support for his return. Garg allegedly violated securities laws by making misleading statements to regain his position. The boar…"
+        },
+        {
           "title": "How fuel exporters in India, US are benefitting amid oil supply disruptions",
           "link": "https://timesofindia.indiatimes.com/business/india-business/earning-billions-how-fuel-exporters-in-india-us-are-benefitting-from-war-led-oil-supply-disruptions/articleshow/133350815.cms",
           "date": "19 Aug 2026",
           "summary": "With their own operations unaffected by attacks or shipping restrictions, refineries in India and the US have increased exports to markets that previously depended heavily on supplies from the Middle East and Russia."
         },
         {
-          "title": "Meet 10-yr-old Hsu Ting-wei, winner of Silicon Valley invention award",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/meet-10-year-old-hsu-ting-wei-winner-of-top-silicon-valley-invention-award-for-building-an-ai-electronic-nose-that-samples-air-behind-x-ray-baggage-scanners/articleshow/133342162.cms",
-          "date": "19 Aug 2026",
-          "summary": "In a remarkable showcase of talent, Taiwanese inventors made waves at the Silicon Valley International Festival. Among them, a ten-year-old prodigy captured prestigious awards with his innovative AI-powered electronic nose, designed to identify airborne chemic…"
-        },
-        {
           "title": "'We are Gen Z' is new 'jaantay nahin ho mera baap kaun hai': J&amp;K CM on viral video",
           "link": "https://timesofindia.indiatimes.com/india/quickest-way-to-erode-goodwill-jk-cm-omar-abdullah-reacts-to-viral-we-are-gen-z-video/articleshow/133348065.cms",
+          "date": "19 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Pentagon weighs reducing Gulf troop presence as Iran war cost hits $37.5 bn : Report",
+          "link": "https://timesofindia.indiatimes.com/world/us/pentagon-weighs-reducing-gulf-troop-presence-as-iran-war-cost-hits-37-5-bn-report/articleshow/133352368.cms",
           "date": "19 Aug 2026",
           "summary": ""
         },
@@ -244,34 +310,10 @@
           "summary": "The proposed initiative, called 'One Day, One University', is aimed at strengthening the government's engagement with young people. During these visits, ministers are expected to hold discussions with students, hear their views on issues affecting the country…"
         },
         {
-          "title": "US issues details of new Green Card rules coming into effect from September 18",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/us-issues-details-of-new-green-card-rules-coming-into-effect-from-september-18-wants-bond-to-prove-that-they-do-not-/articleshow/133338315.cms",
-          "date": "19 Aug 2026",
-          "summary": "Beginning September 18, 2026, new rules from the United States Citizenship and Immigration Services will reshape the Green Card application landscape. Applicants will undergo a more rigorous public charge evaluation that now includes a broader range of public…"
-        },
-        {
           "title": "‘It was like a horror movie’: Kolkata hotel fire survivors recount night of terror",
           "link": "https://timesofindia.indiatimes.com/city/kolkata/it-was-like-a-horror-movie-kolkata-hotel-fire-survivors-recount-night-of-terror/articleshow/133346344.cms",
           "date": "19 Aug 2026",
           "summary": "A devastating fire in a Kolkata hotel claimed nine lives early Wednesday morning. Survivors recounted a night of terror as dark smoke engulfed the building's upper floors. Many guests alleged the establishment lacked essential fire alarms and adequate safety e…"
-        },
-        {
-          "title": "18-year-old builds AI system to track particle collisions, wins $40,000",
-          "link": "https://timesofindia.indiatimes.com/science/meet-seth-nabat-the-18-year-old-california-student-who-built-a-two-network-machine-learning-system-to-track-particle-collisions-he-won-40000/articleshow/133323429.cms",
-          "date": "19 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Joel Sartore’s Photo Ark: 18,000 species documented to save wildlife",
-          "link": "https://timesofindia.indiatimes.com/science/in-2006-joel-sartore-began-photographing-one-animal-at-a-time-18000-species-later-his-photo-ark-has-become-a-global-conservation-movement-fighting-to-save-wildlife-from-extinction/articleshow/133343996.cms",
-          "date": "19 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "US tech firm asks court to block CEO who fired 900 in 79-second call",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/us-tech-company-whose-ceo-fired-900-people-in-79-second-call-tells-court-dont-allow-him-to-go-to-shareholders-for-30-days/articleshow/133339187.cms",
-          "date": "19 Aug 2026",
-          "summary": "Better Home &amp; Finance is suing former CEO Vishal Garg in a US court. The company seeks to block Garg from gathering shareholder support for his return. Garg allegedly violated securities laws by making misleading statements to regain his position. The boar…"
         },
         {
           "title": "Received I-T notice under Section 143(3)? How you should respond",
@@ -332,48 +374,6 @@
           "link": "https://timesofindia.indiatimes.com/sports/nfl/news/nfl-2026-season-injury-list-who-are-the-10-biggest-names-that-could-be-absent-when-the-season-kicks-off/articleshow/133336615.cms",
           "date": "19 Aug 2026",
           "summary": "As the 2026 NFL season approaches, concerns arise regarding player availability. With stars like Patrick Mahomes and Micah Parsons uncertain for the first week, various other high-profile names are also dealing with injuries. Such developments could drasticall…"
-        },
-        {
-          "title": "Roman Reigns &amp; The Bloodline rule WWE: RAW viewership proves it",
-          "link": "https://timesofindia.indiatimes.com/sports/wwe/top-stories/roman-reigns-the-bloodline-still-rules-wwe-latest-raw-viewership-prove-their-dominance/articleshow/133349739.cms",
-          "date": "19 Aug 2026",
-          "summary": "Solo Sikoa refused to rejoin The Bloodline, leading to a confrontation on RAW. Jacob Fatu attacked Sikoa, and LA Knight intervened to assist him. Roman Reigns then offered Sikoa a chance to rejoin the family. Instead, Solo Sikoa delivered a Samoan Spike to Rom…"
-        },
-        {
-          "title": "700-year-old church finds £30,000 in gold coins hidden beneath altar",
-          "link": "https://timesofindia.indiatimes.com/world/uk/a-700-year-old-english-church-facing-closure-found-30000-in-gold-coins-hidden-beneath-its-altar-by-an-anonymous-donor/articleshow/133341345.cms",
-          "date": "19 Aug 2026",
-          "summary": "An ancient church stumbled upon a surprising treasure of gold coins hidden under the altar, providing a much-needed financial lift for pressing renovations. This remarkable find, valued at almost £30,000, has ignited a surge of community enthusiasm to safeguar…"
-        },
-        {
-          "title": "'Important part of India': US envoy visits Srinagar; hints at review of travel advisory",
-          "link": "https://timesofindia.indiatimes.com/india/important-part-of-india-us-envoy-sergio-gor-visits-srinagar-says-will-review-travel-advisory/articleshow/133345516.cms",
-          "date": "19 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "'Series of disobedience': Arrest warrant issued against Moitra in hate speech case",
-          "link": "https://timesofindia.indiatimes.com/india/arrest-warrant-against-tmc-mp-mahua-moitra-in-hate-speech-case/articleshow/133346460.cms",
-          "date": "19 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Jharkhand students halt protest, give 2-month ultimatum to Soren govt",
-          "link": "https://timesofindia.indiatimes.com/india/jharkhand-students-suspend-26-day-protest-over-jpsc-jssc-exam-give-2-month-ultimatum-to-soren-govt/articleshow/133348553.cms",
-          "date": "19 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Kangana warns on relationships: Links Bengaluru case to westernised culture",
-          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-reacts-to-bengaluru-murder-case-warns-against-westernised-relationship-culture/articleshow/133349811.cms",
-          "date": "19 Aug 2026",
-          "summary": "Kangana Ranaut reacted to the Bengaluru murder case, where a woman and her lover allegedly killed her husband and five-year-old son, warning against \"westernised\" relationship culture on Instagram. She criticised normalising \"body counts\" and trends like ghost…"
-        },
-        {
-          "title": "Jinnah, Partition &amp; a secret: 2 Mumbai doctors to receive Pakistan’s top honour",
-          "link": "https://timesofindia.indiatimes.com/city/mumbai/jinnah-partition-and-a-secret-why-pakistan-is-honouring-2-mumbai-doctors-79-years-later/articleshow/133349586.cms",
-          "date": "19 Aug 2026",
-          "summary": "Pakistan will honor two Parsi doctors from Mumbai with its highest civilian award. These physicians kept Muhammad Ali Jinnah's terminal illness a closely guarded secret. Their professional confidentiality potentially safeguarded Pakistan's creation in 1947. Th…"
         }
       ]
     },
@@ -896,6 +896,12 @@
       "ok": true,
       "items": [
         {
+          "title": "Post-Train NVIDIA Cosmos 3 Edge for On-Device Robot Control",
+          "link": "https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-edge-for-on-device-robot-control/",
+          "date": "18 Aug 2026",
+          "summary": "Robots need policies that can adapt to their sensors, environments, and tasks while running on onboard computing hardware. World models offer a foundation for..."
+        },
+        {
           "title": "How AI Coding Agents Can Unlock Materials Simulation with NVIDIA ALCHEMI Toolkit",
           "link": "https://developer.nvidia.com/blog/how-ai-coding-agents-can-unlock-materials-simulation-with-nvidia-alchemi-toolkit/",
           "date": "17 Aug 2026",
@@ -1068,12 +1074,6 @@
           "link": "https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/",
           "date": "6 Aug 2026",
           "summary": "Frontier model pre-training has converged on mixture of experts (MoE), which is fundamentally changing what limits large-scale AI training. As compute per token..."
-        },
-        {
-          "title": "Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI",
-          "link": "https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/",
-          "date": "6 Aug 2026",
-          "summary": "What began as discrete AI model training and human-facing chat interfaces has evolved into always-on AI factories dedicated to producing intelligence at scale...."
         }
       ]
     },
@@ -1151,6 +1151,12 @@
       "cat": "Tech · News",
       "ok": true,
       "items": [
+        {
+          "title": "Army Unit Offers 4-Day Pass to Play GTA VI As Reenlistment Incentive",
+          "link": "https://tech.slashdot.org/story/26/08/19/1610230/army-unit-offers-4-day-pass-to-play-gta-vi-as-reenlistment-incentive?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "19 Aug 2026",
+          "summary": "A U.S. Army battalion at Fort Stewart is offering soldiers a four-day pass timed to the release of Grand Theft Auto VI if they reenlist for at least two years. The program is limited to one unit for now, but it fits the Army's broader effort to appeal to gamer…"
+        },
         {
           "title": "Chinese Robotics Giant Unitree Soars In Stock Market Debut",
           "link": "https://hardware.slashdot.org/story/26/08/19/0559230/chinese-robotics-giant-unitree-soars-in-stock-market-debut?utm_source=rss1.0mainlinkanon&utm_medium=feed",
@@ -1234,12 +1240,6 @@
           "link": "https://yro.slashdot.org/story/26/08/18/0742229/sainsburys-store-pauses-facial-recognition-after-false-shoplifting-claim?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "18 Aug 2026",
           "summary": "Bruce66423 shares a report from The Guardian: Sainsbury's has paused the use of AI face scanning in one of its stores after a customer was wrongly identified as a shoplifter and ejected from the shop. \"I was embarrassed, mortified even, and felt quite humiliat…"
-        },
-        {
-          "title": "Solar Power and Batteries Have Been Keeping Europe's Grid Stable",
-          "link": "https://hardware.slashdot.org/story/26/08/18/0728240/solar-power-and-batteries-have-been-keeping-europes-grid-stable?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "18 Aug 2026",
-          "summary": "AleRunner writes: \"Solar has been doing the 'heavy lifting' to help Europe meet its energy needs amid a string of blistering heatwaves,\" Euronews tells us. Meanwhile, as Europe's energy demands rise with the heat, jellyfish have been causing shutdowns and redu…"
         }
       ]
     },
@@ -1630,184 +1630,184 @@
       "ok": true,
       "items": [
         {
-          "title": "CifQL added to PyPI",
-          "link": "https://pypi.org/project/cifql/",
+          "title": "poto-tts added to PyPI",
+          "link": "https://pypi.org/project/poto-tts/",
           "date": "19 Aug 2026",
-          "summary": "CifQL - provide queryable ModelCIF files."
+          "summary": "Ghanaian English speech synthesis on sherpa-onnx: several engines, one Ghanaian espeak-ng dictionary, cross-platform voice files"
         },
         {
-          "title": "flimkit-qupath-bridge added to PyPI",
-          "link": "https://pypi.org/project/flimkit-qupath-bridge/",
+          "title": "ghana-english-g2p added to PyPI",
+          "link": "https://pypi.org/project/ghana-english-g2p/",
           "date": "19 Aug 2026",
-          "summary": "Direct image and ROI exchange between FLIMKit and QuPath"
+          "summary": "Ghanaian English grapheme-to-phoneme conversion: a Ghanaian pronunciation lexicon, with espeak-ng behind it for out-of-vocabulary words."
         },
         {
-          "title": "ajar-connector added to PyPI",
-          "link": "https://pypi.org/project/ajar-connector/",
+          "title": "vsremote added to PyPI",
+          "link": "https://pypi.org/project/vsremote/",
           "date": "19 Aug 2026",
-          "summary": "Python SDK for building byte-compatible connectors to the Ajar integration plane."
+          "summary": "Remote execution and frame proxy for VapourSynth"
         },
         {
-          "title": "trolleybus added to PyPI",
-          "link": "https://pypi.org/project/trolleybus/",
+          "title": "pactman-nonprofit-check-plus added to PyPI",
+          "link": "https://pypi.org/project/pactman-nonprofit-check-plus/",
           "date": "19 Aug 2026",
-          "summary": "Small publish/subscribe event bus with typed events"
+          "summary": "Official Python SDK for the Pactman Nonprofit Check Plus API — verify US nonprofits by EIN against IRS BMF, Publication 78, Automatic Revocation and OFAC data."
         },
         {
-          "title": "semblance-foundry added to PyPI",
-          "link": "https://pypi.org/project/semblance-foundry/",
+          "title": "lexguard added to PyPI",
+          "link": "https://pypi.org/project/lexguard/",
           "date": "19 Aug 2026",
-          "summary": "Unofficial local HTTP simulation of selected Palantir Foundry API v2 ontology operations"
+          "summary": "Lexicons that score text for a concept, with pydantic-evals evaluators built in"
         },
         {
-          "title": "anima-mlx added to PyPI",
-          "link": "https://pypi.org/project/anima-mlx/",
+          "title": "notebookvim added to PyPI",
+          "link": "https://pypi.org/project/notebookvim/",
           "date": "19 Aug 2026",
-          "summary": "Anima-2.9B anime text-to-image on Apple Silicon via MLX (CLI + Python API, auto-downloads weights)"
+          "summary": "A Vim-inspired terminal workspace for Jupyter notebooks"
         },
         {
-          "title": "fixtime added to PyPI",
-          "link": "https://pypi.org/project/fixtime/",
+          "title": "nanoscrypt added to PyPI",
+          "link": "https://pypi.org/project/nanoscrypt/",
           "date": "19 Aug 2026",
-          "summary": "Time synchronization tool for Kerberos authentication"
+          "summary": "A standalone agentic framework that dynamically synthesizes, validates, executes, versions, and reuses tools."
         },
         {
-          "title": "ppk2lab added to PyPI",
-          "link": "https://pypi.org/project/ppk2lab/",
+          "title": "lmomfit added to PyPI",
+          "link": "https://pypi.org/project/lmomfit/",
           "date": "19 Aug 2026",
-          "summary": "Control, capture, decode, and test Nordic Semiconductor Power Profiler Kit II hardware from Python, CLI automation, CI, and AI agents."
+          "summary": "L-moments based uncertainty quantification from scarce samples including extremes"
         },
         {
-          "title": "skillrig added to PyPI",
-          "link": "https://pypi.org/project/skillrig/",
+          "title": "django-native-jsonform added to PyPI",
+          "link": "https://pypi.org/project/django-native-jsonform/",
           "date": "19 Aug 2026",
-          "summary": "Test agent skills against real coding agents: run a prompt, assert on what happened, grade the rest with an LLM."
+          "summary": "Build deeply customizable native Django forms from JSON Schema."
         },
         {
-          "title": "pixeloffice-router added to PyPI",
-          "link": "https://pypi.org/project/pixeloffice-router/",
+          "title": "runreceipt added to PyPI",
+          "link": "https://pypi.org/project/runreceipt/",
           "date": "19 Aug 2026",
-          "summary": "Drop-in OpenAI compatible gateway SDK with sub-35ms AEO Fact Anchors & BLUN SmartRouter Engine."
+          "summary": "Pin the workload before an eval run; recompute the denominator afterwards. Zero dependencies."
         },
         {
-          "title": "ai-library-swch added to PyPI",
-          "link": "https://pypi.org/project/ai-library-swch/",
+          "title": "django-capo-s3 added to PyPI",
+          "link": "https://pypi.org/project/django-capo-s3/",
           "date": "19 Aug 2026",
-          "summary": "AI helper utilities and models"
+          "summary": "Support for S3 storage backend in Django"
         },
         {
-          "title": "tgedr-fdafaers added to PyPI",
-          "link": "https://pypi.org/project/tgedr-fdafaers/",
+          "title": "resolve-gw added to PyPI",
+          "link": "https://pypi.org/project/resolve-gw/",
           "date": "19 Aug 2026",
-          "summary": "this is a template for a python package"
+          "summary": "A package for multi-resolution HEALPix maps of the gravitational wave background with pulsar timing array data."
         },
         {
-          "title": "rencal added to PyPI",
-          "link": "https://pypi.org/project/rencal/",
+          "title": "time-executioner added to PyPI",
+          "link": "https://pypi.org/project/time-executioner/",
           "date": "19 Aug 2026",
-          "summary": "Weather-to-power calibration and Monte Carlo load factor simulation for renewable energy applications"
+          "summary": "Common library to time the execution of functions"
         },
         {
-          "title": "algorand-falcon added to PyPI",
-          "link": "https://pypi.org/project/algorand-falcon/",
+          "title": "citadeldb-google-adk added to PyPI",
+          "link": "https://pypi.org/project/citadeldb-google-adk/",
           "date": "19 Aug 2026",
-          "summary": "Python bindings for the Algorand deterministic Falcon (det1024) post-quantum signature scheme"
+          "summary": "Google ADK memory backed by Citadel: encrypted at rest, with deletes that destroy the key"
         },
         {
-          "title": "frostwork added to PyPI",
-          "link": "https://pypi.org/project/frostwork/",
+          "title": "linux-autoruns added to PyPI",
+          "link": "https://pypi.org/project/linux-autoruns/",
           "date": "19 Aug 2026",
-          "summary": "Treeless, one-pass HTML extraction — CSS/XPath selectors matched on a streaming scan, no DOM."
+          "summary": "Windows Autoruns equivalent for Linux. Scans all autostart entry points."
         },
         {
-          "title": "lattica-builder added to PyPI",
-          "link": "https://pypi.org/project/lattica-builder/",
+          "title": "ai-ui-testing added to PyPI",
+          "link": "https://pypi.org/project/ai-ui-testing/",
           "date": "19 Aug 2026",
-          "summary": "Lattica client"
+          "summary": "AI 驱动的 Web UI 自动化测试框架（基于 Playwright + pytest 封装）"
         },
         {
-          "title": "termux-diffusion added to PyPI",
-          "link": "https://pypi.org/project/termux-diffusion/",
+          "title": "citadeldb-openai-agents added to PyPI",
+          "link": "https://pypi.org/project/citadeldb-openai-agents/",
           "date": "19 Aug 2026",
-          "summary": "Production On-Device AI Image Generation Framework for Android Termux & Samsung Galaxy (Dual-Engine Python & Node.js)"
+          "summary": "OpenAI Agents SDK sessions backed by Citadel: encrypted at rest, with deletes that destroy the key"
         },
         {
-          "title": "django-portflow added to PyPI",
-          "link": "https://pypi.org/project/django-portflow/",
+          "title": "citadeldb-strands-agents added to PyPI",
+          "link": "https://pypi.org/project/citadeldb-strands-agents/",
           "date": "19 Aug 2026",
-          "summary": "Auto-expose your Django dev server through Portflow on runserver."
+          "summary": "Strands Agents session storage backed by Citadel: encrypted at rest, with deletes that destroy the key"
         },
         {
-          "title": "vectorsmith added to PyPI",
-          "link": "https://pypi.org/project/vectorsmith/",
+          "title": "cmux-cockpit added to PyPI",
+          "link": "https://pypi.org/project/cmux-cockpit/",
           "date": "19 Aug 2026",
-          "summary": "YAML tools for agents: load_tools in-process, or vectorsmith serve as MCP"
+          "summary": "cmux workspaces backed by git worktrees, aligned to GitHub PRs and Linear/Jira/Trello/GitHub-issue tickets."
         },
         {
-          "title": "mama-lang added to PyPI",
-          "link": "https://pypi.org/project/mama-lang/",
+          "title": "myriapod added to PyPI",
+          "link": "https://pypi.org/project/myriapod/",
           "date": "19 Aug 2026",
-          "summary": "The easiest and coolest programming language in the world!"
+          "summary": "Planner/worker agent swarm over a dynamic task tree: a frontier model plans, fleets of cheap models execute — in parallel, with strict context isolation."
         },
         {
-          "title": "confusiontest added to PyPI",
-          "link": "https://pypi.org/project/confusiontest/",
+          "title": "arcaeon-adapter added to PyPI",
+          "link": "https://pypi.org/project/arcaeon-adapter/",
           "date": "19 Aug 2026",
-          "summary": "Test package"
+          "summary": "MCP stdio proxy that records every tool call to a tamper-evident ledger, without the agent's cooperation."
         },
         {
-          "title": "lattica-build added to PyPI",
-          "link": "https://pypi.org/project/lattica-build/",
+          "title": "weenspace-auth added to PyPI",
+          "link": "https://pypi.org/project/weenspace-auth/",
           "date": "19 Aug 2026",
-          "summary": "Lattice AI Deployment Client"
+          "summary": "WeenSpace Authentication"
         },
         {
-          "title": "yahoo-open-nsfw-onnx added to PyPI",
-          "link": "https://pypi.org/project/yahoo-open-nsfw-onnx/",
+          "title": "embed-parity added to PyPI",
+          "link": "https://pypi.org/project/embed-parity/",
           "date": "19 Aug 2026",
-          "summary": "Yahoo's Open-NSFW image classifier as a self-contained ONNX Runtime package"
+          "summary": "Compare SentenceTransformers embeddings with a TEI deployment"
         },
         {
-          "title": "golem-docs added to PyPI",
-          "link": "https://pypi.org/project/golem-docs/",
+          "title": "jobops added to PyPI",
+          "link": "https://pypi.org/project/jobops/",
           "date": "19 Aug 2026",
-          "summary": "A static site generator built on AsciiDoc, designed for highly technical interactive documentation."
+          "summary": "Run a job search like an operator — local-first, plain-text, fact-locked."
         },
         {
-          "title": "guardrail-dv added to PyPI",
-          "link": "https://pypi.org/project/guardrail-dv/",
+          "title": "temp27cache added to PyPI",
+          "link": "https://pypi.org/project/temp27cache/",
           "date": "19 Aug 2026",
-          "summary": "Deterministic safety checks for LLM-generated prompts, SQL and Python — a pure library, evaluated in-process"
+          "summary": "daily utility tools and scripts"
         },
         {
-          "title": "scigma_harvesting added to PyPI",
-          "link": "https://pypi.org/project/scigma-harvesting/",
+          "title": "legaldown-validator added to PyPI",
+          "link": "https://pypi.org/project/legaldown-validator/",
           "date": "19 Aug 2026",
-          "summary": "Add your description here"
+          "summary": "Reference parser and validator for the LegalDown legal document format"
         },
         {
-          "title": "libasync added to PyPI",
-          "link": "https://pypi.org/project/libasync/",
+          "title": "dura added to PyPI",
+          "link": "https://pypi.org/project/dura/",
           "date": "19 Aug 2026",
-          "summary": "High-performance asynchronous task and thread pool library for Python"
+          "summary": "A SQLite-backed durable execution engine and worker pool"
         },
         {
-          "title": "python-minefield added to PyPI",
-          "link": "https://pypi.org/project/python-minefield/",
+          "title": "stateset-nsr added to PyPI",
+          "link": "https://pypi.org/project/stateset-nsr/",
           "date": "19 Aug 2026",
-          "summary": "Minefield game written in Python and with console interface."
+          "summary": "Python SDK for the Stateset NSR AI platform — neuro-symbolic recursive reasoning"
         },
         {
-          "title": "dio-processamento-imagem-marina added to PyPI",
-          "link": "https://pypi.org/project/dio-processamento-imagem-marina/",
+          "title": "annotations4all added to PyPI",
+          "link": "https://pypi.org/project/annotations4all/",
           "date": "19 Aug 2026",
-          "summary": "Pacote Python para processamento e manipulação de imagens"
+          "summary": "Schema-first Python library for LLM-assisted span annotation"
         },
         {
-          "title": "valysis added to PyPI",
-          "link": "https://pypi.org/project/valysis/",
+          "title": "agent-zap added to PyPI",
+          "link": "https://pypi.org/project/agent-zap/",
           "date": "19 Aug 2026",
-          "summary": "A platform/hardware agnostic Value Set Analysis (VSA) library for Reverse Engineering tools."
+          "summary": "Control coding agents from chat, with a permission floor the trust toggle cannot reach"
         }
       ]
     }
