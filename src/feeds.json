@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-19T06:27:55Z",
+  "generated": "2026-08-19T07:30:50Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,18 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "IGL, MGL, Adani Total Gas shares rally up to 6% as govt boosts domestic PNG push",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/igl-mgl-adani-total-gas-shares-rally-up-to-6-as-govt-boosts-domestic-png-push/articleshow/133339597.cms",
+          "date": "19 Aug 2026",
+          "summary": "City gas distributor stocks rallied after the government approved an incentive scheme to accelerate domestic PNG connections from September 1. Mahanagar Gas, IGL, Adani Total Gas rose as the scheme aims to expand active piped gas connections and promote cleane…"
+        },
+        {
+          "title": "HG Infra Engineering shares jump over 8% after receiving LoI from REC",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hg-infra-engineering-shares-jump-over-8-after-receiving-loi-from-rec/articleshow/133338862.cms",
+          "date": "19 Aug 2026",
+          "summary": "HG Infra Engineering shares rose after the company received a letter of intent from REC Power Development and Consultancy for constructing two 220/132/33 kV AIS substations and associated transmission lines in Uttar Pradesh."
+        },
         {
           "title": "L&amp;T Technology Services shares jump 3% after bagging $75 million deal",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/lt-technology-services-shares-jump-3-after-bagging-75-million-deal/articleshow/133338513.cms",
@@ -30,18 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/railtel-corporation-shares-rally-5-after-bagging-rs-166-8-crore-epfo-order/articleshow/133337593.cms",
           "date": "19 Aug 2026",
           "summary": "RailTel shares gained nearly 5% after the company received a Rs 166.80 crore work order from EPFO for a one-year extension of its Infrastructure-as-a-Service engagement. While the order strengthens revenue and order-book visibility, technical indicators remain…"
-        },
-        {
-          "title": "Symbiotec Pharmalab sets price band for Rs 1,757 crore IPO, to open on August 24",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/symbiotec-pharmalab-sets-price-band-for-rs-1757-crore-ipo-to-open-on-august-24/articleshow/133336512.cms",
-          "date": "19 Aug 2026",
-          "summary": "Symbiotec Pharmalab will launch its ₹1,757-crore IPO from August 24–27, 2026, with a price band of ₹938–988 per share. The minimum bid is 15 shares, requiring an investment of ₹14,820 at the upper price band. The IPO is expected to list on BSE and NSE on Septe…"
-        },
-        {
-          "title": "Gaja Alternative Asset Management IPO opens today: GMP at 19% — Should You Subscribe?",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/gaja-alternative-asset-management-ipo-opens-today-gmp-at-19-should-you-subscribe/articleshow/133335323.cms",
-          "date": "19 Aug 2026",
-          "summary": "Gaja Alternative Asset Management has launched its IPO, offering shares priced between Rs 152 and Rs 160, with a total issue size of Rs 550 crore. Subscription is open until August 21, 2026. The funds raised will be used to enhance investment strategies, bolst…"
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -196,14 +196,20 @@
       "ok": true,
       "items": [
         {
-          "title": "Iran claims control, ships choose Omani route: What's changing in Strait of Hormuz",
-          "link": "https://timesofindia.indiatimes.com/world/middle-east/iran-claims-control-ships-choose-omani-route-whats-changing-in-strait-of-hormuz/articleshow/133337697.cms",
+          "title": "'Foolproof system, difficult to breach': Centre lists NEET security measures before SC",
+          "link": "https://timesofindia.indiatimes.com/india/foolproof-system-in-place-difficult-to-breach-centre-lists-neet-exam-security-measures-before-sc/articleshow/133340123.cms",
           "date": "19 Aug 2026",
           "summary": ""
         },
         {
-          "title": "Vijay rolls out slew of perks for TN MLAs: Car, monthly allowances, increased health cover",
-          "link": "https://timesofindia.indiatimes.com/india/vijay-rolls-out-slew-of-perks-for-tamil-nadu-mlas-vehicle-monthly-allowances-bigger-health-cover/articleshow/133338295.cms",
+          "title": "Vijay govt revokes order barring students from Left, CJP protests in Tamil Nadu",
+          "link": "https://timesofindia.indiatimes.com/india/cjp-vs-vijay-tn-directs-departments-to-prevent-students-from-joining-left-wing-protests/articleshow/133339740.cms",
+          "date": "19 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Iran claims control, ships choose Omani route: What's changing in Strait of Hormuz",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/iran-claims-control-ships-choose-omani-route-whats-changing-in-strait-of-hormuz/articleshow/133337697.cms",
           "date": "19 Aug 2026",
           "summary": ""
         },
@@ -214,10 +220,58 @@
           "summary": ""
         },
         {
+          "title": "US tech firm asks court to block CEO who fired 900 in 79-second call",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/us-tech-company-whose-ceo-fired-900-people-in-79-second-call-tells-court-dont-allow-him-to-go-to-shareholders-for-30-days/articleshow/133339187.cms",
+          "date": "19 Aug 2026",
+          "summary": "Better Home &amp; Finance is suing former CEO Vishal Garg in a US court. The company seeks to block Garg from gathering shareholder support for his return. Garg allegedly violated securities laws by making misleading statements to regain his position. The boar…"
+        },
+        {
           "title": "‘When I was at my lowest’: PV Sindhu reveals Kohli’s message during career low",
           "link": "https://timesofindia.indiatimes.com/sports/cricket/news/when-i-was-at-my-lowest-pv-sindhu-reveals-virat-kohlis-advice-that-completely-changed-her-perspective/articleshow/133337962.cms",
           "date": "19 Aug 2026",
           "summary": "PV Sindhu opened up about her strong friendship with Virat Kohli, whom she regards as a brother figure. During a challenging time in her career, Kohli provided her with invaluable guidance, encouraging her to embrace her authentic playing style. This heartfelt…"
+        },
+        {
+          "title": "Who is Satyaki Savarkar? Family tree, political links &amp; Rahul Gandhi case explained",
+          "link": "https://timesofindia.indiatimes.com/city/pune/who-is-satyaki-savarkar-his-family-tree-political-links-and-rahul-gandhi-case-explained/articleshow/133339265.cms",
+          "date": "19 Aug 2026",
+          "summary": "Satyaki Savarkar, V.D. Savarkar's grandnephew, is the complainant in a defamation case. Rahul Gandhi faces charges for alleged remarks made about Savarkar in London. Satyaki's family links to both Savarkar and Godse families have emerged during cross-examinati…"
+        },
+        {
+          "title": "Within 6 months, ChatGPT can watch your screen, meetings &amp; emails: CEO Altman",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/openai-ceo-sam-altman-within-six-months-chatgpt-could-watch-your-screen-meetings-and-emails/articleshow/133327319.cms",
+          "date": "18 Aug 2026",
+          "summary": "Sam Altman envisions a future where AI assistants can observe user activities on screens and during meetings. These intuitive systems are designed to access emails, documents, and Slack messages for better context and efficiency. Users will have control over t…"
+        },
+        {
+          "title": "700 kg adulterated red chilli sauce seized by FSSAI; 6 easy alternatives",
+          "link": "https://timesofindia.indiatimes.com/life-style/food-news/fssai-seizes-700-kg-of-adulterated-red-chilli-sauce-6-preservative-free-alternatives-to-make-at-home/articleshow/133339835.cms",
+          "date": "19 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Pacific garbage patch spans 1.6 million sq km as fishing gear dominates debris",
+          "link": "https://timesofindia.indiatimes.com/science/a-rotating-garbage-island-spreads-over-1-6-million-sq-km-in-the-pacific-plastic-averages-50-kilograms-per-square-kilometre-and-75-to-86-of-the-debris-comes-from-fishing-gear/articleshow/133339710.cms",
+          "date": "19 Aug 2026",
+          "summary": "Between the shores of Hawaii and California floats a staggering 1.6 million square kilometers of plastic debris. This island of waste includes not just nets and ropes but also countless microplastics that pose serious threats to marine wildlife. Animals often…"
+        },
+        {
+          "title": "US issues details of new Green Card rules coming into effect from September 18",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/us-issues-details-of-new-green-card-rules-coming-into-effect-from-september-18-wants-bond-to-prove-that-they-do-not-/articleshow/133338315.cms",
+          "date": "19 Aug 2026",
+          "summary": "Starting September 18, 2026, new regulations from the United States Citizenship and Immigration Services will affect Green Card applications, implementing a more rigorous public charge test. This means applicants will be assessed more thoroughly regarding any…"
+        },
+        {
+          "title": "Vijay rolls out slew of perks for TN MLAs: Car, monthly allowances, increased health cover",
+          "link": "https://timesofindia.indiatimes.com/india/vijay-rolls-out-slew-of-perks-for-tamil-nadu-mlas-vehicle-monthly-allowances-bigger-health-cover/articleshow/133338295.cms",
+          "date": "19 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "'Voice sample not required': Rahul's counsel opposes plea in Savarkar defamation case",
+          "link": "https://timesofindia.indiatimes.com/india/voice-sample-is-not-required-rahul-gandhis-counsel-opposes-plea-in-savarkar-defamation-case/articleshow/133339612.cms",
+          "date": "19 Aug 2026",
+          "summary": "Rahul Gandhi's lawyer opposed a plea for his voice sample in a defamation case. The defense argued the request was premature for the ongoing court proceedings. Satyaki Savarkar's deposition also brought Godse-RSS links into focus during cross-examination. The…"
         },
         {
           "title": "'Wasn't I anti-national for you?' Dipke on offer to join NDA camp",
@@ -226,10 +280,16 @@
           "summary": "Cockroach Janta Party founder Abhijeet Dipke questioned Ramdas Athawale's offer to join politics. Dipke recalled being labeled anti-national just one month prior to the invitation. Athawale invited Dipke, describing him as an active Ambedkarite, to strengthen…"
         },
         {
-          "title": "US issues details of new Green Card rules coming into effect from September 18",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/us-issues-details-of-new-green-card-rules-coming-into-effect-from-september-18-wants-bond-to-prove-that-they-do-not-/articleshow/133338315.cms",
+          "title": "Middle East war: Indian refiners forced to buy oil at premium; Russian discounts vanish",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/price-of-middle-east-conflict-indian-refiners-forced-to-buy-oil-at-premium-russian-discounts-vanish/articleshow/133339450.cms",
           "date": "19 Aug 2026",
-          "summary": "Starting September 18, 2026, new regulations from the United States Citizenship and Immigration Services will affect Green Card applications, implementing a more rigorous public charge test. This means applicants will be assessed more thoroughly regarding any…"
+          "summary": "The surge in available crude following the temporary truce had also increased the discounts offered on Russian and Venezuelan oil. Since then, the discount on Russian crude has largely disappeared, while the price reduction on Venezuelan barrels has narrowed s…"
+        },
+        {
+          "title": "Inside Vivek Oberoi’s Mumbai home: Goan farmhouse charm and pet cow Kamadhenu",
+          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/inside-vivek-oberois-mumbai-home-where-goan-farmhouse-aesthetics-family-heirlooms-and-pet-cow-kamadhenu-create-rustic-retreat/articleshow/133338811.cms",
+          "date": "19 Aug 2026",
+          "summary": "Vivek Oberoi's home in Mumbai is a serene escape, echoing the charm of Goan farmhouses. Adorned with antique furnishings and natural accents, the space embodies his essence. A beloved pet cow, Kamadhenu, enhances the earthy vibe. This intimate refuge starkly c…"
         },
         {
           "title": "Joe Root on the verge of history, Ricky Ponting’s all-time record in sight",
@@ -242,30 +302,6 @@
           "link": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-india-where-is-gold-silver-rate-headed-on-august-19-2026-mcx-gold-futures-outlook-us-iran-war-middle-east-tensions/articleshow/133338813.cms",
           "date": "19 Aug 2026",
           "summary": "Gold gained around 0.7% last week and extended the move above $4,400 at the start of this week, briefly testing the $4,450 mark, before Tuesday’s global bond selloff pulled prices back toward 4,340-4,360."
-        },
-        {
-          "title": "Within 6 months, ChatGPT can watch your screen, meetings &amp; emails: CEO Altman",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/openai-ceo-sam-altman-within-six-months-chatgpt-could-watch-your-screen-meetings-and-emails/articleshow/133327319.cms",
-          "date": "18 Aug 2026",
-          "summary": "Sam Altman envisions a future where AI assistants can observe user activities on screens and during meetings. These intuitive systems are designed to access emails, documents, and Slack messages for better context and efficiency. Users will have control over t…"
-        },
-        {
-          "title": "Samoa's snail-control flatworms later became a threat to native snails",
-          "link": "https://timesofindia.indiatimes.com/science/in-the-1990s-a-predatory-flatworm-was-released-in-samoa-to-control-giant-african-snails-it-later-became-linked-to-the-decline-and-extinction-of-native-island-snails/articleshow/133328360.cms",
-          "date": "18 Aug 2026",
-          "summary": "The introduction of the invasive flatworm, Platydemus manokwari, aimed at pest control, has resulted in a dramatic decline of native tree snail populations in the Pacific Islands. This aggressive predator actively hunts these snails, driving several species to…"
-        },
-        {
-          "title": "New Zealand introduced hedgehogs for pests; now they threaten native wildlife",
-          "link": "https://timesofindia.indiatimes.com/science/in-1885-new-zealand-released-european-hedgehogs-as-garden-pest-killers-140-years-later-doc-calls-them-a-major-threat-to-native-wildlife-and-one-can-empty-an-endangered-tern-colony-of-nesting-birds/articleshow/133326147.cms",
-          "date": "18 Aug 2026",
-          "summary": "European hedgehogs were brought to New Zealand during the 1800s to help manage garden pests. However, these spiky creatures now pose a grave danger to the country's unique wildlife. They feast on the eggs and young of various native species, significantly impa…"
-        },
-        {
-          "title": "Zerodha CEO Nithin Kamath praises SEBI for proposed NRI investing rule change",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/zerodha-ceo-nithin-kamath-praises-sebi-for-easing-nri-investing-says-one-massive-bottleneck-still-remains/articleshow/133337547.cms",
-          "date": "19 Aug 2026",
-          "summary": "SEBI has proposed a fully digital onboarding process for non-resident Indians. This move aims to eliminate the need for overseas Indians to be physically present in India. The new proposal will significantly reduce tedious documentation and courier delays for…"
         },
         {
           "title": "US-South Korea drills cut short after Trump order: What he wants from North Korea",
@@ -338,42 +374,6 @@
           "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/emraan-hasmis-awarapan-2-co-star-also-seen-in-dhurandhar-came-to-mumbai-with-rs-5000-his-career-started-at-the-age-of-50-after-one-hit-series-sold-insurance-policies-to-earn-a-living/articleshow/133337681.cms",
           "date": "19 Aug 2026",
           "summary": "After years of struggling to find his place in acting, Suvinder Vicky's career took off at the remarkable age of 50 with his role in Netflix's 'Kohrra'. Arriving in Mumbai nearly broke, he initially sold insurance to survive. His captivating performance in 'Ko…"
-        },
-        {
-          "title": "ED raids 10 locations linked to Azam Khan, Jauhar University across UP, Delhi",
-          "link": "https://timesofindia.indiatimes.com/india/ed-raids-10-locations-linked-to-sp-leader-azam-khan-jauhar-university-across-up-delhi/articleshow/133336695.cms",
-          "date": "19 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Bhopal cops hunt for private parts of boy killed by 'testicle traffickers'",
-          "link": "https://timesofindia.indiatimes.com/city/bhopal/cops-hunt-for-private-parts-of-boy-killed-by-testicle-traffickers/articleshow/133335179.cms",
-          "date": "19 Aug 2026",
-          "summary": "Police divers will search Bhopal's lakes for testicles removed by a gang. A 20-year-old student allegedly led the group after seeing a social media hoax. They failed to find a buyer for the organs and then disposed of them. The victim was a 16-year-old boy mur…"
-        },
-        {
-          "title": "Bus takes different route, passenger misses flight; commission orders Rs 73K payout",
-          "link": "https://timesofindia.indiatimes.com/legal/news/bus-takes-different-route-passenger-misses-flight-consumer-commission-orders-rs-73000-payout/articleshow/133336903.cms",
-          "date": "19 Aug 2026",
-          "summary": "A consumer commission ordered Greenline Travels to pay compensation for a significant delay. The bus company's route deviation caused a passenger to miss his flight to Delhi. The complainant was pursuing an M.Phil. and needed to reach Delhi for his course. The…"
-        },
-        {
-          "title": "'Trade, commercial exchanges halted': UAE's response to Iran's latest missile attack",
-          "link": "https://timesofindia.indiatimes.com/world/middle-east/ballistic-missiles-target-uae-trade-ties-snap-how-abu-dhabi-responded-to-irans-latest-escalation/articleshow/133335044.cms",
-          "date": "19 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "MacKenzie Scott helped abolish $40B in medical debt; how mechanics work",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-ex-wife-mackenzie-scott-who-sold-half-of-her-amazon-stake-has-helped-abolish-40-billion-in-medical-debt-how-mechanics-work/articleshow/133240371.cms",
-          "date": "14 Aug 2026",
-          "summary": "MacKenzie Scott's donations have enabled medical debt abolition across America. Her model allows acquiring and erasing patient debt at steep discounts. This approach has inspired other billionaires to contribute millions to similar initiatives. While philanthr…"
-        },
-        {
-          "title": "Coffee beans found in Civet poop makes one of the world’s most expensive Kopi Luwak",
-          "link": "https://timesofindia.indiatimes.com/science/coffee-beans-found-in-civet-poop-used-to-make-one-of-the-worlds-most-expensive-kopi-luwak-coffee-which-costs-thousands-of-dollars-per-kilogram/articleshow/133324277.cms",
-          "date": "19 Aug 2026",
-          "summary": ""
         }
       ]
     },
@@ -1152,6 +1152,12 @@
       "ok": true,
       "items": [
         {
+          "title": "Physicists Entangle Quantum Memories Across a Record-Breaking 420 Kilometers",
+          "link": "https://tech.slashdot.org/story/26/08/19/0133228/physicists-entangle-quantum-memories-across-a-record-breaking-420-kilometers?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "19 Aug 2026",
+          "summary": "alternative_right shares a report from Phys.org: Optical fibers are already the backbone of global communication systems. Recently, however, physicists have started to explore how their functionality could be boosted further by conveying information via entang…"
+        },
+        {
           "title": "Top Album Releases Linked To Rise In Fatal Crashes",
           "link": "https://entertainment.slashdot.org/story/26/08/18/2225215/top-album-releases-linked-to-rise-in-fatal-crashes?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "19 Aug 2026",
@@ -1234,12 +1240,6 @@
           "link": "https://yro.slashdot.org/story/26/08/17/223241/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "17 Aug 2026",
           "summary": "An anonymous reader quotes a report from Ars Technica: The Supreme Court today rejected Verizon's attempt to get a $47 million refund from the Federal Communications Commission. In a list of orders (PDF) issued by the court, Verizon's petition was denied witho…"
-        },
-        {
-          "title": "Apple Wallet Driver's License Feature to Launch in Four More US States",
-          "link": "https://apple.slashdot.org/story/26/08/17/2157231/apple-wallet-drivers-license-feature-to-launch-in-four-more-us-states?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "17 Aug 2026",
-          "summary": "Apple Wallet's driver's license and state ID feature is set to expand to North Carolina, Oklahoma, Utah, and Virginia, bringing the total to 18 states plus Puerto Rico. The digital IDs can be used at participating TSA checkpoints and businesses without handing…"
         }
       ]
     },
@@ -1630,184 +1630,184 @@
       "ok": true,
       "items": [
         {
-          "title": "htst-code-flow-skill added to PyPI",
-          "link": "https://pypi.org/project/htst-code-flow-skill/",
+          "title": "weatherhawk added to PyPI",
+          "link": "https://pypi.org/project/weatherhawk/",
           "date": "19 Aug 2026",
-          "summary": "Installable Code Flow skill and command templates for Claude Code, GitHub Copilot, OpenAI Codex, Antigravity and Gemini CLI."
+          "summary": "WeatherHawk-232 PakBus and Serial connection CLI - access and management tool to utilize CR2XX without picocom serial pain!"
         },
         {
-          "title": "pypoldata added to PyPI",
-          "link": "https://pypi.org/project/pypoldata/",
+          "title": "audiobook-builder added to PyPI",
+          "link": "https://pypi.org/project/audiobook-builder/",
           "date": "19 Aug 2026",
-          "summary": "Acceso reproducible a datasets abiertos para Ciencia Política y Ciencias Sociales."
+          "summary": "Build chaptered M4B audiobooks for Apple Books from folders of audio files"
         },
         {
-          "title": "tokenspend added to PyPI",
-          "link": "https://pypi.org/project/tokenspend/",
+          "title": "shielded-transfers added to PyPI",
+          "link": "https://pypi.org/project/shielded-transfers/",
           "date": "19 Aug 2026",
-          "summary": "Official Python client for the TokenSpend API"
+          "summary": "Python SDK for the Kusama Shield v7 privacy pool (ZK deposits & withdrawals) on Polkadot AssetHub"
         },
         {
-          "title": "rag-governance-eval added to PyPI",
-          "link": "https://pypi.org/project/rag-governance-eval/",
+          "title": "a2a-agent-sdk added to PyPI",
+          "link": "https://pypi.org/project/a2a-agent-sdk/",
           "date": "19 Aug 2026",
-          "summary": "Evaluation and quality-gating layer for RAG pipelines governed by Microsoft's Agent Governance Toolkit (agent-rag-governance)"
+          "summary": "Framework-agnostic SDK for building A2A/kagent-compliant agent runners."
         },
         {
-          "title": "levymmd added to PyPI",
-          "link": "https://pypi.org/project/levymmd/",
+          "title": "voicelab-sdk added to PyPI",
+          "link": "https://pypi.org/project/voicelab-sdk/",
           "date": "19 Aug 2026",
-          "summary": "Expected signature kernels and maximum mean discrepancies for inhomogeneous Lévy processes"
+          "summary": "Official Python SDK for the VoiceLab API"
         },
         {
-          "title": "ollama-json-fixer added to PyPI",
-          "link": "https://pypi.org/project/ollama-json-fixer/",
+          "title": "voxie-assistant added to PyPI",
+          "link": "https://pypi.org/project/voxie-assistant/",
           "date": "19 Aug 2026",
-          "summary": "Force local Ollama models to output strict, valid JSON. Auto-strips markdown fences and retries on failure."
+          "summary": "Voice-controlled desktop assistant powered by Claude, with local speech-to-text"
         },
         {
-          "title": "shengwen-backend added to PyPI",
-          "link": "https://pypi.org/project/shengwen-backend/",
+          "title": "langchain-eisfi added to PyPI",
+          "link": "https://pypi.org/project/langchain-eisfi/",
           "date": "19 Aug 2026",
-          "summary": "Django 与 FastAPI 强约定业务模板生成器"
+          "summary": "LangChain middleware for the EISFI Weaver integrity chain: a tool call whose integrity precondition fails is never executed."
         },
         {
-          "title": "kree4py-commons-events added to PyPI",
-          "link": "https://pypi.org/project/kree4py-commons-events/",
+          "title": "confsync-server added to PyPI",
+          "link": "https://pypi.org/project/confsync-server/",
           "date": "19 Aug 2026",
-          "summary": "Placeholder package reserving the PyPI name. Self-built EventEmitter/Event/Listener, ported directly."
+          "summary": "confsync server — encrypted config document store with GitHub OAuth and Web UI"
         },
         {
-          "title": "kree4py-commons-collection added to PyPI",
-          "link": "https://pypi.org/project/kree4py-commons-collection/",
+          "title": "pepkio-nih-modular-budget-builder added to PyPI",
+          "link": "https://pypi.org/project/pepkio-nih-modular-budget-builder/",
           "date": "19 Aug 2026",
-          "summary": "Placeholder package reserving the PyPI name. CappedMap/CappedSet/LinkedList/IndexedLinkedList/TimeWheelCache."
+          "summary": "Python client for Pepkio NIH Modular Budget Builder tool"
         },
         {
-          "title": "habit-ptf added to PyPI",
-          "link": "https://pypi.org/project/habit-ptf/",
+          "title": "alibabacloud-accountlabel20200315 added to PyPI",
+          "link": "https://pypi.org/project/alibabacloud-accountlabel20200315/",
           "date": "19 Aug 2026",
-          "summary": "HABIT: predict soil water retention curves from basic soil properties"
+          "summary": "Alibaba Cloud AccountLabel (20200315) SDK Library for Python"
         },
         {
-          "title": "kree4py added to PyPI",
-          "link": "https://pypi.org/project/kree4py/",
+          "title": "confsync-client added to PyPI",
+          "link": "https://pypi.org/project/confsync-client/",
           "date": "19 Aug 2026",
-          "summary": "Placeholder package reserving the PyPI name."
+          "summary": "Client library and CLI for confsync — pull/push encrypted config documents"
         },
         {
-          "title": "kree4py-commons-lang added to PyPI",
-          "link": "https://pypi.org/project/kree4py-commons-lang/",
+          "title": "codelexity added to PyPI",
+          "link": "https://pypi.org/project/codelexity/",
           "date": "19 Aug 2026",
-          "summary": "Placeholder package reserving the PyPI name. TypeAssert/_Error/lang-utils and the class-proxy metaclass helpers."
+          "summary": "A package that measures code complexity in the age of AI slop."
         },
         {
-          "title": "visionstory-mcp added to PyPI",
-          "link": "https://pypi.org/project/visionstory-mcp/",
+          "title": "adk-ge-connectors added to PyPI",
+          "link": "https://pypi.org/project/adk-ge-connectors/",
           "date": "19 Aug 2026",
-          "summary": "MCP server for the VisionStory API - task-oriented tools for AI talking-avatar video generation."
+          "summary": "Universal ADK Connector Bridge for Gemini Enterprise Datastores with Multi-Category OAuth/ACL Token Propagation"
         },
         {
-          "title": "visionstory added to PyPI",
-          "link": "https://pypi.org/project/visionstory/",
+          "title": "pepkio-journal-club-shuffle added to PyPI",
+          "link": "https://pypi.org/project/pepkio-journal-club-shuffle/",
           "date": "19 Aug 2026",
-          "summary": "Official Python SDK for the VisionStory API - AI talking-avatar video generation."
+          "summary": "Python client for Pepkio journal-club-shuffle tool"
         },
         {
-          "title": "marlo-learn added to PyPI",
-          "link": "https://pypi.org/project/marlo-learn/",
+          "title": "noleak added to PyPI",
+          "link": "https://pypi.org/project/noleak/",
           "date": "19 Aug 2026",
-          "summary": "Manifold Approximation, Graph Reduction and Layout Optimization"
+          "summary": "Content-addressed fingerprints and train/eval leakage checks for AI/ML datasets."
         },
         {
-          "title": "burst-align added to PyPI",
-          "link": "https://pypi.org/project/burst-align/",
+          "title": "gencf added to PyPI",
+          "link": "https://pypi.org/project/gencf/",
           "date": "19 Aug 2026",
-          "summary": "Stabilize a photo burst using border features only, and turn it into a GIF."
+          "summary": "A package to determine nonzero crystal field parameters from point group symmetries."
         },
         {
-          "title": "fivedollarfootball added to PyPI",
-          "link": "https://pypi.org/project/fivedollarfootball/",
+          "title": "cfe-chat added to PyPI",
+          "link": "https://pypi.org/project/cfe-chat/",
           "date": "19 Aug 2026",
-          "summary": "Official Python client for the 5DollarFootballAPI — football fixtures, live scores, standings and odds history"
+          "summary": "A decentralized, serverless P2P LAN messenger with zero configuration."
         },
         {
-          "title": "earthaccess-auth added to PyPI",
-          "link": "https://pypi.org/project/earthaccess-auth/",
+          "title": "dgconvert added to PyPI",
+          "link": "https://pypi.org/project/dgconvert/",
           "date": "19 Aug 2026",
-          "summary": "NASA Earthdata Login (EDL) authentication core, extracted from earthaccess"
+          "summary": "Helper library for building dgpkm-compatible seeds (frontmatter, slugs, link rewriting, dgpkm doctor verification)"
         },
         {
-          "title": "ranla added to PyPI",
-          "link": "https://pypi.org/project/ranla/",
+          "title": "reqcrypt_dev added to PyPI",
+          "link": "https://pypi.org/project/reqcrypt-dev/",
           "date": "19 Aug 2026",
-          "summary": "Ranla email API client for Python"
+          "summary": "None"
         },
         {
-          "title": "voyager-island added to PyPI",
-          "link": "https://pypi.org/project/voyager-island/",
+          "title": "pharmode added to PyPI",
+          "link": "https://pypi.org/project/pharmode/",
           "date": "19 Aug 2026",
-          "summary": "A deterministic two-agent reinforcement-learning benchmark for a finite stranded-island economy."
+          "summary": "Automated PK/PD ODE model identification, validation and interpretation"
         },
         {
-          "title": "ergane-cli added to PyPI",
-          "link": "https://pypi.org/project/ergane-cli/",
+          "title": "nonebot-plugin-douyin-notify added to PyPI",
+          "link": "https://pypi.org/project/nonebot-plugin-douyin-notify/",
           "date": "19 Aug 2026",
-          "summary": "Agentic software factory: per-node usage tracking, verification gating, merge queue"
+          "summary": "Douyin video and live notifications for NoneBot2 and OneBot V11"
         },
         {
-          "title": "repostyle added to PyPI",
-          "link": "https://pypi.org/project/repostyle/",
+          "title": "zivy added to PyPI",
+          "link": "https://pypi.org/project/zivy/",
           "date": "19 Aug 2026",
-          "summary": "Shared repo-style lint rules for gradienthealth Python repos, plus a base ruff config."
+          "summary": "A simple Python UI toolkit for X11"
         },
         {
-          "title": "deep-research-harness added to PyPI",
-          "link": "https://pypi.org/project/deep-research-harness/",
+          "title": "camera-stream-client added to PyPI",
+          "link": "https://pypi.org/project/camera-stream-client/",
           "date": "19 Aug 2026",
-          "summary": "Deep research CLI harness built on Pydantic AI capabilities"
+          "summary": "Low-latency visual debugger for camera-stream ZeroMQ services"
         },
         {
-          "title": "franklinwh-local-api added to PyPI",
-          "link": "https://pypi.org/project/franklinwh-local-api/",
+          "title": "termpaws added to PyPI",
+          "link": "https://pypi.org/project/termpaws/",
           "date": "19 Aug 2026",
-          "summary": "Fully local (LAN-only) async Python client for the FranklinWH aGate over Modbus TCP"
+          "summary": "TermPaws all-in-one: backend + frontend (install this to get everything)"
         },
         {
-          "title": "awrelay added to PyPI",
-          "link": "https://pypi.org/project/awrelay/",
+          "title": "termpaws-frontend added to PyPI",
+          "link": "https://pypi.org/project/termpaws-frontend/",
           "date": "19 Aug 2026",
-          "summary": "A portable client for AitherRelay-shaped agent messaging — findings, alerts and coordination between agents, over real chat channels a human can also read."
+          "summary": "TermPaws web frontend (static assets)"
         },
         {
-          "title": "fishtruck added to PyPI",
-          "link": "https://pypi.org/project/fishtruck/",
+          "title": "termpaws-daemon added to PyPI",
+          "link": "https://pypi.org/project/termpaws-daemon/",
           "date": "19 Aug 2026",
-          "summary": "A Python library for detecting something fishy in your data."
+          "summary": "TermPaws Daemon Service"
         },
         {
-          "title": "videonote added to PyPI",
-          "link": "https://pypi.org/project/videonote/",
+          "title": "termpaws-backend added to PyPI",
+          "link": "https://pypi.org/project/termpaws-backend/",
           "date": "19 Aug 2026",
-          "summary": "VideoNote 能力 MCP 封装：视频链接 → AI Markdown 笔记（内嵌下载/转写/LLM 流水线，无需启动 FastAPI 后端）"
+          "summary": "TermPaws backend server (FastAPI + embedded robot bridge)"
         },
         {
-          "title": "recnexa added to PyPI",
-          "link": "https://pypi.org/project/recnexa/",
+          "title": "pixeloffice-firewall added to PyPI",
+          "link": "https://pypi.org/project/pixeloffice-firewall/",
           "date": "19 Aug 2026",
-          "summary": "A collection of recommendation algorithms"
+          "summary": "Brand Hallucination Firewall & AI Citation Oracle SDK for Python, FastAPI, Flask, LangChain, and CrewAI."
         },
         {
-          "title": "zentao-mcp-v1 added to PyPI",
-          "link": "https://pypi.org/project/zentao-mcp-v1/",
+          "title": "huhongkai-workspace-archive added to PyPI",
+          "link": "https://pypi.org/project/huhongkai-workspace-archive/",
           "date": "19 Aug 2026",
-          "summary": "禅道 (ZenTao) V1.0 REST API MCP 服务器"
+          "summary": "Expanded public source, documentation, custom rules, and safe workspace configuration archive"
         },
         {
-          "title": "deepbom added to PyPI",
-          "link": "https://pypi.org/project/deepbom/",
+          "title": "aibeta added to PyPI",
+          "link": "https://pypi.org/project/aibeta/",
           "date": "19 Aug 2026",
-          "summary": "Deployment-artifact inspection for on-device neural network models"
+          "summary": "板块指标库 API SDK"
         }
       ]
     }
