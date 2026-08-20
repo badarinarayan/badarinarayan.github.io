@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-20T05:22:22Z",
+  "generated": "2026-08-20T06:29:32Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,30 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "Milky Mist Dairy Food shares slip 4% after sharp post-listing rally",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/milky-mist-dairy-food-shares-slip-4-after-sharp-post-listing-rally/articleshow/133365199.cms",
+          "date": "20 Aug 2026",
+          "summary": "Milky Mist Dairy Food shares came under profit-booking pressure after gaining 42% over two sessions following their market debut. Despite strong revenue growth, improving profitability and a leadership position in value-added dairy, analysts cautioned against…"
+        },
+        {
+          "title": "Muthoot Finance, Manappuram, other gold financier stocks jump up to 4% as gold prices rise above Rs 1.58 lakh/10 grams",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/muthoot-finance-manappuram-other-gold-financier-stocks-jump-up-to-4-as-gold-prices-rise-above-rs-1-58-lakh/10-grams/articleshow/133364875.cms",
+          "date": "20 Aug 2026",
+          "summary": "Shares of gold loan companies Muthoot Finance, Manappuram Finance and IIFL Finance rose as much as 4% as gold prices surged following the US Treasury’s decision to increase longer-dated bond buybacks. Rising gold prices can boost the value of collateral pledge…"
+        },
+        {
+          "title": "Shiprocket shares jump 6% as Goldman Sachs acquires Rs 53 crore stake. Time to buy or book profits?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/shiprocket-shares-jump-6-as-goldman-sachs-acquires-rs-53-crore-stake-time-to-buy-or-book-profits/articleshow/133364509.cms",
+          "date": "20 Aug 2026",
+          "summary": "Shiprocket shares rose sharply on Thursday, extending gains after a blockbuster market debut. The rally came amid strong institutional interest, with Goldman Sachs buying shares worth Rs 52.7 crore in a bulk deal. Analysts remain positive but advise existing i…"
+        },
+        {
+          "title": "Why Jefferies sees limited upside in Bajaj Housing Finance despite its fast-growing loan book",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-jefferies-sees-limited-upside-in-bajaj-housing-finance-despite-its-fast-growing-loan-book/articleshow/133364160.cms",
+          "date": "20 Aug 2026",
+          "summary": "Jefferies initiated coverage on Bajaj Housing Finance with a Hold rating and Rs 92 target, citing limited upside from premium valuations despite strong growth prospects. It expects AUM to grow at a 23% CAGR and earnings per share at 20% through FY29, while ret…"
+        },
         {
           "title": "Lalithaa Jewellery Mart IPO allotment expected today; GMP at 27% — Here’s how to check status",
           "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/lalithaa-jewellery-mart-ipo-allotment-expected-today-gmp-at-27-heres-how-to-check-status/articleshow/133362377.cms",
@@ -18,30 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-issue-alert-last-day-to-buy-goodluck-india-shares-for-21-bonus-reward-how-will-dividend-payout-be-impacted/articleshow/133361960.cms",
           "date": "20 Aug 2026",
           "summary": "Goodluck India in July announced its maiden bonus issue in the ratio of 2:1. Under the proposal, eligible shareholders will receive two bonus equity shares of face value Rs 2 each for every one equity share held as of the record date, which will be announced s…"
-        },
-        {
-          "title": "Sebi bets on trading reforms to reverse foreign capital flight",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-bets-on-trading-reforms-to-reverse-foreign-capital-flight/articleshow/133362773.cms",
-          "date": "20 Aug 2026",
-          "summary": "India's market regulator is poised to introduce substantial rule amendments aimed at boosting foreign investments. The planned reforms intend to lower collateral demands and stimulate interest in longer-term derivatives. With foreign investment in Indian stock…"
-        },
-        {
-          "title": "Dividend alert! Last day to buy LIC Housing Fin, Hitachi Energy and 36 other stocks for dividend payouts. How many do you own?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dividend-alert-last-day-to-buy-lic-housing-finance-hitachi-energy-among-38-stocks-for-dividends-how-many-do-you-own/articleshow/133361942.cms",
-          "date": "20 Aug 2026",
-          "summary": "Under Sebi's T+1 settlement cycle, investors need to purchase a company’s shares at least one trading day before the record date to ensure the shares are credited to their demat accounts in time, and they become eligible for the corporate action. Accordingly,…"
-        },
-        {
-          "title": "Nifty price-to-book ratio hits 6-year low, but market may not be cheap",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-price-to-book-ratio-hits-6-year-low-but-market-may-not-be-cheap/articleshow/133361013.cms",
-          "date": "20 Aug 2026",
-          "summary": "The Nifty's price-to-book ratio has slid below three for the first time in six years, showcasing the banking sector's struggles alongside rising book values. With banks and financial services playing a crucial role in the Nifty's composition, the recent consol…"
-        },
-        {
-          "title": "Multi-cap funds offer equity-like returns with lower drawdowns",
-          "link": "https://economictimes.indiatimes.com/mf/analysis/multi-cap-funds-offer-equity-like-returns-with-lower-drawdowns/articleshow/133361636.cms",
-          "date": "20 Aug 2026",
-          "summary": "Multi-cap funds provide equity-like returns with reduced volatility and drawdowns. These funds delivered strong annualised returns over a twenty-one-year period. They offer a balanced approach across large, mid, and small-cap stocks. Wealth managers suggest mu…"
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -196,56 +196,50 @@
       "ok": true,
       "items": [
         {
-          "title": "Hyderabad principal stabbed 27 times: How last ‘babu’ call exposed Class 10 killers",
-          "link": "https://timesofindia.indiatimes.com/city/hyderabad/hyderabad-principal-stabbed-27-times-how-rs-1-51-lakh-iphone-and-last-word-babu-on-call-exposed-class-10-killers/articleshow/133361869.cms",
+          "title": "NET row: AI used recklessly to draft questions, say experts",
+          "link": "https://timesofindia.indiatimes.com/india/net-row-ai-used-recklessly-to-draft-questions-say-experts-nta-denies/articleshow/133361696.cms",
           "date": "20 Aug 2026",
-          "summary": "Two Class 10 students were apprehended for the murder of principal Roopa Reddy. Police allege the students killed her after she caught one stealing from her home. Investigators noticed the students spending money lavishly after the murder occurred. Forensic ex…"
+          "summary": "Min official cites 'ad hoc' paper setting"
         },
         {
-          "title": "Delhi removes Pak high commission's barricades after similar gesture by Islamabad",
-          "link": "https://timesofindia.indiatimes.com/city/delhi/indian-authorities-removed-security-cordon-outside-pakistan-high-commission-in-delhi/articleshow/133362086.cms",
-          "date": "20 Aug 2026",
-          "summary": "Indian authorities removed the external security cordon around the Pakistan High Commission. Traffic bollards and barricades were dismantled from the diplomatic compound premises. This action effectively eliminated the external security perimeter outside the h…"
-        },
-        {
-          "title": "Karnataka: Father 'pushes' 2 children into canal for favouring mother, both die",
-          "link": "https://timesofindia.indiatimes.com/city/hubballi/karnataka-horror-father-pushes-2-children-into-canal-for-favouring-mother-both-die/articleshow/133362371.cms",
-          "date": "20 Aug 2026",
-          "summary": "Two children's bodies were recovered from an irrigation canal after their father allegedly pushed them. The nine-year-old girl and her two-and-a-half-year-old brother were found during a search operation. Police received an emergency call from the father, Shan…"
-        },
-        {
-          "title": "Manav Suthar scripts history, equals 93-year-old Indian Test record",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/manav-suthar-scripts-history-equals-93-year-old-record-after-stunning-sri-lanka-test-show/articleshow/133361364.cms",
-          "date": "20 Aug 2026",
-          "summary": "In a stunning debut, Manav Suthar has made history as the first spinner to secure five wickets in both his first home and away Tests, a remarkable achievement not seen since Mohammad Nisar in 1933. At just a young age, he also became the youngest Indian to cla…"
-        },
-        {
-          "title": "US debt tops $40 trillion - $20 trillion since Trump first took office",
-          "link": "https://timesofindia.indiatimes.com/world/us/us-debt-tops-40-trillion-20-trillion-since-trump-first-took-office/articleshow/133362186.cms",
+          "title": "Gandhi manuscript fetches Rs 16.2 crore at Saffronart, sets world auction record",
+          "link": "https://timesofindia.indiatimes.com/india/gandhi-manuscript-fetches-rs-16-2-crore-at-saffronart-sets-world-auction-record/articleshow/133366364.cms",
           "date": "20 Aug 2026",
           "summary": ""
         },
         {
-          "title": "CEO Sundar Pichai has a quiz for students about Google Search",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/google-ceo-sundar-pichai-has-a-quiz-for-students-search-can-now-help-with-test-prep-for-/articleshow/133363673.cms",
+          "title": "Police cannot investigate sex determination offences under PCPNDT Act: SC",
+          "link": "https://timesofindia.indiatimes.com/india/police-cannot-investigate-sex-determination-offences-under-pcpndt-act-supreme-court/articleshow/133365942.cms",
           "date": "20 Aug 2026",
-          "summary": "Google CEO Sundar Pichai unveiled new educational features tailored for students. These enhancements are designed to facilitate topic comprehension and exam preparation. Gemini now includes a specialized student hub, complete with study notebooks and various l…"
+          "summary": ""
         },
         {
-          "title": "Delhi’s invisible opponent: How drift is becoming a factor at the Worlds",
-          "link": "https://timesofindia.indiatimes.com/sports/badminton/delhis-invisible-opponent-how-drift-is-becoming-a-factor-at-the-world-championships/articleshow/133363793.cms",
+          "title": "India recreate Ganguly's shirt-waving celebration after beating England at Lord's",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/indian-team-recreate-sourav-gangulys-shirt-waving-celebration-after-beating-england-at-lords-watch/articleshow/133363991.cms",
           "date": "20 Aug 2026",
-          "summary": "Indoor air currents are presenting a significant tactical challenge for players at the BWF World Championships. Shuttlers must constantly recalibrate their strokes and shot selection due to unpredictable air movement. Different courts and even ends of the same…"
+          "summary": "After India defeated England by 118 runs in a T20 match at Lord's on August 19, India's players took off their shirts and waved them in the air, recalling Ganguly's famous celebration after India's NatWest Trophy final win over England at the same venue in 200…"
         },
         {
-          "title": "Statues vandalised, vehicles torched after students rally turns violent in Meghalaya",
-          "link": "https://timesofindia.indiatimes.com/city/shillong/shillong-tense-after-students-bike-rally-vivekananda-netaji-statues-vandalised-vehicles-torched/articleshow/133361784.cms",
+          "title": "'Impose sanctions against RSS': US religious freedom body opposes Bhagwat's visit",
+          "link": "https://timesofindia.indiatimes.com/india/impose-sanctions-against-rss-us-religious-freedom-body-opposes-mohan-bhagwats-new-york-visit/articleshow/133364412.cms",
           "date": "20 Aug 2026",
-          "summary": "During a turbulent Khasi Students' Union bike rally in Shillong, statues were defaced and government vehicles set ablaze, highlighting the escalating agitation over a five-point charter of demands. Their protest also aimed at opposing a public hearing for a pr…"
+          "summary": ""
         },
         {
-          "title": "SC to hear NBCC plea for RERA relief in 16 stalled Supertech projects: Case explained",
-          "link": "https://timesofindia.indiatimes.com/real-estate/news/sc-to-hear-nbcc-plea-for-rera-relief-to-complete-16-stalled-supertech-projects-what-is-the-case/articleshow/133363379.cms",
+          "title": "Microsoft AI CMO Andra Mallard leaves after just 6 months",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-ais-chief-marketing-officer-andra-mallard-is-leaving-the-company-just-6-months-after-she-joined-read-email-to-employees/articleshow/133365302.cms",
+          "date": "20 Aug 2026",
+          "summary": "Microsoft AI's chief marketing officer, Andra Mallard, is leaving the company soon. She plans to relocate her family to Europe for personal reasons next August. Mallard's departure coincides with a strategic marketing shift within Microsoft's AI division. The…"
+        },
+        {
+          "title": "‘Must not be used to legitimise terrorists’: India seeks transparency in UNSC",
+          "link": "https://timesofindia.indiatimes.com/india/membership-must-not-be-used-to-legitimise-terrorists-india-seeks-transparency-in-unsc/articleshow/133364917.cms",
+          "date": "20 Aug 2026",
+          "summary": "India urged greater transparency in UN Security Council sanctions decisions. Membership must not legitimize terrorists or pursue narrow political interests. Delays in appointing subsidiary body chairs affect Council effectiveness and credibility. Elected membe…"
+        },
+        {
+          "title": "Rahul's 'Chhatron Ki Goonj' event in Pune gets nod with 30 conditions; CM reacts",
+          "link": "https://timesofindia.indiatimes.com/india/rahul-gandhis-chhatron-ki-goonj-event-in-pune-gets-nod-with-30-conditions-cm-fadnavis-reacts/articleshow/133365587.cms",
           "date": "20 Aug 2026",
           "summary": ""
         },
@@ -256,40 +250,112 @@
           "summary": "At the Silicon Valley International Festival, Taiwanese innovators caught the global spotlight with remarkable inventions. A ten-year-old prodigy took home a prestigious award for crafting an AI-driven electronic nose capable of detecting hazardous substances…"
         },
         {
-          "title": "'Awarapan 2' box office day 6: Emraan Hashmi starrer sees inches towards Rs 110 cr",
-          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/awarapan-2-box-office-collection-day-6-the-emraan-hashmi-starrer-sees-drop-on-wednesday-crosses-rs-150-crore-worldwide/articleshow/133361220.cms",
+          "title": "Hyderabad principal stabbed 27 times: How last ‘babu’ call exposed Class 10 killers",
+          "link": "https://timesofindia.indiatimes.com/city/hyderabad/hyderabad-principal-stabbed-27-times-how-rs-1-51-lakh-iphone-and-last-word-babu-on-call-exposed-class-10-killers/articleshow/133361869.cms",
           "date": "20 Aug 2026",
-          "summary": "Awarapan 2 is proving to be a box office hit, amassing an impressive Rs 107.50 crore net across India by its sixth day. The film's take surged on Saturday, thanks to the holiday and extra screenings, though earnings saw a modest decline on Wednesday. The seque…"
+          "summary": "Two Class 10 students were apprehended for the murder of principal Roopa Reddy. Police allege the students killed her after she caught one stealing from her home. Investigators noticed the students spending money lavishly after the murder occurred. Forensic ex…"
         },
         {
-          "title": "Meet Audrey Zheng, 17, who developed a pancreatic cancer test",
-          "link": "https://timesofindia.indiatimes.com/world/us/meet-audrey-zheng-the-17-year-old-pennsylvania-student-who-developed-a-pancreatic-cancer-test-it-correctly-identified-87-of-patients-and-87-5-without-the-disease/articleshow/133358683.cms",
+          "title": "India rock dated to 3.4 billion years may preserve Earth's oldest life signs",
+          "link": "https://timesofindia.indiatimes.com/science/oldest-evidence-of-life-on-earth-has-been-discovered-in-india-a-3-4-billion-year-old-layered-rock-shows-signs-of-microbial-life/articleshow/133365920.cms",
           "date": "20 Aug 2026",
-          "summary": "A talented high school student has pioneered a cutting-edge bioengineering method for the early detection of pancreatic cancer. By utilizing magnetic beads to isolate tumor-derived particles from blood samples, her clinical trials demonstrated remarkable accur…"
+          "summary": "Recent discoveries in India have unveiled biological traces that date back approximately 3.5 billion years, indicating a significantly ancient origin of life on Earth. Researchers have confirmed the presence of photosynthetic activity and intricate metabolic p…"
         },
         {
-          "title": "Engineer built Ozarks hillside home in 1970; son restores it 50 years later",
-          "link": "https://timesofindia.indiatimes.com/world/us/a-missouri-engineer-bought-remote-ozarks-land-in-1970-and-slowly-built-a-reinforced-concrete-home-into-the-hillside-more-than-50-years-later-his-son-is-restoring-it-room-by-room/articleshow/133354448.cms",
-          "date": "19 Aug 2026",
-          "summary": "A Missouri engineer spent years carving an underground home into an Ozarks hillside, building it largely by hand without an architect. Designed to resemble a natural cave, the property features steel-reinforced concrete, an earth-based ventilation system, heav…"
-        },
-        {
-          "title": "US issues details of new Green Card rules coming into effect from September 18",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/us-issues-details-of-new-green-card-rules-coming-into-effect-from-september-18-wants-bond-to-prove-that-they-do-not-/articleshow/133338315.cms",
-          "date": "19 Aug 2026",
-          "summary": "New Green Card rules take effect September 18, 2026, impacting all applications. USCIS will conduct a stricter public charge test on applicants' circumstances. Receipt of public benefits after this date will count against applicants significantly. A broader ra…"
-        },
-        {
-          "title": "6.8 CGPA student lands Rs 32 lakh Microsoft job: What his journey says",
-          "link": "https://timesofindia.indiatimes.com/education/news/he-scored-just-6-8-cgpa-yet-landed-a-rs-32-lakh-job-at-microsoft-what-his-journey-says-about-marks-and-success/articleshow/133363850.cms",
+          "title": "Pulitzer-winning poet transformed barren Hawaii land into 19-acre forest",
+          "link": "https://timesofindia.indiatimes.com/world/us/in-the-1970s-pulitzer-prize-winning-poet-w-s-merwin-and-his-wife-paula-bought-a-barren-piece-of-land-in-hawaii-planting-one-sapling-at-a-time-they-transformed-the-wasteland-into-a-19-acre-forest-with-more-than-3000-palms/articleshow/133364614.cms",
           "date": "20 Aug 2026",
-          "summary": "The debate over whether marks determine success has resurfaced after a post highlighted the contrasting journeys of two engineering graduates. Aditya Jamwal, reportedly a 6.8 CGPA student, is now a software engineer at Microsoft. His story underscores how prac…"
+          "summary": "W.S. Merwin, a celebrated poet, found solace and seclusion in Maui during the 1970s, where he dedicated himself to creating a lush 19-acre palm forest. This extraordinary project transformed a barren piece of land into a thriving ecological haven, showcasing a…"
+        },
+        {
+          "title": "Google Pixel 11 series goes on sale in India: Pricing, offers and more",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/google-pixel-11-pixel-11-pro-pixel-11-pro-xl-and-pixel-11-pro-fold-goes-on-sale-in-india-pricing-offers-and-more/articleshow/133362746.cms",
+          "date": "20 Aug 2026",
+          "summary": "Exciting news for tech enthusiasts: the Google Pixel 11 series has officially launched in India! Available through both authorized online and brick-and-mortar retailers, this latest lineup boasts a cutting-edge in-house chip along with impressive AI features.…"
+        },
+        {
+          "title": "Delhi removes Pak high commission's barricades after similar gesture by Islamabad",
+          "link": "https://timesofindia.indiatimes.com/city/delhi/indian-authorities-removed-security-cordon-outside-pakistan-high-commission-in-delhi/articleshow/133362086.cms",
+          "date": "20 Aug 2026",
+          "summary": "Indian authorities removed the external security cordon around the Pakistan High Commission. Traffic bollards and barricades were dismantled from the diplomatic compound premises. This action effectively eliminated the external security perimeter outside the h…"
+        },
+        {
+          "title": "Manav Suthar scripts history, equals 93-year-old Indian Test record",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/manav-suthar-scripts-history-equals-93-year-old-record-after-stunning-sri-lanka-test-show/articleshow/133361364.cms",
+          "date": "20 Aug 2026",
+          "summary": "In a stunning debut, Manav Suthar has made history as the first spinner to secure five wickets in both his first home and away Tests, a remarkable achievement not seen since Mohammad Nisar in 1933. At just a young age, he also became the youngest Indian to cla…"
+        },
+        {
+          "title": "Woman in soup for ‘We are Gen Z’ remark",
+          "link": "https://timesofindia.indiatimes.com/city/srinagar/made-us-waited-5-hours-woman-in-soup-for-we-are-gen-z-remark-jk-cm-calls-it-the-new-jaanta-hai-mera-baap-kaun-hai/articleshow/133361672.cms",
+          "date": "20 Aug 2026",
+          "summary": "A tourist's 'Gen Z' declaration at a Ladakh checkpoint drew criticism from the Chief Minister. She argued with security personnel after a five-hour delay due to VIP movement. The incident occurred before Kargil Vijay Diwas commemorative events in the region. F…"
+        },
+        {
+          "title": "Karnataka: Father 'pushes' 2 children into canal for favouring mother, both die",
+          "link": "https://timesofindia.indiatimes.com/city/hubballi/karnataka-horror-father-pushes-2-children-into-canal-for-favouring-mother-both-die/articleshow/133362371.cms",
+          "date": "20 Aug 2026",
+          "summary": "Two children's bodies were recovered from an irrigation canal after their father allegedly pushed them. The nine-year-old girl and her two-and-a-half-year-old brother were found during a search operation. Police received an emergency call from the father, Shan…"
+        },
+        {
+          "title": "From Kargil's Op Safed Sagar to Bholari's Op Sindoor: How IAF grew in capability",
+          "link": "https://timesofindia.indiatimes.com/defence/news/from-kargils-op-safed-sagar-to-bholaris-op-sindoor-how-indian-air-force-grew-in-capability/articleshow/133364742.cms",
+          "date": "20 Aug 2026",
+          "summary": "The Indian Air Force evolved significantly from Kargil's challenges to Operation Sindoor's precision. Operation Safed Sagar highlighted improvisation and courage during the 1999 Kargil War. Operation Sindoor in 2025 demonstrated advanced capabilities and joint…"
+        },
+        {
+          "title": "Mahesh Babu's 'Varanasi' to feature six songs, confirms composer MM Keeravaani",
+          "link": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/mahesh-babus-varanasi-to-feature-six-songs-background-score-work-to-begin-in-september-confirms-oscar-winning-composer-mm-keeravaani/articleshow/133365121.cms",
+          "date": "20 Aug 2026",
+          "summary": "Acclaimed music composer MM Keeravaani has officially confirmed the creation of six songs for the highly anticipated film Varanasi. He has also shared that work on the background score is set to commence in September. Featuring stars like Mahesh Babu and renow…"
+        },
+        {
+          "title": "9.2 vs 6.8 CGPA: How did he turn 80+ rejections into 2 Microsoft jobs?",
+          "link": "https://timesofindia.indiatimes.com/education/news/9-2-cgpa-6-lpa-vs-6-8-cgpa-32-lpa-how-80-setbacks-and-one-mantra-helped-him-crack-microsoft-twice/articleshow/133363561.cms",
+          "date": "20 Aug 2026",
+          "summary": "Microsoft software engineer Aditya Jamwal’s career journey highlights why skills, interview preparation and persistence can matter alongside CGPA. His example contrasts a 9.2 CGPA student earning 6 LPA with a 6.8 CGPA student securing 32 LPA. Jamwal also share…"
+        },
+        {
+          "title": "Pennsylvania crash: State police helicopter, Cessna plane crash after midair collision",
+          "link": "https://timesofindia.indiatimes.com/world/us/pennsylvania-crash-one-killed-in-violent-collision-between-cessna-150-and-police-helicopter/articleshow/133362480.cms",
+          "date": "20 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "US debt tops $40 trillion - $20 trillion since Trump first took office",
+          "link": "https://timesofindia.indiatimes.com/world/us/us-debt-tops-40-trillion-20-trillion-since-trump-first-took-office/articleshow/133362186.cms",
+          "date": "20 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Statues vandalised, vehicles torched after students rally turns violent in Meghalaya",
+          "link": "https://timesofindia.indiatimes.com/city/shillong/shillong-tense-after-students-bike-rally-vivekananda-netaji-statues-vandalised-vehicles-torched/articleshow/133361784.cms",
+          "date": "20 Aug 2026",
+          "summary": "During a turbulent Khasi Students' Union bike rally in Shillong, statues were defaced and government vehicles set ablaze, highlighting the escalating agitation over a five-point charter of demands. Their protest also aimed at opposing a public hearing for a pr…"
         },
         {
           "title": "King Charles 'welcomes' Harry, Meghan’s UK 'return'",
           "link": "https://timesofindia.indiatimes.com/world/uk/no-royal-role-for-sussexes-king-charles-welcomes-harry-meghans-uk-return-report/articleshow/133361785.cms",
           "date": "20 Aug 2026",
           "summary": "Prince Harry and Meghan Markle are set to visit Britain later this month, bringing along their children, Archie and Lilibet, who will soon attend a British school. King Charles is eager for the chance to reconnect with his grandchildren in a private setting. S…"
+        },
+        {
+          "title": "Delhi’s invisible opponent: How drift is becoming a factor at the Worlds",
+          "link": "https://timesofindia.indiatimes.com/sports/badminton/delhis-invisible-opponent-how-drift-is-becoming-a-factor-at-the-world-championships/articleshow/133363793.cms",
+          "date": "20 Aug 2026",
+          "summary": "Indoor air currents are presenting a significant tactical challenge for players at the BWF World Championships. Shuttlers must constantly recalibrate their strokes and shot selection due to unpredictable air movement. Different courts and even ends of the same…"
+        },
+        {
+          "title": "SC to hear NBCC plea for RERA relief in 16 stalled Supertech projects: Case explained",
+          "link": "https://timesofindia.indiatimes.com/real-estate/news/sc-to-hear-nbcc-plea-for-rera-relief-to-complete-16-stalled-supertech-projects-what-is-the-case/articleshow/133363379.cms",
+          "date": "20 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "'Awarapan 2' box office day 6: Emraan Hashmi starrer sees inches towards Rs 110 cr",
+          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/awarapan-2-box-office-collection-day-6-the-emraan-hashmi-starrer-sees-drop-on-wednesday-crosses-rs-150-crore-worldwide/articleshow/133361220.cms",
+          "date": "20 Aug 2026",
+          "summary": "Awarapan 2 is proving to be a box office hit, amassing an impressive Rs 107.50 crore net across India by its sixth day. The film's take surged on Saturday, thanks to the holiday and extra screenings, though earnings saw a modest decline on Wednesday. The seque…"
         },
         {
           "title": "Granite, grass and a helipad: Trump shows off his White House construction projects",
@@ -308,72 +374,6 @@
           "link": "https://timesofindia.indiatimes.com/defence/international/taiwan-gets-new-f-16-fighters-as-china-pressure-grows-why-50-year-old-jet-remains-popular/articleshow/133363981.cms",
           "date": "20 Aug 2026",
           "summary": "Taiwan is on the brink of a significant upgrade as it prepares to take delivery of its first batch of new F-16 fighter jets from the United States. This addition of 66 advanced F-16V Block 70 models is a strategic move to enhance Taiwan's aerial defense amid e…"
-        },
-        {
-          "title": "Gave up IIT, slept on roads: How Rajasthan's 1st AGM put Udaipur on global chess map",
-          "link": "https://timesofindia.indiatimes.com/sports/chess/gave-up-iit-left-home-slept-on-roads-how-rajasthans-first-agm-put-udaipur-on-global-chess-map/articleshow/133350794.cms",
-          "date": "20 Aug 2026",
-          "summary": "Udaipur’s Chandrajeet Singh Rajawat turned a difficult childhood passion for chess into a successful career. He left home as a teenager, faced financial struggles, slept at railway stations and stadiums, and kept playing despite setbacks. His persistence event…"
-        },
-        {
-          "title": "Kolkata hotel fire: Leaseholder of Hotel Shikha Inn Abu Zafar arrested",
-          "link": "https://timesofindia.indiatimes.com/city/kolkata/kolkata-hotel-fire-leaseholder-of-hotel-shikha-inn-abu-zafar-arrested/articleshow/133363875.cms",
-          "date": "20 Aug 2026",
-          "summary": "Kolkata Police arrested Abu Zafar, the leaseholder of Hotel Shikha Inn. He was apprehended from Entally Main Market on Wednesday. Two hotel staff members were also detained for questioning regarding the incident. Investigators are examining the circumstances a…"
-        },
-        {
-          "title": "AIIMS Rishikesh held for wrong HIV positive diagnosis, told to pay Rs 60K compensation",
-          "link": "https://timesofindia.indiatimes.com/legal/news/aiims-rishikesh-held-guilty-of-wrong-hiv-positive-diagnosis-told-to-pay-patient-rs-60000-compensation/articleshow/133363854.cms",
-          "date": "20 Aug 2026",
-          "summary": "AIIMS Rishikesh was found guilty of medical negligence by a consumer commission. The hospital incorrectly recorded a patient as HIV positive in its medical records. Subsequent tests at other hospitals found the patient to be HIV negative. The commission upheld…"
-        },
-        {
-          "title": "Rs 20 lakh Chinese stock dispute, violent outburst: Twisha Sharma’s final hours",
-          "link": "https://timesofindia.indiatimes.com/city/bhopal/rs-20-lakh-chinese-stock-dispute-violent-outburst-cbi-charge-sheet-details-twisha-sharmas-final-hours/articleshow/133351453.cms",
-          "date": "19 Aug 2026",
-          "summary": "The conflict surrounding a twenty lakh rupee investment escalated dramatically as Samarth Singh was said to have pressured Twisha Sharma into moving funds for Chinese stock purchases. Twisha's family leveled accusations against Samarth and his mother, citing c…"
-        },
-        {
-          "title": "Magnitude 5.9 earthquake strikes Flores region in Indonesia",
-          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/earthquake-strikes-flores-region-in-indonesia/articleshow/133362989.cms",
-          "date": "20 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "South Korea rejects Trump's claim; estimates Kim Jong Un has 80-120 nuclear weapons",
-          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/south-korea-rejects-trump-claim-that-kim-jong-un-owns-57-nuclear-weapons-estimates-80-120-warheads/articleshow/133363244.cms",
-          "date": "20 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "‘Economic D-Day’: Trump announces ‘most crushing’ operation against Iran and its allies",
-          "link": "https://timesofindia.indiatimes.com/world/us/economic-d-day-trump-warns-countries-supporting-iran-of-tremendous-consequences/articleshow/133361308.cms",
-          "date": "20 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Five minutes, 28 covers, 300 tyres: How Galle's 130-member groundstaff beat the rain",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/five-minutes-28-covers-300-tyres-how-galles-130-member-groundstaff-beat-the-rain/articleshow/133349352.cms",
-          "date": "20 Aug 2026",
-          "summary": "The rain may have tested Galle, but its groundstaff never blinked. Meet the 130-member groundstaff, who raced against the weather, mastered the art of covering the ground and ensured precious playing time was not lost during the first Test between India vs Sri…"
-        },
-        {
-          "title": "Paternity test of child can be allowed in marital dispute: SC",
-          "link": "https://timesofindia.indiatimes.com/india/paternity-test-of-child-can-be-allowed-in-marital-dispute-sc/articleshow/133360955.cms",
-          "date": "20 Aug 2026",
-          "summary": "If loyal, then why object: Court to woman"
-        },
-        {
-          "title": "Who signed where? NFL players who joined new teams ahead of the 2026 season",
-          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/who-signed-where-nfl-players-who-joined-new-teams-ahead-of-the-2026-season/articleshow/133351381.cms",
-          "date": "19 Aug 2026",
-          "summary": "In an electrifying 2026 offseason, several NFL stars have altered their team trajectories from square one. Quarterbacks Tua Tagovailoa and Justin Fields are the latest to don new uniforms. Among wide receivers, both A.J. Brown and Stefon Diggs have switched al…"
-        },
-        {
-          "title": "Mehul Choksi’s lawyer Vijay Aggarwal arrested in UK over sexual assault allegation",
-          "link": "https://timesofindia.indiatimes.com/world/uk/mehul-choksis-lawyer-vijay-aggarwal-arrested-in-london-and-in-prison-accused-of-sexual-assault/articleshow/133358801.cms",
-          "date": "20 Aug 2026",
-          "summary": ""
         }
       ]
     },
@@ -1630,6 +1630,126 @@
       "ok": true,
       "items": [
         {
+          "title": "fabricpc added to PyPI",
+          "link": "https://pypi.org/project/fabricpc/",
+          "date": "20 Aug 2026",
+          "summary": "A flexible, performant predictive coding library using JAX"
+        },
+        {
+          "title": "langchain-wavespeed added to PyPI",
+          "link": "https://pypi.org/project/langchain-wavespeed/",
+          "date": "20 Aug 2026",
+          "summary": "An integration package connecting WaveSpeed AI and LangChain"
+        },
+        {
+          "title": "agenlp added to PyPI",
+          "link": "https://pypi.org/project/agenlp/",
+          "date": "20 Aug 2026",
+          "summary": "Agentic NLP — LLM loops + traditional NLP as tools, with human-in-the-loop"
+        },
+        {
+          "title": "askmydb-mcp added to PyPI",
+          "link": "https://pypi.org/project/askmydb-mcp/",
+          "date": "20 Aug 2026",
+          "summary": "A natural-language-to-SQL MCP server with eval-gated CI/CD and defense-in-depth safety."
+        },
+        {
+          "title": "crawlstore added to PyPI",
+          "link": "https://pypi.org/project/crawlstore/",
+          "date": "20 Aug 2026",
+          "summary": "A small reusable MongoDB storage layer for web crawlers"
+        },
+        {
+          "title": "crucible-leakage added to PyPI",
+          "link": "https://pypi.org/project/crucible-leakage/",
+          "date": "20 Aug 2026",
+          "summary": "Find tabular columns that encode the outcome they are used to predict"
+        },
+        {
+          "title": "context-pager added to PyPI",
+          "link": "https://pypi.org/project/context-pager/",
+          "date": "20 Aug 2026",
+          "summary": "Context Pager: a context-paging MCP server that cuts agent token cost"
+        },
+        {
+          "title": "tarcin-sso added to PyPI",
+          "link": "https://pypi.org/project/tarcin-sso/",
+          "date": "20 Aug 2026",
+          "summary": "Tarcin SSO Python SDK for FastAPI"
+        },
+        {
+          "title": "papeete-actor-simple added to PyPI",
+          "link": "https://pypi.org/project/papeete-actor-simple/",
+          "date": "20 Aug 2026",
+          "summary": "A runnable papeete-actor restricted to two verbs — request and query. No publications, no subscriptions."
+        },
+        {
+          "title": "hackrf-proxy-client added to PyPI",
+          "link": "https://pypi.org/project/hackrf-proxy-client/",
+          "date": "20 Aug 2026",
+          "summary": "Async WebSocket client for the hackrf-proxyd network-attached OOK transceiver daemon"
+        },
+        {
+          "title": "reputation-visibility-matrix added to PyPI",
+          "link": "https://pypi.org/project/reputation-visibility-matrix/",
+          "date": "20 Aug 2026",
+          "summary": "Reputation Visibility Matrix is a digital reputation analysis framework for analyzing brand visibility and reputation signals across the digital landscape."
+        },
+        {
+          "title": "proflame added to PyPI",
+          "link": "https://pypi.org/project/proflame/",
+          "date": "20 Aug 2026",
+          "summary": "SIT Proflame 2 fireplace remote protocol: OOK frame encoder, decoder, and per-remote checksum derivation"
+        },
+        {
+          "title": "git-worktree-env added to PyPI",
+          "link": "https://pypi.org/project/git-worktree-env/",
+          "date": "20 Aug 2026",
+          "summary": "Per-worktree ports, secrets, and local environment setup for Git"
+        },
+        {
+          "title": "solar-plant-dgr added to PyPI",
+          "link": "https://pypi.org/project/solar-plant-dgr/",
+          "date": "20 Aug 2026",
+          "summary": "A Python library for Solar Plant Daily Generation Report (DGR) calculations and performance analysis."
+        },
+        {
+          "title": "agentgap added to PyPI",
+          "link": "https://pypi.org/project/agentgap/",
+          "date": "20 Aug 2026",
+          "summary": "Read-only reliability and safety auditor for AI agent repositories"
+        },
+        {
+          "title": "privrag-guard added to PyPI",
+          "link": "https://pypi.org/project/privrag-guard/",
+          "date": "20 Aug 2026",
+          "summary": "Privacy-preserving middleware for embedding pipelines and vector search."
+        },
+        {
+          "title": "ahanaisacatmeow added to PyPI",
+          "link": "https://pypi.org/project/ahanaisacatmeow/",
+          "date": "20 Aug 2026",
+          "summary": "Add your description here"
+        },
+        {
+          "title": "disputeguard added to PyPI",
+          "link": "https://pypi.org/project/disputeguard/",
+          "date": "20 Aug 2026",
+          "summary": "Checks whether a chargeback dispute-evidence bundle satisfies Visa's reason-code evidence requirements, before you submit it."
+        },
+        {
+          "title": "wsad-dt added to PyPI",
+          "link": "https://pypi.org/project/wsad-dt/",
+          "date": "20 Aug 2026",
+          "summary": "WSAD-DT: Weakly Supervised Anomaly Detection via Dual-Tailed Kernel (ICML 2025)"
+        },
+        {
+          "title": "granian-multiport added to PyPI",
+          "link": "https://pypi.org/project/granian-multiport/",
+          "date": "20 Aug 2026",
+          "summary": "Run each Granian worker on its own TCP port"
+        },
+        {
           "title": "chb-clustering added to PyPI",
           "link": "https://pypi.org/project/chb-clustering/",
           "date": "20 Aug 2026",
@@ -1688,126 +1808,6 @@
           "link": "https://pypi.org/project/linkedin-scraper-api/",
           "date": "20 Aug 2026",
           "summary": "Official Python SDK for LinkedIn Profile Scraper & Verified Email Extractor Pro."
-        },
-        {
-          "title": "kree4py-commons-logging added to PyPI",
-          "link": "https://pypi.org/project/kree4py-commons-logging/",
-          "date": "20 Aug 2026",
-          "summary": "Placeholder package reserving the PyPI name. Logger/LogFactory/Provider adapted onto the Python logging module."
-        },
-        {
-          "title": "sagax-amadeus added to PyPI",
-          "link": "https://pypi.org/project/sagax-amadeus/",
-          "date": "20 Aug 2026",
-          "summary": "Sagax Amadeus —— 投研审计智能体的公网 API 客户端（薄 HTTP SDK）"
-        },
-        {
-          "title": "awm added to PyPI",
-          "link": "https://pypi.org/project/awm/",
-          "date": "20 Aug 2026",
-          "summary": "A portable, scoped agent memory — hierarchical tenant:user:project scopes where a write lands at exactly one scope, a read includes ancestors by distance, and siblings never leak."
-        },
-        {
-          "title": "driftprobe added to PyPI",
-          "link": "https://pypi.org/project/driftprobe/",
-          "date": "20 Aug 2026",
-          "summary": "ML dataset drift detection with severity scoring and HTML reports"
-        },
-        {
-          "title": "django-freeipa-auth-email added to PyPI",
-          "link": "https://pypi.org/project/django-freeipa-auth-email/",
-          "date": "20 Aug 2026",
-          "summary": "A simple django freeipa authentication backend app with a simple server failover solution using email instead of username."
-        },
-        {
-          "title": "tiktok-scraper-api added to PyPI",
-          "link": "https://pypi.org/project/tiktok-scraper-api/",
-          "date": "20 Aug 2026",
-          "summary": "Official Python SDK for TikTok Scraper & Viral Trend AI Extractor Pro."
-        },
-        {
-          "title": "relayfabric-sdk added to PyPI",
-          "link": "https://pypi.org/project/relayfabric-sdk/",
-          "date": "20 Aug 2026",
-          "summary": "RelayFabric Python plugin SDK: Plugin Protocol v1 frame codec, main-loop scaffold, bridge plumbing, sent-cache, and test harness."
-        },
-        {
-          "title": "halo-emulator added to PyPI",
-          "link": "https://pypi.org/project/halo-emulator/",
-          "date": "20 Aug 2026",
-          "summary": "Emulator for the Brilliant Labs Halo smart glasses Lua runtime"
-        },
-        {
-          "title": "clear-korean added to PyPI",
-          "link": "https://pypi.org/project/clear-korean/",
-          "date": "20 Aug 2026",
-          "summary": "Install concise and clear Korean output instructions for AI agents"
-        },
-        {
-          "title": "dive-fit-parse added to PyPI",
-          "link": "https://pypi.org/project/dive-fit-parse/",
-          "date": "20 Aug 2026",
-          "summary": "Deterministic Garmin freediving .FIT parser — per-dive depth, phase and heart-rate indicators"
-        },
-        {
-          "title": "fit-parse-core added to PyPI",
-          "link": "https://pypi.org/project/fit-parse-core/",
-          "date": "20 Aug 2026",
-          "summary": "Domain-neutral Garmin .FIT message extraction and session assembly"
-        },
-        {
-          "title": "roadmap-core added to PyPI",
-          "link": "https://pypi.org/project/roadmap-core/",
-          "date": "20 Aug 2026",
-          "summary": "The roadmap work-item and arc graph: status derivation, validation, and markdown rendering. Stdlib-only, so any repo can adopt it without adopting a backend."
-        },
-        {
-          "title": "session-migrate added to PyPI",
-          "link": "https://pypi.org/project/session-migrate/",
-          "date": "20 Aug 2026",
-          "summary": "Convert Claude, Codex, and Pi sessions to supported native agent targets"
-        },
-        {
-          "title": "ourri added to PyPI",
-          "link": "https://pypi.org/project/ourri/",
-          "date": "20 Aug 2026",
-          "summary": "Official Python SDK for Ourri — multi-provider web scraping and data extraction"
-        },
-        {
-          "title": "vllm-beam-search-plugin added to PyPI",
-          "link": "https://pypi.org/project/vllm-beam-search-plugin/",
-          "date": "20 Aug 2026",
-          "summary": "Beam search plugin for vLLM v1 with CoW block table forking"
-        },
-        {
-          "title": "tyikit added to PyPI",
-          "link": "https://pypi.org/project/tyikit/",
-          "date": "20 Aug 2026",
-          "summary": "Internal shared Python library and developer platform for reusable, framework-independent utilities."
-        },
-        {
-          "title": "stel added to PyPI",
-          "link": "https://pypi.org/project/stel/",
-          "date": "20 Aug 2026",
-          "summary": "dbt for unstructured data — declarative pipelines for documents, text, and ML preprocessing"
-        },
-        {
-          "title": "evidence-chunker added to PyPI",
-          "link": "https://pypi.org/project/evidence-chunker/",
-          "date": "20 Aug 2026",
-          "summary": "Docling 기반 Evidence Unit(표+캡션+컨텍스트) 청킹 - RAG 검색 성능 향상"
-        },
-        {
-          "title": "amalgament added to PyPI",
-          "link": "https://pypi.org/project/amalgament/",
-          "date": "20 Aug 2026",
-          "summary": "Thin zero-dependency client for the Amalgament public-query API (clean public government data, entity + parcel keyed)"
-        },
-        {
-          "title": "docbuildr added to PyPI",
-          "link": "https://pypi.org/project/docbuildr/",
-          "date": "20 Aug 2026",
-          "summary": "Generate Markdown, HTML, and PDF books from online documentation."
         }
       ]
     }
