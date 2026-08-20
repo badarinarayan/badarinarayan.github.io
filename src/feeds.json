@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-20T20:18:23Z",
+  "generated": "2026-08-20T21:19:23Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,12 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "US stocks: US market sinks as bond yields rise, Walmart results disappoint",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-sinks-as-bond-yields-rise-walmart-results-disappoint/articleshow/133387377.cms",
+          "date": "21 Aug 2026",
+          "summary": "The S&P ‌500 consumer discretionary sector was one of the biggest drags on the benchmark index, with megacaps including Amazon and Tesla among its biggest index-point weights. Big percentage decliners included Royal Caribbean Group and Carnival ​Corp, which ar…"
+        },
         {
           "title": "Power Finance Corporation and REC shares fall up to 3% after Morgan Stanley downgrade",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/power-finance-corporation-and-rec-shares-fall-up-to-3-after-morgan-stanley-downgrade/articleshow/133367186.cms",
@@ -36,12 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/milky-mist-dairy-food-shares-slip-4-after-sharp-post-listing-rally/articleshow/133365199.cms",
           "date": "20 Aug 2026",
           "summary": "Milky Mist Dairy Food shares came under profit-booking pressure after gaining 42% over two sessions following their market debut. Despite strong revenue growth, improving profitability and a leadership position in value-added dairy, analysts cautioned against…"
-        },
-        {
-          "title": "Muthoot Finance, Manappuram, other gold financier stocks jump up to 4% as gold prices rise above Rs 1.58 lakh/10 grams",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/muthoot-finance-manappuram-other-gold-financier-stocks-jump-up-to-4-as-gold-prices-rise-above-rs-1-58-lakh/10-grams/articleshow/133364875.cms",
-          "date": "20 Aug 2026",
-          "summary": "Shares of gold loan companies Muthoot Finance, Manappuram Finance and IIFL Finance rose as much as 4% as gold prices surged following the US Treasury’s decision to increase longer-dated bond buybacks. Rising gold prices can boost the value of collateral pledge…"
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -196,10 +196,40 @@
       "ok": true,
       "items": [
         {
-          "title": "US debt crosses $40tn but everyone still trusts Uncle Sam. But for how long?",
-          "link": "https://timesofindia.indiatimes.com/world/us/us-debt-crosses-40-trillion-but-everyone-still-trusts-uncle-sam-but-for-how-long/articleshow/133382668.cms",
+          "title": "Delimitation, NEET &amp; Cauvery: What Tamil Nadu CM Vijay discussed with Amit Shah",
+          "link": "https://timesofindia.indiatimes.com/india/delimitation-neet-and-cauvery-what-tamil-nadu-cm-vijay-discussed-with-amit-shah/articleshow/133381090.cms",
           "date": "20 Aug 2026",
+          "summary": "Speaking at the 31st meeting of the Southern Zonal Council chaired by Union home minister Amit Shah, Vijay, who is also the council's vice-chairman, sought an assurance from the Centre that states which have successfully stabilised their populations would not…"
+        },
+        {
+          "title": "US-Iran war brings Air India Group's international carriage down 35%, IndiGo's 15.4%",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/us-iran-war-brings-air-india-groups-international-carriage-down-35-indigos-15-4/articleshow/133387543.cms",
+          "date": "21 Aug 2026",
           "summary": ""
+        },
+        {
+          "title": "For 1st time in a decade, India to import 10 lakh tonnes of sugar",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/for-1st-time-in-a-decade-india-to-import-10-lakh-tonnes-of-sugar/articleshow/133387518.cms",
+          "date": "21 Aug 2026",
+          "summary": "Faces Possible 20% Decline In Opening Stock Of Sweetener"
+        },
+        {
+          "title": "8-0 becomes 8-1: 'Impatient' PV Sindhu falls to cramping Wang Zhi Yi in epic duel",
+          "link": "https://timesofindia.indiatimes.com/sports/badminton/8-0-becomes-8-1-impatient-pv-sindhu-falls-to-cramping-wang-zhi-yi-in-epic-duel/articleshow/133383425.cms",
+          "date": "20 Aug 2026",
+          "summary": "PV Sindhu's World Championships campaign ended in controversy as Wang Zhi Yi overcame cramps, a hostile Delhi crowd and the five-time medallist to snap her unbeaten record against Chinese shuttlers at the Worlds. Ayush Shetty also bowed out, while Treesa Jolly…"
+        },
+        {
+          "title": "'Can Standard 6 be spared 3-language plan this year?' asks SC",
+          "link": "https://timesofindia.indiatimes.com/india/can-standard-6-be-spared-3-language-plan-this-year-asks-sc/articleshow/133387463.cms",
+          "date": "21 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Gates Foundation makes landmark 10-yr donation to Washington University to strengthen ...",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/gates-foundation-makes-landmark-10-year-donation-to-washington-university-to-strengthen-/articleshow/133384916.cms",
+          "date": "20 Aug 2026",
+          "summary": "The Gates Foundation has awarded a significant donation to the University of Washington's health institute. This substantial grant will expand the Global Burden of Disease study's reach. IHME will now cover nearly 5,000 locations, providing more detailed local…"
         },
         {
           "title": "Ex-SC judge Subhash Reddy to lead probe into action on CJP Parliament march",
@@ -214,40 +244,10 @@
           "summary": ""
         },
         {
-          "title": "8-0 becomes 8-1: 'Impatient' PV Sindhu falls to cramping Wang Zhi Yi in epic duel",
-          "link": "https://timesofindia.indiatimes.com/sports/badminton/8-0-becomes-8-1-impatient-pv-sindhu-falls-to-cramping-wang-zhi-yi-in-epic-duel/articleshow/133383425.cms",
+          "title": "Gandhi manuscript fetches Rs 16.2 crore at Saffronart, sets world auction record",
+          "link": "https://timesofindia.indiatimes.com/india/gandhi-manuscript-fetches-rs-16-2-crore-at-saffronart-sets-world-auction-record/articleshow/133366364.cms",
           "date": "20 Aug 2026",
-          "summary": "PV Sindhu's World Championships campaign ended in controversy as Wang Zhi Yi overcame cramps, a hostile Delhi crowd and the five-time medallist to snap her unbeaten record against Chinese shuttlers at the Worlds. Ayush Shetty also bowed out, while Treesa Jolly…"
-        },
-        {
-          "title": "6.6-magnitude earthquake strikes central Peru",
-          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/6-6-magnitude-earthquake-strikes-central-peru/articleshow/133386487.cms",
-          "date": "21 Aug 2026",
           "summary": ""
-        },
-        {
-          "title": "Gates Foundation makes landmark 10-yr donation to Washington University to strengthen ...",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/gates-foundation-makes-landmark-10-year-donation-to-washington-university-to-strengthen-/articleshow/133384916.cms",
-          "date": "20 Aug 2026",
-          "summary": "The Gates Foundation has awarded a significant donation to the University of Washington's health institute. This substantial grant will expand the Global Burden of Disease study's reach. IHME will now cover nearly 5,000 locations, providing more detailed local…"
-        },
-        {
-          "title": "US ambassador Sergio Gor in Ladakh, goes river rafting along Zanskar-Indus stretch",
-          "link": "https://timesofindia.indiatimes.com/india/us-ambassador-sergio-gor-in-ladakh-goes-river-rafting-along-zanskar-indus-stretch/articleshow/133387083.cms",
-          "date": "21 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Why UP's 'Aadhi Aabadi' matters more than ever in 2027 assembly election",
-          "link": "https://timesofindia.indiatimes.com/india/battle-for-ups-aadhi-aabadi-why-parties-are-wooing-women-voters-like-never-before-ahead-of-2027-polls/articleshow/133377404.cms",
-          "date": "20 Aug 2026",
-          "summary": "Uttar Pradesh elections now prioritize women voters, who are a significant electoral force. Women's turnout has consistently surpassed men's in recent polls. Parties are actively wooing women with welfare schemes and cash transfers. Both the BJP and Samajwadi…"
-        },
-        {
-          "title": "H-1B visa reality for Indians: Unpredictable costs, tougher odds &amp; greater risks",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/trumps-new-h-1b-visa-reality-for-indians-unpredictable-costs-tougher-odds-greater-risks/articleshow/133375447.cms",
-          "date": "20 Aug 2026",
-          "summary": "H-1B visas have long been the main road for Indian professionals who are seeking employment, long-term career opportunities, and eventually even the green card in the US. But over the past two years, several changes in the H-1B visa application and selection c…"
         },
         {
           "title": "How an ex-Buddhist monk &amp; Meta engineer founded a startup that now rivals Accenture",
@@ -256,22 +256,22 @@
           "summary": "Lilly Chen, a former Buddhist monk and Meta software engineer, founded Contenda after a hackathon. She and three friends turned a pandemic-era project into a successful startup. The company focuses on helping businesses repurpose technical content effectively.…"
         },
         {
-          "title": "Seoul's Arctic shipping test with Russia angers Europe seeking to isolate Moscow",
-          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/seouls-arctic-shipping-test-with-russia-angers-europe-seeking-to-isolate-moscow/articleshow/133377644.cms",
-          "date": "20 Aug 2026",
+          "title": "6.6-magnitude earthquake strikes central Peru",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/6-6-magnitude-earthquake-strikes-central-peru/articleshow/133386487.cms",
+          "date": "21 Aug 2026",
           "summary": ""
         },
         {
-          "title": "New Mexico trout restoration brings native fish back to 120 miles of streams",
-          "link": "https://timesofindia.indiatimes.com/science/in-2002-new-mexico-began-one-of-americas-largest-native-fish-restoration-projects-more-than-two-decades-later-rio-grande-cutthroat-trout-had-returned-to-120-miles-of-streams/articleshow/133384198.cms",
+          "title": "In the 1970s, man bought part of Washington island; now he's its only resident",
+          "link": "https://timesofindia.indiatimes.com/world/us/in-the-1970s-marty-bluewater-bought-a-small-piece-of-a-washington-island-planned-for-800-homes-decades-later-the-entire-400-acre-island-is-a-wildlife-refuge-and-he-is-its-only-resident/articleshow/133366474.cms",
           "date": "20 Aug 2026",
-          "summary": "A significant conservation initiative has successfully reinstated native trout species across more than 120 miles of streams by eliminating non-native predators and restoring habitats in two states. The reintroduction of the Rio Grande cutthroat trout has led…"
+          "summary": "Protection Island in Washington was once planned as a holiday community with 800 homes. Marty Bluewater bought a piece of the island in the 1970s, but conservationists later fought to protect its important wildlife habitat. In 1982, the entire 400-acre island…"
         },
         {
-          "title": "Australian farmer reversed land clearing; 24 bird species now stay year-round",
-          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/about-30-years-ago-an-australian-farmer-began-restoring-land-he-had-once-cleared-after-his-children-told-him-to-protect-nature-today-24-bird-species-live-on-his-farm-year-round/articleshow/133371396.cms",
-          "date": "20 Aug 2026",
-          "summary": "About three decades ago, King Island farmer Fred Perry began changing the way he managed his land after his children urged him to protect the environment. Once known for clearing native vegetation, Perry and his wife Shona began fencing and replanting parts of…"
+          "title": "Engineer built Ozarks hillside home in 1970; son restores it 50 years later",
+          "link": "https://timesofindia.indiatimes.com/world/us/a-missouri-engineer-bought-remote-ozarks-land-in-1970-and-slowly-built-a-reinforced-concrete-home-into-the-hillside-more-than-50-years-later-his-son-is-restoring-it-room-by-room/articleshow/133354448.cms",
+          "date": "19 Aug 2026",
+          "summary": "A Missouri engineer spent years carving an underground home into an Ozarks hillside, building it largely by hand without an architect. Designed to resemble a natural cave, the property features steel-reinforced concrete, an earth-based ventilation system, heav…"
         },
         {
           "title": "Canadian wildfires cut solar power by 6.38 TWh, caused $1.9bn loss in 2023",
@@ -280,22 +280,22 @@
           "summary": "Wildfire smoke significantly reduced solar power generation across North America and Europe. This reduction caused substantial economic losses and increased carbon emissions. Other air pollution sources like automobiles also impact solar panel productivity. Wi…"
         },
         {
-          "title": "Houses damaged in Jammu village subsidence; families take shelter in tents",
-          "link": "https://timesofindia.indiatimes.com/india/houses-damaged-in-jammu-village-subsidence-families-take-shelter-in-tents/articleshow/133386869.cms",
+          "title": "US ambassador Sergio Gor in Ladakh, goes river rafting along Zanskar-Indus stretch",
+          "link": "https://timesofindia.indiatimes.com/india/us-ambassador-sergio-gor-in-ladakh-goes-river-rafting-along-zanskar-indus-stretch/articleshow/133387083.cms",
           "date": "21 Aug 2026",
           "summary": ""
         },
         {
-          "title": "Govt announces panchayat poll process in Ladakh to fill ‘democratic vacuum'",
-          "link": "https://timesofindia.indiatimes.com/india/govt-announces-panchayat-poll-process-in-ladakh-to-fill-democratic-vacuum-district-council-polls-next/articleshow/133386974.cms",
-          "date": "21 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Man posing as transgender sexually assaults air hostess on pretext of 'curing evil eye'",
-          "link": "https://timesofindia.indiatimes.com/city/mumbai/man-posing-as-transgender-enters-mumbai-flat-rapes-air-hostess-on-pretext-of-curing-evil-eye/articleshow/133383052.cms",
+          "title": "ABVP, Left-leaning student groups clash on Jadavpur University campus; several injured",
+          "link": "https://timesofindia.indiatimes.com/city/kolkata/abvp-left-leaning-student-groups-clash-on-jadavpur-university-campus-several-injured/articleshow/133366759.cms",
           "date": "20 Aug 2026",
-          "summary": "A 25-year-old air hostess was sexually assaulted after a man gained entry to her flat. The accused impersonated a transgender person and claimed to perform a ritual for warding off evil. Police arrested Anil Shinde, 28, within four hours after tracing his move…"
+          "summary": "A clash erupted between ABVP and Left student groups at Jadavpur University early Thursday. Several students sustained injuries during the confrontation, with some requiring hospital treatment. The confrontation reportedly began over a student union meeting an…"
+        },
+        {
+          "title": "SC upholds broad definition of industry, only for pending cases",
+          "link": "https://timesofindia.indiatimes.com/india/sc-upholds-broad-definition-of-industry-only-for-pending-cases/articleshow/133387373.cms",
+          "date": "21 Aug 2026",
+          "summary": ""
         },
         {
           "title": "Patrick Mahomes’ injury update raises fresh concerns ahead of Chiefs’ new season",
@@ -314,6 +314,42 @@
           "link": "https://timesofindia.indiatimes.com/sports/nfl/news/his-brain-is-operating-on-another-plane-fernando-mendozas-words-after-las-vegas-raiders-loss-sparks-chaos/articleshow/133379453.cms",
           "date": "20 Aug 2026",
           "summary": "Fernando Mendoza's words after the Las Vegas Raiders lost to the Arizona Cardinals has sparked chaos as many feel he is a \"corporate professional\"."
+        },
+        {
+          "title": "Why UP's 'Aadhi Aabadi' matters more than ever in 2027 assembly election",
+          "link": "https://timesofindia.indiatimes.com/india/battle-for-ups-aadhi-aabadi-why-parties-are-wooing-women-voters-like-never-before-ahead-of-2027-polls/articleshow/133377404.cms",
+          "date": "20 Aug 2026",
+          "summary": "Uttar Pradesh elections now prioritize women voters, who are a significant electoral force. Women's turnout has consistently surpassed men's in recent polls. Parties are actively wooing women with welfare schemes and cash transfers. Both the BJP and Samajwadi…"
+        },
+        {
+          "title": "H-1B visa reality for Indians: Unpredictable costs, tougher odds &amp; greater risks",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/trumps-new-h-1b-visa-reality-for-indians-unpredictable-costs-tougher-odds-greater-risks/articleshow/133375447.cms",
+          "date": "20 Aug 2026",
+          "summary": "H-1B visas have long been the main road for Indian professionals who are seeking employment, long-term career opportunities, and eventually even the green card in the US. But over the past two years, several changes in the H-1B visa application and selection c…"
+        },
+        {
+          "title": "Seoul's Arctic shipping test with Russia angers Europe seeking to isolate Moscow",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/seouls-arctic-shipping-test-with-russia-angers-europe-seeking-to-isolate-moscow/articleshow/133377644.cms",
+          "date": "20 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Houses damaged in Jammu village subsidence; families take shelter in tents",
+          "link": "https://timesofindia.indiatimes.com/india/houses-damaged-in-jammu-village-subsidence-families-take-shelter-in-tents/articleshow/133386869.cms",
+          "date": "21 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Govt announces panchayat poll process in Ladakh to fill ‘democratic vacuum'",
+          "link": "https://timesofindia.indiatimes.com/india/govt-announces-panchayat-poll-process-in-ladakh-to-fill-democratic-vacuum-district-council-polls-next/articleshow/133386974.cms",
+          "date": "21 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Man posing as transgender sexually assaults air hostess on pretext of 'curing evil eye'",
+          "link": "https://timesofindia.indiatimes.com/city/mumbai/man-posing-as-transgender-enters-mumbai-flat-rapes-air-hostess-on-pretext-of-curing-evil-eye/articleshow/133383052.cms",
+          "date": "20 Aug 2026",
+          "summary": "A 25-year-old air hostess was sexually assaulted after a man gained entry to her flat. The accused impersonated a transgender person and claimed to perform a ritual for warding off evil. Police arrested Anil Shinde, 28, within four hours after tracing his move…"
         },
         {
           "title": "After Rana’s demise, Oly medallist Manu forging new bonds with Serbian coach",
@@ -338,42 +374,6 @@
           "link": "https://timesofindia.indiatimes.com/sports/cricket/news/joe-root-equals-sachin-tendulkars-record-for-most-fifties-in-test-cricket/articleshow/133383152.cms",
           "date": "20 Aug 2026",
           "summary": "Joe Root achieved a significant milestone by equaling Sachin Tendulkar's record for most Test half-centuries. He scored his 68th fifty during England's first Test against Pakistan at Headingley. Root and Cox built a crucial partnership to give England a first-…"
-        },
-        {
-          "title": "'Deceived, new fight begins': J'khand students after HC stays exam cancellation order",
-          "link": "https://timesofindia.indiatimes.com/india/deceived-new-fight-begins-jharkhand-students-after-hc-stays-exam-cancellation-order/articleshow/133382412.cms",
-          "date": "20 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "2.98 lakh URLs sent for takedown; I4C flags scams, CSAM and other unlawful content",
-          "link": "https://timesofindia.indiatimes.com/india/2-98-lakh-urls-sent-for-takedown-i4c-flags-scams-csam-and-other-unlawful-content/articleshow/133382763.cms",
-          "date": "20 Aug 2026",
-          "summary": "Government departments requested removal of nearly 2.98 lakh URLs from social media platforms. States accounted for the majority of these takedown requests, sending 2.44 lakh URLs. The Indian Cyber Crime Coordination Centre flagged over 51,000 URLs related to…"
-        },
-        {
-          "title": "Hockey World Cup: India hold England to goalless draw, seal second-round spot",
-          "link": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/hockey-world-cup-india-hold-england-to-goalless-draw-seal-second-round-spot-in-dramatic-finish/articleshow/133381475.cms",
-          "date": "20 Aug 2026",
-          "summary": "India advanced to the second round of the Women's Hockey World Cup after a tense draw. They held England to a 0-0 score, securing second place in their group. China topped Pool D with seven points, while England was eliminated from the competition. India's goa…"
-        },
-        {
-          "title": "India eases rupee trade rules, provides exporters alternative; what it means",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/india-eases-rupee-trade-rules-provides-exporters-alternative-to-dollar-settlements-what-it-means/articleshow/133382656.cms",
-          "date": "20 Aug 2026",
-          "summary": "Economic think tank Global Trade Research Initiative (GTRI) said the change means eligible rupee payments for exports to countries other than Nepal and Bhutan will now qualify for FTP benefits and can also be counted towards meeting export obligations."
-        },
-        {
-          "title": "Delimitation, NEET &amp; Cauvery: What Tamil Nadu CM Vijay discussed with Amit Shah",
-          "link": "https://timesofindia.indiatimes.com/india/delimitation-neet-and-cauvery-what-tamil-nadu-cm-vijay-discussed-with-amit-shah/articleshow/133381090.cms",
-          "date": "20 Aug 2026",
-          "summary": "Speaking at the 31st meeting of the Southern Zonal Council chaired by Union home minister Amit Shah, Vijay, who is also the council's vice-chairman, sought an assurance from the Centre that states which have successfully stabilised their populations would not…"
-        },
-        {
-          "title": "Premier League 2026/27: Everything you need to know ahead of the new season",
-          "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/premier-league-2026/27-everything-you-need-to-know-ahead-of-the-new-season/articleshow/133382066.cms",
-          "date": "20 Aug 2026",
-          "summary": "The 2026/27 Premier League season begins with Arsenal defending their title and three promoted clubs returning to the top flight. With nine English clubs competing in Europe, another fiercely contested title race and battles for European qualification and surv…"
         }
       ]
     },
@@ -1152,6 +1152,12 @@
       "ok": true,
       "items": [
         {
+          "title": "Ukrainian Publishers Call For Support After Russian Attacks Destroy 10 Million Books",
+          "link": "https://news.slashdot.org/story/26/08/20/201221/ukrainian-publishers-call-for-support-after-russian-attacks-destroy-10-million-books?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "20 Aug 2026",
+          "summary": "Russian attacks on Ukrainian publishing infrastructure in July and August destroyed roughly 10 million books, which equates to about 30% of Ukraine's annual book output. The Ukrainian Book Institute is warning of a potential \"collapse of the entire book ecosys…"
+        },
+        {
           "title": "Voters Aren't Waiting For November to Try Ousting Officials Over Data Centers",
           "link": "https://politics.slashdot.org/story/26/08/20/1951246/voters-arent-waiting-for-november-to-try-ousting-officials-over-data-centers?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "20 Aug 2026",
@@ -1234,12 +1240,6 @@
           "link": "https://it.slashdot.org/story/26/08/19/1729241/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "19 Aug 2026",
           "summary": "CISA says the Medusa ransomware operation has breached more than 500 U.S. critical infrastructure organizations since 2021, up from more than 300 reported last year. The group has targeted healthcare, government, defense, manufacturing, IT and financial organi…"
-        },
-        {
-          "title": "Moderna, Merck Say mRNA Vaccine Prevents Melanoma From Returning",
-          "link": "https://science.slashdot.org/story/26/08/19/1725205/moderna-merck-say-mrna-vaccine-prevents-melanoma-from-returning?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "19 Aug 2026",
-          "summary": "Moderna and Merck say their personalized mRNA melanoma vaccine significantly reduced both cancer recurrence and spread in a late-stage trial. The treatment could reach patients as soon as next year if regulators approve it. Reuters reports: Moderna developed t…"
         }
       ]
     },
@@ -1630,184 +1630,184 @@
       "ok": true,
       "items": [
         {
-          "title": "ainir added to PyPI",
-          "link": "https://pypi.org/project/ainir/",
+          "title": "equities-classifier added to PyPI",
+          "link": "https://pypi.org/project/equities-classifier/",
           "date": "20 Aug 2026",
-          "summary": "AiNIR v1.0 RC candidate public demo: inspecting AI-generated program semantics before lowering or execution."
+          "summary": "Package to retrieve sector/industry assignments based on a flexible connector architecture for different data sources"
         },
         {
-          "title": "lst-ai added to PyPI",
-          "link": "https://pypi.org/project/lst-ai/",
+          "title": "awesome-multimodal-retrieval added to PyPI",
+          "link": "https://pypi.org/project/awesome-multimodal-retrieval/",
           "date": "20 Aug 2026",
-          "summary": "Lesion Segmentation Toolbox AI"
+          "summary": "Curated list of models, vector stores and benchmarks for image and text retrieval"
         },
         {
-          "title": "scad123d added to PyPI",
-          "link": "https://pypi.org/project/scad123d/",
+          "title": "sockrates added to PyPI",
+          "link": "https://pypi.org/project/sockrates/",
           "date": "20 Aug 2026",
-          "summary": "Import OpenSCAD files as native build123d BRep geometry, via OpenSCAD's flattened CSG export"
+          "summary": "Find open SOCKS5 proxies and make every one of them prove it works — Telegram included"
         },
         {
-          "title": "certops-cli added to PyPI",
-          "link": "https://pypi.org/project/certops-cli/",
+          "title": "embodied-sync added to PyPI",
+          "link": "https://pypi.org/project/embodied-sync/",
           "date": "20 Aug 2026",
-          "summary": "CertOps CLI — The AI Quality Assurance Gatekeeper"
+          "summary": "Compatibility, replay, alignment, and sync-quality validation layer for robot-learning data."
         },
         {
-          "title": "pyPhoneApi added to PyPI",
-          "link": "https://pypi.org/project/pyphoneapi/",
+          "title": "secaudit-kit added to PyPI",
+          "link": "https://pypi.org/project/secaudit-kit/",
           "date": "20 Aug 2026",
-          "summary": "Async Python library for phone number lookup, validation and formatting, built on aiohttp and phonenumbers."
+          "summary": "Self-running, provider-agnostic security audit — deterministic Tier-0 core plus optional pluggable LLM enrichment (Claude/OpenAI/Ollama). Not tied to Claude."
         },
         {
-          "title": "nodemaven added to PyPI",
-          "link": "https://pypi.org/project/nodemaven/",
+          "title": "cleverfeets added to PyPI",
+          "link": "https://pypi.org/project/cleverfeets/",
           "date": "20 Aug 2026",
-          "summary": "Build and validate proxy connection strings. No transport, no retries."
+          "summary": "Software for understanding the digital estate."
         },
         {
-          "title": "keeporswap added to PyPI",
-          "link": "https://pypi.org/project/keeporswap/",
+          "title": "voice-agent-eval added to PyPI",
+          "link": "https://pypi.org/project/voice-agent-eval/",
           "date": "20 Aug 2026",
-          "summary": "Conservative cross-stack fit scanner — swap, keep, or insufficient evidence"
+          "summary": "Post-call evaluation for voice agents using audio and transcript signals."
         },
         {
-          "title": "houseofapps added to PyPI",
-          "link": "https://pypi.org/project/houseofapps/",
+          "title": "bluemangoscorekeeper added to PyPI",
+          "link": "https://pypi.org/project/bluemangoscorekeeper/",
           "date": "20 Aug 2026",
-          "summary": "Official Python SDK for the House of Apps API"
+          "summary": "A simple Python scorekeeper for different games"
         },
         {
-          "title": "lexhint added to PyPI",
-          "link": "https://pypi.org/project/lexhint/",
+          "title": "debabble added to PyPI",
+          "link": "https://pypi.org/project/debabble/",
           "date": "20 Aug 2026",
-          "summary": "Compact lexical and dictionary-derived context hints for text normalization"
+          "summary": "Install curated no-AI-speak writing rules into your AI coding tools"
         },
         {
-          "title": "hitl-guardrail added to PyPI",
-          "link": "https://pypi.org/project/hitl-guardrail/",
+          "title": "opentranscription added to PyPI",
+          "link": "https://pypi.org/project/opentranscription/",
           "date": "20 Aug 2026",
-          "summary": "A human-in-the-loop policy guardrail for LLM / AI-agent actions — approve, escalate, or reject with an auditable reason and risk score."
+          "summary": "Typed client for the OpenTranscription API: upload, transcribe, poll, and read results."
         },
         {
-          "title": "rover-sim added to PyPI",
-          "link": "https://pypi.org/project/rover-sim/",
+          "title": "reactionstudio added to PyPI",
+          "link": "https://pypi.org/project/reactionstudio/",
           "date": "20 Aug 2026",
-          "summary": "Hybrid BNGsim + StochMod simulation engine"
+          "summary": "Python client API for ReactionStudio"
         },
         {
-          "title": "roman-snpit-campari added to PyPI",
-          "link": "https://pypi.org/project/roman-snpit-campari/",
+          "title": "monsterops-compliance added to PyPI",
+          "link": "https://pypi.org/project/monsterops-compliance/",
           "date": "20 Aug 2026",
-          "summary": "Scene modelling photometry for Roman Supernova PIT"
+          "summary": "Configuration-compliance / drift plugin for MonsterOps — checks managed NAS devices against operational policies."
         },
         {
-          "title": "steam-library-size added to PyPI",
-          "link": "https://pypi.org/project/steam-library-size/",
+          "title": "lean-ctx-python added to PyPI",
+          "link": "https://pypi.org/project/lean-ctx-python/",
           "date": "20 Aug 2026",
-          "summary": "How big would your Steam library be if you installed every game? Computed locally - no API key, no public profile needed."
+          "summary": "SDK for lean-ctx — context compression and execution evidence for AI agents"
         },
         {
-          "title": "modelstamp added to PyPI",
-          "link": "https://pypi.org/project/modelstamp/",
+          "title": "zero-sum-sequences added to PyPI",
+          "link": "https://pypi.org/project/zero-sum-sequences/",
           "date": "20 Aug 2026",
-          "summary": "Save ML models with integrity checks and reproducible environment manifests."
+          "summary": "Computations with additive and zero-sum sequences"
         },
         {
-          "title": "NPing added to PyPI",
-          "link": "https://pypi.org/project/nping/",
+          "title": "engin-protein added to PyPI",
+          "link": "https://pypi.org/project/engin-protein/",
           "date": "20 Aug 2026",
-          "summary": "NPing utility: ping, traceroute, ARP-scan, ping sweep, мониторинг и логирование"
+          "summary": "Name reservation for engin-protein - the real package lives in the engin-suite repository."
         },
         {
-          "title": "edutap.esc-router-api added to PyPI",
-          "link": "https://pypi.org/project/edutap-esc-router-api/",
+          "title": "engin-pathway added to PyPI",
+          "link": "https://pypi.org/project/engin-pathway/",
           "date": "20 Aug 2026",
-          "summary": "Async client library for the European Student Card Router REST API"
+          "summary": "Name reservation for engin-pathway - the real package lives in the engin-suite repository."
         },
         {
-          "title": "cedula-do-validator added to PyPI",
-          "link": "https://pypi.org/project/cedula-do-validator/",
+          "title": "hydraclaim added to PyPI",
+          "link": "https://pypi.org/project/hydraclaim/",
           "date": "20 Aug 2026",
-          "summary": "None"
+          "summary": "Conflict-aware temporal memory for AI agents, built on HydraDB."
         },
         {
-          "title": "torch-cuda-kernel-inspector added to PyPI",
-          "link": "https://pypi.org/project/torch-cuda-kernel-inspector/",
+          "title": "pre-commit-pygrep-txt added to PyPI",
+          "link": "https://pypi.org/project/pre-commit-pygrep-txt/",
           "date": "20 Aug 2026",
-          "summary": "Zero version placeholder for torch_cuda_kernel_inspector"
+          "summary": "tool for pre-commit hooks: grep-like finder using Python regexes, operating on bytes by default or decoded codepoints with --encoding."
         },
         {
-          "title": "piimask added to PyPI",
-          "link": "https://pypi.org/project/piimask/",
+          "title": "trustmcp added to PyPI",
+          "link": "https://pypi.org/project/trustmcp/",
           "date": "20 Aug 2026",
-          "summary": "Reversible PII masking and unmasking for the LLM era — anonymize text before it reaches a model, then restore the real values in the reply."
+          "summary": "Security scanner for MCP (Model Context Protocol) servers: static (SAST), dynamic (live), and authentication-posture analysis, with an A-F score and SARIF output for the GitHub Security tab."
         },
         {
-          "title": "epires added to PyPI",
-          "link": "https://pypi.org/project/epires/",
+          "title": "vmon added to PyPI",
+          "link": "https://pypi.org/project/vmon/",
           "date": "20 Aug 2026",
-          "summary": "Epistemic Auto-Research Harness: VSA Hypergraph, Hypothesis Falsification DAG, Automated Tracing & MCP"
+          "summary": "Thin Python SDK for the Rust vmon API"
         },
         {
-          "title": "PicoMats added to PyPI",
-          "link": "https://pypi.org/project/picomats/",
+          "title": "jupyterlab-unsafe-globals added to PyPI",
+          "link": "https://pypi.org/project/jupyterlab-unsafe-globals/",
           "date": "20 Aug 2026",
-          "summary": "A unit-informed, assumption-driven material ontology."
+          "summary": "Expose the classic Notebook globals (Jupyter, IPython) on the window, for JupyterLab and Jupyter Notebook"
         },
         {
-          "title": "fastlabelcontours added to PyPI",
-          "link": "https://pypi.org/project/fastlabelcontours/",
+          "title": "awow added to PyPI",
+          "link": "https://pypi.org/project/awow/",
           "date": "20 Aug 2026",
-          "summary": "Fast direct contour extraction from integer label images."
+          "summary": "Agentic Way of Working — board-first delivery workflows for coding agents"
         },
         {
-          "title": "baisitong2 added to PyPI",
-          "link": "https://pypi.org/project/baisitong2/",
+          "title": "lsw-directory-walker added to PyPI",
+          "link": "https://pypi.org/project/lsw-directory-walker/",
           "date": "20 Aug 2026",
-          "summary": "民情直通车2 —— 民情诉求智能分析与智能派单系统(AI+社会治理):FastAPI + 双引擎语义分析 + 智能派单 + 工单状态机 + SLA 监管"
+          "summary": "LSW: List Walker, an enhanced ls-inspired directory scanner and report generator"
         },
         {
-          "title": "inreach added to PyPI",
-          "link": "https://pypi.org/project/inreach/",
+          "title": "doc-zero added to PyPI",
+          "link": "https://pypi.org/project/doc-zero/",
           "date": "20 Aug 2026",
-          "summary": "Python tooling to help improve the Halo Reach scripting experience."
+          "summary": "Zero-configuration documentation generator for Python."
         },
         {
-          "title": "scan-pdf-cleaner-cli added to PyPI",
-          "link": "https://pypi.org/project/scan-pdf-cleaner-cli/",
+          "title": "juntai-iam-contracts added to PyPI",
+          "link": "https://pypi.org/project/juntai-iam-contracts/",
           "date": "20 Aug 2026",
-          "summary": "Automatically detect and remove blank pages, and crop margins from scanned PDFs."
+          "summary": "Language-neutral schemas and conformance fixtures for Juntai peer-principal IAM"
         },
         {
-          "title": "pdf-table-extractor-cli added to PyPI",
-          "link": "https://pypi.org/project/pdf-table-extractor-cli/",
+          "title": "openopc-shadow-adapter added to PyPI",
+          "link": "https://pypi.org/project/openopc-shadow-adapter/",
           "date": "20 Aug 2026",
-          "summary": "Extract structured tables from PDF files into editable Excel (XLSX) or CSV."
+          "summary": "Zero-modification Human-in-the-Loop adapter for OpenOPC's agentic DAG runtime. Park work items for human review. Resume execution automatically."
         },
         {
-          "title": "r2mcp added to PyPI",
-          "link": "https://pypi.org/project/r2mcp/",
+          "title": "gamma-sigma added to PyPI",
+          "link": "https://pypi.org/project/gamma-sigma/",
           "date": "20 Aug 2026",
-          "summary": "CLI para gestao de servidores MCP via rest2mcp gateway"
+          "summary": "GAMMA-Σ: governed online dictionary-learning substrate — streaming novelty discovery with calibrated detection channels"
         },
         {
-          "title": "agent-transcripts added to PyPI",
-          "link": "https://pypi.org/project/agent-transcripts/",
+          "title": "shopify-auth-adapter added to PyPI",
+          "link": "https://pypi.org/project/shopify-auth-adapter/",
           "date": "20 Aug 2026",
-          "summary": "Capture coding-agent transcripts to disk and expose them as SQL."
+          "summary": "Shopify Admin API authentication adapter — Client Credentials Grant with automatic token refresh"
         },
         {
-          "title": "kapro added to PyPI",
-          "link": "https://pypi.org/project/kapro/",
+          "title": "vand added to PyPI",
+          "link": "https://pypi.org/project/vand/",
           "date": "20 Aug 2026",
-          "summary": "kapro"
+          "summary": "Materialize and pin source instances; origins.lock provenance and source.yml manifests."
         },
         {
-          "title": "harness-baby added to PyPI",
-          "link": "https://pypi.org/project/harness-baby/",
+          "title": "coppeliasim-mcp added to PyPI",
+          "link": "https://pypi.org/project/coppeliasim-mcp/",
           "date": "20 Aug 2026",
-          "summary": "Experimental CLI to bootstrap and score a repository harness for coding agents"
+          "summary": "MCP server to drive CoppeliaSim 4.10 from Claude Code and other MCP clients, without exposing arbitrary Lua execution"
         }
       ]
     }
