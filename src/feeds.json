@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-21T14:25:27Z",
+  "generated": "2026-08-21T15:23:54Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,12 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "US stocks: US market rebounds, but yield surge sets stage for weekly losses",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-but-weekly-losses-loom/articleshow/133406374.cms",
+          "date": "21 Aug 2026",
+          "summary": "Major Wall Street indexes opened higher on Friday after significant declines. The Dow Jones Industrial Average saw a slight increase at the opening. The S&P 500 also experienced a rise in its opening figures. The Nasdaq Composite index registered a notable gai…"
+        },
         {
           "title": "Hindustan Copper shares jump 4%. What’s driving the rally?",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-copper-shares-jump-4-whats-driving-the-rally/articleshow/133394956.cms",
@@ -36,12 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/railtel-shares-rise-4-after-securing-rs-165-crore-order-from-western-coalfields/articleshow/133393761.cms",
           "date": "21 Aug 2026",
           "summary": "RailTel Corporation of India shares gained nearly 4% after the company secured a Rs 164.79 crore work order from Western Coalfields Limited, taking its August order wins to five worth around Rs 551.44 crore. The latest contract involves setting up an MPLS VPN…"
-        },
-        {
-          "title": "Hindustan Zinc shares jump 7% in two sessions. What’s triggering the rally?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-zinc-shares-jump-7-in-two-sessions-whats-triggering-the-rally/articleshow/133393717.cms",
-          "date": "21 Aug 2026",
-          "summary": "Hindustan Zinc shares rose 4% as silver prices climbed for a third straight session, taking the stock’s two-day gain to 7%. The company, one of the world’s leading silver producers, continues to benefit from strong fundamentals and a favourable outlook for the…"
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -196,10 +196,16 @@
       "ok": true,
       "items": [
         {
-          "title": "Maharashtra teen jumps off cliff, parents fall to death trying to save him",
-          "link": "https://timesofindia.indiatimes.com/city/aurangabad/teen-jumps-off-cliff-after-family-dispute-father-falls-trying-to-pull-him-back-mother-follows/articleshow/133403138.cms",
+          "title": "Two tankers with 22 Indians on board hijacked by pirates off Yemen, Somalia",
+          "link": "https://timesofindia.indiatimes.com/india/two-tankers-with-22-indians-on-board-hijacked-by-armed-pirates-off-yemen-somalia/articleshow/133404408.cms",
           "date": "21 Aug 2026",
-          "summary": "A family of three tragically died after falling into a deep stone quarry on Friday. The incident occurred when parents attempted to save their son from a dangerous cliff edge. Police and fire brigade personnel were present and had been trying to persuade the y…"
+          "summary": ""
+        },
+        {
+          "title": "Crowd-funded anti-bribery portal shuts after amassing 2 lakh users in 48 hrs",
+          "link": "https://timesofindia.indiatimes.com/india/crowd-funded-anti-bribery-portal-shuts-after-amassing-2-lakh-users-in-48-hrs/articleshow/133407389.cms",
+          "date": "21 Aug 2026",
+          "summary": ""
         },
         {
           "title": "The invisible war: Iran's evolving cyberattacks bring battlefront to small-town America",
@@ -208,10 +214,10 @@
           "summary": "The escalation of Iran's cyber capabilities in its ongoing tensions with the US and Israel is becoming increasingly pronounced. Recent intrusions into US water facilities mark a transition into a new blend of warfare. These digital strikes bolster military ini…"
         },
         {
-          "title": "'Being Pullela Gopichand's daughter is a big baggage': Coach B Sumeeth Reddy",
-          "link": "https://timesofindia.indiatimes.com/sports/badminton/being-pullela-gopichands-daughter-is-a-big-baggage-coach-b-sumeeth-reddy/articleshow/133405850.cms",
+          "title": "FIFA bans Leandro Paredes for 10 matches over World Cup final scuffle",
+          "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/fifa-bans-leandro-paredes-for-10-matches-over-world-cup-final-scuffle/articleshow/133407694.cms",
           "date": "21 Aug 2026",
-          "summary": "Player-turned-coach Sumeeth Reddy says Gayatri Gopichand's maiden World Championships medal is more than a podium finish. It's the release of years of expectation carried as the daughter of Indian badminton legend and national coach Pullela Gopichand. The team…"
+          "summary": "Argentina midfielder Leandro Paredes has been handed a 10-match ban by FIFA following a scuffle with Spain players moments after the World Cup final. Paredes received the longest suspension among three Argentina players punished for the incident. The sanctions…"
         },
         {
           "title": "'FIR only after Shah's OK': Rahul on case lodged over protester's pellet injury",
@@ -226,8 +232,98 @@
           "summary": "Meta CEO, Mark Zuckerberg, and his wife, Priscilla Chan, have acquired the historic Strancally Castle, a stunning Gothic mansion set on an expansive estate in Ireland. This remarkable property will serve as their home base during visits to the nation, which is…"
         },
         {
-          "title": "Two tankers with 22 Indians on board hijacked by pirates off Yemen, Somalia",
-          "link": "https://timesofindia.indiatimes.com/india/two-tankers-with-22-indians-on-board-hijacked-by-armed-pirates-off-yemen-somalia/articleshow/133404408.cms",
+          "title": "Maharashtra teen jumps off cliff, parents fall to death trying to save him",
+          "link": "https://timesofindia.indiatimes.com/city/aurangabad/teen-jumps-off-cliff-after-family-dispute-father-falls-trying-to-pull-him-back-mother-follows/articleshow/133403138.cms",
+          "date": "21 Aug 2026",
+          "summary": "A family of three tragically died after falling into a deep stone quarry on Friday. The incident occurred when parents attempted to save their son from a dangerous cliff edge. Police and fire brigade personnel were present and had been trying to persuade the y…"
+        },
+        {
+          "title": "Lip plumpers, collagen &amp; more: How Ozempic is boosting a new beauty market",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/lip-plumpers-collagen-and-more-how-is-ozempic-boosting-a-new-beauty-market/articleshow/133393304.cms",
+          "date": "21 Aug 2026",
+          "summary": "Weight-loss drugs are creating new demands in beauty and nutrition sectors. Companies are developing products to address nutritional gaps and emerging beauty concerns. Nestle and Tata Consumer are preparing protein and fiber-rich offerings for these consumers.…"
+        },
+        {
+          "title": "Zomato founder Deepinder Goyal gives an update on Temple device",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/zomato-founder-deepinder-goyal-gives-an-update-on-temple-device-says-it-is-now-half-the-size-previously-shown/articleshow/133396634.cms",
+          "date": "21 Aug 2026",
+          "summary": "Zomato founder Deepinder Goyal revealed the Temple wearable device is now smaller and more powerful. Pre-orders for the limited launch edition will begin very soon. The device is expected to ship before the end of 2026. PV Sindhu was recently seen wearing the…"
+        },
+        {
+          "title": "'Being Pullela Gopichand's daughter is a big baggage': Coach B Sumeeth Reddy",
+          "link": "https://timesofindia.indiatimes.com/sports/badminton/being-pullela-gopichands-daughter-is-a-big-baggage-coach-b-sumeeth-reddy/articleshow/133405850.cms",
+          "date": "21 Aug 2026",
+          "summary": "Player-turned-coach Sumeeth Reddy says Gayatri Gopichand's maiden World Championships medal is more than a podium finish. It's the release of years of expectation carried as the daughter of Indian badminton legend and national coach Pullela Gopichand. The team…"
+        },
+        {
+          "title": "Family sold 53,000-acre California island for $30m, stayed 25 more years",
+          "link": "https://timesofindia.indiatimes.com/world/us/in-1986-a-ranching-family-sold-californias-53000-acre-santa-rosa-island-to-the-us-for-nearly-30-million-they-retained-about-7-acres-and-the-right-to-stay-for-another-25-years/articleshow/133405130.cms",
+          "date": "21 Aug 2026",
+          "summary": "In 1986, the United States government acquired Santa Rosa Island for close to thirty million dollars. This pivotal purchase marked the end of longstanding private ranching and agricultural practices on the sprawling island. Following the removal of cattle in 1…"
+        },
+        {
+          "title": "US seized California island ranch after $4m offer; jury awarded family $12.7m",
+          "link": "https://timesofindia.indiatimes.com/world/us/the-us-offered-a-california-family-4-million-for-its-6300-acre-island-ranch-after-they-refused-the-government-seized-it-and-a-jury-awarded-them-12-7-million/articleshow/133406806.cms",
+          "date": "21 Aug 2026",
+          "summary": "A federal jury awarded a California family $12.7 million for their Santa Cruz Island ranch. The government had seized the 6,300-acre property using eminent domain in 1996. This verdict concluded a decades-long property dispute between park officials and the Gh…"
+        },
+        {
+          "title": "Govt orders Google to shut down hundreds of Firebase accounts over scam misuse",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/government-orders-google-to-shut-down-hundreds-of-firebase-accounts-after-finding-pattern-of-the-service-being-misused-by-criminals/articleshow/133403273.cms",
+          "date": "21 Aug 2026",
+          "summary": "Indian authorities ordered Google to close hundreds of Firebase accounts. These accounts were exploited by criminals for banking scams and malware. Officials found a pattern of impersonating major banks to defraud users. The Indian Cyber Crime Coordination Cen…"
+        },
+        {
+          "title": "Who pays what in a rental home? Property tax, maintenance and utility bills explained",
+          "link": "https://timesofindia.indiatimes.com/real-estate/news/who-pays-what-in-a-rental-home-property-tax-maintenance-and-utility-bills-explained/articleshow/133402716.cms",
+          "date": "21 Aug 2026",
+          "summary": "In India, property taxes are fundamentally the responsibility of the property owner as per municipal regulations. Meanwhile, utility expenses for water and electricity are usually settled by the tenant who consumes these services. Maintenance fees of housing s…"
+        },
+        {
+          "title": "Mirza Fakhrul Islam Alamgir sworn in as Bangladesh's 23rd President",
+          "link": "https://timesofindia.indiatimes.com/world/south-asia/mirza-fakhrul-islam-alamgir-sworn-in-as-bangladeshs-23rd-president/articleshow/133407208.cms",
+          "date": "21 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Supreme Court closes 'The Kerala Story' petitions, says question of law will 'await another movie'",
+          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/supreme-court-closes-the-kerala-story-petitions-says-question-of-law-will-await-another-movie/articleshow/133407166.cms",
+          "date": "21 Aug 2026",
+          "summary": "The Supreme Court disposed of petitions challenging CBFC's certification of \"The Kerala Story,\" ruling them infructuous since the film had already released, while leaving the broader legal question on certification challenges open. Justice Bagchi said this wou…"
+        },
+        {
+          "title": "Mendoza's 'no girlfriend' vow faces test as Alysa Liu dating rumors swirl",
+          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/fernando-mendozas-no-girlfriend-rule-gets-spicy-as-las-vegas-raiders-qb-sparks-alysa-liu-dating-rumors/articleshow/133403441.cms",
+          "date": "21 Aug 2026",
+          "summary": "Following a triumphant win against the Houston Texans, Raiders quarterback Fernando Mendoza expressed previously that his focus was on football, sidelining romance. However, fans are buzzing about his recent outing with Olympic figure skater Alysa Liu. The duo…"
+        },
+        {
+          "title": "Bold Habs trade pitch for Crosby reignites debate over his future in Pittsburgh",
+          "link": "https://timesofindia.indiatimes.com/sports/nhl/news/will-sidney-crosby-leave-pittsburgh-penguins-montreal-canadiens-trade-proposal-sparks-fresh-nhl-trade-rumors-and-debate/articleshow/133402058.cms",
+          "date": "21 Aug 2026",
+          "summary": "A fresh trade suggestion for Sidney Crosby has the Montreal Canadiens and Pittsburgh Penguins at the center of new NHL trade rumors. Toronto sports host Sid Seixeiro floated a hypothetical trade sending Crosby to Montreal for Michael Hage and a 1st-round pick…"
+        },
+        {
+          "title": "Roman Reigns' net worth edges out Cody Rhodes in 2026 WWE star comparison",
+          "link": "https://timesofindia.indiatimes.com/sports/wwe/top-stories/cody-rhodes-vs-roman-reigns-net-worth-comparison-in-2026-who-is-richer-after-years-of-wwe-success-major-contracts-and-business-opportunities/articleshow/133402701.cms",
+          "date": "21 Aug 2026",
+          "summary": "Through championship reigns, big contracts, merchandise and commercial deals, Cody Rhodes and Roman Reigns have become some of WWE’s biggest assets. Reigns is said to have a net worth bigger than Rhodes in 2026, but no official figures are confirmed. Cody Rhod…"
+        },
+        {
+          "title": "Rajinikanth’s ‘Jailer 2’ peppy song ‘Ala Bolelo’ out, gets fans grooving",
+          "link": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rajinikanths-jailer-2-song-ala-bolelo-out-anirudhs-peppy-number-featuring-shamna-kasim-gets-fans-grooving/articleshow/133407025.cms",
+          "date": "21 Aug 2026",
+          "summary": "The highly anticipated single 'Ala Bolelo' from Jailer 2 has finally dropped. Featuring the legendary Rajinikanth alongside actress Shamna Kasim, the catchy tune boasts an energetic lyrical video. The track is composed and sung by the talented Anirudh Ravichan…"
+        },
+        {
+          "title": "FDA shuts Radio Club, Khar Gymkhana, McDonald's Colaba kitchens over hygiene violations",
+          "link": "https://timesofindia.indiatimes.com/city/mumbai/live-flies-cockroaches-found-in-kitchens-fda-suspends-licences-of-radio-club-mcdonalds-outlet-in-mumbai/articleshow/133405947.cms",
+          "date": "21 Aug 2026",
+          "summary": "The FDA has temporarily revoked licenses for The Bombay Presidency Radio Club and Khar Gymkhana, citing poor waste management and pest control. The kitchen at The Bombay Presidency Radio Club was notably infested with flies and included dead cockroaches, while…"
+        },
+        {
+          "title": "‘Received no help’: Odisha man’s body kept on rooftop for 18 hours amid floods",
+          "link": "https://timesofindia.indiatimes.com/india/received-no-help-odisha-mans-body-kept-on-rooftop-for-18-hours-amid-floods/articleshow/133406872.cms",
           "date": "21 Aug 2026",
           "summary": ""
         },
@@ -244,40 +340,10 @@
           "summary": "Oil products now account for a much larger share of India's exports to several destinations. India has about 258.1 million tonnes of installed refining capacity across 23 refineries. It is the fourth-largest refining centre globally after the US, China and Rus…"
         },
         {
-          "title": "Zomato founder Deepinder Goyal gives an update on Temple device",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/zomato-founder-deepinder-goyal-gives-an-update-on-temple-device-says-it-is-now-half-the-size-previously-shown/articleshow/133396634.cms",
-          "date": "21 Aug 2026",
-          "summary": "Zomato founder Deepinder Goyal revealed the Temple wearable device is now smaller and more powerful. Pre-orders for the limited launch edition will begin very soon. The device is expected to ship before the end of 2026. PV Sindhu was recently seen wearing the…"
-        },
-        {
           "title": "Arjun Rampal marries his girlfriend Gabriella Demetriades in Goa",
           "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/arjun-rampal-marries-his-girlfriend-gabriella-demetriades-in-goa-after-over-six-years-of-togetherness/articleshow/133406191.cms",
           "date": "21 Aug 2026",
           "summary": "On Friday, Arjun Rampal and Gabriella Demetriades took a significant step in their relationship by registering their marriage in Goa. This took place at the Sub-Registrar's office in Mapusa, where they were granted special permission to skip the usual 15-day w…"
-        },
-        {
-          "title": "English town builds swing bridge with recycled plastic bottles in its deck",
-          "link": "https://timesofindia.indiatimes.com/world/uk/an-english-town-installed-a-six-metre-swing-bridge-whose-deck-contains-the-equivalent-of-140-recycled-plastic-bottles-per-square-metre-and-can-be-manually-opened-for-passing-boats/articleshow/133403298.cms",
-          "date": "21 Aug 2026",
-          "summary": "A vibrant addition to an English town's landscape, a six-meter swing bridge constructed from recycled plastic bottles has just been unveiled. This bridge, which opens manually for river traffic, is integral to a multi-million-pound project aimed at restoring t…"
-        },
-        {
-          "title": "Chicago mayor bulldozed airport runway in 2003; site later became nature park",
-          "link": "https://timesofindia.indiatimes.com/world/us/in-2003-chicagos-mayor-sent-bulldozers-to-carve-six-giant-xs-into-an-airport-runway-overnight-stranding-16-planes-12-years-later-the-former-airfield-reopened-with-40-acres-of-prairie-wetlands-and-wildlife-habitat/articleshow/133405678.cms",
-          "date": "21 Aug 2026",
-          "summary": "Chicago's Meigs Field airport was controversially closed overnight in 2003. Six X-shaped gouges rendered the runway unusable, stranding sixteen aircraft. The city cited security concerns following the September 11 attacks for the closure. Twelve years later, t…"
-        },
-        {
-          "title": "Apple 'fires' entire VR team as John Ternus takes over as CEO from Tim Cook",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/as-john-ternus-takes-over-as-apple-ceo-company-fires-an-entire-vr-development-team-working-on-a-vision-pro-that-tim-cook-once-called/articleshow/133401966.cms",
-          "date": "21 Aug 2026",
-          "summary": "Apple has laid off at least 60 employees tied to its VR development team, with an entire group working on virtual reality reportedly cut just days before John Ternus takes over as CEO on September 1. The move comes as Apple shifts resources toward Siri AI and…"
-        },
-        {
-          "title": "Harry and Meghan's California mansion may be sold as couple weighs return to Britain",
-          "link": "https://timesofindia.indiatimes.com/real-estate/news/harry-and-meghans-california-mansion-may-be-sold-as-couple-weighs-return-to-britain/articleshow/133382021.cms",
-          "date": "21 Aug 2026",
-          "summary": "Prince Harry and Meghan Markle are contemplating selling their lavish Montecito mansion as the financial burden of over $600,000 annually in mortgage and property taxes weighs heavily. Initially purchased for $14.65 million, the estate is generating buzz among…"
         },
         {
           "title": "Joe Root creates history in Headingly against Pakistan",
@@ -290,24 +356,6 @@
           "link": "https://timesofindia.indiatimes.com/city/delhi/1-dead-3-injured-after-building-collapses-during-demolition-work-in-delhis-karol-bagh/articleshow/133405802.cms",
           "date": "21 Aug 2026",
           "summary": "A labourer died and three others were injured when a building collapsed during demolition work. The incident occurred in Delhi's Karol Bagh area on Pyare Lal Road. Preliminary inquiries suggest the building owners lacked necessary demolition permits from autho…"
-        },
-        {
-          "title": "Strawberry tells Kyrgios: Talent isn't enough, you need healing inside, not punishment",
-          "link": "https://timesofindia.indiatimes.com/sports/international-sports/you-can-be-great-as-an-athlete-but-ex-mlb-star-darryl-strawberry-sends-message-to-nick-kyrgios-after-positive-cocaine-test/articleshow/133403731.cms",
-          "date": "21 Aug 2026",
-          "summary": "Darryl Strawberry advocates for Nick Kyrgios' support after a cocaine positive test. He believes substance abuse issues require healing, not just punishment. Strawberry, a former baseball star, understands the immense public pressure athletes face. He hopes Ky…"
-        },
-        {
-          "title": "Savinho's record $115M move to Spurs boosts De Zerbi's attack overhaul",
-          "link": "https://timesofindia.indiatimes.com/sports/international-sports/how-brazilian-winger-savinhos-massive-100m-deal-from-manchester-city-will-affect-tottenham-hotspur/articleshow/133403140.cms",
-          "date": "21 Aug 2026",
-          "summary": "Tottenham Hotspur has agreed an eighty-five million pound deal for Manchester City winger Savinho. The Brazilian international is expected to undergo his medical on Friday afternoon. Savinho has struggled for consistent first-team football at Manchester City s…"
-        },
-        {
-          "title": "Verstappen's new Red Bull deal through 2030 reportedly worth €460M",
-          "link": "https://timesofindia.indiatimes.com/sports/international-sports/max-verstappen-salary-surge-new-red-bull-deal-comes-with-a-staggering-500-million-price-tag/articleshow/133401054.cms",
-          "date": "21 Aug 2026",
-          "summary": "Max Verstappen has signed a contract extension with Red Bull Racing until 2030. This decision ends months of speculation regarding his future team. Reportedly, the deal includes a significant financial commitment from the team. Verstappen expressed comfort and…"
         },
         {
           "title": "'Incorrect': Govt rejects ethanol link to sugar price spike, blames low output",
@@ -326,54 +374,6 @@
           "link": "https://timesofindia.indiatimes.com/world/us/george-floyd-mockery-django-unchained-reenactment-lawsuit-details-racist-conduct-at-phoenix-airport/articleshow/133404554.cms",
           "date": "21 Aug 2026",
           "summary": ""
-        },
-        {
-          "title": "Who pays what in a rental home? Property tax, maintenance and utility bills explained",
-          "link": "https://timesofindia.indiatimes.com/real-estate/news/who-pays-what-in-a-rental-home-property-tax-maintenance-and-utility-bills-explained/articleshow/133402716.cms",
-          "date": "21 Aug 2026",
-          "summary": "In India, property taxes are fundamentally the responsibility of the property owner as per municipal regulations. Meanwhile, utility expenses for water and electricity are usually settled by the tenant who consumes these services. Maintenance fees of housing s…"
-        },
-        {
-          "title": "'Programme not appropriate': MEA on no clearance for Telangana CM's US visit",
-          "link": "https://timesofindia.indiatimes.com/india/programme-not-appropriate-mea-on-rejecting-clearance-for-revanth-reddys-us-visit/articleshow/133402115.cms",
-          "date": "21 Aug 2026",
-          "summary": "Telangana Chief Minister Revanth Reddy's planned visit to the US has been denied political clearance by the Ministry of External Affairs, which found the proposed activities unsuitable. However, he has secured clearance for his trip to the UK. As a result, the…"
-        },
-        {
-          "title": "'Iran should end war now': What triggered prez Pezeshkian's surprise declaration",
-          "link": "https://timesofindia.indiatimes.com/world/middle-east/should-end-war-now-iran-prez-claims-world-acknowledges-tehrans-victory-over-us/articleshow/133404153.cms",
-          "date": "21 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "'No credibility': India slams US religious freedom body over call for RSS sanctions",
-          "link": "https://timesofindia.indiatimes.com/india/biased-no-credibility-india-slams-us-religious-freedom-body-over-call-for-rss-sanctions/articleshow/133403184.cms",
-          "date": "21 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "SC scraps SAD chief Badal’s plea to quash 2017 defamation case",
-          "link": "https://timesofindia.indiatimes.com/india/sc-scraps-sad-chief-badals-plea-to-quash-2017-defamation-case-over-linking-akj-with-terror-outfit/articleshow/133403760.cms",
-          "date": "21 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "'Proportionate response': MEA on bulldozer action outside Pakistan high commission",
-          "link": "https://timesofindia.indiatimes.com/india/proportionate-response-mea-on-bulldozer-action-outside-pakistan-high-commission/articleshow/133402408.cms",
-          "date": "21 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Why short-range ballistic missiles are the new weapon of choice, and how Pralay stands out",
-          "link": "https://timesofindia.indiatimes.com/defence/news/why-short-range-ballistic-missiles-are-the-new-weapon-of-choice-and-how-indias-pralay-stands-out/articleshow/133403722.cms",
-          "date": "21 Aug 2026",
-          "summary": "Modern conflicts highlight the challenge of intercepting short-range ballistic missiles effectively. Russia and Iran have extensively used such weapons in recent warfare. India's Pralay missile offers battlefield flexibility and operates outside nuclear doctri…"
-        },
-        {
-          "title": "BJP claims influencers were offered Rs 25,000 to attend Rahul Gandhi's Pune event",
-          "link": "https://timesofindia.indiatimes.com/city/delhi/pr-tactics-get-exposed-on-camera-bjp-alleges-influencers-were-offered-rs-25000-to-attend-rahul-gandhi-event/articleshow/133402673.cms",
-          "date": "21 Aug 2026",
-          "summary": "The Bharatiya Janata Party has raised allegations against Rahul Gandhi’s forthcoming event in Pune, claiming it relies on paid influencers. Reports suggest these influencers are being compensated with twenty-five thousand rupees to promote and attend the event…"
         }
       ]
     },
@@ -760,6 +760,12 @@
       "ok": true,
       "items": [
         {
+          "title": "US wants to force partner countries to choose between Washington and Beijing in the AI race",
+          "link": "https://the-decoder.com/us-wants-to-force-partner-countries-to-choose-between-washington-and-beijing-in-the-ai-race/",
+          "date": "21 Aug 2026",
+          "summary": "The US is drafting a letter to partner countries telling them to pick a side in the AI standoff between Washington and Beijing, according to Reuters. The article US wants to force partner countries to choose between Washington and Beijing in the AI race appear…"
+        },
+        {
           "title": "Waymo builds its own chip for its robotaxis, cutting its reliance on Nvidia",
           "link": "https://the-decoder.com/waymo-builds-its-own-chip-for-its-robotaxis-cutting-its-reliance-on-nvidia/",
           "date": "21 Aug 2026",
@@ -812,12 +818,6 @@
           "link": "https://the-decoder.com/frontier-radar-4-china-has-caught-up-so-whats-left-of-the-western-ai-lead/",
           "date": "20 Aug 2026",
           "summary": "Kimi K3 and GLM-5.3 are now within striking distance of the best US models. Western labs blame distillation, and there's real evidence for it. But guilty or not, the conclusion is the same: a model lead can't be defended. This issue looks at what can. The arti…"
-        },
-        {
-          "title": "GEN-1.5: Generalist AI teaches robots new tasks from a single demo",
-          "link": "https://the-decoder.com/gen-1-5-generalist-ai-teaches-robots-new-tasks-from-a-single-demo/",
-          "date": "20 Aug 2026",
-          "summary": "Robotics startup Generalist AI has unveiled GEN-1.5, an AI model that teaches robots new tasks from a single demonstration. The article GEN-1.5: Generalist AI teaches robots new tasks from a single demo appeared first on The Decoder ."
         }
       ]
     },
@@ -895,6 +895,12 @@
       "cat": "Technical · AI",
       "ok": true,
       "items": [
+        {
+          "title": "Maximizing AI Factory Performance per Watt with NVIDIA DSX MaxLPS",
+          "link": "https://developer.nvidia.com/blog/maximizing-ai-factory-performance-per-watt-with-nvidia-dsx-maxlps/",
+          "date": "20 Aug 2026",
+          "summary": "AI factories are power-constrained industrial systems. The question is no longer how many GPUs fit in a data center, but how much AI output each available..."
+        },
         {
           "title": "NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents",
           "link": "https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/",
@@ -1068,12 +1074,6 @@
           "link": "https://developer.nvidia.com/blog/six-agent-harness-capabilities-for-higher-model-performance/",
           "date": "20 Aug 2026",
           "summary": "Building a great AI agent isn’t just about choosing the right models. The harness is the architecture surrounding the model. How it renders context, executes..."
-        },
-        {
-          "title": "NVIDIA Nemotron 3 Ultra Leads Open Models on Accuracy and Efficiency in Agentic RTL Coding",
-          "link": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-leads-open-models-on-accuracy-and-efficiency-in-agentic-rtl-coding/",
-          "date": "20 Aug 2026",
-          "summary": "Modern chip design is increasingly limited by engineering time. Register transfer level (RTL) development and verification require specialized hardware..."
         }
       ]
     },
@@ -1151,6 +1151,12 @@
       "cat": "Tech · News",
       "ok": true,
       "items": [
+        {
+          "title": "Google Gives Publishers a 'Preferred Sources' Button to Fight AI-Driven Traffic Losses",
+          "link": "https://news.slashdot.org/story/26/08/21/0113259/google-gives-publishers-a-preferred-sources-button-to-fight-ai-driven-traffic-losses?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "21 Aug 2026",
+          "summary": "Google is giving publishers a new way to fight declining referral traffic from AI-powered search by letting them embed a \"Preferred Sources\" button that readers can use to favor their sites across Search, Discover, and Google News. \"The idea is to make it easi…"
+        },
         {
           "title": "Microsoft Gives Task Manager Another Task: Watching AI Workloads",
           "link": "https://tech.slashdot.org/story/26/08/21/0136250/microsoft-gives-task-manager-another-task-watching-ai-workloads?utm_source=rss1.0mainlinkanon&utm_medium=feed",
@@ -1234,12 +1240,6 @@
           "link": "https://science.slashdot.org/story/26/08/19/2213259/rescue-mission-is-called-off-for-nasas-aging-swift-space-telescope?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "20 Aug 2026",
           "summary": "NASA has called off a $30 million mission to rescue its aging Swift space telescope after Katalyst Space's Link spacecraft developed persistent control and positioning problems. The Associated Press reports: Katalyst said Link will not attempt to capture Swift…"
-        },
-        {
-          "title": "Whistleblower Arturo Bejar Leads Testimony In Landmark Trial Against Meta",
-          "link": "https://tech.slashdot.org/story/26/08/19/2329222/whistleblower-arturo-bejar-leads-testimony-in-landmark-trial-against-meta?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "20 Aug 2026",
-          "summary": "An anonymous reader quotes a report from NPR: Meta was infused with a culture in which employees obsessed over user numbers and consistently pushed safety to the side, according to Arturo Bejar, a former employee turned whistleblower, who testified today in th…"
         }
       ]
     },
@@ -1630,6 +1630,84 @@
       "ok": true,
       "items": [
         {
+          "title": "elampy added to PyPI",
+          "link": "https://pypi.org/project/elampy/",
+          "date": "21 Aug 2026",
+          "summary": "A Python interface for X-ray edges and emission lines using the Elam database."
+        },
+        {
+          "title": "keanan-mcp added to PyPI",
+          "link": "https://pypi.org/project/keanan-mcp/",
+          "date": "21 Aug 2026",
+          "summary": "MCP server for Keanan: connect Claude, Cursor and other AI clients to your people ops workspace."
+        },
+        {
+          "title": "veriq-ancillaguard added to PyPI",
+          "link": "https://pypi.org/project/veriq-ancillaguard/",
+          "date": "21 Aug 2026",
+          "summary": "VeriQ AncillaGuard verifies and repairs dirty-ancilla safety in Qiskit circuits."
+        },
+        {
+          "title": "netroute-diagnose added to PyPI",
+          "link": "https://pypi.org/project/netroute-diagnose/",
+          "date": "21 Aug 2026",
+          "summary": "Read-only DNS, egress, and Clash/OpenClash rule-path diagnostics"
+        },
+        {
+          "title": "local-research-library-mcp added to PyPI",
+          "link": "https://pypi.org/project/local-research-library-mcp/",
+          "date": "21 Aug 2026",
+          "summary": "An MCP server that gives AI agents read-only access to a local research library (PDF, Markdown, BibTeX, RIS, ENW, XML)."
+        },
+        {
+          "title": "home-ai-cluster-plugin-searxng added to PyPI",
+          "link": "https://pypi.org/project/home-ai-cluster-plugin-searxng/",
+          "date": "21 Aug 2026",
+          "summary": "Fixed-loopback SearXNG external-information acquisition plugin for Home AI Cluster."
+        },
+        {
+          "title": "sugar-rush-sdk added to PyPI",
+          "link": "https://pypi.org/project/sugar-rush-sdk/",
+          "date": "21 Aug 2026",
+          "summary": "Python SDK for the Sugar Rush exchange: streaming market data and order submission over one WebSocket."
+        },
+        {
+          "title": "youtube-cli-uploader added to PyPI",
+          "link": "https://pypi.org/project/youtube-cli-uploader/",
+          "date": "21 Aug 2026",
+          "summary": "A private-first YouTube Data API uploader"
+        },
+        {
+          "title": "udioapi added to PyPI",
+          "link": "https://pypi.org/project/udioapi/",
+          "date": "21 Aug 2026",
+          "summary": "Official Python SDK for udioapi.pro — generate AI music (Suno / Udio / MiniMax) from one REST API."
+        },
+        {
+          "title": "negirau added to PyPI",
+          "link": "https://pypi.org/project/negirau/",
+          "date": "21 Aug 2026",
+          "summary": "Python client for the Negirau public API"
+        },
+        {
+          "title": "markvector added to PyPI",
+          "link": "https://pypi.org/project/markvector/",
+          "date": "21 Aug 2026",
+          "summary": "Python client for MarkVector — store documents, search them by meaning and wording, get grounded answers with citations, keep the original files, and run a streaming, tool-using agent over your own LLM."
+        },
+        {
+          "title": "hyperviz added to PyPI",
+          "link": "https://pypi.org/project/hyperviz/",
+          "date": "21 Aug 2026",
+          "summary": "Add your description here"
+        },
+        {
+          "title": "joplin-md-sync added to PyPI",
+          "link": "https://pypi.org/project/joplin-md-sync/",
+          "date": "21 Aug 2026",
+          "summary": "Safe two-way synchronization between Joplin notes and a local Markdown workspace, built for autonomous coding agents"
+        },
+        {
           "title": "edx-proctoring-proctortrack-v2 added to PyPI",
           "link": "https://pypi.org/project/edx-proctoring-proctortrack-v2/",
           "date": "21 Aug 2026",
@@ -1730,84 +1808,6 @@
           "link": "https://pypi.org/project/fjs/",
           "date": "21 Aug 2026",
           "summary": "Create and manage a simple JSON database file."
-        },
-        {
-          "title": "pg-anon added to PyPI",
-          "link": "https://pypi.org/project/pg-anon/",
-          "date": "21 Aug 2026",
-          "summary": "Data masking tool for PostgreSQL."
-        },
-        {
-          "title": "numpy-cache added to PyPI",
-          "link": "https://pypi.org/project/numpy-cache/",
-          "date": "21 Aug 2026",
-          "summary": "High-performance LZ4 cache for NumPy arrays"
-        },
-        {
-          "title": "contextforge-repo added to PyPI",
-          "link": "https://pypi.org/project/contextforge-repo/",
-          "date": "21 Aug 2026",
-          "summary": "Build bounded, reviewable repository context for coding agents."
-        },
-        {
-          "title": "parakeet-index-llms-watsonx added to PyPI",
-          "link": "https://pypi.org/project/parakeet-index-llms-watsonx/",
-          "date": "21 Aug 2026",
-          "summary": "parakeet-index llms watsonx integration"
-        },
-        {
-          "title": "parakeet-index-embeddings-watsonx added to PyPI",
-          "link": "https://pypi.org/project/parakeet-index-embeddings-watsonx/",
-          "date": "21 Aug 2026",
-          "summary": "parakeet-index embeddings watsonx integration"
-        },
-        {
-          "title": "citeready added to PyPI",
-          "link": "https://pypi.org/project/citeready/",
-          "date": "21 Aug 2026",
-          "summary": "Can AI assistants read, trust and cite your business page? A deterministic, dependency-free audit: JSON-LD completeness, structured-data vs visible-page consistency, robots.txt vs AI crawlers, llms.txt"
-        },
-        {
-          "title": "parakeet-index-observability-watsonx added to PyPI",
-          "link": "https://pypi.org/project/parakeet-index-observability-watsonx/",
-          "date": "21 Aug 2026",
-          "summary": "parakeet-index observability watsonx integration"
-        },
-        {
-          "title": "parakeet-index-embeddings-huggingface added to PyPI",
-          "link": "https://pypi.org/project/parakeet-index-embeddings-huggingface/",
-          "date": "21 Aug 2026",
-          "summary": "parakeet-index embeddings huggingface integration"
-        },
-        {
-          "title": "mexpsimu added to PyPI",
-          "link": "https://pypi.org/project/mexpsimu/",
-          "date": "21 Aug 2026",
-          "summary": "A microscopy experiment simulator: image scan, tip motion, and local spectroscopy against recorded scanning-probe datasets"
-        },
-        {
-          "title": "ironstratum added to PyPI",
-          "link": "https://pypi.org/project/ironstratum/",
-          "date": "21 Aug 2026",
-          "summary": "Ironstratum - inference platform (name reservation placeholder)"
-        },
-        {
-          "title": "PBKittyConfigStudio added to PyPI",
-          "link": "https://pypi.org/project/pbkittyconfigstudio/",
-          "date": "21 Aug 2026",
-          "summary": "A desktop GUI for configuring the kitty terminal"
-        },
-        {
-          "title": "bombista added to PyPI",
-          "link": "https://pypi.org/project/bombista/",
-          "date": "21 Aug 2026",
-          "summary": "Forced-alignment triage for lyric and subtitle timelines"
-        },
-        {
-          "title": "elka added to PyPI",
-          "link": "https://pypi.org/project/elka/",
-          "date": "21 Aug 2026",
-          "summary": "A small, stdlib-only Python TUI package."
         }
       ]
     }
