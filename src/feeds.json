@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-22T11:12:59Z",
+  "generated": "2026-08-22T12:20:25Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,12 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "Dalal Street Week Ahead: Selective Buying Favoured as Nifty Remains Range-Bound",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-selective-buying-favoured-as-nifty-remains-range-bound/articleshow/133423333.cms",
+          "date": "22 Aug 2026",
+          "summary": "Nifty remained range-bound, falling 0.47% to 24,252 amid subdued volatility. Resistance at 24,450–24,750 remains crucial, while 23,900–24,100 offers support. Analysts recommend selective, stock-specific positioning until a decisive breakout. PSU banks, IT, fin…"
+        },
         {
           "title": "CAS chaos triggers liquidity spiral: Nuvama says higher participation needed to break cycle",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/cas-chaos-triggers-liquidity-spiral-nuvama-says-higher-participation-needed-to-break-cycle/articleshow/133421238.cms",
@@ -36,12 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/freedom-oils-maker-gemini-edibles-fats-india-files-drhp-with-sebi-for-ipo/articleshow/133421580.cms",
           "date": "22 Aug 2026",
           "summary": "Gemini Edibles & Fats India, maker of Freedom Oils, filed IPO papers with Sebi for an entirely offer-for-sale issue of up to 4.12 crore shares. Promoters and investors will sell stakes, while the company earns no proceeds. Revenue rose to Rs 12,650 crore in FY…"
-        },
-        {
-          "title": "Vijay Kedia Portfolio: 5 stocks surge up to 55% in CY26; 1 new addition in June quarter",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/vijay-kedia-portfolio-5-stocks-surge-up-to-55-in-cy26-1-new-addition-in-june-quarter/portfolio-snapshot/slideshow/133419471.cms",
-          "date": "22 Aug 2026",
-          "summary": "Investors often track the portfolios of seasoned market veterans for insights into their investment strategies. In this context, ETMarkets reviewed the investment holdings of veteran investor Vijay Kedia. According to the latest available data for the June 202…"
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -196,16 +196,58 @@
       "ok": true,
       "items": [
         {
+          "title": "‘Crushed his lungs’: How a ‘minor’ dispute ended in Adobe techie's death",
+          "link": "https://timesofindia.indiatimes.com/city/delhi/crushed-his-lungs-calculated-conspiracy-how-a-minor-dispute-ended-in-adobe-techies-death/articleshow/133419130.cms",
+          "date": "22 Aug 2026",
+          "summary": "A software engineer was allegedly beaten to death by his wife's relatives following a dispute. His family claims the attack was a pre-planned, calculated conspiracy to kill him. The assault occurred at his home in Delhi after his wife summoned her family membe…"
+        },
+        {
+          "title": "Why Samajwadi Party never split? Akhilesh points out 'benefit' of dynastic politics",
+          "link": "https://timesofindia.indiatimes.com/india/why-samajwadi-party-never-split-akhilesh-yadav-points-out-benefit-of-dynastic-politics/articleshow/133422401.cms",
+          "date": "22 Aug 2026",
+          "summary": "Akhilesh Yadav pointed to the presence of multiple members of his family in the SP and suggested that this had helped prevent a split in the party. \"Have you ever wondered why the entire party did not split? Because there are five MPs from the same family. We…"
+        },
+        {
+          "title": "7-storey under construction building collapses in Hyderabad, 2 dead",
+          "link": "https://timesofindia.indiatimes.com/city/hyderabad/1-dead-as-7-storey-under-construction-building-collapses-in-hyderabad/articleshow/133421969.cms",
+          "date": "22 Aug 2026",
+          "summary": "In Madhapur, a seven-storey building that was still under construction collapsed tragically on Saturday afternoon. Search and rescue teams are actively working to locate any individuals who may be trapped beneath the rubble. Officials have sadly confirmed the…"
+        },
+        {
+          "title": "Kuldeep or Saransh? The subplot thickens as Colombo braces for a different script",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/kuldeep-yadav-or-saransh-jain-the-subplot-thickens-as-colombo-braces-for-a-different-script/articleshow/133422963.cms",
+          "date": "22 Aug 2026",
+          "summary": "Kuldeep Yadav's absence from India's final training sessions has intensified the selection intrigue ahead of the Colombo Test, with Saransh Jain's strong showing in the nets and Sri Lanka's left-hand-heavy batting line-up adding weight to the off-spinner's cas…"
+        },
+        {
+          "title": "Mumbai hit-and-run: US national, 15, knocked down by speeding biker",
+          "link": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-hit-and-run-us-national-15-returning-from-tuition-knocked-down-by-speeding-biker/articleshow/133420979.cms",
+          "date": "22 Aug 2026",
+          "summary": "A 15-year-old American student was injured in a Juhu hit-and-run incident. A speeding motorcyclist struck the teen while she crossed the road near Bhaidas Hall. She sustained a concussion, leg bruises, and a jaw injury from the collision. Police have registere…"
+        },
+        {
+          "title": "Zohran Mamdani’s office skips City Council meeting on ‘second home tax’",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/mayor-zohran-mamdanis-office-decides-to-skip-in-person-appearance-at-city-council-meeting-for-which-council-members-complied-pages-and-pages-of-questions-about-rollout-of-second-house-tax-in-the-hope-that-/articleshow/133420431.cms",
+          "date": "22 Aug 2026",
+          "summary": "The finance commissioner of New York City missed a crucial city council hearing regarding the pied-à-terre tax due to ongoing litigation, opting instead to provide written statements. The release of property valuations raised concerns about privacy and clarity…"
+        },
+        {
+          "title": "'Don't be desperate for wickets': Gautam Gambhir's message to Kuldeep Yadav",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/dont-be-desperate-for-wickets-gautam-gambhirs-message-to-kuldeep-yadav/articleshow/133421163.cms",
+          "date": "22 Aug 2026",
+          "summary": "India returned to winning ways in the World Test Championship after a 165-run victory over Sri Lanka in the first Test at the Galle International Stadium on Wednesday. Four days after that win, the visitors will be back in action in Colombo for the second and…"
+        },
+        {
           "title": "Why Canada suspended US trade talks despite Trump's 'good relationship' with Carney",
           "link": "https://timesofindia.indiatimes.com/business/international-business/why-canada-suspended-us-trade-talks-at-last-minute-despite-trumps-good-relationship-with-carney/articleshow/133417147.cms",
           "date": "22 Aug 2026",
           "summary": ""
         },
         {
-          "title": "'Death only solution now': Teen replied to iPhone offer before jumping off hill",
-          "link": "https://timesofindia.indiatimes.com/city/aurangabad/final-minutes-of-maharashtra-hill-tragedy-sarpanch-offers-iphone-teen-says-death-only-solution-now/articleshow/133417207.cms",
+          "title": "Most firms that laid off staff due to AI in America seemingly have a new slogan",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/most-companies-across-america-laying-off-employees-seemingly-have-a-new-slogan-not-being-replaced-by-/articleshow/133420076.cms",
           "date": "22 Aug 2026",
-          "summary": "A teenager jumped from a cliff after his parents refused him a mobile phone. His father attempted to rescue him, and both fell to their deaths. The rescue operation turned into a tragedy as the teenager remained determined. Fire brigade teams deployed safety n…"
+          "summary": "Corporate executives are adopting a more measured tone about the role of AI in the job market. Investors are seeking evidence that AI investments are enhancing profit margins. As job losses become more frequent, public concerns escalate, with many Americans fe…"
         },
         {
           "title": "Revanth Reddy not first CM to be denied MEA nod for foreign visit",
@@ -214,10 +256,40 @@
           "summary": "Several opposition chief ministers and ministers have faced foreign travel clearance denials. Telangana CM Revanth Reddy's recent rejection is not an isolated incident. Punjab CM Bhagwant Mann and West Bengal CM Mamata Banerjee also experienced similar rejecti…"
         },
         {
-          "title": "Fifth in WTC, two home whitewashes: Gambhir says India 'not struggling' in Tests",
+          "title": "1,200 Starlink satellites help map Earth's hard-to-observe upper atmosphere",
+          "link": "https://timesofindia.indiatimes.com/science/researchers-turned-data-from-roughly-1200-starlink-satellites-into-a-giant-scanner-for-earths-upper-atmosphere-mapping-a-hard-to-observe-region-around-500-kilometres-above-the-planet/articleshow/133422037.cms",
+          "date": "22 Aug 2026",
+          "summary": "Starlink satellites are now helping scientists map Earth's upper atmosphere. Researchers used orbital data from Starlink to estimate thermosphere density. This method creates a two-dimensional map of atmospheric density variations. The findings offer a new way…"
+        },
+        {
+          "title": "Canada sinks retired Boeing 737 off Vancouver Island to create artificial reef",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/canada-lowered-a-retired-boeing-737-onto-the-seabed-off-vancouver-island-the-100-foot-jet-now-sits-nearly-90-feet-underwater-as-an-artificial-reef-for-marine-life/articleshow/133422469.cms",
+          "date": "22 Aug 2026",
+          "summary": "In an innovative environmental initiative, a Boeing 737 from Canadian Airlines has been transformed into an artificial reef off the coast of Chemainus, British Columbia. Sunk in 2006, this aircraft has undergone a thorough cleaning by dedicated volunteers befo…"
+        },
+        {
+          "title": "Meta sued by former manager who claims he was fired over immigration letter",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/meta-sued-by-former-manager-claiming-was-fired-for-refusing-to-sign-immigration-letter-for-a-chinese-engineer-heres-all-lawsuit-blames-the-company-for/articleshow/133422112.cms",
+          "date": "22 Aug 2026",
+          "summary": "A former Meta manager filed a lawsuit alleging wrongful termination after objecting to an immigration letter. James Tillinghast claimed the letter overstated an employee's contributions and responsibilities. He also alleged Meta provided preferential immigrati…"
+        },
+        {
+          "title": "'My job is to win trophies, don't care about views or likes': Gambhir",
           "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/rankings-do-not-matter-under-fire-gautam-gambhir-says-india-not-struggling-in-tests/articleshow/133420994.cms",
           "date": "22 Aug 2026",
           "summary": "India go into the second Test against Sri Lanka in Colombo with a 1-0 lead after their 165-run win in Galle. But the series has also kept the focus on a team that is trying to build a new Test side after the departure of some of its biggest names."
+        },
+        {
+          "title": "Over half of 18th Lok Sabha bills passed in same session, shows data",
+          "link": "https://timesofindia.indiatimes.com/india/bills-on-fast-track-over-half-of-18th-lok-sabha-bills-passed-in-same-session-shows-data/articleshow/133423110.cms",
+          "date": "22 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Former world champion boxer Zolani Tete shot dead outisde home",
+          "link": "https://timesofindia.indiatimes.com/sports/off-the-field/former-world-champion-boxer-zolani-tete-shot-dead-outisde-home-in-south-africa/articleshow/133421986.cms",
+          "date": "22 Aug 2026",
+          "summary": ""
         },
         {
           "title": "Big crisis brewing in Rawalpindi? Pakistan deploys army for ‘sensitive duties’",
@@ -226,10 +298,10 @@
           "summary": "The notification said the deployment was intended to prevent a potential security problem and ensure that authorities could respond quickly if an unexpected situation arose. It said that the decision was taken \"to avoid any undesirable situation as well as to…"
         },
         {
-          "title": "Zohran Mamdani’s office skips City Council meeting on ‘second home tax’",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/mayor-zohran-mamdanis-office-decides-to-skip-in-person-appearance-at-city-council-meeting-for-which-council-members-complied-pages-and-pages-of-questions-about-rollout-of-second-house-tax-in-the-hope-that-/articleshow/133420431.cms",
+          "title": "'Death only solution now': Teen replied to iPhone offer before jumping off hill",
+          "link": "https://timesofindia.indiatimes.com/city/aurangabad/final-minutes-of-maharashtra-hill-tragedy-sarpanch-offers-iphone-teen-says-death-only-solution-now/articleshow/133417207.cms",
           "date": "22 Aug 2026",
-          "summary": "The finance commissioner of New York City missed a crucial city council hearing regarding the pied-à-terre tax due to ongoing litigation, opting instead to provide written statements. The release of property valuations raised concerns about privacy and clarity…"
+          "summary": "A teenager jumped from a cliff after his parents refused him a mobile phone. His father attempted to rescue him, and both fell to their deaths. The rescue operation turned into a tragedy as the teenager remained determined. Fire brigade teams deployed safety n…"
         },
         {
           "title": "H1N1 alert: Health ministry lists symptoms to look for as Delhi crosses 1,700 cases",
@@ -250,44 +322,14 @@
           "summary": ""
         },
         {
-          "title": "SIM Card rules changing: What you can do and cannot do after August 24",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/sim-card-rules-changing-what-you-can-do-and-cannot-do-after-august-24/articleshow/133419282.cms",
-          "date": "22 Aug 2026",
-          "summary": "New SIM card regulations will take effect from August twenty-fourth. Telecom operators must identify and inform customers exceeding their mobile connection limits. Initially, verification will occur post-activation, with a move to real-time checks by November.…"
-        },
-        {
           "title": "Sajjan Kumar 'role model' post: Sikh leaders protest outside Rahul's residence",
           "link": "https://timesofindia.indiatimes.com/india/sajjan-kumar-role-model-post-sikh-leaders-protest-outside-rahuls-delhi-home-demand-congress-apology/articleshow/133421504.cms",
           "date": "22 Aug 2026",
           "summary": ""
         },
         {
-          "title": "New Jersey teen builds AI model to predict how tumors respond to chemotherapy",
-          "link": "https://timesofindia.indiatimes.com/science/meet-mythreya-dharani-the-18-year-old-new-jersey-student-who-built-an-ai-model-to-predict-how-individual-tumors-will-respond-to-the-chemotherapy-drug-cisplatin/articleshow/133421332.cms",
-          "date": "22 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Railway fan spent 25 years restoring royal station, now on sale for £1.25m",
-          "link": "https://timesofindia.indiatimes.com/world/uk/a-railway-enthusiast-spent-25-years-restoring-the-victorian-station-used-by-british-royals-near-sandringham-now-the-former-royal-stop-and-signal-box-are-on-sale-for-1-25-million/articleshow/133421387.cms",
-          "date": "22 Aug 2026",
-          "summary": "Wolferton Station, a former royal terminus renowned for its regal service, has been reinvented as a charming family home. For over a hundred years, it welcomed members of the royal family during grand occasions. Following its closure, a dedicated railway emplo…"
-        },
-        {
-          "title": "Meta sued by former manager who claims he was fired over immigration letter",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/meta-sued-by-former-manager-claiming-was-fired-for-refusing-to-sign-immigration-letter-for-a-chinese-engineer-heres-all-lawsuit-blames-the-company-for/articleshow/133422112.cms",
-          "date": "22 Aug 2026",
-          "summary": "A former Meta manager filed a lawsuit alleging wrongful termination after objecting to an immigration letter. James Tillinghast claimed the letter overstated an employee's contributions and responsibilities. He also alleged Meta provided preferential immigrati…"
-        },
-        {
           "title": "‘From defence to offence’: Iran warns of pre-emptive strikes as Trump ramps up threats",
           "link": "https://timesofindia.indiatimes.com/world/middle-east/from-defence-to-offence-iran-warns-of-pre-emptive-strikes-as-trump-ramps-up-threats/articleshow/133421851.cms",
-          "date": "22 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Former world champion boxer Zolani Tete shot dead outisde home",
-          "link": "https://timesofindia.indiatimes.com/sports/off-the-field/former-world-champion-boxer-zolani-tete-shot-dead-outisde-home-in-south-africa/articleshow/133421986.cms",
           "date": "22 Aug 2026",
           "summary": ""
         },
@@ -332,48 +374,6 @@
           "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-likes-post-slamming-sandeep-reddy-vangas-brother-over-spirit-profit-share-row/articleshow/133419524.cms",
           "date": "22 Aug 2026",
           "summary": "Deepika Padukone's recent exit from Sandeep Reddy Vanga's film 'Spirit' has ignited discussions again, as reports suggest her departure was tied to a demand for a ten percent profit share. This situation has raised eyebrows about potential gender bias within t…"
-        },
-        {
-          "title": "'No compromise': BJP targets Congress over Vande Mataram decision; passes resolution",
-          "link": "https://timesofindia.indiatimes.com/india/bjp-condemns-congress-decision-on-vande-mataram-passes-resolution/articleshow/133420564.cms",
-          "date": "22 Aug 2026",
-          "summary": "The BJP has condemned the Congress party's decision to sing only two stanzas of Vande Mataram. This move is seen by the BJP as undermining the national song's significance and legacy. The party passed a resolution to protect the honor and national character of…"
-        },
-        {
-          "title": "'My son took her to hospital': Jana Sena MP defends son after Aston Martin crash",
-          "link": "https://timesofindia.indiatimes.com/city/hyderabad/nothing-is-being-concealed-mp-says-son-co-operating-in-hyderabad-aston-martin-crash-probe/articleshow/133415806.cms",
-          "date": "22 Aug 2026",
-          "summary": "MP Lingamaneni Ramesh stated his son is cooperating fully with the investigation. The accident tragically claimed the life of a 26-year-old woman in Hyderabad. His son immediately took the injured woman to the hospital after the incident. Three medical tests c…"
-        },
-        {
-          "title": "Quote of the day by Susan Sarandon",
-          "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-susan-sarandon-i-look-forward-to-being-older-when-what-you-look-like-becomes-less-and-less-an-issue-and-what-you-are-is-the-point-the-blue-beetle-stars-advice-on-how-aging-is-a-good-thing/articleshow/133421159.cms",
-          "date": "22 Aug 2026",
-          "summary": "Susan Sarandon, the esteemed actress, cherishes the process of getting older, viewing it as a valuable phase of life. She asserts that authentic beauty is derived from personal character and self-respect, rather than superficial looks. Challenging societal nor…"
-        },
-        {
-          "title": "NBFCs stay on growth track as asset quality remains stable: Report",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/nbfcs-stay-on-growth-track-as-asset-quality-remains-stable-report/articleshow/133421416.cms",
-          "date": "22 Aug 2026",
-          "summary": "Non-banking financial companies anticipate steady growth ahead. Credit demand remains robust despite global geopolitical uncertainties. NBFC earnings showed strong growth in the first quarter of FY27. Vehicle financiers experienced accelerated asset under mana…"
-        },
-        {
-          "title": "India’s submarine hunting fleet gets stronger with indigenous warship Mangrol",
-          "link": "https://timesofindia.indiatimes.com/defence/news/indias-submarine-hunting-fleet-gets-stronger-with-indigenous-warship-mangrol/articleshow/133421182.cms",
-          "date": "22 Aug 2026",
-          "summary": "The Indian Navy proudly welcomes Mangrol, its third indigenous Anti-Submarine Warfare Shallow Water Craft. This state-of-the-art vessel is crucial for enhancing coastal defense and forms part of an ambitious program to build eight such ships. With cutting-edge…"
-        },
-        {
-          "title": "'Didn't back him': Gill questioned after Kuldeep bowled just 25 overs in Galle",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/shubman-gill-didnt-back-him-india-captain-questioned-after-kuldeep-yadav-bowled-just-25-overs-in-galle/articleshow/133418822.cms",
-          "date": "22 Aug 2026",
-          "summary": "Kuldeep bowled only 25 overs across India’s two innings in the Test and took one wicket, while left-arm spinner Manav Suthar and Ravindra Jadeja bowled around 44 overs each and shared 14 wickets. India won the Test by 165 runs."
-        },
-        {
-          "title": "TikTok to pay $400 million in US child privacy settlement over alleged violations",
-          "link": "https://timesofindia.indiatimes.com/world/us/tiktok-to-pay-400-million-in-us-child-privacy-settlement-over-alleged-violations/articleshow/133420785.cms",
-          "date": "22 Aug 2026",
-          "summary": ""
         }
       ]
     },
@@ -760,6 +760,12 @@
       "ok": true,
       "items": [
         {
+          "title": "Study explains why AI agents benefit from \"skills\" and when they fail",
+          "link": "https://the-decoder.com/study-explains-why-ai-agents-benefit-from-skills-and-when-they-fail/",
+          "date": "22 Aug 2026",
+          "summary": "A study from researchers at Princeton University and UC San Diego finds that so-called skills make AI agents better mainly through structured workflows, not through added knowledge. But as the skill library grows, agents have a harder and harder time finding t…"
+        },
+        {
           "title": "World models that ignore human beliefs predict the wrong actions, new research shows",
           "link": "https://the-decoder.com/world-models-that-ignore-human-beliefs-predict-the-wrong-actions-new-research-shows/",
           "date": "22 Aug 2026",
@@ -812,12 +818,6 @@
           "link": "https://the-decoder.com/waymo-builds-its-own-chip-for-its-robotaxis-cutting-its-reliance-on-nvidia/",
           "date": "21 Aug 2026",
           "summary": "Waymo built its own chip for its robotaxis, cutting its reliance on Nvidia. The article Waymo builds its own chip for its robotaxis, cutting its reliance on Nvidia appeared first on The Decoder ."
-        },
-        {
-          "title": "Meta spends hundreds of millions on Microsoft's AI services",
-          "link": "https://the-decoder.com/meta-spends-hundreds-of-millions-on-microsofts-ai-services/",
-          "date": "21 Aug 2026",
-          "summary": "Meta has become one of Microsoft's biggest AI customers, according to Bloomberg. The article Meta spends hundreds of millions on Microsoft&#039;s AI services appeared first on The Decoder ."
         }
       ]
     },
@@ -1630,6 +1630,108 @@
       "ok": true,
       "items": [
         {
+          "title": "auctra added to PyPI",
+          "link": "https://pypi.org/project/auctra/",
+          "date": "22 Aug 2026",
+          "summary": "Authority Protocol Python client — issue authority, execute actions, verify evidence"
+        },
+        {
+          "title": "platova added to PyPI",
+          "link": "https://pypi.org/project/platova/",
+          "date": "22 Aug 2026",
+          "summary": "None"
+        },
+        {
+          "title": "rangoli added to PyPI",
+          "link": "https://pypi.org/project/rangoli/",
+          "date": "22 Aug 2026",
+          "summary": "A modern Python package named rangoli"
+        },
+        {
+          "title": "agentlock-browser added to PyPI",
+          "link": "https://pypi.org/project/agentlock-browser/",
+          "date": "22 Aug 2026",
+          "summary": "Provenance-gated browsing tools for AI agents, over MCP. AgentLock enforces which channel a value came from before the browser acts on it."
+        },
+        {
+          "title": "NanoCode-coding-agent added to PyPI",
+          "link": "https://pypi.org/project/nanocode-coding-agent/",
+          "date": "22 Aug 2026",
+          "summary": "Lightweight provider-agnostic agentic coding backend (CLI + server) for the NanoCode VS Code extension."
+        },
+        {
+          "title": "regtable added to PyPI",
+          "link": "https://pypi.org/project/regtable/",
+          "date": "22 Aug 2026",
+          "summary": "Host-side tools for regtable: YAML codegen, a typed Python client verified against the device, and the Web Serial panel"
+        },
+        {
+          "title": "autohooks-plugin-hadolint added to PyPI",
+          "link": "https://pypi.org/project/autohooks-plugin-hadolint/",
+          "date": "22 Aug 2026",
+          "summary": "An autohooks plugin for Dockerfile linting via hadolint"
+        },
+        {
+          "title": "camel-lite added to PyPI",
+          "link": "https://pypi.org/project/camel-lite/",
+          "date": "22 Aug 2026",
+          "summary": "A modernized, lightweight port of CAMeL Tools designed to minimize heavy dependencies."
+        },
+        {
+          "title": "python-actuator added to PyPI",
+          "link": "https://pypi.org/project/python-actuator/",
+          "date": "22 Aug 2026",
+          "summary": "Spring Boot-compatible health checks for Python applications."
+        },
+        {
+          "title": "rtpkit added to PyPI",
+          "link": "https://pypi.org/project/rtpkit/",
+          "date": "22 Aug 2026",
+          "summary": "Parse, analyse and reconstruct RTP streams from raw network traffic."
+        },
+        {
+          "title": "cap-shield added to PyPI",
+          "link": "https://pypi.org/project/cap-shield/",
+          "date": "22 Aug 2026",
+          "summary": "Context selection and compression for AI agents — measured, not estimated"
+        },
+        {
+          "title": "aic-v2 added to PyPI",
+          "link": "https://pypi.org/project/aic-v2/",
+          "date": "22 Aug 2026",
+          "summary": "AIC V2: 业务可见性优先的 AI 应用开发范式——框架 = 可选能力层(opt-in), 不是强制约束层"
+        },
+        {
+          "title": "waggle-cache added to PyPI",
+          "link": "https://pypi.org/project/waggle-cache/",
+          "date": "22 Aug 2026",
+          "summary": "Waggle — local-first semantic caching for LLM, RAG, and agent workloads"
+        },
+        {
+          "title": "chat-table added to PyPI",
+          "link": "https://pypi.org/project/chat-table/",
+          "date": "22 Aug 2026",
+          "summary": "Interactive web UI for routing LLM tasks across Kimi, Qwen, OpenAI, Claude, DeepSeek, and Gemini — with multi-turn chat, concurrent tasks, and token/cost tracking."
+        },
+        {
+          "title": "sextants added to PyPI",
+          "link": "https://pypi.org/project/sextants/",
+          "date": "22 Aug 2026",
+          "summary": "Convert raster images to teletext / viewdata block-mosaic graphics via an optimal per-row dynamic-programming solver"
+        },
+        {
+          "title": "ac3forge added to PyPI",
+          "link": "https://pypi.org/project/ac3forge/",
+          "date": "22 Aug 2026",
+          "summary": "Clean-room AC-3/E-AC-3 (Dolby Digital/Digital Plus) encoder and decoder, with Atmos object encode/decode"
+        },
+        {
+          "title": "lore-backend added to PyPI",
+          "link": "https://pypi.org/project/lore-backend/",
+          "date": "22 Aug 2026",
+          "summary": "An engineering team's decision memory — captures the why behind merged PRs and answers /why with cited sources."
+        },
+        {
           "title": "supplyguard added to PyPI",
           "link": "https://pypi.org/project/supplyguard/",
           "date": "22 Aug 2026",
@@ -1706,108 +1808,6 @@
           "link": "https://pypi.org/project/tickerall-nt-community/",
           "date": "22 Aug 2026",
           "summary": "Independent community MetaTrader 5 adapter for NautilusTrader, via the hosted TickerAll API (no local MT5 terminal, any OS)."
-        },
-        {
-          "title": "vincisex added to PyPI",
-          "link": "https://pypi.org/project/vincisex/",
-          "date": "22 Aug 2026",
-          "summary": "Python utility and cryptography library"
-        },
-        {
-          "title": "dora-lei-check added to PyPI",
-          "link": "https://pypi.org/project/dora-lei-check/",
-          "date": "22 Aug 2026",
-          "summary": "Check the LEIs in your DORA Register of Information against GLEIF before you submit. Runs locally."
-        },
-        {
-          "title": "trustrail added to PyPI",
-          "link": "https://pypi.org/project/trustrail/",
-          "date": "22 Aug 2026",
-          "summary": "Production-grade open-source Python library for GenAI/LLM guardrails"
-        },
-        {
-          "title": "lsgpus added to PyPI",
-          "link": "https://pypi.org/project/lsgpus/",
-          "date": "22 Aug 2026",
-          "summary": "List GPUs with details — like lscpu/lsusb but for graphics cards"
-        },
-        {
-          "title": "lsdisplay added to PyPI",
-          "link": "https://pypi.org/project/lsdisplay/",
-          "date": "22 Aug 2026",
-          "summary": "List connected displays — like lsusb/lspci but for screens"
-        },
-        {
-          "title": "doculane added to PyPI",
-          "link": "https://pypi.org/project/doculane/",
-          "date": "22 Aug 2026",
-          "summary": "Office document CLI for agents — read, write, and edit Word, Excel, PowerPoint without Office installed"
-        },
-        {
-          "title": "qnbot-sdk-core added to PyPI",
-          "link": "https://pypi.org/project/qnbot-sdk-core/",
-          "date": "22 Aug 2026",
-          "summary": "None"
-        },
-        {
-          "title": "pydox added to PyPI",
-          "link": "https://pypi.org/project/pydox/",
-          "date": "22 Aug 2026",
-          "summary": "Local-first Python documentation generator. Extracts docstrings + signatures, outputs clean Markdown."
-        },
-        {
-          "title": "lattice-rule-sdk added to PyPI",
-          "link": "https://pypi.org/project/lattice-rule-sdk/",
-          "date": "22 Aug 2026",
-          "summary": "Author Lattice custom architecture rules in Python and compile them to core WebAssembly."
-        },
-        {
-          "title": "semantic-harness added to PyPI",
-          "link": "https://pypi.org/project/semantic-harness/",
-          "date": "22 Aug 2026",
-          "summary": "Cognitive middleware and procedural acceleration runtime for autonomous AI agents"
-        },
-        {
-          "title": "codecrawler added to PyPI",
-          "link": "https://pypi.org/project/codecrawler/",
-          "date": "22 Aug 2026",
-          "summary": "Local-first code search CLI with semantic embeddings. grep + AI for developers."
-        },
-        {
-          "title": "hadal-worker added to PyPI",
-          "link": "https://pypi.org/project/hadal-worker/",
-          "date": "22 Aug 2026",
-          "summary": "Hadal Research worker - contribute GPU compute to open AI research"
-        },
-        {
-          "title": "langchain-memorysync added to PyPI",
-          "link": "https://pypi.org/project/langchain-memorysync/",
-          "date": "22 Aug 2026",
-          "summary": "MemorySync integration for LangChain: chat message history, memory tools, and recall context."
-        },
-        {
-          "title": "oauth-cli-tool added to PyPI",
-          "link": "https://pypi.org/project/oauth-cli-tool/",
-          "date": "22 Aug 2026",
-          "summary": "A command-line interface tool for OAuth device flow and API testing"
-        },
-        {
-          "title": "arches-resource-merge added to PyPI",
-          "link": "https://pypi.org/project/arches-resource-merge/",
-          "date": "22 Aug 2026",
-          "summary": "None"
-        },
-        {
-          "title": "quby added to PyPI",
-          "link": "https://pypi.org/project/quby/",
-          "date": "22 Aug 2026",
-          "summary": "A very simple python library"
-        },
-        {
-          "title": "arches-nested-tile-csv-importer added to PyPI",
-          "link": "https://pypi.org/project/arches-nested-tile-csv-importer/",
-          "date": "22 Aug 2026",
-          "summary": "None"
         }
       ]
     }
