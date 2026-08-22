@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-22T22:12:09Z",
+  "generated": "2026-08-22T23:12:03Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -196,15 +196,15 @@
       "ok": true,
       "items": [
         {
-          "title": "'Ties must serve mutual interest': EAM Jaishankar on Bangladesh",
-          "link": "https://timesofindia.indiatimes.com/india/ties-must-serve-mutual-interest-eam-jaishankar-on-bangladesh/articleshow/133430789.cms",
+          "title": "'Vanished from tracking system': How Panama-flagged cargo ship sank off Odisha coast",
+          "link": "https://timesofindia.indiatimes.com/india/vanished-from-tracking-system-how-panama-flagged-cargo-ship-with-24-on-board-sank-off-odisha-coast/articleshow/133432951.cms",
           "date": "23 Aug 2026",
-          "summary": "'Govt Can't Ignore Public Opinion On Pak'"
+          "summary": ""
         },
         {
-          "title": "Panama-flagged cargo ship sinks off Odisha coast; 2 rescued, 22 missing",
-          "link": "https://timesofindia.indiatimes.com/india/panama-flagged-cargo-ship-sinks-in-bay-of-bengal-240-nautical-miles-off-odisha/articleshow/133427842.cms",
-          "date": "22 Aug 2026",
+          "title": "BCI chairman faces calls to quit, co-chair demands inquiry",
+          "link": "https://timesofindia.indiatimes.com/india/bci-chairman-faces-calls-to-quit-co-chair-demands-inquiry/articleshow/133430963.cms",
+          "date": "23 Aug 2026",
           "summary": ""
         },
         {
@@ -214,10 +214,10 @@
           "summary": "Kuldeep Yadav's absence from India's final training sessions has intensified the selection intrigue ahead of the Colombo Test, with Saransh Jain's strong showing in the nets and Sri Lanka's left-hand-heavy batting line-up adding weight to the off-spinner's cas…"
         },
         {
-          "title": "BCI chairman faces calls to quit, co-chair demands inquiry",
-          "link": "https://timesofindia.indiatimes.com/india/bci-chairman-faces-calls-to-quit-co-chair-demands-inquiry/articleshow/133430963.cms",
+          "title": "'Ties must serve mutual interest': EAM Jaishankar on Bangladesh",
+          "link": "https://timesofindia.indiatimes.com/india/ties-must-serve-mutual-interest-eam-jaishankar-on-bangladesh/articleshow/133430789.cms",
           "date": "23 Aug 2026",
-          "summary": ""
+          "summary": "'Govt Can't Ignore Public Opinion On Pak'"
         },
         {
           "title": "Zohran Mamdani’s office skips City Council meeting on ‘second home tax’",
@@ -1152,6 +1152,12 @@
       "ok": true,
       "items": [
         {
+          "title": "How Will AI Change the Field of Mathematics?",
+          "link": "https://science.slashdot.org/story/26/08/22/2235244/how-will-ai-change-the-field-of-mathematics?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "22 Aug 2026",
+          "summary": "\"AI went from being very terrible to seemingly genuinely quite good at a professional level in a very short space of time...\" says the Verge's AI reporter. But AI systems \"are still truly, truly terrible at some areas of math... even the days of the week.\" If…"
+        },
+        {
           "title": "Rush Rescue Mission for NASA's $500M Space Telescope Fails",
           "link": "https://science.slashdot.org/story/26/08/22/1844225/rush-rescue-mission-for-nasas-500m-space-telescope-fails?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "22 Aug 2026",
@@ -1234,12 +1240,6 @@
           "link": "https://news.slashdot.org/story/26/08/21/1951227/ai-boosted-homework-scores-then-exam-scores-dropped?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "21 Aug 2026",
           "summary": "An anonymous reader quotes a report from The Economist: Students and school children are increasingly using artificial intelligence. A survey last year by Chegg, an ed-tech firm, found that 80% of rich-world undergraduates used it in their studies. More recent…"
-        },
-        {
-          "title": "Man Dressed As Darth Vader Defends Flock Cameras to San Diego City Council",
-          "link": "https://yro.slashdot.org/story/26/08/21/1840254/man-dressed-as-darth-vader-defends-flock-cameras-to-san-diego-city-council?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "21 Aug 2026",
-          "summary": "A man dressed as Darth Vader used a Public Safety and Livable Neighborhoods Committee meeting in San Diego to mock the city's use of Flock surveillance cameras, sarcastically arguing that the technology would help the \"emperor\" track \"rebel scum\" and find Luke…"
         }
       ]
     },
@@ -1630,120 +1630,6 @@
       "ok": true,
       "items": [
         {
-          "title": "spt-models added to PyPI",
-          "link": "https://pypi.org/project/spt-models/",
-          "date": "22 Aug 2026",
-          "summary": "Python client for the SPT Models GPU inference platform"
-        },
-        {
-          "title": "drift-linter added to PyPI",
-          "link": "https://pypi.org/project/drift-linter/",
-          "date": "22 Aug 2026",
-          "summary": "Static linter for the quiet ways code and config fall out of sync"
-        },
-        {
-          "title": "pythcroptogy added to PyPI",
-          "link": "https://pypi.org/project/pythcroptogy/",
-          "date": "22 Aug 2026",
-          "summary": "None"
-        },
-        {
-          "title": "stapel-taskspecs added to PyPI",
-          "link": "https://pypi.org/project/stapel-taskspecs/",
-          "date": "22 Aug 2026",
-          "summary": "Versioned JSON Schema + dataclass models for Stapel Studio pipeline artifacts (TaskSpec, TaskReport, SpecPatch, QAReport, EscalationQuestion, ReviewFinding)"
-        },
-        {
-          "title": "uwsgi-stats added to PyPI",
-          "link": "https://pypi.org/project/uwsgi-stats/",
-          "date": "22 Aug 2026",
-          "summary": "Datadog Agent check for the uWSGI stats server"
-        },
-        {
-          "title": "stapel-realtime added to PyPI",
-          "link": "https://pypi.org/project/stapel-realtime/",
-          "date": "22 Aug 2026",
-          "summary": "Realtime delivery substrate for the Stapel framework — the Signal primitive on the wire"
-        },
-        {
-          "title": "stapel-moderation added to PyPI",
-          "link": "https://pypi.org/project/stapel-moderation/",
-          "date": "22 Aug 2026",
-          "summary": "Target-generic moderation queue: reports, verdicts, sanctions and appeals for the Stapel framework"
-        },
-        {
-          "title": "stapel-forms added to PyPI",
-          "link": "https://pypi.org/project/stapel-forms/",
-          "date": "22 Aug 2026",
-          "summary": "Admin-defined forms, anonymous submissions and response review for the Stapel framework"
-        },
-        {
-          "title": "codereviewai-ai added to PyPI",
-          "link": "https://pypi.org/project/codereviewai-ai/",
-          "date": "22 Aug 2026",
-          "summary": "AI-powered code review with secret detection, approval workflows, and multi-LLM support"
-        },
-        {
-          "title": "stapel-search added to PyPI",
-          "link": "https://pypi.org/project/stapel-search/",
-          "date": "22 Aug 2026",
-          "summary": "Search index, facets, geo-radius and ranking for the Stapel framework"
-        },
-        {
-          "title": "bristlecone-mcp added to PyPI",
-          "link": "https://pypi.org/project/bristlecone-mcp/",
-          "date": "22 Aug 2026",
-          "summary": "Micro-settled utility tools for AI agents and MCP clients by Bristlecone Logic"
-        },
-        {
-          "title": "diodos added to PyPI",
-          "link": "https://pypi.org/project/diodos/",
-          "date": "22 Aug 2026",
-          "summary": "Auto detect and login to the captive portal of given networks."
-        },
-        {
-          "title": "bcl32-media added to PyPI",
-          "link": "https://pypi.org/project/bcl32-media/",
-          "date": "22 Aug 2026",
-          "summary": "Per-app media tree: layout, traversal-safe resolution, thumbnails, document storage and reaping"
-        },
-        {
-          "title": "dfine-seg added to PyPI",
-          "link": "https://pypi.org/project/dfine-seg/",
-          "date": "22 Aug 2026",
-          "summary": "D-FINE-seg: detection + instance + semantic segmentation framework"
-        },
-        {
-          "title": "outrage added to PyPI",
-          "link": "https://pypi.org/project/outrage/",
-          "date": "22 Aug 2026",
-          "summary": "A key-addressed retrieval system for coding agents"
-        },
-        {
-          "title": "iitkgp-erp-autologin added to PyPI",
-          "link": "https://pypi.org/project/iitkgp-erp-autologin/",
-          "date": "22 Aug 2026",
-          "summary": "One-command sign-in for the IIT KGP ERP portal with automatic Gmail OTP retrieval"
-        },
-        {
-          "title": "enforce-rules added to PyPI",
-          "link": "https://pypi.org/project/enforce-rules/",
-          "date": "22 Aug 2026",
-          "summary": "Runtime rule validation for Python using dictionary-based constraints."
-        },
-        {
-          "title": "ampliqc added to PyPI",
-          "link": "https://pypi.org/project/ampliqc/",
-          "date": "22 Aug 2026",
-          "summary": "ampliQC: Context-aware Quality Control (QC) engine specialized for Amplicon sequencing data (16S, 18S, ITS, functional amplicons - Short & Long Reads)"
-        },
-        {
-          "title": "crabwalk-lang added to PyPI",
-          "link": "https://pypi.org/project/crabwalk-lang/",
-          "date": "22 Aug 2026",
-          "summary": "Compile an explicit Python subset into inspectable, rustc-checked native extensions"
-        },
-        {
           "title": "ghostmean added to PyPI",
           "link": "https://pypi.org/project/ghostmean/",
           "date": "22 Aug 2026",
@@ -1808,6 +1694,120 @@
           "link": "https://pypi.org/project/tokc/",
           "date": "22 Aug 2026",
           "summary": "Measure and shrink the token cost of Claude Code skills."
+        },
+        {
+          "title": "movozel added to PyPI",
+          "link": "https://pypi.org/project/movozel/",
+          "date": "22 Aug 2026",
+          "summary": "Movozel CLI — AI video and image generation from the command line"
+        },
+        {
+          "title": "lionauth added to PyPI",
+          "link": "https://pypi.org/project/lionauth/",
+          "date": "22 Aug 2026",
+          "summary": "A reusable Python library for Time-based One-Time Password (TOTP) authentication"
+        },
+        {
+          "title": "letovlm added to PyPI",
+          "link": "https://pypi.org/project/letovlm/",
+          "date": "22 Aug 2026",
+          "summary": "Add your description here"
+        },
+        {
+          "title": "dyceum added to PyPI",
+          "link": "https://pypi.org/project/dyceum/",
+          "date": "22 Aug 2026",
+          "summary": "Interactivity tools for dyce"
+        },
+        {
+          "title": "fastokf added to PyPI",
+          "link": "https://pypi.org/project/fastokf/",
+          "date": "22 Aug 2026",
+          "summary": "Parse Open Knowledge Format documents"
+        },
+        {
+          "title": "farewell-rss added to PyPI",
+          "link": "https://pypi.org/project/farewell-rss/",
+          "date": "22 Aug 2026",
+          "summary": "我到现在终于没有见——大约 RSS 的确死了。"
+        },
+        {
+          "title": "ikebana-py added to PyPI",
+          "link": "https://pypi.org/project/ikebana-py/",
+          "date": "22 Aug 2026",
+          "summary": "None"
+        },
+        {
+          "title": "emotionweb added to PyPI",
+          "link": "https://pypi.org/project/emotionweb/",
+          "date": "22 Aug 2026",
+          "summary": "Generate personalized surprise websites using Python and Django."
+        },
+        {
+          "title": "vinta-django-s3-direct added to PyPI",
+          "link": "https://pypi.org/project/vinta-django-s3-direct/",
+          "date": "22 Aug 2026",
+          "summary": "Direct-to-S3 uploads for Django forms, the admin and DRF, powered by FilePond."
+        },
+        {
+          "title": "octroi-ingest added to PyPI",
+          "link": "https://pypi.org/project/octroi-ingest/",
+          "date": "22 Aug 2026",
+          "summary": "Octroi cloud event client for Python: batches gate events to a Octroi-compatible ingest endpoint."
+        },
+        {
+          "title": "octroi added to PyPI",
+          "link": "https://pypi.org/project/octroi/",
+          "date": "22 Aug 2026",
+          "summary": "Toll gates for HTTP routes: return a 402, verify the payment, serve the 200."
+        },
+        {
+          "title": "veripoint added to PyPI",
+          "link": "https://pypi.org/project/veripoint/",
+          "date": "22 Aug 2026",
+          "summary": "TCP for AI agents: autosave, verification gates, and a time machine for long-running agent work."
+        },
+        {
+          "title": "t4l-agent added to PyPI",
+          "link": "https://pypi.org/project/t4l-agent/",
+          "date": "22 Aug 2026",
+          "summary": "Complete T4L Trainer agent package with embedded server and in-app chat loop."
+        },
+        {
+          "title": "evio added to PyPI",
+          "link": "https://pypi.org/project/evio/",
+          "date": "22 Aug 2026",
+          "summary": "Event-camera I/O and representations. NumPy only, no other dependencies."
+        },
+        {
+          "title": "plevin-db-abuse added to PyPI",
+          "link": "https://pypi.org/project/plevin-db-abuse/",
+          "date": "22 Aug 2026",
+          "summary": "The plevin database answering abuse service and provider, for any IP address."
+        },
+        {
+          "title": "clique-panel added to PyPI",
+          "link": "https://pypi.org/project/clique-panel/",
+          "date": "22 Aug 2026",
+          "summary": "Your private clique of CLIs. Folder-organised, CLI-agnostic coding sessions in a browser, persisted in tmux"
+        },
+        {
+          "title": "topodb added to PyPI",
+          "link": "https://pypi.org/project/topodb/",
+          "date": "22 Aug 2026",
+          "summary": "TopoDB — embedded, temporal, graph-native memory for AI agents"
+        },
+        {
+          "title": "mem-alive added to PyPI",
+          "link": "https://pypi.org/project/mem-alive/",
+          "date": "22 Aug 2026",
+          "summary": "A memory layer for AI agents"
+        },
+        {
+          "title": "pvztools added to PyPI",
+          "link": "https://pypi.org/project/pvztools/",
+          "date": "22 Aug 2026",
+          "summary": "Plants vs. Zombies (PvZ1 & mods) automation framework: memory access with signature-based address discovery, track (轨道) DSL, lineup runner."
         }
       ]
     }
