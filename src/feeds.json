@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-22T07:24:24Z",
+  "generated": "2026-08-22T08:18:31Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,12 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "HDFC and Axis Mutual Fund resume subscriptions in gold ETFs and gold ETF FoFs",
+          "link": "https://economictimes.indiatimes.com/mf/mf-news/hdfc-and-axis-mutual-fund-resume-subscriptions-in-gold-etfs-and-gold-etf-fofs/articleshow/133419582.cms",
+          "date": "22 Aug 2026",
+          "summary": "HDFC and Axis Mutual Fund have resumed unrestricted subscriptions in gold ETFs and funds, following similar moves by Tata and Aditya Birla Sun Life. Restrictions imposed amid strong inflows and physical gold supply constraints are being lifted as market condit…"
+        },
         {
           "title": "F&amp;O Talk: Nifty to consolidate further, says Sudeep Shah; picks 3 stocks for next week",
           "link": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-nifty-to-consolidate-further-says-sudeep-shah-picks-3-stocks-for-next-week/articleshow/133419507.cms",
@@ -36,12 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/uttar-pradesh-remains-indias-largest-crypto-market-in-q2-2026-report/slideshow/133419128.cms",
           "date": "22 Aug 2026",
           "summary": "Crypto adoption expanded across India in Q2 2026, led by Uttar Pradesh, Maharashtra and Karnataka. Regional investment patterns varied, with Andhra Pradesh recording the highest female participation and distinctive cryptocurrency preferences, highlighting the…"
-        },
-        {
-          "title": "Why Indian retail options traders are having a tough time to defuse what Warren Buffett called lethal time bombs",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-indian-retail-options-traders-are-having-a-tough-time-to-defuse-what-warren-buffett-called-lethal-time-bombs/articleshow/133417813.cms",
-          "date": "22 Aug 2026",
-          "summary": "Sebi’s latest study shows that 88% of individual F&O traders lost money in FY26, with options accounting for 92% of aggregate losses. Despite reduced trading volumes, retail losses remained substantial, reinforcing Warren Buffett’s longstanding warnings about…"
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -202,26 +202,26 @@
           "summary": "A software engineer died after a family dispute in Nihal Vihar. His wife's relatives allegedly assaulted him severely on Friday. Police have detained four individuals in connection with the incident. The engineer and his wife had been married for three and a h…"
         },
         {
+          "title": "BJP forms Gen Z outreach team: Nitin Nabin, Smriti Irani and Vinod Tawde among key faces",
+          "link": "https://timesofindia.indiatimes.com/india/bjp-forms-gen-z-outreach-team-nitin-nabin-smriti-irani-and-vinod-tawde-among-key-faces/articleshow/133420259.cms",
+          "date": "22 Aug 2026",
+          "summary": ""
+        },
+        {
           "title": "Yogi, Akhilesh, Mayawati given Rs 10 lakh bulletproof jackets ahead of UP polls",
           "link": "https://timesofindia.indiatimes.com/india/cm-yogi-akhilesh-mayawati-among-52-leaders-given-rs-10-lakh-bulletproof-jackets-ahead-of-up-polls-report/articleshow/133419031.cms",
           "date": "22 Aug 2026",
           "summary": ""
         },
         {
-          "title": "Trade standoff: Trump's 50% tariff kicks in; Carney vows 'dollar-for-dollar' response",
-          "link": "https://timesofindia.indiatimes.com/business/international-business/us-canada-trade-standoff-50-tariff-kicks-in-as-ottawa-vows-dollar-for-dollar-response/articleshow/133417998.cms",
+          "title": "‘Sooryavanshi hasn’t played as much red-ball cricket’: Dravid’s blunt assessment",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/vaibhav-sooryavanshi-hasnt-played-as-much-red-ball-cricket-rahul-dravids-blunt-assessment-of-test-prospects/articleshow/133419993.cms",
           "date": "22 Aug 2026",
-          "summary": "Trade negotiations between the United States and Canada fell apart after a three-day face-off. Canada called a halt to discussions, criticizing the US for presenting proposals that were both unfair and detrimental. In a dramatic move, the US introduced hefty t…"
+          "summary": "Rahul Dravid advocates for a well-balanced strategy for aspiring cricketer Vaibhav Sooryavanshi. He points out the crucial role of red-ball cricket alongside white-ball fixtures in a player's development. Such diverse training is anticipated to aid Sooryavansh…"
         },
         {
-          "title": "Duleep Trophy: Sanat Sangwan, a Kohli &amp; Lewis Hamilton fan, ready for next challenge",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/duleep-trophy-sanat-sangwan-a-virat-kohli-and-lewis-hamilton-fan-ready-for-next-big-challenge/articleshow/133418395.cms",
-          "date": "22 Aug 2026",
-          "summary": "Delhi opener Sanat Sangwan was one of the breakout stars of the 2025-26 Ranji Trophy season. The 25-year-old amassed 828 runs at an average of 69, including three hundreds, and is gearing up for the next big challenge of his career in the upcoming Duleep Troph…"
-        },
-        {
-          "title": "Jaishankar to visit Russia on August 23-24; focus on trade, scientific cooperation",
-          "link": "https://timesofindia.indiatimes.com/india/jaishankar-to-visit-russia-on-august-23-24-focus-on-trade-scientific-cooperation/articleshow/133419437.cms",
+          "title": "‘Bribe to suppress rape case’ allegation: Mann’s wife sends notice to ex-judge",
+          "link": "https://timesofindia.indiatimes.com/india/bribe-to-suppress-rape-case-allegation-punjab-cms-wife-sends-legal-notice-to-ex-hc-judge/articleshow/133419647.cms",
           "date": "22 Aug 2026",
           "summary": ""
         },
@@ -232,8 +232,80 @@
           "summary": "New SIM card regulations will take effect from August twenty-fourth. Telecom operators must identify and inform customers exceeding their mobile connection limits. Initially, verification will occur post-activation, with a move to real-time checks by November.…"
         },
         {
+          "title": "Trade standoff: Trump's 50% tariff kicks in; Carney vows 'dollar-for-dollar' response",
+          "link": "https://timesofindia.indiatimes.com/business/international-business/us-canada-trade-standoff-50-tariff-kicks-in-as-ottawa-vows-dollar-for-dollar-response/articleshow/133417998.cms",
+          "date": "22 Aug 2026",
+          "summary": "Trade negotiations between the United States and Canada fell apart after a three-day face-off. Canada called a halt to discussions, criticizing the US for presenting proposals that were both unfair and detrimental. In a dramatic move, the US introduced hefty t…"
+        },
+        {
+          "title": "29 states vs Meta: How a landmark child safety trial could reshape Facebook, Insta",
+          "link": "https://timesofindia.indiatimes.com/business/international-business/29-states-vs-meta-how-a-landmark-child-safety-trial-could-reshape-facebook-and-instagram/articleshow/133420026.cms",
+          "date": "22 Aug 2026",
+          "summary": "Twenty-nine US states are suing Meta, alleging exploitative product design targeting young users. The lawsuit claims Meta concealed internal research about potential harms to teenagers. States seek substantial financial penalties and court-ordered product rede…"
+        },
+        {
+          "title": "‘Say no to captaincy’: Ex-India cricketer’s big warning for Rishabh Pant",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/say-no-to-captaincy-ex-india-cricketers-big-warning-for-rishabh-pant-after-dc-return/articleshow/133418547.cms",
+          "date": "22 Aug 2026",
+          "summary": "Rishabh Pant's comeback to the Delhi Capitals ignites discussions regarding future captaincy. Former batsman Wasim Jaffer advises Pant to concentrate on regaining his batting form rather than taking on leadership duties just yet. Meanwhile, Axar Patel's captai…"
+        },
+        {
+          "title": "Zuckerberg buys Gothic castle in Ireland, Meta's international HQ, for $35 mn",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-buys-gothic-castle-in-ireland-metas-international-headquarters-for-35-million/articleshow/133393911.cms",
+          "date": "21 Aug 2026",
+          "summary": "Meta CEO, Mark Zuckerberg, and his wife, Priscilla Chan, have acquired the historic Strancally Castle, a stunning Gothic mansion set on an expansive estate in Ireland. This remarkable property will serve as their home base during visits to the nation, which is…"
+        },
+        {
+          "title": "Duleep Trophy: Sanat Sangwan, a Kohli &amp; Lewis Hamilton fan, ready for next challenge",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/duleep-trophy-sanat-sangwan-a-virat-kohli-and-lewis-hamilton-fan-ready-for-next-big-challenge/articleshow/133418395.cms",
+          "date": "22 Aug 2026",
+          "summary": "Delhi opener Sanat Sangwan was one of the breakout stars of the 2025-26 Ranji Trophy season. The 25-year-old amassed 828 runs at an average of 69, including three hundreds, and is gearing up for the next big challenge of his career in the upcoming Duleep Troph…"
+        },
+        {
+          "title": "19.5-acre mirrored New York home blends into forest, lists for $15M",
+          "link": "https://timesofindia.indiatimes.com/real-estate/news/built-to-reflect-the-trees-around-it-this-19-5-acre-new-york-home-almost-disappears-into-the-forest-the-striking-property-is-now-on-the-market-for-15-million/articleshow/133418991.cms",
+          "date": "22 Aug 2026",
+          "summary": "Nestled in Pound Ridge, New York, this extraordinary home is listed for fifteen million dollars. Its mirrored facade seamlessly merges with the lush forest while reflecting the beauty of each season. Crafted by KieranTimberlake, the design emphasizes harmony w…"
+        },
+        {
+          "title": "Brazilian mother and daughter built seven-bedroom home from 8,000 glass bottles",
+          "link": "https://timesofindia.indiatimes.com/world/us/in-2020-a-brazilian-mother-and-daughter-began-collecting-discarded-bottles-years-later-more-than-8000-glass-bottles-had-become-the-walls-of-their-seven-bedroom-home-that-glows-during-sunrise/articleshow/133371813.cms",
+          "date": "20 Aug 2026",
+          "summary": "A visionary mother and daughter duo transformed sustainability into an art form, building a seven-room home out of more than 8,000 recycled glass bottles. Incorporating elements like reclaimed wood and toothpaste tubes, this remarkable endeavor addresses the d…"
+        },
+        {
+          "title": "Most firms that laid off staff due to AI in America seemingly have a new slogan",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/most-companies-across-america-laying-off-employees-seemingly-have-a-new-slogan-not-being-replaced-by-/articleshow/133420076.cms",
+          "date": "22 Aug 2026",
+          "summary": "Corporate executives are adopting a more measured tone about the role of AI in the job market. Investors are seeking evidence that AI investments are enhancing profit margins. As job losses become more frequent, public concerns escalate, with many Americans fe…"
+        },
+        {
+          "title": "Jaishankar to visit Russia on August 23-24; focus on trade, scientific cooperation",
+          "link": "https://timesofindia.indiatimes.com/india/jaishankar-to-visit-russia-on-august-23-24-focus-on-trade-scientific-cooperation/articleshow/133419437.cms",
+          "date": "22 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "From border watch to deep strikes: Army raises first Baaz drone battalion",
+          "link": "https://timesofindia.indiatimes.com/defence/news/from-border-watch-to-deep-strikes-army-raises-first-baaz-drone-battalion/articleshow/133419803.cms",
+          "date": "22 Aug 2026",
+          "summary": "The Army has established its first dedicated drone battalion, the Baaz Battalion, along the western front. This new unit will operate under the Vajra Corps, overseeing sensitive border areas in northern Punjab. The Army is integrating more drones across variou…"
+        },
+        {
+          "title": "‘Great candidate’: JD Vance backs ‘friend’ Vivek Ramaswamy for Ohio governor",
+          "link": "https://timesofindia.indiatimes.com/world/us/great-candidate-jd-vance-backs-friend-vivek-ramaswamy-for-ohio-governor/articleshow/133419137.cms",
+          "date": "22 Aug 2026",
+          "summary": "US Vice President JD Vance has endorsed Vivek Ramaswamy for Ohio governor. Ramaswamy, an Indian-American entrepreneur, won the Republican primary with Donald Trump's backing. He will face Democrat Amy Acton in the November election. Vance highlighted his Rust…"
+        },
+        {
           "title": "'Arrogance brings downfall': Jayant Chaudhary on Akhilesh's 'chavanni' remark",
           "link": "https://timesofindia.indiatimes.com/india/arrogance-causes-downfall-jayant-chaudhary-on-akhilesh-yadavs-chavanni-remark/articleshow/133417427.cms",
+          "date": "22 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "J&amp;K: Kishtwar girl dies after ‘forced abortion’ bid, teacher held",
+          "link": "https://timesofindia.indiatimes.com/india/kishtwar-girl-dies-after-forced-abortion-bid-teacher-held/articleshow/133412649.cms",
           "date": "22 Aug 2026",
           "summary": ""
         },
@@ -250,34 +322,16 @@
           "summary": "Prabath Jayasuriya shares insights on his long-awaited Test debut and impressive performances with the Sri Lankan team. Following a disappointing first Test, he emphasizes the need for more defined bowling strategies. Identifying the likes of Joe Root, Kane Wi…"
         },
         {
-          "title": "Zuckerberg buys Gothic castle in Ireland, Meta's international HQ, for $35 mn",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-buys-gothic-castle-in-ireland-metas-international-headquarters-for-35-million/articleshow/133393911.cms",
-          "date": "21 Aug 2026",
-          "summary": "Meta CEO, Mark Zuckerberg, and his wife, Priscilla Chan, have acquired the historic Strancally Castle, a stunning Gothic mansion set on an expansive estate in Ireland. This remarkable property will serve as their home base during visits to the nation, which is…"
-        },
-        {
           "title": "Swedish defence giant Saab unveils stealthy supersonic fighter drone to fly with Gripen E",
           "link": "https://timesofindia.indiatimes.com/defence/international/swedish-defence-giant-saab-unveils-stealthy-supersonic-fighter-drone-to-fly-with-gripen-e/articleshow/133419610.cms",
           "date": "22 Aug 2026",
           "summary": "Saab, the Swedish defense leader, has introduced a revolutionary concept for a stealthy, supersonic autonomous combat aircraft. Designed to complement the Gripen E fighter jets, this unmanned marvel focuses on executing diverse combat roles while minimizing ra…"
         },
         {
-          "title": "Cornell cools campus with 39°F water from 250 ft below Cayuga Lake, cuts energy 85%",
-          "link": "https://timesofindia.indiatimes.com/world/us/in-2000-cornell-began-pulling-39f-water-from-250-feet-below-cayuga-lake-to-cool-its-campus-the-system-now-cuts-cooling-energy-use-by-about-85/articleshow/133417957.cms",
+          "title": "Stephen and Ayesha Curry’s foundation gets $200,000 support for Oakland",
+          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/stephen-curry-and-ayesha-currys-foundation-lands-major-200000-support-as-they-continue-giving-back-to-oakland/articleshow/133413196.cms",
           "date": "22 Aug 2026",
-          "summary": "Launched in 2000, Cornell University's lake source cooling system exemplifies sustainable innovation, utilizing the icy waters of Cayuga Lake to meet the campus's cooling demands. This groundbreaking initiative, which commenced construction in 1999, achieved a…"
-        },
-        {
-          "title": "Meet Caden Pohlkamp, 7th grader who built an underwater robot to test ponds",
-          "link": "https://timesofindia.indiatimes.com/world/us/meet-caden-pohlkamp-the-texas-seventh-grader-who-built-an-underwater-robot-to-test-12-neighbourhood-ponds-fountains-were-linked-to-healthier-water/articleshow/133407094.cms",
-          "date": "21 Aug 2026",
-          "summary": "In Texas, a resourceful seventh-grader has crafted an underwater robot to analyze pond water quality. This clever invention measures environmental variables at varying depths across twelve ponds. Results demonstrated that artificial fountains greatly enhance w…"
-        },
-        {
-          "title": "Sam Altman thinks that four years is too much to be in college",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/sam-altman-thinks-that-four-years-is-too-much-to-be-in-college-says-that-while-it-shouldnt-be-as-long-as-it-is-but-is-still-great-to-/articleshow/133418611.cms",
-          "date": "22 Aug 2026",
-          "summary": "Sam Altman, the CEO of OpenAI, prompts a reevaluation of the traditional four-year college path, sharing his own experience that just two years at Stanford sufficed for his education. In today’s tech landscape, many find success without the need for a degree.…"
+          "summary": "Stephen Curry and Ayesha Curry's foundation has received a major $200,000 donation as the star player gears up for the new season."
         },
         {
           "title": "GCCs keep India’s office market buzzing, Bengaluru takes the lead",
@@ -298,6 +352,12 @@
           "summary": "Veteran actress Poonam Dhillon is recuperating at Lilavati Hospital following a dengue diagnosis. Her treatment is progressing well, and she is expected to be discharged soon. In the meantime, Dhillon is facing serious allegations of authoritarianism within th…"
         },
         {
+          "title": "Travis Kelce opens up on seeking professional help after life changed overnight",
+          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/i-had-to-sit-down-with-a-shrink-travis-kelce-opens-up-about-seeking-professional-help-after-his-life-changed-overnight-ahead-of-the-new-season/articleshow/133413599.cms",
+          "date": "22 Aug 2026",
+          "summary": "Travis Kelce might be one of the most popula athletes in the world but he had to seek professional help which had changed his life overnight."
+        },
+        {
           "title": "BJP chief Nitin Nabin holds first meeting with new team ahead of polls",
           "link": "https://timesofindia.indiatimes.com/india/bjp-chief-nitin-nabin-holds-first-meet-with-new-team-ahead-of-polls/articleshow/133418073.cms",
           "date": "22 Aug 2026",
@@ -314,66 +374,6 @@
           "link": "https://timesofindia.indiatimes.com/city/ranchi/3-engineers-burnt-alive-after-fire-breaks-out-at-factory-in-jharkhand/articleshow/133417555.cms",
           "date": "22 Aug 2026",
           "summary": "A turbine blast at a Ramgarh factory killed three engineers early Saturday morning. The explosion triggered a major fire which spread rapidly through the control room. One other employee sustained injuries and received hospital treatment for his wounds. Local…"
-        },
-        {
-          "title": "‘Blown away and hammered’: Ex-England captain says Pakistan lack ‘spirit’",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/blown-away-and-hammered-ex-england-captain-says-pakistan-lack-spirit-after-embarrassing-defeat/articleshow/133417129.cms",
-          "date": "22 Aug 2026",
-          "summary": "Michael Vaughan expressed serious concern over Pakistan's recent Test performance. England secured a comprehensive innings victory in the opening match. Pakistan's batting collapsed twice, showing a lack of confidence. Vaughan noted tactical shortcomings and a…"
-        },
-        {
-          "title": "'Antisemitic dictator': Netanyahu slams Erdogan after Turkey seeks Interpol action",
-          "link": "https://timesofindia.indiatimes.com/world/middle-east/antisemitic-dictator-netanyahu-slams-turkeys-erdogan-vows-not-to-tolerate-aggression-in-syria/articleshow/133417564.cms",
-          "date": "22 Aug 2026",
-          "summary": "Israel's Prime Minister Netanyahu fiercely criticized Turkey's President Erdogan after Ankara sought an Interpol notice. Erdogan's government requested the notice concerning an interception of a Gaza aid flotilla. Netanyahu's office labeled Erdogan an antisemi…"
-        },
-        {
-          "title": "1 fall, 3 deaths at Maharashtra hill: How teen's iPhone demand ended in tragedy",
-          "link": "https://timesofindia.indiatimes.com/city/aurangabad/think-about-your-mother-1-fall-3-deaths-at-maharashtra-hill-how-teens-iphone-demand-ended-in-tragedy/articleshow/133415886.cms",
-          "date": "22 Aug 2026",
-          "summary": "An eighteen-year-old died after jumping from a hill when his parents refused him a mobile phone. His parents also lost their lives while attempting to rescue him from the steep cliff. Rescuers and family members made frantic efforts for nearly three hours to s…"
-        },
-        {
-          "title": "Sambhal violence: Interpol issues Red Corner Notice against mastermind Shariq Satha",
-          "link": "https://timesofindia.indiatimes.com/india/sambhal-violence-interpol-issues-red-corner-notice-against-mastermind-shariq-satha/articleshow/133416669.cms",
-          "date": "22 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Gen Alpha protests mirror govt report: Big gaps in school education",
-          "link": "https://timesofindia.indiatimes.com/india/gen-alpha-protests-mirror-government-report-big-gaps-in-school-education/articleshow/133413500.cms",
-          "date": "22 Aug 2026",
-          "summary": "Issues Neither Unique To Any Region, Nor Universal"
-        },
-        {
-          "title": "Co-host Netherlands wear blue on blue turf, India play in saffron in Hockey WC",
-          "link": "https://timesofindia.indiatimes.com/sports/hockey/hockey-world-cup/hockey-world-cup-netherlands-wear-blue-on-blue-turf-india-play-in-saffron-after-visibility-claim/articleshow/133416209.cms",
-          "date": "22 Aug 2026",
-          "summary": "In India women's first match of the second round of the FIH World Cup againt the co-hosts Netherlands on Friday in Amstelveen, India walked out in saffron. The Netherlands walked out in blue."
-        },
-        {
-          "title": "Why Canada suspended US trade talks despite Trump's ‘good relationship’ with Carney",
-          "link": "https://timesofindia.indiatimes.com/business/international-business/why-canada-suspended-us-trade-talks-at-last-minute-despite-trumps-good-relationship-with-carney/articleshow/133417147.cms",
-          "date": "22 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Joint R&amp;D, military engagement &amp; Indo-Pacific security: India, UK deepen defence partnership",
-          "link": "https://timesofindia.indiatimes.com/defence/news/joint-rd-military-engagement-indo-pacific-security-india-uk-deepen-defence-partnership/articleshow/133417401.cms",
-          "date": "22 Aug 2026",
-          "summary": "India and the United Kingdom advanced their defence partnership during a key consultative meeting. Both nations agreed to expand military-to-military engagement and joint exercises across their armed forces. Maritime security in the Indo-Pacific region was a s…"
-        },
-        {
-          "title": "Brad &amp; Angelina's daughter, Vivienne posts ad to officially drop 'Pitt' surname",
-          "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brad-pitt-and-angelina-jolies-daughter-vivienne-posts-newspaper-ad-to-officially-drop-fathers-surname-in-legal-name-change/articleshow/133415243.cms",
-          "date": "22 Aug 2026",
-          "summary": "Vivienne Jolie-Pitt is legally dropping her father's surname, publishing court notices. Her siblings Zahara and Maddox have also pursued similar name changes. Shiloh Jolie-Pitt was the first to officially remove the 'Pitt' surname. Vivienne has been profession…"
-        },
-        {
-          "title": "In 1921, New York moved a New Jersey lighthouse to the Hudson; a book saved it",
-          "link": "https://timesofindia.indiatimes.com/world/us/in-1921-new-york-moved-a-new-jersey-lighthouse-to-the-hudson-30-years-later-a-childrens-book-helped-save-it-from-demolition/articleshow/133411777.cms",
-          "date": "22 Aug 2026",
-          "summary": "In 1921, a lighthouse from New Jersey was relocated to the banks of the Hudson River. Although it once played a crucial role in navigation, the construction of the George Washington Bridge overshadowed its significance. However, a beloved children's book publi…"
         }
       ]
     },
@@ -760,6 +760,18 @@
       "ok": true,
       "items": [
         {
+          "title": "RayNeo's new AI glasses skip the camera, focus on text overlays",
+          "link": "https://the-decoder.com/rayneos-new-ai-glasses-skip-the-camera-focus-on-text-overlays/",
+          "date": "22 Aug 2026",
+          "summary": "RayNeo is launching a new headset without a camera or speakers. The article RayNeo&#039;s new AI glasses skip the camera, focus on text overlays appeared first on The Decoder ."
+        },
+        {
+          "title": "Netflix tests language model as alternative to hand-built recommendation logic",
+          "link": "https://the-decoder.com/netflix-tests-language-model-as-alternative-to-hand-built-recommendation-logic/",
+          "date": "22 Aug 2026",
+          "summary": "Netflix pitted its years-old recommendation engine against an in-house language model called GenRec and says it got better results. Instead of relying on thousands of hand-crafted features, GenRec converts viewing behavior into plain text. Netflix itself calls…"
+        },
+        {
           "title": "Psychological methods reveal major weaknesses in AI security testing",
           "link": "https://the-decoder.com/psychological-methods-reveal-major-weaknesses-in-ai-security-testing/",
           "date": "22 Aug 2026",
@@ -806,18 +818,6 @@
           "link": "https://the-decoder.com/anthropic-changes-data-retention-policy-after-enterprise-pushback/",
           "date": "21 Aug 2026",
           "summary": "Anthropic is easing its controversial data storage policy, letting enterprise customers keep their own data going forward. The article Anthropic changes data retention policy after enterprise pushback appeared first on The Decoder ."
-        },
-        {
-          "title": "Nvidia is acquiring Poolside's \"Model Factory\" and 109 employees for $6 billion",
-          "link": "https://the-decoder.com/nvidia-is-acquiring-poolsides-model-factory-and-109-employees-for-6-billion/",
-          "date": "21 Aug 2026",
-          "summary": "Nvidia is paying $6 billion for software that builds AI models from the startup Poolside, and it wants to bring on 109 employees. The article Nvidia is acquiring Poolside&#039;s &quot;Model Factory&quot; and 109 employees for $6 billion appeared first on The D…"
-        },
-        {
-          "title": "GPT-5.6 Sol drives OpenAI's revenue surge as it regains ground on Anthropic",
-          "link": "https://the-decoder.com/gpt-5-6-sol-drives-openais-revenue-surge-as-it-regains-ground-on-anthropic/",
-          "date": "21 Aug 2026",
-          "summary": "Since GPT-5.6 Sol launched in early July, OpenAI says revenue is up 35 percent this quarter, with enterprise revenue growing more than 50 percent. Ramp data shows OpenAI outpacing Anthropic in business API spending for the first time after Anthropic had overta…"
         }
       ]
     },
@@ -1630,6 +1630,120 @@
       "ok": true,
       "items": [
         {
+          "title": "arcmira added to PyPI",
+          "link": "https://pypi.org/project/arcmira/",
+          "date": "22 Aug 2026",
+          "summary": "Arcmira is an SF-based AI company and the search engine for the spoken web."
+        },
+        {
+          "title": "EmBracePy added to PyPI",
+          "link": "https://pypi.org/project/embracepy/",
+          "date": "22 Aug 2026",
+          "summary": "Brace-delimited Python source lowered to ordinary Python."
+        },
+        {
+          "title": "otapp-pdf added to PyPI",
+          "link": "https://pypi.org/project/otapp-pdf/",
+          "date": "22 Aug 2026",
+          "summary": "Kaken OT and Warehouse Slip Management and Export Application (PDF and Excel)"
+        },
+        {
+          "title": "whirl-tf added to PyPI",
+          "link": "https://pypi.org/project/whirl-tf/",
+          "date": "22 Aug 2026",
+          "summary": "Timestamped coordinate-frame transforms for robotics"
+        },
+        {
+          "title": "odm-cert-generator added to PyPI",
+          "link": "https://pypi.org/project/odm-cert-generator/",
+          "date": "22 Aug 2026",
+          "summary": "Render a QC certificate from a bmc-sensor-audit attestation."
+        },
+        {
+          "title": "helen-rust added to PyPI",
+          "link": "https://pypi.org/project/helen-rust/",
+          "date": "22 Aug 2026",
+          "summary": "Helen language Rust runtime — Python bridge (import and call Helen agents from Python)"
+        },
+        {
+          "title": "airadio added to PyPI",
+          "link": "https://pypi.org/project/airadio/",
+          "date": "22 Aug 2026",
+          "summary": "Local AI radio loop with MiniMax Music 3 generation and interstitial fill"
+        },
+        {
+          "title": "papt added to PyPI",
+          "link": "https://pypi.org/project/papt/",
+          "date": "22 Aug 2026",
+          "summary": "Make pip's operation as similar to apt as possible."
+        },
+        {
+          "title": "bro-ocr added to PyPI",
+          "link": "https://pypi.org/project/bro-ocr/",
+          "date": "22 Aug 2026",
+          "summary": "Lightweight, LLM-agnostic OCR scaffolding: define regions and schemas with Template, build/validate structured extraction with SchemaConverter."
+        },
+        {
+          "title": "memory-reuse added to PyPI",
+          "link": "https://pypi.org/project/memory-reuse/",
+          "date": "22 Aug 2026",
+          "summary": "Execution cache layer for AI agents — cut LLM and tool call costs by reusing previous results."
+        },
+        {
+          "title": "gdn2-pallas added to PyPI",
+          "link": "https://pypi.org/project/gdn2-pallas/",
+          "date": "22 Aug 2026",
+          "summary": "Gated DeltaNet-2 with fused Pallas kernels, optimized for TPU v5e"
+        },
+        {
+          "title": "llama-index-readers-hydrafetch added to PyPI",
+          "link": "https://pypi.org/project/llama-index-readers-hydrafetch/",
+          "date": "22 Aug 2026",
+          "summary": "LlamaIndex reader for Hydrafetch. Load clean, LLM-ready web data into an index."
+        },
+        {
+          "title": "x-dl added to PyPI",
+          "link": "https://pypi.org/project/x-dl/",
+          "date": "22 Aug 2026",
+          "summary": "Download videos from X (formerly Twitter) - works like a mini yt-dlp"
+        },
+        {
+          "title": "rekin added to PyPI",
+          "link": "https://pypi.org/project/rekin/",
+          "date": "22 Aug 2026",
+          "summary": "None"
+        },
+        {
+          "title": "odm-qa-pipeline added to PyPI",
+          "link": "https://pypi.org/project/odm-qa-pipeline/",
+          "date": "22 Aug 2026",
+          "summary": "Compose the ODM QA gates and aggregate one verdict from four."
+        },
+        {
+          "title": "b4n1-boost added to PyPI",
+          "link": "https://pypi.org/project/b4n1-boost/",
+          "date": "22 Aug 2026",
+          "summary": "B4N1-BOOST — Transparent middleware accelerator for Django, FastAPI and Flask"
+        },
+        {
+          "title": "friday-ai-agent-harness added to PyPI",
+          "link": "https://pypi.org/project/friday-ai-agent-harness/",
+          "date": "22 Aug 2026",
+          "summary": "A local-first personal assistant: pluggable model providers, three-layer memory, tracing and evals."
+        },
+        {
+          "title": "zenmem added to PyPI",
+          "link": "https://pypi.org/project/zenmem/",
+          "date": "22 Aug 2026",
+          "summary": "zenmem LLM SDK — sessions, scoped memory, multi-provider LLM calls"
+        },
+        {
+          "title": "qa-orchestrator added to PyPI",
+          "link": "https://pypi.org/project/qa-orchestrator/",
+          "date": "22 Aug 2026",
+          "summary": "Inject faults, drive walks, and check the audit tool reached the verdict it should have."
+        },
+        {
           "title": "papeete-deploy added to PyPI",
           "link": "https://pypi.org/project/papeete-deploy/",
           "date": "22 Aug 2026",
@@ -1694,120 +1808,6 @@
           "link": "https://pypi.org/project/triggercam/",
           "date": "22 Aug 2026",
           "summary": "Thread-safe webcam capture with on-demand start/stop recording, built on OpenCV"
-        },
-        {
-          "title": "sendsoon-mcp added to PyPI",
-          "link": "https://pypi.org/project/sendsoon-mcp/",
-          "date": "22 Aug 2026",
-          "summary": "MCP server for SendSoon: send email, look up public IP information, and convert files to Markdown from Claude, Cursor, Codex, and other AI agents."
-        },
-        {
-          "title": "styleText-vish added to PyPI",
-          "link": "https://pypi.org/project/styletext-vish/",
-          "date": "22 Aug 2026",
-          "summary": "None"
-        },
-        {
-          "title": "pagedoc-rag added to PyPI",
-          "link": "https://pypi.org/project/pagedoc-rag/",
-          "date": "22 Aug 2026",
-          "summary": "CPU-First Multimodal Document Chunking, Ingestion & Retrieval Engine using Native PDF Extraction, OCR, Multi-Vector Embeddings, and MaxSim Late Interaction"
-        },
-        {
-          "title": "opencode-chat-exporter added to PyPI",
-          "link": "https://pypi.org/project/opencode-chat-exporter/",
-          "date": "22 Aug 2026",
-          "summary": "Export OpenCode / AntiGravity local chats to a single connected Markdown file (GUI + CLI)"
-        },
-        {
-          "title": "zyntalic added to PyPI",
-          "link": "https://pypi.org/project/zyntalic/",
-          "date": "22 Aug 2026",
-          "summary": "Deterministic synthetic-language toolkit (Zyntalic) with anchor priors and S-O-V-C surface order"
-        },
-        {
-          "title": "stash-sdk added to PyPI",
-          "link": "https://pypi.org/project/stash-sdk/",
-          "date": "22 Aug 2026",
-          "summary": "Python SDK for Stash — shared memory for AI agents"
-        },
-        {
-          "title": "pepkio-safe-table-bio added to PyPI",
-          "link": "https://pypi.org/project/pepkio-safe-table-bio/",
-          "date": "22 Aug 2026",
-          "summary": "Python client for Pepkio safe-table-bio tool"
-        },
-        {
-          "title": "catchbench added to PyPI",
-          "link": "https://pypi.org/project/catchbench/",
-          "date": "22 Aug 2026",
-          "summary": "CatchBench: a benchmark for agent auditing across the PRE / LIVE / POST lifecycle."
-        },
-        {
-          "title": "i-want-to-say-that added to PyPI",
-          "link": "https://pypi.org/project/i-want-to-say-that/",
-          "date": "22 Aug 2026",
-          "summary": "A simple package that prints a greeting message"
-        },
-        {
-          "title": "pepkio-realistic-random-seq-generator added to PyPI",
-          "link": "https://pypi.org/project/pepkio-realistic-random-seq-generator/",
-          "date": "22 Aug 2026",
-          "summary": "Python client for Pepkio realistic-random-seq-generator tool"
-        },
-        {
-          "title": "dsh-cloud added to PyPI",
-          "link": "https://pypi.org/project/dsh-cloud/",
-          "date": "22 Aug 2026",
-          "summary": "Safe self-host installer and lifecycle CLI for DSH Cloud Community Edition"
-        },
-        {
-          "title": "exp-gateway-native added to PyPI",
-          "link": "https://pypi.org/project/exp-gateway-native/",
-          "date": "22 Aug 2026",
-          "summary": "Rust data plane for the Experiential local gateway (compiled extension module)."
-        },
-        {
-          "title": "repomind-ai added to PyPI",
-          "link": "https://pypi.org/project/repomind-ai/",
-          "date": "22 Aug 2026",
-          "summary": "Understand any GitHub repository with AI - analysis plus evidence-based agent chat."
-        },
-        {
-          "title": "ocloud added to PyPI",
-          "link": "https://pypi.org/project/ocloud/",
-          "date": "22 Aug 2026",
-          "summary": "A production-grade Python library for unified cloud management across AWS, Azure, and GCP"
-        },
-        {
-          "title": "wellcrop added to PyPI",
-          "link": "https://pypi.org/project/wellcrop/",
-          "date": "22 Aug 2026",
-          "summary": "A computer vision utility for automated detection, alignment, and extraction of wells from multi-well plate scans."
-        },
-        {
-          "title": "git-reattribute added to PyPI",
-          "link": "https://pypi.org/project/git-reattribute/",
-          "date": "22 Aug 2026",
-          "summary": "Replace one Git identity with another across a repository's history, safely."
-        },
-        {
-          "title": "tensite-bms-ble added to PyPI",
-          "link": "https://pypi.org/project/tensite-bms-ble/",
-          "date": "22 Aug 2026",
-          "summary": "Read Tensite / UhomeEnergy BMS battery clusters over BLE"
-        },
-        {
-          "title": "sealedwebtoken added to PyPI",
-          "link": "https://pypi.org/project/sealedwebtoken/",
-          "date": "22 Aug 2026",
-          "summary": "Official Python SDK for Odysii Sealed Web Tokens (SWT)"
-        },
-        {
-          "title": "microspec-py added to PyPI",
-          "link": "https://pypi.org/project/microspec-py/",
-          "date": "22 Aug 2026",
-          "summary": "microspec: micro protocol parser and data validator from a simple JSON spec"
         }
       ]
     }
