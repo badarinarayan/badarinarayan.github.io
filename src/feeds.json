@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-22T18:16:22Z",
+  "generated": "2026-08-22T19:16:20Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -196,20 +196,20 @@
       "ok": true,
       "items": [
         {
-          "title": "Panama-flagged cargo ship carrying 24 on board sinks off Odisha coast",
+          "title": "Can Carney keep up? Canada cancels trade talks with US - what's at stake",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/can-carney-keep-up-canada-cancels-trade-talks-with-us-whats-at-stake/articleshow/133428861.cms",
+          "date": "22 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Panama-flagged cargo ship sinks off Odisha coast; 2 rescued, 22 missing",
           "link": "https://timesofindia.indiatimes.com/india/panama-flagged-cargo-ship-sinks-in-bay-of-bengal-240-nautical-miles-off-odisha/articleshow/133427842.cms",
           "date": "22 Aug 2026",
           "summary": ""
         },
         {
-          "title": "‘Opened Pandora’s box’: Putin’s warns Ukraine after strike on Russian economic infra",
+          "title": "‘Opened Pandora’s box’: Putin warns Ukraine after strike on Russian economic infra",
           "link": "https://timesofindia.indiatimes.com/world/europe/you-opened-pandoras-box-putin-warns-ukraine-of-response-after-kyiv-strikes-russian-economic-targets/articleshow/133427980.cms",
-          "date": "22 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Can Carney keep up? Canada cancels trade talks with US - what's at stake",
-          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/can-carney-keep-up-canada-cancels-trade-talks-with-us-whats-at-stake/articleshow/133428861.cms",
           "date": "22 Aug 2026",
           "summary": ""
         },
@@ -262,16 +262,16 @@
           "summary": "India's food regulator FSSAI has issued over 150 notices to major food companies recently. These notices address misleading advertisements and non-compliance with labeling regulations. Action has been taken against brands like Nestle India and Coca-Cola India.…"
         },
         {
-          "title": "California family kept ranching after selling 890 acres to National Park Service",
-          "link": "https://timesofindia.indiatimes.com/world/us/in-1974-the-national-park-service-bought-the-stewart-familys-890-acre-california-ranch-they-negotiated-the-right-to-remain-and-continued-ranching-there-until-2021/articleshow/133428074.cms",
-          "date": "22 Aug 2026",
-          "summary": ""
+          "title": "£170,000 annexe built for disabled daughter faces demolition after complaints",
+          "link": "https://timesofindia.indiatimes.com/world/uk/a-mother-spent-170000-building-a-two-storey-annexe-to-give-her-disabled-daughter-a-safe-home-in-worcester-it-now-faces-demolition-after-neighbours-complain/articleshow/133408310.cms",
+          "date": "21 Aug 2026",
+          "summary": "A mother who spent £170,000 building a two-storey annexe for her disabled daughter could now be forced to demolish it after losing a planning appeal. Clair Birch, 59, built the one-bedroom annexe in the garden of her semi-detached home in Worcester. She said t…"
         },
         {
-          "title": "Miami Beach sinks 22 concrete cars underwater to create a coral habitat",
-          "link": "https://timesofindia.indiatimes.com/science/in-2025-miami-beach-sank-22-concrete-cars-20-feet-underwater-the-surreal-traffic-jam-was-built-to-support-2200-corals-and-marine-life/articleshow/133410820.cms",
-          "date": "22 Aug 2026",
-          "summary": ""
+          "title": "Brazilian mother and daughter built seven-bedroom home from 8,000 glass bottles",
+          "link": "https://timesofindia.indiatimes.com/world/us/in-2020-a-brazilian-mother-and-daughter-began-collecting-discarded-bottles-years-later-more-than-8000-glass-bottles-had-become-the-walls-of-their-seven-bedroom-home-that-glows-during-sunrise/articleshow/133371813.cms",
+          "date": "20 Aug 2026",
+          "summary": "A visionary mother and daughter duo transformed sustainability into an art form, building a seven-room home out of more than 8,000 recycled glass bottles. Incorporating elements like reclaimed wood and toothpaste tubes, this remarkable endeavor addresses the d…"
         },
         {
           "title": "Meta sued by former manager who claims he was fired over immigration letter",
@@ -1152,6 +1152,12 @@
       "ok": true,
       "items": [
         {
+          "title": "Low Emission Zone Led To Better Lung Size, Function Among London Children",
+          "link": "https://news.slashdot.org/story/26/08/22/0537243/low-emission-zone-led-to-better-lung-size-function-among-london-children?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "22 Aug 2026",
+          "summary": "Long-time Slashdot reader AmiMoJo shared this report from the Guardian: Children's lungs grew bigger and stronger after the most polluting vehicles were restricted from entering London, a study has found. Examinations of London schoolchildren before and after…"
+        },
+        {
           "title": "Moderna-Merck Vaccine Cuts Recurrence And Spread of Melanoma, Raises New Treatment Hope",
           "link": "https://science.slashdot.org/story/26/08/22/0346210/moderna-merck-vaccine-cuts-recurrence-and-spread-of-melanoma-raises-new-treatment-hope?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "22 Aug 2026",
@@ -1234,12 +1240,6 @@
           "link": "https://it.slashdot.org/story/26/08/21/1742239/linus-torvalds-endures-a-debug-session-from-hell-enormously-helped-by-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "21 Aug 2026",
           "summary": "Linus Torvalds says AI \"enormously helped\" him track down a stubborn Intel Xe graphics driver bug that took 24 debugging patches and 18 kernel boots to isolate. \"I'd like to call it my tireless helper, but the AI several times stated flat out that this was imp…"
-        },
-        {
-          "title": "Walmart To Finally Start Accepting Apple Pay and Google Pay",
-          "link": "https://news.slashdot.org/story/26/08/21/1525227/walmart-to-finally-start-accepting-apple-pay-and-google-pay?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "21 Aug 2026",
-          "summary": "After years of refusing to adopt tap-to-pay technology in its stores, retail giant Walmart announced today that it is finally accepting payments via both Apple Pay and Google Pay. The rollout begins August 24 at select Walmart and Sam's Club locations and is e…"
         }
       ]
     },
@@ -1630,184 +1630,184 @@
       "ok": true,
       "items": [
         {
-          "title": "mintmark added to PyPI",
-          "link": "https://pypi.org/project/mintmark/",
+          "title": "partsmatcher added to PyPI",
+          "link": "https://pypi.org/project/partsmatcher/",
           "date": "22 Aug 2026",
-          "summary": "Deterministic, fully synthetic, Turkish-first labeled datasets with a provenance manifest."
+          "summary": "Match the parts you own against a project database: what can you build right now, and what are you one or two parts away from? Includes a chat mode powered by your local Claude Code."
         },
         {
-          "title": "tokentriage added to PyPI",
-          "link": "https://pypi.org/project/tokentriage/",
+          "title": "agentcheck-ai added to PyPI",
+          "link": "https://pypi.org/project/agentcheck-ai/",
           "date": "22 Aug 2026",
-          "summary": "Zero-dependency instrumentation SDK for the TokenTriage proxy — forwards x-tt-* recipes and reads back the receipt the server stamped. It forwards and reads; it never computes."
+          "summary": "Deterministic, local behavioral and safety evaluation for AI agents"
         },
         {
-          "title": "anti-slop-py added to PyPI",
-          "link": "https://pypi.org/project/anti-slop-py/",
+          "title": "carabiner-sec added to PyPI",
+          "link": "https://pypi.org/project/carabiner-sec/",
           "date": "22 Aug 2026",
-          "summary": "Opinionated, readable lint rules that reject low-evidence Python patterns"
+          "summary": "Make any repo secure by default, keep it that way, and prove the controls fire."
         },
         {
-          "title": "agent-timetravel added to PyPI",
-          "link": "https://pypi.org/project/agent-timetravel/",
+          "title": "agent-ultra-kit added to PyPI",
+          "link": "https://pypi.org/project/agent-ultra-kit/",
           "date": "22 Aug 2026",
-          "summary": "Time-travel debugging for AI agents — OTel-in / replay-out."
+          "summary": "Agent-agnostic adversarial panel, ULTRA build loop, command broker, and proof gates for AI agent systems"
         },
         {
-          "title": "shaply added to PyPI",
-          "link": "https://pypi.org/project/shaply/",
+          "title": "varianz-pytest added to PyPI",
+          "link": "https://pypi.org/project/varianz-pytest/",
           "date": "22 Aug 2026",
-          "summary": "Usual SHAP explainability figures rendered as interactive Plotly charts."
+          "summary": "Placeholder for the Varianz pytest plugin. See https://varianz.io"
         },
         {
-          "title": "serverforge-cli added to PyPI",
-          "link": "https://pypi.org/project/serverforge-cli/",
+          "title": "buni-cli added to PyPI",
+          "link": "https://pypi.org/project/buni-cli/",
           "date": "22 Aug 2026",
-          "summary": "CLI para automatizar la configuración y hardening inicial de servidores Ubuntu"
+          "summary": "The open-core hybrid edge-cloud framework for high-stakes AI agents."
         },
         {
-          "title": "pulsar-psr added to PyPI",
-          "link": "https://pypi.org/project/pulsar-psr/",
+          "title": "originlab-mcp added to PyPI",
+          "link": "https://pypi.org/project/originlab-mcp/",
           "date": "22 Aug 2026",
-          "summary": "Parser and tooling for the PULSAR (.psr) human-readable data format"
+          "summary": "An MCP server for OriginLab Origin that reports what Origin did, not what it was asked to do."
         },
         {
-          "title": "trailant added to PyPI",
-          "link": "https://pypi.org/project/trailant/",
+          "title": "wavppm added to PyPI",
+          "link": "https://pypi.org/project/wavppm/",
           "date": "22 Aug 2026",
-          "summary": "A local-first trail index for AI coding sessions — resume, self-log, and cadence tracking across vendors."
+          "summary": "wavppm is a zero-dependency CLI app for representing a wavetable as an image, or vice versa"
         },
         {
-          "title": "python-server added to PyPI",
-          "link": "https://pypi.org/project/python-server/",
+          "title": "ciris-client added to PyPI",
+          "link": "https://pypi.org/project/ciris-client/",
           "date": "22 Aug 2026",
-          "summary": "HTTP file server with upload support and authentication"
+          "summary": "The CIRIS Kotlin Multiplatform client — one build, consumed as a dependency"
         },
         {
-          "title": "dicolytics added to PyPI",
-          "link": "https://pypi.org/project/dicolytics/",
+          "title": "jmfts added to PyPI",
+          "link": "https://pypi.org/project/jmfts/",
           "date": "22 Aug 2026",
-          "summary": "Analytics SDK for discord.py bots — automatic event collection for Dicolytics."
+          "summary": "John McCardle's Fusion Tree Search - A focused retrieval appliance with matryoshka embeddings and late interaction"
         },
         {
-          "title": "oddevenwusd added to PyPI",
-          "link": "https://pypi.org/project/oddevenwusd/",
+          "title": "jmfts-client added to PyPI",
+          "link": "https://pypi.org/project/jmfts-client/",
           "date": "22 Aug 2026",
-          "summary": "A simple Python library to check if numbers are odd or even"
+          "summary": "Wire contracts and a generated HTTP client for a JMFTS retrieval appliance"
         },
         {
-          "title": "easydone-task-tracker added to PyPI",
-          "link": "https://pypi.org/project/easydone-task-tracker/",
+          "title": "collins added to PyPI",
+          "link": "https://pypi.org/project/collins/",
           "date": "22 Aug 2026",
-          "summary": "A simple command-line task tracker."
+          "summary": "Collins — native GTK4 GUI to manage and resume Claude Code sessions"
         },
         {
-          "title": "pydantic-canary added to PyPI",
-          "link": "https://pypi.org/project/pydantic-canary/",
+          "title": "metrictrust added to PyPI",
+          "link": "https://pypi.org/project/metrictrust/",
           "date": "22 Aug 2026",
-          "summary": "Detect Pydantic behavior changes across Python environments"
+          "summary": "Should you trust your fine-tune's validation number? A tiny local sanity layer for training small models."
         },
         {
-          "title": "lotuswatch-security added to PyPI",
-          "link": "https://pypi.org/project/lotuswatch-security/",
+          "title": "copier-tui added to PyPI",
+          "link": "https://pypi.org/project/copier-tui/",
           "date": "22 Aug 2026",
-          "summary": "Open-source website security monitoring and configuration checker"
+          "summary": "A terminal UI for copier: the same CLI, a survey you can move back and forth through before instantiating the template"
         },
         {
-          "title": "histdata-fetcher added to PyPI",
-          "link": "https://pypi.org/project/histdata-fetcher/",
+          "title": "copier-ui added to PyPI",
+          "link": "https://pypi.org/project/copier-ui/",
           "date": "22 Aug 2026",
-          "summary": "Download free historical Forex tick and 1-minute bar data from HistData.com into pandas."
+          "summary": "UI-neutral abstraction over a copier template survey: normalised schema, dependency graph, visibility and validation"
         },
         {
-          "title": "kainext-binance-mcp added to PyPI",
-          "link": "https://pypi.org/project/kainext-binance-mcp/",
+          "title": "scswp added to PyPI",
+          "link": "https://pypi.org/project/scswp/",
           "date": "22 Aug 2026",
-          "summary": "MCP server for Binance spot: read market data, analyze, and propose real-money trades behind a human-gated confirmer. The model never holds a trade key."
+          "summary": "Secure Collaborative State Workspace Protocol — a stateful, continuously authenticated multi-client file workspace server and client."
         },
         {
-          "title": "motp-admin added to PyPI",
-          "link": "https://pypi.org/project/motp-admin/",
+          "title": "sofm added to PyPI",
+          "link": "https://pypi.org/project/sofm/",
           "date": "22 Aug 2026",
-          "summary": "multiOTP Credential Provider administration tooling (P0 to P2 MVP)."
+          "summary": "Spatially Orthogonal Factor Model (SOFM)"
         },
         {
-          "title": "btcvm added to PyPI",
-          "link": "https://pypi.org/project/btcvm/",
+          "title": "nyshporka added to PyPI",
+          "link": "https://pypi.org/project/nyshporka/",
           "date": "22 Aug 2026",
-          "summary": "A minimal register machine that executes in lockstep with Bitcoin blocks"
+          "summary": "Читання рукописних архівних справ і пошук прізвища в них — для генеалогів"
         },
         {
-          "title": "cryptosecurekit added to PyPI",
-          "link": "https://pypi.org/project/cryptosecurekit/",
+          "title": "toolloop added to PyPI",
+          "link": "https://pypi.org/project/toolloop/",
           "date": "22 Aug 2026",
-          "summary": "A production-quality cybersecurity-focused local cryptocurrency wallet toolkit."
+          "summary": "Agent loop framework for LLM providers without native tool use"
         },
         {
-          "title": "securitystack-mcp added to PyPI",
-          "link": "https://pypi.org/project/securitystack-mcp/",
+          "title": "bd-offline-geocoder added to PyPI",
+          "link": "https://pypi.org/project/bd-offline-geocoder/",
           "date": "22 Aug 2026",
-          "summary": "Unified MCP server — give your AI agent the ability to secure its own environment."
+          "summary": "Offline Bangladesh reverse geocoder. Convert GPS coordinates to division, district, upazila, union, and ward with no API key and no network."
         },
         {
-          "title": "hiringcafe-cli added to PyPI",
-          "link": "https://pypi.org/project/hiringcafe-cli/",
+          "title": "regresslens added to PyPI",
+          "link": "https://pypi.org/project/regresslens/",
           "date": "22 Aug 2026",
-          "summary": "Spec-driven Python CLI for Hiring Cafe job search and saved-job tracking"
+          "summary": "Performance regression intelligence for recurring scientific Python/NumPy pipelines"
         },
         {
-          "title": "claude-multirepo-sync added to PyPI",
-          "link": "https://pypi.org/project/claude-multirepo-sync/",
+          "title": "base64-rs added to PyPI",
+          "link": "https://pypi.org/project/base64-rs/",
           "date": "22 Aug 2026",
-          "summary": "Sync Claude Code configuration from a git repo you own"
+          "summary": "High-performance base64 encoder/decoder written in Rust"
         },
         {
-          "title": "marketapp-api added to PyPI",
-          "link": "https://pypi.org/project/marketapp-api/",
+          "title": "v-TimeLKFlow added to PyPI",
+          "link": "https://pypi.org/project/v-timelkflow/",
           "date": "22 Aug 2026",
-          "summary": "Async Python library for Marketapp.ws API with automatic TON transaction execution"
+          "summary": "Time-varying Liang-Kleeman information flow methods, including the mtvlk (multivariate, Zhou et al. 2024) implementation"
         },
         {
-          "title": "evallint added to PyPI",
-          "link": "https://pypi.org/project/evallint/",
+          "title": "hypothesisctl added to PyPI",
+          "link": "https://pypi.org/project/hypothesisctl/",
           "date": "22 Aug 2026",
-          "summary": "Audits LLM eval datasets for the flaws that make evaluations silently lie."
+          "summary": "Fail-closed evidence gates for experiments and AI-agent workflows"
         },
         {
-          "title": "ragxray added to PyPI",
-          "link": "https://pypi.org/project/ragxray/",
+          "title": "gpumutex added to PyPI",
+          "link": "https://pypi.org/project/gpumutex/",
           "date": "22 Aug 2026",
-          "summary": "A lightweight RAG debugging toolkit: understand why your RAG application gave a bad answer."
+          "summary": "Exclusive per-process-tree GPU claiming for CUDA workloads via LD_PRELOAD."
         },
         {
-          "title": "rh-cve-checker added to PyPI",
-          "link": "https://pypi.org/project/rh-cve-checker/",
+          "title": "q-lasp added to PyPI",
+          "link": "https://pypi.org/project/q-lasp/",
           "date": "22 Aug 2026",
-          "summary": "A CVE checker that validates scanner findings against Red Hat VEX data"
+          "summary": "Quantum Layout-Aware Synthesis & Patching Suite (Q-LASP)"
         },
         {
-          "title": "htpy-htmx added to PyPI",
-          "link": "https://pypi.org/project/htpy-htmx/",
+          "title": "amazon-india-seller-mcp added to PyPI",
+          "link": "https://pypi.org/project/amazon-india-seller-mcp/",
           "date": "22 Aug 2026",
-          "summary": "Helpers for using htmx in htpy"
+          "summary": "Amazon India product research MCP server for beginner sellers (stdio transport, Claude Desktop ready)"
         },
         {
-          "title": "tgedr-observability added to PyPI",
-          "link": "https://pypi.org/project/tgedr-observability/",
+          "title": "omni-transcriber added to PyPI",
+          "link": "https://pypi.org/project/omni-transcriber/",
           "date": "22 Aug 2026",
-          "summary": "simple observability solution"
+          "summary": "Transcribe anything: YouTube/Instagram/any URL, local media files, or whole folders - locally via Whisper."
         },
         {
-          "title": "nomnom-dl added to PyPI",
-          "link": "https://pypi.org/project/nomnom-dl/",
+          "title": "markovo added to PyPI",
+          "link": "https://pypi.org/project/markovo/",
           "date": "22 Aug 2026",
-          "summary": "a simple yt-dlp wrapper for quickly getting sample audio files"
+          "summary": "Customer-only Markovo API, CLI, and MCP client."
         },
         {
-          "title": "DarkNewt added to PyPI",
-          "link": "https://pypi.org/project/darknewt/",
+          "title": "pyssa-ir added to PyPI",
+          "link": "https://pypi.org/project/pyssa-ir/",
           "date": "22 Aug 2026",
-          "summary": "Tolman-Oppenheimer-Volkoff modelling of dark-matter admixed neutron stars"
+          "summary": "A Python IR with pluggable execution semantics"
         }
       ]
     }
