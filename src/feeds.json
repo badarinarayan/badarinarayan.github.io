@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-23T17:12:57Z",
+  "generated": "2026-08-23T18:16:04Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -196,8 +196,20 @@
       "ok": true,
       "items": [
         {
+          "title": "Why IAF still needs Sukhoi in the age of Tejas and Rafale",
+          "link": "https://timesofindia.indiatimes.com/defence/news/why-iaf-still-needs-sukhoi-in-the-age-of-tejas-and-rafale/articleshow/133437789.cms",
+          "date": "23 Aug 2026",
+          "summary": "The Su-30MKI remains a vital pillar of India's combat fleet. This heavy fighter provides essential long-range strike and air superiority capabilities. Newer aircraft like Rafale and Tejas fulfill different roles within the air force. Modernization programs wil…"
+        },
+        {
           "title": "‘Attackers took bath, ate dates’: Chilling details in Bangladesh Hindu family case",
           "link": "https://timesofindia.indiatimes.com/world/south-asia/attackers-took-bath-ate-dates-chilling-details-in-bangladesh-hindu-family-case/articleshow/133442272.cms",
+          "date": "23 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Iran’s hijab crackdown returns as women defy mandatory veiling rules",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/cafes-shops-shut-over-violation-of-norms-irans-hijab-crackdown-returns-as-women-defy-veiling-rules/articleshow/133443782.cms",
           "date": "23 Aug 2026",
           "summary": ""
         },
@@ -208,8 +220,20 @@
           "summary": "An orthopaedic surgeon was assaulted by a patient's son at a private hospital late Saturday night, raising concerns among other patients present. This incident mirrors a previous attack on medical professionals by a local corporator just weeks prior. Authoriti…"
         },
         {
+          "title": "Why ex-Google CEO Eric Schmidt is 'unhappy' with his former boss Sergey Brin",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/googles-former-ceo-eric-schmidt-is-reportedly-unhappy-with-his-former-boss-sergey-brin-reason-is-how-a-100-million-was-spent-on-/articleshow/133436181.cms",
+          "date": "23 Aug 2026",
+          "summary": "Eric Schmidt has expressed discontent regarding Sergey Brin's financial backing for political measures, which includes a staggering $100 million aimed at challenging California's Proposition 40. His irritation is exacerbated by investments in various ballot in…"
+        },
+        {
           "title": "MAGA skids on maple syrup: US-Canada ties on a slippery slope",
           "link": "https://timesofindia.indiatimes.com/world/us/maga-skids-on-maple-syrup-us-canada-ties-on-a-slippery-slope/articleshow/133442324.cms",
+          "date": "23 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Amid calls of resignation, NC MP dares party for a show-cause",
+          "link": "https://timesofindia.indiatimes.com/india/amid-calls-of-resignation-nc-mp-dares-party-for-a-show-cause/articleshow/133445025.cms",
           "date": "23 Aug 2026",
           "summary": ""
         },
@@ -220,10 +244,40 @@
           "summary": ""
         },
         {
-          "title": "Why ex-Google CEO Eric Schmidt is 'unhappy' with his former boss Sergey Brin",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/googles-former-ceo-eric-schmidt-is-reportedly-unhappy-with-his-former-boss-sergey-brin-reason-is-how-a-100-million-was-spent-on-/articleshow/133436181.cms",
+          "title": "Microsoft has a 6-word answer for students wondering if coding is still worth it",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-to-all-the-students-wondering-whether-it-still-is-worth-learning-how-to-code-the-answer-is-now/articleshow/133433932.cms",
           "date": "23 Aug 2026",
-          "summary": "Eric Schmidt has expressed discontent regarding Sergey Brin's financial backing for political measures, which includes a staggering $100 million aimed at challenging California's Proposition 40. His irritation is exacerbated by investments in various ballot in…"
+          "summary": "Microsoft Learn has told students on X that learning to code is worth it \"now more than ever\", even as AI writes a growing share of software. Satya Nadella says AI already produces up to 30% of Microsoft's code, while Google puts its figure at 75%. The skill h…"
+        },
+        {
+          "title": "Trump tariffs: What India can learn from Canada’s failed trade talks with US",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/trump-tariffs-what-india-can-learn-from-canadas-failed-trade-talks-with-us/articleshow/133441067.cms",
+          "date": "23 Aug 2026",
+          "summary": "Ottawa said it would introduce “dollar-for-dollar” retaliatory tariffs from September 8. The move brought an end to talks that had started on February 1, 2025, after the first round of new US tariffs was imposed."
+        },
+        {
+          "title": "Alabama students turn old Christmas trees into Gulf Coast dune protection",
+          "link": "https://timesofindia.indiatimes.com/world/us/in-2021-alabama-students-began-placing-discarded-christmas-trees-along-gulf-coast-dunes-to-trap-sand-each-year-about-200-students-now-add-roughly-3000-native-plants-around-them/articleshow/133441622.cms",
+          "date": "23 Aug 2026",
+          "summary": "Alabama's fragile sand dunes are being restored with discarded holiday trees, as students and volunteers team up to plant native vegetation along the coast. This innovative project marries sand trapping techniques with the introduction of native plants to stab…"
+        },
+        {
+          "title": "Detroit couple has turned abandoned 1925 bank into $1.3 million home",
+          "link": "https://timesofindia.indiatimes.com/world/us/a-detroit-couple-bought-a-vacant-1925-bank-and-neighboring-bar-for-66000-13-years-later-one-old-bank-vault-is-a-den-and-another-is-a-wine-cellar/articleshow/133439456.cms",
+          "date": "23 Aug 2026",
+          "summary": "A Detroit couple turned a vacant 1925 bank into a two-bedroom home after buying the abandoned building for $66,000 in 2013. They moved in while construction was still underway and restored much of it themselves, preserving features such as the old vaults, marb…"
+        },
+        {
+          "title": "What makes September 3 important for international students in the US on F and J visas",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/what-makes-september-3-important-for-international-students-in-the-us-on-f-and-j-visas/articleshow/133436664.cms",
+          "date": "23 Aug 2026",
+          "summary": "A federal court is scheduled to review arguments on September 3, 2026, concerning a newly proposed rule that overhauls the current 'duration of status' policy which impacts international students. The plaintiffs contend that this alteration fosters ambiguity a…"
+        },
+        {
+          "title": "From roses to stone and statues: Trump's makeover of White House Rose Garden",
+          "link": "https://timesofindia.indiatimes.com/real-estate/news/from-roses-to-stone-and-statues-trumps-makeover-of-white-house-rose-garden/articleshow/133436026.cms",
+          "date": "23 Aug 2026",
+          "summary": "President Trump is making significant renovations to the White House grounds, highlighted by the addition of new statues in the Rose Garden. Among these is a bronze statue of Thomas Jefferson, placed alongside other notable American figures. This revitalizatio…"
         },
         {
           "title": "Rest, viral and not in India's XI for Colombo Test: Mysterious case of Kuldeep",
@@ -236,60 +290,6 @@
           "link": "https://timesofindia.indiatimes.com/india/three-claps-cjp-takes-aim-at-bjps-gen-z-push-questions-nitin-nabin-smriti-iranis-inclusion/articleshow/133442634.cms",
           "date": "23 Aug 2026",
           "summary": ""
-        },
-        {
-          "title": "‘I am an Indian citizen’: Ex-envoy who served in 3 nations flags SIR process",
-          "link": "https://timesofindia.indiatimes.com/india/ex-diplomat-navdeep-suri-flags-trouble-establishing-citizenship-during-punjab-sir/articleshow/133439984.cms",
-          "date": "23 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Microsoft has a 6-word answer for students wondering if coding is still worth it",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-to-all-the-students-wondering-whether-it-still-is-worth-learning-how-to-code-the-answer-is-now/articleshow/133433932.cms",
-          "date": "23 Aug 2026",
-          "summary": "Microsoft Learn has told students on X that learning to code is worth it \"now more than ever\", even as AI writes a growing share of software. Satya Nadella says AI already produces up to 30% of Microsoft's code, while Google puts its figure at 75%. The skill h…"
-        },
-        {
-          "title": "Explainer: What will actually change for you under UCC",
-          "link": "https://timesofindia.indiatimes.com/india/explainer-what-will-actually-change-for-you-under-ucc/articleshow/133436505.cms",
-          "date": "23 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Vancouver turns sewage heat into renewable energy for buildings",
-          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/vancouver-captures-heat-that-normally-disappears-down-showers-sinks-and-toilets-and-sends-it-back-into-buildings-sewage-now-supplies-most-of-one-districts-renewable-heat/articleshow/133439185.cms",
-          "date": "23 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Ohio mother says hospital never called after son's death; body parts donated",
-          "link": "https://timesofindia.indiatimes.com/world/us/ohio-mother-was-in-costa-rica-when-18-year-old-son-died-in-car-crash-hospital-never-contacted-her-she-later-learned-his-body-parts-were-removed-as-anatomical-gifts-without-consent/articleshow/133441811.cms",
-          "date": "23 Aug 2026",
-          "summary": "Andrea Mauk says her 18-year-old son Damon’s eyes, skin, heart valves, ligaments and other tissues were recovered as “anatomical gifts” after his fatal Ohio crash, without her knowledge. She was in Costa Rica when he died and says the hospital never contacted…"
-        },
-        {
-          "title": "'Everyone should take time in quiet': Melinda Gates on divorce and life changes",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/melinda-french-gates-who-called-separation-one-of-her-lifes-most-difficult-transitions-said-i-want-to-tell-everyone-to-take/articleshow/133436307.cms",
-          "date": "23 Aug 2026",
-          "summary": "Melinda French Gates advocates for self-care during significant life changes. She learned this lesson during early motherhood and her divorce from Bill Gates. French Gates advises taking quiet time daily for personal reflection and wellness. She believes proce…"
-        },
-        {
-          "title": "From roses to stone and statues: Trump's makeover of White House Rose Garden",
-          "link": "https://timesofindia.indiatimes.com/real-estate/news/from-roses-to-stone-and-statues-trumps-makeover-of-white-house-rose-garden/articleshow/133436026.cms",
-          "date": "23 Aug 2026",
-          "summary": "President Trump is making significant renovations to the White House grounds, highlighted by the addition of new statues in the Rose Garden. Among these is a bronze statue of Thomas Jefferson, placed alongside other notable American figures. This revitalizatio…"
-        },
-        {
-          "title": "‘They may have fled to Odisha’: Mystery deepens in Tamil Nadu Express murder case",
-          "link": "https://timesofindia.indiatimes.com/city/bhubaneswar/odisha-womans-remains-found-in-trolley-aboard-tn-express-chennai-cops-launch-search-in-state/articleshow/133439167.cms",
-          "date": "23 Aug 2026",
-          "summary": "Chennai police are searching Odisha for a couple suspected in a brutal murder case. Severed body parts of Hayathun Nisha were found in a suitcase aboard a train. Investigators recovered more remains from the suspects' rented Chennai residence. The couple is be…"
-        },
-        {
-          "title": "Woman kills husband in brutal knife attack in Haryana, later jumps from rooftop",
-          "link": "https://timesofindia.indiatimes.com/city/chandigarh/woman-kills-husband-in-brutal-knife-attack-in-haryana-later-jumps-from-rooftop/articleshow/133442319.cms",
-          "date": "23 Aug 2026",
-          "summary": "In a shocking incident on Saturday, a woman reportedly murdered her husband in Kurukshetra using knives. Rajesh, a water supplier, suffered life-threatening abdominal injuries, including an open abdomen with protruding intestines. A post-mortem examination unc…"
         },
         {
           "title": "How Travis Kelce built $90 million fortune as podcast deal reshaped his wealth",
@@ -308,6 +308,36 @@
           "link": "https://timesofindia.indiatimes.com/sports/nfl/news/tom-bradys-son-jack-moynahan-refuses-to-follow-his-fathers-football-footsteps-as-basketball-breakout-grabs-attention/articleshow/133415338.cms",
           "date": "22 Aug 2026",
           "summary": "Tom Brady’s eldest son, Jack Moynahan, is attracting attention for his rising basketball career rather than following his father into football. The 6-foot-6 athlete recently showcased his skills at The Newman School in Boston, prompting enthusiastic reactions…"
+        },
+        {
+          "title": "‘I am an Indian citizen’: Ex-envoy who served in 3 nations flags SIR process",
+          "link": "https://timesofindia.indiatimes.com/india/ex-diplomat-navdeep-suri-flags-trouble-establishing-citizenship-during-punjab-sir/articleshow/133439984.cms",
+          "date": "23 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Explainer: What will actually change for you under UCC",
+          "link": "https://timesofindia.indiatimes.com/india/explainer-what-will-actually-change-for-you-under-ucc/articleshow/133436505.cms",
+          "date": "23 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Meet Sir Nils Olav III, world's highest-ranking penguin, set to become a father",
+          "link": "https://timesofindia.indiatimes.com/world/uk/meet-the-worlds-highest-ranking-penguin-sir-nils-olav-iii-set-to-become-a-father-after-partner-lays-egg-edinburgh-zoo-welcomes-first-king-penguin-egg-in-17-years/articleshow/133442676.cms",
+          "date": "23 Aug 2026",
+          "summary": "The world’s highest-ranking penguin, Major General Sir Nils Olav III, is set to become a father after his partner Connie laid an egg at Edinburgh Zoo. The surprise arrival marks the zoo’s first king penguin egg in 17 years. Keepers are closely monitoring the i…"
+        },
+        {
+          "title": "‘They may have fled to Odisha’: Mystery deepens in Tamil Nadu Express murder case",
+          "link": "https://timesofindia.indiatimes.com/city/bhubaneswar/odisha-womans-remains-found-in-trolley-aboard-tn-express-chennai-cops-launch-search-in-state/articleshow/133439167.cms",
+          "date": "23 Aug 2026",
+          "summary": "Chennai police are searching Odisha for a couple suspected in a brutal murder case. Severed body parts of Hayathun Nisha were found in a suitcase aboard a train. Investigators recovered more remains from the suspects' rented Chennai residence. The couple is be…"
+        },
+        {
+          "title": "Woman kills husband in brutal knife attack in Haryana, later jumps from rooftop",
+          "link": "https://timesofindia.indiatimes.com/city/chandigarh/woman-kills-husband-in-brutal-knife-attack-in-haryana-later-jumps-from-rooftop/articleshow/133442319.cms",
+          "date": "23 Aug 2026",
+          "summary": "In a shocking incident on Saturday, a woman reportedly murdered her husband in Kurukshetra using knives. Rajesh, a water supplier, suffered life-threatening abdominal injuries, including an open abdomen with protruding intestines. A post-mortem examination unc…"
         },
         {
           "title": "Yashasvi Jaiswal fight: 'Shouldn't have gone so close,' says India batting coach",
@@ -340,40 +370,10 @@
           "summary": "In February this year, 14 legendary captains from five countries — including Gavaskar, Kapil Dev and Greg Chappell, a former head coach of Team India — had made a fervent, emotional appeal to the Pakistan government about ensuring proper treatment for Imran, a…"
         },
         {
-          "title": "Trump tariffs: What India can learn from Canada’s failed trade talks with US",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/trump-tariffs-what-india-can-learn-from-canadas-failed-trade-talks-with-us/articleshow/133441067.cms",
-          "date": "23 Aug 2026",
-          "summary": "Ottawa said it would introduce “dollar-for-dollar” retaliatory tariffs from September 8. The move brought an end to talks that had started on February 1, 2025, after the first round of new US tariffs was imposed."
-        },
-        {
           "title": "‘600-630 of most potent type weapon’: Zelenskyy’s warning on Russian missile arsenal",
           "link": "https://timesofindia.indiatimes.com/defence/international/600-630-of-most-potent-type-weapon-zelenskyys-big-warning-on-russian-missile-stockpile/articleshow/133440562.cms",
           "date": "23 Aug 2026",
           "summary": ""
-        },
-        {
-          "title": "Anti-reservation protest: Several detained as crowd gathers at Delhi's Connaught Place",
-          "link": "https://timesofindia.indiatimes.com/city/delhi/delhi-reservation-protest-several-detained-as-300-gather-at-delhis-connaught-place-over-reservation/articleshow/133440679.cms",
-          "date": "23 Aug 2026",
-          "summary": "Around 300 individuals protested caste-based reservation in Delhi's Connaught Place, advocating for economic criteria over caste for government support and reforms in the quota system. Police detained over 20 protesters for demonstrating without permission. Th…"
-        },
-        {
-          "title": "Destroyed in Op Sindoor, JeM's terror base operational again; Pak govt gave Rs 8 cr",
-          "link": "https://timesofindia.indiatimes.com/world/pakistan/destroyed-in-operation-sindoor-jems-bahawalpur-terror-base-fully-operational-again/articleshow/133438629.cms",
-          "date": "23 Aug 2026",
-          "summary": "Fresh footage indicates it is fully operational again, complete with reconstructed domes, updated interior plastering, new paint, and premium marble flooring that conceals previous blast damage. Deep blast zones within the primary hall were filled with concret…"
-        },
-        {
-          "title": "KPSC exam scam: ED raids 'missing' IAS officer's premises in Bengaluru, Bareilly",
-          "link": "https://timesofindia.indiatimes.com/city/bengaluru/kpsc-exam-scam-ed-raids-ias-officer-gyanendra-gangwars-premises-in-bengaluru-bareilly/articleshow/133439305.cms",
-          "date": "23 Aug 2026",
-          "summary": "In a significant move, the Enforcement Directorate raided the properties of IAS officer Gyanendra Kumar Gangwar located in Bengaluru and Bareilly. This action is tied to a money laundering case concerning malpractice in KPSC examinations, particularly focusing…"
-        },
-        {
-          "title": "IND vs SL: Devdutt Padikkal, Shubman Gill and the trailer of a blockbuster",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/devdutt-padikkal-shubman-gill-and-the-trailer-of-a-blockbuster/articleshow/133439093.cms",
-          "date": "23 Aug 2026",
-          "summary": "Devdutt Padikkal scored his second Test hundred, but it was his 120-run stand with India captain Shubman Gill that offered a trailer of a potential blockbuster in the making. India's No. 3 and No. 4 have only had three century partnerships since 2019, and this…"
         }
       ]
     },
@@ -1152,6 +1152,12 @@
       "ok": true,
       "items": [
         {
+          "title": "Slovakia Finds Russian Backdoor In Traffic Speed Cameras",
+          "link": "https://yro.slashdot.org/story/26/08/23/1735228/slovakia-finds-russian-backdoor-in-traffic-speed-cameras?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "23 Aug 2026",
+          "summary": "Slovakia acquired speed cameras to modernize its traffic control-- but there was a surprise. Tom's Hardware cites this story from the Risky Bulletin Newsletter: Unfortunately, the country's national security service, the NBU, has discovered that the cameras ha…"
+        },
+        {
           "title": "Stanford Economist Now Believes an AI Job Apocalypse Is Unlikely",
           "link": "https://it.slashdot.org/story/26/08/22/211256/stanford-economist-now-believes-an-ai-job-apocalypse-is-unlikely?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "23 Aug 2026",
@@ -1234,12 +1240,6 @@
           "link": "https://it.slashdot.org/story/26/08/22/0418223/is-ai-really-to-blame-for-high-unemployment-among-recent-graduates-what-economists-say?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "22 Aug 2026",
           "summary": "47% of recent graduates say AI has already impacted hiring in their field, according to an April survey from ZipRecruiter. \"But is AI really the problem, or is it more complicated?\" asks NPR. \"Here's what economists have to say.\" According to the Federal Reser…"
-        },
-        {
-          "title": "Firefox Announces Free VPN and 'Startpage' Search Engine Rolling Out to Android, iOS - Plus GeForce NOW Support",
-          "link": "https://news.slashdot.org/story/26/08/22/0220219/firefox-announces-free-vpn-and-startpage-search-engine-rolling-out-to-android-ios---plus-geforce-now-support?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "22 Aug 2026",
-          "summary": "Firefox 154 \"brings a number of usability improvements,\" writes PC World: The free built-in VPN, introduced with Firefox 149, continues to offer a selection of virtual locations &mdash; temporarily extended to 28 countries until the end of August... The free V…"
         }
       ]
     },
@@ -1630,184 +1630,184 @@
       "ok": true,
       "items": [
         {
-          "title": "runproof-engine added to PyPI",
-          "link": "https://pypi.org/project/runproof-engine/",
+          "title": "sovereign-oracle added to PyPI",
+          "link": "https://pypi.org/project/sovereign-oracle/",
           "date": "23 Aug 2026",
-          "summary": "Evidence, replay, and explainable diffs for real Python runs"
+          "summary": "Machine-to-Machine (M2M) Security Oracle SDK for Autonomous Web3 Trading Bots"
         },
         {
-          "title": "papeete-actor-synchronous-messaging added to PyPI",
-          "link": "https://pypi.org/project/papeete-actor-synchronous-messaging/",
+          "title": "contextdb-memory-ci added to PyPI",
+          "link": "https://pypi.org/project/contextdb-memory-ci/",
           "date": "23 Aug 2026",
-          "summary": "A runnable papeete-actor restricted to two verbs — request and query. No publications, no subscriptions."
+          "summary": "Block AI agent memory regressions in CI with ContextDB"
         },
         {
-          "title": "olive-solana-sdk added to PyPI",
-          "link": "https://pypi.org/project/olive-solana-sdk/",
+          "title": "diffcontext added to PyPI",
+          "link": "https://pypi.org/project/diffcontext/",
           "date": "23 Aug 2026",
-          "summary": "Async Python SDK for market makers quoting Olive Solana options"
+          "summary": "Static-analysis-powered repository context compiler for LLMs"
         },
         {
-          "title": "mlflow-otel-instrumentor added to PyPI",
-          "link": "https://pypi.org/project/mlflow-otel-instrumentor/",
+          "title": "walbox added to PyPI",
+          "link": "https://pypi.org/project/walbox/",
           "date": "23 Aug 2026",
-          "summary": "Automatic OpenTelemetry instrumentation for MLflow tracking"
+          "summary": "Async PostgreSQL logical-replication runtime for the transactional outbox pattern"
         },
         {
-          "title": "llm-router-gate added to PyPI",
-          "link": "https://pypi.org/project/llm-router-gate/",
+          "title": "kirby-sheet added to PyPI",
+          "link": "https://pypi.org/project/kirby-sheet/",
           "date": "23 Aug 2026",
-          "summary": "A CLI and SDK for routing LLM calls and gating according to price."
+          "summary": "Render a HERO Designer character through HD's own .hde export templates, byte for byte."
         },
         {
-          "title": "trailframe added to PyPI",
-          "link": "https://pypi.org/project/trailframe/",
+          "title": "webmetadata-extractor added to PyPI",
+          "link": "https://pypi.org/project/webmetadata-extractor/",
           "date": "23 Aug 2026",
-          "summary": "Photo gallery app with FastAPI backend and React frontend"
+          "summary": "Python client for the Web Metadata, OpenGraph & Contact Extractor API (SEO audit, contacts, tech stack, security headers, AI-ready Markdown from any URL)"
         },
         {
-          "title": "echohub added to PyPI",
-          "link": "https://pypi.org/project/echohub/",
+          "title": "trellis-flow added to PyPI",
+          "link": "https://pypi.org/project/trellis-flow/",
           "date": "23 Aug 2026",
-          "summary": "Local-first telemetry deck for Echopoint data."
+          "summary": "Declarative DAG orchestration for agent and skill workflows."
         },
         {
-          "title": "downloads-organizer-railerival added to PyPI",
-          "link": "https://pypi.org/project/downloads-organizer-railerival/",
+          "title": "otp-sanly added to PyPI",
+          "link": "https://pypi.org/project/otp-sanly/",
           "date": "23 Aug 2026",
-          "summary": "Made to organize my downloads!! My first automation ;3"
+          "summary": "Official Python SDK for OTP Sanly (otp.sanly.dev) — SMS & Email OTP for Turkmenistan"
         },
         {
-          "title": "noellipsis added to PyPI",
-          "link": "https://pypi.org/project/noellipsis/",
+          "title": "deeptunnel added to PyPI",
+          "link": "https://pypi.org/project/deeptunnel/",
           "date": "23 Aug 2026",
-          "summary": "Detect incomplete or dangerously truncated LLM-generated code before paste, commit, or deploy."
+          "summary": "DeepSeek → Anthropic API proxy — run DeepSeek behind the Anthropic SDK / Claude Code"
         },
         {
-          "title": "fancy-google-analytics added to PyPI",
-          "link": "https://pypi.org/project/fancy-google-analytics/",
+          "title": "fastumap added to PyPI",
+          "link": "https://pypi.org/project/fastumap/",
           "date": "23 Aug 2026",
-          "summary": "Google Analytics for Python — the service descriptor, its faker, its webhook verification, and one function per operation. Plain HTTP; no vendor SDK."
+          "summary": "A numba-free UMAP in pure numpy + scipy: imports in milliseconds, no LLVM/JIT at runtime."
         },
         {
-          "title": "agentgrader added to PyPI",
-          "link": "https://pypi.org/project/agentgrader/",
+          "title": "makefile-mcp added to PyPI",
+          "link": "https://pypi.org/project/makefile-mcp/",
           "date": "23 Aug 2026",
-          "summary": "Provider-agnostic QA testing for LLM-based agents: accuracy, robustness, fairness, and security checks with pass/fail reporting."
+          "summary": "Expose trusted GNU Make targets to MCP with zero-config discovery and optional governed execution."
         },
         {
-          "title": "localstub added to PyPI",
-          "link": "https://pypi.org/project/localstub/",
+          "title": "md2lineflex added to PyPI",
+          "link": "https://pypi.org/project/md2lineflex/",
           "date": "23 Aug 2026",
-          "summary": "Local HTTP Stub for Testing"
+          "summary": "Markdown to LINE FlexMessage Converter"
         },
         {
-          "title": "agent-failure-registry added to PyPI",
-          "link": "https://pypi.org/project/agent-failure-registry/",
+          "title": "s7-gateway added to PyPI",
+          "link": "https://pypi.org/project/s7-gateway/",
           "date": "23 Aug 2026",
-          "summary": "Agent Failure Registry - a neutral namespace and crosswalk for AI agent failure modes"
+          "summary": "Read and write Siemens S7 tags over HTTP"
         },
         {
-          "title": "lztmarket added to PyPI",
-          "link": "https://pypi.org/project/lztmarket/",
+          "title": "odoo-developer-toolkit added to PyPI",
+          "link": "https://pypi.org/project/odoo-developer-toolkit/",
           "date": "23 Aug 2026",
-          "summary": "A modern, strongly typed sync and async client for the LOLZTEAM Market API"
+          "summary": "None"
         },
         {
-          "title": "tablas-python added to PyPI",
-          "link": "https://pypi.org/project/tablas-python/",
+          "title": "inkstitch-fonts added to PyPI",
+          "link": "https://pypi.org/project/inkstitch-fonts/",
           "date": "23 Aug 2026",
-          "summary": "Suite modular para extraer, transformar, conciliar y exportar tablas desde PDF, Excel y SQLite a pandas."
+          "summary": "Embroidery fonts for Ink/Stitch"
         },
         {
-          "title": "plimsoll added to PyPI",
-          "link": "https://pypi.org/project/plimsoll/",
+          "title": "nusadata added to PyPI",
+          "link": "https://pypi.org/project/nusadata/",
           "date": "23 Aug 2026",
-          "summary": "Neutral measurement and routing layer for quantum cloud spend."
+          "summary": "Bahasa Pemrograman Data Nusantara — Bicara soal Data, Pakai Bahasa Kita Sendiri"
         },
         {
-          "title": "pluggle-interface-streamlit added to PyPI",
-          "link": "https://pypi.org/project/pluggle-interface-streamlit/",
+          "title": "cryptgraphy added to PyPI",
+          "link": "https://pypi.org/project/cryptgraphy/",
           "date": "23 Aug 2026",
-          "summary": "Browser-based dashboard for Pluggle — run and inspect ETL pipelines interactively, powered by Streamlit."
+          "summary": "Utilidades para AWS (versión mejorada)"
         },
         {
-          "title": "ncert-cli added to PyPI",
-          "link": "https://pypi.org/project/ncert-cli/",
+          "title": "tdp-json added to PyPI",
+          "link": "https://pypi.org/project/tdp-json/",
           "date": "23 Aug 2026",
-          "summary": "Browse NCERT textbooks and download one as a single merged PDF."
+          "summary": "A generic JSON serialization and deserialization framework for Python dataclasses"
         },
         {
-          "title": "build-autopsy added to PyPI",
-          "link": "https://pypi.org/project/build-autopsy/",
+          "title": "agents-browser added to PyPI",
+          "link": "https://pypi.org/project/agents-browser/",
           "date": "23 Aug 2026",
-          "summary": "Autonomous multi-engine build system diagnostic engine"
+          "summary": "Ultra-fast, zero-bloat Minimal CDP Browser MCP in Python for AI coding agents"
         },
         {
-          "title": "localink added to PyPI",
-          "link": "https://pypi.org/project/localink/",
+          "title": "flexaligner added to PyPI",
+          "link": "https://pypi.org/project/flexaligner/",
           "date": "23 Aug 2026",
-          "summary": "Local-first bookmark manager CLI. Save, tag, search. No cloud, no API costs, 100% yours."
+          "summary": "Two-stage forced alignment for long-form real-world speech."
         },
         {
-          "title": "palapa-agent added to PyPI",
-          "link": "https://pypi.org/project/palapa-agent/",
+          "title": "fin-engine-core added to PyPI",
+          "link": "https://pypi.org/project/fin-engine-core/",
           "date": "23 Aug 2026",
-          "summary": "Palapa — local autonomous AI agent built on Ollama"
+          "summary": "Shared core library for fin-engine microservices"
         },
         {
-          "title": "projecast added to PyPI",
-          "link": "https://pypi.org/project/projecast/",
+          "title": "merced-ai added to PyPI",
+          "link": "https://pypi.org/project/merced-ai/",
           "date": "23 Aug 2026",
-          "summary": "Projecast — send photos & videos to a wireless projector over Wi-Fi. Open-source, for projectors abandoned by their casting app (VueMagic / MirrorOp / pwLink)."
+          "summary": "An OAP-native broker for existing AI agent harnesses."
         },
         {
-          "title": "haloguard added to PyPI",
-          "link": "https://pypi.org/project/haloguard/",
+          "title": "scigraphs-core added to PyPI",
+          "link": "https://pypi.org/project/scigraphs-core/",
           "date": "23 Aug 2026",
-          "summary": "Local-first hallucination firewall for LLM applications"
+          "summary": "Blender-free SciGraphs library: graphs, layouts, colormaps, OSM/geo, pipeline schema."
         },
         {
-          "title": "frida-mcp-server added to PyPI",
-          "link": "https://pypi.org/project/frida-mcp-server/",
+          "title": "scigraphs-engine added to PyPI",
+          "link": "https://pypi.org/project/scigraphs-engine/",
           "date": "23 Aug 2026",
-          "summary": "Model Context Protocol implementation for Frida"
+          "summary": "Blender-free graph visualization engine: filters, backbones, bundling, PNG render."
         },
         {
-          "title": "platitude added to PyPI",
-          "link": "https://pypi.org/project/platitude/",
+          "title": "brolang added to PyPI",
+          "link": "https://pypi.org/project/brolang/",
           "date": "23 Aug 2026",
-          "summary": "Detects AI slop by its rhetorical shape, not its vocabulary. Verdict + the exact spans and reasons."
+          "summary": "Bahasa pemrograman profesional berbasis Bahasa Indonesia untuk game development"
         },
         {
-          "title": "sentinel-scan-cli added to PyPI",
-          "link": "https://pypi.org/project/sentinel-scan-cli/",
+          "title": "bugwatch-sdk-python added to PyPI",
+          "link": "https://pypi.org/project/bugwatch-sdk-python/",
           "date": "23 Aug 2026",
-          "summary": "Free, zero-dependency 15-attack prompt-injection / jailbreak smoke test for your own LLM endpoint."
+          "summary": "Official Python SDK for Bugwatch error tracking (stdlib only)"
         },
         {
-          "title": "pyjs-extras added to PyPI",
-          "link": "https://pypi.org/project/pyjs-extras/",
+          "title": "crucible-engine added to PyPI",
+          "link": "https://pypi.org/project/crucible-engine/",
           "date": "23 Aug 2026",
-          "summary": "Official third-party integrations for PyJS."
+          "summary": "Governed Flow — a contract-driven artifact transformation engine"
         },
         {
-          "title": "copysec added to PyPI",
-          "link": "https://pypi.org/project/copysec/",
+          "title": "zhizong added to PyPI",
+          "link": "https://pypi.org/project/zhizong/",
           "date": "23 Aug 2026",
-          "summary": "Clipboard guard: only the active application and its process tree can access the clipboard"
+          "summary": "None"
         },
         {
-          "title": "skby-modeling added to PyPI",
-          "link": "https://pypi.org/project/skby-modeling/",
+          "title": "fasttcpapi added to PyPI",
+          "link": "https://pypi.org/project/fasttcpapi/",
           "date": "23 Aug 2026",
-          "summary": "SKBY 时空变元模型在线建模业务核心：框选边界 -> 图层提取 -> 参数/降雨/sim 生成 -> 本地落盘 -> pyskby 计算 -> 结果读取。独立于 LLM skill 流程编排，可单独使用。"
+          "summary": "FastAPI-inspired routing for framed TCP protocols"
         },
         {
-          "title": "vm-console-client added to PyPI",
-          "link": "https://pypi.org/project/vm-console-client/",
+          "title": "maruvi added to PyPI",
+          "link": "https://pypi.org/project/maruvi/",
           "date": "23 Aug 2026",
-          "summary": "Python client for the InsightVM/Nexpose REST API"
+          "summary": "MARUVI — Private AI OS. Name placeholder release; implementation coming soon."
         }
       ]
     }
