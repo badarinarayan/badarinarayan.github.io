@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-26T12:33:18Z",
+  "generated": "2026-08-26T13:46:05Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,24 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "M&amp;A deals double, but execution holds the key for investors: Crisil Ratings",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ma-deals-double-but-execution-holds-the-key-for-investors-crisil-ratings/articleshow/133538096.cms",
+          "date": "26 Aug 2026",
+          "summary": "India Inc’s annual M&A volumes have more than doubled since fiscal 2017 as companies pursue faster growth, market expansion and new capabilities. Crisil Ratings found two-thirds of major debt-funded acquisitions broadly met expectations, while integration and…"
+        },
+        {
+          "title": "ETMarkets Smart Talk | Large caps look better for next 24 months, but hidden gems remain in smallcaps: Divam Sharma",
+          "link": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-large-caps-look-better-for-next-24-months-but-hidden-gems-remain-in-smallcaps-divam-sharma/articleshow/133528026.cms",
+          "date": "26 Aug 2026",
+          "summary": "Sharma sees a stronger case for large caps over the next 24 months, particularly given the steep valuation premium commanded by small caps."
+        },
+        {
+          "title": "Decoding gold rally: Why yellow metal surged 15% in one month and should bullion be in your portfolio?",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/decoding-gold-rally-why-yellow-metal-surged-15-in-one-month-and-should-bullion-be-in-your-portfolio/articleshow/133527902.cms",
+          "date": "26 Aug 2026",
+          "summary": "Gold has staged a sharp 15% rally in August after a volatile start to the year, supported by renewed ETF inflows, strong central-bank buying, expectations around US interest rates, Treasury buybacks and a weaker dollar. With investment demand expected to remai…"
+        },
         {
           "title": "Sensex falls 183 points, Nifty closes below 24,250 as market erases all morning gains. What lies ahead?",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-183-points-nifty-closes-below-24250-as-market-erases-all-morning-gains-what-lies-ahead/articleshow/133537326.cms",
@@ -24,24 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/welspun-corp-shares-drop-6-after-ceo-promoter-group-likely-sell-stake-worth-rs-1433-crore-via-block-deal/articleshow/133531522.cms",
           "date": "26 Aug 2026",
           "summary": "Welspun Corp shares fell sharply on Wednesday after 63 lakh shares worth Rs 1,433 crore changed hands in a block deal. Promoter group entity Welspun Investments and Commercials and CEO Vipul Mathur were likely sellers. The transaction represented about 2.4% of…"
-        },
-        {
-          "title": "Cyient shares rocket 8% after investor day, but brokerages see up to 24% downside. Here’s why",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/cyient-shares-rocket-8-after-investor-day-but-brokerages-see-up-to-24-downside-heres-why/articleshow/133531459.cms",
-          "date": "26 Aug 2026",
-          "summary": "Cyient shares jumped 8% after the IT services company outlined its growth and margin roadmap at its investor day. Management is targeting double-digit revenue growth and EBIT margins above 15% in the near term, while brokerages remained divided on the pace of…"
-        },
-        {
-          "title": "Vedanta Aluminium at earnings inflection point? Here's why Motilal Oswal sees 21% upside",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-aluminium-at-earnings-inflection-point-heres-why-motilal-oswal-sees-21-upside/articleshow/133531348.cms",
-          "date": "26 Aug 2026",
-          "summary": "Motilal Oswal has reiterated its Buy rating on Vedanta Aluminium Metal with a target price of Rs 540, implying 21% upside. The brokerage expects EBITDA to grow at an 18% CAGR through FY26-28, supported by higher volumes, cost efficiencies, greater value-added…"
-        },
-        {
-          "title": "Physicswallah shares jump 5% after block deal worth Rs 550 crore. What’s ahead after 63% rally in 6 months?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/physicswallah-shares-jump-5-after-block-deal-worth-rs-550-crore-whats-ahead-after-63-rally-in-6-months/articleshow/133532214.cms",
-          "date": "26 Aug 2026",
-          "summary": "PhysicsWallah shares surged around 5% after nearly 4.67 crore shares worth about Rs 550 crore changed hands in a block deal at Rs 117.72 apiece. The stock has recovered sharply from its March low, while improving Q1 FY27 financials and a Buy rating from JM Fin…"
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -196,16 +196,40 @@
       "ok": true,
       "items": [
         {
-          "title": "At least 31 killed in Nepal floods; Amit Shah talks to Bihar CM as Gandak river swells",
+          "title": "Gone in seconds: Horrific Nepal flood videos show sweeping destruction",
+          "link": "https://timesofindia.indiatimes.com/world/south-asia/gone-in-seconds-devastating-footage-from-nepal-china-border-shows-doomsday-like-scenes/articleshow/133541288.cms",
+          "date": "26 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Over 40 dead, hundreds missing in Nepal floods; India rushes relief material",
           "link": "https://timesofindia.indiatimes.com/world/south-asia/over-100-indians-missing-after-flash-floods-hit-nepal-what-we-know-so-far/articleshow/133536823.cms",
           "date": "26 Aug 2026",
           "summary": "A massive flash flood in Nepal's Rasuwa district has caused widespread damage and claimed seventeen lives. Over one hundred Indian nationals are reported missing after the sudden surge in the Bhote Koshi River. Many missing individuals are believed to be pilgr…"
+        },
+        {
+          "title": "Ice avalanche, glacial lake or earthquake? What triggered Nepal’s deadly floods",
+          "link": "https://timesofindia.indiatimes.com/world/south-asia/ice-avalanche-glacial-lake-or-earthquake-what-triggered-nepals-deadly-floods/articleshow/133541089.cms",
+          "date": "26 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "India vs Sri Lanka: A hold, the choke and then the frustrating close",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/india-vs-sri-lanka-a-hold-the-choke-and-then-the-frustrating-close/articleshow/133541511.cms",
+          "date": "26 Aug 2026",
+          "summary": "India endured a frustrating day in Colombo, allowing Sri Lanka's Pasindu Sooriyabandara and Kamindu Mendis to dictate terms before three late wickets gave the visitors a foothold. With rain cutting the day short, Sonal Dinusha remains the last major hurdle bet…"
         },
         {
           "title": "Nepal floods: Over 100 Indians missing; MEA issues helpline numbers",
           "link": "https://timesofindia.indiatimes.com/world/south-asia/nepal-floods-over-100-indians-missing-mea-issues-helpline-numbers/articleshow/133539159.cms",
           "date": "26 Aug 2026",
           "summary": ""
+        },
+        {
+          "title": "In 1984, NASA sent 3,301 bees to space to see how they built honeycomb",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/in-1984-nasa-sent-3301-bees-into-space-to-test-how-they-built-honeycomb-without-gravity-from-hitting-on-walls-to-building-200cm-honeycomb-highlights-of-7-day-mission/articleshow/133537461.cms",
+          "date": "26 Aug 2026",
+          "summary": "Thousands of honeybees traveled into space aboard NASA's Space Shuttle Discovery in 1984. These bees were sent to microgravity to see if they could survive and build their famous honeycomb. Initially, some bees crashed into walls, but they adapted within days.…"
         },
         {
           "title": "'Stand in solidarity': PM Modi speaks to Nepal's Balen Shah, offers flood aid",
@@ -220,16 +244,40 @@
           "summary": "India pacer Arshdeep Singh used the Duleep Trophy to prove his readiness for Test cricket after a long gap from red-ball cricket. He took four wickets in North Zone’s 52-run win over West Zone and said he had specifically trained with the red ball. Arshdeep al…"
         },
         {
+          "title": "GPS can't work everywhere, so scientists test navigation using cosmic rays",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/gps-cannot-work-everywhere-so-scientists-tested-a-new-navigation-system-that-uses-cosmic-rays-instead-of-satellites-to-make-it-work-under-water-and-rocks/articleshow/133534634.cms",
+          "date": "26 Aug 2026",
+          "summary": "Japanese scientists are testing a new navigation system using cosmic ray muons. This system can work in places where GPS signals are unavailable, like underground. Muons can penetrate dense materials, which GPS signals cannot do effectively. Researchers have d…"
+        },
+        {
+          "title": "Quote of the day by Dolly Parton",
+          "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-dolly-parton-do-not-confuse-dreams-with-wishes-dreams-are-where-you-visualize-yourself-being-successful-wishes-are-hoping-good-things-will-happen-to-you-but-theres-no-fire-in-your-gut-the-9-to-5-singers-lesson-on-taking-action-and-dreaming-about-your-goals/articleshow/133537762.cms",
+          "date": "26 Aug 2026",
+          "summary": "Dolly Parton, in her inspiring commencement address in 2009, delineated the vital distinction between dreams and mere wishes. She emphasized that dreams are driven by focused efforts and a clear vision for the future, unlike wishes, which tend to lack the nece…"
+        },
+        {
+          "title": "Sailor spent years alone on Suwarrow before it became a national park",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/a-new-zealand-sailor-spent-years-living-alone-on-a-remote-cook-islands-atoll-across-three-separate-stays-a-year-after-his-final-stay-ended-suwarrow-was-declared-a-national-park/articleshow/133539848.cms",
+          "date": "26 Aug 2026",
+          "summary": "Suwarrow atoll, once the secluded refuge of hermit Tom Neale, has transformed into the Cook Islands' inaugural conservation sanctuary. After Neale spent sixteen years in seclusion on Anchorage Island, the atoll was designated as a national park and bird haven.…"
+        },
+        {
+          "title": "Michigan fund created from oil and gas revenues has awarded nearly $1.4bn",
+          "link": "https://timesofindia.indiatimes.com/world/us/in-1976-michigan-created-a-conservation-fund-from-oil-gas-and-mineral-revenues-50-years-later-it-has-awarded-nearly-1-4-billion-and-is-putting-6-5-million-toward-almost-22650-keweenaw-acres/articleshow/133538900.cms",
+          "date": "26 Aug 2026",
+          "summary": "Michigan’s Natural Resources Trust Fund is marking 50 years of supporting land conservation and outdoor recreation. Created in 1976 using earnings from state-owned oil, gas and mineral revenues, the fund has awarded nearly $1.4 billion so far. Its latest grant…"
+        },
+        {
+          "title": "IBM built a secret NSA computer in 1962 that ran 200x faster; how a worn part ended it",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/in-1962-ibm-built-a-secret-nsa-computer-that-ran-jobs-up-to-200-times-faster-than-any-other-machine-14-years-later-a-worn-out-part-ended-its-run-because-its-maker-was-no-longer-in-business/articleshow/133539852.cms",
+          "date": "26 Aug 2026",
+          "summary": "The year 1962 marked the inception of a clandestine project by IBM for the NSA, giving rise to the secret computer named Harvest. For fourteen years, this remarkable machine tackled critical cryptographic computations during the tense Cold War era, boasting sp…"
+        },
+        {
           "title": "Russia planning to use nukes? Why CIA chief made 'emergency' visit to Moscow",
           "link": "https://timesofindia.indiatimes.com/world/europe/russia-planning-to-use-nukes-why-cia-chief-made-emergency-visit-to-moscow-report/articleshow/133537199.cms",
           "date": "26 Aug 2026",
           "summary": ""
-        },
-        {
-          "title": "In 1984, NASA sent 3,301 bees to space to see how they built honeycomb",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/in-1984-nasa-sent-3301-bees-into-space-to-test-how-they-built-honeycomb-without-gravity-from-hitting-on-walls-to-building-200cm-honeycomb-highlights-of-7-day-mission/articleshow/133537461.cms",
-          "date": "26 Aug 2026",
-          "summary": "Thousands of honeybees traveled into space aboard NASA's Space Shuttle Discovery in 1984. These bees were sent to microgravity to see if they could survive and build their famous honeycomb. Initially, some bees crashed into walls, but they adapted within days.…"
         },
         {
           "title": "2nd Test: Rain delays India’s impending series victory over Sri Lanka",
@@ -244,34 +292,10 @@
           "summary": "The US Army faces a leadership void with no permanent chief of staff. Defense Secretary Pete Hegseth has removed several senior officers, impacting leadership continuity. This occurs while American bases in West Asia endure drone and missile attacks. The Army'…"
         },
         {
-          "title": "GPS can't work everywhere, so scientists test navigation using cosmic rays",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/gps-cannot-work-everywhere-so-scientists-tested-a-new-navigation-system-that-uses-cosmic-rays-instead-of-satellites-to-make-it-work-under-water-and-rocks/articleshow/133534634.cms",
-          "date": "26 Aug 2026",
-          "summary": "Japanese scientists are testing a new navigation system using cosmic ray muons. This system can work in places where GPS signals are unavailable, like underground. Muons can penetrate dense materials, which GPS signals cannot do effectively. Researchers have d…"
-        },
-        {
           "title": "Starc dethrones Bumrah, becomes No. 1 Test bowler for first time in his career",
           "link": "https://timesofindia.indiatimes.com/sports/cricket/news/mitchell-starc-dethrones-jasprit-bumrah-becomes-icc-no-1-test-bowler-for-first-time-in-his-career/articleshow/133535424.cms",
           "date": "26 Aug 2026",
           "summary": "The Australia fast bowler took 10 wickets in the match, including 6/12 in the first innings and 4/39 in the second, helping Australia register an innings and 51-run win and level the World Test Championship series."
-        },
-        {
-          "title": "Florida's underwater sculpture garden is now a living reef with 100+ species",
-          "link": "https://timesofindia.indiatimes.com/world/us/in-2018-florida-opened-americas-first-permanent-underwater-sculpture-garden-58-feet-below-the-gulf-it-has-grown-into-a-living-reef-where-more-than-100-species-have-been-documented/articleshow/133539343.cms",
-          "date": "26 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Grand Teton ranch sold in 1967 stayed with same family for 39 more years",
-          "link": "https://timesofindia.indiatimes.com/world/us/in-1967-emily-frew-oliver-sold-her-familys-wyoming-dude-ranch-to-grand-teton-national-park-but-kept-a-life-estate-39-years-later-she-gave-it-up-ending-her-familys-79-year-stewardship-of-the-historic-ranch/articleshow/133536642.cms",
-          "date": "26 Aug 2026",
-          "summary": "The 4 Lazy F Ranch in Wyoming remained with the Frew family for decades after they bought it in 1927. Emily Frew Oliver turned the family summer retreat into a dude ranch in 1950. In 1967, she sold the property to the federal government but kept a life estate.…"
-        },
-        {
-          "title": "A $1 million watch, only 7 of them, and 3 words Sam Altman wanted engraved inside",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/americas-richest-techies-new-status-symbol-is-a-swiss-watch-and-sam-altman-ordered-seven-worth-over-1-million-with-these-words-engraved-on-them/articleshow/133538155.cms",
-          "date": "26 Aug 2026",
-          "summary": "Sam Altman has commissioned seven custom Swiss watches from Vanguart for select OpenAI staff. Based on Vanguart's titanium Orb, which starts at $180,000, each carries the phrase COMPUTE IS DESTINY on the rotor and a line of Python code on the caseback. The Sam…"
         },
         {
           "title": "Iranian assassination plot against Netanyahu's son Yair foiled in Florida: Report",
@@ -350,30 +374,6 @@
           "link": "https://timesofindia.indiatimes.com/business/india-business/rs-30-lakh-a-month-for-an-intern-indias-high-speed-trading-firms-are-in-a-fierce-talent-war/articleshow/133534799.cms",
           "date": "26 Aug 2026",
           "summary": "In a bid to attract the brightest minds, high-frequency trading firms in India are ramping up intern compensation to unprecedented levels. This surge in hiring is influenced by stricter regulations on derivatives and a lull in equity market movements. Companie…"
-        },
-        {
-          "title": "22,000 feet, -15°C: DRDO puts high-altitude combat parachute system to the test",
-          "link": "https://timesofindia.indiatimes.com/defence/22000-feet-15c-drdo-puts-high-altitude-combat-parachute-system-to-the-test/articleshow/133537251.cms",
-          "date": "26 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "‘Toxic’ BO day 1 : Yash, Nayanthara, and Kiara Advani starrer gets strong start",
-          "link": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/toxic-a-fairy-tale-for-grown-ups-box-office-collection-day-1-live-yash-nayanthara-and-kiara-advani-starrer-gets-strong-start-across-india/articleshow/133534665.cms",
-          "date": "26 Aug 2026",
-          "summary": "Yash's new film 'Toxic' has achieved a significant opening day collection across India. The action drama directed by Geetu Mohandas earned over forty-one crore rupees net. Audience reactions are divided, praising visuals and Yash's presence but questioning the…"
-        },
-        {
-          "title": "How do navies hunt submarines? NATO's deadly game of detection beneath the waves",
-          "link": "https://timesofindia.indiatimes.com/defence/international/how-do-navies-hunt-submarines-natos-deadly-game-of-detection-beneath-the-waves/articleshow/133536730.cms",
-          "date": "26 Aug 2026",
-          "summary": "NATO navies are focusing on submarine detection and neutralization challenges. Exercises like Northern Viking 26 highlight coordinated anti-submarine warfare efforts. Modern warfare relies on advanced acoustic technology and persistent coordination between ass…"
-        },
-        {
-          "title": "Was PoK's Skardu airbase India's next target after Sargodha? Ex-CDS explains why plans changed",
-          "link": "https://timesofindia.indiatimes.com/india/was-poks-skardu-airbase-next-after-sargodha-ex-cds-chauhan-reveals-why-india-switched-targets/articleshow/133529251.cms",
-          "date": "26 Aug 2026",
-          "summary": ""
         }
       ]
     },
@@ -760,6 +760,18 @@
       "ok": true,
       "items": [
         {
+          "title": "Employee revolt and failing agents forced Meta to scrap its AI layoff plan",
+          "link": "https://the-decoder.com/employee-revolt-and-failing-agents-forced-meta-to-scrap-its-ai-layoff-plan/",
+          "date": "26 Aug 2026",
+          "summary": "Meta wanted to replace far more of its workforce with AI than previously known, according to Reuters, but the plan collapsed under rebellious employees and agents that failed to deliver. The article Employee revolt and failing agents forced Meta to scrap its A…"
+        },
+        {
+          "title": "Pro-Kremlin deepfakes put surrender rhetoric in the mouths of Ukrainian lawmakers",
+          "link": "https://the-decoder.com/pro-kremlin-deepfakes-put-surrender-rhetoric-in-the-mouths-of-ukrainian-lawmakers/",
+          "date": "26 Aug 2026",
+          "summary": "Pro-Kremlin Telegram channels are spreading AI-generated deepfake videos of two Ukrainian lawmakers who appear to call for peace talks. The clips racked up 130,000 views in two weeks, according to NewsGuard. Even when debunked, these fakes serve their purpose:…"
+        },
+        {
           "title": "Chinese Moonshot AI negotiates hosting deals with Microsoft, Amazon, and Google",
           "link": "https://the-decoder.com/chinese-moonshot-ai-negotiates-hosting-deals-with-microsoft-amazon-and-google/",
           "date": "26 Aug 2026",
@@ -806,18 +818,6 @@
           "link": "https://the-decoder.com/metas-paid-ai-agent-hatch-launches-soon-with-a-new-model-called-watermelon-due-in-october/",
           "date": "25 Aug 2026",
           "summary": "Meta Platforms will launch its AI agent Hatch in the coming weeks and release a new AI model called Watermelon in October. The article Meta&#039;s paid AI agent Hatch launches soon, with a new model called Watermelon due in October appeared first on The Decode…"
-        },
-        {
-          "title": "Nvidia says its Groq 3 LPX is four times faster than Cerebras, but the math is more complicated",
-          "link": "https://the-decoder.com/nvidia-says-its-groq-3-lpx-is-four-times-faster-than-cerebras-but-the-math-is-more-complicated/",
-          "date": "25 Aug 2026",
-          "summary": "Nvidia is moving its Groq 3 LPX inference chip into full production and reports 3,400 tokens per second on Gemma 4 31B, four times faster than Cerebras. But the numbers don't tell the whole story. Nvidia needs at least 64 accelerators to get there, while Cereb…"
-        },
-        {
-          "title": "Ukraine opens its massive labeled battlefield dataset to British firms in a landmark AI weapons partnership",
-          "link": "https://the-decoder.com/ukraine-opens-its-massive-labeled-battlefield-dataset-to-british-firms-in-a-landmark-ai-weapons-partnership/",
-          "date": "25 Aug 2026",
-          "summary": "The UK becomes the first country to get access to Avengers Labs, Ukraine's platform holding roughly five million annotated combat images for training military AI. Three British startups are already working on pilot projects. The deal shows how real war data is…"
         }
       ]
     },
@@ -1569,184 +1569,184 @@
       "ok": true,
       "items": [
         {
-          "title": "repoheart added to PyPI",
-          "link": "https://pypi.org/project/repoheart/",
+          "title": "playforge added to PyPI",
+          "link": "https://pypi.org/project/playforge/",
           "date": "26 Aug 2026",
-          "summary": "The autonomous, event-driven, multi-agent heart of your GitHub repository."
+          "summary": "Interactive Playwright recorder that turns browser actions into code"
         },
         {
-          "title": "ovos-localize added to PyPI",
-          "link": "https://pypi.org/project/ovos-localize/",
+          "title": "hmrc-licensing-management added to PyPI",
+          "link": "https://pypi.org/project/hmrc-licensing-management/",
           "date": "26 Aug 2026",
-          "summary": "GitHub-native translation platform for OpenVoiceOS locale files with contextual cues from skill source code"
+          "summary": "API client for HMRC internal licensing management api"
         },
         {
-          "title": "idavenv added to PyPI",
-          "link": "https://pypi.org/project/idavenv/",
+          "title": "promptex-adapter-contract added to PyPI",
+          "link": "https://pypi.org/project/promptex-adapter-contract/",
           "date": "26 Aug 2026",
-          "summary": "Cross-platform automated IDAPython virtual environment management powered by uv"
+          "summary": "把契約審查的提示詞投影成審查平台看得懂的形態：一個端點一份檢查表。"
         },
         {
-          "title": "django-ninja-starter added to PyPI",
-          "link": "https://pypi.org/project/django-ninja-starter/",
+          "title": "openapi-drift added to PyPI",
+          "link": "https://pypi.org/project/openapi-drift/",
           "date": "26 Aug 2026",
-          "summary": "A production-oriented Django Ninja API template and project generator"
+          "summary": "Does the deployed service still do what your OpenAPI document says, and can a machine read it? A drift check, not a fuzzer and not a syntax validator."
         },
         {
-          "title": "agentpayments-python added to PyPI",
-          "link": "https://pypi.org/project/agentpayments-python/",
+          "title": "bayesmith added to PyPI",
+          "link": "https://pypi.org/project/bayesmith/",
           "date": "26 Aug 2026",
-          "summary": "AgentPayments gate for Python web frameworks — charge AI agents USDC on Solana before they can access your API"
+          "summary": "A graph of operators is a Bayesian model; its structure chooses the inference."
         },
         {
-          "title": "pichak added to PyPI",
-          "link": "https://pypi.org/project/pichak/",
+          "title": "mcp-token-lint added to PyPI",
+          "link": "https://pypi.org/project/mcp-token-lint/",
           "date": "26 Aug 2026",
-          "summary": "Derive fine-tuning hyperparameters from measurements of your actual machine, and print the measurement behind every number."
+          "summary": "Token budget linter for MCP tool schemas — see what your connected servers are costing you before you burn the context window."
         },
         {
-          "title": "shadow-warden-sdk added to PyPI",
-          "link": "https://pypi.org/project/shadow-warden-sdk/",
+          "title": "maskflow-pack-india added to PyPI",
+          "link": "https://pypi.org/project/maskflow-pack-india/",
           "date": "26 Aug 2026",
-          "summary": "Python SDK for the Shadow Warden AI security gateway"
+          "summary": "MaskFlow's Indian PII recognizers (Aadhaar, PAN, GSTIN, IFSC, UPI VPA)"
         },
         {
-          "title": "elitedatareader added to PyPI",
-          "link": "https://pypi.org/project/elitedatareader/",
+          "title": "sglang-kernel-rdna3 added to PyPI",
+          "link": "https://pypi.org/project/sglang-kernel-rdna3/",
           "date": "26 Aug 2026",
-          "summary": "A library for reading and processing Natus Elite acquisition files."
+          "summary": "Prebuilt sgl-kernel for AMD Radeon RDNA3 (gfx1100)"
         },
         {
-          "title": "crewmemory-mcp added to PyPI",
-          "link": "https://pypi.org/project/crewmemory-mcp/",
+          "title": "codeswarm added to PyPI",
+          "link": "https://pypi.org/project/codeswarm/",
           "date": "26 Aug 2026",
-          "summary": "Shared crew memory MCP server for AI coding agents (Claude Code, Codex, Cursor, ...)"
+          "summary": "A focused terminal workspace for collaborating with ACP coding agents."
         },
         {
-          "title": "imk-greeter added to PyPI",
-          "link": "https://pypi.org/project/imk-greeter/",
+          "title": "inventa-client added to PyPI",
+          "link": "https://pypi.org/project/inventa-client/",
           "date": "26 Aug 2026",
-          "summary": "A minimal hello world package."
+          "summary": "INVENTA API Client Library"
         },
         {
-          "title": "automodel-tau3-airline-mcp added to PyPI",
-          "link": "https://pypi.org/project/automodel-tau3-airline-mcp/",
+          "title": "salak added to PyPI",
+          "link": "https://pypi.org/project/salak/",
           "date": "26 Aug 2026",
-          "summary": "MCP server exposing the 14 official tau3-bench airline agent tools"
+          "summary": "Deterministic, provenance-tagged code knowledge graph generator"
         },
         {
-          "title": "case-generate-ien added to PyPI",
-          "link": "https://pypi.org/project/case-generate-ien/",
+          "title": "strands-deepkeep added to PyPI",
+          "link": "https://pypi.org/project/strands-deepkeep/",
           "date": "26 Aug 2026",
-          "summary": "This is my first tool that upload to pypi,and this is used to generate testcases with CLI!"
+          "summary": "DeepKeep AI Firewall hook integration for Strands Agents"
         },
         {
-          "title": "studykit added to PyPI",
-          "link": "https://pypi.org/project/studykit/",
+          "title": "boxoffice-draws added to PyPI",
+          "link": "https://pypi.org/project/boxoffice-draws/",
           "date": "26 Aug 2026",
-          "summary": "A simple Python toolkit for students"
+          "summary": "Movie actor ranking algorithm and utilities. Uses TMDB."
         },
         {
-          "title": "pyeilik added to PyPI",
-          "link": "https://pypi.org/project/pyeilik/",
+          "title": "bloat2md added to PyPI",
+          "link": "https://pypi.org/project/bloat2md/",
           "date": "26 Aug 2026",
-          "summary": "Control an Eilik desk robot from Python: servos, screen and video"
+          "summary": "Turn bloated documents into markdown an LLM can read"
         },
         {
-          "title": "kestrel-kernels-bundle-b added to PyPI",
-          "link": "https://pypi.org/project/kestrel-kernels-bundle-b/",
+          "title": "metacooc added to PyPI",
+          "link": "https://pypi.org/project/metacooc/",
           "date": "26 Aug 2026",
-          "summary": "Precompiled data shard for kestrel-kernels 0.5.0"
+          "summary": "Tool for co-occurrence analysis of microorganisms in metagenomes"
         },
         {
-          "title": "kestrel-kernels-bundle-a added to PyPI",
-          "link": "https://pypi.org/project/kestrel-kernels-bundle-a/",
+          "title": "spur-math added to PyPI",
+          "link": "https://pypi.org/project/spur-math/",
           "date": "26 Aug 2026",
-          "summary": "Precompiled data shard for kestrel-kernels 0.5.0"
+          "summary": "Accelerated AVX2 math kernels with certified SPEAR polynomials (gelu, erf, tanh), tiled matmul and fused FFN layer with backprop"
         },
         {
-          "title": "cli-consumption added to PyPI",
-          "link": "https://pypi.org/project/cli-consumption/",
+          "title": "lupaxa-cms-detection added to PyPI",
+          "link": "https://pypi.org/project/lupaxa-cms-detection/",
           "date": "26 Aug 2026",
-          "summary": "Analyze and consolidate AI coding CLI consumption across machines."
+          "summary": "Detect which CMS a website is using from public signals."
         },
         {
-          "title": "sphinx-benchmark added to PyPI",
-          "link": "https://pypi.org/project/sphinx-benchmark/",
+          "title": "sphinx-typst-math added to PyPI",
+          "link": "https://pypi.org/project/sphinx-typst-math/",
           "date": "26 Aug 2026",
-          "summary": "This is a Sphinx extension that benchmarks and profiles a docs build process event-wise(handler-wise), and the gaps in between the events-- so you can tell which extension, theme, or part of Sphinx itself is slowing your builds."
+          "summary": "Render native Typst math as MathML in Sphinx HTML builds"
         },
         {
-          "title": "arkhai-apicredits-storefront added to PyPI",
-          "link": "https://pypi.org/project/arkhai-apicredits-storefront/",
+          "title": "django-outbound-logger added to PyPI",
+          "link": "https://pypi.org/project/django-outbound-logger/",
           "date": "26 Aug 2026",
-          "summary": "Seller-side storefront for the API-credits domain: quota-backed listings, sync negotiation with ownership/quota guards, issuance-backed settlement."
+          "summary": "Log outgoing email and HTTP requests to the database, with their outcome and a retry."
         },
         {
-          "title": "sms-office added to PyPI",
-          "link": "https://pypi.org/project/sms-office/",
+          "title": "gclientid added to PyPI",
+          "link": "https://pypi.org/project/gclientid/",
           "date": "26 Aug 2026",
-          "summary": "SMS Office — the SMS Security Management System core library. Auth, guards, shifts, locations, dispatch, compliance, brain-state. PostgreSQL-backed."
+          "summary": "Create Google OAuth desktop client IDs locally"
         },
         {
-          "title": "arkhai-apicredits-buyer added to PyPI",
-          "link": "https://pypi.org/project/arkhai-apicredits-buyer/",
+          "title": "tclean added to PyPI",
+          "link": "https://pypi.org/project/tclean/",
           "date": "26 Aug 2026",
-          "summary": "API-credits buyer schema plugin for the core `market` CLI: discover credit listings, negotiate quantity x rate, settle into issued keys."
+          "summary": "Tools for cleaning, validating, and reconstructing time series."
         },
         {
-          "title": "dash-uploader-ng added to PyPI",
-          "link": "https://pypi.org/project/dash-uploader-ng/",
+          "title": "nemo-jupyter added to PyPI",
+          "link": "https://pypi.org/project/nemo-jupyter/",
           "date": "26 Aug 2026",
-          "summary": "Large file upload component for Dash -- a maintained, security-patched fork of dash-uploader"
+          "summary": "Jupyter kernel and nbconvert exporter for the Nemo rule engine"
         },
         {
-          "title": "arkhai-apicredits-domain added to PyPI",
-          "link": "https://pypi.org/project/arkhai-apicredits-domain/",
+          "title": "naujoks added to PyPI",
+          "link": "https://pypi.org/project/naujoks/",
           "date": "26 Aug 2026",
-          "summary": "Shared API-credit domain models, policies, and market-domain contract."
+          "summary": "Python utility and cryptography library"
         },
         {
-          "title": "arkhai-bare-metal-storefront added to PyPI",
-          "link": "https://pypi.org/project/arkhai-bare-metal-storefront/",
+          "title": "model-info-amazon-bedrock added to PyPI",
+          "link": "https://pypi.org/project/model-info-amazon-bedrock/",
           "date": "26 Aug 2026",
-          "summary": "Seller-side storefront composition for the Arkhai bare-metal domain."
+          "summary": "Python wrapper to simplify fetching information about models on Amazon Bedrock - particularly pricing"
         },
         {
-          "title": "omoshiroi-packager added to PyPI",
-          "link": "https://pypi.org/project/omoshiroi-packager/",
+          "title": "python-pptx2 added to PyPI",
+          "link": "https://pypi.org/project/python-pptx2/",
           "date": "26 Aug 2026",
-          "summary": "Version parser with multiple channels support"
+          "summary": "Create, read, and update PowerPoint 2007+ (.pptx) files. Fork of power-pptx / python-pptx, published as python-pptx2."
         },
         {
-          "title": "apec-job-match added to PyPI",
-          "link": "https://pypi.org/project/apec-job-match/",
+          "title": "apple-mailbox-mcp added to PyPI",
+          "link": "https://pypi.org/project/apple-mailbox-mcp/",
           "date": "26 Aug 2026",
-          "summary": "Scrape, score, summarize, and review APEC job postings."
+          "summary": "Fast local MCP server for Apple Mail: search, read, triage, verified send. Works with Claude, Cursor, VS Code, or any MCP client."
         },
         {
-          "title": "arkhai-bare-metal added to PyPI",
-          "link": "https://pypi.org/project/arkhai-bare-metal/",
+          "title": "trio-town added to PyPI",
+          "link": "https://pypi.org/project/trio-town/",
           "date": "26 Aug 2026",
-          "summary": "Bare-metal market schema and domain vocabulary for Arkhai."
+          "summary": "A remote registry that turns team skills into shareable, callable tools via a credential-injecting proxy."
         },
         {
-          "title": "arkhai-vms added to PyPI",
-          "link": "https://pypi.org/project/arkhai-vms/",
+          "title": "ride-the-duck-v2 added to PyPI",
+          "link": "https://pypi.org/project/ride-the-duck-v2/",
           "date": "26 Aug 2026",
-          "summary": "Shared VM-domain models and helpers used by Arkhai VM buyer and storefront packages."
+          "summary": "The second version of my recreation of the drinking game 'Ride the Bus' recreated in Python using pygame for the user interface"
         },
         {
-          "title": "arkhai-kit-site-client added to PyPI",
-          "link": "https://pypi.org/project/arkhai-kit-site-client/",
+          "title": "BetterSQLi added to PyPI",
+          "link": "https://pypi.org/project/bettersqli/",
           "date": "26 Aug 2026",
-          "summary": "Typed async clients for a site authority's capacity API: buyer-facing read/reserve/commit (SiteCapacityClient) and operator resource registration/update (SiteCapacityAdminClient)."
+          "summary": "BetterSQL SQL injection testing toolkit"
         },
         {
-          "title": "arkhai-kit-negotiation-runtime added to PyPI",
-          "link": "https://pypi.org/project/arkhai-kit-negotiation-runtime/",
+          "title": "flybots added to PyPI",
+          "link": "https://pypi.org/project/flybots/",
           "date": "26 Aug 2026",
-          "summary": "Schema-opaque signed negotiation lifecycle, persistence, and recovery orchestration."
+          "summary": "From-scratch autonomous UAV algorithms: multirotor, fixed-wing and VTOL flight models, 42 runnable simulations and reinforcement-learning environments."
         }
       ]
     }
