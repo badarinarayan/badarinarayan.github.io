@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-26T09:32:12Z",
+  "generated": "2026-08-26T10:25:49Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,18 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "Sensex falls 183 points, Nifty closes below 24,250 as market erases all morning gains. What lies ahead?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-183-points-nifty-closes-below-24250-as-market-erases-all-morning-gains-what-lies-ahead/articleshow/133537326.cms",
+          "date": "26 Aug 2026",
+          "summary": "The Indian stock markets experienced a shift, dropping from earlier gains with both Sensex and Nifty closing lower. Key decliners included Infosys, Bharti Airtel, and L&T. Meanwhile, Kotak Mahindra Bank's shares surged over three percent, contrasting with the…"
+        },
+        {
+          "title": "Adani’s Cemindia is said to near up to $524 million share sale",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/adanis-cemindia-is-said-to-near-up-to-524-million-share-sale/articleshow/133536591.cms",
+          "date": "26 Aug 2026",
+          "summary": "Adani Group-backed Cemindia Projects, formerly known as ITD Cementation India, is preparing to launch a qualified institutional placement (QIP) to raise up to Rs 5,000 crore. The company has appointed ICICI Securities and SBI Capital Markets as advisers and ha…"
+        },
         {
           "title": "Welspun Corp shares drop 6% after CEO, promoter group likely sell stake worth Rs 1,433 crore via block deal",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/welspun-corp-shares-drop-6-after-ceo-promoter-group-likely-sell-stake-worth-rs-1433-crore-via-block-deal/articleshow/133531522.cms",
@@ -30,18 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/physicswallah-shares-jump-5-after-block-deal-worth-rs-550-crore-whats-ahead-after-63-rally-in-6-months/articleshow/133532214.cms",
           "date": "26 Aug 2026",
           "summary": "PhysicsWallah shares surged around 5% after nearly 4.67 crore shares worth about Rs 550 crore changed hands in a block deal at Rs 117.72 apiece. The stock has recovered sharply from its March low, while improving Q1 FY27 financials and a Buy rating from JM Fin…"
-        },
-        {
-          "title": "Gaja Alternative Asset shares list at 16% premium over IPO price on NSE, BSE",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/gaja-alternative-asset-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/133527367.cms",
-          "date": "26 Aug 2026",
-          "summary": "Gaja Alternative Asset Management shares made a strong debut on Wednesday, listing nearly 16% above the IPO price. The Rs 550-crore issue received robust demand during subscription, led by institutional and non-institutional investors, with the overall issue s…"
-        },
-        {
-          "title": "Avaada Electro files updated draft papers with Sebi for Rs 7,600-cr IPO",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/avaada-electro-files-updated-draft-papers-with-sebi-for-rs-7600-cr-ipo/articleshow/133528857.cms",
-          "date": "26 Aug 2026",
-          "summary": "Avaada Electro Ltd is making waves in the financial market by submitting updated draft papers for a massive Rs 7,600 crore initial public offering. This IPO features a fresh equity share issuance alongside an offer for sale. The proceeds aim to address loan re…"
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -202,16 +202,16 @@
           "summary": "At least eight people died in massive flash floods that struck Nepal on Wednesday. A sudden rise in the Bhotekoshi River caused widespread damage near the China border. Vehicles and property were washed away in the Timure and Syafrubesi market areas. Rescue op…"
         },
         {
-          "title": "A fatal pact, death note and poison: How a rifle coach came to haunt Andhra family",
-          "link": "https://timesofindia.indiatimes.com/city/vijayawada/a-fatal-pact-death-note-and-poison-how-a-rifle-coach-came-to-haunt-andhra-family/articleshow/133528034.cms",
+          "title": "Over 100 Indians missing after flash floods hit Nepal - what we know so far",
+          "link": "https://timesofindia.indiatimes.com/world/south-asia/over-100-indians-missing-after-flash-floods-hit-nepal-what-we-know-so-far/articleshow/133536823.cms",
           "date": "26 Aug 2026",
-          "summary": "A woman and her parents died after jumping into a river with her son. The woman accused a rifle shooting coach of harassing her and killing her husband. Her son survived the incident after being rescued from the river. The coach was arrested in Meerut after a…"
+          "summary": ""
         },
         {
-          "title": "Rs 30 lakh a month for an intern? India’s trading firms are in a fierce talent war",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/rs-30-lakh-a-month-for-an-intern-indias-high-speed-trading-firms-are-in-a-fierce-talent-war/articleshow/133534799.cms",
+          "title": "'Questions don't stop with batons': Rahul attacks Bihar govt over BPSC protests",
+          "link": "https://timesofindia.indiatimes.com/india/questions-dont-stop-with-batons-rahul-gandhi-attacks-bihar-govt-over-bpsc-protests/articleshow/133537210.cms",
           "date": "26 Aug 2026",
-          "summary": "In a bid to attract the brightest minds, high-frequency trading firms in India are ramping up intern compensation to unprecedented levels. This surge in hiring is influenced by stricter regulations on derivatives and a lull in equity market movements. Companie…"
+          "summary": ""
         },
         {
           "title": "'ICC letting them get away': Manjrekar wants strict action against Sooryavanshi, Jaiswal",
@@ -220,10 +220,10 @@
           "summary": "The incident happened on the first day after Fernando dismissed Jaiswal. The India opener had hit three boundaries in the over before Fernando bowled him with a delivery that beat his defence."
         },
         {
-          "title": "Was PoK's Skardu airbase India's next target after Sargodha? Ex-CDS explains why plans changed",
-          "link": "https://timesofindia.indiatimes.com/india/was-poks-skardu-airbase-next-after-sargodha-ex-cds-chauhan-reveals-why-india-switched-targets/articleshow/133529251.cms",
+          "title": "A fatal pact, death note and poison: How a rifle coach came to haunt Andhra family",
+          "link": "https://timesofindia.indiatimes.com/city/vijayawada/a-fatal-pact-death-note-and-poison-how-a-rifle-coach-came-to-haunt-andhra-family/articleshow/133528034.cms",
           "date": "26 Aug 2026",
-          "summary": ""
+          "summary": "A woman and her parents died after jumping into a river with her son. The woman accused a rifle shooting coach of harassing her and killing her husband. Her son survived the incident after being rescued from the river. The coach was arrested in Meerut after a…"
         },
         {
           "title": "GPS can't work everywhere, so scientists test navigation using cosmic rays",
@@ -232,16 +232,16 @@
           "summary": "Japanese scientists are testing a new navigation system using cosmic ray muons. This system can work in places where GPS signals are unavailable, like underground. Muons can penetrate dense materials, which GPS signals cannot do effectively. Researchers have d…"
         },
         {
-          "title": "India’s 1st hydrogen train travels 6,000 km; cuts 36,444 kg CO2 emissions",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/emitting-only-water-vapour-indias-2400-kw-hydrogen-train-is-the-worlds-most-powerful-within-days-of-launch-it-travels-600-km-and-reduces-carbon-dioxide-emissions-by-36444-kg/articleshow/133533990.cms",
+          "title": "Rs 30 lakh a month for an intern? India’s trading firms are in a fierce talent war",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/rs-30-lakh-a-month-for-an-intern-indias-high-speed-trading-firms-are-in-a-fierce-talent-war/articleshow/133534799.cms",
           "date": "26 Aug 2026",
-          "summary": "India’s first hydrogen train consists of 10 coaches and can accommodate 2,600 passengers. It operates between Jind and Sonipat in Haryana with a maximum operating speed of 75 kmph, although the train has been designed to reach 110 kmph."
+          "summary": "In a bid to attract the brightest minds, high-frequency trading firms in India are ramping up intern compensation to unprecedented levels. This surge in hiring is influenced by stricter regulations on derivatives and a lull in equity market movements. Companie…"
         },
         {
-          "title": "Why India’s rice exports to Iran may survive Trump's sanctions threat",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/why-indias-rice-exports-to-iran-may-survive-trumps-sanctions-threat/articleshow/133534935.cms",
+          "title": "Was PoK's Skardu airbase India's next target after Sargodha? Ex-CDS explains why plans changed",
+          "link": "https://timesofindia.indiatimes.com/india/was-poks-skardu-airbase-next-after-sargodha-ex-cds-chauhan-reveals-why-india-switched-targets/articleshow/133529251.cms",
           "date": "26 Aug 2026",
-          "summary": "India's rice exports to Iran are expected to continue despite tougher US sanctions. Demand from Iran remains firm for food security reasons, ensuring continued purchases. Indian exporters utilize alternative payment channels in countries like Turkey and the UA…"
+          "summary": ""
         },
         {
           "title": "Satya Nadella’s record pay signals Microsoft’s AI, cloud growth bet",
@@ -250,28 +250,58 @@
           "summary": "In a landmark move, Microsoft CEO Satya Nadella has been awarded an unprecedented compensation package of $96.5 million, underscoring the firm’s strides in artificial intelligence and cloud services. This pay structure, predominantly reliant on stock and perfo…"
         },
         {
-          "title": "Watch: Gangajal in hand, UP councillors 'swear oath' to share bribes equally",
-          "link": "https://timesofindia.indiatimes.com/city/lucknow/watch-gangajal-in-hand-up-councillors-swear-oath-to-share-bribes-equally/articleshow/133528016.cms",
+          "title": "Scottish island bought by couple was gifted to National Trust 43 years later",
+          "link": "https://timesofindia.indiatimes.com/world/uk/a-scottish-scholar-and-his-american-wife-bought-the-remote-island-of-canna-43-years-later-they-gifted-it-their-home-and-their-lifes-work-preserving-gaelic-culture-to-the-national-trust-for-scotland/articleshow/133533553.cms",
           "date": "26 Aug 2026",
-          "summary": "A video shows Shahjahanpur Municipal Corporation councillors taking an oath to share civic funds. The purported oath states all income would be divided equally among sixty councillors. This viral video has prompted the civic body to order an official inquiry.…"
+          "summary": "Scottish Gaelic scholar John Lorne Campbell and American musician Margaret Fay Shaw bought the remote islands of Canna and Sanday in 1938 and made Canna House their home. For decades, they collected Gaelic songs, stories, photographs and historical records. In…"
         },
         {
-          "title": "New pigment-free coating stays 6°C cooler than surrounding air in desert sun",
-          "link": "https://timesofindia.indiatimes.com/science/columbia-engineers-built-a-pigment-free-polymer-coating-filled-with-microscopic-air-pores-under-arizona-desert-sun-the-coated-surface-stayed-about-6c-below-ambient-air/articleshow/133532403.cms",
+          "title": "Human brains usually decay first; some survived 12,000 years. Here's how",
+          "link": "https://timesofindia.indiatimes.com/science/the-human-brain-usually-decays-first-after-death-so-how-have-thousands-survived-for-12000-years-scientists-uncover-the-chemistry-behind-the-mystery/articleshow/133534694.cms",
           "date": "26 Aug 2026",
-          "summary": "Columbia Engineering researchers developed a porous polymer coating that can cool surfaces below the surrounding air temperature without using electricity. The coating replaces conventional white pigments with nano-to-microscale air voids that reflect sunlight…"
-        },
-        {
-          "title": "Savannah Police audits 39,000 Flock searches; 6 employees fired, 4 arrested",
-          "link": "https://timesofindia.indiatimes.com/world/us/savannah-audited-39000-flock-searches-and-found-34-unjustified-6-employees-were-fired-and-4-have-now-been-arrested/articleshow/133531276.cms",
-          "date": "26 Aug 2026",
-          "summary": "Four former Savannah Police Department employees have been arrested over alleged misuse of the Flock Safety license plate reader system. The arrests followed an internal audit of 39,000 searches, which flagged 127 for review and found 34 were unjustified. Six…"
+          "summary": "Recent studies shed light on how some ancient brains manage to endure over time. The availability of oxygen is pivotal in influencing the survival of brain proteins post-mortem. In moist, low-oxygen environments, decomposition favors protein cross-linking, whi…"
         },
         {
           "title": "One of America's top AI Hedge Fund may lose billions in NJ’s biggest-ever divorce case",
           "link": "https://timesofindia.indiatimes.com/technology/tech-news/how-one-of-americas-top-ai-hedge-fund-may-lose-billions-in-new-jerseys-biggest-ever-divorce-case/articleshow/133535796.cms",
           "date": "26 Aug 2026",
           "summary": "John Overdeck faces a staggering multibillion-dollar claim from his wife, Laura Overdeck, who demands a considerable equity stake in the well-known hedge fund, Two Sigma Investments. This intense legal confrontation not only hinges on substantial financial cla…"
+        },
+        {
+          "title": "Dolly Parton walked so Taylor Swift could run",
+          "link": "https://timesofindia.indiatimes.com/entertainment/english/music/news/dolly-parton-for-beginners-how-the-queen-of-country-wrote-the-playbook-for-taylor-swift/articleshow/133536559.cms",
+          "date": "26 Aug 2026",
+          "summary": "Dolly Parton’s impact transcends the realm of country music, leaving a mark on various genres and artists alike. Her prowess in songwriting and strategic business moves, particularly in managing her own intellectual property, showcases her talent. The exaggera…"
+        },
+        {
+          "title": "‘Shouldn't it begin with Congress?' BJP targets Rahul over 'smash patriarchy’ remark",
+          "link": "https://timesofindia.indiatimes.com/india/shouldnt-it-begin-with-congress-bjp-targets-rahul-gandhi-over-smash-the-patriarchy-remark/articleshow/133535896.cms",
+          "date": "26 Aug 2026",
+          "summary": "The BJP criticized Rahul Gandhi's \"smash the patriarchy\" remark, questioning its application within his party. BJP leader Bansuri Swaraj accused Gandhi of hypocrisy and lacking a positive agenda. She cited past Congress remarks against Kangana Ranaut and Hema…"
+        },
+        {
+          "title": "India’s 1st hydrogen train travels 6,000 km; cuts 36,444 kg CO2 emissions",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/emitting-only-water-vapour-indias-2400-kw-hydrogen-train-is-the-worlds-most-powerful-within-days-of-launch-it-travels-600-km-and-reduces-carbon-dioxide-emissions-by-36444-kg/articleshow/133533990.cms",
+          "date": "26 Aug 2026",
+          "summary": "India’s first hydrogen train consists of 10 coaches and can accommodate 2,600 passengers. It operates between Jind and Sonipat in Haryana with a maximum operating speed of 75 kmph, although the train has been designed to reach 110 kmph."
+        },
+        {
+          "title": "US pauses fresh military action against Iran, turns to sanctions and maritime pressure",
+          "link": "https://timesofindia.indiatimes.com/world/us/no-fresh-strikes-on-iran-for-now-rubio-informs-allies-as-us-shifts-to-economic-maritime-pressure/articleshow/133535110.cms",
+          "date": "26 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Why India’s rice exports to Iran may survive Trump's sanctions threat",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/why-indias-rice-exports-to-iran-may-survive-trumps-sanctions-threat/articleshow/133534935.cms",
+          "date": "26 Aug 2026",
+          "summary": "India's rice exports to Iran are expected to continue despite tougher US sanctions. Demand from Iran remains firm for food security reasons, ensuring continued purchases. Indian exporters utilize alternative payment channels in countries like Turkey and the UA…"
+        },
+        {
+          "title": "Watch: Gangajal in hand, UP councillors 'swear oath' to share bribes equally",
+          "link": "https://timesofindia.indiatimes.com/city/lucknow/watch-gangajal-in-hand-up-councillors-swear-oath-to-share-bribes-equally/articleshow/133528016.cms",
+          "date": "26 Aug 2026",
+          "summary": "A video shows Shahjahanpur Municipal Corporation councillors taking an oath to share civic funds. The purported oath states all income would be divided equally among sixty councillors. This viral video has prompted the civic body to order an official inquiry.…"
         },
         {
           "title": "‘Be ready for cockroaches!’ CJP renews Sept 5 protest call over 3 pending demands",
@@ -344,36 +374,6 @@
           "link": "https://timesofindia.indiatimes.com/sports/cricket/news/poor-guy-has-been-behind-bars-for-three-years-ramiz-raja-gives-update-on-imran-khans-condition/articleshow/133529398.cms",
           "date": "26 Aug 2026",
           "summary": "Ramiz Raja's comments came after 21 former international captains wrote to Pakistan Prime Minister Shehbaz Sharif, renewing their appeal for proper medical treatment and better conditions for Imran. The group includes Indian cricket legends Sunil Gavaskar, Kap…"
-        },
-        {
-          "title": "'3,000 raids, rats, cockroaches': How FDA chief is giving eateries a wake-up call",
-          "link": "https://timesofindia.indiatimes.com/city/mumbai/3000-raids-dirty-kitchens-exposed-food-giants-hit-how-tukaram-mundhe-is-giving-eateries-a-wake-up-call/articleshow/133528742.cms",
-          "date": "26 Aug 2026",
-          "summary": "Tukaram Mundhe leads Maharashtra's aggressive food safety crackdown, inspecting thousands of food businesses. His teams have conducted over 3,000 raids, suspending permits and uncovering numerous violations. The campaign now targets loose edible oil sales, enf…"
-        },
-        {
-          "title": "Lunar eclipse on Raksha Bandhan? Sutak not needed for Rakhi in India",
-          "link": "https://timesofindia.indiatimes.com/religion/rituals-puja/lunar-eclipse-on-raksha-bandhan-2026-will-sutak-affect-rakhi-rituals-can-you-tie-rakhi-normally-in-india/articleshow/133530503.cms",
-          "date": "26 Aug 2026",
-          "summary": "In 2026, as Raksha Bandhan coincides with a lunar eclipse, Indian celebrants needn't worry about observance requirements related to the astronomical event, as it will not be visible in the country. Instead, they can focus on following the traditional Muhurta f…"
-        },
-        {
-          "title": "'Hijab on their heads, not minds': Owaisi calls Allahabad HC ruling 'attack on Islam'",
-          "link": "https://timesofindia.indiatimes.com/india/hijab-on-their-heads-not-minds-owaisi-calls-allahabad-hc-ruling-an-attack-on-islam/articleshow/133531827.cms",
-          "date": "26 Aug 2026",
-          "summary": "Asaduddin Owaisi criticized the recent Allahabad High Court ruling that denied a student the right to wear a hijab, labeling it an attack on Islam and individual religious liberties. The court dismissed the petition on the grounds of insufficient religious doc…"
-        },
-        {
-          "title": "Meet Hirbai Ibrahim Lobi, the Padma awardee who changed over 700 lives",
-          "link": "https://timesofindia.indiatimes.com/life-style/people/who-was-the-woman-who-placed-her-hands-on-president-murmus-shoulders-at-the-padma-awards-meet-hirbai-ibrahim-lobi-the-siddi-social-worker-who-changed-more-than-700-lives/articleshow/133528914.cms",
-          "date": "26 Aug 2026",
-          "summary": "Hirbai Ibrahim Lobi, a passionate advocate for social change, was honored with the Padma Shri award due to her unwavering commitment to the Siddi tribal community in Gujarat. Her initiatives focused on enhancing education and fostering financial independence f…"
-        },
-        {
-          "title": "Seven dead, nine Chinese workers missing after fire at gas chemical complex in Russia",
-          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/seven-dead-nine-chinese-workers-missing-after-fire-at-gas-chemical-complex-in-russia/articleshow/133530964.cms",
-          "date": "26 Aug 2026",
-          "summary": "A fire at a gas chemical complex in Russia's Amur region has claimed seven lives. Six Chinese nationals were among the deceased in the Tuesday incident. Nine more Chinese workers are currently missing after the blaze. The fire broke out at the facility and was…"
         }
       ]
     },
@@ -760,6 +760,12 @@
       "ok": true,
       "items": [
         {
+          "title": "Anthropic sees a market opportunity of more than $30 trillion ahead of its IPO",
+          "link": "https://the-decoder.com/anthropic-sees-a-market-opportunity-of-more-than-30-trillion-ahead-of-its-ipo/",
+          "date": "26 Aug 2026",
+          "summary": "Anthropic wants to sell investors on a theoretical market opportunity worth more than $30 trillion ahead of its planned IPO. The article Anthropic sees a market opportunity of more than $30 trillion ahead of its IPO appeared first on The Decoder ."
+        },
+        {
           "title": "Russia used ChatGPT to run a covert influence campaign pushing pro-Kremlin narratives across the West",
           "link": "https://the-decoder.com/russia-used-chatgpt-to-run-a-covert-influence-campaign-pushing-pro-kremlin-narratives-across-the-west/",
           "date": "25 Aug 2026",
@@ -812,12 +818,6 @@
           "link": "https://the-decoder.com/pew-study-shows-ai-written-text-has-surged-across-the-web-since-late-2022/",
           "date": "24 Aug 2026",
           "summary": "The Pew Research Center analyzed nearly half a million English-language web pages for AI-generated content. More than a third of pages published since ChatGPT's launch show signs of machine-written text, and commercial .com sites are ten times more likely to c…"
-        },
-        {
-          "title": "Alibaba's Wan3.0 generates AI videos up to 30 seconds long from text, images, and documents",
-          "link": "https://the-decoder.com/alibabas-wan3-0-generates-ai-videos-up-to-30-seconds-long-from-text-images-and-documents/",
-          "date": "24 Aug 2026",
-          "summary": "Alibaba's video generation model Wan3.0 creates clips up to 30 seconds long from text, PDFs, and PowerPoint files. A 30-second 1080p clip costs $6. Alibaba's quarterly profit dropped 75 percent year-over-year as the company ramps up AI spending. The article Al…"
         }
       ]
     },
@@ -1569,6 +1569,168 @@
       "ok": true,
       "items": [
         {
+          "title": "safety-law-mapper added to PyPI",
+          "link": "https://pypi.org/project/safety-law-mapper/",
+          "date": "26 Aug 2026",
+          "summary": "작업 상황을 입력하면 적용되는 한국 안전 법령·조항을 찾아주는 규칙 기반 매핑 엔진"
+        },
+        {
+          "title": "strategos-common added to PyPI",
+          "link": "https://pypi.org/project/strategos-common/",
+          "date": "26 Aug 2026",
+          "summary": "Internal shared library. Part of the Strategos Suite by ShadowStrike. Not intended for standalone use."
+        },
+        {
+          "title": "twinage added to PyPI",
+          "link": "https://pypi.org/project/twinage/",
+          "date": "26 Aug 2026",
+          "summary": "None"
+        },
+        {
+          "title": "certlim added to PyPI",
+          "link": "https://pypi.org/project/certlim/",
+          "date": "26 Aug 2026",
+          "summary": "Finite-evidence certification limits: what any Certify/Reject rule can achieve from the evidence you have."
+        },
+        {
+          "title": "jirosearch added to PyPI",
+          "link": "https://pypi.org/project/jirosearch/",
+          "date": "26 Aug 2026",
+          "summary": "Local-first, AI-native web search & scraping API. A drop-in, self-hosted SerpAPI alternative with MCP server, agentic research, and built-in legal compliance."
+        },
+        {
+          "title": "netbox-tenant-switcher added to PyPI",
+          "link": "https://pypi.org/project/netbox-tenant-switcher/",
+          "date": "26 Aug 2026",
+          "summary": "Searchable tenant selector in the NetBox navbar that scopes list views to the selected tenant."
+        },
+        {
+          "title": "udzialy-bot added to PyPI",
+          "link": "https://pypi.org/project/udzialy-bot/",
+          "date": "26 Aug 2026",
+          "summary": "Bot do wyszukiwania ogłoszeń sprzedaży udziałów w nieruchomościach"
+        },
+        {
+          "title": "ibook2epub added to PyPI",
+          "link": "https://pypi.org/project/ibook2epub/",
+          "date": "26 Aug 2026",
+          "summary": "Convert Apple iBooks epub packages to zipped epub files."
+        },
+        {
+          "title": "plasmakit added to PyPI",
+          "link": "https://pypi.org/project/plasmakit/",
+          "date": "26 Aug 2026",
+          "summary": "Fusion nuclear physics engine: plasma states, fusion reactivities, and neutron sources validated against published references."
+        },
+        {
+          "title": "skillgrep added to PyPI",
+          "link": "https://pypi.org/project/skillgrep/",
+          "date": "26 Aug 2026",
+          "summary": "Search local Agent Skill collections without loading them all."
+        },
+        {
+          "title": "ncpolopt added to PyPI",
+          "link": "https://pypi.org/project/ncpolopt/",
+          "date": "26 Aug 2026",
+          "summary": "Sparse SDP relaxations of polynomial optimization problems with noncommuting variables (NPA hierarchy)"
+        },
+        {
+          "title": "modelPilot added to PyPI",
+          "link": "https://pypi.org/project/modelpilot/",
+          "date": "26 Aug 2026",
+          "summary": "Profiles your hardware, recommends LLMs that fit, and tunes them for max performance."
+        },
+        {
+          "title": "whodb-sdk added to PyPI",
+          "link": "https://pypi.org/project/whodb-sdk/",
+          "date": "26 Aug 2026",
+          "summary": "Official Python SDK for the WhoDB hosted platform — ontology, datasets, and sources as in-code function APIs"
+        },
+        {
+          "title": "awaro added to PyPI",
+          "link": "https://pypi.org/project/awaro/",
+          "date": "26 Aug 2026",
+          "summary": "Companion command for the Awaro LoRaWAN gateway (awaro.fr): USB gateway to MQTT / Home Assistant, via lorawan2mqtt."
+        },
+        {
+          "title": "gsee-climate-data added to PyPI",
+          "link": "https://pypi.org/project/gsee-climate-data/",
+          "date": "26 Aug 2026",
+          "summary": "MERRA-2-derived daily irradiance PDFs for the GSEE climate data interface"
+        },
+        {
+          "title": "fuxingshared added to PyPI",
+          "link": "https://pypi.org/project/fuxingshared/",
+          "date": "26 Aug 2026",
+          "summary": "Add your description here"
+        },
+        {
+          "title": "theceta added to PyPI",
+          "link": "https://pypi.org/project/theceta/",
+          "date": "26 Aug 2026",
+          "summary": "Namespace placeholder. Četa — Personnel management. Part of the Strategos Suite by ShadowStrike."
+        },
+        {
+          "title": "cardioception-toolbox added to PyPI",
+          "link": "https://pypi.org/project/cardioception-toolbox/",
+          "date": "26 Aug 2026",
+          "summary": "Measuring interoceptive performance with Psychopy - the official Cardioception toolbox from the Embodied Computation Group."
+        },
+        {
+          "title": "arc56-generated-amanr-91ddd378 added to PyPI",
+          "link": "https://pypi.org/project/arc56-generated-amanr-91ddd378/",
+          "date": "26 Aug 2026",
+          "summary": "Generated ARC-56 Algorand smart-contract clients for Amanrajguptaa/Ticketer."
+        },
+        {
+          "title": "arc56-generated-aman-5042bcb8 added to PyPI",
+          "link": "https://pypi.org/project/arc56-generated-aman-5042bcb8/",
+          "date": "26 Aug 2026",
+          "summary": "Generated ARC-56 Algorand smart-contract clients for aman-mahto07/GTS."
+        },
+        {
+          "title": "evomemory added to PyPI",
+          "link": "https://pypi.org/project/evomemory/",
+          "date": "26 Aug 2026",
+          "summary": "EvoMemory is not publicly available yet"
+        },
+        {
+          "title": "epp-ashmil added to PyPI",
+          "link": "https://pypi.org/project/epp-ashmil/",
+          "date": "26 Aug 2026",
+          "summary": "E++ — the English-like programming language with built-in GUI, canvas and animation"
+        },
+        {
+          "title": "arc56-generated-akshi-75bd33ae added to PyPI",
+          "link": "https://pypi.org/project/arc56-generated-akshi-75bd33ae/",
+          "date": "26 Aug 2026",
+          "summary": "Generated ARC-56 Algorand smart-contract clients for akshitvishwanath09-hue/TrustFundX."
+        },
+        {
+          "title": "arc56-generated-d13co-sigreg added to PyPI",
+          "link": "https://pypi.org/project/arc56-generated-d13co-sigreg/",
+          "date": "26 Aug 2026",
+          "summary": "Generated ARC-56 Algorand smart-contract clients for d13co/sigreg."
+        },
+        {
+          "title": "equitrain added to PyPI",
+          "link": "https://pypi.org/project/equitrain/",
+          "date": "26 Aug 2026",
+          "summary": "A training framework for machine learning interatomic potentials (MLIPs)"
+        },
+        {
+          "title": "scan-cpd added to PyPI",
+          "link": "https://pypi.org/project/scan-cpd/",
+          "date": "26 Aug 2026",
+          "summary": "Python package for SCAN change-point detection"
+        },
+        {
+          "title": "riznica added to PyPI",
+          "link": "https://pypi.org/project/riznica/",
+          "date": "26 Aug 2026",
+          "summary": "Riznica — Finance management. Part of the Strategos Suite by ShadowStrike."
+        },
+        {
           "title": "alibabacloud-maxcompute-mcp-server added to PyPI",
           "link": "https://pypi.org/project/alibabacloud-maxcompute-mcp-server/",
           "date": "26 Aug 2026",
@@ -1585,168 +1747,6 @@
           "link": "https://pypi.org/project/pyffmpegcore/",
           "date": "26 Aug 2026",
           "summary": "The safe, explainable FFmpeg task runner for the terminal, Python, and CI"
-        },
-        {
-          "title": "maskflow-cli added to PyPI",
-          "link": "https://pypi.org/project/maskflow-cli/",
-          "date": "26 Aug 2026",
-          "summary": "Command-line interface for MaskFlow: .maskflowrc config validation and inspection"
-        },
-        {
-          "title": "meridian-storage-postgresql added to PyPI",
-          "link": "https://pypi.org/project/meridian-storage-postgresql/",
-          "date": "26 Aug 2026",
-          "summary": "PostgreSQL and PostGIS adapter for Meridian V1"
-        },
-        {
-          "title": "meridian-plugin-observability added to PyPI",
-          "link": "https://pypi.org/project/meridian-plugin-observability/",
-          "date": "26 Aug 2026",
-          "summary": "Meridian V1 observability plugin for governed OpenTelemetry and evidence queries"
-        },
-        {
-          "title": "quantum-downloader added to PyPI",
-          "link": "https://pypi.org/project/quantum-downloader/",
-          "date": "26 Aug 2026",
-          "summary": "Download and archive entire YouTube channels and playlists with resumable, idempotent downloads."
-        },
-        {
-          "title": "sar-aws-faultline added to PyPI",
-          "link": "https://pypi.org/project/sar-aws-faultline/",
-          "date": "26 Aug 2026",
-          "summary": "Find the security gaps in your AWS account, ranked by what to fix first."
-        },
-        {
-          "title": "adda added to PyPI",
-          "link": "https://pypi.org/project/adda/",
-          "date": "26 Aug 2026",
-          "summary": "ADDA — anti-drift architecture memory + OKF + Context Sentinel for AI-assisted development."
-        },
-        {
-          "title": "webscout-mcp added to PyPI",
-          "link": "https://pypi.org/project/webscout-mcp/",
-          "date": "26 Aug 2026",
-          "summary": "A smart web search & fetch MCP server with built-in caching, rate-limiting, and content extraction"
-        },
-        {
-          "title": "httpmas added to PyPI",
-          "link": "https://pypi.org/project/httpmas/",
-          "date": "26 Aug 2026",
-          "summary": "Thư viện HTTPS Client, sync & async, TLS 1.3"
-        },
-        {
-          "title": "vynko added to PyPI",
-          "link": "https://pypi.org/project/vynko/",
-          "date": "26 Aug 2026",
-          "summary": "A lightweight command-line argument parsing library for Python"
-        },
-        {
-          "title": "seenrelay added to PyPI",
-          "link": "https://pypi.org/project/seenrelay/",
-          "date": "26 Aug 2026",
-          "summary": "Deterministic zero-dependency SeenRelay client for repeated source-backed validation workflows."
-        },
-        {
-          "title": "tox-legacy-dependency-groups added to PyPI",
-          "link": "https://pypi.org/project/tox-legacy-dependency-groups/",
-          "date": "26 Aug 2026",
-          "summary": "None"
-        },
-        {
-          "title": "shopee-afp-aer added to PyPI",
-          "link": "https://pypi.org/project/shopee-afp-aer/",
-          "date": "26 Aug 2026",
-          "summary": "A small example package"
-        },
-        {
-          "title": "epptools added to PyPI",
-          "link": "https://pypi.org/project/epptools/",
-          "date": "26 Aug 2026",
-          "summary": "Dependency-free Python client for EPP domain registries (RFC 5730-5734 over TLS), with a registry's own extensions discovered from its greeting."
-        },
-        {
-          "title": "researchtwin-mcp-server added to PyPI",
-          "link": "https://pypi.org/project/researchtwin-mcp-server/",
-          "date": "26 Aug 2026",
-          "summary": "Persistent MCP research-project management tools for ResearchTwin."
-        },
-        {
-          "title": "seetapsych-face-hub added to PyPI",
-          "link": "https://pypi.org/project/seetapsych-face-hub/",
-          "date": "26 Aug 2026",
-          "summary": "Face modules for SeetaPsych"
-        },
-        {
-          "title": "smsnova-sdk added to PyPI",
-          "link": "https://pypi.org/project/smsnova-sdk/",
-          "date": "26 Aug 2026",
-          "summary": "Official Python SDK for SMSNova temporary phone number and automated SMS OTP verification API."
-        },
-        {
-          "title": "aiida-wannierjl added to PyPI",
-          "link": "https://pypi.org/project/aiida-wannierjl/",
-          "date": "26 Aug 2026",
-          "summary": "AiiDA plugin wrapping Wannier.jl to manipulate Wannier functions from within AiiDA workflows"
-        },
-        {
-          "title": "sidepit added to PyPI",
-          "link": "https://pypi.org/project/sidepit/",
-          "date": "26 Aug 2026",
-          "summary": "The official Python SDK and trading terminal for Sidepit."
-        },
-        {
-          "title": "adrs4ai-kintsugi added to PyPI",
-          "link": "https://pypi.org/project/adrs4ai-kintsugi/",
-          "date": "26 Aug 2026",
-          "summary": "kintsugi — a porcelain for evolving templates: a package manager of individual files, propagating template updates without clobbering local adaptation (ADRs4AI)"
-        },
-        {
-          "title": "changewatch added to PyPI",
-          "link": "https://pypi.org/project/changewatch/",
-          "date": "26 Aug 2026",
-          "summary": "A doorbell for your published work. Tells you when somebody else cites, stars, files or mentions it - and stays silent the rest of the time."
-        },
-        {
-          "title": "ddd23331-afsim-optimization-mcp added to PyPI",
-          "link": "https://pypi.org/project/ddd23331-afsim-optimization-mcp/",
-          "date": "26 Aug 2026",
-          "summary": "Governed AFSIM planning Tools exposed through FastAPI and MCP."
-        },
-        {
-          "title": "swisper-agent-sdk added to PyPI",
-          "link": "https://pypi.org/project/swisper-agent-sdk/",
-          "date": "26 Aug 2026",
-          "summary": "The published contract a partner builds a Swisper domain agent against"
-        },
-        {
-          "title": "svesta added to PyPI",
-          "link": "https://pypi.org/project/svesta/",
-          "date": "26 Aug 2026",
-          "summary": "Svesta — forensic AI watermark detection engine. Part of the Strategos Suite by ShadowStrike. strategos.au"
-        },
-        {
-          "title": "seetapsych-configs added to PyPI",
-          "link": "https://pypi.org/project/seetapsych-configs/",
-          "date": "26 Aug 2026",
-          "summary": "SeetaPsych Configs"
-        },
-        {
-          "title": "seetapsych-attributes added to PyPI",
-          "link": "https://pypi.org/project/seetapsych-attributes/",
-          "date": "26 Aug 2026",
-          "summary": "SeetaPsych Attributes"
-        },
-        {
-          "title": "firmadb added to PyPI",
-          "link": "https://pypi.org/project/firmadb/",
-          "date": "26 Aug 2026",
-          "summary": "Python SDK for the FirmaDB European company data API"
-        },
-        {
-          "title": "fastapi-async-ratelimit added to PyPI",
-          "link": "https://pypi.org/project/fastapi-async-ratelimit/",
-          "date": "26 Aug 2026",
-          "summary": "An asynchronous rate limiter for FastAPI"
         }
       ]
     }
