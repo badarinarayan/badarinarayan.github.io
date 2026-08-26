@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-26T04:31:18Z",
+  "generated": "2026-08-26T05:25:52Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -8,13 +8,19 @@
       "ok": true,
       "items": [
         {
+          "title": "HEG demerger: What 1:1 restructuring mean for shareholders as company fixes record date?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/heg-shares-in-focus-as-company-fixes-record-date-for-demerger-what-it-means-for-shareholders/articleshow/133528755.cms",
+          "date": "26 Aug 2026",
+          "summary": "On September 7, HEG will finalise its demerger, providing shareholders one share in the new entity for each existing share they hold. The graphite electrodes segment will transition to HEG Graphite, retaining the HEG name. Additionally, Bhilwara Energy will me…"
+        },
+        {
           "title": "Groww shares fall 3% after Rs 2,500 crore block deal; Ribbit likely seller",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/groww-shares-in-focus-as-ribbit-likely-sells-stake-through-rs-1914-crore-block-deal/articleshow/133528618.cms",
           "date": "26 Aug 2026",
           "summary": "Billionbrains Garage Ventures, the parent company of Groww, will be in focus as early investor Ribbit Capital plans to sell a 1.6% stake through a block deal worth Rs 1,914 crore. The shares are being offered at Rs 195 apiece, a 4% discount to the previous clo…"
         },
         {
-          "title": "Sensex rises 300 points; Nifty above 24,350 as oil prices slide. What lies ahead?",
+          "title": "Sensex rises over 300 points; Nifty above 24,350 as oil prices slide. What lies ahead?",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-over-200-points-nifty-nears-24350-as-oil-prices-slide-what-lies-ahead/articleshow/133528847.cms",
           "date": "26 Aug 2026",
           "summary": "On Wednesday, Indian stock markets rallied, buoyed by a decrease in oil prices and renewed optimism surrounding the reopening of the Strait of Hormuz, following a resumption of talks with Iran. Both the Sensex and Nifty indices showed positive momentum, with b…"
@@ -36,12 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/esds-to-expand-data-centre-operations-with-of-rs-720-cr-ipo-proceeds/articleshow/133526906.cms",
           "date": "26 Aug 2026",
           "summary": "ESDS Software Solution is embarking on a ₹720-crore IPO aimed at broadening its data center operations across India and Europe. This strategic move follows a notable partnership for AI cluster deployment powered by NVIDIA GPUs. The investment will not only bol…"
-        },
-        {
-          "title": "Axis Bank set to raise $700 million through ECB swap facility",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/axis-bank-set-to-raise-700-million-through-ecb-swap-facility/articleshow/133526983.cms",
-          "date": "26 Aug 2026",
-          "summary": "Axis Bank is set to secure seven hundred million dollars through a dedicated external commercial borrowing facility. This loan features two tranches with tenures of three and five years. The arrangement is spearheaded by CTBC Bank from Taiwan and United Overse…"
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -202,28 +202,28 @@
           "summary": "Venkata Narasamamba Vasamsetty, a lawful permanent resident, recently found herself in a troubling situation when ICE officials detained her, despite a judge terminating her immigration case in May. She has always been compliant with check-ins and carried the…"
         },
         {
-          "title": "15 newborns killed after fire breaks out at Islamabad hospital in Pakistan",
-          "link": "https://timesofindia.indiatimes.com/world/pakistan/15-newborns-killed-in-fire-at-islamabad-hospitals-gynaecology-ward-in-pakistan/articleshow/133528725.cms",
+          "title": "‘Do we need a 4th-party audit?’ PM raps secretaries over quality of public projects",
+          "link": "https://timesofindia.indiatimes.com/india/do-we-need-a-4th-party-audit-pm-raps-secretaries-over-quality-of-public-projects/articleshow/133524154.cms",
+          "date": "26 Aug 2026",
+          "summary": "Chairing the monthly Pragati meeting on Tuesday, Modi is learned to have told the top bureaucrats that such things are “unacceptable” and the system won’t work like this. Modi reviewed six infrastructure projects across railway, road and power sectors, spannin…"
+        },
+        {
+          "title": "Was Skardu airbase next after Sargodha? Ex-CDS reveals why India switched targets",
+          "link": "https://timesofindia.indiatimes.com/india/was-poks-skardu-airbase-next-after-sargodha-ex-cds-chauhan-reveals-why-india-switched-targets/articleshow/133529251.cms",
           "date": "26 Aug 2026",
           "summary": ""
         },
         {
-          "title": "US halts visa appointments globally amid Trump's immigration crackdown",
-          "link": "https://timesofindia.indiatimes.com/world/us/us-halts-visa-appointments-globally-amid-donald-trumps-immigration-crackdown/articleshow/133527702.cms",
-          "date": "26 Aug 2026",
-          "summary": "United States visa appointments are paused worldwide for consular officer training. This initiative supports the administration's broader immigration enforcement efforts. Immigrant visa applicants are being notified of rescheduled interviews due to this progra…"
-        },
-        {
-          "title": "Test cricketer forced to retire at 27 due to concussions sues school; here's why",
+          "title": "Test cricketer, forced to retire at 27 due to concussions, sues school; here's why",
           "link": "https://timesofindia.indiatimes.com/sports/cricket/news/former-australian-test-cricketer-forced-to-retire-at-27-sues-school-for-head-injury-in-2014-heres-why/articleshow/133528608.cms",
           "date": "26 Aug 2026",
           "summary": "Pucovski retired from professional cricket in April last year at the age of 27 after suffering 13 documented concussions during his career."
         },
         {
-          "title": "6 killed, several hurt as private bus crashes into moving truck in Hyderabad",
-          "link": "https://timesofindia.indiatimes.com/city/hyderabad/6-killed-several-hurt-as-private-bus-crashes-into-moving-truck-in-hyderabad/articleshow/133527454.cms",
+          "title": "15 newborns killed after fire breaks out at Islamabad hospital in Pakistan",
+          "link": "https://timesofindia.indiatimes.com/world/pakistan/15-newborns-killed-in-fire-at-islamabad-hospitals-gynaecology-ward-in-pakistan/articleshow/133528725.cms",
           "date": "26 Aug 2026",
-          "summary": "Six people died and several others were injured in a bus accident. A private travel bus collided with a moving truck near Durgapuram stage. The bus was carrying forty-three passengers from Hyderabad to Vijayawada early Wednesday. Injured individuals were trans…"
+          "summary": ""
         },
         {
           "title": "Satya Nadella’s record pay signals Microsoft’s AI, cloud growth bet",
@@ -232,10 +232,16 @@
           "summary": "In a landmark move, Microsoft CEO Satya Nadella has been awarded an unprecedented compensation package of $96.5 million, underscoring the firm’s strides in artificial intelligence and cloud services. This pay structure, predominantly reliant on stock and perfo…"
         },
         {
-          "title": "'They had gone towards Sargodha': Ex-Navy officer backs ex-CDS on Kirana Hills remarks",
-          "link": "https://timesofindia.indiatimes.com/india/they-had-gone-towards-sargodha-ex-navy-officer-backs-chauhan-on-kirana-hills-remarks/articleshow/133529078.cms",
+          "title": "‘Bharat mata ki jai’: Kangana hits back at Rahul amid ‘smash patriarchy’ row",
+          "link": "https://timesofindia.indiatimes.com/india/bharat-mata-ki-jai-kangana-ranaut-hits-back-at-rahul-gandhi-amid-smash-patriarchy-row/articleshow/133528412.cms",
           "date": "26 Aug 2026",
-          "summary": "Former Chief of Defence Staff General Anil Chauhan discussed Operation Sindoor's success. He indicated loitering munitions were deployed near Sargodha during the operation. These munitions searched for radars and may have struck Kirana Hills. This occurred aft…"
+          "summary": ""
+        },
+        {
+          "title": "Trump sends Saudi nuclear deal to Congress, keeps Israel normalisation as condition",
+          "link": "https://timesofindia.indiatimes.com/world/us/donald-trump-sends-saudi-civil-nuclear-deal-to-congress-keeps-israel-normalisation-as-condition/articleshow/133529810.cms",
+          "date": "26 Aug 2026",
+          "summary": "The United States has submitted a civil nuclear cooperation agreement with Saudi Arabia to Congress. This pact will only proceed if Riyadh agrees to normalize relations with Israel. Congress has ninety days to review the proposed thirty-year agreement for pote…"
         },
         {
           "title": "Mark Zuckerberg’s wife Priscilla Chan’s $125 million school to shut after 10 years",
@@ -244,28 +250,46 @@
           "summary": "The Primary School, known for its free education to low-income families, has officially closed after ten years. The cessation of funding from the Chan Zuckerberg Initiative forced the board to make this difficult choice. Although the school offered a variety o…"
         },
         {
+          "title": "US halts visa appointments globally amid Trump's immigration crackdown",
+          "link": "https://timesofindia.indiatimes.com/world/us/us-halts-visa-appointments-globally-amid-donald-trumps-immigration-crackdown/articleshow/133527702.cms",
+          "date": "26 Aug 2026",
+          "summary": "United States visa appointments are paused worldwide for consular officer training. This initiative supports the administration's broader immigration enforcement efforts. Immigrant visa applicants are being notified of rescheduled interviews due to this progra…"
+        },
+        {
+          "title": "Georgia arrests second deputy in a month over alleged Flock misuse",
+          "link": "https://timesofindia.indiatimes.com/world/us/georgia-sheriffs-office-arrested-a-second-deputy-in-one-month-over-alleged-flock-misuse-latest-case-involved-someone-he-had-a-personal-relationship-with/articleshow/133520188.cms",
+          "date": "25 Aug 2026",
+          "summary": "In a troubling turn of events, a second deputy from Habersham County, Jonathan Thomas, has been dismissed and arrested for misusing surveillance technology. He reportedly accessed the license plate reader system for personal use, following a similar incident i…"
+        },
+        {
+          "title": "From Bihar farmer's family to cracking IIT-JEE at 12: Satyam Kumar's journey",
+          "link": "https://timesofindia.indiatimes.com/life-style/people/from-a-farmers-family-in-bihar-to-cracking-iit-jee-at-12-earning-a-phd-at-24-and-pursuing-ai-research-in-the-us-how-satyam-kumar-achieved-so-much-at-such-a-young-age/articleshow/133527339.cms",
+          "date": "26 Aug 2026",
+          "summary": "At just twelve years old, Satyam Kumar astounded many by passing the IIT-JEE. His academic journey took him to IIT Kanpur, where he specialized in electrical engineering with a keen interest in robotics and intelligent systems. After earning his degree, he hea…"
+        },
+        {
+          "title": "Elon Musk’s SpaceX to build $100 billion Starship spaceport in Louisiana",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musks-spacex-to-build-100-billion-starship-spaceport-in-louisiana/articleshow/133528301.cms",
+          "date": "26 Aug 2026",
+          "summary": "In an exciting development for the aerospace industry, SpaceX is set to establish its largest rocket launch complex in southern Louisiana. Dubbed Starbase Louisiana, this innovative venture will convert coastal wetlands into an essential facility. Planned cons…"
+        },
+        {
+          "title": "6 killed, several hurt as private bus crashes into moving truck in Hyderabad",
+          "link": "https://timesofindia.indiatimes.com/city/hyderabad/6-killed-several-hurt-as-private-bus-crashes-into-moving-truck-in-hyderabad/articleshow/133527454.cms",
+          "date": "26 Aug 2026",
+          "summary": "Six people died and several others were injured in a bus accident. A private travel bus collided with a moving truck near Durgapuram stage. The bus was carrying forty-three passengers from Hyderabad to Vijayawada early Wednesday. Injured individuals were trans…"
+        },
+        {
+          "title": "'They had gone towards Sargodha': Ex-Navy officer backs ex-CDS on Kirana Hills remarks",
+          "link": "https://timesofindia.indiatimes.com/india/they-had-gone-towards-sargodha-ex-navy-officer-backs-chauhan-on-kirana-hills-remarks/articleshow/133529078.cms",
+          "date": "26 Aug 2026",
+          "summary": "Former Chief of Defence Staff General Anil Chauhan discussed Operation Sindoor's success. He indicated loitering munitions were deployed near Sargodha during the operation. These munitions searched for radars and may have struck Kirana Hills. This occurred aft…"
+        },
+        {
           "title": "Schools closed today? Check Delhi-NCR and state-wise holiday status for August 26",
           "link": "https://timesofindia.indiatimes.com/education/news/school-holidays-today-august-26-check-state-wise-closure-status-for-eid-e-milad/articleshow/133528286.cms",
           "date": "26 Aug 2026",
           "summary": "Schools in several Indian states and Union Territories are observing a holiday on Wednesday, August 26, 2026, for Eid-e-Milad, but there is no uniform nationwide school closure order. Holiday arrangements vary according to state calendars, local orders and ind…"
-        },
-        {
-          "title": "Costa Rica spread 12,000 tonnes of orange waste; forest biomass later rose 176%",
-          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/in-1998-costa-rica-spread-12000-tonnes-of-orange-waste-over-degraded-pasture-16-years-later-tree-diversity-had-tripled-and-forest-biomass-was-176-higher/articleshow/133466780.cms",
-          "date": "24 Aug 2026",
-          "summary": "In 1998, about 12,000 metric tonnes of orange peels and pulp were spread over a degraded pasture in Costa Rica as part of an unusual forest restoration experiment. Sixteen years later, researchers found that the site had developed into a dense forest, with ric…"
-        },
-        {
-          "title": "Florida scientists found mosquito blood meals could help locate hidden pythons",
-          "link": "https://timesofindia.indiatimes.com/world/us/in-2017-florida-scientists-tested-mosquitoes-around-burmese-pythons-three-mosquito-species-contained-python-dna-in-their-blood-meals-suggesting-insects-could-help-locate-hidden-giant-snakes/articleshow/133499279.cms",
-          "date": "25 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "US court orders Guardant Health to pay $245 million for cancer patent infringement",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/us-court-to-pharma-giant-guardant-health-you-willfully-infringed-patents-for-cancer-testing-asked-to-pay-245-million-to-university-of-washington/articleshow/133527562.cms",
-          "date": "26 Aug 2026",
-          "summary": "A federal judge ordered Guardant Health to pay over $245 million to TwinStrand Biosciences and the University of Washington. This judgment follows a jury verdict for infringing patented DNA sequencing technology. Guardant Health will pay an upfront amount and…"
         },
         {
           "title": "French woman stunned to find UPI QR codes everywhere in India, even for Rs 20 snacks",
@@ -350,30 +374,6 @@
           "link": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/toxic-a-fairy-tale-for-grown-ups-twitter-review-yash-kiara-advani-nayanthara-film-gets-mixed-early-reactions-netizens-call-it-heavy-kgf-hangover/articleshow/133527033.cms",
           "date": "26 Aug 2026",
           "summary": "Yash's new film 'Toxic' has opened to divided audience reactions after early screenings. Viewers praised the movie's technical presentation and Yash's strong screen presence. However, many criticized the screenplay and narrative substance of the action drama.…"
-        },
-        {
-          "title": "Govt seeks 2 years to frame creamy layer criteria for PSU, private staff kids",
-          "link": "https://timesofindia.indiatimes.com/india/govt-seeks-2-years-to-frame-creamy-layer-criteria-for-psu-private-staff-kids/articleshow/133524157.cms",
-          "date": "26 Aug 2026",
-          "summary": "In its application, Centre said, “On account of the serious challenges and implications with the implementation of the directions of SC, govt is committed to bring out a policy which will effectively address the observations made by SC, while also ensuring tha…"
-        },
-        {
-          "title": "Dolly Parton’s final message to Travis Kelce is breaking hearts after her death",
-          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/dolly-partons-final-message-to-travis-kelce-is-breaking-hearts-after-her-death/articleshow/133523510.cms",
-          "date": "26 Aug 2026",
-          "summary": "Dolly Parton has passed away at the age of eighty, as confirmed by her family. A recent video showing her humorously discussing Travis Kelce and Taylor Swift's potential child now carries a bittersweet weight. The beloved country singer had expressed gratitude…"
-        },
-        {
-          "title": "Bill Belichick addresses son Steve’s UNC absence amid defensive play-calling call",
-          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/bill-belichick-sends-clear-message-on-steve-belichicks-unc-absence-as-defensive-play-calling-decision-looms/articleshow/133521058.cms",
-          "date": "26 Aug 2026",
-          "summary": "Bill Belichick says he feels confident taking over defensive play calling if North Carolina needs him while Steve Belichick remains on medical leave. Bill has not confirmed that he will call the defense against TCU. Steve’s return date is still unknown. UNC op…"
-        },
-        {
-          "title": "Vande Mataram row: Cong's calculated gamble or walking into BJP trap?",
-          "link": "https://timesofindia.indiatimes.com/india/vande-mataram-row-is-congress-taking-a-calculated-gamble-or-walking-into-bjps-trap/articleshow/133503760.cms",
-          "date": "25 Aug 2026",
-          "summary": "The Congress party's choice to sing two stanzas of Vande Mataram sparked intense backlash from the BJP, with Union ministers accusing them of engaging in appeasement politics and being responsible for the partition. Congress leaders defended their actions by i…"
         }
       ]
     },
@@ -1569,184 +1569,184 @@
       "ok": true,
       "items": [
         {
-          "title": "quillstack-standards added to PyPI",
-          "link": "https://pypi.org/project/quillstack-standards/",
-          "date": "25 Aug 2026",
-          "summary": "Checks a Quillstack package against the shape every one of them takes: the README, the badges, the repository, the release."
+          "title": "browser-auto-shinebed added to PyPI",
+          "link": "https://pypi.org/project/browser-auto-shinebed/",
+          "date": "26 Aug 2026",
+          "summary": "AdsPower bridge wrapper for browser-act automation"
         },
         {
-          "title": "ovos-control-panel added to PyPI",
-          "link": "https://pypi.org/project/ovos-control-panel/",
-          "date": "25 Aug 2026",
-          "summary": "Control panel for OpenVoiceOS devices — settings, plugins, skills, transformers, intents, media, network, sensors and more, in your browser"
+          "title": "browser-act-ads added to PyPI",
+          "link": "https://pypi.org/project/browser-act-ads/",
+          "date": "26 Aug 2026",
+          "summary": "AdsPower browser mode shim for browser-act-style automation"
         },
         {
-          "title": "sphinx-github-include added to PyPI",
-          "link": "https://pypi.org/project/sphinx-github-include/",
-          "date": "25 Aug 2026",
-          "summary": "Include and parse remote reStructuredText or Markdown in your Sphinx docs."
+          "title": "xraygent added to PyPI",
+          "link": "https://pypi.org/project/xraygent/",
+          "date": "26 Aug 2026",
+          "summary": "Tools for making AI-agent-generated work legible to humans."
         },
         {
-          "title": "FileHiker added to PyPI",
-          "link": "https://pypi.org/project/filehiker/",
-          "date": "25 Aug 2026",
-          "summary": "A file system walker — Find the right or left neighbour of a path inside a specified base folder"
+          "title": "trajectory-calc-Sukhwan added to PyPI",
+          "link": "https://pypi.org/project/trajectory-calc-sukhwan/",
+          "date": "26 Aug 2026",
+          "summary": "3D flight trajectory analysis and kinematics calculation"
         },
         {
-          "title": "pyrafuse added to PyPI",
-          "link": "https://pypi.org/project/pyrafuse/",
-          "date": "25 Aug 2026",
-          "summary": "PyraFuse: DINOv3-based skin, fabric, and background segmentation"
+          "title": "awrise added to PyPI",
+          "link": "https://pypi.org/project/awrise/",
+          "date": "26 Aug 2026",
+          "summary": "Wake something on a schedule, let it do one thing, and put it back to sleep"
         },
         {
-          "title": "agentport-cli added to PyPI",
-          "link": "https://pypi.org/project/agentport-cli/",
-          "date": "25 Aug 2026",
-          "summary": "Lightweight, security-first converter between coding-agent config formats (CLAUDE.md, AGENTS.md, Cursor rules, MCP configs, SKILL.md)."
+          "title": "meridian-storage-s3 added to PyPI",
+          "link": "https://pypi.org/project/meridian-storage-s3/",
+          "date": "26 Aug 2026",
+          "summary": "S3 object adapter for the Meridian V1 Object Catalog"
         },
         {
-          "title": "medwer added to PyPI",
-          "link": "https://pypi.org/project/medwer/",
-          "date": "25 Aug 2026",
-          "summary": "Reproducible, model-free medical-ASR evaluation: pinned Whisper normalizer + phrase-aware medical-WER + fixed term list."
+          "title": "meridian-storage-kafka added to PyPI",
+          "link": "https://pypi.org/project/meridian-storage-kafka/",
+          "date": "26 Aug 2026",
+          "summary": "Apache Kafka engine adapter for the Meridian Streaming Catalog"
         },
         {
-          "title": "watchlight-claude-agent added to PyPI",
-          "link": "https://pypi.org/project/watchlight-claude-agent/",
-          "date": "25 Aug 2026",
-          "summary": "Governed Claude Agent SDK agents with Watchlight — authorize every agent action, fail-closed, with zero infrastructure. Independent plugin, not affiliated with Anthropic."
+          "title": "symbopt added to PyPI",
+          "link": "https://pypi.org/project/symbopt/",
+          "date": "26 Aug 2026",
+          "summary": "Certifying symbolic optimization built on SymPy"
         },
         {
-          "title": "watchlight-pydantic-ai added to PyPI",
-          "link": "https://pypi.org/project/watchlight-pydantic-ai/",
-          "date": "25 Aug 2026",
-          "summary": "Governed Pydantic AI agents with Watchlight — authorize every agent action, fail-closed, with zero infrastructure"
+          "title": "contextglow added to PyPI",
+          "link": "https://pypi.org/project/contextglow/",
+          "date": "26 Aug 2026",
+          "summary": "Visualizing RAG Attention in Real-Time"
         },
         {
-          "title": "densend added to PyPI",
-          "link": "https://pypi.org/project/densend/",
-          "date": "25 Aug 2026",
-          "summary": "Send email with DenSend."
+          "title": "rce-test added to PyPI",
+          "link": "https://pypi.org/project/rce-test/",
+          "date": "26 Aug 2026",
+          "summary": "Test package"
         },
         {
-          "title": "watchlight-langgraph added to PyPI",
-          "link": "https://pypi.org/project/watchlight-langgraph/",
-          "date": "25 Aug 2026",
-          "summary": "Governed LangGraph agents with Watchlight — authorize every agent action, fail-closed, with zero infrastructure."
+          "title": "meet-aniket added to PyPI",
+          "link": "https://pypi.org/project/meet-aniket/",
+          "date": "26 Aug 2026",
+          "summary": "An interactive terminal portfolio for Aniket Chandekar."
         },
         {
-          "title": "geoai2analytics-sdk added to PyPI",
-          "link": "https://pypi.org/project/geoai2analytics-sdk/",
-          "date": "25 Aug 2026",
-          "summary": "Pure-Python Spatial Statistics, Econometrics, and Explainable GeoAI Engine."
+          "title": "awask added to PyPI",
+          "link": "https://pypi.org/project/awask/",
+          "date": "26 Aug 2026",
+          "summary": "Your agent asks you a question — and acts on your answer. Durable decision cards for agents: a structured ask, delivered wherever you are, whose answer steers the run that raised it."
         },
         {
-          "title": "actualq added to PyPI",
-          "link": "https://pypi.org/project/actualq/",
-          "date": "25 Aug 2026",
-          "summary": "Read an Actual Budget export from the command line. No server, no dependencies."
+          "title": "vinta-django-audit-logs added to PyPI",
+          "link": "https://pypi.org/project/vinta-django-audit-logs/",
+          "date": "26 Aug 2026",
+          "summary": "An append-only audit log for Django, with swappable scope and identity models, a portable query object and pluggable storage backends."
         },
         {
-          "title": "estates added to PyPI",
-          "link": "https://pypi.org/project/estates/",
-          "date": "25 Aug 2026",
-          "summary": "Official Rylse Python SDK for Estates"
+          "title": "software-evidence-controls added to PyPI",
+          "link": "https://pypi.org/project/software-evidence-controls/",
+          "date": "26 Aug 2026",
+          "summary": "Local deterministic CLI for evidence controls; no third-party dependencies"
         },
         {
-          "title": "aa-fatanalysis added to PyPI",
-          "link": "https://pypi.org/project/aa-fatanalysis/",
-          "date": "25 Aug 2026",
-          "summary": "FAT Analysis Plugin for Alliance Auth"
+          "title": "sovos-city added to PyPI",
+          "link": "https://pypi.org/project/sovos-city/",
+          "date": "26 Aug 2026",
+          "summary": "SOV City — a governed multi-agent arena that emits signed, deterministically-labelled governance data"
         },
         {
-          "title": "assel added to PyPI",
-          "link": "https://pypi.org/project/assel/",
-          "date": "25 Aug 2026",
-          "summary": "A sans-io Server-Sent Events (SSE) library"
+          "title": "keystone-request-context added to PyPI",
+          "link": "https://pypi.org/project/keystone-request-context/",
+          "date": "26 Aug 2026",
+          "summary": "Shared request-scoped ContextVar slots + Starlette middleware for Keystone AI services."
         },
         {
-          "title": "meridian-storage-semantics added to PyPI",
-          "link": "https://pypi.org/project/meridian-storage-semantics/",
-          "date": "25 Aug 2026",
-          "summary": "Meridian V1 logical schema, resource, data, and metadata semantics"
+          "title": "keystone-cli added to PyPI",
+          "link": "https://pypi.org/project/keystone-cli/",
+          "date": "26 Aug 2026",
+          "summary": "Keystone pro-code agent CLI — validate + run agents locally (FR-06 / FDP-3072, M1). login/deploy = M2."
         },
         {
-          "title": "binviz added to PyPI",
-          "link": "https://pypi.org/project/binviz/",
-          "date": "25 Aug 2026",
-          "summary": "Binary visualiser & triage tool: linked interactive views over a shared address-space model"
+          "title": "keystone-agent-sdk added to PyPI",
+          "link": "https://pypi.org/project/keystone-agent-sdk/",
+          "date": "26 Aug 2026",
+          "summary": "Keystone pro-code agent SDK — LangGraph authoring primitives (StateGraph, @tool), the agent.yaml manifest model, and validate(). FR-04 / FDP-3072 (M1)."
         },
         {
-          "title": "mds-core added to PyPI",
-          "link": "https://pypi.org/project/mds-core/",
-          "date": "25 Aug 2026",
-          "summary": "MDS - Markdown Document Schema: reference validator, CLI and library. Validates Markdown documents against .mds contracts."
+          "title": "llama-index-tools-sprites added to PyPI",
+          "link": "https://pypi.org/project/llama-index-tools-sprites/",
+          "date": "26 Aug 2026",
+          "summary": "Sprites tools for LlamaIndex agents"
         },
         {
-          "title": "sanskrit-agent added to PyPI",
-          "link": "https://pypi.org/project/sanskrit-agent/",
-          "date": "25 Aug 2026",
-          "summary": "A Python module and MCP server for coding agents to understand and write Sassembly/Sanskrit code."
+          "title": "fancy-linkedin-ads added to PyPI",
+          "link": "https://pypi.org/project/fancy-linkedin-ads/",
+          "date": "26 Aug 2026",
+          "summary": "LinkedIn Ads for Python — the service descriptor, its faker, its webhook verification, and one function per operation. Plain HTTP; no vendor SDK."
         },
         {
-          "title": "sansos-sanskrit added to PyPI",
-          "link": "https://pypi.org/project/sansos-sanskrit/",
-          "date": "25 Aug 2026",
-          "summary": "A Python module and MCP server for coding agents to understand and write Sassembly/Sanskrit code."
+          "title": "halflight added to PyPI",
+          "link": "https://pypi.org/project/halflight/",
+          "date": "26 Aug 2026",
+          "summary": "Halflight — batch-first decentralized inference across the machines you already own. Name reservation; the daemon is not yet published."
         },
         {
-          "title": "opensighub added to PyPI",
-          "link": "https://pypi.org/project/opensighub/",
-          "date": "25 Aug 2026",
-          "summary": "OpenSigHub wraps different code signing tools and schemes in a common CLI"
+          "title": "ipa-forge added to PyPI",
+          "link": "https://pypi.org/project/ipa-forge/",
+          "date": "26 Aug 2026",
+          "summary": "Generic, data-driven iOS IPA patcher framework with AltStore Classic re-signing support"
         },
         {
-          "title": "osm2threejs added to PyPI",
-          "link": "https://pypi.org/project/osm2threejs/",
-          "date": "25 Aug 2026",
-          "summary": "Headless 3D City Generator from OpenStreetMap into Three.js WebGL and 3D Assets."
+          "title": "cli-input-validator added to PyPI",
+          "link": "https://pypi.org/project/cli-input-validator/",
+          "date": "26 Aug 2026",
+          "summary": "Small, reusable helpers for validating command-line input."
         },
         {
-          "title": "nova-ai-pro added to PyPI",
-          "link": "https://pypi.org/project/nova-ai-pro/",
-          "date": "25 Aug 2026",
-          "summary": "NOVA AI — modular AI assistant backend with composable intelligence primitives"
+          "title": "py-cheema-api added to PyPI",
+          "link": "https://pypi.org/project/py-cheema-api/",
+          "date": "26 Aug 2026",
+          "summary": "py-cheema-api - a high-performance ASGI framework with compiled routing, DI, validation, and OpenAPI."
         },
         {
-          "title": "estate added to PyPI",
-          "link": "https://pypi.org/project/estate/",
-          "date": "25 Aug 2026",
-          "summary": "Official Rylse Python SDK for Estate"
+          "title": "pobblebonk added to PyPI",
+          "link": "https://pypi.org/project/pobblebonk/",
+          "date": "26 Aug 2026",
+          "summary": "the clock and the notebook for an agent: schedules, lists and notes on honker, in one file"
         },
         {
-          "title": "hgtd-tools added to PyPI",
-          "link": "https://pypi.org/project/hgtd-tools/",
-          "date": "25 Aug 2026",
-          "summary": "Tools for the HGTD production database"
+          "title": "byoc-storage added to PyPI",
+          "link": "https://pypi.org/project/byoc-storage/",
+          "date": "26 Aug 2026",
+          "summary": "BYOC (Bring Your Own Cloud) — universal storage abstraction for storage your users already own"
         },
         {
-          "title": "qprogram-qdac added to PyPI",
-          "link": "https://pypi.org/project/qprogram-qdac/",
-          "date": "25 Aug 2026",
-          "summary": "QDevil QDAC vendor extensions for the QProgram pulse-level quantum programming DSL."
+          "title": "camellia added to PyPI",
+          "link": "https://pypi.org/project/camellia/",
+          "date": "26 Aug 2026",
+          "summary": "Camellia — an EPICS display manager for the Advanced Light Source. Name reservation only; release pending LBNL software disclosure."
         },
         {
-          "title": "qprogram-qblox added to PyPI",
-          "link": "https://pypi.org/project/qprogram-qblox/",
-          "date": "25 Aug 2026",
-          "summary": "Qblox vendor extensions for the QProgram pulse-level quantum programming DSL."
+          "title": "ssh-nexus added to PyPI",
+          "link": "https://pypi.org/project/ssh-nexus/",
+          "date": "26 Aug 2026",
+          "summary": "AI-assisted SSH session and command-set workspace"
         },
         {
-          "title": "alphaverdict added to PyPI",
-          "link": "https://pypi.org/project/alphaverdict/",
-          "date": "25 Aug 2026",
-          "summary": "Adversarial research verdicts for stock strategies - deterministic reviewers that try to falsify your backtest."
+          "title": "zotniq added to PyPI",
+          "link": "https://pypi.org/project/zotniq/",
+          "date": "26 Aug 2026",
+          "summary": "Zotniq SDK: runtime DLP for AI applications. Detect, mask, and block sensitive data before it leaves your process."
         },
         {
-          "title": "tickvault-ob added to PyPI",
-          "link": "https://pypi.org/project/tickvault-ob/",
-          "date": "25 Aug 2026",
-          "summary": "Full-depth crypto order book archives, honest about their own gaps"
+          "title": "onepaste added to PyPI",
+          "link": "https://pypi.org/project/onepaste/",
+          "date": "26 Aug 2026",
+          "summary": "Collect project code files into a single output for AI assistants"
         }
       ]
     }
