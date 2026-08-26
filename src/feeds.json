@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-26T16:11:09Z",
+  "generated": "2026-08-26T18:52:02Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,12 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "Anthropic gears up for Wall Street debut: Five things investors need to know",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropics-gears-up-for-wall-street-debut-five-things-investors-need-to-know/slideshow/133545308.cms",
+          "date": "26 Aug 2026",
+          "summary": "Anthropic is preparing for a potential major Wall Street debut, fueled by rapid growth in AI coding through Claude Code. However, massive cash requirements, heavy losses, political tensions and fierce competition could test investor confidence in its long-term…"
+        },
         {
           "title": "M&amp;A deals double, but execution holds the key for investors: Crisil Ratings",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/ma-deals-double-but-execution-holds-the-key-for-investors-crisil-ratings/articleshow/133538096.cms",
@@ -36,12 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/adanis-cemindia-is-said-to-near-up-to-524-million-share-sale/articleshow/133536591.cms",
           "date": "26 Aug 2026",
           "summary": "Adani Group-backed Cemindia Projects, formerly known as ITD Cementation India, is preparing to launch a qualified institutional placement (QIP) to raise up to Rs 5,000 crore. The company has appointed ICICI Securities and SBI Capital Markets as advisers and ha…"
-        },
-        {
-          "title": "Welspun Corp shares drop 6% after CEO, promoter group likely sell stake worth Rs 1,433 crore via block deal",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/welspun-corp-shares-drop-6-after-ceo-promoter-group-likely-sell-stake-worth-rs-1433-crore-via-block-deal/articleshow/133531522.cms",
-          "date": "26 Aug 2026",
-          "summary": "Welspun Corp shares fell sharply on Wednesday after 63 lakh shares worth Rs 1,433 crore changed hands in a block deal. Promoter group entity Welspun Investments and Commercials and CEO Vipul Mathur were likely sellers. The transaction represented about 2.4% of…"
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -196,14 +196,38 @@
       "ok": true,
       "items": [
         {
-          "title": "PM Balen Shah appeals for unity after monster floods batter Nepal; Bihar, UP on high alert",
-          "link": "https://timesofindia.indiatimes.com/world/south-asia/over-100-indians-missing-after-flash-floods-hit-nepal-what-we-know-so-far/articleshow/133536823.cms",
+          "title": "'Like a bomb exploded': How a 2,000-ft wide glacier triggered deadly Nepal floods",
+          "link": "https://timesofindia.indiatimes.com/world/south-asia/like-a-bomb-exploded-how-a-2000-ft-wide-glacier-triggered-deadly-nepal-floods/articleshow/133546351.cms",
           "date": "26 Aug 2026",
-          "summary": "A massive flash flood in Nepal's Rasuwa district has caused widespread damage and claimed seventeen lives. Over one hundred Indian nationals are reported missing after the sudden surge in the Bhote Koshi River. Many missing individuals are believed to be pilgr…"
+          "summary": ""
         },
         {
-          "title": "'Let sugar become expensive': BJP minister Vijayvargiya's odd take on price spike",
-          "link": "https://timesofindia.indiatimes.com/india/let-sugar-become-expensive-bjp-minister-vijayvargiyas-odd-take-on-price-spike/articleshow/133545428.cms",
+          "title": "Nepal floods: MEA issues helpline numbers as over 100 Indians go missing",
+          "link": "https://timesofindia.indiatimes.com/world/south-asia/nepal-floods-over-100-indians-missing-mea-issues-helpline-numbers/articleshow/133539159.cms",
+          "date": "26 Aug 2026",
+          "summary": "The Embassy of India in Kathmandu has issued emergency helpline numbers for assistance and information regarding Indian nationals affected by the flash floods in Nepal. Those seeking assistance can contact +977 985 131 6807 or +977 970 910 7500, the MEA said.…"
+        },
+        {
+          "title": "‘Absolute shame’: DDCA draws flak amid Dev Chaudhary row",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/absolute-shame-ddca-draws-flak-over-dpl-player-selection-rule-amid-dev-chaudhary-row/articleshow/133541594.cms",
+          "date": "26 Aug 2026",
+          "summary": "Dev Chaudhary’s selection by New Delhi Tigers has raised questions over the DPL’s rule allowing franchises to pick three players outside the auction. Chaudhary played two matches despite limited known credentials, prompting criticism from DDCA Apex Council mem…"
+        },
+        {
+          "title": "Beyond fish in Ayodhya row: Why Nishad vote matters in UP 2027 battle",
+          "link": "https://timesofindia.indiatimes.com/india/beyond-ayodhya-and-fish-row-why-nishad-vote-matters-in-up-elections-2027/articleshow/133540486.cms",
+          "date": "26 Aug 2026",
+          "summary": "A fish controversy in Uttar Pradesh has highlighted the Nishad community's political significance. This community's vote has shifted loyalties and remains a key factor for parties. The BJP seeks to retain its OBC coalition while opposition parties try to gain…"
+        },
+        {
+          "title": "In 1984, NASA sent 3,301 bees to space to see how they built honeycomb",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/in-1984-nasa-sent-3301-bees-into-space-to-test-how-they-built-honeycomb-without-gravity-from-hitting-on-walls-to-building-200cm-honeycomb-highlights-of-7-day-mission/articleshow/133537461.cms",
+          "date": "26 Aug 2026",
+          "summary": "In 1984, NASA's Space Shuttle Discovery took thousands of honeybees into space, marking a unique experiment in microgravity. These resilient insects adapted quickly to their extraterrestrial surroundings, building about 200 centimeters of honeycomb in just sev…"
+        },
+        {
+          "title": "2015 earthquake, 2026 floods: Why Nepal is so susceptible to natural disasters",
+          "link": "https://timesofindia.indiatimes.com/world/south-asia/2012-kathmandu-earthquake-2026-flash-floods-why-nepal-is-so-susceptible-to-natural-disasters/articleshow/133545762.cms",
           "date": "26 Aug 2026",
           "summary": ""
         },
@@ -214,16 +238,94 @@
           "summary": "World champion D Gukesh shared a funny exchange with an online troll who initially told him to retire. After Gukesh jokingly replied, “Sorry I’m retired bro” when asked for a chess match, the user revealed it was a dare from friends. Gukesh posted the exchange…"
         },
         {
+          "title": "Anthropic tells SF staff to WFH over security guard strike threat that union denies",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-tells-employees-at-its-san-francisco-office-to-work-from-home-after-it-received-a-notice-saying-/articleshow/133530821.cms",
+          "date": "26 Aug 2026",
+          "summary": "Anthropic asked employees at its San Francisco offices to work from home on Monday and Tuesday after security contractor Allied Universal warned of a possible strike by its guards. The SEIU, which represents those workers, says it has called no strike authoris…"
+        },
+        {
+          "title": "Raids &amp; kidnapping drills: How Chinese students are prepping for Trump's US",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/raids-kidnapping-drills-how-chinese-students-are-preparing-for-college-in-trumps-usa/articleshow/133400248.cms",
+          "date": "26 Aug 2026",
+          "summary": "Chinese students now receive survival training before attending American universities. This preparation addresses perceived immigration system unpredictability and potential hostility. New immigration rules and heightened scrutiny create significant anxiety fo…"
+        },
+        {
+          "title": "How 23,000 edible dormice became a problem for Britain",
+          "link": "https://timesofindia.indiatimes.com/world/uk/in-1902-edible-dormice-were-released-at-an-english-estate-by-2018-britain-had-an-estimated-23000-and-the-government-now-pays-40-per-hectare-a-year-to-control-damage-to-trees-crops-and-nesting-birds/articleshow/133536553.cms",
+          "date": "26 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "UK couple face demolition order for home built for disabled daughter over planning row",
+          "link": "https://timesofindia.indiatimes.com/world/uk/a-couple-built-a-four-bedroom-home-in-wiltshire-for-their-disabled-daughter-in-2022-now-face-council-demolition-order-after-planning-row-over-basement-and-green-belt-rules/articleshow/133526561.cms",
+          "date": "26 Aug 2026",
+          "summary": "A Wiltshire couple who built a four-bedroom home for their disabled daughter in 2022 now face a council demolition order following a planning dispute. The property, built on Green Belt land, includes a basement and decking that were not part of the approved pl…"
+        },
+        {
+          "title": "‘Shocked’ by hacks, Bill Gates wants to meet China’s Xi Jinping",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/shocked-by-hacking-attacks-bill-gates-wants-to-meet-with-chinese-president-xi-jinping-says-he-might-be-surprised-by-how-forceful-i-am/articleshow/133537512.cms",
+          "date": "26 Aug 2026",
+          "summary": "Bill Gates is set to engage with Chinese President Xi Jinping later this year, discussing the pressing need for international collaboration to manage the risks associated with artificial intelligence. Concerned by recent AI-related security incidents, Gates su…"
+        },
+        {
+          "title": "Detained by ICE, US Green Card holder from Andhra Pradesh gets bail",
+          "link": "https://timesofindia.indiatimes.com/city/vijayawada/detained-by-ice-us-green-card-holder-from-andhra-pradesh-gets-bail-kin-say-indians-being-targeted/articleshow/133544742.cms",
+          "date": "26 Aug 2026",
+          "summary": "Venkata Narasamamba Vasamsetty, an Indian-origin woman and legal permanent resident for almost thirty years, recently received bail from a federal court in Georgia. Her detention by Immigration and Customs Enforcement occurred despite her immigration case bein…"
+        },
+        {
+          "title": "'Putin set to target UK': Britain on alert after Burnham's tech transfer to Ukraine",
+          "link": "https://timesofindia.indiatimes.com/world/uk/putin-set-to-target-uk-britain-on-alert-after-pm-burnhams-ukraine-visit-missile-tech-transfer/articleshow/133537396.cms",
+          "date": "26 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "NY mayor Mamdani makes a stink over RSS event, stirs up row among Indian diaspora",
+          "link": "https://timesofindia.indiatimes.com/world/us/new-york-mayor-mamdani-makes-a-stink-over-rss-event-stirs-up-row-among-indian-diaspora/articleshow/133546398.cms",
+          "date": "26 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "'Someone I watched growing up': Zane Maloney joins Oliver Rowland at Nissan",
+          "link": "https://timesofindia.indiatimes.com/sports/formula-e/someone-i-watched-when-i-was-growing-up-zane-maloney-on-becoming-oliver-rowlands-nissan-teammate/articleshow/133548774.cms",
+          "date": "26 Aug 2026",
+          "summary": "Zane Maloney grew up watching Oliver Rowland win races. Now, the young Barbadian will race alongside the Formula E World Champion as his Nissan teammate. The 22-year-old will join the Japanese team for the 2026/27 Formula E season and sees it as a big step in…"
+        },
+        {
+          "title": "At 6, Novak Djokovic met a coach who changed his life forever at tennis camp",
+          "link": "https://timesofindia.indiatimes.com/sports/international-sports/at-6-novak-djokovic-caught-a-coachs-attention-at-a-tennis-camp-what-happened-next-became-the-turning-point-that-changed-his-life-forever/articleshow/133549055.cms",
+          "date": "26 Aug 2026",
+          "summary": "At a tennis camp, Jelena Genčić identified young Novak Djokovic's remarkable concentration and innate talent. Her insight extended far beyond enhancing his tennis abilities; she offered vital mentorship during his difficult upbringing. Genčić's pivotal role in…"
+        },
+        {
+          "title": "Tiger Woods returns months after DUI as fans react to his changed appearance",
+          "link": "https://timesofindia.indiatimes.com/sports/international-sports/tiger-woods-returns-in-rare-video-months-after-dui-arrest-and-fans-raise-questions-about-his-changed-appearance/articleshow/133546215.cms",
+          "date": "26 Aug 2026",
+          "summary": "Tiger Woods made a rare appearance through a video message for longtime friend Notah Begay III at the Payne Stewart Award ceremony. While Woods focused on Begay’s work and their long friendship, fans quickly noticed his appearance and shared mixed reactions. W…"
+        },
+        {
+          "title": "PM Balen Shah appeals for unity after monster floods batter Nepal; Bihar, UP on high alert",
+          "link": "https://timesofindia.indiatimes.com/world/south-asia/over-100-indians-missing-after-flash-floods-hit-nepal-what-we-know-so-far/articleshow/133536823.cms",
+          "date": "26 Aug 2026",
+          "summary": "A massive flash flood in Nepal's Rasuwa district has caused widespread damage and claimed seventeen lives. Over one hundred Indian nationals are reported missing after the sudden surge in the Bhote Koshi River. Many missing individuals are believed to be pilgr…"
+        },
+        {
+          "title": "Haryanvi singer Ankit Balyan shot dead in UP just 2 hours after he shared video",
+          "link": "https://timesofindia.indiatimes.com/entertainment/punjabi/movies/news/haryanvi-singer-ankit-balyan-shot-dead-in-uttar-pradesh-just-two-hours-after-he-shared-a-video-saying-murder-maar-de-sadak-ke-upar/articleshow/133546188.cms",
+          "date": "26 Aug 2026",
+          "summary": "Tragedy struck as Haryanvi singer and YouTuber Ankit Balyan was shot dead by unidentified gunmen outside a gym in Shamli, Uttar Pradesh, on Wednesday evening. Despite prompt medical attention, he was pronounced dead at the hospital shortly thereafter. Famous f…"
+        },
+        {
+          "title": "'Let sugar become expensive': BJP minister Vijayvargiya's odd take on price spike",
+          "link": "https://timesofindia.indiatimes.com/india/let-sugar-become-expensive-bjp-minister-vijayvargiyas-odd-take-on-price-spike/articleshow/133545428.cms",
+          "date": "26 Aug 2026",
+          "summary": ""
+        },
+        {
           "title": "Gold may hit Rs 15 lakh? Billionaire investor sees 10-fold rise as ‘inevitable’",
           "link": "https://timesofindia.indiatimes.com/business/india-business/gold-may-hit-rs-15-lakh-per-10-grams-billionaire-investor-thomas-kaplan-sees-gold-at-50000-an-ounce-calls-another-tenfold-rise-inevitable/articleshow/133544845.cms",
           "date": "26 Aug 2026",
           "summary": "Gold prices have corrected in the last few months from their historic highs after rising meteorically the whole of 2025. This led many to question whether the bull run in the precious metal is over."
-        },
-        {
-          "title": "Google puts America's parks into virtual hub with over 150 stories and 3D artifacts",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/110-years-after-the-national-park-service-was-created-google-has-put-americas-parks-into-a-new-virtual-hub-with-more-than-150-stories-30-tours-and-3d-artifacts/articleshow/133542582.cms",
-          "date": "26 Aug 2026",
-          "summary": "The US National Park Service, in collaboration with Google Arts &amp; Culture, has unveiled a groundbreaking virtual platform. This innovative initiative showcases America's stunning natural beauty and historical landmarks to a worldwide audience. Users can en…"
         },
         {
           "title": "'Give supporters reasons to stay': Ramiz Raja warns Pakistan",
@@ -238,34 +340,10 @@
           "summary": "A catastrophic flood from Nepal's Bhotekoshi River has led to severe devastation in Rasuwa district, where mud-laden waters have ravaged homes and bridges. With river currents surging unexpectedly, the fate of many remains uncertain, as reports indicate that o…"
         },
         {
-          "title": "Anthropic tells SF staff to WFH over security guard strike threat that union denies",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-tells-employees-at-its-san-francisco-office-to-work-from-home-after-it-received-a-notice-saying-/articleshow/133530821.cms",
-          "date": "26 Aug 2026",
-          "summary": "Anthropic asked employees at its San Francisco offices to work from home on Monday and Tuesday after security contractor Allied Universal warned of a possible strike by its guards. The SEIU, which represents those workers, says it has called no strike authoris…"
-        },
-        {
           "title": "Happy Raksha Bandhan 2026: Wishes, quotes and status to share",
           "link": "https://timesofindia.indiatimes.com/etimes/trending/happy-raksha-bandhan-2026-wishes-messages-quotes-images-facebook-whatsapp-status/articleshow/133543342.cms",
           "date": "26 Aug 2026",
           "summary": "Raksha Bandhan is a heartfelt celebration of the special connection shared between brothers and sisters. This festive occasion allows for meaningful expressions of gratitude and love for siblings. Let's discover a collection of touching messages and quotes tha…"
-        },
-        {
-          "title": "Holly Madison refuses to sell 'haunted' LA home, rents it for $9,500 a month",
-          "link": "https://timesofindia.indiatimes.com/real-estate/holly-madison-bought-a-los-angeles-fairytale-home-for-under-1-5-million-in-2012-she-now-refuses-to-sell-the-allegedly-haunted-house-and-is-renting-it-for-9500-a-month/articleshow/133541627.cms",
-          "date": "26 Aug 2026",
-          "summary": "Holly Madison has listed her historic Tudor-style Los Angeles home for $9,500 a month after deciding not to sell it. She bought the property for just under $1.5 million in 2012 and has described it as a fairytale-like home. The house was also investigated for…"
-        },
-        {
-          "title": "US colleges roll out 3-year bachelor's degrees, could save students $20,000",
-          "link": "https://timesofindia.indiatimes.com/education/news/american-colleges-are-rolling-out-90-credit-three-year-bachelors-degrees-in-nearly-120-programmes-across-26-states-cutting-a-year-off-college-and-potentially-saving-students-up-to-20000/articleshow/133540572.cms",
-          "date": "26 Aug 2026",
-          "summary": "US colleges are increasingly offering three-year bachelor's degree programmes that require 90 credits instead of the traditional 120. The programmes are now available or announced in 26 states, with 119 reduced-credit programmes identified by RAND. Supporters…"
-        },
-        {
-          "title": "In 1984, NASA sent 3,301 bees to space to see how they built honeycomb",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/in-1984-nasa-sent-3301-bees-into-space-to-test-how-they-built-honeycomb-without-gravity-from-hitting-on-walls-to-building-200cm-honeycomb-highlights-of-7-day-mission/articleshow/133537461.cms",
-          "date": "26 Aug 2026",
-          "summary": "In 1984, NASA's Space Shuttle Discovery took thousands of honeybees into space, marking a unique experiment in microgravity. These resilient insects adapted quickly to their extraterrestrial surroundings, building about 200 centimeters of honeycomb in just sev…"
         },
         {
           "title": "Ice-rock avalanche likely triggered Bhotekoshi flood; quake link under probe",
@@ -286,24 +364,6 @@
           "summary": ""
         },
         {
-          "title": "Patrick Mahomes opens up on knee recovery ahead of Chiefs season opener",
-          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/i-want-to-give-everything-to-the-team-patrick-mahomes-opens-up-on-knee-recovery-ahead-of-chiefs-season-opener/articleshow/133535480.cms",
-          "date": "26 Aug 2026",
-          "summary": "Patrick Mahomes, the Kansas City Chiefs’ star player, has weighed in on his injury and how he feeld, just days before the regular season begins."
-        },
-        {
-          "title": "Merab Dvalishvili responds to Makhachev’s 'stay quiet' comment after UFC 330 win",
-          "link": "https://timesofindia.indiatimes.com/sports/mma/news/merab-dvalishvili-breaks-silence-on-islam-makhachevs-stay-quiet-comment-over-russian-flag-celebration-after-ufc-330-welterweight-win/articleshow/133541694.cms",
-          "date": "26 Aug 2026",
-          "summary": "Merab Dvalishvili clarified his reaction to Islam Makhachev's Russian flag display. He respects Makhachev but cited personal history and Georgian political grievances. Dvalishvili emphasized his opposition to Russian government policies, not its people. Makhac…"
-        },
-        {
-          "title": "Max Verstappen’s Max vs 100: Date, venue and how to watch the F1 star’s race",
-          "link": "https://timesofindia.indiatimes.com/sports/international-sports/what-is-f1-star-max-verstappens-max-vs-100-event-about-when-and-where-to-watch-the-unique-racing-event/articleshow/133541992.cms",
-          "date": "26 Aug 2026",
-          "summary": "Max Verstappen faces a unique go-karting challenge at Silverstone on September 16. He will start last in a field of 100 diverse competitors. The event, Max vs 100, will be broadcast live on Disney+ and ESPN. This race marks a return to Verstappen's early racin…"
-        },
-        {
           "title": "Delhi reports 138 fresh H1N1 cases in 24 hours; tally crosses 2,400",
           "link": "https://timesofindia.indiatimes.com/city/delhi/delhi-reports-138-fresh-h1n1-cases-in-24-hours-tally-crosses-2400/articleshow/133543864.cms",
           "date": "26 Aug 2026",
@@ -314,66 +374,6 @@
           "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/india-vs-sri-lanka-a-hold-the-choke-and-then-the-frustrating-close/articleshow/133541511.cms",
           "date": "26 Aug 2026",
           "summary": "India endured a frustrating day in Colombo, allowing Sri Lanka's Pasindu Sooriyabandara and Kamindu Mendis to dictate terms before three late wickets gave the visitors a foothold. With rain cutting the day short, Sonal Dinusha remains the last major hurdle bet…"
-        },
-        {
-          "title": "Beyond fish in Ayodhya row: Why Nishad vote matters in UP 2027 battle",
-          "link": "https://timesofindia.indiatimes.com/india/beyond-ayodhya-and-fish-row-why-nishad-vote-matters-in-up-elections-2027/articleshow/133540486.cms",
-          "date": "26 Aug 2026",
-          "summary": "A fish controversy in Uttar Pradesh has highlighted the Nishad community's political significance. This community's vote has shifted loyalties and remains a key factor for parties. The BJP seeks to retain its OBC coalition while opposition parties try to gain…"
-        },
-        {
-          "title": "Raids &amp; kidnapping drills: How Chinese students are prepping for Trump's US",
-          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/raids-kidnapping-drills-how-chinese-students-are-preparing-for-college-in-trumps-usa/articleshow/133400248.cms",
-          "date": "26 Aug 2026",
-          "summary": "Chinese students now receive survival training before attending American universities. This preparation addresses perceived immigration system unpredictability and potential hostility. New immigration rules and heightened scrutiny create significant anxiety fo…"
-        },
-        {
-          "title": "Sumit’s Comeback: Boxer quits to support family; battles injury to reach Asian Games",
-          "link": "https://timesofindia.indiatimes.com/sports/boxing/his-father-died-young-and-financial-hardship-forced-him-to-quit-boxing-and-work-as-a-school-security-guard-years-later-sumit-kundu-survived-a-career-threatening-injury-and-is-now-going-to-the-asian-games/articleshow/133542658.cms",
-          "date": "26 Aug 2026",
-          "summary": "Haryana boxer Sumit Kundu overcame his father’s death, financial hardship and a career-threatening knee injury to rebuild his career. He quit boxing as a teenager to work as a security guard, but his village helped him return. After winning national and intern…"
-        },
-        {
-          "title": "'Having suicidal thoughts': Kin recall IIT-D student’s disturbing final week",
-          "link": "https://timesofindia.indiatimes.com/city/delhi/big-loser-having-suicidal-thoughts-kin-recall-iit-d-student-rishikesh-kumars-disturbing-final-week/articleshow/133542716.cms",
-          "date": "26 Aug 2026",
-          "summary": "The relatives of Rishikesh Kumar are gravely troubled by his worsening mental health leading up to his tragic death. Reports suggest he felt like a failure and harbored suicidal thoughts. His family believes that administrative interactions caused him signific…"
-        },
-        {
-          "title": "Nepal floods: Over 100 Indians missing; MEA issues helpline numbers",
-          "link": "https://timesofindia.indiatimes.com/world/south-asia/nepal-floods-over-100-indians-missing-mea-issues-helpline-numbers/articleshow/133539159.cms",
-          "date": "26 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "'Stand in solidarity': PM Modi speaks to Nepal's Balen Shah, offers flood aid",
-          "link": "https://timesofindia.indiatimes.com/india/nepal-floods-pm-modi-speaks-to-balen-shah-offers-support/articleshow/133539412.cms",
-          "date": "26 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "'Very rarely do I get chance to play red-ball cricket': Arshdeep",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/very-rarely-do-i-get-the-chance-to-play-red-ball-cricket-arshdeep-singh-after-north-zones-52-run-win-in-duleep-trophy/articleshow/133538983.cms",
-          "date": "26 Aug 2026",
-          "summary": "India pacer Arshdeep Singh used the Duleep Trophy to prove his readiness for Test cricket after a long gap from red-ball cricket. He took four wickets in North Zone’s 52-run win over West Zone and said he had specifically trained with the red ball. Arshdeep al…"
-        },
-        {
-          "title": "Quote of the day by Dolly Parton",
-          "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-dolly-parton-do-not-confuse-dreams-with-wishes-dreams-are-where-you-visualize-yourself-being-successful-wishes-are-hoping-good-things-will-happen-to-you-but-theres-no-fire-in-your-gut-the-9-to-5-singers-lesson-on-taking-action-and-dreaming-about-your-goals/articleshow/133537762.cms",
-          "date": "26 Aug 2026",
-          "summary": "Dolly Parton, in her inspiring commencement address in 2009, delineated the vital distinction between dreams and mere wishes. She emphasized that dreams are driven by focused efforts and a clear vision for the future, unlike wishes, which tend to lack the nece…"
-        },
-        {
-          "title": "Russia planning to use nukes? Why CIA chief made 'emergency' visit to Moscow",
-          "link": "https://timesofindia.indiatimes.com/world/europe/russia-planning-to-use-nukes-why-cia-chief-made-emergency-visit-to-moscow-report/articleshow/133537199.cms",
-          "date": "26 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "2nd Test: Rain delays India’s impending series victory over Sri Lanka",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/2nd-test-rain-delays-indias-impending-series-victory-over-sri-lanka-on-day-4/articleshow/133540885.cms",
-          "date": "26 Aug 2026",
-          "summary": "Sri Lanka ended day four of the second Test at 229 for six after India’s bowlers struck late. Pasindu Sooriyabandara and Kamindu Mendis led the fightback with a 115-run stand, while Sonal Dinusha scored 103 earlier. India’s late wickets put them in control, bu…"
         }
       ]
     },
@@ -572,6 +572,12 @@
       "ok": true,
       "items": [
         {
+          "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+          "link": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+          "date": "26 Aug 2026",
+          "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe."
+        },
+        {
           "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
           "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
           "date": "21 Aug 2026",
@@ -744,12 +750,6 @@
           "link": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
           "date": "17 May 2026",
           "summary": "A collection of science tools and experiments to expand the scale and precision of scientific exploration."
-        },
-        {
-          "title": "Making it easier to understand how content was created and edited",
-          "link": "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/",
-          "date": "17 May 2026",
-          "summary": "We're expanding our tools to help you understand how content was created and edited across the web."
         }
       ]
     },
@@ -759,6 +759,12 @@
       "cat": "AI News",
       "ok": true,
       "items": [
+        {
+          "title": "Sam Altman says OpenAI will have AGI by the end of 2026 if you accept his definition",
+          "link": "https://the-decoder.com/sam-altman-says-openai-will-have-agi-by-the-end-of-2026-if-you-accept-his-definition/",
+          "date": "26 Aug 2026",
+          "summary": "OpenAI's leadership believes AGI is within reach, according to a TIME report. The company's upcoming model Astra already works as an automated research intern, according to chief scientist Jakub Pachocki. Altman expects it to be \"the first model where the mode…"
+        },
         {
           "title": "Alibaba releases Qwen3.8-Flash-Next, targeting \"ultimate cost efficiency\"",
           "link": "https://the-decoder.com/alibaba-releases-qwen3-8-flash-next-targeting-ultimate-cost-efficiency/",
@@ -812,12 +818,6 @@
           "link": "https://the-decoder.com/openais-first-custom-chip-jalapeno-reportedly-beats-nvidias-blackwell-and-rubin-in-inference-benchmarks/",
           "date": "25 Aug 2026",
           "summary": "OpenAI showed off \"Jalapeño,\" its first in-house inference chip, with benchmarks at the Hot Chips conference. According to SemiAnalysis tests, the chip beats Nvidia's Blackwell and even Rubin in throughput and energy efficiency. \"Usually first generation chips…"
-        },
-        {
-          "title": "Google launches Gemini for legal work to automate contracts and research",
-          "link": "https://the-decoder.com/google-launches-gemini-for-legal-work-to-automate-contracts-and-research/",
-          "date": "25 Aug 2026",
-          "summary": "With Gemini Enterprise for Legal, Google launches an AI solution for the legal industry that connects to systems like iManage, DocuSign, and Everlaw through MCP connectors. Partners like Deloitte sell ready-made AI agents for tasks like contract review. Anthro…"
         }
       ]
     },
@@ -895,6 +895,12 @@
       "cat": "Technical · AI",
       "ok": true,
       "items": [
+        {
+          "title": "Experiment with Qwen3.8-Flash-Next 176B Model on NVIDIA GB300 NVL72 for Agentic Coding",
+          "link": "https://developer.nvidia.com/blog/experiment-with-qwen3-8-flash-next-176b-model-on-nvidia-gb300-nvl72-for-agentic-coding/",
+          "date": "26 Aug 2026",
+          "summary": "Alibaba released the model weights for Qwen3.8-Flash-Next as a preview of the upcoming Qwen4 architecture for developers to experiment with and evaluate. It’s..."
+        },
         {
           "title": "Restore LLM Inference Capacity in Seconds with Shadow Engine Recovery in NVIDIA Dynamo",
           "link": "https://developer.nvidia.com/blog/restore-llm-inference-capacity-in-seconds-with-shadow-engine-recovery-in-nvidia-dynamo/",
@@ -1058,22 +1064,16 @@
           "summary": "Autonomous vehicle (AV) development often relies on separate models for trajectory generation, high-level intent prediction, scene understanding, and data..."
         },
         {
-          "title": "NVIDIA Vera Storage Benchmarks: Faster Encryption, Compression, Integrity Checking, and Recovery for AI-Native Storage",
-          "link": "https://developer.nvidia.com/blog/nvidia-vera-storage-benchmarks-faster-encryption-compression-integrity-checking-and-recovery-for-ai-native-storage/",
-          "date": "20 Aug 2026",
-          "summary": "Storage is an active part of every agentic AI workflow. As agents retrieve enterprise knowledge, access persistent memory, reuse key-value (KV) cache data,..."
-        },
-        {
           "title": "How to Run Isolated Tenant Kubernetes Clusters on Shared GPU Infrastructure",
           "link": "https://developer.nvidia.com/blog/how-to-run-isolated-tenant-kubernetes-clusters-on-shared-gpu-infrastructure/",
           "date": "20 Aug 2026",
           "summary": "Running a dedicated Kubernetes cluster per team often results in more isolation than an organization requires. While one cluster can be successfully shared..."
         },
         {
-          "title": "Co-Designing AI Model Attention for Fast, Interactive Long-Context Inference",
-          "link": "https://developer.nvidia.com/blog/co-designing-ai-model-attention-for-fast-interactive-long-context-inference/",
+          "title": "NVIDIA Vera Storage Benchmarks: Faster Encryption, Compression, Integrity Checking, and Recovery for AI-Native Storage",
+          "link": "https://developer.nvidia.com/blog/nvidia-vera-storage-benchmarks-faster-encryption-compression-integrity-checking-and-recovery-for-ai-native-storage/",
           "date": "20 Aug 2026",
-          "summary": "As agentic and long-context workloads become common, the context lengths increase and attention consumes a larger share of inference time (Figure 1). Because..."
+          "summary": "Storage is an active part of every agentic AI workflow. As agents retrieve enterprise knowledge, access persistent memory, reuse key-value (KV) cache data,..."
         }
       ]
     },
@@ -1152,6 +1152,18 @@
       "ok": true,
       "items": [
         {
+          "title": "Amazon to Acquire DuckLabs, Adding the Team Behind DuckDB",
+          "link": "https://developers.slashdot.org/story/26/08/26/1824257/amazon-to-acquire-ducklabs-adding-the-team-behind-duckdb?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "26 Aug 2026",
+          "summary": "Amazon has agreed to acquire DuckLabs, bringing the team behind the popular open-source DuckDB database into AWS. \"The deal fits Amazon's broader push to turn S3, its flagship cloud storage service, into a place where customers analyze data rather than just st…"
+        },
+        {
+          "title": "Meta Reaches $18 Billion of Settlements Over Children's Social Media Addiction",
+          "link": "https://yro.slashdot.org/story/26/08/26/1632251/meta-reaches-18-billion-of-settlements-over-childrens-social-media-addiction?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "26 Aug 2026",
+          "summary": "Meta has agreed to pay up to $18 billion and make major changes to Facebook and Instagram to settle claims from most U.S. states that the platforms were designed to addict children and misled users about their safety. For the next decade, teens will be limited…"
+        },
+        {
           "title": "Firefox 157 Will Include JPEG XL By Default On All Platforms",
           "link": "https://tech.slashdot.org/story/26/08/26/0633229/firefox-157-will-include-jpeg-xl-by-default-on-all-platforms?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "26 Aug 2026",
@@ -1228,18 +1240,6 @@
           "link": "https://hardware.slashdot.org/story/26/08/25/1553245/apple-announces-new-mac-mini-with-m6-and-m5-pro-chips?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "25 Aug 2026",
           "summary": "Apple has unveiled a new Mac mini with either its new M6 chip or the M5 Pro chip released earlier this year. It adds faster CPU, GPU, storage, and AI performance along with Wi-Fi 7, Bluetooth 6, and 2.5Gb Ethernet as standard. There's also a new higher startin…"
-        },
-        {
-          "title": "Motorola's 2027 Flagships Will Officially Support GrapheneOS",
-          "link": "https://news.slashdot.org/story/26/08/25/0617230/motorolas-2027-flagships-will-officially-support-grapheneos?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "25 Aug 2026",
-          "summary": "Motorola is working with GrapheneOS to officially support the privacy-focused Android alternative on its 2027 flagship phones, starting with a non-folding model and later expanding to the next Razr Fold and Razr Ultra. \"These will ship with Motorola's normal A…"
-        },
-        {
-          "title": "Windows Backdoor 'Sleepwalker' Hides in Memory Until Activated by a 'Magic Packet'",
-          "link": "https://it.slashdot.org/story/26/08/25/062246/windows-backdoor-sleepwalker-hides-in-memory-until-activated-by-a-magic-packet?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "25 Aug 2026",
-          "summary": "\"The Register has a story about a Windows backdoor that waits silently in memory for a 'magic packet' before springing into action,\" writes Slashdot reader fred133. \"No outgoing traffic, just waiting...\" From the report: Like a sleeper cell awaiting activation…"
         }
       ]
     },
@@ -1569,184 +1569,184 @@
       "ok": true,
       "items": [
         {
-          "title": "paradise-prognosis added to PyPI",
-          "link": "https://pypi.org/project/paradise-prognosis/",
+          "title": "niftools added to PyPI",
+          "link": "https://pypi.org/project/niftools/",
           "date": "26 Aug 2026",
-          "summary": "Adaptive multimodal fusion with missing-modality robustness for breast cancer prognosis"
+          "summary": "Validador mínimo y sin dependencias de DNI, NIE y NIF de entidades"
         },
         {
-          "title": "bluecatgh added to PyPI",
-          "link": "https://pypi.org/project/bluecatgh/",
+          "title": "fucrimodo added to PyPI",
+          "link": "https://pypi.org/project/fucrimodo/",
           "date": "26 Aug 2026",
-          "summary": "CPE 586 Homework 0 Python package"
+          "summary": "Find Unknown Crystals by Inversion of ML Optimized Descriptors"
         },
         {
-          "title": "tcri added to PyPI",
-          "link": "https://pypi.org/project/tcri/",
+          "title": "zanii-id added to PyPI",
+          "link": "https://pypi.org/project/zanii-id/",
           "date": "26 Aug 2026",
-          "summary": "Information theoretic metrics for single cell RNA and TCR sequencing."
+          "summary": "Zanii ID SDK for Python — OIDC authentication for products in the Zanii ecosystem"
         },
         {
-          "title": "aicontentdrop added to PyPI",
-          "link": "https://pypi.org/project/aicontentdrop/",
+          "title": "incy-link-encoder added to PyPI",
+          "link": "https://pypi.org/project/incy-link-encoder/",
           "date": "26 Aug 2026",
-          "summary": "Official Python SDK for AI Content Drop — generate AI video and images across 35+ models from one credit balance."
+          "summary": "Encode subscription URLs into incy://crypt1/ deep links (Python port of @incy/link-encoder). AES-256-GCM with a key shared with the INCY iOS/Android/Desktop clients."
         },
         {
-          "title": "mcp-unifi added to PyPI",
-          "link": "https://pypi.org/project/mcp-unifi/",
+          "title": "whipair added to PyPI",
+          "link": "https://pypi.org/project/whipair/",
           "date": "26 Aug 2026",
-          "summary": "MCP server for UniFi Network and Protect API integration"
+          "summary": "Direct, QR-based SSH public-key enrollment prototype for Whip"
         },
         {
-          "title": "fazt added to PyPI",
-          "link": "https://pypi.org/project/fazt/",
+          "title": "aiofortiosapi added to PyPI",
+          "link": "https://pypi.org/project/aiofortiosapi/",
           "date": "26 Aug 2026",
-          "summary": "Add your description here"
+          "summary": "Async FortiOS REST API client for Home Assistant"
         },
         {
-          "title": "arcstat added to PyPI",
-          "link": "https://pypi.org/project/arcstat/",
+          "title": "dagnese-fno added to PyPI",
+          "link": "https://pypi.org/project/dagnese-fno/",
           "date": "26 Aug 2026",
-          "summary": "Arc-length statistics: goodness of fit, distributions and a Bayesian test (shared C back-end, also bound from R)"
+          "summary": "Diffeomorphic Implicit Fourier Neural Operators with D'Agnese Topological Barrier Loss"
         },
         {
-          "title": "micropython-scheduler added to PyPI",
-          "link": "https://pypi.org/project/micropython-scheduler/",
+          "title": "libembedding-ng added to PyPI",
+          "link": "https://pypi.org/project/libembedding-ng/",
           "date": "26 Aug 2026",
-          "summary": "Cooperative scheduler module for MicroPython."
+          "summary": "Fast ONNX-based text, image, and sparse embeddings for Python. 5-8x faster than fastembed."
         },
         {
-          "title": "rulereach-delegate added to PyPI",
-          "link": "https://pypi.org/project/rulereach-delegate/",
+          "title": "yuchatlib added to PyPI",
+          "link": "https://pypi.org/project/yuchatlib/",
           "date": "26 Aug 2026",
-          "summary": "Audit what reaches a Claude Code subagent: instructions, skills and tools that delegation drops without an error."
+          "summary": "Библиотека для Public API YuChat"
         },
         {
-          "title": "enzymehunter added to PyPI",
-          "link": "https://pypi.org/project/enzymehunter/",
+          "title": "node-to-json added to PyPI",
+          "link": "https://pypi.org/project/node-to-json/",
           "date": "26 Aug 2026",
-          "summary": "Fine-grained enzyme function prediction with EnzymeHunter"
+          "summary": "Library to serialize Blender 5.2 nodes to json files, and from json files to Blender nodes."
         },
         {
-          "title": "tomviz-pipeline added to PyPI",
-          "link": "https://pypi.org/project/tomviz-pipeline/",
+          "title": "spineforge added to PyPI",
+          "link": "https://pypi.org/project/spineforge/",
           "date": "26 Aug 2026",
-          "summary": "Node-graph pipeline engine for tomographic data processing, usable standalone or embedded in applications such as tomviz."
+          "summary": "AI agent identity and observability SDK — Okta + Datadog for the AI agent era"
         },
         {
-          "title": "errd added to PyPI",
-          "link": "https://pypi.org/project/errd/",
+          "title": "slabkit added to PyPI",
+          "link": "https://pypi.org/project/slabkit/",
           "date": "26 Aug 2026",
-          "summary": "Debug with less context. Analyze Python tracebacks and generate minimal AI-ready debugging packages."
+          "summary": "SVG panel system for GitHub profile READMEs — OKLCH palettes with asserted contrast, superellipse corners, one motion idea per panel."
         },
         {
-          "title": "dataoad added to PyPI",
-          "link": "https://pypi.org/project/dataoad/",
+          "title": "euromod-linking added to PyPI",
+          "link": "https://pypi.org/project/euromod-linking/",
           "date": "26 Aug 2026",
-          "summary": "Safe execution primitives for side-effecting agent actions"
+          "summary": "Link external economic models to EUROMOD by transforming input microdata and run parameters"
         },
         {
-          "title": "actually-all-of-pypi added to PyPI",
-          "link": "https://pypi.org/project/actually-all-of-pypi/",
+          "title": "payhero added to PyPI",
+          "link": "https://pypi.org/project/payhero/",
           "date": "26 Aug 2026",
-          "summary": "Functions and commands to install and import every package from PyPI."
+          "summary": "Official Python SDK for the PayHero Africa API — collect and disburse money across Africa."
         },
         {
-          "title": "keenv added to PyPI",
-          "link": "https://pypi.org/project/keenv/",
+          "title": "cpex-ica-metering-exporter added to PyPI",
+          "link": "https://pypi.org/project/cpex-ica-metering-exporter/",
           "date": "26 Aug 2026",
-          "summary": "Run a command with secrets pulled from a KeePass database into its environment"
+          "summary": "Export MCP tool invocation metrics to ICA core-services metering endpoint"
         },
         {
-          "title": "pg-forecast added to PyPI",
-          "link": "https://pypi.org/project/pg-forecast/",
+          "title": "annofmt added to PyPI",
+          "link": "https://pypi.org/project/annofmt/",
           "date": "26 Aug 2026",
-          "summary": "Defensive name registration: this project lives at forecast-store on PyPI."
+          "summary": "Immutable geometry types (BBox, RBBox, Segm) and utilities for computer-vision annotations."
         },
         {
-          "title": "forecast-store added to PyPI",
-          "link": "https://pypi.org/project/forecast-store/",
+          "title": "instrproof added to PyPI",
+          "link": "https://pypi.org/project/instrproof/",
           "date": "26 Aug 2026",
-          "summary": "The forecast store: a bi-temporal schema convention and SDK for storing, evaluating, and monitoring forecasts on Postgres/TimescaleDB. Name claim for the upcoming v0 release."
+          "summary": "Detect stale repository references in AI coding instructions"
         },
         {
-          "title": "ada-diamonds added to PyPI",
-          "link": "https://pypi.org/project/ada-diamonds/",
+          "title": "soarca-fin added to PyPI",
+          "link": "https://pypi.org/project/soarca-fin/",
           "date": "26 Aug 2026",
-          "summary": "Official Python client for the Ada Diamonds API: live lab grown diamond inventory, engagement ring settings, fine jewelry, and buying guides. No account required to read the catalog."
+          "summary": "Flask-like framework for building SOARCA Fins (external playbook step executors) in Python"
         },
         {
-          "title": "kubelings added to PyPI",
-          "link": "https://pypi.org/project/kubelings/",
+          "title": "toolseal added to PyPI",
+          "link": "https://pypi.org/project/toolseal/",
           "date": "26 Aug 2026",
-          "summary": "An interactive, hands-on CLI learning environment for Kubernetes"
+          "summary": "Secure-by-default scaffolding and cross-framework tool registry for agentic systems"
         },
         {
-          "title": "importpython-markdown added to PyPI",
-          "link": "https://pypi.org/project/importpython-markdown/",
+          "title": "breezed added to PyPI",
+          "link": "https://pypi.org/project/breezed/",
           "date": "26 Aug 2026",
-          "summary": "A markdown plugin to use importpython in docs."
+          "summary": "Curve-based fan controller for Dell PowerEdge servers via iDRAC/IPMI"
         },
         {
-          "title": "zerocheck added to PyPI",
-          "link": "https://pypi.org/project/zerocheck/",
+          "title": "thunder-sandbox added to PyPI",
+          "link": "https://pypi.org/project/thunder-sandbox/",
           "date": "26 Aug 2026",
-          "summary": "Blazing fast Spotify Cookie Checker with hardware-locked licensing"
+          "summary": "Create and control Thunder GPU sandboxes from Python"
         },
         {
-          "title": "hammer-framework added to PyPI",
-          "link": "https://pypi.org/project/hammer-framework/",
+          "title": "quesen-autogen added to PyPI",
+          "link": "https://pypi.org/project/quesen-autogen/",
           "date": "26 Aug 2026",
-          "summary": "Hammer — a Laravel-style web framework built on FastAPI and SQLAlchemy."
+          "summary": "Official AutoGen (v0.4+) tool wrapper for Quesen — deterministic A2A risk validation for AutoGen agents."
         },
         {
-          "title": "importpython added to PyPI",
-          "link": "https://pypi.org/project/importpython/",
+          "title": "quesen-crewai added to PyPI",
+          "link": "https://pypi.org/project/quesen-crewai/",
           "date": "26 Aug 2026",
-          "summary": "Does what it says on the tin."
+          "summary": "Official CrewAI tool wrapper for Quesen — deterministic A2A risk validation for CrewAI agents and crews."
         },
         {
-          "title": "tbma added to PyPI",
-          "link": "https://pypi.org/project/tbma/",
+          "title": "quesen-langchain added to PyPI",
+          "link": "https://pypi.org/project/quesen-langchain/",
           "date": "26 Aug 2026",
-          "summary": "Tree-Based Moving Average temporal feature learning and forecasting"
+          "summary": "Official LangChain / LangGraph tool wrapper for Quesen — deterministic A2A risk validation."
         },
         {
-          "title": "eluvia-base added to PyPI",
-          "link": "https://pypi.org/project/eluvia-base/",
+          "title": "financegpt added to PyPI",
+          "link": "https://pypi.org/project/financegpt/",
           "date": "26 Aug 2026",
-          "summary": "Eluvia Base library"
+          "summary": "FinanceGPT Intelligence Cloud API and MCP client"
         },
         {
-          "title": "farcache added to PyPI",
-          "link": "https://pypi.org/project/farcache/",
+          "title": "deluluscan added to PyPI",
+          "link": "https://pypi.org/project/deluluscan/",
           "date": "26 Aug 2026",
-          "summary": "Lightweight function caching decorators for memory and disk"
+          "summary": "AI-augmented, evidence-first security auditor for authorized testing of web, API, application, container, cloud and LLM/AI-system targets."
         },
         {
-          "title": "anypick added to PyPI",
-          "link": "https://pypi.org/project/anypick/",
+          "title": "calc-rs-lang added to PyPI",
+          "link": "https://pypi.org/project/calc-rs-lang/",
           "date": "26 Aug 2026",
-          "summary": "Select LLMs using filters across capabilities, prices and benchmarks"
+          "summary": "A strongly typed, spreadsheet-style expression engine"
         },
         {
-          "title": "saad-s added to PyPI",
-          "link": "https://pypi.org/project/saad-s/",
+          "title": "honeypot-auditor added to PyPI",
+          "link": "https://pypi.org/project/honeypot-auditor/",
           "date": "26 Aug 2026",
-          "summary": "A SAAD-branded facade for Python's standard os module"
+          "summary": "Multi-protocol CLI that fingerprints whether an authorized target behaves like a low-interaction honeypot."
         },
         {
-          "title": "witdem-analytics added to PyPI",
-          "link": "https://pypi.org/project/witdem-analytics/",
+          "title": "gitoxide-py added to PyPI",
+          "link": "https://pypi.org/project/gitoxide-py/",
           "date": "26 Aug 2026",
-          "summary": "Runtime analytics for agent applications using OpenTelemetry, with optional business semantics through the Witdem SDK."
+          "summary": "Typed Python bindings to the gix (gitoxide) engine that release the GIL for every call"
         },
         {
-          "title": "py-generic-config added to PyPI",
-          "link": "https://pypi.org/project/py-generic-config/",
+          "title": "dropboxpath added to PyPI",
+          "link": "https://pypi.org/project/dropboxpath/",
           "date": "26 Aug 2026",
-          "summary": "解耦、通用的Python配置中心加载器与类型安全注解"
+          "summary": "Resolve a path inside your local Dropbox folder, cross-platform"
         }
       ]
     }
