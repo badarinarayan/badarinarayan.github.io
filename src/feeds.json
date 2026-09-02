@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-02T18:15:49Z",
+  "generated": "2026-09-02T21:27:16Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,12 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "Berkshire Hathaway CEO Greg Abel sees AI, power demand as new engines of growth",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/berkshire-hathaway-ceo-greg-abel-sees-ai-power-demand-as-new-engines-of-growth/articleshow/133717165.cms",
+          "date": "2 Sep 2026",
+          "summary": "Berkshire Hathaway sees AI opportunities beyond technology stocks. The company is investing in Alphabet, a significant player in artificial intelligence. Berkshire Hathaway Energy could benefit from data center power demands. Consumers still face economic pres…"
+        },
         {
           "title": "Global Market: Data centre boom fuels demand for power, cooling equipment suppliers",
           "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-data-centre-boom-fuels-demand-for-power-cooling-equipment-suppliers/articleshow/133703778.cms",
@@ -36,12 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/tbz-shares-rally-16-extending-gains-for-a-second-session-whats-triggering-the-surge/articleshow/133700844.cms",
           "date": "2 Sep 2026",
           "summary": "Tribhovandas Bhimji Zaveri (TBZ) shares surged 38.9% in two sessions as investors reacted to GRT Jewellers’ proposed acquisition of the jewellery retailer. GRT plans to acquire 74.12% promoter stake at up to Rs 209 per share and launch an open offer for the re…"
-        },
-        {
-          "title": "BEML shares rise 2% after securing Rs 180 crore Vande Bharat sleeper order",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/beml-shares-rise-2-after-securing-rs-180-crore-vande-bharat-sleeper-order/articleshow/133700760.cms",
-          "date": "2 Sep 2026",
-          "summary": "BEML shares gained nearly 2% after the company secured a Rs 180.60 crore order from Integral Coach Factory for manufacturing and supplying Vande Bharat sleeper trainsets. The order adds to BEML’s recent order wins, including contracts from Mauritius and Hindus…"
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -196,21 +196,21 @@
       "ok": true,
       "items": [
         {
-          "title": "Dire straits: Brand on the run as Trump suggests Hormuz can be renamed in his honor",
-          "link": "https://timesofindia.indiatimes.com/business/international-business/dire-straits-brand-on-the-run-as-trump-suggests-hormuz-can-be-renamed-in-his-honor/articleshow/133716555.cms",
+          "title": "US changes Green Card sponsor rules overnight, new form has 'privacy release' clause",
+          "link": "https://timesofindia.indiatimes.com/world/us/uscis-can-now-seek-credit-information-of-a-green-card-sponsor-from-agencies/articleshow/133706991.cms",
           "date": "2 Sep 2026",
           "summary": ""
         },
         {
-          "title": "'Reprehensible act of vandalism': India flays Pak over demolition of old Hindu temple",
-          "link": "https://timesofindia.indiatimes.com/india/reprehensible-act-of-vandalism-india-condemns-demolition-of-century-old-hindu-temple-in-pakistan-seeks-probe/articleshow/133714540.cms",
-          "date": "2 Sep 2026",
-          "summary": "India voiced deep concern over the reported destruction of a historic Hindu temple. The Ministry of External Affairs condemned the vandalism against the century-old place of worship. India noted the apparent apathy of authorities and failure to protect the tem…"
+          "title": "2 Kuki-Zo MLAs set foot in Imphal for 1st time in 3 years",
+          "link": "https://timesofindia.indiatimes.com/india/2-kuki-zo-mlas-set-foot-in-imphal-for-1st-time-in-3-years/articleshow/133719773.cms",
+          "date": "3 Sep 2026",
+          "summary": ""
         },
         {
-          "title": "'Jobless people on TV': Goyal attacks oppn, ex-finance secy for doubting GDP growth",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/ministers-dont-manufacture-data-goyal-hits-out-at-critics-for-questioning-gdp-figures/articleshow/133714520.cms",
-          "date": "2 Sep 2026",
+          "title": "In times of reels, Centre plans 'social media code' for officers",
+          "link": "https://timesofindia.indiatimes.com/india/in-times-of-reels-centre-plans-social-media-code-for-officers/articleshow/133719692.cms",
+          "date": "3 Sep 2026",
           "summary": ""
         },
         {
@@ -220,10 +220,10 @@
           "summary": "Stalwart’s career, ODI team and the team’s poor performances in Ireland and England to be discussed as Indian cricket’s top brass meets on September 3 in Mumbai."
         },
         {
-          "title": "Mecca Pact and Bangladesh: Why Dhaka is keeping the door open to 'Islamic Nato'",
-          "link": "https://timesofindia.indiatimes.com/world/south-asia/mecca-pact-and-bangladesh-why-dhaka-is-keeping-the-door-open-to-islamic-nato/articleshow/133706663.cms",
-          "date": "2 Sep 2026",
-          "summary": ""
+          "title": "SC: BCI chair's tenure is for 2 years, can't be made 5 years by own resolution",
+          "link": "https://timesofindia.indiatimes.com/india/sc-bci-chairs-tenure-is-for-2-years-cant-be-made-5-years-by-own-resolution/articleshow/133719858.cms",
+          "date": "3 Sep 2026",
+          "summary": "'Lavish spending', P 10"
         },
         {
           "title": "Months after Dell's $6.25B pledge, Trump Accounts get new rules",
@@ -232,10 +232,94 @@
           "summary": "The new guidance from the US Treasury simplifies payroll contributions for child savings accounts, allowing employers to contribute up to $2,500 annually for employee dependents, free from taxes. Employees can also make pre-tax contributions directly. This ini…"
         },
         {
+          "title": "No role in Sarla Bhat killing, but give me death sentence: Yasin Malik",
+          "link": "https://timesofindia.indiatimes.com/india/yasin-malik-decides-to-divorce-pakistani-wife-mushaal-denies-any-role-in-sarla-bhat-killing-seeks-capital-punishment-for-self/articleshow/133718802.cms",
+          "date": "3 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "'23 Silkyara 'rat miners' offer to join Nepal tunnel rescue",
+          "link": "https://timesofindia.indiatimes.com/india/23-silkyara-rat-miners-offer-to-join-nepal-tunnel-rescue/articleshow/133719723.cms",
+          "date": "3 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "Mecca Pact and Bangladesh: Why Dhaka is keeping the door open to 'Islamic Nato'",
+          "link": "https://timesofindia.indiatimes.com/world/south-asia/mecca-pact-and-bangladesh-why-dhaka-is-keeping-the-door-open-to-islamic-nato/articleshow/133706663.cms",
+          "date": "2 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "Mark Zuckerberg buys 440-acre castle estate in Ireland; spokesperson says: Mark and his family are excited to continue caring for ...",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-buys-440-acre-castle-estate-in-ireland-spokesperson-says-mark-and-his-family-are-excited-to-continue-caring-for-/articleshow/133665937.cms",
+          "date": "1 Sep 2026",
+          "summary": "In a remarkable real estate move, Meta's Mark Zuckerberg and his wife Priscilla Chan have purchased the enchanting Strancally Castle in County Waterford, encompassing 440 acres. This magnificent estate will serve as their residence during visits to Ireland, wh…"
+        },
+        {
+          "title": "Govt bodies differ, Centre to test green crackers afresh",
+          "link": "https://timesofindia.indiatimes.com/india/govt-bodies-differ-centre-to-test-green-crackers-afresh/articleshow/133719903.cms",
+          "date": "3 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "Wisconsin farm family fought tax change; 2,000 floodplain acres now protected",
+          "link": "https://timesofindia.indiatimes.com/world/us/a-wisconsin-farming-family-fought-a-2016-tax-change-as-nearly-2000-floodplain-acres-became-harder-to-farm-10-years-later-the-land-is-being-permanently-protected/articleshow/133707338.cms",
+          "date": "3 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "Clint Eastwood's ranch donation now forms 128-acre California restoration site",
+          "link": "https://timesofindia.indiatimes.com/world/us/clint-eastwood-bought-a-134-acre-california-artichoke-ranch-in-1995-he-and-margaret-eastwood-later-donated-land-that-now-forms-a-128-acre-floodplain-restoration-site/articleshow/133702501.cms",
+          "date": "2 Sep 2026",
+          "summary": "Clint Eastwood's previous artichoke farm is now being transformed into a significant wetland restoration initiative. This remarkable project aims to bolster flood protection for the surrounding communities. With the Eastwoods' generous donation, the area will…"
+        },
+        {
+          "title": "SpaceX sends $4.3bn Roman Space Telescope to look for 'weird, rare’ stars, planets",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/spacex-sends-4-3-billion-roman-space-telescope-to-look-for-weird-rare-unusual-stars-and-planets-leaves-nasas-director-nicky-fox-in-tears/articleshow/133719195.cms",
+          "date": "3 Sep 2026",
+          "summary": "SpaceX has achieved another milestone by successfully launching NASA's Roman Space Telescope into orbit. This groundbreaking observatory is designed to delve into the mysteries of distant planets and the enigmatic forces of dark energy. Its expansive field of…"
+        },
+        {
+          "title": "Subhash Chandra questions validity of 'faulty &amp; wrong' NCLT order",
+          "link": "https://timesofindia.indiatimes.com/india/subhash-chandra-questions-validity-of-faulty-wrong-nclt-order/articleshow/133719923.cms",
+          "date": "3 Sep 2026",
+          "summary": ""
+        },
+        {
           "title": "Yolo meets SIP: How Gen Z is rewriting money rules &amp; mistakes they should avoid",
           "link": "https://timesofindia.indiatimes.com/business/india-business/yolo-meets-sip-how-gen-z-is-rewriting-money-rules-mistakes-they-should-avoid/articleshow/133706687.cms",
           "date": "2 Sep 2026",
           "summary": "Gen Z is one of the more financially aware generations, focusing on financial independence and investing rather than just saving. YOLO? Sure. But Gen Z is also thinking, “How do I make my money work for me?”"
+        },
+        {
+          "title": "BJP, NC march against each other in Srinagar; CM alleges police bias",
+          "link": "https://timesofindia.indiatimes.com/india/bjp-nc-march-against-each-other-in-srinagar-cm-alleges-police-bias/articleshow/133718625.cms",
+          "date": "3 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "LeBron James’ $25.5m foundation faced criticism: Why did Akron’s school spark questions?",
+          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/im-just-trying-to-understand-why-lebron-james-25-5m-foundation-faced-academic-criticism-while-creating-new-opportunities-for-akrons-youth/articleshow/133700843.cms",
+          "date": "2 Sep 2026",
+          "summary": "LeBron James' foundation is dedicated to empowering youth in Akron by providing crucial education and life skills programs. Recently, the I PROMISE School faced challenges due to unsatisfactory state test outcomes. Yet, amidst the critique, the foundation rema…"
+        },
+        {
+          "title": "Travis Kelce’s $1.5m charity under scrutiny: Why did less go to charity?",
+          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/travis-kelces-1-5-million-nonprofit-faces-scrutiny-after-records-show-469000-spent-on-management-and-446000-on-charity/articleshow/133679187.cms",
+          "date": "2 Sep 2026",
+          "summary": "Travis Kelce’s Eighty-Seven and Running Foundation is facing scrutiny over its reported spending between 2021 and 2024. The nonprofit raised $1.5 million and spent about $1.1 million, with $469,000 listed for management and $446,000 for charity. Kelce’s busine…"
+        },
+        {
+          "title": "Patrick Mahomes’ $2.75M community impact: How is he giving back to Kansas City?",
+          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/the-community-has-given-back-so-much-to-me-how-patrick-mahomes-is-repaying-kansas-city-one-scholarship-playground-and-grant-at-a-time/articleshow/133697467.cms",
+          "date": "2 Sep 2026",
+          "summary": "The Patrick Mahomes Foundation has made a significant impact in Kansas City by distributing nearly $2.75 million in grants. A notable achievement includes a $1 million investment in the Martin Luther King Jr. Park. Additionally, the foundation has provided cou…"
+        },
+        {
+          "title": "India pledges help to rebuild school in flood-ravaged Nepal",
+          "link": "https://timesofindia.indiatimes.com/india/india-pledges-help-to-rebuild-school-in-flood-ravaged-nepal/articleshow/133719620.cms",
+          "date": "3 Sep 2026",
+          "summary": ""
         },
         {
           "title": "Nitin Gadkari urges all state governments to allow bike taxis",
@@ -250,34 +334,10 @@
           "summary": "Top Trump aides push to prevent Iran war escalation before November elections. The administration is focusing on economic pressure to secure concessions from Iran. Recent exchanges of strikes have increased tensions between the US and Iran. Military readiness…"
         },
         {
-          "title": "Uber layoffs: 3,300 jobs cut, CEO Dara Khosrowshahi says 'this is a lot of change'",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/uber-layoffs-company-cuts-3300-jobs-ceo-dara-khosrowshahi-says-i-realize-this-is-a-lot-of-change-but-it-was-better-to/articleshow/133710869.cms",
-          "date": "2 Sep 2026",
-          "summary": "Uber is cutting about 3,300 jobs, roughly 10 percent of its global workforce, in its biggest restructuring since 2020. CEO Dara Khosrowshahi said the layoffs remove management layers, merge delivery and engineering teams, and free up capital for Uber's robotax…"
-        },
-        {
           "title": "'New peaks of lethality': IAF tests Khagantak-243; all about long range glide bomb",
           "link": "https://timesofindia.indiatimes.com/defence/news/new-peaks-of-lethality-iaf-tests-khagantak-243-all-about-long-range-glide-bomb/articleshow/133715634.cms",
           "date": "2 Sep 2026",
           "summary": "The Indian Air Force has achieved a major milestone by successfully testing the Khagantak-243 glide bomb. This homegrown weapon enhances India's stand-off precision strike capability, covering distances of over 140 km once released from an aircraft. Developed…"
-        },
-        {
-          "title": "Princess Diana's godson Prince Philippos and Princess Nina welcome first child",
-          "link": "https://timesofindia.indiatimes.com/world/uk/princess-dianas-godson-prince-philippos-and-princess-nina-welcome-first-child-son-kimon-thomas-konstantinos-via-surrogate-in-the-us-nearly-six-years-after-their-wedding/articleshow/133716195.cms",
-          "date": "2 Sep 2026",
-          "summary": "Princess Diana’s godson, Prince Philippos of Greece, and Princess Nina have welcomed their first child, a son named Kimon Thomas Konstantinos. Born via surrogate in the United States on July 27, the baby’s arrival was announced weeks later. His middle names ho…"
-        },
-        {
-          "title": "California condo owners were suddenly handed a $26,000 HOA bill each",
-          "link": "https://timesofindia.indiatimes.com/world/us/california-condo-owners-were-suddenly-handed-a-26000-hoa-bill-each-an-81-year-old-resident-says-she-may-have-to-leave-the-home-she-worked-hard-to-keep/articleshow/133691190.cms",
-          "date": "2 Sep 2026",
-          "summary": "Residents of Vilamoura are grappling with an unanticipated $26,000 emergency roof assessment mandated by their HOA, causing considerable distress, especially among the retirees living on fixed incomes. Many homeowners argue that the board has neglected crucial…"
-        },
-        {
-          "title": "Mark Zuckerberg buys 440-acre castle estate in Ireland; spokesperson says: Mark and his family are excited to continue caring for ...",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-buys-440-acre-castle-estate-in-ireland-spokesperson-says-mark-and-his-family-are-excited-to-continue-caring-for-/articleshow/133665937.cms",
-          "date": "1 Sep 2026",
-          "summary": "In a remarkable real estate move, Meta's Mark Zuckerberg and his wife Priscilla Chan have purchased the enchanting Strancally Castle in County Waterford, encompassing 440 acres. This magnificent estate will serve as their residence during visits to Ireland, wh…"
         },
         {
           "title": "China's Xi tells Middle East to be ‘masters of their own destiny’ amid Iran war",
@@ -298,24 +358,6 @@
           "summary": "What appeared to be a filing lapse eventually turned into a tax penalty of Rs 3.74 lakh. The Income Tax Department took a strict view of the matter, maintaining that had the non-filing not been detected, Aggarwal might not have filed his ITR at all. This, in t…"
         },
         {
-          "title": "Brittany Mahomes on motherhood: How is she building a legacy for her children?",
-          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/inspiring-story-on-leadership-i-want-them-to-see-women-in-positions-of-power-and-leadership-as-the-norm-how-brittany-mahomes-is-building-a-legacy-her-children-can-look-up-to/articleshow/133679689.cms",
-          "date": "2 Sep 2026",
-          "summary": "Brittany Mahomes delivered a powerful message about women’s leadership while accepting United WE’s inaugural Champion for Change Award at CPKC Stadium in Kansas City on May 6, 2026. Speaking as a mother, entrepreneur, investor and sports owner, she said she wa…"
-        },
-        {
-          "title": "The Rock vs Brock Lesnar net worth: Who is richer in 2026?",
-          "link": "https://timesofindia.indiatimes.com/sports/wwe/top-stories/the-rock-vs-brock-lesnar-net-worth-comparison-in-2026-career-earnings-wwe-salaries-endorsements-investments-business-ventures-assets-lifestyle-and-more/articleshow/133711191.cms",
-          "date": "2 Sep 2026",
-          "summary": "Two of pro wrestling’s biggest moneymakers, Dwayne Johnson and Brock Lesnar, have wildly different financial journeys. Johnson expanded into Hollywood, production, consumer brands and TKO equity. Lesnar earned from WWE, UFC and occasional high-value appearance…"
-        },
-        {
-          "title": "Montez Ford vs Bianca Belair net worth: Who is richer in 2026?",
-          "link": "https://timesofindia.indiatimes.com/sports/wwe/top-stories/montez-ford-vs-bianca-belair-net-worth-comparison-2026-which-wwe-superstar-is-richer-among-the-couple/articleshow/133707866.cms",
-          "date": "2 Sep 2026",
-          "summary": "Bianca Belair holds a higher net worth than her husband Montez Ford in 2026. Belair's estimated fortune reaches four million dollars, while Ford's is two million. Their combined wealth stands at approximately six million dollars, reflecting their successful ca…"
-        },
-        {
           "title": "'It's God's order': Ram Temple CEO &amp; war hero welcomes chance to serve nation again",
           "link": "https://timesofindia.indiatimes.com/city/lucknow/its-gods-order-air-marshal-jeetendra-mishra-says-ram-temple-ceo-role-another-chance-to-serve-nation/articleshow/133714067.cms",
           "date": "2 Sep 2026",
@@ -332,48 +374,6 @@
           "link": "https://timesofindia.indiatimes.com/sports/cricket/news/8-wickets-in-4-innings-yet-former-india-wk-batter-urges-team-to-look-beyond-ravindra-jadeja/articleshow/133712617.cms",
           "date": "2 Sep 2026",
           "summary": "Former wicketkeeper Deep Dasgupta advocates for India's cricket team to explore options beyond veteran all-rounder Ravindra Jadeja. He reflected on Jadeja's recent performance in Sri Lanka and found it lacking efficiency. Dasgupta also highlighted the notewort…"
-        },
-        {
-          "title": "'To bring more clarity': Centre issues FAQs after oppn red flags GDP figures",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/centre-issues-faqs-amid-oppositions-questions-over-7-8-gdp-growth/articleshow/133708243.cms",
-          "date": "2 Sep 2026",
-          "summary": "The government released FAQs to explain its GDP estimation methods. This clarification addresses opposition concerns regarding recent growth figures. The government said the updated annual and quarterly GDP estimates, based on the 2022-23 base year, were relea…"
-        },
-        {
-          "title": "How Indians are unlocking value of idle gold sitting in their lockers",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/a-couple-sold-gold-for-rs-20-lakh-to-buy-a-home-another-family-got-rs-80-lakh-for-a-us-degree-and-business-how-indians-are-unlocking-value-of-idle-gold-sitting-in-their-lockers/articleshow/133714204.cms",
-          "date": "2 Sep 2026",
-          "summary": "What is changing is what a younger generation wants it to do with idle gold. For some, the jewellery in the locker is no longer something to preserve indefinitely. It can become a house, an education, a business or an investment."
-        },
-        {
-          "title": "India draws record $127 billion through forex deposits: RBI",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/india-draws-record-127-billion-through-forex-deposits-rbi/articleshow/133714586.cms",
-          "date": "2 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "Punjab polls: BJP rules out SAD tie-up, to fight solo in all 117 seats",
-          "link": "https://timesofindia.indiatimes.com/city/amritsar/punjab-polls-bjp-rules-out-alliance-with-sad-says-it-will-contest-all-117-seats/articleshow/133713651.cms",
-          "date": "2 Sep 2026",
-          "summary": "The Bharatiya Janata Party will contest all 117 Punjab Assembly seats independently. Dr. Satish Poonia confirmed the party's decision, dismissing alliance rumors with the Shiromani Akali Dal. He expressed concern over Punjab's drug menace and corruption issues…"
-        },
-        {
-          "title": "Pak pleads for dialogue after India stands firm on suspending Indus Water Treaty",
-          "link": "https://timesofindia.indiatimes.com/world/pakistan/pak-pleads-for-dialogue-after-india-stands-firm-on-suspending-indus-water-treaty/articleshow/133711778.cms",
-          "date": "2 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "'Stay away from Iran': US warning to 'bad actors' maintaining ties with Tehran",
-          "link": "https://timesofindia.indiatimes.com/business/international-business/stay-away-from-iran-us-warns-countries-companies-as-war-escalates/articleshow/133711549.cms",
-          "date": "2 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "From cafes to locked flats: How a Noida couple built a 100+ theft trail",
-          "link": "https://timesofindia.indiatimes.com/city/noida/from-cafes-to-locked-flats-how-a-noida-couple-built-a-100-theft-trail/articleshow/133713370.cms",
-          "date": "2 Sep 2026",
-          "summary": "Noida police arrested three individuals for an inter-district theft gang. The accused allegedly targeted locked flats and stole valuables from housing societies. Police recovered cash, jewellery, and electronic devices from the arrested suspects. The gang memb…"
         }
       ]
     },
@@ -760,6 +760,12 @@
       "ok": true,
       "items": [
         {
+          "title": "US Department of Justice backs fair use for AI training in landmark copyright case",
+          "link": "https://the-decoder.com/us-department-of-justice-backs-fair-use-for-ai-training-in-landmark-copyright-case/",
+          "date": "2 Sep 2026",
+          "summary": "In the class-action lawsuit involving The New York Times, the US Department of Justice argues that training AI models on copyrighted text qualifies as fair use. The filing directly contradicts a report from the US Copyright Office. Its director was fired by th…"
+        },
+        {
           "title": "Gemini 3.8 Flash is Google's third budget model in six weeks while frontier models remain MIA",
           "link": "https://the-decoder.com/gemini-3-8-flash-is-googles-third-budget-model-in-six-weeks-while-frontier-models-remain-mia/",
           "date": "2 Sep 2026",
@@ -812,12 +818,6 @@
           "link": "https://the-decoder.com/google-deepminds-new-chief-says-frontier-ai-leadership-is-the-only-thing-that-matters/",
           "date": "1 Sep 2026",
           "summary": "Google Deepmind chief Koray Kavukcuoglu admits Google's current models are \"a little bit below the frontier\" but says he's \"100% certain that we will be at the frontier.\" He didn't share any concrete frontier news to back that up, though. The article Google De…"
-        },
-        {
-          "title": "Google's election AI Overviews are opaque, rely on few sources, and sometimes take sides",
-          "link": "https://the-decoder.com/googles-election-ai-overviews-are-opaque-rely-on-few-sources-and-sometimes-take-sides/",
-          "date": "1 Sep 2026",
-          "summary": "Using access granted under the EU's Digital Services Act, the German advocacy group AlgorithmWatch ran 4,480 election-related search queries on Google and analyzed the AI Overviews that came back. Google showed the overviews inconsistently and leaned on a smal…"
         }
       ]
     },
@@ -1152,6 +1152,24 @@
       "ok": true,
       "items": [
         {
+          "title": "CERN Transitioning From RHEL To Debian",
+          "link": "https://linux.slashdot.org/story/26/09/02/2041220/cern-transitioning-from-rhel-to-debian?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "2 Sep 2026",
+          "summary": "Longtime Slashdot reader Microsplat: CERN plans to have all 2,200+ industrial computers and embedded systems in its accelerator-control infrastructure running Debian 13 by the end of 2026. These are systems used for accelerator control, laboratory equipment an…"
+        },
+        {
+          "title": "OpenAI's Altman Says the Use of AI is 'Non-Negotiable'",
+          "link": "https://slashdot.org/story/26/09/02/1957204/openais-altman-says-the-use-of-ai-is-non-negotiable?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "2 Sep 2026",
+          "summary": "OpenAI CEO Sam Altman said AI adoption is \"non-negotiable\" for countries, comparing rejecting it to refusing electricity a century ago and predicting it will unleash an unprecedented boom in entrepreneurship. \"The economic growth and benefit to people that can…"
+        },
+        {
+          "title": "NYC Public Schools Ban AI Use Through Middle School",
+          "link": "https://news.slashdot.org/story/26/09/02/167206/nyc-public-schools-ban-ai-use-through-middle-school?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "2 Sep 2026",
+          "summary": "New York City Public Schools is banning generative AI for students from pre-K through eighth grade for the 2026-27 school year, affecting more than half a million students in the nation's largest school district. ABC News reports: In a statement to ABC News, N…"
+        },
+        {
           "title": "Google Defeats US Bid to Force Ad Tech Sale",
           "link": "https://yro.slashdot.org/story/26/09/02/1755251/google-defeats-us-bid-to-force-ad-tech-sale?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "2 Sep 2026",
@@ -1222,24 +1240,6 @@
           "link": "https://news.slashdot.org/story/26/09/01/1815258/bts-old-copper-landline-network-could-be-worth-over-2-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "1 Sep 2026",
           "summary": "BT could make more than $2.7 billion by recycling copper from its aging UK landline network as BT subsidiary Openreach replaces legacy wiring with full-fiber broadband. Engadget reports: BT's recovered copper was previously valued at around $2 billion. But pri…"
-        },
-        {
-          "title": "OpenClaw 2.0 Is Here, Ushering In the Era of 'Multiplayer' AI Coding",
-          "link": "https://developers.slashdot.org/story/26/09/01/1733206/openclaw-20-is-here-ushering-in-the-era-of-multiplayer-ai-coding?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "1 Sep 2026",
-          "summary": "An anonymous reader quotes a report from VentureBeat: The viral fervor we saw earlier this year around OpenClaw, the open source AI harness that turns powerful language models into autonomous workers the user can message via their favorite channels (Telegram,…"
-        },
-        {
-          "title": "Anthropic Signs $35 Billion Cloud Deal With Nvidia-Backed Lambda",
-          "link": "https://slashdot.org/story/26/09/01/177239/anthropic-signs-35-billion-cloud-deal-with-nvidia-backed-lambda?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "1 Sep 2026",
-          "summary": "Anthropic has reportedly signed a $35 billion cloud-computing deal with Nvidia-backed Lambda for a roughly 350-megawatt Texas data center being developed by Hut 8. \"Lambda will install Nvidia chips at the Hut 8 facility, with the arrangement designed to expand…"
-        },
-        {
-          "title": "Jensen Huang and Lisa Su Snubbed By TIME's 2026 List of Top 100 AI Leaders",
-          "link": "https://slashdot.org/story/26/09/01/0331222/jensen-huang-and-lisa-su-snubbed-by-times-2026-list-of-top-100-ai-leaders?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "1 Sep 2026",
-          "summary": "TIME's 2026 list of the 100 most influential people in AI omits Nvidia CEO Jensen Huang and AMD CEO Lisa Su, despite both having appeared on previous editions and playing central roles in the hardware powering the AI boom. Nvidia's only representative this yea…"
         }
       ]
     },
@@ -1569,184 +1569,184 @@
       "ok": true,
       "items": [
         {
-          "title": "zekan added to PyPI",
-          "link": "https://pypi.org/project/zekan/",
+          "title": "tectly added to PyPI",
+          "link": "https://pypi.org/project/tectly/",
           "date": "2 Sep 2026",
-          "summary": "A local-first ML trust-audit tool for finding and measuring data leakage"
+          "summary": "A simple python SDK to use the Tectly API for floorplan tracing and recognition."
         },
         {
-          "title": "emberio-labs-ember added to PyPI",
-          "link": "https://pypi.org/project/emberio-labs-ember/",
+          "title": "google-cloud-spark-connect added to PyPI",
+          "link": "https://pypi.org/project/google-cloud-spark-connect/",
           "date": "2 Sep 2026",
-          "summary": "Библиотека для простой интеграции с LLM-провайдерами и создания собственных агентов"
+          "summary": "Managed Spark client library for Spark Connect"
         },
         {
-          "title": "shivelinc added to PyPI",
-          "link": "https://pypi.org/project/shivelinc/",
+          "title": "simples-nacional-complexo added to PyPI",
+          "link": "https://pypi.org/project/simples-nacional-complexo/",
           "date": "2 Sep 2026",
-          "summary": "φ-lang v6 + φC engine + CR38 notebook renderer (shivelinc fork): chessboard-coordinate handwriting notebooks (.ram/.gθ), Rot24 fold geometry, point-blob codec, street/map rendering, shivelinc Board/HyperBoard binding"
+          "summary": "Cálculo do Simples Nacional a partir das tabelas legais: alíquota efetiva, Fator R e RBT12 proporcional."
         },
         {
-          "title": "wrapfile added to PyPI",
-          "link": "https://pypi.org/project/wrapfile/",
+          "title": "rigfl added to PyPI",
+          "link": "https://pypi.org/project/rigfl/",
           "date": "2 Sep 2026",
-          "summary": "Wrappers for file-like objects"
+          "summary": "A modular research framework for rigorous federated learning experimentation"
         },
         {
-          "title": "mandala-computer added to PyPI",
-          "link": "https://pypi.org/project/mandala-computer/",
+          "title": "tdsearch added to PyPI",
+          "link": "https://pypi.org/project/tdsearch/",
           "date": "2 Sep 2026",
-          "summary": "Python SDK for Mandala Computer — cloud desktops for AI agents"
+          "summary": "Desktop (GUI) for Tabular Data Search powered by xlsxgrep."
         },
         {
-          "title": "git-glimpse-cli added to PyPI",
-          "link": "https://pypi.org/project/git-glimpse-cli/",
+          "title": "libmpq added to PyPI",
+          "link": "https://pypi.org/project/libmpq/",
           "date": "2 Sep 2026",
-          "summary": "CLI tool to manage and update shared GitHub repos with GitGlimpse."
+          "summary": "Python ctypes bindings for libmpq"
         },
         {
-          "title": "zeroth-sdk added to PyPI",
-          "link": "https://pypi.org/project/zeroth-sdk/",
+          "title": "kartik-ai added to PyPI",
+          "link": "https://pypi.org/project/kartik-ai/",
           "date": "2 Sep 2026",
-          "summary": "Python client for Zeroth evidence, decisions, and rollout verification"
+          "summary": "Kartik AI (Pawanputra Edition) - Autonomous Hybrid Voice, PC Automation & Cognitive Assistant"
         },
         {
-          "title": "meme-generator-fix-deps added to PyPI",
-          "link": "https://pypi.org/project/meme-generator-fix-deps/",
+          "title": "mnemo-mcp-agent added to PyPI",
+          "link": "https://pypi.org/project/mnemo-mcp-agent/",
           "date": "2 Sep 2026",
-          "summary": "Python package for making fun pictures"
+          "summary": "Cross-platform local MCP server and CLI for bitemporal long-term memory for AI agents"
         },
         {
-          "title": "patchtroy added to PyPI",
-          "link": "https://pypi.org/project/patchtroy/",
+          "title": "sealg added to PyPI",
+          "link": "https://pypi.org/project/sealg/",
           "date": "2 Sep 2026",
-          "summary": "Undetected stealth web scraper & markdown extractor for LLMs, pairing Patchright with Trafilatura."
+          "summary": "Python client for the SealGate gateway - governed access to every tool via one CLI"
         },
         {
-          "title": "saltext.freebsd added to PyPI",
-          "link": "https://pypi.org/project/saltext-freebsd/",
+          "title": "stripe-xrechnung added to PyPI",
+          "link": "https://pypi.org/project/stripe-xrechnung/",
           "date": "2 Sep 2026",
-          "summary": "Salt Extension for FreeBSD-specific commands"
+          "summary": "Stripe Invoice JSON → XRechnung 3.0.2 UBL 2.1 (offline, never invents VAT IDs)"
         },
         {
-          "title": "septr added to PyPI",
-          "link": "https://pypi.org/project/septr/",
+          "title": "labmon added to PyPI",
+          "link": "https://pypi.org/project/labmon/",
           "date": "2 Sep 2026",
-          "summary": "Runtime security middleware for vibe-coded apps"
+          "summary": "Flexible laboratory monitoring system"
         },
         {
-          "title": "scgist added to PyPI",
-          "link": "https://pypi.org/project/scgist/",
-          "date": "2 Sep 2026",
-          "summary": "Gene panel design for spatial transcriptomics with prioritized gene sets"
-        },
-        {
-          "title": "kirin-tor-cli added to PyPI",
-          "link": "https://pypi.org/project/kirin-tor-cli/",
-          "date": "2 Sep 2026",
-          "summary": "A game-neutral, file-driven theorycrafting CLI and local browser workbench"
-        },
-        {
-          "title": "ess-orrery added to PyPI",
-          "link": "https://pypi.org/project/ess-orrery/",
-          "date": "2 Sep 2026",
-          "summary": "Operator control plane: holds the declared shape of a fleet and proves reality still matches."
-        },
-        {
-          "title": "rayglass added to PyPI",
-          "link": "https://pypi.org/project/rayglass/",
-          "date": "2 Sep 2026",
-          "summary": "Reserved."
-        },
-        {
-          "title": "blumkin added to PyPI",
-          "link": "https://pypi.org/project/blumkin/",
-          "date": "2 Sep 2026",
-          "summary": "Personal Microsoft 365 / Graph skills CLI (delegated as me)"
-        },
-        {
-          "title": "pil-utils-fix-deps added to PyPI",
-          "link": "https://pypi.org/project/pil-utils-fix-deps/",
-          "date": "2 Sep 2026",
-          "summary": "A simple PIL wrapper and text-to-image tool"
-        },
-        {
-          "title": "voice2gender added to PyPI",
-          "link": "https://pypi.org/project/voice2gender/",
-          "date": "2 Sep 2026",
-          "summary": "Extract 20 acoustic features and run a bundled XGBoost model with one Python call."
-        },
-        {
-          "title": "factorio-mod-workshop added to PyPI",
-          "link": "https://pypi.org/project/factorio-mod-workshop/",
-          "date": "2 Sep 2026",
-          "summary": "A workshop for maintaining Factorio mods: portal discussions, triage, tickets and release follow-up"
-        },
-        {
-          "title": "showreel added to PyPI",
-          "link": "https://pypi.org/project/showreel/",
-          "date": "2 Sep 2026",
-          "summary": "Convert asciinema .cast recordings to SVG, MP4, WebM, MKV (with chapters), GIF, APNG, HTML, transcripts and more — built for humans and AI agents."
-        },
-        {
-          "title": "doc-marshal added to PyPI",
-          "link": "https://pypi.org/project/doc-marshal/",
-          "date": "2 Sep 2026",
-          "summary": "A machine-checked documentation tree for repositories whose primary reader is a coding agent."
-        },
-        {
-          "title": "stashapp-client added to PyPI",
-          "link": "https://pypi.org/project/stashapp-client/",
-          "date": "2 Sep 2026",
-          "summary": "Python client for the Stash GraphQL API"
-        },
-        {
-          "title": "broom-sm added to PyPI",
-          "link": "https://pypi.org/project/broom-sm/",
-          "date": "2 Sep 2026",
-          "summary": "Tidy-style summaries for statsmodels fits"
-        },
-        {
-          "title": "arkhe31416 added to PyPI",
-          "link": "https://pypi.org/project/arkhe31416/",
-          "date": "2 Sep 2026",
-          "summary": "Una biblioteca para consultar cursos de Arkhe31416"
-        },
-        {
-          "title": "svg-plus added to PyPI",
-          "link": "https://pypi.org/project/svg-plus/",
-          "date": "2 Sep 2026",
-          "summary": "Write SVG figures — diagrams, infographics, posters — as content, not coordinates"
-        },
-        {
-          "title": "lingity added to PyPI",
-          "link": "https://pypi.org/project/lingity/",
-          "date": "2 Sep 2026",
-          "summary": "Deterministic governed text analysis"
-        },
-        {
-          "title": "xtc-tools added to PyPI",
-          "link": "https://pypi.org/project/xtc-tools/",
+          "title": "django-campaign-site added to PyPI",
+          "link": "https://pypi.org/project/django-campaign-site/",
           "date": "2 Sep 2026",
           "summary": "None"
         },
         {
-          "title": "qq-botpy-v2 added to PyPI",
-          "link": "https://pypi.org/project/qq-botpy-v2/",
+          "title": "athena-claude-coder added to PyPI",
+          "link": "https://pypi.org/project/athena-claude-coder/",
           "date": "2 Sep 2026",
-          "summary": "QQ 机器人 Python SDK，基于官方 API v2 最新文档适配，接口兼容原版 botpy"
+          "summary": "In-guest Agent Protocol server that drives the Claude Agent SDK for Athena coding tasks"
         },
         {
-          "title": "tensicai added to PyPI",
-          "link": "https://pypi.org/project/tensicai/",
+          "title": "noxaeapi-sdk added to PyPI",
+          "link": "https://pypi.org/project/noxaeapi-sdk/",
           "date": "2 Sep 2026",
-          "summary": "Official Python SDK for tensic.ai — chat, RAG knowledge, agents and OpenAI-compatible access from your own product"
+          "summary": "Typed Python SDK for the NoxAeApi REST + WebSocket API (Fabric, Bukkit/Spigot/Paper) and the NoxAeApi-Velocity network hub"
         },
         {
-          "title": "SpecSMC added to PyPI",
-          "link": "https://pypi.org/project/specsmc/",
+          "title": "stallguard added to PyPI",
+          "link": "https://pypi.org/project/stallguard/",
           "date": "2 Sep 2026",
-          "summary": "A Python package for controlling the probe iris and QLP probes in Bruker BioSpin spectrometers."
+          "summary": "Drop-in wrapper that streams agent steps and kills/flags stalls, loops, and fake-GOAL finishes."
+        },
+        {
+          "title": "django-opa-permissions added to PyPI",
+          "link": "https://pypi.org/project/django-opa-permissions/",
+          "date": "2 Sep 2026",
+          "summary": "Object-level Django permissions backed by OPA (Rego) policies stored in the database, with partial-evaluation queryset filtering."
+        },
+        {
+          "title": "literegistry-podman-beaker added to PyPI",
+          "link": "https://pypi.org/project/literegistry-podman-beaker/",
+          "date": "2 Sep 2026",
+          "summary": "Deploy a LiteRegistry Podman, Docker mirror, gateway, and Redis stack on Beaker."
+        },
+        {
+          "title": "literegistry-base-deployment added to PyPI",
+          "link": "https://pypi.org/project/literegistry-base-deployment/",
+          "date": "2 Sep 2026",
+          "summary": "Deploy LiteRegistry gateway, Redis, tools, search, and vLLM services on Beaker."
+        },
+        {
+          "title": "commensa added to PyPI",
+          "link": "https://pypi.org/project/commensa/",
+          "date": "2 Sep 2026",
+          "summary": "Verified installer and stable command router for Commensa"
+        },
+        {
+          "title": "openforecast added to PyPI",
+          "link": "https://pypi.org/project/openforecast/",
+          "date": "2 Sep 2026",
+          "summary": "Add your description here"
+        },
+        {
+          "title": "trt-edge-benchmarker added to PyPI",
+          "link": "https://pypi.org/project/trt-edge-benchmarker/",
+          "date": "2 Sep 2026",
+          "summary": "Automated TensorRT performance profiling for Jetson edge devices."
+        },
+        {
+          "title": "captionforge added to PyPI",
+          "link": "https://pypi.org/project/captionforge/",
+          "date": "2 Sep 2026",
+          "summary": "Local, free automatic video-caption generator using faster-whisper and ffmpeg."
+        },
+        {
+          "title": "mucompute added to PyPI",
+          "link": "https://pypi.org/project/mucompute/",
+          "date": "2 Sep 2026",
+          "summary": "Name reserved for the mu compute graph. Today: pip install muimg, then import mucompute as mc."
+        },
+        {
+          "title": "purecard added to PyPI",
+          "link": "https://pypi.org/project/purecard/",
+          "date": "2 Sep 2026",
+          "summary": "Emitted-subset grammar decoder for Legend Pure with a partial schema-aware token-mask overlay."
+        },
+        {
+          "title": "rating-curve-automater added to PyPI",
+          "link": "https://pypi.org/project/rating-curve-automater/",
+          "date": "2 Sep 2026",
+          "summary": "Build a stage-discharge rating curve from messy field-gauging spreadsheets: clean, validate, fit (weighted / piecewise), bootstrap uncertainty bands, rating table, and temporal-drift diagnostics."
+        },
+        {
+          "title": "spendguardco added to PyPI",
+          "link": "https://pypi.org/project/spendguardco/",
+          "date": "2 Sep 2026",
+          "summary": "SpendGuard SDK: route every AI API call through SpendGuard with one line"
+        },
+        {
+          "title": "yaybo added to PyPI",
+          "link": "https://pypi.org/project/yaybo/",
+          "date": "2 Sep 2026",
+          "summary": "Fetch, explore and export the Danish property registers, from a terminal"
+        },
+        {
+          "title": "paperlesspaper-client added to PyPI",
+          "link": "https://pypi.org/project/paperlesspaper-client/",
+          "date": "2 Sep 2026",
+          "summary": "Python client for the Paperlesspaper API"
+        },
+        {
+          "title": "fq-client added to PyPI",
+          "link": "https://pypi.org/project/fq-client/",
+          "date": "2 Sep 2026",
+          "summary": "Python client for the fq database"
+        },
+        {
+          "title": "cop-pilot added to PyPI",
+          "link": "https://pypi.org/project/cop-pilot/",
+          "date": "2 Sep 2026",
+          "summary": "Delegate coding tasks to GitHub Copilot CLI agents via Herdr, and collect results asynchronously."
         }
       ]
     }
