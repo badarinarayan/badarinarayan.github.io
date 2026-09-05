@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-05T16:24:31Z",
+  "generated": "2026-09-05T18:41:13Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -196,52 +196,58 @@
       "ok": true,
       "items": [
         {
-          "title": "'Jhooth ki goonj': PM Modi takes swipe at Rahul, attacks 'mai-baap' culture",
-          "link": "https://timesofindia.indiatimes.com/india/jhooth-ki-goonj-pm-modi-takes-swipe-at-rahul-attacks-mai-baap-culture/articleshow/133805599.cms",
-          "date": "5 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "Congress replaces Bhupesh Baghel with Sachin Pilot as Punjab general secretary",
-          "link": "https://timesofindia.indiatimes.com/india/congress-replaces-bhupesh-baghel-with-sachin-pilot-as-punjab-general-secretary/articleshow/133806065.cms",
-          "date": "5 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "Donald Trump gets mashed over 'small potatoes' Iran war",
-          "link": "https://timesofindia.indiatimes.com/world/us/donald-trump-gets-mashed-over-small-potatoes-iran-war/articleshow/133797080.cms",
-          "date": "5 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "India’s spin chokehold leaves Pak in tatters: 55 all out is their lowest-ever total",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/indias-spin-chokehold-leaves-pakistan-in-tatters-55-all-out-is-their-lowest-ever-t20i-total/articleshow/133807750.cms",
-          "date": "5 Sep 2026",
-          "summary": "Pakistan suffered their lowest T20I score ever, bowled out for just 55 runs. India's bowlers, led by Charani and Rawat, triggered a dramatic batting collapse. Pakistan lost six wickets for only eight runs after a promising start. This historic low occurred dur…"
-        },
-        {
-          "title": "Watch: US strikes 3 Iranian oil tankers after Iran targets 2 navy warships",
-          "link": "https://timesofindia.indiatimes.com/defence/international/watch-us-strikes-3-iranian-oil-tankers-after-iran-targets-2-navy-warships/articleshow/133805095.cms",
-          "date": "5 Sep 2026",
-          "summary": "In a tense confrontation, US forces targeted three Iranian oil tankers after missile strikes on Navy warships. The vessels successfully dodged multiple Iranian attacks without any injuries reported. Serving as financial support for Iran's Revolutionary Guard a…"
-        },
-        {
-          "title": "Thousands of OpenAI's AI agents hacked a German website and the reason may scare many",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/thousands-of-openais-ai-agents-hacked-a-german-website-and-the-reason-may-scare-many/articleshow/133805281.cms",
-          "date": "5 Sep 2026",
-          "summary": "A swarm of OpenAI-linked AI agents hijacked a 25-year-old German programming wiki, DseWiki, between May and June, leaving roughly 18,000 posts. Reuters reported the agents shared answers to cheat on tasks, traded sandbox escape tricks, discussed Tor, and creat…"
-        },
-        {
           "title": "Census 2027: The 14 questions and why opposition fears an NPR 'backdoor'",
           "link": "https://timesofindia.indiatimes.com/india/census-2027-the-14-questions-and-why-opposition-fears-an-npr-backdoor/articleshow/133796101.cms",
           "date": "5 Sep 2026",
           "summary": "Enumerators have begun the decennial headcount in Ladakh and snowbound regions. New questions in the Census questionnaire have raised opposition concerns about its purpose. Critics allege the Census is becoming a backdoor for the National Population Register.…"
         },
         {
-          "title": "Putin orders 3-day pause in strikes on Kyiv as US delegation arrives in Russia",
-          "link": "https://timesofindia.indiatimes.com/world/europe/putin-orders-3-day-pause-in-strikes-on-kyiv-as-us-delegation-arrives-in-russia/articleshow/133800664.cms",
+          "title": "'Trump furious about weapon info leaks': US orders polygraph test for top officials",
+          "link": "https://timesofindia.indiatimes.com/world/us/trump-furious-over-leaks-us-orders-polygraph-test-for-top-officials-reports/articleshow/133792042.cms",
           "date": "5 Sep 2026",
-          "summary": "US special representatives Steve Witkoff and Jared Kushner arrived in Moscow for crucial peace talks. President Putin ordered a three-day halt to strikes on Kyiv for the American delegation's visit. Both Russia and Ukraine had intensified long-range attacks be…"
+          "summary": ""
+        },
+        {
+          "title": "Complaint against Jantar Mantar protester over 'insulting' post on Hindu gods",
+          "link": "https://timesofindia.indiatimes.com/india/outraged-my-feelings-complaint-againt-jantar-mantar-protester-over-insulting-post-on-hindu-gods/articleshow/133808730.cms",
+          "date": "5 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "India crush Pakistan by 7 wickets after spin attack bundles them out for 55",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/harmanpreet-kaurs-india-turn-pakistan-clash-into-a-rout-seal-7-wicket-win-after-bowling-them-out-for-55/articleshow/133808870.cms",
+          "date": "5 Sep 2026",
+          "summary": "In a stunning performance, India triumphed over Pakistan by seven wickets during their Group A encounter. Pakistan struggled significantly, managing a mere 55 runs, marking their lowest T20I score. India's spinners dominated, with Shree Charani leading the cha…"
+        },
+        {
+          "title": "‘We’ve got to be careful’: Ex-CDS flags Pak's 'overconfidence' after Mecca Pact",
+          "link": "https://timesofindia.indiatimes.com/defence/news/weve-got-to-be-careful-ex-cds-anil-chauhan-flags-pakistans-overconfidence-after-mecca-pact/articleshow/133808232.cms",
+          "date": "5 Sep 2026",
+          "summary": "Former CDS Gen Anil Chauhan warned Pakistan against overconfidence from a recent defense pact. He stated Pakistan will remain a significant security concern for India. Terrorism and proxy war are central to Pakistan's strategy towards India. Future warfare dem…"
+        },
+        {
+          "title": "Earth warming hits 6,500-year high: Could scientists have a ‘cooling solution’?",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/earth-is-warming-to-levels-not-seen-in-about-6500-years-2026s-heatwave-across-europe-proved-that-now-scientists-may-have-a-cooling-solution/articleshow/133743384.cms",
+          "date": "4 Sep 2026",
+          "summary": "An ongoing heat wave serves as a stark reminder of the rising temperatures impacting our oceans. In response, researchers recommend injecting sulfur dioxide into the stratosphere as a cooling strategy that could lessen both the intensity and duration of ocean…"
+        },
+        {
+          "title": "Nepal floods show the risk; China's mega-dam raises bigger questions for India",
+          "link": "https://timesofindia.indiatimes.com/india/nepal-floods-show-the-risk-chinas-mega-dam-raises-bigger-questions-for-india/articleshow/133803260.cms",
+          "date": "5 Sep 2026",
+          "summary": "Recent Nepal floods highlight Himalayan vulnerabilities and cascading disaster risks. China's Yarlung Tsangpo dam project faces scrutiny due to its geologically unstable location. The dam's operation could influence downstream river flows and water security fo…"
+        },
+        {
+          "title": "Panun Kashmir stages hunger strike, demands genocide law",
+          "link": "https://timesofindia.indiatimes.com/india/panun-kashmir-stages-hunger-strike-demands-genocide-law/articleshow/133811752.cms",
+          "date": "5 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "Watch: PM Modi takes Delhi Metro to SRCC, interacts with students",
+          "link": "https://timesofindia.indiatimes.com/india/watch-pm-modi-takes-delhi-metro-to-srcc-interacts-with-students/articleshow/133803663.cms",
+          "date": "5 Sep 2026",
+          "summary": ""
         },
         {
           "title": "Canadian billionaire Kevin O’Leary says success requires sacrifice, focus and obsession",
@@ -250,28 +256,112 @@
           "summary": "Kevin O'Leary emphasizes that reaching peak success requires immense dedication and sacrifice. He recommends that individuals focus on three to five key priorities while steering clear of distractions. Influential figures like Mark Cuban and Elon Musk echo sim…"
         },
         {
-          "title": "Harmanpreet creates history, becomes first cricketer ever to captain in 150 T20Is",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/harmanpreet-kaur-creates-history-becomes-first-cricketer-ever-to-captain-in-150-t20is/articleshow/133804547.cms",
+          "title": "From Rs 60 a day to national award: Delhi teacher Suman Goel's 22-year journey",
+          "link": "https://timesofindia.indiatimes.com/education/news/in-2004-she-started-teaching-for-60-a-day-while-paying-for-her-own-college-22-years-later-delhi-teacher-suman-goel-is-getting-a-national-award/articleshow/133794272.cms",
           "date": "5 Sep 2026",
-          "summary": "In a remarkable achievement, Harmanpreet Kaur captained her 150th T20I match during the Women's Asia Cup against Pakistan, solidifying her status as a leading figure in women's cricket. Her focus remains on enjoying the sport rather than tallying numbers, and…"
+          "summary": "Suman Goel began teaching for just Rs 60 a day in 2004 to help fund her college education. Twenty-two years later, the former student of a Delhi government school has been selected for the National Teachers’ Award 2026. Now a primary teacher at the same school…"
         },
         {
-          "title": "Texas teenager makes 750 bird shelters and sparks conservation movement",
-          "link": "https://timesofindia.indiatimes.com/world/us/a-texas-teenager-started-building-birdhouses-after-losing-his-pet-cockatiel-5-years-later-he-has-made-750-shelters-and-inspired-a-conservation-movement-across-20-states/articleshow/133794312.cms",
+          "title": "Meet Claire Wang, Texas student whose tutoring network has reached 10,000 girls",
+          "link": "https://timesofindia.indiatimes.com/education/news/meet-claire-wang-the-texas-high-schooler-whose-free-tutoring-network-has-reached-10000-girls-and-recruited-2000-volunteer-tutors/articleshow/133762130.cms",
           "date": "5 Sep 2026",
-          "summary": "After adopting a pet cockatiel, Aamir Tinwala initiated a bird conservation movement focused on building birdhouses to combat habitat loss. His project promotes awareness of local biodiversity while encouraging community members to take an active role in habit…"
+          "summary": ""
         },
         {
-          "title": "1844 land grant still fuels Colorado's longest-running land dispute",
-          "link": "https://timesofindia.indiatimes.com/world/us/in-1844-a-mexican-land-grant-gave-settlers-rights-across-what-is-now-an-80000-acre-colorado-ranch-nearly-two-centuries-later-the-access-fight-has-become-the-states-longest-running-land-dispute/articleshow/133755132.cms",
+          "title": "33-year-old buys 81-room Arkansas hotel for $2.55m and spends $1.1m rebuilding",
+          "link": "https://timesofindia.indiatimes.com/world/us/a-33-year-old-entrepreneur-paid-2-55-million-for-a-neglected-81-room-arkansas-hotel-after-moving-into-the-property-himself-he-is-spending-another-1-1-million-rebuilding-it/articleshow/133756824.cms",
           "date": "5 Sep 2026",
-          "summary": "The Cielo Vista Ranch in Colorado is at the centre of a land dispute dating to the 1844 Sangre de Cristo Land Grant. The 80,000-acre property has been the subject of decades of legal battles over access rights for land grant heirs. Governor Jared Polis has now…"
+          "summary": "From a modest beginning, Greg Clark has embarked on an impressive journey in the hospitality sector, currently breathing new life into an eighty-one-room hotel located in the picturesque Eureka Springs. His aim is to craft exceptional guest experiences, showca…"
         },
         {
           "title": "Jeff Bezos' ex-wife sets new record with donations to historically Black colleges",
           "link": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-ex-wife-mackenzie-scott-who-sold-half-of-her-amazon-stake-sets-new-record-with-her-donations-to-historically-black-colleges-and-universities/articleshow/133763850.cms",
           "date": "4 Sep 2026",
           "summary": "MacKenzie Scott has now donated over one billion dollars to historically Black colleges. Her recent forty-two million dollar gift to Elizabeth City State University marked this milestone. Scott has provided significant funding to numerous institutions since 20…"
+        },
+        {
+          "title": "Shafali scripts history, becomes fastest and youngest to reach 3,000 T20I runs",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/shafali-varma-scripts-history-becomes-fastest-and-youngest-to-3000-t20i-runs-in-womens-cricket/articleshow/133809520.cms",
+          "date": "5 Sep 2026",
+          "summary": "At just twenty-two years and 220 days old, Shafali Verma made history by becoming the youngest player ever to score 3,000 runs in T20 internationals. She also claimed the title for the fastest to reach this milestone in terms of balls faced. In a decisive matc…"
+        },
+        {
+          "title": "Congress replaces Bhupesh Baghel with Sachin Pilot as Punjab general secretary",
+          "link": "https://timesofindia.indiatimes.com/india/congress-replaces-bhupesh-baghel-with-sachin-pilot-as-punjab-general-secretary/articleshow/133806065.cms",
+          "date": "5 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "Son loses gifted flat after neglecting parents; why he may still inherit it later",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/parents-gifted-their-son-a-flat-on-condition-he-care-for-them-after-he-neglected-them-bombay-hc-cancelled-the-gift-but-heres-why-he-may-still-inherit-it-later/articleshow/133795029.cms",
+          "date": "5 Sep 2026",
+          "summary": "A recent Bombay High Court case involved a son who was directed to vacate his father’s flat after the court found that he had failed to honour the condition attached to the gift of the property. The flat had been transferred to him on the understanding that he…"
+        },
+        {
+          "title": "Tiger Woods and Vanessa Trump build wealth through brands and real estate",
+          "link": "https://timesofindia.indiatimes.com/sports/international-sports/tiger-woods-and-vanessa-trumps-business-ventures-how-their-wealth-is-built-through-investments-real-estate-and-major-brands/articleshow/133758109.cms",
+          "date": "4 Sep 2026",
+          "summary": "Vanessa Trump's wealth stems from family investments and real estate holdings. Tiger Woods built a diverse business empire through golf and various ventures. Woods' TGR Ventures oversees golf course design and sports entertainment projects. His portfolio inclu…"
+        },
+        {
+          "title": "Travis Kelce grows business empire with $53m hydration deal",
+          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/travis-kelce-expands-business-empire-with-53-million-hydration-drink-partnership-while-chasing-another-super-bowl-with-chiefs/articleshow/133789813.cms",
+          "date": "5 Sep 2026",
+          "summary": "Travis Kelce expanded his growing business portfolio by joining organic hydration company Recover 180 as an investor and brand partner. The Kansas City Chiefs tight end highlighted the importance of quality hydration for peak performance and recovery. The move…"
+        },
+        {
+          "title": "Naomi Osaka vs Coco Gauff: Who has built more wealth in 2026?",
+          "link": "https://timesofindia.indiatimes.com/sports/international-sports/naomi-osaka-vs-coco-gauff-net-worth-in-2026-career-prize-money-endorsements-business-ventures-investments-lifestyle-and-financial-comparison/articleshow/133797577.cms",
+          "date": "5 Sep 2026",
+          "summary": "Naomi Osaka and Coco Gauff are two of tennis’ most marketable stars in 2026, but they reached that status via different routes. Osaka has built a much wider business and branding empire alongside her Grand Slam career, and Gauff’s endorsement income and corpor…"
+        },
+        {
+          "title": "In a first, 9 Isro staff bodies seek 'written clarity' on private sector shift",
+          "link": "https://timesofindia.indiatimes.com/india/in-a-first-9-isro-staff-bodies-seek-written-clarity-on-private-sector-shift/articleshow/133801451.cms",
+          "date": "5 Sep 2026",
+          "summary": "Say pvt participation can co-exist with Isro, but under a defined policy"
+        },
+        {
+          "title": "India’s spin chokehold leaves Pak in tatters: 55 all out is their lowest-ever total",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/indias-spin-chokehold-leaves-pakistan-in-tatters-55-all-out-is-their-lowest-ever-t20i-total/articleshow/133807750.cms",
+          "date": "5 Sep 2026",
+          "summary": "Pakistan suffered their lowest T20I score ever, bowled out for just 55 runs. India's bowlers, led by Charani and Rawat, triggered a dramatic batting collapse. Pakistan lost six wickets for only eight runs after a promising start. This historic low occurred dur…"
+        },
+        {
+          "title": "'Jhooth ki goonj': PM Modi takes swipe at Rahul, attacks 'mai-baap' culture",
+          "link": "https://timesofindia.indiatimes.com/india/jhooth-ki-goonj-pm-modi-takes-swipe-at-rahul-attacks-mai-baap-culture/articleshow/133805599.cms",
+          "date": "5 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "‘This isn’t politics’: Brian Lara backs Imran Khan, calls for dignity and proper care",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/this-isnt-politics-brian-lara-backs-imran-khan-calls-for-dignity-and-proper-medical-care-for-pakistan-legend/articleshow/133804181.cms",
+          "date": "5 Sep 2026",
+          "summary": "Brian Lara and Pat Cummins join former captains supporting Imran Khan's treatment. They are calling for independent medical assessments and humane care. Concerns focus on Khan's reported vision problems while in custody. Khan denies corruption charges, which s…"
+        },
+        {
+          "title": "Donald Trump gets mashed over 'small potatoes' Iran war",
+          "link": "https://timesofindia.indiatimes.com/world/us/donald-trump-gets-mashed-over-small-potatoes-iran-war/articleshow/133797080.cms",
+          "date": "5 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "Watch: US strikes 3 Iranian oil tankers after Iran targets 2 navy warships",
+          "link": "https://timesofindia.indiatimes.com/defence/international/watch-us-strikes-3-iranian-oil-tankers-after-iran-targets-2-navy-warships/articleshow/133805095.cms",
+          "date": "5 Sep 2026",
+          "summary": "In a tense confrontation, US forces targeted three Iranian oil tankers after missile strikes on Navy warships. The vessels successfully dodged multiple Iranian attacks without any injuries reported. Serving as financial support for Iran's Revolutionary Guard a…"
+        },
+        {
+          "title": "Putin orders 3-day pause in strikes on Kyiv as US delegation arrives in Russia",
+          "link": "https://timesofindia.indiatimes.com/world/europe/putin-orders-3-day-pause-in-strikes-on-kyiv-as-us-delegation-arrives-in-russia/articleshow/133800664.cms",
+          "date": "5 Sep 2026",
+          "summary": "US special representatives Steve Witkoff and Jared Kushner arrived in Moscow for crucial peace talks. President Putin ordered a three-day halt to strikes on Kyiv for the American delegation's visit. Both Russia and Ukraine had intensified long-range attacks be…"
+        },
+        {
+          "title": "Harmanpreet creates history, becomes first cricketer ever to captain in 150 T20Is",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/harmanpreet-kaur-creates-history-becomes-first-cricketer-ever-to-captain-in-150-t20is/articleshow/133804547.cms",
+          "date": "5 Sep 2026",
+          "summary": "In a remarkable achievement, Harmanpreet Kaur captained her 150th T20I match during the Women's Asia Cup against Pakistan, solidifying her status as a leading figure in women's cricket. Her focus remains on enjoying the sport rather than tallying numbers, and…"
         },
         {
           "title": "A home run for workers? Daman &amp; Diu’s SPARSH 2.0 opens more rental space",
@@ -282,96 +372,6 @@
         {
           "title": "'Second chance': Chimps used in hepatitis B experiments get health checks in Liberia",
           "link": "https://timesofindia.indiatimes.com/world/rest-of-world/second-chance-chimps-used-in-hepatitis-b-experiments-get-comprehensive-health-checks-in-liberia/articleshow/133806950.cms",
-          "date": "5 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "‘Don’t give me these useless jumlas’: Kangana pulls up officials over unused funds",
-          "link": "https://timesofindia.indiatimes.com/city/shimla/dont-give-me-these-useless-jumlas-mp-kangana-ranaut-pulls-up-officials-over-rs-11-crore-mplads-funds/articleshow/133801631.cms",
-          "date": "5 Sep 2026",
-          "summary": "BJP MP Kangana Ranaut expressed anger over delayed development works. She questioned the utilization of nearly eleven crore rupees allocated for projects. Officials had repeatedly assured her that funds were being used effectively. However, external surveys re…"
-        },
-        {
-          "title": "Travis Kelce expands his business empire with a $53M hydration deal",
-          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/travis-kelce-expands-business-empire-with-53-million-hydration-drink-partnership-while-chasing-another-super-bowl-with-chiefs/articleshow/133789813.cms",
-          "date": "5 Sep 2026",
-          "summary": "Travis Kelce expanded his growing business portfolio by joining organic hydration company Recover 180 as an investor and brand partner. The Kansas City Chiefs tight end highlighted the importance of quality hydration for peak performance and recovery. The move…"
-        },
-        {
-          "title": "Patrick Mahomes used his youngest daughter as motivation during his recovery",
-          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/patrick-mahomes-reportedly-had-his-youngest-daughter-in-mind-as-he-battled-through-recovery-ahead-of-the-new-season/articleshow/133793610.cms",
-          "date": "5 Sep 2026",
-          "summary": "Patrick Mahomes, the Kansas City Chiefs' top player, reportedly only focused on one thing related to hi children as he started his recovery from the severe injuries."
-        },
-        {
-          "title": "Naomi Osaka vs Serena Williams: How did their 2018 US Open final change her career?",
-          "link": "https://timesofindia.indiatimes.com/sports/international-sports/career-turning-point-im-not-a-serena-fan-im-just-a-tennis-player-how-naomi-osakas-emotional-us-open-win-over-serena-williams-changed-her-career-forever-making-her-a-global-star/articleshow/133753443.cms",
-          "date": "4 Sep 2026",
-          "summary": "Naomi Osaka made history in 2018 by winning her first Grand Slam title against Serena Williams. This pivotal match showcased her exceptional composure, turning what could have been a tumultuous finale into a career-defining moment. Her triumph set the stage fo…"
-        },
-        {
-          "title": "Watch: PM Modi takes Delhi Metro to SRCC, interacts with students",
-          "link": "https://timesofindia.indiatimes.com/india/watch-pm-modi-takes-delhi-metro-to-srcc-interacts-with-students/articleshow/133803663.cms",
-          "date": "5 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "At least 22 killed in fire at wedding party in Congo’s Kinshasa",
-          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/at-least-22-killed-in-fire-at-wedding-party-in-congos-kinshasa/articleshow/133805605.cms",
-          "date": "5 Sep 2026",
-          "summary": "A devastating fire at a wedding party in Kinshasa claimed at least twenty-two lives. The blaze erupted overnight Friday and continued into Saturday morning in the Lingwala district. Many people were injured as they attempted to escape the rapidly spreading fla…"
-        },
-        {
-          "title": "‘No handshake’ again: Harmanpreet, Fatima avoid customary gesture at Asia Cup toss",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/india-vs-pakistan-no-handshake-again-harmanpreet-kaur-fatima-sana-avoid-customary-gesture-at-asia-cup-toss/articleshow/133805089.cms",
-          "date": "5 Sep 2026",
-          "summary": "The long-standing no-handshake tradition persisted between the captains of India and Pakistan during the Asia Cup match. In Dubai, Fatima Sana won the toss and elected to bat first. Notably, Harmanpreet Kaur marked her 150th T20I match as captain. With both te…"
-        },
-        {
-          "title": "Raina’s blueprint for India: Backs Abhishek for Test, calls Pant white-ball 'X-factor'",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/suresh-rainas-bold-blueprint-for-india-backs-abhishek-sharma-for-test-leap-calls-rishabh-pant-white-ball-x-factor/articleshow/133803154.cms",
-          "date": "5 Sep 2026",
-          "summary": "Suresh Raina expressed confidence in Abhishek Sharma's potential to succeed in Test cricket. He also highlighted Rishabh Pant as an impressive asset in white-ball formats. Notably, Pant has become a pivotal figure in India's red-ball squad. Raina's insights on…"
-        },
-        {
-          "title": "Where have all the buyers gone? DC homes lose value as demand dries up",
-          "link": "https://timesofindia.indiatimes.com/real-estate/news/where-have-all-the-buyers-gone-dc-homes-lose-value-as-demand-dries-up/articleshow/133798453.cms",
-          "date": "5 Sep 2026",
-          "summary": "In Washington, the housing market is revealing an intriguing dynamic, with many properties available at discounted rates—almost one-fifth of homes listed currently are priced lower than what they were purchased for initially. This development points to a slump…"
-        },
-        {
-          "title": "In a first, 9 Isro staff bodies seek 'written clarity' on private sector shift",
-          "link": "https://timesofindia.indiatimes.com/india/in-a-first-9-isro-staff-bodies-seek-written-clarity-on-private-sector-shift/articleshow/133801451.cms",
-          "date": "5 Sep 2026",
-          "summary": "Say pvt participation can co-exist with Isro, but under a defined policy"
-        },
-        {
-          "title": "‘Always in chaos’: Hayden’s blunt verdict on Pakistan cricket amid latest turmoil",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/always-in-chaos-standing-on-one-toe-matthew-haydens-blunt-verdict-on-pakistan-cricket-amid-latest-turmoil/articleshow/133798105.cms",
-          "date": "5 Sep 2026",
-          "summary": "Matthew Hayden, the former Australian cricket opener, shared his insights on the persistent instability within Pakistan cricket. He emphasised how this ongoing chaos hampers players' ability to perform consistently. Despite Pakistan's wealth of natural talent,…"
-        },
-        {
-          "title": "Son loses gifted flat after neglecting parents; why he may still inherit it later",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/parents-gifted-their-son-a-flat-on-condition-he-care-for-them-after-he-neglected-them-bombay-hc-cancelled-the-gift-but-heres-why-he-may-still-inherit-it-later/articleshow/133795029.cms",
-          "date": "5 Sep 2026",
-          "summary": "A recent Bombay High Court case involved a son who was directed to vacate his father’s flat after the court found that he had failed to honour the condition attached to the gift of the property. The flat had been transferred to him on the understanding that he…"
-        },
-        {
-          "title": "Messi and Ronaldo could finally play together for first time after special invite",
-          "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/the-impossible-messi-and-ronaldo-could-finally-play-together-on-same-team-after-special-invite-from-former-teammate/articleshow/133798533.cms",
-          "date": "5 Sep 2026",
-          "summary": "Carlos Tevez is planning a star-studded farewell match at Boca Juniors’ La Bombonera, with Lionel Messi and Cristiano Ronaldo both invited. Tevez hopes to reunite the longtime rivals as teammates for one night, alongside legends including Rooney, Scholes, Pirl…"
-        },
-        {
-          "title": "'Every corner of world but Bengal': State government's new tourism ad gets trolled",
-          "link": "https://timesofindia.indiatimes.com/india/every-corner-of-world-but-bengal-state-governments-new-tourism-ad-gets-trolled/articleshow/133798694.cms",
-          "date": "5 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "Millions of hours of Ukraine drone data being used to train AI: Report",
-          "link": "https://timesofindia.indiatimes.com/world/europe/millions-of-hours-of-ukraine-drone-data-being-used-to-train-ai-report/articleshow/133801734.cms",
           "date": "5 Sep 2026",
           "summary": ""
         }
@@ -760,6 +760,12 @@
       "ok": true,
       "items": [
         {
+          "title": "Artificial Analysis overhauls its Intelligence Index after GPT-6 Astra scoring drew skepticism",
+          "link": "https://the-decoder.com/artificial-analysis-overhauls-its-intelligence-index-after-gpt-6-astra-scoring-drew-skepticism/",
+          "date": "5 Sep 2026",
+          "summary": "Artificial Analysis has released version 4.2 of its Intelligence Index, likely in response to criticism that its benchmarks failed to capture GPT-6 Astra's actual progress. Astra now scores four points above its predecessor but still trails Anthropic's Claude…"
+        },
+        {
           "title": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
           "link": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words/",
           "date": "5 Sep 2026",
@@ -812,12 +818,6 @@
           "link": "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward/",
           "date": "4 Sep 2026",
           "summary": "OpenAI's GPT-6 Astra is drawing contradictory benchmark verdicts. Epoch AI puts it out in front with 169 points, while Artificial Analysis rates it no better than its predecessor and behind Claude Fable 5.1. The biggest surprise comes from ARC-AGI-3, where Ast…"
-        },
-        {
-          "title": "Nvidia wants your home network to work like a mini data center for local AI",
-          "link": "https://the-decoder.com/nvidia-wants-your-home-network-to-work-like-a-mini-data-center-for-local-ai/",
-          "date": "4 Sep 2026",
-          "summary": "Nvidia's PAIR (Personal AI Router) automatically spreads local AI requests across all available devices on a home network, cutting wait times for parallel agent tasks. The article Nvidia wants your home network to work like a mini data center for local AI appe…"
         }
       ]
     },
@@ -1569,184 +1569,184 @@
       "ok": true,
       "items": [
         {
-          "title": "generic-gitlab-cicd added to PyPI",
-          "link": "https://pypi.org/project/generic-gitlab-cicd/",
+          "title": "yt-dlp-kinopub added to PyPI",
+          "link": "https://pypi.org/project/yt-dlp-kinopub/",
           "date": "5 Sep 2026",
-          "summary": "Validated project configuration and reproducible GitLab delivery pipelines"
+          "summary": "yt-dlp extractor plugin for kino.pub / kino.watch"
         },
         {
-          "title": "aseprite added to PyPI",
-          "link": "https://pypi.org/project/aseprite/",
+          "title": "frontage added to PyPI",
+          "link": "https://pypi.org/project/frontage/",
           "date": "5 Sep 2026",
-          "summary": "Read and write Aseprite .ase/.aseprite files"
+          "summary": "Fine-grained reactive UI framework for Python in the browser (PyScript, Pyodide, MicroPython)"
         },
         {
-          "title": "opennvr-app-sdk added to PyPI",
-          "link": "https://pypi.org/project/opennvr-app-sdk/",
+          "title": "ue-bridge added to PyPI",
+          "link": "https://pypi.org/project/ue-bridge/",
           "date": "5 Sep 2026",
-          "summary": "Shared SDK for OpenNVR monitoring apps: §11.5 alert dispatch, zone geometry, keyed TTL state, app manifests, and the Detector / FrameApp base loops."
+          "summary": "Talk to a running UE4SS game: inspect objects, call functions, run Lua, while it plays. An MCP server and CLI plus the UEBridge mod."
         },
         {
-          "title": "mergeprint added to PyPI",
-          "link": "https://pypi.org/project/mergeprint/",
+          "title": "claude-lite-llm added to PyPI",
+          "link": "https://pypi.org/project/claude-lite-llm/",
           "date": "5 Sep 2026",
-          "summary": "See what you actually shipped: a local, private report of your GitHub pull requests"
+          "summary": "This is an LLM wrapper for claude and its subscription to use via Programming"
         },
         {
-          "title": "i3-layout-rules added to PyPI",
-          "link": "https://pypi.org/project/i3-layout-rules/",
+          "title": "sistemo added to PyPI",
+          "link": "https://pypi.org/project/sistemo/",
           "date": "5 Sep 2026",
-          "summary": "Apply complex rules when new windows are created in i3wm"
+          "summary": "Run AI agents and untrusted code in real isolated microVMs."
         },
         {
-          "title": "mcp-safebase added to PyPI",
-          "link": "https://pypi.org/project/mcp-safebase/",
+          "title": "pdf-toolbox-mcp added to PyPI",
+          "link": "https://pypi.org/project/pdf-toolbox-mcp/",
           "date": "5 Sep 2026",
-          "summary": "Encrypted file-based storage MCP server with per-bucket passwords and human-only secret editing."
+          "summary": "Local-first PDF processing MCP server — OCR write-back, text extraction, page rendering, page surgery, encryption (OCRmyPDF + Poppler + qpdf)"
         },
         {
-          "title": "vsview-remote added to PyPI",
-          "link": "https://pypi.org/project/vsview-remote/",
+          "title": "marketplace-goods-vehicle-local added to PyPI",
+          "link": "https://pypi.org/project/marketplace-goods-vehicle-local/",
           "date": "5 Sep 2026",
-          "summary": "A VSView plugin that provides remote execution for VapourSynth, leveraging the vsremote library."
+          "summary": "PyPI marketplace-goods-vehicle-local Python Package owned by Circlez.ai"
         },
         {
-          "title": "geomind-core added to PyPI",
-          "link": "https://pypi.org/project/geomind-core/",
+          "title": "post-truegrit-mcp added to PyPI",
+          "link": "https://pypi.org/project/post-truegrit-mcp/",
           "date": "5 Sep 2026",
-          "summary": "An experimental geography and history AI."
+          "summary": "Postiz MCP client with an opt-in local egress connector"
         },
         {
-          "title": "odoo-addon-l10n-din5008-move-salesperson added to PyPI",
-          "link": "https://pypi.org/project/odoo-addon-l10n-din5008-move-salesperson/",
+          "title": "loch added to PyPI",
+          "link": "https://pypi.org/project/loch/",
           "date": "5 Sep 2026",
-          "summary": "Add sales person of the move in DIN 5008 Invoice report"
+          "summary": "Fast in‑memory data server with persistence, supporting strings, hashes, lists, sets, and sorted sets, with optional encryption and automatic compaction."
         },
         {
-          "title": "gsheets-patch added to PyPI",
-          "link": "https://pypi.org/project/gsheets-patch/",
+          "title": "lunchmoney-venmo-track added to PyPI",
+          "link": "https://pypi.org/project/lunchmoney-venmo-track/",
           "date": "5 Sep 2026",
-          "summary": "Thin Google Sheets API access for agents"
+          "summary": "Automatically cash out Venmo balance and sync transaction details to Lunch Money"
         },
         {
-          "title": "agent2perfetto added to PyPI",
-          "link": "https://pypi.org/project/agent2perfetto/",
+          "title": "nexuschat added to PyPI",
+          "link": "https://pypi.org/project/nexuschat/",
           "date": "5 Sep 2026",
-          "summary": "Convert agent session logs (Claude Code JSONL) into Perfetto/Chrome trace JSON for ui.perfetto.dev"
+          "summary": "Cross-platform high-performance LAN messenger and secure file sharing application with PostgreSQL backend."
         },
         {
-          "title": "mauve-mcp-server added to PyPI",
-          "link": "https://pypi.org/project/mauve-mcp-server/",
+          "title": "openmerge added to PyPI",
+          "link": "https://pypi.org/project/openmerge/",
           "date": "5 Sep 2026",
-          "summary": "A Model Context Protocol server for NCBI."
+          "summary": "Typed Python client for the OpenMerge unified integration API"
         },
         {
-          "title": "opencaselaw-cli added to PyPI",
-          "link": "https://pypi.org/project/opencaselaw-cli/",
+          "title": "ha-requests added to PyPI",
+          "link": "https://pypi.org/project/ha-requests/",
           "date": "5 Sep 2026",
-          "summary": "Composable, read-only research client for OpenCaseLaw"
+          "summary": "ha-requests - requestslib for hackide"
         },
         {
-          "title": "yield-audit added to PyPI",
-          "link": "https://pypi.org/project/yield-audit/",
+          "title": "remagent added to PyPI",
+          "link": "https://pypi.org/project/remagent/",
           "date": "5 Sep 2026",
-          "summary": "Outcome accounting for AI coding agents: measure what survived, what it cost, and what was wasted — fully local."
+          "summary": "Autonomous Zero-Vector Memory Framework for AI Agents powered by Google Gemini & Biological REM Consolidation"
         },
         {
-          "title": "retainkit added to PyPI",
-          "link": "https://pypi.org/project/retainkit/",
+          "title": "jetson added to PyPI",
+          "link": "https://pypi.org/project/jetson/",
           "date": "5 Sep 2026",
-          "summary": "Context and memory policies for LLM agents, scored by the evidence that survives the token budget"
+          "summary": "A verified, sourced knowledge base of everything known about NVIDIA Jetson devices — usable as a CLI, an MCP server, and a multilingual static site. Every claim cites its source, gaps are stated honestly, and existing projects and contributors are credited."
         },
         {
-          "title": "vecdiff added to PyPI",
-          "link": "https://pypi.org/project/vecdiff/",
+          "title": "gp-dla-finder added to PyPI",
+          "link": "https://pypi.org/project/gp-dla-finder/",
           "date": "5 Sep 2026",
-          "summary": "Diff two embedding-index snapshots: neighbor stability, population stats, duplicates. Fully local, numpy-only."
+          "summary": "Gaussian-process Bayesian detection of damped Lyman-alpha absorbers in quasar spectra"
         },
         {
-          "title": "pyside6-mcp added to PyPI",
-          "link": "https://pypi.org/project/pyside6-mcp/",
+          "title": "pydantic-parse added to PyPI",
+          "link": "https://pypi.org/project/pydantic-parse/",
           "date": "5 Sep 2026",
-          "summary": "Playwright-style MCP server for PySide6 apps — inspect, control, and debug via MCP"
+          "summary": "Pydantic adaptor for argparse"
         },
         {
-          "title": "contrails added to PyPI",
-          "link": "https://pypi.org/project/contrails/",
+          "title": "bezoar added to PyPI",
+          "link": "https://pypi.org/project/bezoar/",
           "date": "5 Sep 2026",
-          "summary": "Estimate the CO2e emissions of flights you've taken or booked, and keep a running log."
+          "summary": "Open-source security scanner for the AI-agent supply chain — skills, MCPs, plugins, subagents"
         },
         {
-          "title": "yzel added to PyPI",
-          "link": "https://pypi.org/project/yzel/",
+          "title": "drosera added to PyPI",
+          "link": "https://pypi.org/project/drosera/",
           "date": "5 Sep 2026",
-          "summary": "Unified MCP connectors for CIS business tools — 1C, Bitrix24, AmoCRM, Moysklad"
+          "summary": "A carnivorous honeypot for autonomous AI agents. Sweet-looking bait. Sticky ending."
         },
         {
-          "title": "mcp_server_anas added to PyPI",
-          "link": "https://pypi.org/project/mcp-server-anas/",
+          "title": "buildanchor added to PyPI",
+          "link": "https://pypi.org/project/buildanchor/",
           "date": "5 Sep 2026",
-          "summary": "test mcp server"
+          "summary": "Local-first Build Truth and change validation for AI coding agents"
         },
         {
-          "title": "servicewatch-sdk added to PyPI",
-          "link": "https://pypi.org/project/servicewatch-sdk/",
+          "title": "purra-mem0 added to PyPI",
+          "link": "https://pypi.org/project/purra-mem0/",
           "date": "5 Sep 2026",
-          "summary": "Official Python SDK & FastAPI Middleware for ServiceWatch Monitoring Platform"
+          "summary": "Scoped Mem0 OSS memory integration for PurrA"
         },
         {
-          "title": "hivecomb added to PyPI",
-          "link": "https://pypi.org/project/hivecomb/",
+          "title": "purra-sqlite added to PyPI",
+          "link": "https://pypi.org/project/purra-sqlite/",
           "date": "5 Sep 2026",
-          "summary": "Hive blockchain keys, serialization and offline transaction signing, in Rust."
+          "summary": "SQLite persistence for PurrA"
         },
         {
-          "title": "pyplane-mindmap added to PyPI",
-          "link": "https://pypi.org/project/pyplane-mindmap/",
+          "title": "groupeval added to PyPI",
+          "link": "https://pypi.org/project/groupeval/",
           "date": "5 Sep 2026",
-          "summary": "A small, programmable mind-map library and desktop editor"
+          "summary": "Evaluation that respects the group structure benchmarks actually have: duplicate audits, group-disjoint splits, clustered intervals, and resolution limits."
         },
         {
-          "title": "ai-terminal-manager added to PyPI",
-          "link": "https://pypi.org/project/ai-terminal-manager/",
+          "title": "schwaby added to PyPI",
+          "link": "https://pypi.org/project/schwaby/",
           "date": "5 Sep 2026",
-          "summary": "Multi-session manager for AI CLIs (Claude Code / Codex / Pi) inside tmux: unified history, resume into any pane, persistent sidebar"
+          "summary": "Unofficial Python client for the Charles Schwab API, built for systematic trading against live accounts"
         },
         {
-          "title": "opengemm added to PyPI",
-          "link": "https://pypi.org/project/opengemm/",
+          "title": "purra-interaction added to PyPI",
+          "link": "https://pypi.org/project/purra-interaction/",
           "date": "5 Sep 2026",
-          "summary": "Open GEMM kernels for NVIDIA B200 (sm_100a) in CUDA"
+          "summary": "Durable pre-execution user clarification for PurrA"
         },
         {
-          "title": "hivecomb-beem added to PyPI",
-          "link": "https://pypi.org/project/hivecomb-beem/",
+          "title": "purra-compaction added to PyPI",
+          "link": "https://pypi.org/project/purra-compaction/",
           "date": "5 Sep 2026",
-          "summary": "beem-compatible API for Hive, backed by hivecomb. Install in place of beem."
+          "summary": "Managed semantic conversation compaction for PurrA"
         },
         {
-          "title": "shakun added to PyPI",
-          "link": "https://pypi.org/project/shakun/",
+          "title": "purra-anthropic added to PyPI",
+          "link": "https://pypi.org/project/purra-anthropic/",
           "date": "5 Sep 2026",
-          "summary": "Name reservation. The Shakun project lives at https://github.com/shakun-labs/shakun"
+          "summary": "Official Anthropic Messages SDK adapter for PurrA"
         },
         {
-          "title": "thonny-ligatures added to PyPI",
-          "link": "https://pypi.org/project/thonny-ligatures/",
+          "title": "rosbridge-server-rs added to PyPI",
+          "link": "https://pypi.org/project/rosbridge-server-rs/",
           "date": "5 Sep 2026",
-          "summary": "Ligaduras tipograficas (Fira Code) para el editor de Thonny, via el mecanismo oficial de plugins thonnycontrib"
+          "summary": "ROS 2 rosbridge WebSocket server implemented in Rust"
         },
         {
-          "title": "scrubproof added to PyPI",
-          "link": "https://pypi.org/project/scrubproof/",
+          "title": "purra-openai added to PyPI",
+          "link": "https://pypi.org/project/purra-openai/",
           "date": "5 Sep 2026",
-          "summary": "Removes metadata from 71 file formats and proves it by searching the output bytes"
+          "summary": "Official OpenAI Responses and Chat Completions SDK adapter for PurrA"
         },
         {
-          "title": "mcp-sentinel-cli added to PyPI",
-          "link": "https://pypi.org/project/mcp-sentinel-cli/",
+          "title": "sponsorship-scout added to PyPI",
+          "link": "https://pypi.org/project/sponsorship-scout/",
           "date": "5 Sep 2026",
-          "summary": "Security scanner for MCP (Model Context Protocol) servers"
+          "summary": "Multi-tenant UK Sponsorship Job Scraper"
         }
       ]
     }
