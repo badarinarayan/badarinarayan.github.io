@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-06T22:40:20Z",
+  "generated": "2026-09-07T00:31:31Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,18 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "AIFs seek status quo as 'foreign control' rules go for a recast",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/aifs-seek-status-quo-as-foreign-control-rules-go-for-a-recast/articleshow/133856980.cms",
+          "date": "7 Sep 2026",
+          "summary": "Local alternative investment funds have warned regulators about proposed changes. These changes could significantly impact capital inflows into India's economy. The draft rules aim to curb indirect foreign ownership in sensitive sectors. Industry officials req…"
+        },
+        {
+          "title": "RBI's liquidity test may set future course",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbis-liquidity-test-may-set-future-course/articleshow/133856932.cms",
+          "date": "7 Sep 2026",
+          "summary": "The Reserve Bank of India is currently grappling with a notable liquidity dilemma due to a surge in FCNR(B) scheme inflows. To navigate this, a pivotal variable rate reverse repo auction is set to influence the liquidity management strategy. The central bank m…"
+        },
         {
           "title": "Bank of India Flexi Cap among 5 flexi-cap funds that deliver over 15% annualised return in 3 years",
           "link": "https://economictimes.indiatimes.com/mf/analysis/bank-of-india-flexi-cap-among-5-flexi-cap-funds-that-deliver-over-15-annualised-return-in-3-years/slideshow/133826005.cms",
@@ -30,18 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/how-will-nifty-sensex-behave-on-monday-us-fed-rate-hike-bets-among-4-factors-to-drive-d-street-action/articleshow/133825763.cms",
           "date": "6 Sep 2026",
           "summary": "Indian equities may remain volatile as rising crude prices, elevated global bond yields and renewed US rate-hike bets weigh on sentiment. However, strong FPI inflows, resilient GDP growth, better-than-expected earnings and rupee stability offer some support."
-        },
-        {
-          "title": "Largecaps look better as smallcaps price in strong growth: Franklin Templeton’s Arihant Jain",
-          "link": "https://economictimes.indiatimes.com/markets/expert-view/largecaps-look-better-as-smallcaps-price-in-strong-growth-franklin-templetons-arihant-jain/articleshow/133827224.cms",
-          "date": "6 Sep 2026",
-          "summary": "Largecap stocks offer a better risk-reward balance than mid- and small-caps as higher growth expectations are already priced into smaller companies, according to Arihant Jain of Franklin Templeton India. In this chat, he explains their multi-factor quantitativ…"
-        },
-        {
-          "title": "16 IPOs on investors' radar next week. GMPs signal up to 38% returns",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/16-ipos-on-investors-radar-next-week-gmps-signal-up-to-38-returns/ipo-frenzy/slideshow/133833526.cms",
-          "date": "6 Sep 2026",
-          "summary": "India's IPO market is set for another crowded week, with 16 issues opening for subscription across the mainboard and SME segments. The lineup is led by Rentomojo, Kanohar Electricals, Karamtara Engineering, Manipal Payment and Identity Solutions among others.…"
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -196,7 +196,13 @@
       "ok": true,
       "items": [
         {
-          "title": "5 killed as Amazon cargo plane crashes off Miami runway; huge smoke plume seen in video",
+          "title": "6 killed in Delhi building collapse; illegal buildings over 4 floors to face action",
+          "link": "https://timesofindia.indiatimes.com/india/6-killed-in-delhi-building-collapse-fir-against-owner-illegal-buildings-face-action/articleshow/133856825.cms",
+          "date": "7 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "Five dead as Amazon cargo plane crashes off Miami runway",
           "link": "https://timesofindia.indiatimes.com/world/us/amazon-linked-boeing-767-crashes-off-miami-runway-huge-smoke-plume-seen-in-video/articleshow/133850609.cms",
           "date": "7 Sep 2026",
           "summary": ""
@@ -208,22 +214,16 @@
           "summary": "UP 2 months early, P 14"
         },
         {
-          "title": "Agency won't be privatised or its role diminished: Isro",
-          "link": "https://timesofindia.indiatimes.com/india/isro-will-never-be-privatised-its-role-wont-be-diminished-space-agency-inspace-chief/articleshow/133851245.cms",
-          "date": "7 Sep 2026",
-          "summary": ""
-        },
-        {
           "title": "'Win against India damaged us a lot': Yousuf explains Pakistan cricket's decline",
           "link": "https://timesofindia.indiatimes.com/sports/cricket/news/win-against-india-damaged-us-a-lot-mohammad-yousuf-explains-pakistans-cricket-decline/articleshow/133838396.cms",
           "date": "6 Sep 2026",
           "summary": "Pakistan had never beaten India in a World Cup before that match in 2021. Babar Azam scored an unbeaten 68, while Mohammad Rizwan made 79 not out as Pakistan chased down 152 without losing a wicket. The win was celebrated as a historic moment for Pakistan cric…"
         },
         {
-          "title": "Delhi horror: 5 dead in building collapse, rescue ops on; FIR filed against PG owner",
-          "link": "https://timesofindia.indiatimes.com/india/delhi-building-collapse-several-rescued-will-spare-no-one-cm-rekha-vows-action-top-developments/articleshow/133839515.cms",
-          "date": "6 Sep 2026",
-          "summary": ""
+          "title": "UN-backed map must depict India's territory accurately: Govt",
+          "link": "https://timesofindia.indiatimes.com/india/un-backed-map-must-depict-indias-territory-accurately-govt/articleshow/133855201.cms",
+          "date": "7 Sep 2026",
+          "summary": "'Not specific map', P 9"
         },
         {
           "title": "Tech CEO added to FBI's Most Wanted Fraudsters list after fleeing from United States",
@@ -232,14 +232,14 @@
           "summary": "Tech CEO Bernhard Fritsch has achieved infamy by landing a spot on the FBI's Most Wanted Fraudsters list after his conviction for investment fraud. Sentenced to fifteen years in prison and required to make restitution, he managed to evade authorities post-arre…"
         },
         {
-          "title": "After meeting Bihar youth, Rahul slams PM Modi, Samrat Choudhary",
-          "link": "https://timesofindia.indiatimes.com/india/after-meeting-bihar-youth-rahul-slams-pm-modi-samrat-choudhary/articleshow/133852093.cms",
+          "title": "Agency won't be privatised or its role diminished: Isro",
+          "link": "https://timesofindia.indiatimes.com/india/isro-will-never-be-privatised-its-role-wont-be-diminished-space-agency-inspace-chief/articleshow/133851245.cms",
           "date": "7 Sep 2026",
           "summary": ""
         },
         {
-          "title": "'New America', George Washington meet &amp; De Niro jibe: Trump unleashes AI slop",
-          "link": "https://timesofindia.indiatimes.com/world/us/new-america-george-washington-meet-robert-de-niro-jibe-trump-unleashes-ai-powered-fantasies/articleshow/133848499.cms",
+          "title": "After meeting Bihar youth, Rahul slams PM Modi, Samrat Choudhary",
+          "link": "https://timesofindia.indiatimes.com/india/after-meeting-bihar-youth-rahul-slams-pm-modi-samrat-choudhary/articleshow/133852093.cms",
           "date": "7 Sep 2026",
           "summary": ""
         },
@@ -250,8 +250,8 @@
           "summary": "MacKenzie Scott has now donated over one billion dollars to historically Black colleges. Her recent forty-two million dollar gift to Elizabeth City State University marked this milestone. Scott has provided significant funding to numerous institutions since 20…"
         },
         {
-          "title": "As vultures disappear, minister calls for 'safe zones'",
-          "link": "https://timesofindia.indiatimes.com/india/as-vultures-disappear-minister-calls-for-safe-zones/articleshow/133853700.cms",
+          "title": "'New America', George Washington meet &amp; De Niro jibe: Trump unleashes AI slop",
+          "link": "https://timesofindia.indiatimes.com/world/us/new-america-george-washington-meet-robert-de-niro-jibe-trump-unleashes-ai-powered-fantasies/articleshow/133848499.cms",
           "date": "7 Sep 2026",
           "summary": ""
         },
@@ -272,6 +272,12 @@
           "link": "https://timesofindia.indiatimes.com/technology/tech-news/alex-karp-ceo-of-americas-biggest-defence-company-palantir-is-going-to-ukraine-says-you-and-your-colleagues-are-/articleshow/133846037.cms",
           "date": "6 Sep 2026",
           "summary": "Former Ukrainian Defense Minister Mykhailo Fedorov is launching a new defense technology venture. Palantir CEO Alex Karp is serving as the startup's first lead investor. This initiative aims to commercialize Ukraine's battlefield innovations for allies. Former…"
+        },
+        {
+          "title": "As vultures disappear, minister calls for 'safe zones'",
+          "link": "https://timesofindia.indiatimes.com/india/as-vultures-disappear-minister-calls-for-safe-zones/articleshow/133853700.cms",
+          "date": "7 Sep 2026",
+          "summary": ""
         },
         {
           "title": "Relief in Congress as all factions accept Pilot as Punjab handler",
@@ -368,12 +374,6 @@
           "link": "https://timesofindia.indiatimes.com/science/after-a-25-acre-lake-erie-wetland-was-reconnected-sonar-recorded-3-44-million-fish-detections-over-2022-monitoring-hours-across-four-years-showing-the-restored-habitat-was-used-continuously/articleshow/133843408.cms",
           "date": "6 Sep 2026",
           "summary": "A rejuvenated wetland at Lake Erie witnessed an influx of aquatic wildlife thanks to its reconnection. High-resolution sonar has captured a staggering 3.4 million fish movements entering and exiting this newly transformed habitat. This research reveals valuabl…"
-        },
-        {
-          "title": "'We eradicated Naxalism, narcotics next': Amit Shah on drug-free India by 2029",
-          "link": "https://timesofindia.indiatimes.com/india/we-eradicated-naxalism-will-eliminate-narcotics-amit-shah-on-drug-free-india-by-2029/articleshow/133837940.cms",
-          "date": "6 Sep 2026",
-          "summary": ""
         }
       ]
     },
@@ -1152,6 +1152,12 @@
       "ok": true,
       "items": [
         {
+          "title": "Where a Massive Solar Storm Could Take Down the US Power Grid for Millions",
+          "link": "https://hardware.slashdot.org/story/26/09/05/2253221/where-a-massive-solar-storm-could-take-down-the-us-power-grid-for-millions?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "6 Sep 2026",
+          "summary": "A new study published Friday in AGU Advances \"depicts the most advanced picture yet of how a rare but massive solar storm could affect some US industries and electric systems more than others,\" reports CNN. \"During a 250-year solar storm, the East Coast would…"
+        },
+        {
           "title": "TiVo Will Start Charging Fees For Its Automatic Commercial Break-Skipping Feature 'SkipMode'",
           "link": "https://entertainment.slashdot.org/story/26/09/06/0347252/tivo-will-start-charging-fees-for-its-automatic-commercial-break-skipping-feature-skipmode?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "6 Sep 2026",
@@ -1234,12 +1240,6 @@
           "link": "https://tech.slashdot.org/story/26/09/04/0441229/auto-companies-call-for-ban-on-chinese-made-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "4 Sep 2026",
           "summary": "An anonymous reader quotes a report from The Hill: A group representing American automakers sent a letter (PDF) Thursday to congressional leaders asking for a \"permanent ban\" on Chinese-made cars in the U.S. John Bozzella, the Alliance for Automotive Innovatio…"
-        },
-        {
-          "title": "Genetically Modified Pig Kidney Keeps Man Alive For Record Nine Months",
-          "link": "https://science.slashdot.org/story/26/09/04/0433242/genetically-modified-pig-kidney-keeps-man-alive-for-record-nine-months?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "4 Sep 2026",
-          "summary": "A genetically modified pig kidney kept a 66-year-old man off dialysis for a record nine months, marking the longest survival yet for a pig kidney transplanted into a living person and the first time such an organ successfully served as a bridge to a later huma…"
         }
       ]
     },
@@ -1569,184 +1569,184 @@
       "ok": true,
       "items": [
         {
-          "title": "noether-physics added to PyPI",
-          "link": "https://pypi.org/project/noether-physics/",
-          "date": "6 Sep 2026",
-          "summary": "Physics research assistant: explains concepts with checked equations and live simulations, and verifies claims against real arXiv papers."
+          "title": "camau added to PyPI",
+          "link": "https://pypi.org/project/camau/",
+          "date": "7 Sep 2026",
+          "summary": "Rust-backed asynchronous workflow routing"
         },
         {
-          "title": "parlayx added to PyPI",
-          "link": "https://pypi.org/project/parlayx/",
-          "date": "6 Sep 2026",
-          "summary": "Official Python client for the ParlayX public API."
+          "title": "memydev-base-sdk added to PyPI",
+          "link": "https://pypi.org/project/memydev-base-sdk/",
+          "date": "7 Sep 2026",
+          "summary": "Official MemyBase client SDK for Python"
         },
         {
-          "title": "skirmisher added to PyPI",
-          "link": "https://pypi.org/project/skirmisher/",
-          "date": "6 Sep 2026",
-          "summary": "OSINT-driven initial-access engine for authorized red-team engagements."
+          "title": "treeship-commerce added to PyPI",
+          "link": "https://pypi.org/project/treeship-commerce/",
+          "date": "7 Sep 2026",
+          "summary": "Signed, offline-verifiable receipts for every tool call in anthropics/commerce-agents, on all three of its runtimes."
         },
         {
-          "title": "hackedself-tools added to PyPI",
-          "link": "https://pypi.org/project/hackedself-tools/",
-          "date": "6 Sep 2026",
-          "summary": "n=1 experiment scoring: effect size and confidence helpers for self-tracking data"
+          "title": "nynxlabs added to PyPI",
+          "link": "https://pypi.org/project/nynxlabs/",
+          "date": "7 Sep 2026",
+          "summary": "nynxlabs — applied neuroengineering and intelligent systems"
         },
         {
-          "title": "auto-use added to PyPI",
-          "link": "https://pypi.org/project/auto-use/",
-          "date": "6 Sep 2026",
-          "summary": "Auto-Use: an AI agent that operates your computer, shell, browser and iPhone"
+          "title": "warmtree added to PyPI",
+          "link": "https://pypi.org/project/warmtree/",
+          "date": "7 Sep 2026",
+          "summary": "A pool of pre-warmed git worktrees for parallel AI coding agents."
         },
         {
-          "title": "durablepicks-tools added to PyPI",
-          "link": "https://pypi.org/project/durablepicks-tools/",
-          "date": "6 Sep 2026",
-          "summary": "Cost-per-decade buying math: price products by real cost per year of use"
+          "title": "graphyos added to PyPI",
+          "link": "https://pypi.org/project/graphyos/",
+          "date": "7 Sep 2026",
+          "summary": "GraphyOS — compile any codebase into a walkable substrate, and generate the fan-out that makes an agent competent in it"
         },
         {
-          "title": "phylogeoplot added to PyPI",
-          "link": "https://pypi.org/project/phylogeoplot/",
-          "date": "6 Sep 2026",
-          "summary": "Linked phylogenetic and geographic visualization in Python."
+          "title": "flet-platform-assets added to PyPI",
+          "link": "https://pypi.org/project/flet-platform-assets/",
+          "date": "7 Sep 2026",
+          "summary": "Placeholder for an upcoming Flet package - generates app icons and splash screens for every platform Flet builds for"
         },
         {
-          "title": "railhook added to PyPI",
-          "link": "https://pypi.org/project/railhook/",
-          "date": "6 Sep 2026",
-          "summary": "Official Python SDK for Railhook — reliable webhook infrastructure"
+          "title": "message-cli added to PyPI",
+          "link": "https://pypi.org/project/message-cli/",
+          "date": "7 Sep 2026",
+          "summary": "A Linux-style terminal client for Instagram direct messages"
         },
         {
-          "title": "autumn-core added to PyPI",
-          "link": "https://pypi.org/project/autumn-core/",
-          "date": "6 Sep 2026",
-          "summary": "Autumn - Build CSS and HTML right in your backend"
+          "title": "testagents added to PyPI",
+          "link": "https://pypi.org/project/testagents/",
+          "date": "7 Sep 2026",
+          "summary": "Minimal multi-provider agent library with tools"
         },
         {
-          "title": "vlm-toolkit added to PyPI",
-          "link": "https://pypi.org/project/vlm-toolkit/",
-          "date": "6 Sep 2026",
-          "summary": "Batch image processing with vision language models: captioning, logo and watermark detection, and logo removal"
-        },
-        {
-          "title": "skillstate-kit added to PyPI",
-          "link": "https://pypi.org/project/skillstate-kit/",
-          "date": "6 Sep 2026",
-          "summary": "Compile existing agent skills into portable, validated execution state."
-        },
-        {
-          "title": "ehq added to PyPI",
-          "link": "https://pypi.org/project/ehq/",
-          "date": "6 Sep 2026",
-          "summary": "Reproducible evaluation framework for the Epistemic Honesty Quotient and EHQ-3000"
-        },
-        {
-          "title": "anvisa added to PyPI",
-          "link": "https://pypi.org/project/anvisa/",
-          "date": "6 Sep 2026",
-          "summary": "Client and CLI for ANVISA's official Consultas Externas API (fila de análise, UDI, assuntos)"
-        },
-        {
-          "title": "pedview added to PyPI",
-          "link": "https://pypi.org/project/pedview/",
-          "date": "6 Sep 2026",
-          "summary": "Command-line pedigree visualization for genetics workflows"
-        },
-        {
-          "title": "djangospice-framework added to PyPI",
-          "link": "https://pypi.org/project/djangospice-framework/",
-          "date": "6 Sep 2026",
-          "summary": "Application Runtime Framework for building Django apps."
-        },
-        {
-          "title": "mythos-data-mcp added to PyPI",
-          "link": "https://pypi.org/project/mythos-data-mcp/",
-          "date": "6 Sep 2026",
-          "summary": "Comparative mythology as citable data — Greek, Roman, Norse and Egyptian gods and primary sources — local MCP server proxying to https://mythosdata.dev/mcp"
-        },
-        {
-          "title": "probatio-llm added to PyPI",
-          "link": "https://pypi.org/project/probatio-llm/",
-          "date": "6 Sep 2026",
-          "summary": "A pytest plugin for regression-testing LLM applications: metamorphic relations and flakiness statistics."
-        },
-        {
-          "title": "flakestat added to PyPI",
-          "link": "https://pypi.org/project/flakestat/",
-          "date": "6 Sep 2026",
-          "summary": "Find flaky tests in any language - pytest, Jest, go test, JUnit. Local CLI, no SaaS, no account."
-        },
-        {
-          "title": "adaptcompile added to PyPI",
-          "link": "https://pypi.org/project/adaptcompile/",
-          "date": "6 Sep 2026",
-          "summary": "Represent, measure, and compare the behavioral effects of model adaptation."
-        },
-        {
-          "title": "tweetnook added to PyPI",
-          "link": "https://pypi.org/project/tweetnook/",
-          "date": "6 Sep 2026",
-          "summary": "Self-hosted Web archive for Twitter/X bookmarks, likes, tweets, and official exports."
-        },
-        {
-          "title": "scientific-workflow added to PyPI",
-          "link": "https://pypi.org/project/scientific-workflow/",
-          "date": "6 Sep 2026",
-          "summary": "Python utilities, verified readers, and optional NumPy conversion for Scientific Workflow"
-        },
-        {
-          "title": "google-lens-pro added to PyPI",
-          "link": "https://pypi.org/project/google-lens-pro/",
-          "date": "6 Sep 2026",
-          "summary": "High-performance Google Lens visual search, OCR, Gemini multimodal AI, and commercial product intelligence engine for Python."
-        },
-        {
-          "title": "aaaaaa-probe-test-12345 added to PyPI",
-          "link": "https://pypi.org/project/aaaaaa-probe-test-12345/",
+          "title": "gpunative added to PyPI",
+          "link": "https://pypi.org/project/gpunative/",
           "date": "6 Sep 2026",
           "summary": "None"
         },
         {
-          "title": "gitradar added to PyPI",
-          "link": "https://pypi.org/project/gitradar/",
+          "title": "context-report added to PyPI",
+          "link": "https://pypi.org/project/context-report/",
           "date": "6 Sep 2026",
-          "summary": "CLI tool for GitHub market & gap analysis using LLM and GitHub REST API"
+          "summary": "An open, signed report format for whether an agent context artifact actually works: an in-toto predicate, per target agent, with re-derivable rows."
         },
         {
-          "title": "skillprune added to PyPI",
-          "link": "https://pypi.org/project/skillprune/",
+          "title": "protocol-governed-computing added to PyPI",
+          "link": "https://pypi.org/project/protocol-governed-computing/",
           "date": "6 Sep 2026",
-          "summary": "Audit your installed agent skills against real usage. Finds what never fires, what collides, and what it costs you every turn."
+          "summary": "Protocol-Governed Computing — installs the full toolchain and reports whether an environment is ready to compile, seal, and execute"
         },
         {
-          "title": "consumer-reports-mcp added to PyPI",
-          "link": "https://pypi.org/project/consumer-reports-mcp/",
+          "title": "amu-governance added to PyPI",
+          "link": "https://pypi.org/project/amu-governance/",
           "date": "6 Sep 2026",
-          "summary": "MCP server exposing a Consumer Reports member's own subscription as structured ratings tools"
+          "summary": "Lineage-gated shared memory for multi-agent analytics: block cross-department data leakage and catch silent metric-definition conflicts."
         },
         {
-          "title": "msgsearch added to PyPI",
-          "link": "https://pypi.org/project/msgsearch/",
+          "title": "mathkernel added to PyPI",
+          "link": "https://pypi.org/project/mathkernel/",
           "date": "6 Sep 2026",
-          "summary": "Search your iMessage history by meaning, entirely on your own machine."
+          "summary": "Evidence-aware multi-engine mathematics runtime for LLMs: exact, symbolic, formal, certified-interval and numeric computation with typed MathIR, trust labels, and full provenance — as a Python library and an MCP server"
         },
         {
-          "title": "llmclient-lite added to PyPI",
-          "link": "https://pypi.org/project/llmclient-lite/",
+          "title": "pararnn-torch added to PyPI",
+          "link": "https://pypi.org/project/pararnn-torch/",
+          "date": "6 Sep 2026",
+          "summary": "Train nonlinear RNNs in parallel (Newton+scan); decode one step at a time."
+        },
+        {
+          "title": "kiss-feedback added to PyPI",
+          "link": "https://pypi.org/project/kiss-feedback/",
+          "date": "6 Sep 2026",
+          "summary": "Code-quality feedback for LLM coding agents (CLI via cargo install kiss-ai)."
+        },
+        {
+          "title": "malvin added to PyPI",
+          "link": "https://pypi.org/project/malvin/",
+          "date": "6 Sep 2026",
+          "summary": "Non-interactive research and coding agent (CLI via cargo install malvin)."
+        },
+        {
+          "title": "pxa-auth added to PyPI",
+          "link": "https://pypi.org/project/pxa-auth/",
+          "date": "6 Sep 2026",
+          "summary": "PXA 인증 처리 (Opaque Token + Redis + HttpOnly 쿠키 + 사용자 DB) — 단독 사용 가능"
+        },
+        {
+          "title": "pxa-db-connector added to PyPI",
+          "link": "https://pypi.org/project/pxa-db-connector/",
+          "date": "6 Sep 2026",
+          "summary": "PXA DB 커넥터 (ODBC 기본/커넥션풀/트랜잭션/ORM/SQL 혼용) — 단독 사용 가능"
+        },
+        {
+          "title": "pxa-extend added to PyPI",
+          "link": "https://pypi.org/project/pxa-extend/",
+          "date": "6 Sep 2026",
+          "summary": "PXA 확장 (PEP 네이밍 규칙 점검·강제) — 단독 사용 가능"
+        },
+        {
+          "title": "zlt-ai-tools added to PyPI",
+          "link": "https://pypi.org/project/zlt-ai-tools/",
+          "date": "6 Sep 2026",
+          "summary": "zlt-ai-tools Python SDK and command"
+        },
+        {
+          "title": "pxa-common added to PyPI",
+          "link": "https://pypi.org/project/pxa-common/",
+          "date": "6 Sep 2026",
+          "summary": "PXA 공통 기반 (로깅/예외·에러코드/설정관리/표준 응답포맷/메시지)"
+        },
+        {
+          "title": "rpc-router added to PyPI",
+          "link": "https://pypi.org/project/rpc-router/",
           "date": "6 Sep 2026",
           "summary": "None"
         },
         {
-          "title": "xlambda-redis added to PyPI",
-          "link": "https://pypi.org/project/xlambda-redis/",
+          "title": "ak-py-bootstrap added to PyPI",
+          "link": "https://pypi.org/project/ak-py-bootstrap/",
           "date": "6 Sep 2026",
-          "summary": "xlambda managed Redis SDK: provisioning, sub-users, backups, and a get_client() convenience."
+          "summary": "Provides functionality for generating skeletons for Python projects."
         },
         {
-          "title": "xlambda-postgres added to PyPI",
-          "link": "https://pypi.org/project/xlambda-postgres/",
+          "title": "herzig added to PyPI",
+          "link": "https://pypi.org/project/herzig/",
           "date": "6 Sep 2026",
-          "summary": "xlambda managed PostgreSQL SDK: provisioning, sub-users, backups, and a get_pool() convenience."
+          "summary": "ECG signal processing toolkit"
+        },
+        {
+          "title": "measurement-toolkit-deb-2026 added to PyPI",
+          "link": "https://pypi.org/project/measurement-toolkit-deb-2026/",
+          "date": "6 Sep 2026",
+          "summary": "An OOP measurement toolkit for lengths and time intervals."
+        },
+        {
+          "title": "whyvalue added to PyPI",
+          "link": "https://pypi.org/project/whyvalue/",
+          "date": "6 Sep 2026",
+          "summary": "Ask your data why."
+        },
+        {
+          "title": "wickra-strategy-ci added to PyPI",
+          "link": "https://pypi.org/project/wickra-strategy-ci/",
+          "date": "6 Sep 2026",
+          "summary": "Jest for trading strategies: golden-pin the backtest report, catch regressions in CI, property-test against fuzzed data."
+        },
+        {
+          "title": "twitch-auto-clipper added to PyPI",
+          "link": "https://pypi.org/project/twitch-auto-clipper/",
+          "date": "6 Sep 2026",
+          "summary": "Automatically create Twitch clips when chat activity spikes"
+        },
+        {
+          "title": "mcp-feishu added to PyPI",
+          "link": "https://pypi.org/project/mcp-feishu/",
+          "date": "6 Sep 2026",
+          "summary": "把消息发到飞书自定义机器人的标准 MCP Server (Model Context Protocol)"
         }
       ]
     }
