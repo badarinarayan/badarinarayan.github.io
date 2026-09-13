@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-13T02:14:29Z",
+  "generated": "2026-09-13T07:49:17Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,30 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "Why it’s getting harder for Tata Sons to resist an IPO",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/why-its-getting-harder-for-tata-sons-to-resist-an-ipo/articleshow/134183425.cms",
+          "date": "13 Sep 2026",
+          "summary": "The RBI reportedly rejected Tata Sons’ request for exemption from rules requiring upper-layer NBFCs to list publicly. The decision could intensify pressure on the Tata Group holding company to launch an IPO, despite its efforts to remain private."
+        },
+        {
+          "title": "SIF AUM tops Rs 31,000 crore in August; hybrid long-short funds account for 69% of inflows",
+          "link": "https://economictimes.indiatimes.com/mf/analysis/sif-aum-tops-rs-31000-crore-in-august-hybrid-long-short-funds-account-for-69-of-inflows/slideshow/134180301.cms",
+          "date": "13 Sep 2026",
+          "summary": "SIFs attracted Rs 7,699 crore in August, up from Rs 4,922 crore in July, taking cumulative inflows since October 2024 to Rs 30,028 crore. Hybrid long-short funds dominated the category, accounting for 69% of total flows."
+        },
+        {
+          "title": "11 penny stocks rose up to 156% in just 6 months. Do you own any?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/11-penny-stocks-rose-up-to-156-in-just-6-months-do-you-own-any/slideshow/134179438.cms",
+          "date": "13 Sep 2026",
+          "summary": "These stocks were identified using a defined set of filters: market capitalisation below Rs 1,000 crore, a share price under Rs 20, and a minimum latest trading volume of 5 lakh shares."
+        },
+        {
+          "title": "Market Outlook: Can Nifty find its footing as crude, Fed policy drive markets?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/weekly-market-outlook-can-nifty-find-its-footing-as-crude-fed-policy-drive-markets/articleshow/134178071.cms",
+          "date": "13 Sep 2026",
+          "summary": "Indian equities enter a holiday-shortened week with the Nifty at a crucial support zone after five consecutive weekly declines. The US Fed’s policy decision, FOMC projections, crude oil prices, global bond yields and foreign flows will drive near-term sentimen…"
+        },
         {
           "title": "Dalal Street Week Ahead: Weak technical setup to keep bulls under pressure",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-weak-technical-setup-to-keep-bulls-under-pressure/articleshow/134125578.cms",
@@ -18,30 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/explained-what-sebis-proposed-cas-changes-mean-for-expiry-day-trading-and-settlement/articleshow/134122773.cms",
           "date": "12 Sep 2026",
           "summary": "The regulator has proposed two options for determining expiry-day settlement prices for index and stock derivatives, changes to the timing of the continuous trading session (CTS), CAS and derivatives trading, and additional measures aimed at improving the func…"
-        },
-        {
-          "title": "BSE volumes ease after sharp rebound; CAS remains in focus: Nuvama",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bse-volumes-ease-after-sharp-rebound-cas-remains-in-focus-nuvama/articleshow/134115840.cms",
-          "date": "12 Sep 2026",
-          "summary": "For FY27 to date, BSE’s ADPTV is around Rs 26,200 crore, while its ADPTV market share is around 35.2%. Its premium-to-notional turnover ratio is around 12.4 basis points, compared with 17.2 basis points for the industry."
-        },
-        {
-          "title": "HDFC Bank submits two candidates to RBI for next CEO",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-submits-names-of-two-ceo-candidates-to-rbi-reports/articleshow/134129717.cms",
-          "date": "12 Sep 2026",
-          "summary": "India's ​largest ​private lender HDFC Bank has ‌submitted ⁠the ⁠names ​of two candidates ​to the ​Reserve Bank ⁠of India ‌for ​the ​position ⁠of managing director ​and chief executive ​officer, Bloomberg News ‌reported on ​Saturday, ​citing an ⁠exchange filing…"
-        },
-        {
-          "title": "F&amp;O Talk: Nifty has slipped below its crucial support, says Sudeep Shah; picks 5 stocks for next week",
-          "link": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-nifty-has-slipped-below-its-crucial-support-says-sudeep-shah-picks-5-stocks-for-next-week/articleshow/134119208.cms",
-          "date": "12 Sep 2026",
-          "summary": "After a turbulent trading day, Indian stock indices bounced back significantly as oil prices and bond yields eased. The Sensex and Nifty ended with modest declines, having experienced deeper dips earlier. Previous climbs in crude oil prices and geopolitical is…"
-        },
-        {
-          "title": "Concurrent Gainers: 9 smallcap stocks gain for 5 days in a row",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-9-smallcap-stocks-gain-for-5-days-in-a-row/slideshow/134112346.cms",
-          "date": "12 Sep 2026",
-          "summary": "We identified 12 stocks that gained on all five days, delivering cumulative returns ranging from 10% to 30% during the period."
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -196,106 +196,148 @@
       "ok": true,
       "items": [
         {
-          "title": "Brics hammers out joint declaration after India bridges Iran-UAE chasm",
-          "link": "https://timesofindia.indiatimes.com/india/brics-hammers-out-joint-declaration-after-india-bridges-iran-uae-chasm/articleshow/134153102.cms",
+          "title": "Xi in the room, PM Modi warns against 'weaponisation of critical minerals'",
+          "link": "https://timesofindia.indiatimes.com/india/xi-in-the-room-pm-modi-warns-against-weaponisation-of-critical-minerals/articleshow/134185503.cms",
           "date": "13 Sep 2026",
-          "summary": "Following intense late-night negotiations, Brics nations have come together to issue a joint declaration addressing vital issues, including the protection of civilian and peaceful nuclear sites. The leaders reiterated the critical role of constructive dialogue…"
+          "summary": ""
         },
         {
-          "title": "'Global South must shape, not just follow, rules': PM Modi at Brics Summit",
-          "link": "https://timesofindia.indiatimes.com/india/modi-global-south-must-shape-not-just-follow-rules/articleshow/134158493.cms",
+          "title": "Why Xi Jinping skipped PM Modi’s gala dinner at Brics Summit in Delhi",
+          "link": "https://timesofindia.indiatimes.com/india/why-xi-jinping-skipped-pm-modis-gala-dinner-at-brics-summit-in-delhi/articleshow/134181856.cms",
           "date": "13 Sep 2026",
-          "summary": "Prime Minister Modi opened the Brics summit, demanding urgent United Nations Security Council reforms. He stressed transforming global governance from privilege to partnership for developing nations. Modi proposed Brics draft ten proposals for inclusive global…"
+          "summary": ""
         },
         {
-          "title": "81-year-old meets schoolmate PM Modi to seek CBI probe in land dispute",
-          "link": "https://timesofindia.indiatimes.com/city/mumbai/81-year-old-meets-schoolmate-pm-modi-to-seek-cbi-probe-in-land-dispute/articleshow/134147823.cms",
+          "title": "'Shared vision transformed into a win-win collaboration': PM Modi on Day 2 of Brics",
+          "link": "https://timesofindia.indiatimes.com/india/shared-vision-transformed-into-a-win-win-collaboration-pm-modi-on-day-2-brics-summit/articleshow/134183089.cms",
           "date": "13 Sep 2026",
-          "summary": "An 81-year-old man approached Prime Minister Narendra Modi for help. He is seeking justice in a long-standing land dispute case. The resident alleges encroachment and forged documents related to his property. Following the meeting, municipal authorities have s…"
+          "summary": ""
         },
         {
-          "title": "UP govt misusing Goonda Act for harassment: Allahabad HC",
-          "link": "https://timesofindia.indiatimes.com/city/lucknow/goonda-act-is-being-used-as-a-tool-of-harassment-hc/articleshow/134153125.cms",
-          "date": "13 Sep 2026",
-          "summary": "The Allahabad High Court has raised serious concerns about the misuse of the Uttar Pradesh Goonda Act, describing it as a potential weapon for harassment. In its ruling, the court quashed an order that expelled Zahid Ali from Gonda district, highlighting the q…"
+          "title": "Trump removed protections from 2.93 million acres; land now open to mining claims",
+          "link": "https://timesofindia.indiatimes.com/world/us/in-july-2026-trump-removed-monument-protections-from-2-93-million-acres-at-bears-ears-and-grand-staircase-escalante-on-september-11-the-excluded-lands-became-eligible-for-new-mining-claims/articleshow/134141776.cms",
+          "date": "12 Sep 2026",
+          "summary": "In July 2026, Donald Trump removed monument protections from about 2.93 million acres at Bears Ears and Grand Staircase-Escalante in Utah. On September 11, the excluded lands became eligible for new mining claims and certain mineral activities, following the 6…"
         },
         {
-          "title": "Wushu athlete Divyanshi accepts Asiad squad axe, alleges harassment by Roshibina",
-          "link": "https://timesofindia.indiatimes.com/sports/asian-games-2026/wushu-athlete-divyanshi-choudhary-accepts-federations-decision-to-drop-her-from-asian-games-squad-alleges-harassment-by-roshibina-devi/articleshow/134169292.cms",
+          "title": "Why Oracle founder Larry Ellison changed his mind on a $7.5 billion stock sale in a day",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/larry-ellison-cancels-plan-to-sell-7-5-billion-of-oracle-stock-after-europe-has-a-problem-with-his-timing/articleshow/134175638.cms",
           "date": "13 Sep 2026",
-          "summary": "Divyanshi Choudhary has come to terms with her removal from the Asian Games wushu squad after an injury, as her federation put her health first. Now prioritising her fitness, she aims for future triumphs with gold medals in sight. Additionally, she continues t…"
+          "summary": "Larry Ellison cancelled his Oracle stock sale plan shortly after its disclosure. No shares were sold under the arrangement which was set to expire later this year. This plan would have allowed the sale of fifty million Oracle shares. The cancellation highlight…"
         },
         {
-          "title": "Mark Zuckerberg on how engineers made him return to Musk's X after 3 years in 2026",
+          "title": "‘Open to it’: Mike Hesson eyes Pakistan Test role as Afridi makes red-ball return",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/id-be-open-to-it-mike-hesson-eyes-pakistan-test-role-as-shaheen-afridi-makes-red-ball-return/articleshow/134180063.cms",
+          "date": "13 Sep 2026",
+          "summary": "Mike Hesson has shown interest in assuming a permanent position as Pakistan's Test coach. Shaheen Afridi emphasised that red-ball cricket is his primary focus. Hesson recognises the untapped potential within Pakistan's Test setup for future advancements. Afrid…"
+        },
+        {
+          "title": "'Bittu Tabahi' finds dog carcasses, medical waste near Turahalli forest in Bengaluru",
+          "link": "https://timesofindia.indiatimes.com/city/bengaluru/i-was-stunned-bittu-tabahi-finds-dog-carcasses-medical-waste-at-turahalli-forest-in-bengaluru/articleshow/134171542.cms",
+          "date": "13 Sep 2026",
+          "summary": "Madhya Pradesh activist Bittu Tabahi joined a Bengaluru clean-up drive for the first time. He was stunned by the extensive poultry, domestic, and medical waste found. Volunteers removed over two tonnes of garbage from the Turahalli forest periphery. Environmen…"
+        },
+        {
+          "title": "England's Stokes retirement, McCullum exit, Carse row &amp; Root return end in 3-0 sweep",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/a-very-unusual-summer-englands-ben-stokes-retirement-mccullum-exit-carse-controversy-and-roots-return-end-in-3-0-pakistan-sweep/articleshow/134183986.cms",
+          "date": "13 Sep 2026",
+          "summary": "England triumphed with a commanding 3-0 Test series win against Pakistan, with returning captain Joe Root commending the team's ability to adapt amidst significant turmoil. The players showcased impressive resilience and execution, building on the foundation s…"
+        },
+        {
+          "title": "Google just moved 90 people out of DeepMind, and staff are asking why",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/starting-september-google-is-moving-ai-responsibility-team-out-of-google-deepmind-heres-what-vp-helen-king-told-employees-in-an-email/articleshow/134176201.cms",
+          "date": "13 Sep 2026",
+          "summary": "Google is moving its roughly 90-person AI responsibility team out of Google DeepMind and into its global affairs organisation, the division that handles policy and lobbying. The shift, starting in September, is part of a wider reorganisation that folds DeepMin…"
+        },
+        {
+          "title": "Rahul, Priyanka Gandhi meet Malaysian PM Anwar Ibrahim over breakfast",
+          "link": "https://timesofindia.indiatimes.com/india/rahul-priyanka-gandhi-meet-malaysian-pm-anwar-ibrahim-over-breakfast/articleshow/134186061.cms",
+          "date": "13 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "David Letterman bought a 2,700-acre Montana ranch to escape celebrity life",
+          "link": "https://timesofindia.indiatimes.com/world/us/in-1999-david-letterman-bought-a-2700-acre-montana-ranch-after-avoiding-celebrity-country-he-says-the-property-has-buffalo-horses-barbed-wire-and-weeds/articleshow/134183665.cms",
+          "date": "13 Sep 2026",
+          "summary": "David Letterman owns a 2,700-acre ranch in Montana that he bought in 1999, along with properties in Indiana and upstate New York. The former late-night host has spoken about leaving behind the pressures of show business and returning to Indiana with his family…"
+        },
+        {
+          "title": "PM Modi, Putin, Xi join world leaders at Bharat Mandapam for family photo - Video",
+          "link": "https://timesofindia.indiatimes.com/india/brics-summit-day-2-pm-modi-putin-xi-join-world-leaders-at-bharat-mandapam-for-family-photo-video/articleshow/134180848.cms",
+          "date": "13 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "Mark Zuckerberg is back on Elon Musk's X after three years, and it is not personal",
           "link": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-returned-to-elon-musks-x-after-three-years-in-2026-meta-ceo-tells-its-these-engineers-and-researchers-who-made-him-do-it/articleshow/134147562.cms",
           "date": "12 Sep 2026",
           "summary": "In 2026, Mark Zuckerberg made a surprising return to Elon Musk's social network X, seizing the opportunity to unveil Meta's latest AI innovation, Muse. By engaging with specific engineering talent and researchers on X, Zuckerberg aims to leverage diverse onlin…"
         },
         {
-          "title": "EC meets both TMC factions amid their 'real party' claims",
-          "link": "https://timesofindia.indiatimes.com/india/ec-meets-both-tmc-factions-amid-their-real-party-claims/articleshow/134156501.cms",
+          "title": "'Still selecting Kohli &amp; Rohit': Ex-cricketer makes big statement on Shami's India snub",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/still-selecting-virat-kohli-and-rohit-sharma-aakash-chopra-makes-big-statement-on-mohammed-shamis-india-snub/articleshow/134179456.cms",
+          "date": "13 Sep 2026",
+          "summary": "Former India cricketer Aakash Chopra said age is not the only reason Shami is out of the Indian team"
+        },
+        {
+          "title": "Quote Of the day by Bruce Lee",
+          "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-bruce-lee-when-i-look-around-i-always-learn-something-and-that-is-to-be-always-yourself-start-from-the-very-root-of-your-being-which-is-how-can-i-be-me-life-lesson-on-staying-true-to-yourself-instead-of-copying-others-from-enter-the-dragon-star/articleshow/134185591.cms",
+          "date": "13 Sep 2026",
+          "summary": "Bruce Lee's teachings illuminate a journey toward self-awareness and genuineness. His philosophy advocates for individuals to shed imitation and embrace their authentic selves, a message that resonates strongly even in today's age of social media comparisons.…"
+        },
+        {
+          "title": "Nighttime light exposure may change heart structure and function, study finds",
+          "link": "https://timesofindia.indiatimes.com/etimes/wellness/nighttime-light-exposure-may-change-heart-structure-and-function-study-finds-what-to-know/articleshow/134184508.cms",
+          "date": "13 Sep 2026",
+          "summary": "A new investigation has unveiled that nighttime exposure to artificial lighting can transform heart structure over extended periods. Increased light during the night is linked to a heightened likelihood of heart failure and strokes. It causes small but signifi…"
+        },
+        {
+          "title": "Mumbai’s ‘serial cat killer’ arrested , confesses to killing over 6",
+          "link": "https://timesofindia.indiatimes.com/city/mumbai/mumbais-serial-cat-killer-arrested-confesses-to-killing-over-6/articleshow/134179594.cms",
+          "date": "13 Sep 2026",
+          "summary": "Police arrested a homeless man named Shiva for killing several cats. He confessed to killing more than six cats in the Panjrapol area. CCTV footage helped police identify and apprehend the accused individual. Local cat feeders reported at least twenty cats kil…"
+        },
+        {
+          "title": "Brics embraces AI but leaves job displacement largely unaddressed",
+          "link": "https://timesofindia.indiatimes.com/india/brics-embraces-ai-but-leaves-job-displacement-largely-unaddressed/articleshow/134180934.cms",
           "date": "13 Sep 2026",
           "summary": ""
         },
         {
-          "title": "RBI rejects Tata Sons' bid to stay private, directs listing",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/rbi-rejects-tata-sons-bid-to-stay-private-directs-listing/articleshow/134163398.cms",
+          "title": "WTC points table: Where does India stand after England's 3-0 whitewash of Pakistan?",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/world-test-championship-points-table-where-does-india-stand-after-englands-3-0-whitewash-of-pakistan/articleshow/134175339.cms",
           "date": "13 Sep 2026",
-          "summary": "Tata Sons' bid to relinquish its core investment company registration has been turned down by the Reserve Bank of India, pushing the Tata Group's holding firm nearer to a public stock offering. Tata Trusts, the majority owner, aims to preserve the company's pr…"
+          "summary": "Pakistan’s tour ended on a disappointing note despite major changes before the final Test. The team made several changes to the playing squad and coaching staff ahead of the Edgbaston match, but the move did not change the outcome."
         },
         {
-          "title": "Harvard University has a 'September message' for all international students",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/harvard-university-has-a-september-message-for-all-international-students-planning-to-leave-america-as-well-as-those-staying-in-the-country/articleshow/134118705.cms",
+          "title": "Debt, poison and one blow each: New chilling details in Jaipur quadruple murder",
+          "link": "https://timesofindia.indiatimes.com/city/jaipur/kardhani-killings-one-blow-each-possible-poisoning-under-probe/articleshow/134143599.cms",
           "date": "12 Sep 2026",
-          "summary": "Harvard University has alerted international students about significant F-1 and J-1 visa rule changes. New Department of Homeland Security rules replace the duration of status system with fixed visa end dates. Students re-entering the US after September 15 wil…"
+          "summary": "Police investigate Rahul Jha for the Kardhani quadruple murder of his wife and daughters. Investigators suspect poison or sedatives may have incapacitated the victims first. Each victim reportedly sustained a single, forceful blow to the head. Mounting debt is…"
         },
         {
-          "title": "New No. 1 Elena Rybakina dethrones Aryna Sabalenka to win US Open title",
-          "link": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/new-no-1-elena-rybakina-dethrones-aryna-sabalenka-to-win-us-open-title/articleshow/134168521.cms",
+          "title": "Vikas Samudre's ‘I am committing suicide’ post sparks alarm; Mumbai Cyber Police actor",
+          "link": "https://timesofindia.indiatimes.com/entertainment/marathi/movies/news/marathi-actor-vikas-samudre-traced-by-mumbai-cyber-police-after-i-m-commiting-suicide-typo-error-in-post-raises-alarm/articleshow/134182597.cms",
           "date": "13 Sep 2026",
-          "summary": "Elena Rybakina triumphed at the US Open, claiming both the championship trophy and the prestigious world number one ranking. In a thrilling showdown against Aryna Sabalenka, Rybakina showcased exceptional skill and poise, winning her third Grand Slam and secon…"
+          "summary": "A typo in Marathi actor Vikas Samudre's Facebook post appeared to suggest suicidal intent, alarming Mumbai Cyber Police on Friday night. A team traced him within an hour. Samudre clarified he was safe and the post related to a drama project. Known for 'Navra M…"
         },
         {
-          "title": "After Trump renames Lake Ontario, Republican wants Lake Erie renamed too",
-          "link": "https://timesofindia.indiatimes.com/world/us/after-trump-renamed-lake-ontario-lake-america-a-pennsylvania-republican-now-wants-lake-erie-renamed-lake-pennsylvania/articleshow/134048308.cms",
-          "date": "11 Sep 2026",
-          "summary": "US President Donald Trump has signed an executive order directing federal agencies to rename Lake Ontario as “Lake America” on US maps, documents and databases. Canada has rejected the move, while several US governors have also said they will continue calling…"
+          "title": "PM Modi positions Brics as an inclusive, not anti-west, forum",
+          "link": "https://timesofindia.indiatimes.com/india/modi-global-south-must-shape-not-just-follow-rules/articleshow/134158493.cms",
+          "date": "13 Sep 2026",
+          "summary": "Prime Minister Modi opened the Brics summit, demanding urgent United Nations Security Council reforms. He stressed transforming global governance from privilege to partnership for developing nations. Modi proposed Brics draft ten proposals for inclusive global…"
         },
         {
-          "title": "Steve Jobs bought a 30-room mansion in 1984; it was demolished in 201",
-          "link": "https://timesofindia.indiatimes.com/real-estate/news/in-1984-steve-jobs-bought-a-30-room-17250-sq-ft-california-mansion-after-years-of-legal-battles-it-was-demolished-in-2011-while-its-pipe-organ-and-historic-fixtures-were-salvaged/articleshow/134126048.cms",
-          "date": "12 Sep 2026",
+          "title": "Three years before 9/11, CIA warned Clinton that Bin Laden wanted to strike India",
+          "link": "https://timesofindia.indiatimes.com/india/three-years-before-9/11-cia-warned-clinton-that-bin-laden-wanted-to-strike-india/articleshow/134176092.cms",
+          "date": "13 Sep 2026",
           "summary": ""
         },
         {
-          "title": "Elon Musk's Cybercab rollout puts US safety rules to test as NHTSA audits 1,000 cars",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musks-cybercab-has-no-steering-wheel-pedals-or-mirrors-us-safety-regulators-open-audit-of-about-1000-cars-over-teslas-self-certification/articleshow/134066366.cms",
-          "date": "11 Sep 2026",
-          "summary": "Tesla's new Cybercab robotaxis are now operating in Texas without traditional controls. The National Highway Traffic Safety Administration has opened an audit of these vehicles. US safety regulations were primarily designed for human-driven cars. Tesla's strat…"
-        },
-        {
-          "title": "Woman scolds youth for offering seat to elderly on train, video sparks row",
-          "link": "https://timesofindia.indiatimes.com/life-style/travel/this-is-what-their-mothers-have-taught-them-woman-confronts-youth-in-indore-dewas-train-coach-after-he-offers-seat-to-elderly-man-video-sparks-debate-online/articleshow/134107326.cms",
-          "date": "12 Sep 2026",
-          "summary": "In a viral video, a woman challenges a young man aboard a bustling train, igniting a heated exchange about his upbringing. As tensions rise, the young man maintains his composure, responding thoughtfully to her aggressive remarks. This incident has ignited a f…"
-        },
-        {
-          "title": "‘Pace the frontier’: Anthropic CEO gets Musk, Altman backing on AI safety",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-ceo-dario-amodei-calls-on-ai-firms-to-slow-pace-of-developmen-gets-backing-from-sam-altman-elon-musk/articleshow/134146825.cms",
-          "date": "12 Sep 2026",
-          "summary": "Anthropic CEO Dario Amodei calls for slowing AI development pace. He warns unchecked progress risks human understanding and control of powerful systems. OpenAI CEO Sam Altman and Tesla chief Elon Musk support this urgent call. Recent AI testing revealed concer…"
-        },
-        {
-          "title": "25 years after 9/11, al-Qaida and terror camps have returned to Afghanistan: US",
-          "link": "https://timesofindia.indiatimes.com/world/us/25-years-after-9/11-al-qaida-and-terror-camps-have-returned-to-afghanistan-us/articleshow/134131985.cms",
-          "date": "12 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "Oscar-winning film producer Jeremy Thomas passes away at 77",
-          "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oscar-winning-the-last-emperor-film-producer-jeremy-thomas-passes-away-at-77/articleshow/134170971.cms",
+          "title": "Iran, Oman agree on details of Strait of Hormuz's new entry, exit routes: Report",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/iran-oman-agree-on-details-of-new-entry-and-exit-routes-for-strait-of-hormuz-says-report/articleshow/134177579.cms",
           "date": "13 Sep 2026",
-          "summary": "The film industry mourns the loss of veteran producer Jeremy Thomas, who has passed away in his home. Renowned for his extraordinary work on timeless films such as The Last Emperor, Thomas's dedication spanned over fifty years and earned him nine Academy Award…"
+          "summary": ""
         },
         {
           "title": "Travis Kelce’s $5.35m mansion: Why are neighbours worried about lake views?",
@@ -310,70 +352,28 @@
           "summary": "Cristiano Ronaldo’s former Cheshire estate was listed for about $7.4 million in 2023 but later saw its asking price fall to $6.7 million. The 23-acre property has a seven-bedroom mansion, indoor pool, gym, cinema, tennis and padel courts. Ronaldo moved there a…"
         },
         {
-          "title": "India to get another major DRDO missile testing range in Bengal",
-          "link": "https://timesofindia.indiatimes.com/india/india-to-get-another-major-drdo-missile-testing-range-in-bengal/articleshow/134161810.cms",
+          "title": "India wrestling faces a new test after generations of Asian Games glory",
+          "link": "https://timesofindia.indiatimes.com/sports/asian-games-2026/grappling-with-legacy-india-wrestling-faces-a-new-test-after-generations-of-asian-games-glory/articleshow/134175484.cms",
           "date": "13 Sep 2026",
-          "summary": "India is embarking on a pivotal project with the establishment of a new weapon and missile testing range in Junput, West Bengal. This state-of-the-art facility will complement the existing range in Chandipur, Odisha, marking the DRDO's third significant site.…"
+          "summary": "From 1954 Manila to 2022 Hangzhou, generations of Indian wrestlers have built a proud Asian Games legacy. Now, heading to Aichi-Nagoya, Indian wrestling will strive to overcome pre-Games doping setbacks and mount an emphatic medal charge."
         },
         {
-          "title": "Meghalaya CM Sangma calls on guv amid reports of 8 UDP MLAs planning to join BJP",
-          "link": "https://timesofindia.indiatimes.com/city/guwahati/conrad-calls-on-guv-amid-reports-of-8-udp-mlas-planning-to-join-bjp/articleshow/134148275.cms",
-          "date": "12 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "Bumrah, Sooryavanshi on Afghanistan's radar: Ibrahim Zadran reveals plans",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/jasprit-bumrah-vaibhav-sooryavanshi-on-afghanistans-radar-ibrahim-zadran-reveals-plans/articleshow/134143658.cms",
-          "date": "13 Sep 2026",
-          "summary": "Jasprit Bumrah is set to return to international cricket after missing matches due to a left knee injury. His return gives India another major option with the ball, but Zadran said Afghanistan will not make things complicated while facing the star pacer."
-        },
-        {
-          "title": "Brics opposes unilateral trade steps like EU carbon border tax",
-          "link": "https://timesofindia.indiatimes.com/india/brics-opposes-unilateral-trade-steps-like-eu-carbon-border-tax/articleshow/134158775.cms",
-          "date": "13 Sep 2026",
-          "summary": "In a united front, BRICS countries protested against the EU's carbon border adjustment mechanism, deeming it unfair. They underscored the importance of energy security alongside a pragmatic approach toward climate goals, making it clear that fossil fuels remai…"
-        },
-        {
-          "title": "PIO missing in Nepal; help denied as he holds Indian passport: UK MP",
-          "link": "https://timesofindia.indiatimes.com/world/uk/pio-missing-in-nepal-help-denied-as-he-holds-indian-passport-uk-mp/articleshow/134166737.cms",
+          "title": "Indonesia launches search for 140 after ship carrying over 240 loses contact",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/ship-carrying-over-240-missing-in-indonesia-after-contact-lost-in-java-sea/articleshow/134174251.cms",
           "date": "13 Sep 2026",
           "summary": ""
         },
         {
-          "title": "HDFC Bank sends names of 2 CEO candidates to RBI",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/hdfc-bank-sends-names-of-2-ceo-candidates-to-rbi/articleshow/134163788.cms",
+          "title": "How PM Modi's meeting with Iran President facilitated Brics declaration",
+          "link": "https://timesofindia.indiatimes.com/india/brics-hammers-out-joint-declaration-after-india-bridges-iran-uae-chasm/articleshow/134153102.cms",
           "date": "13 Sep 2026",
-          "summary": "HDFC Bank has presented two candidates to the RBI for the upcoming role of managing director and CEO. The board has also sanctioned the promotion of Jimmy Tata to executive director while seeking an extension for V Srinivasa Rangan. This move will elevate the…"
+          "summary": "Following intense late-night negotiations, Brics nations have come together to issue a joint declaration addressing vital issues, including the protection of civilian and peaceful nuclear sites. The leaders reiterated the critical role of constructive dialogue…"
         },
         {
-          "title": "Global nutrition experts back FSSAI warning labels, seek stricter rules",
-          "link": "https://timesofindia.indiatimes.com/india/global-nutrition-experts-back-fssai-warning-labels-seek-stricter-rules/articleshow/134161131.cms",
+          "title": "'In-laws may kill me': Noida woman’s last call before husband pushes from terrace",
+          "link": "https://timesofindia.indiatimes.com/city/noida/man-pushes-wife-to-death-from-terrace-of-noida-house-over-rs-30-lakh-dowry-held/articleshow/134151300.cms",
           "date": "13 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "Brics Summit: Malaysia, Ethiopia seek stronger defence cooperation with India",
-          "link": "https://timesofindia.indiatimes.com/india/malaysia-ethiopia-seek-stronger-defence-cooperation-with-india/articleshow/134165678.cms",
-          "date": "13 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "After raid on PA, ex-Uttarakhand CM Harish Rawat wants to quit Cong posts",
-          "link": "https://timesofindia.indiatimes.com/city/dehradun/want-to-quit-posts-not-cong-party-is-my-blood-bones-harish-rawat-after-ed-raid-on-aide/articleshow/134146985.cms",
-          "date": "12 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "Sebi for changes to CAS timing, derivatives settlement prices",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/sebi-for-changes-to-cas-timing-derivatives-settlement-prices/articleshow/134159679.cms",
-          "date": "13 Sep 2026",
-          "summary": "Sebi has put forth new proposals aimed at modifying the Closing Auction Session timings and derivatives pricing. Following the recent launch of the session, traders have noted an uptick in market volatility. The regulator is evaluating two potential options fo…"
-        },
-        {
-          "title": "Maratha quota activist Jarange's Mumbai march to clash with Ganesh festival",
-          "link": "https://timesofindia.indiatimes.com/city/aurangabad/will-start-mumbai-march-on-sept-15-launch-indefinite-fast-at-azad-maidan-on-sept-20-jarange/articleshow/134152663.cms",
-          "date": "13 Sep 2026",
-          "summary": "Maratha quota activist Manoj Jarange’s Mumbai march to clash with Ganesh festival"
+          "summary": "A husband was arrested for allegedly pushing his wife to death from their home. Unmet dowry demands of thirty lakh rupees and a car fueled the dispute. The wife had reportedly called her brother fearing for her life before the incident. She later died from inj…"
         }
       ]
     },
@@ -1152,6 +1152,12 @@
       "ok": true,
       "items": [
         {
+          "title": "Sam Bankman-Fried, Former Crypto Billionaire, Appeals His Conviction To the US Supreme Court",
+          "link": "https://yro.slashdot.org/story/26/09/12/2151206/sam-bankman-fried-former-crypto-billionaire-appeals-his-conviction-to-the-us-supreme-court?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "13 Sep 2026",
+          "summary": "America's highest court heard Sam Bankman-Fried's request for a new trial on Thursday, CNN reports. But they add that \"the former crypto mogul who was convicted of defrauding investors by secretly diverting billions of dollars of their money\" also asked Americ…"
+        },
+        {
           "title": "Anthropic CEO Dario Amodei Calls For AI Slowdown",
           "link": "https://slashdot.org/story/26/09/12/1738240/anthropic-ceo-dario-amodei-calls-for-ai-slowdown?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "13 Sep 2026",
@@ -1234,12 +1240,6 @@
           "link": "https://science.slashdot.org/story/26/09/11/068223/boy-developed-toasted-skin-condition-from-using-a-laptop-every-day?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "11 Sep 2026",
           "summary": "A medical report published earlier this week says a boy in the U.K. developed erythema ab igne, or \"toasted skin syndrome,\" after resting a laptop on his abdomen for up to eight hours a day, often while it was charging. \"The marks were described as being in a…"
-        },
-        {
-          "title": "August Was World's Joint-Hottest Month On Record, Scientists Say",
-          "link": "https://news.slashdot.org/story/26/09/11/060244/august-was-worlds-joint-hottest-month-on-record-scientists-say?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "11 Sep 2026",
-          "summary": "Longtime Slashdot reader AmiMoJo shares a report from the BBC: August was the joint-hottest month ever recorded, tying with July 2023, according to the EU's climate service. The record was driven by a combination of climate change and the rising influence of E…"
         }
       ]
     },
@@ -1569,184 +1569,184 @@
       "ok": true,
       "items": [
         {
-          "title": "telefeeds-sdk added to PyPI",
-          "link": "https://pypi.org/project/telefeeds-sdk/",
+          "title": "zora-cli added to PyPI",
+          "link": "https://pypi.org/project/zora-cli/",
           "date": "13 Sep 2026",
-          "summary": "Async Python SDK and Pyrogram-compatible client for Telefeeds"
+          "summary": "Cryptographically secure generator of random keys with tons of options and customizations."
         },
         {
-          "title": "mcplint-sec added to PyPI",
-          "link": "https://pypi.org/project/mcplint-sec/",
+          "title": "orca-auto-workflows added to PyPI",
+          "link": "https://pypi.org/project/orca-auto-workflows/",
           "date": "13 Sep 2026",
-          "summary": "Local-first, CI-native security scanner for MCP servers — OWASP MCP Top 10 rules, lockfile and AIBOM. Never executes your MCP servers."
+          "summary": "Optional CREST, xTB and multi-stage workflow extension for ORCA_auto"
         },
         {
-          "title": "pitono-lang added to PyPI",
-          "link": "https://pypi.org/project/pitono-lang/",
+          "title": "orca-auto added to PyPI",
+          "link": "https://pypi.org/project/orca-auto/",
           "date": "13 Sep 2026",
-          "summary": "A multilingual Python wrapper for the Pitono compiler, bridging localized programming dialects (Spanish, Chinese, Hindi, German, and more) with native cross-lingual text translation and runtime execution pipelines."
+          "summary": "ORCA_auto core: durable ORCA queues and supervised execution"
         },
         {
-          "title": "switchboard-agents added to PyPI",
-          "link": "https://pypi.org/project/switchboard-agents/",
+          "title": "neos-triage added to PyPI",
+          "link": "https://pypi.org/project/neos-triage/",
           "date": "13 Sep 2026",
-          "summary": "A shared coordination board for AI coding agents driven by different people"
+          "summary": "Triage structured event streams by exact law. No model in the decision."
         },
         {
-          "title": "agent-yadogae added to PyPI",
-          "link": "https://pypi.org/project/agent-yadogae/",
+          "title": "socket-lm added to PyPI",
+          "link": "https://pypi.org/project/socket-lm/",
           "date": "13 Sep 2026",
-          "summary": "Move a project directory and take its Claude Code, Codex and Antigravity CLI history with it."
+          "summary": "A training-speed-focused LoRA/PEFT library offering four parameter-efficient fine-tuning methods (LoRA, ReFT, LiteLadder, GaLore)"
         },
         {
-          "title": "coloph-install-skills added to PyPI",
-          "link": "https://pypi.org/project/coloph-install-skills/",
+          "title": "avito-mcp-ru added to PyPI",
+          "link": "https://pypi.org/project/avito-mcp-ru/",
           "date": "13 Sep 2026",
-          "summary": "Install agent skills bundled with local development dependencies"
+          "summary": "API Авито для ИИ-ассистентов: объявления и статистика, чаты с покупателями, заказы и Авито Доставка, автозагрузка, продвижение, отзывы"
         },
         {
-          "title": "baiduan-router added to PyPI",
-          "link": "https://pypi.org/project/baiduan-router/",
+          "title": "floe-ai added to PyPI",
+          "link": "https://pypi.org/project/floe-ai/",
           "date": "13 Sep 2026",
-          "summary": "Route prompts across multiple leading AI models through a single MCP server"
+          "summary": "Optimize & observe your agent infrastructure."
         },
         {
-          "title": "tldrapi added to PyPI",
-          "link": "https://pypi.org/project/tldrapi/",
+          "title": "flowlit-integration added to PyPI",
+          "link": "https://pypi.org/project/flowlit-integration/",
           "date": "13 Sep 2026",
-          "summary": "Official Python SDK for the TLDRapi summarization API. Summarize text at 5 quality tiers with 20+ built-in voice styles."
+          "summary": "Reusable flowlit executors (Harvest, Google Sheets, Gmail, Slack, spreadsheets) and their shared credentials abstraction, for any flowlit-based client."
         },
         {
-          "title": "osmem-server added to PyPI",
-          "link": "https://pypi.org/project/osmem-server/",
+          "title": "taxaforge added to PyPI",
+          "link": "https://pypi.org/project/taxaforge/",
           "date": "13 Sep 2026",
-          "summary": "In-memory OpenSearch-compatible server for tests (osmem-server launcher, pytest fixtures)"
+          "summary": "CLI tool to build taxonomic classifier databases (Kraken2, ganon2, ...) with a single command"
         },
         {
-          "title": "settleflow added to PyPI",
-          "link": "https://pypi.org/project/settleflow/",
+          "title": "tlsurl added to PyPI",
+          "link": "https://pypi.org/project/tlsurl/",
           "date": "13 Sep 2026",
-          "summary": "Open-source UPI settlement reconciliation: gateway payout file vs bank credit, with Tally/GST/TDS-1035 workpapers. Stdlib-only core."
+          "summary": "Rust-powered HTTP client with native Python bindings"
         },
         {
-          "title": "subnx added to PyPI",
-          "link": "https://pypi.org/project/subnx/",
+          "title": "captain-barbossa added to PyPI",
+          "link": "https://pypi.org/project/captain-barbossa/",
           "date": "13 Sep 2026",
-          "summary": "High-concurrency event-driven network framework and SDK"
+          "summary": "Launch a native captain and crew inside a Herdr workspace"
         },
         {
-          "title": "securespoon added to PyPI",
-          "link": "https://pypi.org/project/securespoon/",
+          "title": "mrnavax added to PyPI",
+          "link": "https://pypi.org/project/mrnavax/",
           "date": "13 Sep 2026",
-          "summary": "Python client for the SecureSpoon governed control plane."
+          "summary": "Practical Python tools for the AI-leverage layers in mRNA cancer therapy."
         },
         {
-          "title": "elia-insta added to PyPI",
-          "link": "https://pypi.org/project/elia-insta/",
+          "title": "contextsynapse added to PyPI",
+          "link": "https://pypi.org/project/contextsynapse/",
           "date": "13 Sep 2026",
-          "summary": "Instagram info, search, and email check"
+          "summary": "ContextSynapse — the shared brain for AI agents — ingest knowledge, build connections, deliver context to any LLM"
         },
         {
-          "title": "echoact added to PyPI",
-          "link": "https://pypi.org/project/echoact/",
+          "title": "iporigin added to PyPI",
+          "link": "https://pypi.org/project/iporigin/",
           "date": "13 Sep 2026",
-          "summary": "Local Korean/English speech generation for the desktop"
+          "summary": "Is this IP a datacenter, VPN, Tor exit or a home connection? Offline lookup, no API key."
         },
         {
-          "title": "riftpoint added to PyPI",
-          "link": "https://pypi.org/project/riftpoint/",
+          "title": "campfire-cli added to PyPI",
+          "link": "https://pypi.org/project/campfire-cli/",
           "date": "13 Sep 2026",
-          "summary": "High-performance multiversal checkpointer for LangGraph powered by Janus-Tachyon-RS"
+          "summary": "Local-first shared context and governance CLI for humans and agents"
         },
         {
-          "title": "surface-plasmon-model added to PyPI",
-          "link": "https://pypi.org/project/surface-plasmon-model/",
+          "title": "agentic-evals added to PyPI",
+          "link": "https://pypi.org/project/agentic-evals/",
           "date": "13 Sep 2026",
-          "summary": "Python tools for modeling surface plasmon polaritons at metal-dielectric interfaces"
+          "summary": "A standalone, framework-agnostic evaluation and scoring engine for LLM/agent outputs — extracted from AgenticLens's evaluation module."
         },
         {
-          "title": "mfai-viewer added to PyPI",
-          "link": "https://pypi.org/project/mfai-viewer/",
+          "title": "italian-energy added to PyPI",
+          "link": "https://pypi.org/project/italian-energy/",
           "date": "13 Sep 2026",
-          "summary": "Write and upload the MODFLOW AI web viewer snapshot of a MODFLOW 6 model that was run with FloPy"
+          "summary": "Deterministic, domain-first models for comparing Italian electricity offers."
         },
         {
-          "title": "token-runtime added to PyPI",
-          "link": "https://pypi.org/project/token-runtime/",
+          "title": "akko-mcp-trino-openmetadata added to PyPI",
+          "link": "https://pypi.org/project/akko-mcp-trino-openmetadata/",
           "date": "13 Sep 2026",
-          "summary": "Quality-preserving local context optimization runtime for LLM clients"
+          "summary": "OpenMetadata context provider for akko-mcp-trino: descriptions, owners, tiers, PII classifications and keys, handed to the agent alongside the columns."
         },
         {
-          "title": "shinyreact added to PyPI",
-          "link": "https://pypi.org/project/shinyreact/",
+          "title": "pydep-service added to PyPI",
+          "link": "https://pypi.org/project/pydep-service/",
           "date": "13 Sep 2026",
-          "summary": "Shiny UI infrastructure for React-based component rendering"
+          "summary": "Deploy FastAPI applications as persistent NSSM Windows Services"
         },
         {
-          "title": "bluejet added to PyPI",
-          "link": "https://pypi.org/project/bluejet/",
+          "title": "quantsmind added to PyPI",
+          "link": "https://pypi.org/project/quantsmind/",
           "date": "13 Sep 2026",
-          "summary": "Add your description here"
+          "summary": "QuantsMind SDK - a universal, vendor-independent scientific computing SDK."
         },
         {
-          "title": "openglcontext-forest-demo added to PyPI",
-          "link": "https://pypi.org/project/openglcontext-forest-demo/",
+          "title": "hexaqual added to PyPI",
+          "link": "https://pypi.org/project/hexaqual/",
           "date": "13 Sep 2026",
-          "summary": "Walkable forest demo for OpenGLContext: real-DEM splat terrain with GPU-instanced tree/grass LOD."
+          "summary": "Universal Python quality gates, architectural boundary enforcement, and release engineering toolchain."
         },
         {
-          "title": "vsmbfs added to PyPI",
-          "link": "https://pypi.org/project/vsmbfs/",
+          "title": "surestop added to PyPI",
+          "link": "https://pypi.org/project/surestop/",
           "date": "13 Sep 2026",
-          "summary": "VFSI fsspec filesystem backed by the vectorized vsmb client"
+          "summary": "Stop bad runs early, with a conformal bound on how often you stop one that would have ended well"
         },
         {
-          "title": "job2apply added to PyPI",
-          "link": "https://pypi.org/project/job2apply/",
+          "title": "harnessguard added to PyPI",
+          "link": "https://pypi.org/project/harnessguard/",
           "date": "13 Sep 2026",
-          "summary": "Veille d'offres d'emploi et preparation de candidatures adaptees"
+          "summary": "Static hardening linter for GitHub Actions workflows that run AI agents — Agent Rule of Two, OWASP ASI mapping. Never executes anything."
         },
         {
-          "title": "cisco-eox-query added to PyPI",
-          "link": "https://pypi.org/project/cisco-eox-query/",
+          "title": "krutiextract added to PyPI",
+          "link": "https://pypi.org/project/krutiextract/",
           "date": "13 Sep 2026",
-          "summary": "Python client for the Cisco End-of-Life (EOX) API"
+          "summary": "A universal toolkit for extracting legacy Hindi PDFs (KrutiDev/Devlys/Chanakya) to Markdown"
         },
         {
-          "title": "vsmb added to PyPI",
-          "link": "https://pypi.org/project/vsmb/",
+          "title": "mjbatch-uni added to PyPI",
+          "link": "https://pypi.org/project/mjbatch-uni/",
           "date": "13 Sep 2026",
-          "summary": "Low-level VFSI vectorized SMB2/3 client for Python"
+          "summary": "A Python library for running thousands of MuJoCo simulations in parallel on CPU (unilabsim fork)."
         },
         {
-          "title": "PyOpenGL-glut-binaries added to PyPI",
-          "link": "https://pypi.org/project/pyopengl-glut-binaries/",
+          "title": "nl2pbip added to PyPI",
+          "link": "https://pypi.org/project/nl2pbip/",
           "date": "13 Sep 2026",
-          "summary": "Prebuilt Windows freeglut and GLE libraries for PyOpenGL"
+          "summary": "Natural Language to Power BI Project generator"
         },
         {
-          "title": "vfsi-fsspec added to PyPI",
-          "link": "https://pypi.org/project/vfsi-fsspec/",
+          "title": "django-jazzmin-addons added to PyPI",
+          "link": "https://pypi.org/project/django-jazzmin-addons/",
           "date": "13 Sep 2026",
-          "summary": "Shared fsspec engine for VFSI vectorized filesystem backends"
+          "summary": "Django-jazzmin addons and custom templates for django applications"
         },
         {
-          "title": "reflex-monocharts added to PyPI",
-          "link": "https://pypi.org/project/reflex-monocharts/",
+          "title": "lunartrace added to PyPI",
+          "link": "https://pypi.org/project/lunartrace/",
           "date": "13 Sep 2026",
-          "summary": "Monochromatic, rounded chart cards for Reflex - a Python port of the Monocharts design system built on rx.recharts."
+          "summary": "Reproducible event-conditioned lunar observation studies"
         },
         {
-          "title": "yamaa added to PyPI",
-          "link": "https://pypi.org/project/yamaa/",
+          "title": "wb-privacy-search-mcp added to PyPI",
+          "link": "https://pypi.org/project/wb-privacy-search-mcp/",
           "date": "13 Sep 2026",
-          "summary": "Python helpers for the YAMAA clinical data specification"
+          "summary": "隐私搜索 MCP 连接器（聚合搜索+隐私保护）"
         },
         {
-          "title": "mediainfogui added to PyPI",
-          "link": "https://pypi.org/project/mediainfogui/",
+          "title": "wb-wps-office-mcp added to PyPI",
+          "link": "https://pypi.org/project/wb-wps-office-mcp/",
           "date": "13 Sep 2026",
-          "summary": "GUI for MediaInfo data - Qt6, GTK3 and GTK4"
+          "summary": "WPS 本地办公 MCP 连接器（Word/Excel/PPT/PDF 处理）"
         }
       ]
     }
