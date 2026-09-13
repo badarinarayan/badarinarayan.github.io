@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-13T19:07:50Z",
+  "generated": "2026-09-13T21:57:58Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -196,8 +196,86 @@
       "ok": true,
       "items": [
         {
+          "title": "India women's team refuses to take Asia Cup trophy from Mohsin Naqvi",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/india-womens-team-refuses-asia-cup-trophy-from-mohsin-naqvi-after-title-win/articleshow/134220894.cms",
+          "date": "14 Sep 2026",
+          "summary": "India captain Harmanpreet Kaur and her teammates were seen celebrating after their record-extending eighth Women's Asia Cup title. However, the Indian team did not collect the trophy from Naqvi during the presentation ceremony. The ceremony ended with Sri Lank…"
+        },
+        {
+          "title": "Brics 2026: Xi listening, PM Modi warns against weaponisation of minerals, tech",
+          "link": "https://timesofindia.indiatimes.com/india/brics-day-2-pm-flags-critical-minerals-tech-weaponisation-amid-global-tensions/articleshow/134220477.cms",
+          "date": "14 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "Oil infra hit by Ukraine, Russia gets 70% of its fuel from India",
+          "link": "https://timesofindia.indiatimes.com/business/international-business/oil-infra-hit-by-ukraine-russia-gets-70-of-its-fuel-from-india/articleshow/134223885.cms",
+          "date": "14 Sep 2026",
+          "summary": "August marked a milestone for Russia as it imported record levels of oil products, with Indian exports accounting for nearly seventy percent. The gasoline supplied by India was produced from Russian crude at a shared refinery. While India remains the second-la…"
+        },
+        {
+          "title": "‘Some regional countries requested’: Iran after meeting with Gulf states in Oman postponed",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/some-regional-countries-requested-iran-after-meeting-with-gulf-states-in-oman-postponed/articleshow/134224097.cms",
+          "date": "14 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "Sweden election deadlocked between ruling bloc and centre-left opposition, exit polls show",
+          "link": "https://timesofindia.indiatimes.com/world/europe/sweden-election-deadlocked-as-ruling-bloc-centre-left-opposition-vie-for-power-exit-polls-show/articleshow/134226934.cms",
+          "date": "14 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "Mark Zuckerberg's secret project wanted Meta teams 60% smaller and run by AI agents",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/meta-ceo-mark-zuckerberg-ran-a-secret-project-to-make-the-company-ai-native-asked-teams-to-study-impact-of-/articleshow/134212125.cms",
+          "date": "13 Sep 2026",
+          "summary": "Mark Zuckerberg ran a secret plan called Project OT to make Meta \"AI native\", with executives studying scenarios that cut some team sizes by up to 60%. The Meta layoffs of May 2026 removed 8,000 jobs, but a second November wave was scrapped after employee prot…"
+        },
+        {
+          "title": "Mayawati refutes illness claims, appears before media to dispel doubts",
+          "link": "https://timesofindia.indiatimes.com/city/lucknow/maya-refutes-illness-claims-appears-before-media-to-dispel-doubts/articleshow/134220351.cms",
+          "date": "14 Sep 2026",
+          "summary": "Hits Out At Akash Anand, Says Acting On Advice Of His Father-in-law"
+        },
+        {
+          "title": "Bijnor’s herbal tea makes a splash at Brics dinner",
+          "link": "https://timesofindia.indiatimes.com/city/meerut/bijnors-herbal-tea-makes-a-splash-at-brics-dinner/articleshow/134215782.cms",
+          "date": "13 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "Jeff Bezos’ ex-wife MacKenzie Scott gives $60 million to global methane fight",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-ex-wife-mackenzie-scott-gives-60-million-to-global-methane-fight-as-cutting-the-invisible-gas-becomes-a-climate-priority/articleshow/134063334.cms",
+          "date": "11 Sep 2026",
+          "summary": ""
+        },
+        {
           "title": "Is UK heading for breakup? Scotland, Wales and Northern Ireland push for independence",
           "link": "https://timesofindia.indiatimes.com/world/uk/is-uk-heading-for-a-breakup-scotland-wales-and-northern-ireland-push-for-independence/articleshow/134201489.cms",
+          "date": "13 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "189 years after import, possums damage half of trees in rare New Zealand forest",
+          "link": "https://timesofindia.indiatimes.com/science/wildlife/in-1837-new-zealand-imported-possums-for-a-fur-trade-189-years-later-aerial-photos-show-they-have-damaged-about-half-the-vulnerable-trees-in-one-rare-south-island-forest/articleshow/134070581.cms",
+          "date": "14 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "Israel released 28 wild donkeys in desert; 44 years later, they created an oasis",
+          "link": "https://timesofindia.indiatimes.com/science/nature/in-1982-israel-released-28-wild-donkeys-to-its-desert-44-years-later-they-created-an-oasis-in-one-of-earths-most-extreme-places/articleshow/134048769.cms",
+          "date": "11 Sep 2026",
+          "summary": "In an effort to rejuvenate the parched landscape of Israel's Ramon Crater, wild donkeys were brought back into the ecosystem. These resilient animals played a crucial role by creating waterholes, which became essential for desert wildlife. Additionally, their…"
+        },
+        {
+          "title": "Anthropic researcher says humanity's future decided on 'MacBooks of engineers'",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/27-year-old-anthropic-researcher-who-quit-ai-industry-says-the-biggest-decisions-on-humanitys-future-are-being-taken-on-the-macbooks-of-some-engineers-living-in-san-francisco-instead-of-/articleshow/134185883.cms",
+          "date": "13 Sep 2026",
+          "summary": "Anthropic researcher Jacob Coxon has quit the AI industry, saying OpenAI and Anthropic are racing to self-improving superintelligence and gambling with our lives. His post, now past 155 million views, has pulled two more AI safety researchers out of Anthropic…"
+        },
+        {
+          "title": "Australian couple built Tasmania home from recycled bottles for $880,000",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/priced-out-of-melbourne-an-australian-couple-bought-1-5-hectares-in-tasmania-for-330000-in-2022-they-began-a-recycled-bottle-earthship-and-completed-the-home-nearly-three-years-later-for-880000/articleshow/134186770.cms",
           "date": "13 Sep 2026",
           "summary": ""
         },
@@ -214,22 +292,22 @@
           "summary": ""
         },
         {
-          "title": "India avenge 2024 final defeat, beat Sri Lanka to lift 8th Asia Cup title",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/harmanpreets-india-avenge-2024-final-defeat-beat-sri-lanka-by-72-runs-to-lift-eighth-womens-asia-cup-title/articleshow/134217047.cms",
-          "date": "13 Sep 2026",
-          "summary": "In an exhilarating final, India Women clinched the Women's T20 Asia Cup title by overcoming Sri Lanka. Shafali Verma and Smriti Mandhana stood out, crafting a robust opening partnership that propelled India’s score. The bowlers shone, especially Shree Charani,…"
-        },
-        {
           "title": "The Uranium rush: Inside India's scramble to fuel its nuclear ambitions",
           "link": "https://timesofindia.indiatimes.com/india/the-uranium-rush-inside-indias-scramble-to-fuel-its-nuclear-ambitions/articleshow/134206216.cms",
           "date": "13 Sep 2026",
           "summary": "India is securing uranium fuel for its ambitious nuclear expansion program. Uzbekistan, Australia, and Canada are key partners in this global fuel hunt. New domestic laws allow private companies to build nuclear power plants. This move creates significant dema…"
         },
         {
-          "title": "Mark Zuckerberg's secret project wanted Meta teams 60% smaller and run by AI agents",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/meta-ceo-mark-zuckerberg-ran-a-secret-project-to-make-the-company-ai-native-asked-teams-to-study-impact-of-/articleshow/134212125.cms",
+          "title": "How Travis Kelce turned his $3.13M rookie deal into a business empire",
+          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/how-travis-kelce-turned-a-3-13m-rookie-contract-into-investments-in-tequila-pancake-mix-and-a-theme-park/articleshow/134186269.cms",
           "date": "13 Sep 2026",
-          "summary": "Mark Zuckerberg ran a secret plan called Project OT to make Meta \"AI native\", with executives studying scenarios that cut some team sizes by up to 60%. The Meta layoffs of May 2026 removed 8,000 jobs, but a second November wave was scrapped after employee prot…"
+          "summary": "Travis Kelce has successfully diversified his interests beyond the football field. Co-owning Garage Beer and investing in Casa Azul Tequila Soda are just the start. Collaborating with Jana Partners for a stake in Six Flags and joining an investment group for t…"
+        },
+        {
+          "title": "How Trinity Rodman escaped Dennis Rodman’s shadow to build her own legacy",
+          "link": "https://timesofindia.indiatimes.com/sports/international-sports/inspiring-story-of-the-day-having-a-dad-with-a-big-name-doesnt-do-the-work-for-you-how-trinity-rodman-rose-above-dennis-rodmans-shadow-lived-in-motels-and-built-her-own-soccer-legacy/articleshow/134166555.cms",
+          "date": "13 Sep 2026",
+          "summary": "Trinity Rodman’s journey goes far beyond soccer. As a child, she lived with her mother and brother in a car and motels during a difficult period. Her mother, Michelle Moyer, became her biggest support and role model. Today, Trinity is an Olympic champion, NWSL…"
         },
         {
           "title": "Brics diplomacy: Iran president says Tehran, UAE want to 'turn the page' on war",
@@ -244,15 +322,15 @@
           "summary": "Ladakh's Lieutenant Governor announced compensation for four protesters killed last September. An ex gratia of Rs 3 lakh for major injuries and Rs 1 lakh for minor injuries was also approved. This follows demonstrations demanding statehood and constitutional s…"
         },
         {
+          "title": "India avenge 2024 final defeat, beat Sri Lanka to lift 8th Asia Cup title",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/harmanpreets-india-avenge-2024-final-defeat-beat-sri-lanka-by-72-runs-to-lift-eighth-womens-asia-cup-title/articleshow/134217047.cms",
+          "date": "13 Sep 2026",
+          "summary": "In an exhilarating final, India Women clinched the Women's T20 Asia Cup title by overcoming Sri Lanka. Shafali Verma and Smriti Mandhana stood out, crafting a robust opening partnership that propelled India’s score. The bowlers shone, especially Shree Charani,…"
+        },
+        {
           "title": "Inside Martha Stewart’s 152-acre New York farm with 100 chickens",
           "link": "https://timesofindia.indiatimes.com/world/us/in-2000-martha-stewart-bought-a-152-acre-new-york-farmhouse-26-years-later-the-horse-farm-has-100-chickens-and-11-pheasants-after-she-added-13-chickens-and-a-silver-pheasant/articleshow/134190837.cms",
           "date": "13 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "Jeff Bezos’ ex-wife MacKenzie Scott gives $60 million to global methane fight",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-ex-wife-mackenzie-scott-gives-60-million-to-global-methane-fight-as-cutting-the-invisible-gas-becomes-a-climate-priority/articleshow/134063334.cms",
-          "date": "11 Sep 2026",
           "summary": ""
         },
         {
@@ -260,30 +338,6 @@
           "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/abhishek-sharmas-22-ball-fifty-arshdeeps-three-for-lead-india-to-seven-wicket-win-over-afghanistan-in-1st-t20i/articleshow/134215096.cms",
           "date": "13 Sep 2026",
           "summary": "India dominated the first T20I, achieving a decisive seven-wicket victory over Afghanistan. The highlight was Abhishek Sharma, whose explosive 82 runs from 32 balls led the charge against a target of 156 set by Afghanistan, despite their recovery efforts from…"
-        },
-        {
-          "title": "Reed Hastings invests $300 million in Utah ski resort expansion",
-          "link": "https://timesofindia.indiatimes.com/world/us/in-2023-reed-hastings-invested-100-million-to-become-majority-owner-of-utahs-powder-mountain-he-is-now-spending-another-200-million-as-the-resort-expands-public-and-private-skiing/articleshow/134067158.cms",
-          "date": "13 Sep 2026",
-          "summary": "Reed Hastings is transforming Utah's Powder Mountain ski resort after a significant investment. He is combining public skiing access with an exclusive private residential community. New lifts and luxury amenities are being added to enhance both operations. Thi…"
-        },
-        {
-          "title": "Memphis stage where Elvis played first paid concert still hosts shows 90 years on",
-          "link": "https://timesofindia.indiatimes.com/world/us/in-1936-memphis-built-overton-park-shell-for-14000-18-years-later-elvis-played-his-first-paid-concert-there-and-90-years-on-the-stage-is-still-hosting-shows/articleshow/134215761.cms",
-          "date": "13 Sep 2026",
-          "summary": "Memphis's Overton Park Shell, a significant landmark built amidst the Great Depression, proudly celebrates its ninetieth anniversary. Known for hosting Elvis Presley's inaugural paid show in 1954, this venue escaped demolition thanks to community efforts. Now…"
-        },
-        {
-          "title": "Anthropic researcher says humanity's future decided on 'MacBooks of engineers'",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/27-year-old-anthropic-researcher-who-quit-ai-industry-says-the-biggest-decisions-on-humanitys-future-are-being-taken-on-the-macbooks-of-some-engineers-living-in-san-francisco-instead-of-/articleshow/134185883.cms",
-          "date": "13 Sep 2026",
-          "summary": "Anthropic researcher Jacob Coxon has quit the AI industry, saying OpenAI and Anthropic are racing to self-improving superintelligence and gambling with our lives. His post, now past 155 million views, has pulled two more AI safety researchers out of Anthropic…"
-        },
-        {
-          "title": "At 100, Barbara Haig still drives her Mustang, putting caution before age",
-          "link": "https://timesofindia.indiatimes.com/world/us/at-100-atlantas-barbara-haig-still-drives-her-white-ford-mustang-she-says-caution-not-age-will-determine-how-long-she-stays-behind-the-wheel/articleshow/134151981.cms",
-          "date": "13 Sep 2026",
-          "summary": ""
         },
         {
           "title": "South Korea eyes nuclear submarines to counter North Korea",
@@ -304,18 +358,6 @@
           "summary": "Rinat Kara embarked on a remarkable journey to lose seventy kilograms in order to donate a kidney to her husband, Meir, who faced severe complications from diabetes. Through a paired exchange program, Rinat's kidney was given to a stranger, while Meir received…"
         },
         {
-          "title": "How Travis Kelce turned his $3.13M rookie deal into a business empire",
-          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/how-travis-kelce-turned-a-3-13m-rookie-contract-into-investments-in-tequila-pancake-mix-and-a-theme-park/articleshow/134186269.cms",
-          "date": "13 Sep 2026",
-          "summary": "Travis Kelce has successfully diversified his interests beyond the football field. Co-owning Garage Beer and investing in Casa Azul Tequila Soda are just the start. Collaborating with Jana Partners for a stake in Six Flags and joining an investment group for t…"
-        },
-        {
-          "title": "How Trinity Rodman escaped Dennis Rodman’s shadow to build her own legacy",
-          "link": "https://timesofindia.indiatimes.com/sports/international-sports/inspiring-story-of-the-day-having-a-dad-with-a-big-name-doesnt-do-the-work-for-you-how-trinity-rodman-rose-above-dennis-rodmans-shadow-lived-in-motels-and-built-her-own-soccer-legacy/articleshow/134166555.cms",
-          "date": "13 Sep 2026",
-          "summary": "Trinity Rodman’s journey goes far beyond soccer. As a child, she lived with her mother and brother in a car and motels during a difficult period. Her mother, Michelle Moyer, became her biggest support and role model. Today, Trinity is an Olympic champion, NWSL…"
-        },
-        {
           "title": "Quote of the day by Judi Dench",
           "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-judi-dench-it-takes-courage-to-recognise-the-real-as-opposed-to-the-convenient-a-powerful-life-lesson-explaining-that-it-takes-ultimate-strength-to-face-an-uncomfortable-truth/articleshow/134195326.cms",
           "date": "13 Sep 2026",
@@ -332,48 +374,6 @@
           "link": "https://timesofindia.indiatimes.com/city/surat/food-scare-at-surat-boarding-school-75-students-fall-ill-12-hospitalised/articleshow/134208239.cms",
           "date": "13 Sep 2026",
           "summary": "At least seventy-five students fell sick with suspected food poisoning at a Surat boarding school. Twelve students required hospitalization after developing symptoms like diarrhoea and vomiting. Four students have since been discharged, while others remain in…"
-        },
-        {
-          "title": "3-year-old’s ‘asthma’ cough was a warning sign of a fatal heart condition",
-          "link": "https://timesofindia.indiatimes.com/health/3-year-old-girl-dies-after-persistent-cough-turns-out-to-be-fatal-heart-condition-doctor-explains-when-parents-should-worry-about-more-than-asthma/articleshow/134193340.cms",
-          "date": "13 Sep 2026",
-          "summary": "A young girl's persistent cough led to the discovery of a serious heart condition. Doctors advise parents to seek evaluation for prolonged coughs and fatigue. Heart issues can mimic respiratory problems, requiring careful medical assessment. Clinical examinati…"
-        },
-        {
-          "title": "51 wides! Arshdeep Singh creates big unwanted record in India vs Afghanistan 1st T20I",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/51-wides-arshdeep-singh-creates-big-unwanted-record-in-india-vs-afghanistan-1st-t20i/articleshow/134213034.cms",
-          "date": "13 Sep 2026",
-          "summary": "Arshdeep Singh's 51 wides accounted for 7.4% of all the balls he bowled during the period. Renegades' R Ngarava and West Indies' Jason Holder follow with 38 wides each, while New Zealand's Jacob Duffy and West Indies' Romario Shepherd have bowled 36 each."
-        },
-        {
-          "title": "India builds Brics without breaking up with US",
-          "link": "https://timesofindia.indiatimes.com/world/us/india-builds-brics-without-breaking-up-with-us/articleshow/134209422.cms",
-          "date": "13 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "Fed, crude, dollar and Iran war: 4 factors that could move gold next week",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/fed-crude-dollar-and-iran-war-4-factors-that-could-move-gold-next-week/articleshow/134212022.cms",
-          "date": "13 Sep 2026",
-          "summary": "Gold and silver prices are expected to remain volatile next week. The US Federal Reserve's interest rate decision will be a key global event. Crude oil movements and the US dollar will also influence market sentiment. Other central banks' monetary policy and i…"
-        },
-        {
-          "title": "'Unacceptable': India condemns attack on commercial vessel off Oman, 13 Indians rescued",
-          "link": "https://timesofindia.indiatimes.com/india/unacceptable-india-condemns-attack-on-commercial-vessel-off-oman-13-indians-rescued/articleshow/134203824.cms",
-          "date": "13 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "Mamata's TMC faction names candidates for Nandigram, Rejinagar bypolls in Bengal",
-          "link": "https://timesofindia.indiatimes.com/india/mamatas-tmc-faction-names-candidates-for-nandigram-rejinagar-bypolls-in-bengal/articleshow/134209845.cms",
-          "date": "13 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "After IND vs AFG first, ‘Vande Mataram’ set to become regular before India matches",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/national-song-vande-mataram-played-before-india-vs-afghanistan-in-a-first-for-national-team/articleshow/134208336.cms",
-          "date": "13 Sep 2026",
-          "summary": "The national song Vande Mataram was sung before the India vs Afghanistan cricket match on Sunday. Parliament had recently passed a bill making insults to the national song a punishable offense. The full six-stanza version of Vande Mataram was sung during the r…"
         }
       ]
     },
@@ -1569,184 +1569,184 @@
       "ok": true,
       "items": [
         {
-          "title": "django-sslwireless-sms added to PyPI",
-          "link": "https://pypi.org/project/django-sslwireless-sms/",
+          "title": "rutt added to PyPI",
+          "link": "https://pypi.org/project/rutt/",
           "date": "13 Sep 2026",
-          "summary": "Django integration for the SSL Wireless ISMS Plus SMS API v3: single, bulk, dynamic and secure OTP messages."
+          "summary": "Compact RUTT text format"
         },
         {
-          "title": "ipycrdt added to PyPI",
-          "link": "https://pypi.org/project/ipycrdt/",
+          "title": "bidoytu added to PyPI",
+          "link": "https://pypi.org/project/bidoytu/",
           "date": "13 Sep 2026",
-          "summary": "A bridge to Yjs running in the browser"
+          "summary": "An intercepting HTTP proxy tool built with PySide6 and mitmproxy."
         },
         {
-          "title": "ctx-packr added to PyPI",
-          "link": "https://pypi.org/project/ctx-packr/",
+          "title": "performance-optimizer added to PyPI",
+          "link": "https://pypi.org/project/performance-optimizer/",
           "date": "13 Sep 2026",
-          "summary": "A stdlib-only CLI that packs the most relevant files of a codebase into a token-budgeted markdown bundle"
+          "summary": "Ultra-fast zero-dependency static performance analyzer for Angular, React, Node.js, SQL, and AWS."
         },
         {
-          "title": "metrics-mexico added to PyPI",
-          "link": "https://pypi.org/project/metrics-mexico/",
+          "title": "islkit added to PyPI",
+          "link": "https://pypi.org/project/islkit/",
           "date": "13 Sep 2026",
-          "summary": "A curated collection of Mexico-related datasets for data analysis, economic research, and education. Includes population statistics, salary levels, international rankings, government budgets, trade data, stock market data, airport traffic, earthquakes, and env…"
+          "summary": "Indian Sign Language recognition from MediaPipe landmarks: features, a dual-branch TCN, and a live recognition service"
         },
         {
-          "title": "django-altcha-widget added to PyPI",
-          "link": "https://pypi.org/project/django-altcha-widget/",
+          "title": "markdown-gost added to PyPI",
+          "link": "https://pypi.org/project/markdown-gost/",
           "date": "13 Sep 2026",
-          "summary": "Django form field and widget for the ALTCHA proof-of-work CAPTCHA."
+          "summary": "Markdown to GOST 7.32 DOCX/PDF converter with an HTML preview engine"
         },
         {
-          "title": "ai-model-router-gateway added to PyPI",
-          "link": "https://pypi.org/project/ai-model-router-gateway/",
+          "title": "ninja-devx added to PyPI",
+          "link": "https://pypi.org/project/ninja-devx/",
           "date": "13 Sep 2026",
-          "summary": "OpenAI-compatible API gateway that routes each request to the best, cheapest, or fastest LLM across providers, with automatic fallback, semantic cache, guardrails, and per-request cost tracking."
+          "summary": "Developer productivity toolkit for Django Ninja: typed controllers, CRUD, permissions, layers, DI and tooling"
         },
         {
-          "title": "coshape added to PyPI",
-          "link": "https://pypi.org/project/coshape/",
+          "title": "roku-smarthome added to PyPI",
+          "link": "https://pypi.org/project/roku-smarthome/",
           "date": "13 Sep 2026",
-          "summary": "Shape-preserving 1-D spline interpolation: concavity- and monotonicity-preserving C2 splines"
+          "summary": "Unofficial Python client for Roku Smart Home plugs, bulbs and cameras (status and control)."
         },
         {
-          "title": "geo-ham added to PyPI",
-          "link": "https://pypi.org/project/geo-ham/",
+          "title": "kyolo added to PyPI",
+          "link": "https://pypi.org/project/kyolo/",
           "date": "13 Sep 2026",
-          "summary": "A simple library for targetted for ham radio operators for grid square calculations."
+          "summary": "kyolo: the YOLO object-detection family (v5-v26) in pure Keras 3, with PyTorch weight conversion."
         },
         {
-          "title": "multisensor-lmb-filters-rs added to PyPI",
-          "link": "https://pypi.org/project/multisensor-lmb-filters-rs/",
+          "title": "podpack-pdf added to PyPI",
+          "link": "https://pypi.org/project/podpack-pdf/",
           "date": "13 Sep 2026",
-          "summary": "Multi-object tracking with Labeled Multi-Bernoulli filters"
+          "summary": "PDF booklet-imposition and page-splitting tools as an installable Flask app"
         },
         {
-          "title": "chromectl added to PyPI",
-          "link": "https://pypi.org/project/chromectl/",
+          "title": "kein-slop added to PyPI",
+          "link": "https://pypi.org/project/kein-slop/",
           "date": "13 Sep 2026",
-          "summary": "A friendly CLI for driving Chrome over the DevTools Protocol — for agents and humans."
+          "summary": "A deterministic Python linter for code that leaves types, states, and failures unnamed."
         },
         {
-          "title": "aegis-sandbox added to PyPI",
-          "link": "https://pypi.org/project/aegis-sandbox/",
+          "title": "dbworker added to PyPI",
+          "link": "https://pypi.org/project/dbworker/",
           "date": "13 Sep 2026",
-          "summary": "MCP-layer policy proxy with a tamper-evident audit trail"
+          "summary": "Database-backed coordination for process workers."
         },
         {
-          "title": "runprint added to PyPI",
-          "link": "https://pypi.org/project/runprint/",
+          "title": "chromonic added to PyPI",
+          "link": "https://pypi.org/project/chromonic/",
           "date": "13 Sep 2026",
-          "summary": "Run anything. Capture everything needed to reproduce it."
+          "summary": "Experimental POC: domonic DOM/CSSOM backed browser"
         },
         {
-          "title": "py-dogify added to PyPI",
-          "link": "https://pypi.org/project/py-dogify/",
+          "title": "chile-open-data-sdk added to PyPI",
+          "link": "https://pypi.org/project/chile-open-data-sdk/",
           "date": "13 Sep 2026",
-          "summary": "Package full of useful decorators (py-@ify)"
+          "summary": "An unofficial, typed Python SDK for Chile's datos.gob.cl and CKAN Action API"
         },
         {
-          "title": "fred-loader added to PyPI",
-          "link": "https://pypi.org/project/fred-loader/",
+          "title": "portable-memory added to PyPI",
+          "link": "https://pypi.org/project/portable-memory/",
           "date": "13 Sep 2026",
-          "summary": "A Python wrapper around the Federal Reserve FRED API that abstracts away series IDs, resampling rules, and macro scoring behind a clean, human-readable interface."
+          "summary": "Portable Memory — open, vendor-neutral .mem format for AI memory. Export, import/merge, verify, and provably delete AI memory across vendors (Python reference SDK)."
         },
         {
-          "title": "revit-model-mcp added to PyPI",
-          "link": "https://pypi.org/project/revit-model-mcp/",
+          "title": "endpointsweep added to PyPI",
+          "link": "https://pypi.org/project/endpointsweep/",
           "date": "13 Sep 2026",
-          "summary": "MCP access to live Autodesk Revit models, read-only by default with opt-in actions"
+          "summary": "Fleet-scale discovery and audit of MCP servers and agentic AI tooling across an endpoint fleet."
         },
         {
-          "title": "data2dsl added to PyPI",
-          "link": "https://pypi.org/project/data2dsl/",
+          "title": "whatsnewt added to PyPI",
+          "link": "https://pypi.org/project/whatsnewt/",
           "date": "13 Sep 2026",
-          "summary": "Evidence-first deterministic data comparison and observation normalization layer"
+          "summary": "A TUI text adventure through what's new in Python 3.15"
         },
         {
-          "title": "diff-dsl added to PyPI",
-          "link": "https://pypi.org/project/diff-dsl/",
+          "title": "comfyui-open-manager added to PyPI",
+          "link": "https://pypi.org/project/comfyui-open-manager/",
           "date": "13 Sep 2026",
-          "summary": "DSL complementarity analysis library — compares wellmanifest.dsl/manifest/v1 manifests"
+          "summary": "An alternative package manager for ComfyUI. Browse and install custom nodes and custom themes."
         },
         {
-          "title": "inttools added to PyPI",
-          "link": "https://pypi.org/project/inttools/",
+          "title": "dynamic-image-encryption added to PyPI",
+          "link": "https://pypi.org/project/dynamic-image-encryption/",
           "date": "13 Sep 2026",
-          "summary": "A beginner-friendly Python library for integer operations"
+          "summary": "Research-oriented dynamic byte-level image and NIfTI encryption library."
         },
         {
-          "title": "openbtk added to PyPI",
-          "link": "https://pypi.org/project/openbtk/",
+          "title": "phishing-url-detector added to PyPI",
+          "link": "https://pypi.org/project/phishing-url-detector/",
           "date": "13 Sep 2026",
-          "summary": "The open-source layer between biomedical data and modern AI: de-identified, auditable, model-ready inputs with clinical guardrails."
+          "summary": "A Machine Learning based Python package for detecting phishing URLs using URL-based features."
         },
         {
-          "title": "text2dsl added to PyPI",
-          "link": "https://pypi.org/project/text2dsl/",
+          "title": "netload added to PyPI",
+          "link": "https://pypi.org/project/netload/",
           "date": "13 Sep 2026",
-          "summary": "text2dsl - Multi-language voice and text interaction framework for developer tools (Make, Git, Docker) using a DSL layer with context-aware suggestions and LLM support."
+          "summary": "A lightweight Python parser for .net network files (PTV Visum / Simetra), with CSV, JSON and GeoJSON export."
         },
         {
-          "title": "tiktok-shadowban-checker added to PyPI",
-          "link": "https://pypi.org/project/tiktok-shadowban-checker/",
+          "title": "captcha-solver-api added to PyPI",
+          "link": "https://pypi.org/project/captcha-solver-api/",
           "date": "13 Sep 2026",
-          "summary": "Python SDK for the TikTok Shadow Ban Checker Apify actor — multi-signal shadow ban detection with health score, engagement rate and viral potential per video. Audit single videos or entire accounts. No TikTok API key required."
+          "summary": "Official Python SDK for solving reCAPTCHA v2/v3, Cloudflare Turnstile, GeeTest v3/v4, Yandex SmartCaptcha, Tencent, and image/click captchas via the Captcha Solver API"
         },
         {
-          "title": "woocommerce-store-analyzer added to PyPI",
-          "link": "https://pypi.org/project/woocommerce-store-analyzer/",
+          "title": "scistack-gui added to PyPI",
+          "link": "https://pypi.org/project/scistack-gui/",
           "date": "13 Sep 2026",
-          "summary": "Python SDK for the WooCommerce Store Analyzer Apify actor — revenue, traffic, brand age, 70+ plugins, tech stack, tracking IDs, dropshipper risk for any WooCommerce store."
+          "summary": "GUI for SciStack pipelines"
         },
         {
-          "title": "local-lead-finder added to PyPI",
-          "link": "https://pypi.org/project/local-lead-finder/",
+          "title": "shazam-history-exporter added to PyPI",
+          "link": "https://pypi.org/project/shazam-history-exporter/",
           "date": "13 Sep 2026",
-          "summary": "Python SDK for the Local Lead Finder Apify actor — find local businesses on YellowPages and auto-enrich every lead with a 0-100 lead score, website tech stack, real emails, phone E.164, chain detection, brand age, mobile + SEO audit, and an industry-specific o…"
+          "summary": "Export macOS Music Recognition history to CSV and JSON."
         },
         {
-          "title": "shopify-store-analyzer added to PyPI",
-          "link": "https://pypi.org/project/shopify-store-analyzer/",
+          "title": "claims-ledger added to PyPI",
+          "link": "https://pypi.org/project/claims-ledger/",
           "date": "13 Sep 2026",
-          "summary": "Python SDK for the Shopify Store Analyzer Apify actor — revenue, traffic, tech stack, brand age & dropshipper risk for any Shopify store."
+          "summary": "A checked claims ledger: entries that separate assertion, grounds, warrant and backing, hold every quotation to its source, and derive status from an append-only verdict list"
         },
         {
-          "title": "clapback-cli added to PyPI",
-          "link": "https://pypi.org/project/clapback-cli/",
+          "title": "ai-guidelines added to PyPI",
+          "link": "https://pypi.org/project/ai-guidelines/",
           "date": "13 Sep 2026",
-          "summary": "Search your own music by description, and find duplicates across formats and masters"
+          "summary": "Reproducible, safe management of reusable Markdown guidelines"
         },
         {
-          "title": "driver-inspector added to PyPI",
-          "link": "https://pypi.org/project/driver-inspector/",
+          "title": "softlora added to PyPI",
+          "link": "https://pypi.org/project/softlora/",
           "date": "13 Sep 2026",
-          "summary": "Trace hardware -> kernel driver -> device node on Linux. Great for debugging 'why isn't my board detected'."
+          "summary": "LoRa satellite receiver - sync, demodulate, and decode"
         },
         {
-          "title": "zephyr-zecode added to PyPI",
-          "link": "https://pypi.org/project/zephyr-zecode/",
+          "title": "credit_tools added to PyPI",
+          "link": "https://pypi.org/project/credit-tools/",
           "date": "13 Sep 2026",
-          "summary": "PowerShell-native ZeCode terminal client for Zephyr"
+          "summary": "Out-of-the-box credit functionalities (risk rating, scoring, and more)"
         },
         {
-          "title": "nesql added to PyPI",
-          "link": "https://pypi.org/project/nesql/",
+          "title": "ygo74-agent-runtime-mcp added to PyPI",
+          "link": "https://pypi.org/project/ygo74-agent-runtime-mcp/",
           "date": "13 Sep 2026",
-          "summary": "PostgreSQL's grammar, NEDB's memory — SQL with time travel, bi-temporal validity and causal provenance. Pre-release: name reserved, grammar vendored."
+          "summary": "MCP server hosting for the ygo74 agent runtime: transport, authentication and health"
         },
         {
-          "title": "catabolic added to PyPI",
-          "link": "https://pypi.org/project/catabolic/",
+          "title": "roboplan-oink added to PyPI",
+          "link": "https://pypi.org/project/roboplan-oink/",
           "date": "13 Sep 2026",
-          "summary": "Programmable media catalog with query-driven rules and safe output projections"
+          "summary": "OInK - Optimal Inverse Kinematics solver for RoboPlan."
         },
         {
-          "title": "attnview added to PyPI",
-          "link": "https://pypi.org/project/attnview/",
+          "title": "ygo74-agent-runtime-security added to PyPI",
+          "link": "https://pypi.org/project/ygo74-agent-runtime-security/",
           "date": "13 Sep 2026",
-          "summary": "A beautiful, notebook-first HTML explorer for transformer attention patterns."
+          "summary": "Security and authentication foundation of the ygo74 agent runtime"
         }
       ]
     }
