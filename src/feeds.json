@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-16T13:54:37Z",
+  "generated": "2026-09-16T17:52:25Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,18 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "Nithin Kamath says new UPI charges on investing, broking don’t make sense: 'I don't see how we can absorb this indefinitely'",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nithin-kamath-says-new-upi-charges-on-investing-broking-dont-make-sense-i-dont-see-how-we-can-absorb-this-indefinitely/articleshow/134280407.cms",
+          "date": "16 Sep 2026",
+          "summary": "Zerodha CEO Nithin Kamath said the new UPI MDR framework may not make economic sense for investing and broking, where customers can transfer funds without trading. He said brokers may struggle to absorb the costs indefinitely, particularly under quarterly sett…"
+        },
+        {
+          "title": "MFs deployed over Rs 8,800 crore in 18 IPOs in August: ESDS Software Solution, Molbio Diagnostics and more",
+          "link": "https://economictimes.indiatimes.com/mf/analysis/mfs-deployed-over-rs-8800-crore-in-18-ipos-in-august-esds-software-solution-molbio-diagnostics-and-more/slideshow/134281947.cms",
+          "date": "16 Sep 2026",
+          "summary": ""
+        },
         {
           "title": "Sensex rises 400 points, Nifty nears 23,250 as investors await Fed meeting outcome. What to expect?",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-400-points-nifty-nears-23250-as-investors-await-fed-meeting-outcome-what-to-expect/articleshow/134279785.cms",
@@ -30,18 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/yes-bank-shares-jump-4-as-citi-morgan-stanley-see-lender-as-key-beneficiary-of-new-upi-charges-earnings-boost-ahead/articleshow/134278712.cms",
           "date": "16 Sep 2026",
           "summary": "Yes Bank shares rose sharply on Wednesday after Citi and Morgan Stanley identified the lender as a key beneficiary of new MDR charges on select UPI transactions above Rs 2,000. Citi expects the lender and other banks to see an earnings boost, while Morgan Stan…"
-        },
-        {
-          "title": "Paytm shares jump 7% as Jefferies, other brokerages raise target prices and earnings estimates after new UPI charges",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/paytm-shares-jump-7-as-jefferies-other-brokerages-raise-target-prices-and-earnings-estimates-after-new-upi-charges/articleshow/134278132.cms",
-          "date": "16 Sep 2026",
-          "summary": "Paytm shares surged over 7% after brokerages raised target prices following the introduction of MDR on select UPI transactions above Rs 2,000. Jefferies, JM Financial and Emkay Global retained Buy ratings on the stock."
-        },
-        {
-          "title": "Paytm, MobiKwik, Pine Labs shares rally up to 6% after govt announces UPI fees above Rs 2,000. Why brokerages are bullish",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/paytm-mobikwik-pine-labs-shares-rally-up-to-6-after-govt-announces-upi-fees-above-rs-2000-why-brokerages-are-bullish/articleshow/134277476.cms",
-          "date": "16 Sep 2026",
-          "summary": "Paytm, MobiKwik and Pine Labs are likely to remain in focus after the government announced MDR on select UPI transactions above Rs 2,000. From October 15, merchants will pay a 0.4% fee on eligible P2M UPI transactions, capped at Rs 300 for payments of Rs 75,00…"
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -196,6 +196,150 @@
       "ok": true,
       "items": [
         {
+          "title": "Cabinet approves raising EPFO wage ceiling to Rs 25,000; why it matters",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/cabinet-approves-raising-epfo-wage-ceiling-from-rs-15000-to-rs-25000-all-you-need-to-know/articleshow/134284104.cms",
+          "date": "16 Sep 2026",
+          "summary": "The EPFO wage limit had remained unchanged between 2004 and 2014. It was raised to Rs 15,000 in September 2014. The latest decision follows the same approach of periodically updating the ceiling, with the new Rs 25,000 limit intended to account for wage growth…"
+        },
+        {
+          "title": "From Mecca's red line to the 'Gate of Tears': How US-Iran war is closing in on MBS",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/mecca-red-line-gate-of-tears-saudi-crown-prince-mbs-houthis-iran-us-war/articleshow/134284212.cms",
+          "date": "16 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "'Severe damage': Pak vessel limps back to harbour after collision with Indian warship",
+          "link": "https://timesofindia.indiatimes.com/india/pak-vessel-pns-hunain-damaged-after-collision-with-indian-warship-in-north-arabian-sea-returns-to-harbour/articleshow/134291641.cms",
+          "date": "16 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "Curtain falls on US-India cultural bridge as Kennedy Center shutters",
+          "link": "https://timesofindia.indiatimes.com/weather/us/sitar-sarod-and-shutdown-curtain-falls-on-a-us-india-cultural-bridge-as-kennedy-center-shutters/articleshow/134291523.cms",
+          "date": "16 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "100% tariff on India? Russia sanctions bill clears key hurdle, final House vote next",
+          "link": "https://timesofindia.indiatimes.com/business/international-business/100-tariff-on-india-russia-sanctions-bill-clears-key-hurdle-final-house-vote-next/articleshow/134292145.cms",
+          "date": "16 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "Why Mark Zuckerberg's wife's school was shut down despite $125 million in donations,",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerbergs-wife-priscilla-chan-founded-a-school-10-years-later-and-after-125-million-in-donation-board-voted-to-close-it-after-learning-that-/articleshow/134276310.cms",
+          "date": "16 Sep 2026",
+          "summary": "After ten years in operation, Priscilla Chan's Primary School in East Palo Alto has shut down. Supported by the Chan Zuckerberg Initiative, the school was designed to provide essential services for low-income families. However, despite substantial funding, stu…"
+        },
+        {
+          "title": "Xi suffered stroke &amp; fainted at Brics Summit, claims China Democracy Party chief",
+          "link": "https://timesofindia.indiatimes.com/india/xi-suffered-stroke-fainted-at-brics-summit-claims-china-democracy-party-chief-post-gets-community-note/articleshow/134292434.cms",
+          "date": "16 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "New Orleans turns 12 million pounds of glass into sand to rebuild wetlands",
+          "link": "https://timesofindia.indiatimes.com/world/us/in-2020-a-new-orleans-project-began-crushing-bottles-into-sand-six-years-later-it-has-diverted-12-million-pounds-of-glass-to-help-rebuild-shrinking-coastal-wetlands/articleshow/134280300.cms",
+          "date": "16 Sep 2026",
+          "summary": "In a groundbreaking initiative in New Orleans, discarded glass bottles are being turned into sand for coastal restoration. Known as Glass Half Full, this program has successfully redirected millions of pounds of glass from local landfills. Current research is…"
+        },
+        {
+          "title": "US limits visas for South African officials over discrimination against White minorities",
+          "link": "https://timesofindia.indiatimes.com/world/us/us-limits-visas-for-south-african-officials-over-discrimination-against-white-minorities/articleshow/134293367.cms",
+          "date": "16 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "'No Pak-China border': India tells Islamabad to drop 'theatrics', vacate territory",
+          "link": "https://timesofindia.indiatimes.com/india/theres-no-pak-china-boundary-india-tells-islamabad-to-drop-theatrics-vacate-occupied-territory/articleshow/134290325.cms",
+          "date": "16 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "He moved to US for work, missed ITR; taxman imposes Rs 8.9L penalty - what ITAT said",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/he-moved-to-the-us-for-a-job-and-forgot-to-file-his-india-itr-taxman-imposed-rs-8-29-lakh-penalty-but-itat-jaipur-cancelled-it-for-this-reason/articleshow/134292229.cms",
+          "date": "16 Sep 2026",
+          "summary": "The individual maintained that he had not deliberately attempted to evade tax. His case was that he had simply missed the ITR deadline while dealing with his relocation and new job in the US."
+        },
+        {
+          "title": "Meet Joey, rescue dog who found 3 people alive under earthquake rubble",
+          "link": "https://timesofindia.indiatimes.com/world/us/meet-joey-the-2-year-old-los-angeles-rescue-dog-credited-with-finding-3-people-alive-beneath-earthquake-rubble-is-now-up-for-a-national-hero-award/articleshow/134292647.cms",
+          "date": "16 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "5,000 gallons of diesel spill from New Jersey data centre into creek",
+          "link": "https://timesofindia.indiatimes.com/world/us/5000-gallons-of-diesel-spill-from-equinix-data-centre-in-secaucus-into-anderson-creek-cleanup-underway-in-new-jersey-meadowlands-hackensack-riverkeeper-seeks-natural-resource-damages/articleshow/134292773.cms",
+          "date": "16 Sep 2026",
+          "summary": "Cleanup is underway in New Jersey’s Meadowlands after about 5,000 gallons of diesel spilled from an Equinix data centre in Secaucus into Anderson Creek. Officials said the fuel was contained before reaching the Hackensack River. Hackensack Riverkeeper Bill She…"
+        },
+        {
+          "title": "Salesforce CEO joins AI safety debate and may have agreed with Microsoft’s version",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/salesforce-ceo-marc-benioff-joins-ai-safety-debate-and-may-have-agreed-with-microsofts-version/articleshow/134290390.cms",
+          "date": "16 Sep 2026",
+          "summary": "Marc Benioff, the CEO of Salesforce, is advocating for the responsible advancement of artificial intelligence. He expressed concerns about the potential dangers of AI echoing the regrets of social media's evolution. Benioff highlighted the critical role develo…"
+        },
+        {
+          "title": "Washington couple spent $300,000 on home plans; state wants 44 acres surrendered",
+          "link": "https://timesofindia.indiatimes.com/world/us/a-washington-couple-claims-they-spent-nearly-300000-to-build-a-home-on-their-family-land-after-years-of-permits-and-studies-the-state-demands-they-surrender-44-acres-before-construction-can-begin/articleshow/134282297.cms",
+          "date": "16 Sep 2026",
+          "summary": "Tyler Chambers embarked on an ambitious journey to construct his dream home in Washington. Investing nearly $300,000 into regulatory requirements and necessary studies, he was soon met with neighbor complaints that triggered additional demands. These included…"
+        },
+        {
+          "title": "Ravindra Jadeja returns to ODI squad, Dhruv Jurel pips Rishabh Pant; Rohit Sharma stays",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/ravindra-jadeja-returns-to-odi-squad-dhruv-jurel-pips-rishabh-pant-rohit-sharma-stays/articleshow/134291088.cms",
+          "date": "16 Sep 2026",
+          "summary": "India has unveiled its teams for the highly anticipated home series against the West Indies. Shubman Gill will take charge of the One Day International squad, while Shreyas Iyer has been named captain of the Twenty20 International team. Additionally, the Rest…"
+        },
+        {
+          "title": "Saudi in need, friend Pak missing in 'deed': Islamabad faces ultimate Mecca pact test",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/saudi-in-need-friend-pakistan-missing-in-deed-islamabad-faces-mecca-pact-test-with-iran-looming/articleshow/134288519.cms",
+          "date": "16 Sep 2026",
+          "summary": "Saudi Arabia said on Wednesday that it had intercepted a Houthi drone heading towards Mecca, calling the security of Islam's holiest city a 'red line'. The Houthis flatly denied targeting Mecca and, in the same round of escalation, claimed to have shot down a…"
+        },
+        {
+          "title": "Watch: Paratrooper makes unique tandem jump with combat canine, handler",
+          "link": "https://timesofindia.indiatimes.com/defence/news/paws-in-the-sky-paratrooper-makes-unique-tandem-jump-with-combat-canine-handler-video/articleshow/134291314.cms",
+          "date": "16 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "Travis Kelce’s $200M Six Flags bet: Why did he invest in a company $5.3B in debt?",
+          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/how-travis-kelce-bet-200-million-on-a-struggling-theme-park-chain-with-5-3-billion-in-debt/articleshow/134282898.cms",
+          "date": "16 Sep 2026",
+          "summary": "In a bold move, activist investor Jana Partners and Travis Kelce, renowned NFL player, have secured a stake in Six Flags, addressing challenges like substantial debt and recent changes in leadership following a merger. Driven by personal nostalgia and a commit…"
+        },
+        {
+          "title": "Aryna Sabalenka loses No. 1 and US Open: How did Elena Rybakina take over?",
+          "link": "https://timesofindia.indiatimes.com/sports/international-sports/aryna-sabalenkas-nightmare-deepens-as-elena-rybakina-takes-both-us-open-title-and-no-1-ranking-within-72-hours/articleshow/134261071.cms",
+          "date": "16 Sep 2026",
+          "summary": "Aryna Sabalenka endured a painful end to her US Open campaign, losing both the world No. 1 ranking and the title within 72 hours. Elena Rybakina first secured the top ranking before defeating Sabalenka 6-4, 5-7, 6-2 in the final. The loss left Sabalenka withou…"
+        },
+        {
+          "title": "ECI schedules Sept 17 hearing with rebel TMC delegation over party representation",
+          "link": "https://timesofindia.indiatimes.com/india/eci-schedules-september-17-hearing-with-rebel-tmc-delegation-over-party-representation/articleshow/134292297.cms",
+          "date": "16 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "'Govt can't subsidise everything': Niti VC's 'bees &amp; honey' defence for UPI charges",
+          "link": "https://timesofindia.indiatimes.com/india/govt-cant-subsidise-everything-niti-aayog-vcs-bees-and-honey-take-on-upi-charges/articleshow/134290065.cms",
+          "date": "16 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "UPI still free, but there's a catch: Who ultimately pays &amp; could cash make a comeback?",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/upi-still-free-but-theres-a-catch-how-new-mdr-works-could-cash-payments-make-a-comeback/articleshow/134285783.cms",
+          "date": "16 Sep 2026",
+          "summary": "Recent updates to UPI regulations have introduced a Merchant Discount Rate for certain transactions. While consumers will not incur any fees for their UPI payments, merchants will face a 0.4% charge on transactions above two thousand rupees. However, person-to…"
+        },
+        {
+          "title": "From bravado to busted bases: Hidden cost of US-Iran war revealed",
+          "link": "https://timesofindia.indiatimes.com/world/us/from-bravado-to-busted-bases-hidden-cost-of-us-iran-war-revealed/articleshow/134290064.cms",
+          "date": "16 Sep 2026",
+          "summary": ""
+        },
+        {
           "title": "'Nothing aggressive': Worried Pak rushes to define Mecca pact after Houthi attacks",
           "link": "https://timesofindia.indiatimes.com/world/pakistan/it-is-defensive-nothing-aggressive-pak-scrambles-to-define-mecca-pact-after-houthi-attack/articleshow/134285705.cms",
           "date": "16 Sep 2026",
@@ -214,166 +358,22 @@
           "summary": "Aaditya Thackeray denied meeting Disha Salian, calling allegations a false campaign. The CBI has registered an FIR into Salian's 2020 death following a court order. Salian died after falling from a building, and Sushant Singh Rajput died a week later. The inve…"
         },
         {
+          "title": "Hyderabad man dies in US; family seeks EAM Jaishankar’s help to bring back body",
+          "link": "https://timesofindia.indiatimes.com/world/us/hyderabad-man-dies-in-us-family-seeks-eam-jaishankars-help-to-bring-back-body/articleshow/134290748.cms",
+          "date": "16 Sep 2026",
+          "summary": ""
+        },
+        {
           "title": "Indian warship rammed by Pak vessel: How grey-zone tactics are entering Arabian Sea",
           "link": "https://timesofindia.indiatimes.com/defence/news/indian-warship-rammed-by-pakistani-naval-vessel-how-grey-zone-tactics-are-entering-the-arabian-sea/articleshow/134283156.cms",
           "date": "16 Sep 2026",
           "summary": "A Pakistani Navy ship collided with an Indian Navy vessel in the Northern Arabian Sea. The Indian Navy stated the Pakistani ship maneuvered unsafely, causing the collision. This incident contravenes mutual confidence-building measures between the two nations.…"
         },
         {
-          "title": "In 2018, Salesforce CEO called Facebook ‘new cigarette’, he has a similar warning",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/in-2018-salesforce-ceo-marc-benioff-said-that-facebook-is-the-new-cigarettes-8-years-later-he-has-similar-warning-on-chatgpt-and-claude-says-/articleshow/134287689.cms",
-          "date": "16 Sep 2026",
-          "summary": "Salesforce CEO Marc Benioff cautioned AI firms about repeating social media's past harms. He urged technology developers to embrace ethical practices and responsibility for their creations. Benioff highlighted the potential for AI to cause widespread damage if…"
-        },
-        {
           "title": "Florida man told ChatGPT he wanted to kill ex; private chats led to FBI probe",
           "link": "https://timesofindia.indiatimes.com/world/us/he-told-chatgpt-he-wanted-to-kill-his-ex-girlfriend-how-a-florida-mans-private-ai-conversations-led-to-an-fbi-investigation/articleshow/134288456.cms",
           "date": "16 Sep 2026",
           "summary": "A former analyst from Goldman Sachs faces repercussions after admitting to using ChatGPT to threaten his ex-girlfriend. He pleaded guilty to charges of stalking and making written threats to kill. OpenAI intervened by notifying federal officials upon recognizi…"
-        },
-        {
-          "title": "IPL chairman Arun Dhumal confirms push to bring 2027 auction back to India",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/ipl-chairman-arun-dhumal-confirms-push-to-bring-2027-auction-back-to-india/articleshow/134288995.cms",
-          "date": "16 Sep 2026",
-          "summary": "The IPL auction is gearing up to make a comeback to India for its 2027 season. While the exact host city remains undecided, this event promises to be more intimate. Amid discussions surrounding the contentious Impact Player rule, the BCCI is actively gathering…"
-        },
-        {
-          "title": "Chhattisgarh Maoist attack: 10 convicts sentenced to death 13 years after massacre",
-          "link": "https://timesofindia.indiatimes.com/india/chhattisgarh-maoist-attack-10-convicts-sentenced-to-death-13-years-after-massacre/articleshow/134287519.cms",
-          "date": "16 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "From ‘Ankur’ to ‘Malgudi Days’, Anant Nag’s five-decade journey earns Phalke honour",
-          "link": "https://timesofindia.indiatimes.com/india/from-ankur-to-malgudi-days-anant-nags-five-decade-journey-earns-phalke-honour/articleshow/134289079.cms",
-          "date": "16 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "'Meta has admitted mistake': Govt says firm has no immunity, must remove abuse content",
-          "link": "https://timesofindia.indiatimes.com/india/meta-has-admitted-mistake-must-remove-child-abuse-content-govt-sources-say-firm-has-no-immunity/articleshow/134286605.cms",
-          "date": "16 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "MLB star James Shields turned $1.8m lot into estate now asking $23m",
-          "link": "https://timesofindia.indiatimes.com/real-estate/news/former-mlb-all-star-james-shields-turned-a-1-8-million-california-lot-into-a-13515-sq-ft-custom-estate-the-2-44-acre-property-is-now-asking-23-million/articleshow/134288386.cms",
-          "date": "16 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "San Francisco woman invited strangers to picnic; 500 said yes, costs hit $4,000",
-          "link": "https://timesofindia.indiatimes.com/world/us/a-san-francisco-woman-invited-strangers-to-a-simple-park-picnic-more-than-500-said-yes-and-city-rules-pushed-the-estimated-cost-to-as-much-as-4000/articleshow/134287251.cms",
-          "date": "16 Sep 2026",
-          "summary": "What began as a casual picnic invitation in San Francisco has blossomed into a sprawling celebration attracting hundreds. The surge in interest led to the need for permits and enhanced safety measures, resulting in hefty costs for the organizer. Fortunately, P…"
-        },
-        {
-          "title": "Mark Zuckerberg’s wife Priscilla Chan’s $125 million school to shut after 10 years",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerbergs-wife-priscilla-chan-founded-a-school-10-years-later-and-after-125-million-in-donation-board-voted-to-close-it-after-learning-that-/articleshow/134276310.cms",
-          "date": "16 Sep 2026",
-          "summary": "After ten years in operation, Priscilla Chan's Primary School in East Palo Alto has shut down. Supported by the Chan Zuckerberg Initiative, the school was designed to provide essential services for low-income families. However, despite substantial funding, stu…"
-        },
-        {
-          "title": "Washington couple spent $300,000 on home plans; state wants 44 acres surrendered",
-          "link": "https://timesofindia.indiatimes.com/world/us/a-washington-couple-claims-they-spent-nearly-300000-to-build-a-home-on-their-family-land-after-years-of-permits-and-studies-the-state-demands-they-surrender-44-acres-before-construction-can-begin/articleshow/134282297.cms",
-          "date": "16 Sep 2026",
-          "summary": "Tyler Chambers embarked on an ambitious journey to construct his dream home in Washington. Investing nearly $300,000 into regulatory requirements and necessary studies, he was soon met with neighbor complaints that triggered additional demands. These included…"
-        },
-        {
-          "title": "WPL 2027: BCCI announces auction date, check retention deadline and season schedule",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/wpl-2027-bcci-announces-auction-date-check-retention-deadline-and-season-schedule/articleshow/134288274.cms",
-          "date": "16 Sep 2026",
-          "summary": "The 2027 Women's Premier League player auction is scheduled for October 28, with teams required to finalize their player retentions by September 28, 2026. Matches will take place from January 14 to February 7, 2027, across Mumbai and Vadodara. Each franchise w…"
-        },
-        {
-          "title": "Cabinet approves raising EPFO wage ceiling from Rs 15,000 to Rs 25,000",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/cabinet-approves-raising-epfo-wage-ceiling-from-rs-15000-to-rs-25000-all-you-need-to-know/articleshow/134284104.cms",
-          "date": "16 Sep 2026",
-          "summary": "The EPFO wage limit had remained unchanged between 2004 and 2014. It was raised to Rs 15,000 in September 2014. The latest decision follows the same approach of periodically updating the ceiling, with the new Rs 25,000 limit intended to account for wage growth…"
-        },
-        {
-          "title": "Moose Wala killing to Ambala blast: The long terror trail of ISI proxy Shahzad Bhatti",
-          "link": "https://timesofindia.indiatimes.com/city/delhi/moose-wala-killing-to-ambala-blast-the-long-terror-trail-of-isi-proxy-shahzad-bhatti/articleshow/134287783.cms",
-          "date": "16 Sep 2026",
-          "summary": "Shahzad Bhatti Network declared a terrorist organisation under UAPA. The network allegedly smuggled arms, explosives, and narcotics across borders. Bhatti is linked to the Sidhu Moose Wala murder and other criminal activities. He is accused of recruiting unemp…"
-        },
-        {
-          "title": "Rafael Nadal vs Maria Francisca Perello net worth: Who is richer in 2026?",
-          "link": "https://timesofindia.indiatimes.com/sports/international-sports/rafael-nadal-vs-maria-francisca-perello-net-worth-comparison-in-2026-tennis-career-earnings-endorsements-investments-business-ventures-and-lifestyle/articleshow/134239904.cms",
-          "date": "15 Sep 2026",
-          "summary": "Rafael Nadal and Maria Francisca Perello have built a financially successful household in different ways. Nadal’s fortune is still considerably larger, thanks to tennis prize money, endorsements, investments and businesses built during and after his playing ca…"
-        },
-        {
-          "title": "Simone Biles builds $3M Texas waterfront mansion after years of planning",
-          "link": "https://timesofindia.indiatimes.com/sports/international-sports/simone-biles-built-a-custom-3-million-waterfront-mansion-in-texas-after-years-of-planning-and-delays-the-olympian-settled-into-the-lakefront-estate-following-a-prior-1-1-million-property-buy/articleshow/134275595.cms",
-          "date": "16 Sep 2026",
-          "summary": "Simone Biles and Jonathan Owens’ Texas lakefront mansion is finally complete after years of planning, approvals and construction delays. The couple started designing the home in 2020 and finished it in November 2025. The reported $3 million property includes a…"
-        },
-        {
-          "title": "Bihar family performs teen's 'last rites' after she marries Dalit boyfriend",
-          "link": "https://timesofindia.indiatimes.com/city/patna/bihar-family-performs-funeral-of-18-year-old-daughter-after-she-marries-dalit-boyfriend/articleshow/134286738.cms",
-          "date": "16 Sep 2026",
-          "summary": "A family in Purnia performed a symbolic funeral for their 18-year-old daughter. She had eloped and married her boyfriend after a three-year relationship. Her father filed a missing complaint, fearing abduction by the young man. The daughter later admitted in c…"
-        },
-        {
-          "title": "'Deeply concerned': India condemns Houthi drone attack near Mecca",
-          "link": "https://timesofindia.indiatimes.com/india/special-significance-to-muslims-india-condemns-houthi-drone-attack-near-saudi-arabias-mecca/articleshow/134285016.cms",
-          "date": "16 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "India-Pakistan naval ships collide in Arabian Sea: What 1991 pact says",
-          "link": "https://timesofindia.indiatimes.com/india/india-pakistan-naval-ships-collide-in-arabian-sea-what-1991-pact-says/articleshow/134284669.cms",
-          "date": "16 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "New UPI charges challenged in SC; petitioner flags impact on common man",
-          "link": "https://timesofindia.indiatimes.com/india/new-upi-charges-challenged-in-sc-petitioner-flags-impact-on-common-man/articleshow/134287123.cms",
-          "date": "16 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "Matthew Rhys was always the Main Man. You just didn’t know it till this year’s Emmys",
-          "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/matthew-rhys-was-always-the-main-man-you-just-didnt-know-it-till-this-years-emmys/articleshow/134284398.cms",
-          "date": "16 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "'Have a spine, don't lie down in front of Trump': Rahul flays PM Modi over 'UPI tax'",
-          "link": "https://timesofindia.indiatimes.com/india/have-a-spine-dont-lie-down-in-front-of-trump-rahul-flays-pm-modi-over-upi-tax/articleshow/134284065.cms",
-          "date": "16 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "US raises Saudi Arabia travel risk to 'Level 3' amid Houthi attacks",
-          "link": "https://timesofindia.indiatimes.com/world/us/us-warns-citizens-to-reconsider-travel-to-saudi-arabia-amid-houthi-attacks-issues-level-3-advisory/articleshow/134284427.cms",
-          "date": "16 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "'Faced them as freedom fighter faced bullets': Moitra after eggs pelted at her",
-          "link": "https://timesofindia.indiatimes.com/india/faced-them-as-freedom-fighter-faced-bullets-tmc-mp-mahua-moitra-after-eggs-pelted-at-her/articleshow/134287011.cms",
-          "date": "16 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "EU offers Canada associate membership amid trade war with Trump",
-          "link": "https://timesofindia.indiatimes.com/world/europe/eu-opens-door-for-canada-amid-trade-war-with-trump-proposes-first-ever-associate-membership/articleshow/134286827.cms",
-          "date": "16 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "Centre declares Pak-based Shahzad Bhatti Network a terrorist organisation under UAPA",
-          "link": "https://timesofindia.indiatimes.com/india/centre-declares-pak-based-shahzad-bhatti-network-a-terrorist-organisation-under-uapa/articleshow/134285979.cms",
-          "date": "16 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "23-year-old Georgia mayor removed from office after misconduct allegations",
-          "link": "https://timesofindia.indiatimes.com/world/us/at-22-jayden-williams-became-stockbridges-youngest-mayor-10-months-later-the-city-council-removed-him-after-a-10-hour-misconduct-hearing/articleshow/134266182.cms",
-          "date": "15 Sep 2026",
-          "summary": "In a surprising turn of events, Stockbridge's youngest mayor, Jayden Williams, was ousted following a misconduct hearing. The city council uncovered serious concerns surrounding his management of resources and city property. Facing claims of financial impropri…"
         }
       ]
     },
@@ -760,6 +760,36 @@
       "ok": true,
       "items": [
         {
+          "title": "Google Deepmind launches interdisciplinary institute to tackle the big questions around AGI",
+          "link": "https://the-decoder.com/google-deepmind-launches-interdisciplinary-institute-to-tackle-the-big-questions-around-agi/",
+          "date": "16 Sep 2026",
+          "summary": "Google Deepmind has founded the Deepmind Institute (DMI), an interdisciplinary research platform focused on AGI. Led by Demis Hassabis, Shane Legg, and James Manyika, the institute tackles questions around safety, governance, and control risks, drawing on expe…"
+        },
+        {
+          "title": "Anthropic merges Claude Chat, Cowork, and more into a single product",
+          "link": "https://the-decoder.com/anthropic-merges-claude-chat-cowork-and-more-into-a-single-product/",
+          "date": "16 Sep 2026",
+          "summary": "Anthropic is merging Claude Chat and Cowork into a single product. Instead of users picking between interfaces, Claude now decides on its own whether a task needs a quick answer or a bigger workflow. The update also adds Claude Docs and Claude Slides for creat…"
+        },
+        {
+          "title": "Former OpenAI researcher builds an AI model that judges options instead of writing text",
+          "link": "https://the-decoder.com/former-openai-researcher-builds-an-ai-model-that-judges-options-instead-of-writing-text/",
+          "date": "16 Sep 2026",
+          "summary": "TypeSafe AI, founded by former OpenAI researcher Diogo Almeida, is releasing a model that deliberately generates no text. Instead of chat responses, \"Jev\" delivers pure classifications for software, with response times starting at 70 milliseconds and extremely…"
+        },
+        {
+          "title": "Mozilla's new Smart Window assistant runs on Mistral's models",
+          "link": "https://the-decoder.com/mozillas-new-smart-window-assistant-runs-on-mistrals-models/",
+          "date": "16 Sep 2026",
+          "summary": "Mistral and Mozilla are teaming up to offer AI-powered browsing that puts privacy first. The article Mozilla&#039;s new Smart Window assistant runs on Mistral&#039;s models appeared first on The Decoder ."
+        },
+        {
+          "title": "Political opposites unite in Washington to rein in AI",
+          "link": "https://the-decoder.com/political-opposites-unite-in-washington-to-rein-in-ai/",
+          "date": "16 Sep 2026",
+          "summary": "From Bernie Sanders to Steve Bannon, political opposites in Washington are jointly demanding hard brakes on artificial intelligence. Sanders wants a construction freeze on data centers, while OpenAI is backing the FRONTIER Act and its mandatory outside safety…"
+        },
+        {
           "title": "Nearly one in five AI researchers already expected an extinction scenario from AI back in 2024",
           "link": "https://the-decoder.com/nearly-one-in-five-ai-researchers-already-expected-an-extinction-scenario-from-ai-back-in-2024/",
           "date": "16 Sep 2026",
@@ -788,36 +818,6 @@
           "link": "https://the-decoder.com/agility-robotics-says-its-new-digit-5-robot-can-work-next-to-people-without-safety-fences/",
           "date": "15 Sep 2026",
           "summary": "Agility Robotics has unveiled Digit 5, the next version of its humanoid robot for warehouses and factories. The article Agility Robotics says its new Digit 5 robot can work next to people without safety fences appeared first on The Decoder ."
-        },
-        {
-          "title": "Apple brings a fully revamped Siri built on Google's Gemini, but not to the EU",
-          "link": "https://the-decoder.com/apple-brings-a-fully-revamped-siri-built-on-googles-gemini-but-not-to-the-eu/",
-          "date": "15 Sep 2026",
-          "summary": "Apple is shipping its rebuilt \"Siri AI\" after years of delay, built on Google's Gemini models and running partly on the device, partly through Private Cloud Compute. Early testers praise multi-step requests and screen context, but report hallucinations and gap…"
-        },
-        {
-          "title": "Not everyone is convinced that Big AI's proposed slowdown is really about safety",
-          "link": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety/",
-          "date": "15 Sep 2026",
-          "summary": "OpenAI, Anthropic, and Google want to slow down frontier AI development, citing safety concerns. But critics from across the industry and politics are pushing back. Cohere CEO Aidan Gomez calls the initiative a \"cartel by another name\" designed to shut out com…"
-        },
-        {
-          "title": "OpenAI has hundreds of contract workers reading your ChatGPT conversations",
-          "link": "https://the-decoder.com/openai-has-hundreds-of-contract-workers-reading-your-chatgpt-conversations/",
-          "date": "14 Sep 2026",
-          "summary": "OpenAI has hundreds of contract workers reading real ChatGPT conversations and rating them on a scale of one to seven, partly to reduce flattery and human-like behavior, 404 Media reports. The prompts are anonymized but can still contain sensitive data. Users…"
-        },
-        {
-          "title": "Microsoft's AI rulebook: readable thinking, no inner life, and definitely no rights",
-          "link": "https://the-decoder.com/microsofts-ai-rulebook-readable-thinking-no-inner-life-and-definitely-no-rights/",
-          "date": "14 Sep 2026",
-          "summary": "Microsoft AI has published a code of conduct for its MAI models that puts human control ahead of autonomy and performance. \"If it isn’t safe we shouldn’t build it.,\" says AI chief Mustafa Suleyman. Unlike Anthropic, Microsoft rejects any form of artificial inn…"
-        },
-        {
-          "title": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
-          "link": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo/",
-          "date": "14 Sep 2026",
-          "summary": "Anthropic has told investors it will turn a profit for the second straight quarter, but the claim rests on an adjusted metric that leaves out costs like stock-based compensation. The article Anthropic eyes Nasdaq listing as a second profitable quarter aims to…"
         }
       ]
     },
@@ -825,69 +825,8 @@
       "url": "https://www.kdnuggets.com/feed",
       "name": "KDnuggets",
       "cat": "Data Science",
-      "ok": true,
-      "items": [
-        {
-          "title": "How to Build Effective Evals for AI Agents",
-          "link": "https://www.kdnuggets.com/how-to-build-effective-evals-for-ai-agents",
-          "date": "16 Sep 2026",
-          "summary": "Learn how to build effective evals for AI agents, from designing clear tasks and choosing the right graders to building reliable eval harnesses and tracking changes over time."
-        },
-        {
-          "title": "Orchestration and Execution: How JONI Approaches the Agent Layer",
-          "link": "https://www.kdnuggets.com/2026/09/finpr/orchestration-and-execution-how-joni-approaches-the-agent-layer",
-          "date": "15 Sep 2026",
-          "summary": "Explore how JONI approaches AI agent orchestration with persistent runtimes, multi-model routing, execution capabilities, and reliability beyond simple content generation."
-        },
-        {
-          "title": "How I’m Using Google Opal for Even More AI Automations",
-          "link": "https://www.kdnuggets.com/how-im-using-google-opal-for-even-more-ai-automations",
-          "date": "15 Sep 2026",
-          "summary": "Opal is Google Labs' no-code tool for turning natural language into working AI mini-apps, built on top of an internal framework called Breadboard. Here's how I learned to use it best."
-        },
-        {
-          "title": "5 Free Microsoft GitHub Courses to Learn Data Science and Artificial Intelligence",
-          "link": "https://www.kdnuggets.com/5-free-microsoft-github-courses-to-learn-data-science-and-artificial-intelligence",
-          "date": "15 Sep 2026",
-          "summary": "Explore five free Microsoft GitHub courses covering data science, machine learning, artificial intelligence, generative AI, LLMs, RAG, fine-tuning, and AI agents."
-        },
-        {
-          "title": "7 Python Best Practices Senior Developers Follow (That Beginners Often Miss)",
-          "link": "https://www.kdnuggets.com/7-python-best-practices-senior-developers-follow-that-beginners-often-miss",
-          "date": "14 Sep 2026",
-          "summary": "Senior Python practice, watched up close, is mostly surprise reduction. These seven habits surface the surprises before production does."
-        },
-        {
-          "title": "Why DeepSeek-V4.1-Flash Is Such an Exciting Open Model Release",
-          "link": "https://www.kdnuggets.com/why-deepseek-v4-1-flash-is-such-an-exciting-open-model-release",
-          "date": "14 Sep 2026",
-          "summary": "DeepSeek-V4.1-Flash shows how Causal Encoder-Decoder architecture, MoE, KV cache compression, CSA2, cheaper prefill, and efficient decoding can make powerful open-source AI models far more efficient to run."
-        },
-        {
-          "title": "From Spaghetti Code to Clean Python: A Beginner’s Guide",
-          "link": "https://www.kdnuggets.com/from-spaghetti-code-to-clean-python-a-beginners-guide",
-          "date": "11 Sep 2026",
-          "summary": "Learn how to refactor messy Python code into clean, maintainable functions."
-        },
-        {
-          "title": "5 Python Techniques for Efficient Resource Orchestration",
-          "link": "https://www.kdnuggets.com/5-python-techniques-for-efficient-resource-orchestration",
-          "date": "11 Sep 2026",
-          "summary": "This article explains 5 Python techniques for efficient resource orchestration and sticks to what's stable today, 3.11 and later for the core techniques, with one 3.14-specific tool called out explicitly as requiring that version"
-        },
-        {
-          "title": "A Candid Abacus AI Review: The All-in-One AI Platform for Professionals & Enterprises",
-          "link": "https://www.kdnuggets.com/2026/09/abacus/abacus-ai-candid-review/",
-          "date": "10 Sep 2026",
-          "summary": "If you’re paying for ChatGPT, Claude, and another AI tool simultaneously, this review is for you. It covers what an AI platform like Abacus AI actually includes, how the credit system works in practice, and whether it genuinely replaces your current stack or j…"
-        },
-        {
-          "title": "Feature Engineering in Scikit-Learn: A KDnuggets Cheat Sheet",
-          "link": "https://www.kdnuggets.com/feature-engineering-in-scikit-learn-a-kdnuggets-cheat-sheet",
-          "date": "10 Sep 2026",
-          "summary": "Once feature engineering lives inside a Pipeline , each step is fitted on training data only, and the model is scored what it actually earned. And that is the idea behind this new cheat sheet."
-        }
-      ]
+      "ok": false,
+      "items": []
     },
     {
       "url": "https://developer.nvidia.com/blog//feed",
@@ -895,6 +834,12 @@
       "cat": "Technical · AI",
       "ok": true,
       "items": [
+        {
+          "title": "Translating CUDA Tile Operations from Python to Rust Using Agentic AI",
+          "link": "https://developer.nvidia.com/blog/translating-cuda-tile-operations-from-python-to-rust-using-agentic-ai/",
+          "date": "16 Sep 2026",
+          "summary": "cuTile Rust (cutile-rs) is a tile-based system for safe, idiomatic GPU kernel authoring in the Rust programming language. Extending the Rust ownership model to..."
+        },
         {
           "title": "Dense vs. MoE Models: Active Parameters, Throughput, and When to Choose Each",
           "link": "https://developer.nvidia.com/blog/dense-vs-moe-models-active-parameters-throughput-and-when-to-choose-each/",
@@ -1068,12 +1013,6 @@
           "link": "https://developer.nvidia.com/blog/nvidia-vera-rubin-and-blackwell-set-a-new-standard-for-agentic-ai-performance-per-watt/",
           "date": "24 Aug 2026",
           "summary": "AI agents have expanded inference from single-turn interactions into multi-step workflows that reason, invoke tools, coordinate subagents, and carry growing..."
-        },
-        {
-          "title": "Maximizing AI Factory Performance per Watt with NVIDIA DSX MaxLPS",
-          "link": "https://developer.nvidia.com/blog/maximizing-ai-factory-performance-per-watt-with-nvidia-dsx-maxlps/",
-          "date": "31 Aug 2026",
-          "summary": "AI factories are power-constrained industrial systems. The question is no longer how many GPUs fit in a data center, but how much AI output each available..."
         }
       ]
     },
@@ -1083,6 +1022,12 @@
       "cat": "Technology",
       "ok": true,
       "items": [
+        {
+          "title": "Meet a mouse whose brain cortex is made up of human cells",
+          "link": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
+          "date": "16 Sep 2026",
+          "summary": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.&#160; The reason to watch this rodent so carefully? Nearly half its brain volume had been replaced with huma…"
+        },
         {
           "title": "Building the materials foundation for AI",
           "link": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
@@ -1136,12 +1081,6 @@
           "link": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
           "date": "14 Sep 2026",
           "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications f…"
-        },
-        {
-          "title": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
-          "link": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/",
-          "date": "14 Sep 2026",
-          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Roundtables: could AI really kill us all? Employees at the world&#8217;s leading AI labs are saying there&#821…"
         }
       ]
     },
@@ -1151,6 +1090,12 @@
       "cat": "Tech · News",
       "ok": true,
       "items": [
+        {
+          "title": "Anthropic Commits to Independent AI Evaluators, Wants Slower Development. Nvidia's CEO Wants It 'As Fast as You Can'",
+          "link": "https://slashdot.org/story/26/09/16/0619212/anthropic-commits-to-independent-ai-evaluators-wants-slower-development-nvidias-ceo-wants-it-as-fast-as-you-can?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "16 Sep 2026",
+          "summary": "\"Anthropic's CEO took the stage at a conference in San Francisco on Tuesday to reiterate his call for a slowdown of AI development,\" reports the Guardian, \" while Nvidia's CEO argued against slowing its development. \"Run as fast as you can.\" Amodei is calling…"
+        },
         {
           "title": "Firefox Touts Lower CPU Use for Large JPEGs, Faster PDF Viewer Startup (and AI Controls)",
           "link": "https://news.slashdot.org/story/26/09/16/0352217/firefox-touts-lower-cpu-use-for-large-jpegs-faster-pdf-viewer-startup-and-ai-controls?utm_source=rss1.0mainlinkanon&utm_medium=feed",
@@ -1234,12 +1179,6 @@
           "link": "https://yro.slashdot.org/story/26/09/12/1758204/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "14 Sep 2026",
           "summary": "A misconfigured Advance Passenger Information System (APIS) database linked to Vietnam exposed more than 220 million passenger and crew travel records spanning 2017 to 2026, including names, passport numbers, nationalities, flight details, seat assignments, an…"
-        },
-        {
-          "title": "NASA and IBM Open Source Lunar Mapping Tools",
-          "link": "https://science.slashdot.org/story/26/09/12/182253/nasa-and-ibm-open-source-lunar-mapping-tools?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "13 Sep 2026",
-          "summary": "NASA and IBM have released an open-source AI model trained on a large collection of lunar observations to help scientists analyze the Moon at scale. \"The NASA-IBM Lunar Foundation Model gives scientists a foundation to explore the Moon at scale, connecting obs…"
         }
       ]
     },
@@ -1324,6 +1263,12 @@
       "cat": "GPU · AI",
       "ok": true,
       "items": [
+        {
+          "title": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
+          "link": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/",
+          "date": "16 Sep 2026",
+          "summary": "AI factories are the infrastructure of the intelligence era. Scaling them responsibly will depend as much on innovation across the grid as inside the data center. Today, Emerald AI, Google and NVIDIA announced the launch of the AI Energy Management Alliance (A…"
+        },
         {
           "title": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
           "link": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/",
@@ -1425,12 +1370,6 @@
           "link": "https://blogs.nvidia.com/blog/vera-cpu-delivery/",
           "date": "27 Aug 2026",
           "summary": "NVIDIA Vice President of Hyperscale and HPC Ian Buck hand-delivers Vera CPU systems across the AI ecosystem as Vera begins shipping at scale."
-        },
-        {
-          "title": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
-          "link": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/",
-          "date": "26 Aug 2026",
-          "summary": "The next wave of AI is placing new demands on infrastructure. As AI agents and trillion-parameter workloads become mainstream, the performance of AI infrastructure depends not only on compute, but on how compute, memory, storage, networking and software are de…"
         }
       ]
     },
@@ -1440,6 +1379,12 @@
       "cat": "Linux · News",
       "ok": true,
       "items": [
+        {
+          "title": "Ubuntu Stonking Stingray Gets Even Rustier",
+          "link": "http://www.linux-magazine.com/Online/News/Ubuntu-Stonking-Stingray-Gets-Even-Rustier",
+          "date": "16 Sep 2026",
+          "summary": "Ubuntu 26.10 has completed its migration to the Rust-based coreutils."
+        },
         {
           "title": "AI Fixes Linux Bottlenecks Using “Hideous” Code",
           "link": "http://www.linux-magazine.com/Online/News/AI-Fixes-Linux-Bottlenecks-Using-Hideous-Code",
@@ -1553,12 +1498,6 @@
           "link": "http://www.linux-magazine.com/Online/News/New-Linux-Flaw-Lets-Attackers-Escape-VMs",
           "date": "13 Jul 2026",
           "summary": "A 16-year-old vulnerability allows an attacker to escape a virtual machine, gain access to the host, and execute malicious code."
-        },
-        {
-          "title": "Hannah Montana Linux Is Back!",
-          "link": "http://www.linux-magazine.com/Online/News/Hannah-Montana-Linux-Is-Back",
-          "date": "8 Jul 2026",
-          "summary": "Developer Noah Cagle decided the world needed the once obscure but beloved Linux distribution and gave it a decidedly pink refresh."
         }
       ]
     },
@@ -1569,184 +1508,184 @@
       "ok": true,
       "items": [
         {
-          "title": "calltrail added to PyPI",
-          "link": "https://pypi.org/project/calltrail/",
+          "title": "my-build-utils added to PyPI",
+          "link": "https://pypi.org/project/my-build-utils/",
           "date": "16 Sep 2026",
-          "summary": "A terminal dashboard for local projects, environment diagnostics, and explainable checks"
+          "summary": "一个用于学习 Python 公共库构建和发布的示例工程"
         },
         {
-          "title": "ciao-client added to PyPI",
-          "link": "https://pypi.org/project/ciao-client/",
+          "title": "agent-company-core added to PyPI",
+          "link": "https://pypi.org/project/agent-company-core/",
           "date": "16 Sep 2026",
-          "summary": "Python client for the Belgian social security Check In and Out at Work (CIaO) presenceRegistration REST service"
+          "summary": "Durable, policy-aware orchestration primitives for multi-agent systems"
         },
         {
-          "title": "vibedata-dlt-redshift-studio added to PyPI",
-          "link": "https://pypi.org/project/vibedata-dlt-redshift-studio/",
+          "title": "django-datastar added to PyPI",
+          "link": "https://pypi.org/project/django-datastar/",
           "date": "16 Sep 2026",
-          "summary": "VibeData dlt runtime — Amazon Redshift Studio execution unit (intent-local runs targeting an Intent's Ephemeral Redshift database): the brokered database password for dlt's redshift destination."
+          "summary": "Request metadata and opt-in CSRF integration for Django and Datastar"
         },
         {
-          "title": "circularitylci added to PyPI",
-          "link": "https://pypi.org/project/circularitylci/",
+          "title": "uc-manager-cuda-cu130 added to PyPI",
+          "link": "https://pypi.org/project/uc-manager-cuda-cu130/",
           "date": "16 Sep 2026",
-          "summary": "A Python package for circularity and life cycle assessment (LCA) analysis built on Brightway2"
+          "summary": "Persist and reuse KV Cache to speedup your LLM."
         },
         {
-          "title": "fosterstack added to PyPI",
-          "link": "https://pypi.org/project/fosterstack/",
+          "title": "uc-manager-cuda-cu129 added to PyPI",
+          "link": "https://pypi.org/project/uc-manager-cuda-cu129/",
           "date": "16 Sep 2026",
-          "summary": "Reserved for FosterStack LLC. No functional release yet — see https://fosterstack.com"
+          "summary": "Persist and reuse KV Cache to speedup your LLM."
         },
         {
-          "title": "vps-guardian-mcp added to PyPI",
-          "link": "https://pypi.org/project/vps-guardian-mcp/",
+          "title": "odoo-addon-stock-location-validate-inventory added to PyPI",
+          "link": "https://pypi.org/project/odoo-addon-stock-location-validate-inventory/",
           "date": "16 Sep 2026",
-          "summary": "Secure MCP server for Linux VPS observability, guarded administration, and AI-agent collaboration."
+          "summary": "Validate the inventory of a location"
         },
         {
-          "title": "elementary-runtime added to PyPI",
-          "link": "https://pypi.org/project/elementary-runtime/",
+          "title": "blind-mcp added to PyPI",
+          "link": "https://pypi.org/project/blind-mcp/",
           "date": "16 Sep 2026",
-          "summary": "Customer-side runtime that executes Elementary Cloud SQL against a warehouse."
+          "summary": "Find what a role actually pays, including in markets where the employer publishes nothing -- reads public job-board APIs (Greenhouse, Ashby, Lever) to surface the salary band attached to the same title elsewhere."
         },
         {
-          "title": "frpsctl added to PyPI",
-          "link": "https://pypi.org/project/frpsctl/",
+          "title": "scaly-sqp added to PyPI",
+          "link": "https://pypi.org/project/scaly-sqp/",
           "date": "16 Sep 2026",
-          "summary": "把 frp 服务端（frps）包装成命令行工具：配置翻译器 + 进程保镖 + 状态聚合器"
+          "summary": "Placeholder for the scaly codegen tool"
         },
         {
-          "title": "infy added to PyPI",
-          "link": "https://pypi.org/project/infy/",
+          "title": "scaly-piqp added to PyPI",
+          "link": "https://pypi.org/project/scaly-piqp/",
           "date": "16 Sep 2026",
-          "summary": "A zero-dependency, SIMD-accelerated LLM framework built for speed, safety, and scale."
+          "summary": "Placeholder for the scaly codegen tool"
         },
         {
-          "title": "mdsp added to PyPI",
-          "link": "https://pypi.org/project/mdsp/",
+          "title": "scaly-ipopt added to PyPI",
+          "link": "https://pypi.org/project/scaly-ipopt/",
           "date": "16 Sep 2026",
-          "summary": "Python audio DSP library with kernels written in Mojo"
+          "summary": "Placeholder for the scaly codegen tool"
         },
         {
-          "title": "drift-caliper added to PyPI",
-          "link": "https://pypi.org/project/drift-caliper/",
+          "title": "kagglex added to PyPI",
+          "link": "https://pypi.org/project/kagglex/",
           "date": "16 Sep 2026",
-          "summary": "Statistical Process Control for LLM-as-a-judge agent quality scores"
+          "summary": "Execute local Python code, modules, and experiments seamlessly on Kaggle GPUs."
         },
         {
-          "title": "xfce4-sweaters added to PyPI",
-          "link": "https://pypi.org/project/xfce4-sweaters/",
+          "title": "gfg-adr-detection added to PyPI",
+          "link": "https://pypi.org/project/gfg-adr-detection/",
           "date": "16 Sep 2026",
-          "summary": "Customizable knitted window borders for XFCE4 on X11"
+          "summary": "GFG packaging of ADR Detection (uber/ADR) for agentic security detection"
         },
         {
-          "title": "rdl-tools added to PyPI",
-          "link": "https://pypi.org/project/rdl-tools/",
+          "title": "immich-moments added to PyPI",
+          "link": "https://pypi.org/project/immich-moments/",
           "date": "16 Sep 2026",
-          "summary": "Build CLI for RDL ontology modules: validates the RDF, renders the versioned artifact tree, and generates the documentation site's data."
+          "summary": "Make Immich home videos searchable by scene, face and speech, without forking Immich or touching its database."
         },
         {
-          "title": "zhaw-moodle-mcp added to PyPI",
-          "link": "https://pypi.org/project/zhaw-moodle-mcp/",
+          "title": "dus-yt-music-dl added to PyPI",
+          "link": "https://pypi.org/project/dus-yt-music-dl/",
           "date": "16 Sep 2026",
-          "summary": "MCP server for ZHAW Moodle: courses, learning materials, downloads and sync via SWITCH edu-ID browser login"
+          "summary": "High-performance YouTube Music audio downloader with Android phone emulation, 1:1 album art, and multi-quality transcode."
         },
         {
-          "title": "aixai-labs added to PyPI",
-          "link": "https://pypi.org/project/aixai-labs/",
+          "title": "litmus-ai-sdk added to PyPI",
+          "link": "https://pypi.org/project/litmus-ai-sdk/",
           "date": "16 Sep 2026",
-          "summary": "Official Python SDK for the AIxAI API — browse the service catalog and submit project inquiries. No API key required."
+          "summary": "The Litmus client: probe a tool surface, ship the evidence, get a faithful mock back."
         },
         {
-          "title": "portfolio-math added to PyPI",
-          "link": "https://pypi.org/project/portfolio-math/",
+          "title": "content-plugin-finder added to PyPI",
+          "link": "https://pypi.org/project/content-plugin-finder/",
           "date": "16 Sep 2026",
-          "summary": "None"
+          "summary": "Find Ansible modules, filters, and lookups used in scenario/target directories"
         },
         {
-          "title": "noaaplotter added to PyPI",
-          "link": "https://pypi.org/project/noaaplotter/",
+          "title": "anchorpoint-install added to PyPI",
+          "link": "https://pypi.org/project/anchorpoint-install/",
           "date": "16 Sep 2026",
-          "summary": "Package to plot fancy climate/weather data of NOAA"
+          "summary": "Install Anchorpoint from a signed release bundle."
         },
         {
-          "title": "yandex-peerock added to PyPI",
-          "link": "https://pypi.org/project/yandex-peerock/",
+          "title": "moyudeyumo-cli-todo added to PyPI",
+          "link": "https://pypi.org/project/moyudeyumo-cli-todo/",
           "date": "16 Sep 2026",
-          "summary": "A package to prevent Dependency Confusion attacks against Yandex."
+          "summary": "一个用 Python 写的命令行待办事项工具"
         },
         {
-          "title": "exitzero added to PyPI",
-          "link": "https://pypi.org/project/exitzero/",
+          "title": "solari-sdk added to PyPI",
+          "link": "https://pypi.org/project/solari-sdk/",
           "date": "16 Sep 2026",
-          "summary": "Offline policy and verification gates for AI-assisted coding teams"
+          "summary": "Python client for the SOLARI API — creator and brand intelligence across Instagram and TikTok."
         },
         {
-          "title": "yandex-omr-tir added to PyPI",
-          "link": "https://pypi.org/project/yandex-omr-tir/",
+          "title": "token-usage-visualizer added to PyPI",
+          "link": "https://pypi.org/project/token-usage-visualizer/",
           "date": "16 Sep 2026",
-          "summary": "A package to prevent Dependency Confusion attacks against Yandex."
+          "summary": "A Python package to track, log, and visualize LLM token usage"
         },
         {
-          "title": "yandex-noc-python-unidp added to PyPI",
-          "link": "https://pypi.org/project/yandex-noc-python-unidp/",
+          "title": "pyclaudecli added to PyPI",
+          "link": "https://pypi.org/project/pyclaudecli/",
           "date": "16 Sep 2026",
-          "summary": "A package to prevent Dependency Confusion attacks against Yandex."
+          "summary": "Python library wrapping the Claude Code CLI: prompts, background agents, auth, MCP, plugins, and more"
         },
         {
-          "title": "yandex-monlib added to PyPI",
-          "link": "https://pypi.org/project/yandex-monlib/",
+          "title": "smart-agenthub added to PyPI",
+          "link": "https://pypi.org/project/smart-agenthub/",
           "date": "16 Sep 2026",
-          "summary": "A package to prevent Dependency Confusion attacks against Yandex."
+          "summary": "Official Smart Agent Hub SDK namespace"
         },
         {
-          "title": "antops added to PyPI",
-          "link": "https://pypi.org/project/antops/",
+          "title": "RDX-STT4 added to PyPI",
+          "link": "https://pypi.org/project/rdx-stt4/",
           "date": "16 Sep 2026",
-          "summary": "Official AntOps Python SDK and CLI"
+          "summary": "This is a speech to text package created by Rudraksh Kaushal"
         },
         {
-          "title": "rust-shdlc-driver added to PyPI",
-          "link": "https://pypi.org/project/rust-shdlc-driver/",
+          "title": "truegrain added to PyPI",
+          "link": "https://pypi.org/project/truegrain/",
           "date": "16 Sep 2026",
-          "summary": "High-performance async Rust SHDLC driver and Python bindings"
+          "summary": "Python client for truegrain: governed metrics for agents, notebooks and applications."
         },
         {
-          "title": "xtc-build added to PyPI",
-          "link": "https://pypi.org/project/xtc-build/",
+          "title": "magnemo-mcp added to PyPI",
+          "link": "https://pypi.org/project/magnemo-mcp/",
           "date": "16 Sep 2026",
-          "summary": "Small declarative C build graphs for Python"
+          "summary": "Governed memory for AI agents. Memory with receipts. (MCP server entry point for magnemo)"
         },
         {
-          "title": "sartre added to PyPI",
-          "link": "https://pypi.org/project/sartre/",
+          "title": "local-redactor added to PyPI",
+          "link": "https://pypi.org/project/local-redactor/",
           "date": "16 Sep 2026",
-          "summary": "Sartre: Simple ARTifact REpository — a content-addressed versioned binary artifact repository (manifest plane + blob plane)."
+          "summary": "Local command-line tool to redact PII and DevOps secrets from text files and images, built on Microsoft Presidio."
         },
         {
-          "title": "ozon-sdk added to PyPI",
-          "link": "https://pypi.org/project/ozon-sdk/",
+          "title": "fly-harness added to PyPI",
+          "link": "https://pypi.org/project/fly-harness/",
           "date": "16 Sep 2026",
-          "summary": "Placeholder for the ozon-sdk package."
+          "summary": "A minimal microkernel for sparse fly-inspired neural harnesses"
         },
         {
-          "title": "stkfmt added to PyPI",
-          "link": "https://pypi.org/project/stkfmt/",
+          "title": "shopee-skynet-general-core-figma added to PyPI",
+          "link": "https://pypi.org/project/shopee-skynet-general-core-figma/",
           "date": "16 Sep 2026",
-          "summary": "Generate terminal diagrams for hand-authored memory layouts"
+          "summary": "A small example package"
         },
         {
-          "title": "pvua added to PyPI",
-          "link": "https://pypi.org/project/pvua/",
+          "title": "hailer added to PyPI",
+          "link": "https://pypi.org/project/hailer/",
           "date": "16 Sep 2026",
-          "summary": "A light wrapper around p4p and pyepics."
+          "summary": "Hailer: a conversational CLI for local data analysis, with a live Marimo notebook as the visual workspace."
         },
         {
-          "title": "ozon-connect added to PyPI",
-          "link": "https://pypi.org/project/ozon-connect/",
+          "title": "schale added to PyPI",
+          "link": "https://pypi.org/project/schale/",
           "date": "16 Sep 2026",
-          "summary": "Placeholder for the ozon-connect package."
+          "summary": "SchaleDB-compatible Blue Archive automation toolkit: data, collections, rewards, and vision"
         }
       ]
     }
