@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-16T20:40:34Z",
+  "generated": "2026-09-16T23:25:54Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,12 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "Shorter-dated US Treasury yields surge in anticipation of another Fed rate hike",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/shorter-dated-us-treasury-yields-surge-in-anticipation-of-another-fed-rate-hike/articleshow/134296264.cms",
+          "date": "17 Sep 2026",
+          "summary": "The Federal Reserve increased interest rates for the first time in over three years. Policymakers anticipate at least one more quarter-percentage-point hike by year-end. Shorter-dated U.S. Treasury yields rose after the rate hike announcement. Market bets on a…"
+        },
         {
           "title": "US Fed chair Kevin Warsh explains why the Federal Reserve raised interest rates",
           "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-fed-chair-kevin-warsh-explains-why-the-federal-reserve-raised-interest-rates/articleshow/134296073.cms",
@@ -36,12 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/solar-industries-shares-plunge-17-in-2-days-why-jefferies-nuvama-still-see-up-to-46-upside/articleshow/134279133.cms",
           "date": "16 Sep 2026",
           "summary": "Solar Industries shares have plunged over 17% in two sessions following the Rs 12,951 crore acquisition of South Africa’s Omnia Holdings. Despite the sharp correction, Jefferies and Nuvama retain Buy ratings, citing the company’s earnings growth potential, str…"
-        },
-        {
-          "title": "Paytm wins, but ATM also wins! Why CMS Info Systems shares jumped 7% on UPI MDR",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/paytm-wins-but-atm-also-wins-why-cms-info-systems-shares-jumped-7-on-upi-mdr/articleshow/134278876.cms",
-          "date": "16 Sep 2026",
-          "summary": "CMS Info Systems shares rose on Wednesday after the government announced MDR on select UPI transactions above Rs 2,000, making the company a potential direct beneficiary. From October 15, merchants will pay 0.4% MDR on eligible P2M UPI transactions, capped at…"
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -196,16 +196,28 @@
       "ok": true,
       "items": [
         {
-          "title": "Curtain falls on US-India cultural bridge as Kennedy Center shutters",
-          "link": "https://timesofindia.indiatimes.com/weather/us/sitar-sarod-and-shutdown-curtain-falls-on-a-us-india-cultural-bridge-as-kennedy-center-shutters/articleshow/134291523.cms",
-          "date": "16 Sep 2026",
+          "title": "100% tariffs on India? Russia sanctions bill passed by US House; awaits Trump’s sign",
+          "link": "https://timesofindia.indiatimes.com/business/international-business/after-senate-us-house-passes-russia-sanctions-bill-100-tariff-threat-looms-for-india/articleshow/134296683.cms",
+          "date": "17 Sep 2026",
+          "summary": "The US House has successfully passed a sanctions bill aimed at Russian officials and the energy sector. This new legislation empowers President Trump to impose tariffs on significant buyers of Russian oil. India might encounter a staggering 100 percent tariff…"
+        },
+        {
+          "title": "‘We’re the best credit’: Trump fumes after 1st Fed rate hike in over 3 yrs",
+          "link": "https://timesofindia.indiatimes.com/business/international-business/were-the-best-credit-trump-calls-for-lower-us-interest-rates-after-first-fed-hike-in-3-years/articleshow/134296503.cms",
+          "date": "17 Sep 2026",
+          "summary": "The Federal Reserve has set a new target range by increasing its benchmark interest rate, marking its first hike since 2023. President Donald Trump has called for a substantial reduction in interest rates, advocating for lower borrowing costs given the country…"
+        },
+        {
+          "title": "Indian couple win payout after suing UK home office for 'unlawful' immigration detention",
+          "link": "https://timesofindia.indiatimes.com/nri/other-news/failed-asylum-seeking-indian-couple-win-payout-after-suing-uk-home-office-for-being-kept-separately-in-immigration-detention/articleshow/134296573.cms",
+          "date": "17 Sep 2026",
           "summary": ""
         },
         {
-          "title": "'Inflation too high for too long': US Fed hikes interest rates for first time since 2023",
-          "link": "https://timesofindia.indiatimes.com/business/international-business/us-federal-reserve-chair-kevin-warsh-led-fomc-hikes-interest-rate-to-3-75-4-range-first-time-since-2023/articleshow/134292267.cms",
+          "title": "Gang uses stolen hearse to cart away ATM with Rs 12 lakh",
+          "link": "https://timesofindia.indiatimes.com/city/chennai/gang-uses-stolen-hearse-to-cart-away-atm-with-rs-12-lakh/articleshow/134291728.cms",
           "date": "16 Sep 2026",
-          "summary": "The US Federal Reserve's hike decision comes on the back of persistent inflation and a broader increase in global borrowing costs. Inflation has remained stubbornly elevated, while borrowing costs around the world have moved higher."
+          "summary": ""
         },
         {
           "title": "Govt lowers export levies on petrol, diesel and aviation turbine fuel",
@@ -214,10 +226,100 @@
           "summary": "India's government has reduced export levies on petrol, diesel, and aviation fuel. The revised rates for these petroleum products took effect from September sixteenth. Export duty on petrol decreased by one rupee to zero point five rupees per litre. Diesel exp…"
         },
         {
+          "title": "Why Mark Zuckerberg's wife's school was shut down despite $125 million in donations,",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerbergs-wife-priscilla-chan-founded-a-school-10-years-later-and-after-125-million-in-donation-board-voted-to-close-it-after-learning-that-/articleshow/134276310.cms",
+          "date": "16 Sep 2026",
+          "summary": "After ten years in operation, Priscilla Chan's Primary School in East Palo Alto has shut down. Supported by the Chan Zuckerberg Initiative, the school was designed to provide essential services for low-income families. However, despite substantial funding, stu…"
+        },
+        {
+          "title": "Don’t trust Centre unless it’s a written deal, J&amp;K CM tells Ladakhi delegation",
+          "link": "https://timesofindia.indiatimes.com/india/dont-trust-centre-unless-its-a-written-deal-omar-tells-ladakhi-delegation/articleshow/134296549.cms",
+          "date": "17 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "23-year-old Georgia mayor removed from office after misconduct allegations",
+          "link": "https://timesofindia.indiatimes.com/world/us/at-22-jayden-williams-became-stockbridges-youngest-mayor-10-months-later-the-city-council-removed-him-after-a-10-hour-misconduct-hearing/articleshow/134266182.cms",
+          "date": "15 Sep 2026",
+          "summary": "In a surprising turn of events, Stockbridge's youngest mayor, Jayden Williams, was ousted following a misconduct hearing. The city council uncovered serious concerns surrounding his management of resources and city property. Facing claims of financial impropri…"
+        },
+        {
+          "title": "At board meet, Noel Tata to push to keep Tata Sons private",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/at-board-meet-noel-to-push-to-keep-tata-sons-private/articleshow/134296591.cms",
+          "date": "17 Sep 2026",
+          "summary": "Wants To Comply With RBI Order, But Sans Listing"
+        },
+        {
+          "title": "Meta admits mistake, to alert authorities on child sexual abuse material",
+          "link": "https://timesofindia.indiatimes.com/india/child-abuse-content-row-meta-admits-lapses-govt-questions-its-safe-harbour-status/articleshow/134296619.cms",
+          "date": "17 Sep 2026",
+          "summary": "The government is urging Meta to take more accountability for the online content shared on its platform. Following acknowledged shortcomings, Meta risks the loss of its intermediary safe harbour immunity. The company is now mandated to promptly report any inst…"
+        },
+        {
           "title": "Saudi in need, friend Pak missing in 'deed': Islamabad faces ultimate Mecca pact test",
           "link": "https://timesofindia.indiatimes.com/world/middle-east/saudi-in-need-friend-pakistan-missing-in-deed-islamabad-faces-mecca-pact-test-with-iran-looming/articleshow/134288519.cms",
           "date": "16 Sep 2026",
           "summary": "Saudi Arabia said on Wednesday that it had intercepted a Houthi drone heading towards Mecca, calling the security of Islam's holiest city a 'red line'. The Houthis flatly denied targeting Mecca and, in the same round of escalation, claimed to have shot down a…"
+        },
+        {
+          "title": "San Francisco woman invited strangers to picnic; 500 said yes, costs hit $4,000",
+          "link": "https://timesofindia.indiatimes.com/world/us/a-san-francisco-woman-invited-strangers-to-a-simple-park-picnic-more-than-500-said-yes-and-city-rules-pushed-the-estimated-cost-to-as-much-as-4000/articleshow/134287251.cms",
+          "date": "16 Sep 2026",
+          "summary": "What began as a casual picnic invitation in San Francisco has blossomed into a sprawling celebration attracting hundreds. The surge in interest led to the need for permits and enhanced safety measures, resulting in hefty costs for the organizer. Fortunately, P…"
+        },
+        {
+          "title": "Massachusetts removed 2 old dams; 56 acres of wetlands were rebuilt by 2020",
+          "link": "https://timesofindia.indiatimes.com/world/us/in-2018-massachusetts-removed-the-first-of-two-old-dams-from-former-cranberry-bogs-by-2020-56-acres-of-wetlands-had-been-rebuilt-and-200-native-plant-species-had/articleshow/134271451.cms",
+          "date": "16 Sep 2026",
+          "summary": "In a groundbreaking ecological revival, old dams on the Coonamessett River in Massachusetts were dismantled, restoring wetlands and providing passage for migratory fish. This project repurposed industrial farmland into a flourishing coastal ecosystem, allowing…"
+        },
+        {
+          "title": "Elon Musk’s Starlink mobile plan should be ‘laughed out of the room’, says T-Mobile CEO",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/as-elon-musk-plans-to-shake-up-mobile-industry-with-starlink-t-mobile-ceo-peter-osvaldik-says-that-its-strategy-should-be-laughed-out-of-the-room/articleshow/134268655.cms",
+          "date": "15 Sep 2026",
+          "summary": "T-Mobile's CFO Peter Osvaldik has raised concerns about the practicality of Starlink in the mobile sector, citing challenges posed by satellites in urban landscapes. He emphasizes the difficulties in deploying numerous small cell stations as envisioned by Spac…"
+        },
+        {
+          "title": "'Spider-Man' beats 'Star Wars' to become highest-grossing film in North America",
+          "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/spider-man-brand-new-day-overtakes-star-wars-the-force-awakens-to-become-highest-grossing-film-in-north-america-eyes-usd-1-billion-mark/articleshow/134296545.cms",
+          "date": "17 Sep 2026",
+          "summary": "Spider-Man: Brand New Day has now become the highest-grossing film domestically. It surpassed Star Wars: The Force Awakens' long-standing box office record. The film has grossed approximately USD 936.773 million in North America. Globally, Spider-Man: Brand Ne…"
+        },
+        {
+          "title": "Meet Benjamin Davis, 16, who turned 3D printer waste into reusable filament",
+          "link": "https://timesofindia.indiatimes.com/world/us/meet-benjamin-davis-the-16-year-old-massachusetts-student-who-built-a-machine-that-turns-3d-printer-waste-into-reusable-filament-and-won-75000/articleshow/134243144.cms",
+          "date": "16 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "Curtain falls on US-India cultural bridge as Kennedy Center shutters",
+          "link": "https://timesofindia.indiatimes.com/weather/us/sitar-sarod-and-shutdown-curtain-falls-on-a-us-india-cultural-bridge-as-kennedy-center-shutters/articleshow/134291523.cms",
+          "date": "16 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "EPFO raises wage ceiling to Rs 25k, coverage up by Rs 1 crore",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/epfo-raises-wage-ceiling-to-rs-25k-coverage-up-by-rs-1-crore/articleshow/134296603.cms",
+          "date": "17 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "Simone Biles’ $3M mansion: Why did she build her Texas dream home?",
+          "link": "https://timesofindia.indiatimes.com/sports/international-sports/simone-biles-built-a-custom-3-million-waterfront-mansion-in-texas-after-years-of-planning-and-delays-the-olympian-settled-into-the-lakefront-estate-following-a-prior-1-1-million-property-buy/articleshow/134275595.cms",
+          "date": "16 Sep 2026",
+          "summary": "Simone Biles and Jonathan Owens’ Texas lakefront mansion is finally complete after years of planning, approvals and construction delays. The couple started designing the home in 2020 and finished it in November 2025. The reported $3 million property includes a…"
+        },
+        {
+          "title": "Rafael Nadal vs Maria Francisca Perello net worth: Who is richer in 2026?",
+          "link": "https://timesofindia.indiatimes.com/sports/international-sports/rafael-nadal-vs-maria-francisca-perello-net-worth-comparison-in-2026-tennis-career-earnings-endorsements-investments-business-ventures-and-lifestyle/articleshow/134239904.cms",
+          "date": "15 Sep 2026",
+          "summary": "Rafael Nadal and Maria Francisca Perello have built a financially successful household in different ways. Nadal’s fortune is still considerably larger, thanks to tennis prize money, endorsements, investments and businesses built during and after his playing ca…"
+        },
+        {
+          "title": "At halfway mark of third term, PM Modi to hold 'Chintan Shivir'",
+          "link": "https://timesofindia.indiatimes.com/india/at-halfway-mark-of-third-term-pm-modi-to-hold-chintan-shivir/articleshow/134296314.cms",
+          "date": "17 Sep 2026",
+          "summary": ""
         },
         {
           "title": "From Mecca's red line to the 'Gate of Tears': How US-Iran war is closing in on MBS",
@@ -226,20 +328,14 @@
           "summary": ""
         },
         {
-          "title": "Why Mark Zuckerberg's wife's school was shut down despite $125 million in donations,",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerbergs-wife-priscilla-chan-founded-a-school-10-years-later-and-after-125-million-in-donation-board-voted-to-close-it-after-learning-that-/articleshow/134276310.cms",
-          "date": "16 Sep 2026",
-          "summary": "After ten years in operation, Priscilla Chan's Primary School in East Palo Alto has shut down. Supported by the Chan Zuckerberg Initiative, the school was designed to provide essential services for low-income families. However, despite substantial funding, stu…"
-        },
-        {
           "title": "Josh Duhamel turned 52 Minnesota acres into an off-grid family retreat",
           "link": "https://timesofindia.indiatimes.com/real-estate/news/in-2008-actor-josh-duhamel-bought-12-acres-with-a-rustic-fixer-upper-cabin-in-minnesota-with-no-electricity-or-running-water-then-expanded-to-52-acres-now-he-has-built-an-off-grid-family-retreat/articleshow/134258148.cms",
           "date": "15 Sep 2026",
           "summary": "Actor Josh Duhamel has acquired a tranquil property in Minnesota, initially featuring just an old cabin. Over the years, he expanded the land to fifty-two acres, modernizing it with essential utilities like electricity and running water. This transformation ha…"
         },
         {
-          "title": "At halfway mark of third term, PM Modi to hold 'Chintan Shivir'",
-          "link": "https://timesofindia.indiatimes.com/india/at-halfway-mark-of-third-term-pm-modi-to-hold-chintan-shivir/articleshow/134296314.cms",
+          "title": "J&amp;K cop accused of sexually exploiting constable gets bail from HC",
+          "link": "https://timesofindia.indiatimes.com/india/jk-cop-accused-of-sexually-exploiting-constable-gets-bail-from-hc/articleshow/134296570.cms",
           "date": "17 Sep 2026",
           "summary": ""
         },
@@ -250,34 +346,10 @@
           "summary": ""
         },
         {
-          "title": "Anonymous donor gives Cincinnati $1.8 million to restore 228 acres of forest",
-          "link": "https://timesofindia.indiatimes.com/world/us/an-anonymous-donor-gave-cincinnati-1-8-million-to-restore-228-acres-of-forest-the-5-year-project-is-the-citys-biggest-park-reforestation-effort-in-nearly-100-years/articleshow/134283772.cms",
-          "date": "17 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "Fish unseen by scientists for 40 years rediscovered in Papua New Guinea",
-          "link": "https://timesofindia.indiatimes.com/science/wildlife/a-tiny-fish-was-last-recorded-by-scientists-in-1985-40-years-later-an-indigenous-fisherwoman-caught-the-lost-species-in-papua-new-guineas-sepik-river/articleshow/134282255.cms",
-          "date": "16 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "How GPS collars &amp; camera traps changed 'accepted wisdom' about male lions &amp; hyenas",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/how-gps-collars-and-camera-traps-changed-the-long-accepted-wisdom-about-male-lions-and-hyenas-in-african-savannahs-surprising-zoologists/articleshow/134294851.cms",
-          "date": "17 Sep 2026",
-          "summary": "New research challenges the long-held view of lion and hyena interactions. Hyenas typically retreat from lions, while male lions often approach and follow them. This study used GPS collars and direct observations to track these carnivores. The findings suggest…"
-        },
-        {
           "title": "Trump praises PM Modi’s opium crackdown, but India stays on US drug transit list",
           "link": "https://timesofindia.indiatimes.com/india/trump-praises-pm-modi-for-curbing-illicit-opium-cultivation-as-india-stays-on-us-drug-transit-list/articleshow/134295296.cms",
           "date": "17 Sep 2026",
           "summary": "President Trump welcomed Prime Minister Modi's efforts to curb opium poppy cultivation in India. Washington designated India among 23 countries as major drug transit or producing nations. This designation does not reflect a failure to tackle the drug trade by…"
-        },
-        {
-          "title": "Cabinet approves raising EPFO wage ceiling to Rs 25,000; why it matters",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/cabinet-approves-raising-epfo-wage-ceiling-from-rs-15000-to-rs-25000-all-you-need-to-know/articleshow/134284104.cms",
-          "date": "16 Sep 2026",
-          "summary": "The EPFO wage limit had remained unchanged between 2004 and 2014. It was raised to Rs 15,000 in September 2014. The latest decision follows the same approach of periodically updating the ceiling, with the new Rs 25,000 limit intended to account for wage growth…"
         },
         {
           "title": "Land sold for Rs 6.95cr, sister-in-law got Rs 72l; HC orders Rs 1.01cr plus interest",
@@ -292,18 +364,6 @@
           "summary": ""
         },
         {
-          "title": "Tyreek Hill’s $6.9M mansion: Why did his $7.7M listing disappear?",
-          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/tyreek-hill-purchased-a-6-9-million-florida-mansion-after-landing-in-miami-four-years-later-his-nfl-future-changed-and-the-7-7-million-listing-quietly-disappeared/articleshow/134288332.cms",
-          "date": "16 Sep 2026",
-          "summary": "Tyreek Hill has taken his Florida mansion off the market amidst a challenging period in his NFL career. Currently without a contract for the 2026 season, doctors have advised him to delay his return until October due to a knee injury. While his agent notes con…"
-        },
-        {
-          "title": "Coco Gauff vs Emma Raducanu net worth: Who is richer in 2026?",
-          "link": "https://timesofindia.indiatimes.com/sports/international-sports/coco-gauff-vs-emma-raducanu-net-worth-comparison-in-2026-career-earnings-prize-money-endorsements-investments-business-ventures-and-lifestyle-compared/articleshow/134288244.cms",
-          "date": "17 Sep 2026",
-          "summary": "Coco Gauff and Emma Raducanu have gone on very different journeys to make it financially in pro tennis. Gauff has combined big prize money with a host of sponsorships and business opportunities. Raducanu has cashed in on her US Open breakthrough and global pro…"
-        },
-        {
           "title": "UPI charges row: Chidambaram among 5 Congress MPs who had backed revenue framework",
           "link": "https://timesofindia.indiatimes.com/india/upi-charges-row-chidambaram-among-5-congress-mps-who-had-backed-revenue-framework/articleshow/134293943.cms",
           "date": "16 Sep 2026",
@@ -314,66 +374,6 @@
           "link": "https://timesofindia.indiatimes.com/world/middle-east/us-officials-met-houthi-leaders-in-oman-after-red-sea-blitz-got-assurances-report/articleshow/134292300.cms",
           "date": "16 Sep 2026",
           "summary": "US officials reportedly met Houthi representatives in Oman on Sunday. The meeting occurred after Houthis occupied a significant portion of the Red Sea coast. Houthis affirmed no intention of attacking American vessels and committed to a 2025 ceasefire. They al…"
-        },
-        {
-          "title": "100% tariff on India? Russia sanctions bill clears key hurdle, final House vote next",
-          "link": "https://timesofindia.indiatimes.com/business/international-business/100-tariff-on-india-russia-sanctions-bill-clears-key-hurdle-final-house-vote-next/articleshow/134292145.cms",
-          "date": "16 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "Washington couple spent $300,000 on home plans; state wants 44 acres surrendered",
-          "link": "https://timesofindia.indiatimes.com/world/us/a-washington-couple-claims-they-spent-nearly-300000-to-build-a-home-on-their-family-land-after-years-of-permits-and-studies-the-state-demands-they-surrender-44-acres-before-construction-can-begin/articleshow/134282297.cms",
-          "date": "16 Sep 2026",
-          "summary": "Tyler Chambers embarked on an ambitious journey to construct his dream home in Washington. Investing nearly $300,000 into regulatory requirements and necessary studies, he was soon met with neighbor complaints that triggered additional demands. These included…"
-        },
-        {
-          "title": "Xi suffered stroke &amp; fainted at Brics Summit, claims China Democracy Party chief",
-          "link": "https://timesofindia.indiatimes.com/india/xi-suffered-stroke-fainted-at-brics-summit-claims-china-democracy-party-chief-post-gets-community-note/articleshow/134292434.cms",
-          "date": "16 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "Jennifer Lopez’s $28m Bel-Air estate sold for about $34m, below asking",
-          "link": "https://timesofindia.indiatimes.com/real-estate/news/in-2016-jennifer-lopez-bought-an-8-acre-bel-air-estate-for-28-million-seven-years-later-it-sold-for-about-34-million-8-5-million-below-its-42-5-million-ask/articleshow/134258635.cms",
-          "date": "15 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "New Orleans turns 12 million pounds of glass into sand to rebuild wetlands",
-          "link": "https://timesofindia.indiatimes.com/world/us/in-2020-a-new-orleans-project-began-crushing-bottles-into-sand-six-years-later-it-has-diverted-12-million-pounds-of-glass-to-help-rebuild-shrinking-coastal-wetlands/articleshow/134280300.cms",
-          "date": "16 Sep 2026",
-          "summary": "In a groundbreaking initiative in New Orleans, discarded glass bottles are being turned into sand for coastal restoration. Known as Glass Half Full, this program has successfully redirected millions of pounds of glass from local landfills. Current research is…"
-        },
-        {
-          "title": "US limits visas for South African officials over discrimination against White minorities",
-          "link": "https://timesofindia.indiatimes.com/world/us/us-limits-visas-for-south-african-officials-over-discrimination-against-white-minorities/articleshow/134293367.cms",
-          "date": "16 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "'No Pak-China border': India tells Islamabad to drop 'theatrics', vacate territory",
-          "link": "https://timesofindia.indiatimes.com/india/theres-no-pak-china-boundary-india-tells-islamabad-to-drop-theatrics-vacate-occupied-territory/articleshow/134290325.cms",
-          "date": "16 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "He moved to US for work, missed ITR; taxman imposes Rs 8.9L penalty - what ITAT said",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/he-moved-to-the-us-for-a-job-and-forgot-to-file-his-india-itr-taxman-imposed-rs-8-29-lakh-penalty-but-itat-jaipur-cancelled-it-for-this-reason/articleshow/134292229.cms",
-          "date": "16 Sep 2026",
-          "summary": "The individual maintained that he had not deliberately attempted to evade tax. His case was that he had simply missed the ITR deadline while dealing with his relocation and new job in the US."
-        },
-        {
-          "title": "Ravindra Jadeja returns to ODI squad, Dhruv Jurel pips Rishabh Pant; Rohit Sharma stays",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/ravindra-jadeja-returns-to-odi-squad-dhruv-jurel-pips-rishabh-pant-rohit-sharma-stays/articleshow/134291088.cms",
-          "date": "16 Sep 2026",
-          "summary": "India has unveiled its teams for the highly anticipated home series against the West Indies. Shubman Gill will take charge of the One Day International squad, while Shreyas Iyer has been named captain of the Twenty20 International team. Additionally, the Rest…"
-        },
-        {
-          "title": "Watch: Paratrooper makes unique tandem jump with combat canine, handler",
-          "link": "https://timesofindia.indiatimes.com/defence/news/paws-in-the-sky-paratrooper-makes-unique-tandem-jump-with-combat-canine-handler-video/articleshow/134291314.cms",
-          "date": "16 Sep 2026",
-          "summary": ""
         }
       ]
     },
@@ -825,8 +825,69 @@
       "url": "https://www.kdnuggets.com/feed",
       "name": "KDnuggets",
       "cat": "Data Science",
-      "ok": false,
-      "items": []
+      "ok": true,
+      "items": [
+        {
+          "title": "Estimators in Scikit-LLM: A KDnuggets Cheat Sheet",
+          "link": "https://www.kdnuggets.com/estimators-in-scikit-llm-a-kdnuggets-cheat-sheet",
+          "date": "16 Sep 2026",
+          "summary": "Scikit-LLM wraps language models in the scikit-learn estimator API, so it drops into a Pipeline or a cross-validation loop natively."
+        },
+        {
+          "title": "How to Build Effective Evals for AI Agents",
+          "link": "https://www.kdnuggets.com/how-to-build-effective-evals-for-ai-agents",
+          "date": "16 Sep 2026",
+          "summary": "Learn how to build effective evals for AI agents, from designing clear tasks and choosing the right graders to building reliable eval harnesses and tracking changes over time."
+        },
+        {
+          "title": "Orchestration and Execution: How JONI Approaches the Agent Layer",
+          "link": "https://www.kdnuggets.com/2026/09/finpr/orchestration-and-execution-how-joni-approaches-the-agent-layer",
+          "date": "15 Sep 2026",
+          "summary": "Explore how JONI approaches AI agent orchestration with persistent runtimes, multi-model routing, execution capabilities, and reliability beyond simple content generation."
+        },
+        {
+          "title": "How I’m Using Google Opal for Even More AI Automations",
+          "link": "https://www.kdnuggets.com/how-im-using-google-opal-for-even-more-ai-automations",
+          "date": "15 Sep 2026",
+          "summary": "Opal is Google Labs' no-code tool for turning natural language into working AI mini-apps, built on top of an internal framework called Breadboard. Here's how I learned to use it best."
+        },
+        {
+          "title": "5 Free Microsoft GitHub Courses to Learn Data Science and Artificial Intelligence",
+          "link": "https://www.kdnuggets.com/5-free-microsoft-github-courses-to-learn-data-science-and-artificial-intelligence",
+          "date": "15 Sep 2026",
+          "summary": "Explore five free Microsoft GitHub courses covering data science, machine learning, artificial intelligence, generative AI, LLMs, RAG, fine-tuning, and AI agents."
+        },
+        {
+          "title": "7 Python Best Practices Senior Developers Follow (That Beginners Often Miss)",
+          "link": "https://www.kdnuggets.com/7-python-best-practices-senior-developers-follow-that-beginners-often-miss",
+          "date": "14 Sep 2026",
+          "summary": "Senior Python practice, watched up close, is mostly surprise reduction. These seven habits surface the surprises before production does."
+        },
+        {
+          "title": "Why DeepSeek-V4.1-Flash Is Such an Exciting Open Model Release",
+          "link": "https://www.kdnuggets.com/why-deepseek-v4-1-flash-is-such-an-exciting-open-model-release",
+          "date": "14 Sep 2026",
+          "summary": "DeepSeek-V4.1-Flash shows how Causal Encoder-Decoder architecture, MoE, KV cache compression, CSA2, cheaper prefill, and efficient decoding can make powerful open-source AI models far more efficient to run."
+        },
+        {
+          "title": "From Spaghetti Code to Clean Python: A Beginner’s Guide",
+          "link": "https://www.kdnuggets.com/from-spaghetti-code-to-clean-python-a-beginners-guide",
+          "date": "11 Sep 2026",
+          "summary": "Learn how to refactor messy Python code into clean, maintainable functions."
+        },
+        {
+          "title": "5 Python Techniques for Efficient Resource Orchestration",
+          "link": "https://www.kdnuggets.com/5-python-techniques-for-efficient-resource-orchestration",
+          "date": "11 Sep 2026",
+          "summary": "This article explains 5 Python techniques for efficient resource orchestration and sticks to what's stable today, 3.11 and later for the core techniques, with one 3.14-specific tool called out explicitly as requiring that version"
+        },
+        {
+          "title": "A Candid Abacus AI Review: The All-in-One AI Platform for Professionals & Enterprises",
+          "link": "https://www.kdnuggets.com/2026/09/abacus/abacus-ai-candid-review/",
+          "date": "10 Sep 2026",
+          "summary": "If you’re paying for ChatGPT, Claude, and another AI tool simultaneously, this review is for you. It covers what an AI platform like Abacus AI actually includes, how the credit system works in practice, and whether it genuinely replaces your current stack or j…"
+        }
+      ]
     },
     {
       "url": "https://developer.nvidia.com/blog//feed",
@@ -834,6 +895,12 @@
       "cat": "Technical · AI",
       "ok": true,
       "items": [
+        {
+          "title": "How to Use AI Agents to Prepare 3D Scenes for Simulation",
+          "link": "https://developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation/",
+          "date": "16 Sep 2026",
+          "summary": "Agentic AI workflows can be used to prepare and validate digital twins for physical AI systems. Agents can inspect 3D scenes, author simulation-relevant data in..."
+        },
         {
           "title": "TensorRT Edge-LLM Completes the MLPerf Edge Agentic Benchmark 6.4x Faster on Jetson AGX Thor",
           "link": "https://developer.nvidia.com/blog/tensorrt-edge-llm-completes-the-mlperf-edge-agentic-benchmark-6-4x-faster-on-jetson-agx-thor/",
@@ -993,7 +1060,7 @@
         {
           "title": "Experiment with Qwen3.8-Flash-Next on NVIDIA GB300 NVL72 for Agentic Coding",
           "link": "https://developer.nvidia.com/blog/experiment-with-qwen3-8-flash-next-on-nvidia-gb300-nvl72-for-agentic-coding/",
-          "date": "9 Sep 2026",
+          "date": "16 Sep 2026",
           "summary": "Alibaba released the model weights for Qwen3.8-Flash-Next as a preview of the upcoming Qwen4 architecture for developers to experiment with and evaluate. It’s..."
         },
         {
@@ -1007,12 +1074,6 @@
           "link": "https://developer.nvidia.com/blog/cuda-python-1-0-stable-apis-one-foundation-full-platform-access/",
           "date": "24 Aug 2026",
           "summary": "For years, a Python developer who needed a GPU had two realistic choices: Learn NVIDIA CUDA C++ well enough to write an extension, set up a build toolchain, and..."
-        },
-        {
-          "title": "Giga-Scale AI and the Ethernet Evolution: How Spectrum-X Ethernet Rewrites the Rules",
-          "link": "https://developer.nvidia.com/blog/giga-scale-ai-ethernet-evolution-spectrum-x-ethernet-rewrites-rules/",
-          "date": "27 Aug 2026",
-          "summary": "The massive growth of generative AI has fundamentally altered data center design. As distributed model training scales to span hundreds of thousands of GPUs,..."
         }
       ]
     },
@@ -1090,6 +1151,12 @@
       "cat": "Tech · News",
       "ok": true,
       "items": [
+        {
+          "title": "As Part of California's Coast Begins to Crumble, Is the Clock Ticking on Moving Radioactive Waste?",
+          "link": "https://hardware.slashdot.org/story/26/09/14/0536219/as-part-of-californias-coast-begins-to-crumble-is-the-clock-ticking-on-moving-radioactive-waste?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "16 Sep 2026",
+          "summary": "\"As parts of the Southern California coastline crumbled into the sea, slammed by intense waves and flooding in recent days, oceanographer Kim McCoy had one thing on his mind,\" reports the Los Angeles Times. He was thinking about \"the nuclear waste set in concr…"
+        },
         {
           "title": "Anthropic Commits to Independent AI Evaluators, Wants Slower Development. Nvidia's CEO Wants It 'As Fast as You Can'",
           "link": "https://slashdot.org/story/26/09/16/0619212/anthropic-commits-to-independent-ai-evaluators-wants-slower-development-nvidias-ceo-wants-it-as-fast-as-you-can?utm_source=rss1.0mainlinkanon&utm_medium=feed",
@@ -1173,12 +1240,6 @@
           "link": "https://news.slashdot.org/story/26/09/13/2334206/should-us-open-weight-ai-labs-distill-frontier-models-too?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "14 Sep 2026",
           "summary": "Silicon Valley giants and national security experts \"are calling for action against Chinese companies engaged in model distillation,\" reports CNBC. But \"I would do nothing,\" says Y Combinator CEO Garry Tan. \"We could argue that there should be an American dist…"
-        },
-        {
-          "title": "220 Million Traveler Records Exposed In Vietnam-Linked APIS Leak",
-          "link": "https://yro.slashdot.org/story/26/09/12/1758204/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "14 Sep 2026",
-          "summary": "A misconfigured Advance Passenger Information System (APIS) database linked to Vietnam exposed more than 220 million passenger and crew travel records spanning 2017 to 2026, including names, passport numbers, nationalities, flight details, seat assignments, an…"
         }
       ]
     },
@@ -1508,6 +1569,150 @@
       "ok": true,
       "items": [
         {
+          "title": "espeakng-runtime added to PyPI",
+          "link": "https://pypi.org/project/espeakng-runtime/",
+          "date": "16 Sep 2026",
+          "summary": "Small Python runtime adapter for eSpeak NG phonemization"
+        },
+        {
+          "title": "tabpfn-graph added to PyPI",
+          "link": "https://pypi.org/project/tabpfn-graph/",
+          "date": "16 Sep 2026",
+          "summary": "Stable graph-to-table features for TabPFN and scikit-learn estimators"
+        },
+        {
+          "title": "open3d-xpu added to PyPI",
+          "link": "https://pypi.org/project/open3d-xpu/",
+          "date": "16 Sep 2026",
+          "summary": "Open3D: A Modern Library for 3D Data Processing."
+        },
+        {
+          "title": "llmgraph-mcp added to PyPI",
+          "link": "https://pypi.org/project/llmgraph-mcp/",
+          "date": "16 Sep 2026",
+          "summary": "Official Model Context Protocol (MCP) server for LLMGRAPH (powered by Trishul)"
+        },
+        {
+          "title": "llmgraph-in added to PyPI",
+          "link": "https://pypi.org/project/llmgraph-in/",
+          "date": "16 Sep 2026",
+          "summary": "Official Model Context Protocol (MCP) server for llmgraph.in (powered by Trishul)"
+        },
+        {
+          "title": "trishul-mcp added to PyPI",
+          "link": "https://pypi.org/project/trishul-mcp/",
+          "date": "16 Sep 2026",
+          "summary": "Trishul: Deterministic repository-scale code intelligence Model Context Protocol (MCP) server."
+        },
+        {
+          "title": "decider-ref added to PyPI",
+          "link": "https://pypi.org/project/decider-ref/",
+          "date": "16 Sep 2026",
+          "summary": "None"
+        },
+        {
+          "title": "grubgenie-waba-sdk added to PyPI",
+          "link": "https://pypi.org/project/grubgenie-waba-sdk/",
+          "date": "16 Sep 2026",
+          "summary": "Python SDK for the GrubGenie WABA middleware — send messages, manage templates, handle media, receive webhooks"
+        },
+        {
+          "title": "rig-cli added to PyPI",
+          "link": "https://pypi.org/project/rig-cli/",
+          "date": "16 Sep 2026",
+          "summary": "Zero-dependency local dev environment and process runner with dynamic port allocation, socket inheritance, and verified lifecycle management."
+        },
+        {
+          "title": "vector-qsort added to PyPI",
+          "link": "https://pypi.org/project/vector-qsort/",
+          "date": "16 Sep 2026",
+          "summary": "Vectorized quicksort for NumPy arrays using Google Highway SIMD."
+        },
+        {
+          "title": "thermal-mesh-calculators added to PyPI",
+          "link": "https://pypi.org/project/thermal-mesh-calculators/",
+          "date": "16 Sep 2026",
+          "summary": "Physics-driven thermal mesh sizing calculators for automotive CAE — conduction, convection, radiation, transient, and heat-shield solvers."
+        },
+        {
+          "title": "chassis-harness added to PyPI",
+          "link": "https://pypi.org/project/chassis-harness/",
+          "date": "16 Sep 2026",
+          "summary": "Chassis: a production-grade Python agent harness built on scoped ownership, reactive capabilities, and immutable runtime generations."
+        },
+        {
+          "title": "bucketdb added to PyPI",
+          "link": "https://pypi.org/project/bucketdb/",
+          "date": "16 Sep 2026",
+          "summary": "PEP 249 SQL driver backed by DuckDB + S3 (Parquet)"
+        },
+        {
+          "title": "not-a-robot added to PyPI",
+          "link": "https://pypi.org/project/not-a-robot/",
+          "date": "16 Sep 2026",
+          "summary": "Behavioral-telemetry feature extraction and ML scoring for a bot-verification system you run yourself."
+        },
+        {
+          "title": "zerda added to PyPI",
+          "link": "https://pypi.org/project/zerda/",
+          "date": "16 Sep 2026",
+          "summary": "Advanced Retrieval-Augmented Generation (RAG) toolkit with first-class Arabic language support."
+        },
+        {
+          "title": "simplecal-umar added to PyPI",
+          "link": "https://pypi.org/project/simplecal-umar/",
+          "date": "16 Sep 2026",
+          "summary": "A basic arithmetic calculator module"
+        },
+        {
+          "title": "vartrace added to PyPI",
+          "link": "https://pypi.org/project/vartrace/",
+          "date": "16 Sep 2026",
+          "summary": "Estimates whether a variant seen in single-cell RNA-seq is present in the genome"
+        },
+        {
+          "title": "eegflow added to PyPI",
+          "link": "https://pypi.org/project/eegflow/",
+          "date": "16 Sep 2026",
+          "summary": "Name reservation placeholder for EEGFlow (MaxWANGXY)."
+        },
+        {
+          "title": "vigil-monitor added to PyPI",
+          "link": "https://pypi.org/project/vigil-monitor/",
+          "date": "16 Sep 2026",
+          "summary": "Vigil: monitor everything an AI model or agent does, from the outside, with guarantees (ledger, counterfactual replay attribution, revealed objective, conformal escalation, fingerprinting, gateway, dashboard)"
+        },
+        {
+          "title": "temperkb-py added to PyPI",
+          "link": "https://pypi.org/project/temperkb-py/",
+          "date": "16 Sep 2026",
+          "summary": "Python SDK for the Temper knowledge-base API"
+        },
+        {
+          "title": "proofcut added to PyPI",
+          "link": "https://pypi.org/project/proofcut/",
+          "date": "16 Sep 2026",
+          "summary": "Source-available, local-first AI video editor and MCP server: recordings to a finished film, cut by transcript, then verified"
+        },
+        {
+          "title": "message-poster added to PyPI",
+          "link": "https://pypi.org/project/message-poster/",
+          "date": "16 Sep 2026",
+          "summary": "Mirror mail and chat from Microsoft Graph to a webhook, as plain markdown"
+        },
+        {
+          "title": "nopeek added to PyPI",
+          "link": "https://pypi.org/project/nopeek/",
+          "date": "16 Sep 2026",
+          "summary": "Verify that a data pipeline never reads the future"
+        },
+        {
+          "title": "apparel-monster added to PyPI",
+          "link": "https://pypi.org/project/apparel-monster/",
+          "date": "16 Sep 2026",
+          "summary": "SDK and CLI for the Apparel Monster agent commerce API: search the catalog, build a cart, place an order, mint a wallet link. No authentication."
+        },
+        {
           "title": "blocket-toolkit added to PyPI",
           "link": "https://pypi.org/project/blocket-toolkit/",
           "date": "16 Sep 2026",
@@ -1542,150 +1747,6 @@
           "link": "https://pypi.org/project/fg-env/",
           "date": "16 Sep 2026",
           "summary": "The Environments SDK for AI agents: define an environment as one JSON contract, the engine runs it."
-        },
-        {
-          "title": "langchain-agent-margin-router added to PyPI",
-          "link": "https://pypi.org/project/langchain-agent-margin-router/",
-          "date": "16 Sep 2026",
-          "summary": "LangChain integration for the Agent Margin Router: exposes all 39 paid API endpoints (market data, on-chain best-price, news, web, developer tools) as ready-to-use LangChain tools for your agents. Pay per call with USDC on Base via x402, or use an API key."
-        },
-        {
-          "title": "aioli-cli added to PyPI",
-          "link": "https://pypi.org/project/aioli-cli/",
-          "date": "16 Sep 2026",
-          "summary": "aioli — local-first AI media suite CLI (images, video, music, voice, podcast)"
-        },
-        {
-          "title": "odoo-addon-social-media-advertising added to PyPI",
-          "link": "https://pypi.org/project/odoo-addon-social-media-advertising/",
-          "date": "16 Sep 2026",
-          "summary": "Campaigns, campaign groups, ads, stages and tags for social media"
-        },
-        {
-          "title": "qansitextviewer added to PyPI",
-          "link": "https://pypi.org/project/qansitextviewer/",
-          "date": "16 Sep 2026",
-          "summary": "A Qt-based viewer for ANSI-encoded text files."
-        },
-        {
-          "title": "technical-manual-toolkit added to PyPI",
-          "link": "https://pypi.org/project/technical-manual-toolkit/",
-          "date": "16 Sep 2026",
-          "summary": "Technical Manual Toolkit"
-        },
-        {
-          "title": "docverse added to PyPI",
-          "link": "https://pypi.org/project/docverse/",
-          "date": "16 Sep 2026",
-          "summary": "Python client for the Docverse documentation hosting platform."
-        },
-        {
-          "title": "beyondthebox added to PyPI",
-          "link": "https://pypi.org/project/beyondthebox/",
-          "date": "16 Sep 2026",
-          "summary": "Convenient LLM inference on consumer PCs"
-        },
-        {
-          "title": "deriving-machine added to PyPI",
-          "link": "https://pypi.org/project/deriving-machine/",
-          "date": "16 Sep 2026",
-          "summary": "A machine that derives a result from the premises."
-        },
-        {
-          "title": "tyrannis added to PyPI",
-          "link": "https://pypi.org/project/tyrannis/",
-          "date": "16 Sep 2026",
-          "summary": "Flexible optimization framework for particle-based population algorithms, supporting diverse search spaces, optimization strategies, and execution backends."
-        },
-        {
-          "title": "lynxgwas added to PyPI",
-          "link": "https://pypi.org/project/lynxgwas/",
-          "date": "16 Sep 2026",
-          "summary": "Locus analYsis and geNomic eXplorer — local GWAS loci, LD, and fine-mapping viewer"
-        },
-        {
-          "title": "deducing-machine added to PyPI",
-          "link": "https://pypi.org/project/deducing-machine/",
-          "date": "16 Sep 2026",
-          "summary": "A machine that deduces a conclusion from premises."
-        },
-        {
-          "title": "platformio.mcp added to PyPI",
-          "link": "https://pypi.org/project/platformio-mcp/",
-          "date": "16 Sep 2026",
-          "summary": "MCP server that lets AI coding agents drive PlatformIO: boards, projects, build, flash, serial monitor, tests, static analysis, libraries."
-        },
-        {
-          "title": "mcp-switchboard-hub added to PyPI",
-          "link": "https://pypi.org/project/mcp-switchboard-hub/",
-          "date": "16 Sep 2026",
-          "summary": "Aggregating MCP gateway for outbound tunnels, with a web console, call log, and Prometheus/Loki export"
-        },
-        {
-          "title": "mcp-switchboard-client added to PyPI",
-          "link": "https://pypi.org/project/mcp-switchboard-client/",
-          "date": "16 Sep 2026",
-          "summary": "Tunnels local stdio MCP servers to an mcp-switchboard hub over one outbound WebSocket"
-        },
-        {
-          "title": "open-legal-harness added to PyPI",
-          "link": "https://pypi.org/project/open-legal-harness/",
-          "date": "16 Sep 2026",
-          "summary": "Arnés agéntico legal chileno con DeepSeek, Twenty CRM y plugins Open Legal Chile y Legal Graphify"
-        },
-        {
-          "title": "opsiom-cli added to PyPI",
-          "link": "https://pypi.org/project/opsiom-cli/",
-          "date": "16 Sep 2026",
-          "summary": "CLI de chat pour Opsiom, l'assistant IA francophone."
-        },
-        {
-          "title": "qsmy-deepseek-locator added to PyPI",
-          "link": "https://pypi.org/project/qsmy-deepseek-locator/",
-          "date": "16 Sep 2026",
-          "summary": "用 DeepSeek 视觉模型做物体定位：一张图 + 一句话，得到归一化坐标（bbox/point）与中文名称，可直接打标出图。"
-        },
-        {
-          "title": "disproving-machine added to PyPI",
-          "link": "https://pypi.org/project/disproving-machine/",
-          "date": "16 Sep 2026",
-          "summary": "Disproving-Machine ..."
-        },
-        {
-          "title": "compilerlab5 added to PyPI",
-          "link": "https://pypi.org/project/compilerlab5/",
-          "date": "16 Sep 2026",
-          "summary": "Five Compiler Design laboratory programs from Experiments 6-10"
-        },
-        {
-          "title": "keyprint-research-v3 added to PyPI",
-          "link": "https://pypi.org/project/keyprint-research-v3/",
-          "date": "16 Sep 2026",
-          "summary": "Independent experimental watermark reconstruction, frozen v3 core with explicit uncertainty reports"
-        },
-        {
-          "title": "psychopy-fastrak added to PyPI",
-          "link": "https://pypi.org/project/psychopy-fastrak/",
-          "date": "16 Sep 2026",
-          "summary": "This repository contains a [PsychoPy](https://PsychoPy.org/) plugin implementing a [component](https://psychopy.org/builder/components/index.html#components) exposing tacking data from a [Fastrak](https://polhemus.com/all-trackers/fastrak) tracking device."
-        },
-        {
-          "title": "mesta added to PyPI",
-          "link": "https://pypi.org/project/mesta/",
-          "date": "16 Sep 2026",
-          "summary": "Official Mesta Python SDK"
-        },
-        {
-          "title": "proving-machine added to PyPI",
-          "link": "https://pypi.org/project/proving-machine/",
-          "date": "16 Sep 2026",
-          "summary": "A machine that proves validity of statements."
-        },
-        {
-          "title": "omni-extract-bench added to PyPI",
-          "link": "https://pypi.org/project/omni-extract-bench/",
-          "date": "16 Sep 2026",
-          "summary": "One scorer for document-extraction benchmarks: leaf value accuracy with optimal row matching."
         }
       ]
     }
