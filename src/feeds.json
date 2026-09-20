@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20T17:09:35Z",
+  "generated": "2026-09-20T20:01:00Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -29,7 +29,7 @@
           "title": "Rs 4,169 crore IPO rush this week: 19 issues to open for subscription; NSE to lead 12 listings",
           "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/rs-4169-crore-ipo-rush-this-week-19-issues-to-open-for-subscription-nse-to-lead-12-listings/articleshow/134364576.cms",
           "date": "20 Sep 2026",
-          "summary": "India’s primary market is set for a busy week, with 19 IPOs aiming to raise around Rs 4,169 crore, led by Elevate Campuses and Varmora Granito. The week will also see 12 listings, including NSE, as investors track grey market trends."
+          "summary": "India’s primary market is set for a busy week, with 19 IPOs aiming to raise around Rs 4,169 cr, led by Elevate Campuses and Varmora Granito. The week will also see 12 listings, including NSE, as investors track grey market trends."
         },
         {
           "title": "$1.5 trillion wealth transfer is coming. How India’s next-gen HNIs are rebuilding family portfolios",
@@ -196,10 +196,22 @@
       "ok": true,
       "items": [
         {
-          "title": "MAGA brown-out: For Indian Trump acolytes, citizenship comes with an asterisk",
-          "link": "https://timesofindia.indiatimes.com/world/us/maga-brown-out-for-indian-trump-acolytes-citizenship-comes-with-an-asterisk/articleshow/134370837.cms",
+          "title": "Amit Shah wants UCC in all NDA states by 2029. What will JD(U) do in Bihar?",
+          "link": "https://timesofindia.indiatimes.com/india/amit-shah-wants-ucc-in-all-nda-states-by-2029-what-will-jdu-do-in-bihar/articleshow/134366097.cms",
           "date": "20 Sep 2026",
           "summary": ""
+        },
+        {
+          "title": "‘When do I blow entire nation up?' Trump's ultimatum after Iran warns of 'decisive war'",
+          "link": "https://timesofindia.indiatimes.com/world/us/when-do-i-blow-entire-nation-up-trumps-ultimatum-after-iran-warns-of-decisive-war/articleshow/134372224.cms",
+          "date": "20 Sep 2026",
+          "summary": "President Trump warned Iran of serious consequences if it does not change course. He outlined options including destruction, economic collapse, or diplomacy with Iran. Iran's command stated any US attack would face retaliation without limitations. Iran relayed…"
+        },
+        {
+          "title": "93% of deleted Bengal voters have won appeals, EC tells SC",
+          "link": "https://timesofindia.indiatimes.com/india/93-of-deleted-bengal-voters-have-won-appeals-ec-tells-sc/articleshow/134374880.cms",
+          "date": "21 Sep 2026",
+          "summary": "However, It Says Exclusions Didn't Affect Outcome Of Assembly Polls"
         },
         {
           "title": "Landslide, flash flood kill 6 in Kerala amid heavy rain alert - video",
@@ -208,10 +220,58 @@
           "summary": "Tragedy struck Kottakamboor, Kerala, where six lives were lost due to a devastating landslide and flash flood. In response, the India Meteorological Department has issued a warning for increased rainfall across seven districts, including Thiruvananthapuram. Wi…"
         },
         {
-          "title": "Amit Shah wants UCC in all NDA states by 2029. What will JD(U) do in Bihar?",
-          "link": "https://timesofindia.indiatimes.com/india/amit-shah-wants-ucc-in-all-nda-states-by-2029-what-will-jdu-do-in-bihar/articleshow/134366097.cms",
+          "title": "Atlanta man arrested after phone wipe; new ruling allows border searches",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/an-american-citizen-was-arrested-at-atlanta-airport-for-wiping-his-phone-with-pin-during-airport-search-heres-what-new-court-ruling-says-on-phone-and-laptop-searches/articleshow/134350858.cms",
+          "date": "19 Sep 2026",
+          "summary": "US border agents can now search traveler cellphones without reasonable suspicion or a warrant. A recent court ruling affirmed this broad authority at international borders. This decision follows an incident where a phone was wiped during an airport search. The…"
+        },
+        {
+          "title": "Meet Sai Sri Valli Mogilineedi, eighth-grader who designed controlled-release antacid",
+          "link": "https://timesofindia.indiatimes.com/world/us/meet-sai-sri-valli-mogilineedi-the-mechanicsburg-eighth-grader-who-designed-a-controlled-release-antacid-and-became-one-of-30-us-finalists-competing-for-more-than-100000-in-stem-awards/articleshow/134373682.cms",
+          "date": "21 Sep 2026",
+          "summary": "An eighth-grade student from Pennsylvania, Sai Sri Valli Mogilineedi, has become a national finalist for her groundbreaking GERD drug delivery system. She created an innovative controlled release mechanism aimed at prolonging the effectiveness of antacid medic…"
+        },
+        {
+          "title": "46-year-old man found dead inside luxury car in Bengaluru",
+          "link": "https://timesofindia.indiatimes.com/city/bengaluru/46-year-old-man-found-dead-inside-luxury-car-parked-on-koramangala-road-in-bengaluru/articleshow/134372028.cms",
+          "date": "20 Sep 2026",
+          "summary": "A 46-year-old man was found dead in a high-end vehicle on Sunday morning. Identified as Salim Akbar from Kodagu, he was discovered unresponsive. Initial investigations and security camera footage revealed the car had been parked near a restaurant around 2:30 a…"
+        },
+        {
+          "title": "'Could change a lot': Zelenskky and Trump to meet in New York ahead of UNGA",
+          "link": "https://timesofindia.indiatimes.com/world/us/could-change-a-lot-zelenskky-and-trump-to-meet-in-new-york-ahead-of-unga/articleshow/134373778.cms",
+          "date": "21 Sep 2026",
+          "summary": "Ukrainian President Zelenskyy and US President Trump have agreed to a crucial meeting in New York, coinciding with the UN General Assembly. Zelenskyy thanked the US special envoys for their recent visit to Kyiv. During their discussion, the leaders emphasized…"
+        },
+        {
+          "title": "Initial fuel loading begins at Rajasthan Atomic Power Project’s units 7 and 8",
+          "link": "https://timesofindia.indiatimes.com/city/mumbai/initial-fuel-loading-begins-at-rajasthan-atomic-power-projects-units-7-and-8/articleshow/134370138.cms",
           "date": "20 Sep 2026",
           "summary": ""
+        },
+        {
+          "title": "Michael Dell’s $10.9m Boston penthouse heads to auction with $6.5m reserve",
+          "link": "https://timesofindia.indiatimes.com/real-estate/in-2016-michael-dell-paid-10-9-million-for-a-boston-penthouse-10-years-later-the-barely-used-4100-sq-ft-home-is-going-to-auction-with-a-6-5-million-reserve/articleshow/134371976.cms",
+          "date": "20 Sep 2026",
+          "summary": "Michael Dell's luxurious penthouse in Boston is hitting the auction block with a starting bid of $6.5 million. Initially acquired for $10.9 million a decade ago, this stunning property is situated on the 59th floor of the renowned Millennium Tower. Following s…"
+        },
+        {
+          "title": "Couple built $40,000 home with YouTube, sold it for $290,000 and moved to Florida",
+          "link": "https://timesofindia.indiatimes.com/world/us/a-new-york-couple-built-their-2500-sq-ft-home-for-40000-using-youtube-and-discarded-materials-after-selling-it-for-290000-they-moved-to-florida-with-no-jobs-and-became-scuba-instructors/articleshow/134373285.cms",
+          "date": "20 Sep 2026",
+          "summary": "After building a budget-friendly home in New York for just $40,000 and selling it for a striking $290,000, a couple made a spontaneous decision to relocate to Florida. Without job commitments in place, Jessica Patrzyk transitioned into real estate, while her h…"
+        },
+        {
+          "title": "Sam Altman, Elon Musk tease powerful AI model days after backing slower AI pace",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/after-agreeing-with-anthropic-ceo-dario-amodei-on-slowing-pace-of-ai-sam-altman-and-elon-musk-teased-next-powerful-model-days-later/articleshow/134362820.cms",
+          "date": "20 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "Washington couple spent $50m on Lake Washington retreat; now asks $71m",
+          "link": "https://timesofindia.indiatimes.com/real-estate/news/washington-couple-spent-nearly-two-decades-and-50-million-creating-a-resort-style-retreat-on-2-3-acres-of-lake-washington-the-two-home-waterfront-compound-now-asks-71-million/articleshow/134337483.cms",
+          "date": "20 Sep 2026",
+          "summary": "Dwayne and Terese Clark are selling their Lake Washington estate for seventy-one million dollars. This waterfront compound features two Mediterranean-style residences on two point three acres. The property includes a main house and a separate wellness retreat…"
         },
         {
           "title": "Healthcare goes digital: When doctors go behind the app wall, who gets left behind?",
@@ -220,16 +280,34 @@
           "summary": "Digital healthcare presents a dual landscape, offering innovative benefits while simultaneously imposing hurdles for various patients. Younger generations tend to embrace online health services with ease, yet reliable internet access and digital literacy remai…"
         },
         {
+          "title": "MAGA brown-out: For Indian Trump acolytes, citizenship comes with an asterisk",
+          "link": "https://timesofindia.indiatimes.com/world/us/maga-brown-out-for-indian-trump-acolytes-citizenship-comes-with-an-asterisk/articleshow/134370837.cms",
+          "date": "20 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "How Jordon Hudson became an important part of Bill Belichick’s life",
+          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/inspiring-age-gap-love-story-shes-been-through-the-whole-process-and-shes-been-very-helpful-to-me-how-jordon-hudson-became-an-important-part-of-bill-belichicks-life/articleshow/134358215.cms",
+          "date": "20 Sep 2026",
+          "summary": "Bill Belichick rarely discusses his personal life, making his comments about Jordon Hudson particularly notable. During a 2025 interview, he praised Hudson as “terrific” and “very helpful,” explaining that she supported him with business matters and his book w…"
+        },
+        {
+          "title": "Vince and Linda McMahon net worth 2026: How they built their fortune",
+          "link": "https://timesofindia.indiatimes.com/sports/wwe/top-stories/vince-mcmahon-and-linda-mcmahons-combined-net-worth-in-2026-how-wwe-power-couple-builds-billion-dollar-fortune/articleshow/134336239.cms",
+          "date": "18 Sep 2026",
+          "summary": "Vince and Linda McMahon built a global sports entertainment empire from a regional wrestling company. Their combined net worth is estimated at $3.2 billion, largely from WWE. WWE merged with UFC in 2023, creating TKO Group Holdings. Vince McMahon retains a sig…"
+        },
+        {
+          "title": "New Jersey couple gave away 90-acre estate; land is now a free public preserve",
+          "link": "https://timesofindia.indiatimes.com/world/us/a-new-jersey-couple-spent-more-than-40-years-protecting-their-90-acre-property-from-development-after-ultimately-giving-away-the-entire-estate-the-land-is-now-a-free-public-preserve-with-a-201-year-old-tree/articleshow/134367513.cms",
+          "date": "20 Sep 2026",
+          "summary": ""
+        },
+        {
           "title": "China's 13-year-old swimmer breaks Asian Games record, wins 200m butterfly gold",
           "link": "https://timesofindia.indiatimes.com/sports/asian-games-2026/chinas-13-year-old-swimmer-yu-zidi-clocks-205-08-to-break-asian-games-record-wins-200m-butterfly-gold-she-also-became-youngest-medallist-in-world-championships-swimming-history-in-2025/articleshow/134366162.cms",
           "date": "20 Sep 2026",
           "summary": "The 13-year-old, who turns 14 next month, clocked 2:05.08 to break the Asian Games record set by China's Zhang Yufei at the Hangzhou Games three years ago. Zhang had won the event in 2:05.57, and Yu finished nearly half a second quicker."
-        },
-        {
-          "title": "Self-flying aircraft completes first ever flight across US, company honours Wright Brothers",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/from-self-driving-cars-to-self-flying-planes-autonomous-aircraft-completes-first-ever-flight-across-america-honours-wright-brothers/articleshow/134367411.cms",
-          "date": "20 Sep 2026",
-          "summary": "For the first time ever, a self-flying airplane has flown 3,199 miles to complete a journey across the US. A single-engine Cessna Caravan, managed by aerospace firm Joby Aviation, completed the transcontinental voyage without a human pilot onboard, relying ent…"
         },
         {
           "title": "Why Alberta wants out of Canada and how Trump’s ‘51st state’ idea fits in",
@@ -262,30 +340,6 @@
           "summary": ""
         },
         {
-          "title": "Florida sinks 3M lbs concrete off Destin to build 3 artificial reefs",
-          "link": "https://timesofindia.indiatimes.com/world/us/florida-is-sinking-3-million-pounds-of-repurposed-concrete-culverts-off-destin-fort-walton-beach-the-discarded-structures-will-form-three-artificial-reefs-each-built-from-about-500-tons-of-concrete/articleshow/134370215.cms",
-          "date": "20 Sep 2026",
-          "summary": "In an innovative approach, old concrete pipes are being repurposed as artificial reefs in the Gulf of Mexico. This initiative will create three new underwater habitats near Destin-Fort Walton Beach. These structures offer vital shelter for various marine speci…"
-        },
-        {
-          "title": "17-year-old builds 170 AI glasses to help blind navigate after grandma lost sight",
-          "link": "https://timesofindia.indiatimes.com/science/discovery/meet-alexander-du-the-17-year-old-sewickley-student-who-built-170-ai-powered-glasses-to-help-visually-impaired-users-navigate-after-his-grandmother-lost-her-sight/articleshow/134370937.cms",
-          "date": "20 Sep 2026",
-          "summary": "Seventeen-year-old Alexander Du has made waves with his creation, IRIS, an AI-powered wearable aimed at aiding the visually impaired. This device uses vibration technology to assist users in navigation and obstacle detection, providing a cost-effective alterna…"
-        },
-        {
-          "title": "Atlanta man arrested after phone wipe; new ruling allows border searches",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/an-american-citizen-was-arrested-at-atlanta-airport-for-wiping-his-phone-with-pin-during-airport-search-heres-what-new-court-ruling-says-on-phone-and-laptop-searches/articleshow/134350858.cms",
-          "date": "19 Sep 2026",
-          "summary": "US border agents can now search traveler cellphones without reasonable suspicion or a warrant. A recent court ruling affirmed this broad authority at international borders. This decision follows an incident where a phone was wiped during an airport search. The…"
-        },
-        {
-          "title": "Murdoch's Aspen mansion lists for $29.85M after $3M buy in 1980s",
-          "link": "https://timesofindia.indiatimes.com/real-estate/news/rupert-murdoch-bought-his-aspen-retreat-for-3-million-in-the-1980s-and-listed-it-for-5-million-in-1995-now-after-a-major-renovation-the-12172-square-foot-mansion-is-back-on-the-market-for-29-85-million/articleshow/134360222.cms",
-          "date": "20 Sep 2026",
-          "summary": "Rupert Murdoch’s former Aspen retreat has returned to the market for $29.85 million after a major renovation. Murdoch bought the 11,500-square-foot mansion for $3 million in the early 1980s and listed it for $5 million in 1995. The renovated property now spans…"
-        },
-        {
           "title": "Manu Bhaker wore borrowed kit at opening ceremony; ceremonial attire didn’t fit",
           "link": "https://timesofindia.indiatimes.com/sports/asian-games-2026/manu-bhaker-wore-borrowed-kit-at-opening-ceremony-after-ceremonial-attire-didnt-fit/articleshow/134369217.cms",
           "date": "20 Sep 2026",
@@ -296,18 +350,6 @@
           "link": "https://timesofindia.indiatimes.com/india/bjp-congress-trade-barbs-over-pm-modi-mimicry-at-rahul-gandhis-indore-event/articleshow/134370571.cms",
           "date": "20 Sep 2026",
           "summary": "The Bharatiya Janata Party criticized the Congress party after a comedian mimicked Prime Minister Narendra Modi. This performance occurred during an event attended by Congress leader Rahul Gandhi in Madhya Pradesh. Union ministers and other BJP leaders targete…"
-        },
-        {
-          "title": "How Jordon Hudson became an important part of Bill Belichick’s life",
-          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/inspiring-age-gap-love-story-shes-been-through-the-whole-process-and-shes-been-very-helpful-to-me-how-jordon-hudson-became-an-important-part-of-bill-belichicks-life/articleshow/134358215.cms",
-          "date": "20 Sep 2026",
-          "summary": "Bill Belichick rarely discusses his personal life, making his comments about Jordon Hudson particularly notable. During a 2025 interview, he praised Hudson as “terrific” and “very helpful,” explaining that she supported him with business matters and his book w…"
-        },
-        {
-          "title": "Vince and Linda McMahon net worth 2026: How they built their fortune",
-          "link": "https://timesofindia.indiatimes.com/sports/wwe/top-stories/vince-mcmahon-and-linda-mcmahons-combined-net-worth-in-2026-how-wwe-power-couple-builds-billion-dollar-fortune/articleshow/134336239.cms",
-          "date": "18 Sep 2026",
-          "summary": "Vince and Linda McMahon built a global sports entertainment empire from a regional wrestling company. Their combined net worth is estimated at $3.2 billion, largely from WWE. WWE merged with UFC in 2023, creating TKO Group Holdings. Vince McMahon retains a sig…"
         },
         {
           "title": "Italy to limit foreign students, ban burqa and hijab in schools",
@@ -332,48 +374,6 @@
           "link": "https://timesofindia.indiatimes.com/real-estate/news/how-ttd-plans-to-unlock-value-from-land-and-strengthen-its-financial-systems/articleshow/134369884.cms",
           "date": "20 Sep 2026",
           "summary": "The Institute of Chartered Accountants of India is working with Tirumala Tirupati Devasthanams on several key projects. These initiatives include monetizing land assets through real estate investment trusts and valuing gold holdings. An updated accounting manu…"
-        },
-        {
-          "title": "Asian Games Day 1 Medal Tally: Where India rank after two silvers in Aichi-Nagoya",
-          "link": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-day-1-medal-tally-where-india-rank-after-two-shooting-silvers-in-aichi-nagoya/articleshow/134369371.cms",
-          "date": "20 Sep 2026",
-          "summary": "India made a striking start at the Asian Games, capturing two silver medals in shooting events. Elavenil Valarivan was a standout, winning silvers both individually and as part of the team in the 10m air rifle competition. Additionally, the women's cricket tea…"
-        },
-        {
-          "title": "From BJP veteran Advani to Kejriwal: High-profile names get Delhi SIR notices",
-          "link": "https://timesofindia.indiatimes.com/india/not-just-rekha-gupta-and-arvind-kejriwal-lk-advani-manish-sisodia-issued-notices-in-delhi-sir/articleshow/134368051.cms",
-          "date": "20 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "'Largest-ever' attack: Ukraine launches over 1,000 drones at Russia, oil refinery hit",
-          "link": "https://timesofindia.indiatimes.com/world/europe/largest-ever-attack-on-moscow-ukraine-sends-over-1000-drones-into-russia-overnight/articleshow/134366997.cms",
-          "date": "20 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "'Brahmastra' actor in judicial custody after woman files complaint over marriage promise",
-          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/brahmastra-actor-saurav-gurjar-in-judicial-custody-after-woman-files-complaint-over-marriage-promise-report/articleshow/134369341.cms",
-          "date": "20 Sep 2026",
-          "summary": "Saurav Gurjar, known for his role in Mahabharat, has been placed in judicial custody following allegations from a woman who claims he deceived and harassed her under false promises of marriage. After meeting on Instagram and developing a relationship via Whats…"
-        },
-        {
-          "title": "'It tells you how to build a bomb': How terrorists are using AI to plan attacks",
-          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/how-can-i-build-a-bomb-it-tells-you-how-how-boko-haram-fighters-are-using-ai-to-make-explosives-plan-attacks/articleshow/134366362.cms",
-          "date": "20 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "BCCI to draw line on Ombudsman’s jurisdiction over state-level matters | Exclusive",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/bcci-to-draw-line-on-ombudsmans-jurisdiction-over-state-level-matters-exclusive/articleshow/134368960.cms",
-          "date": "20 Sep 2026",
-          "summary": "The move is understood to aim at drawing a clearer line between issues that fall within the Ombudsman’s jurisdiction and those that the respective state associations should address first."
-        },
-        {
-          "title": "'27,000 votes, 27 seats': Akhilesh lays out SP strategy to counter BJP in UP polls",
-          "link": "https://timesofindia.indiatimes.com/india/27000-votes-27-seats-akhilesh-lays-out-samajwadi-party-strategy-to-counter-bjp-in-up-polls/articleshow/134367945.cms",
-          "date": "20 Sep 2026",
-          "summary": ""
         }
       ]
     },
@@ -1630,184 +1630,184 @@
       "ok": true,
       "items": [
         {
-          "title": "jevqa added to PyPI",
-          "link": "https://pypi.org/project/jevqa/",
+          "title": "nexus-certify added to PyPI",
+          "link": "https://pypi.org/project/nexus-certify/",
           "date": "20 Sep 2026",
-          "summary": "Autonomous pre-QA bug hunter for web apps: Jev (TypeSafe) picks actions and judges screens, Claude reads the spec once."
+          "summary": "Nexus Evidence Trust Core and Completion Core"
         },
         {
-          "title": "cheapskate added to PyPI",
-          "link": "https://pypi.org/project/cheapskate/",
+          "title": "kenya-data added to PyPI",
+          "link": "https://pypi.org/project/kenya-data/",
           "date": "20 Sep 2026",
-          "summary": "Drop-in LangChain/LangGraph middleware that cuts frontier LLM API costs via tool pruning, prompt squeezing, and hybrid SLM routing."
+          "summary": "Python SDK for the Kenya Data structured dataset"
         },
         {
-          "title": "meteorbase added to PyPI",
-          "link": "https://pypi.org/project/meteorbase/",
+          "title": "denosaurs added to PyPI",
+          "link": "https://pypi.org/project/denosaurs/",
           "date": "20 Sep 2026",
-          "summary": "A Python client for MeteorBase"
+          "summary": "Modern embedded JavaScript runtime for Python powered by V8 and Rust."
         },
         {
-          "title": "anvil-atui added to PyPI",
-          "link": "https://pypi.org/project/anvil-atui/",
+          "title": "s3-testing added to PyPI",
+          "link": "https://pypi.org/project/s3-testing/",
           "date": "20 Sep 2026",
-          "summary": "Console output manager with spinners, progress bars, and styled UI"
+          "summary": "S3 testing helpers"
         },
         {
-          "title": "typekit2 added to PyPI",
-          "link": "https://pypi.org/project/typekit2/",
+          "title": "facebook-reels-video-scraper added to PyPI",
+          "link": "https://pypi.org/project/facebook-reels-video-scraper/",
           "date": "20 Sep 2026",
-          "summary": "Modern Python client and CLI for the Adobe Fonts (Typekit) API"
+          "summary": "Python SDK for Facebook Reels & Video Scraper on Apify. Collect public Facebook Reels and video results from URLs, searches or profiles through the hosted Apify Actor."
         },
         {
-          "title": "cryptnode added to PyPI",
-          "link": "https://pypi.org/project/cryptnode/",
+          "title": "portolano added to PyPI",
+          "link": "https://pypi.org/project/portolano/",
           "date": "20 Sep 2026",
-          "summary": "Managed multi-portal CryptNode client"
+          "summary": "Project knowledge your coding agent writes, reads and keeps honest - and that knows when it has gone out of date."
         },
         {
-          "title": "broharness added to PyPI",
-          "link": "https://pypi.org/project/broharness/",
+          "title": "jeval added to PyPI",
+          "link": "https://pypi.org/project/jeval/",
           "date": "20 Sep 2026",
-          "summary": "Add your description here"
+          "summary": "Evaluate JSON values against expected checks."
         },
         {
-          "title": "sha-claim added to PyPI",
-          "link": "https://pypi.org/project/sha-claim/",
+          "title": "stakeapi-codestats added to PyPI",
+          "link": "https://pypi.org/project/stakeapi-codestats/",
           "date": "20 Sep 2026",
-          "summary": "Python SDK for Kenya SHA claims via the DHA AfyaConnect HIE eClaims API"
+          "summary": "Unofficial async Python wrapper for the stake.com / stake.us GraphQL API — CodeStats.gg edition"
         },
         {
-          "title": "h1news-mcp added to PyPI",
-          "link": "https://pypi.org/project/h1news-mcp/",
+          "title": "jevals added to PyPI",
+          "link": "https://pypi.org/project/jevals/",
           "date": "20 Sep 2026",
-          "summary": "MCP server for the H1 News API — give Claude, Cursor or any MCP client real-time, ticker-tagged, sentiment-scored financial news."
+          "summary": "Run suites of JSON evaluations and report a score."
         },
         {
-          "title": "hostlens added to PyPI",
-          "link": "https://pypi.org/project/hostlens/",
+          "title": "pyflyrail added to PyPI",
+          "link": "https://pypi.org/project/pyflyrail/",
           "date": "20 Sep 2026",
-          "summary": "High-level Python device discovery and identification for local networks"
+          "summary": "A typed library for reversible coding-agent configuration bundles."
         },
         {
-          "title": "h1news added to PyPI",
-          "link": "https://pypi.org/project/h1news/",
+          "title": "student-ai-wiki added to PyPI",
+          "link": "https://pypi.org/project/student-ai-wiki/",
           "date": "20 Sep 2026",
-          "summary": "Python client for the H1 News API — real-time, ticker-tagged, sentiment-scored financial news over REST and WebSocket."
+          "summary": "A course knowledge wiki for Obsidian, maintained by Claude Code or Codex: ingest, review, exam prep, deadlines and grades."
         },
         {
-          "title": "trajweave added to PyPI",
-          "link": "https://pypi.org/project/trajweave/",
+          "title": "settled-computer added to PyPI",
+          "link": "https://pypi.org/project/settled-computer/",
           "date": "20 Sep 2026",
-          "summary": "Local-first trajectory learning for coding agents. Every run makes the next one better."
+          "summary": "MCP server for desktop computer use with event-driven settling: every action waits until the screen reacts and stops changing, then returns the settled screenshot."
         },
         {
-          "title": "wezterm-codex-status-line added to PyPI",
-          "link": "https://pypi.org/project/wezterm-codex-status-line/",
+          "title": "broodly added to PyPI",
+          "link": "https://pypi.org/project/broodly/",
           "date": "20 Sep 2026",
-          "summary": "Install and configure the WezTerm Codex status line"
+          "summary": "Reserved name for the broodly project. Placeholder release; no functionality yet. https://broodly.app"
         },
         {
-          "title": "poetry-oci added to PyPI",
-          "link": "https://pypi.org/project/poetry-oci/",
+          "title": "llm-keys-ui added to PyPI",
+          "link": "https://pypi.org/project/llm-keys-ui/",
           "date": "20 Sep 2026",
-          "summary": "Poetry plugin for building OCI container images with pyoci"
+          "summary": "A local web UI for managing LLM API keys"
         },
         {
-          "title": "hatch-oci added to PyPI",
-          "link": "https://pypi.org/project/hatch-oci/",
+          "title": "sony-camera-ip-setup added to PyPI",
+          "link": "https://pypi.org/project/sony-camera-ip-setup/",
           "date": "20 Sep 2026",
-          "summary": "Hatch plugin for building OCI container images with pyoci"
+          "summary": "Sony Camera IP Setup — unofficial RM-IP Setup alternative for macOS and Linux."
         },
         {
-          "title": "outturn added to PyPI",
-          "link": "https://pypi.org/project/outturn/",
+          "title": "ink-engine added to PyPI",
+          "link": "https://pypi.org/project/ink-engine/",
           "date": "20 Sep 2026",
-          "summary": "Did the agent produce the right outcome? As a number."
+          "summary": "A standalone Ink interactive-fiction interpreter and plugin engine, with no web framework or database of its own"
         },
         {
-          "title": "numerus-sdk added to PyPI",
-          "link": "https://pypi.org/project/numerus-sdk/",
+          "title": "grain-growth-chunking added to PyPI",
+          "link": "https://pypi.org/project/grain-growth-chunking/",
           "date": "20 Sep 2026",
-          "summary": "Label your agent's transactions on Robinhood Chain so they show up on Numerus."
+          "summary": "Structure-aware document chunking: chunks grow along a document's own grain and never cross a structural barrier."
         },
         {
-          "title": "speccycle added to PyPI",
-          "link": "https://pypi.org/project/speccycle/",
+          "title": "beszel-py added to PyPI",
+          "link": "https://pypi.org/project/beszel-py/",
           "date": "20 Sep 2026",
-          "summary": "Spec-Cycle - Spec-Driven Development orchestrated by Intelligent Agents: 8 phases, approval gates and versioned artifacts in the repository"
+          "summary": "Official Python SDK for Beszel server monitoring API"
         },
         {
-          "title": "prot-rsa added to PyPI",
-          "link": "https://pypi.org/project/prot-rsa/",
+          "title": "ecdat added to PyPI",
+          "link": "https://pypi.org/project/ecdat/",
           "date": "20 Sep 2026",
-          "summary": "Fast protein residue surface-area calculation in Python"
+          "summary": "Cryptographic discovery and post-quantum readiness scanner — CLI with a gradient ASCII banner and an animated 3D globe (CBOM, CycloneDX 1.6)"
         },
         {
-          "title": "datahive-tools added to PyPI",
-          "link": "https://pypi.org/project/datahive-tools/",
+          "title": "agents-local-tts added to PyPI",
+          "link": "https://pypi.org/project/agents-local-tts/",
           "date": "20 Sep 2026",
-          "summary": "Client tooling to collect, validate, annotate and upload HiveBoard manipulation episodes."
+          "summary": "Ultralight CLI for local text-to-speech, powered by Kokoro by default"
         },
         {
-          "title": "skilling added to PyPI",
-          "link": "https://pypi.org/project/skilling/",
+          "title": "oopsie-lib added to PyPI",
+          "link": "https://pypi.org/project/oopsie-lib/",
           "date": "20 Sep 2026",
-          "summary": "Learner CLI and LLM-free reference implementation for the open Skilling course format."
+          "summary": "An unnecessary Python package ever made."
         },
         {
-          "title": "pyoci added to PyPI",
-          "link": "https://pypi.org/project/pyoci/",
+          "title": "naos-web added to PyPI",
+          "link": "https://pypi.org/project/naos-web/",
           "date": "20 Sep 2026",
-          "summary": "Experimental OCI image builder for Python projects (pure Python, Docker-less, Dockerfile-less)."
+          "summary": "Operator interface for naos: runs, runners, images, profiles and the audit trail"
         },
         {
-          "title": "trybench-sdk added to PyPI",
-          "link": "https://pypi.org/project/trybench-sdk/",
+          "title": "memonative added to PyPI",
+          "link": "https://pypi.org/project/memonative/",
           "date": "20 Sep 2026",
-          "summary": "Trace AI applications and test their behavior with Bench"
+          "summary": "Memory engine for LLM applications — extraction, decay, revision chains, retrieval."
         },
         {
-          "title": "kccagpu added to PyPI",
-          "link": "https://pypi.org/project/kccagpu/",
+          "title": "memonative-client added to PyPI",
+          "link": "https://pypi.org/project/memonative-client/",
           "date": "20 Sep 2026",
-          "summary": "Fast implementation of Kernel Canonical Corellation Analysis using GPU"
+          "summary": "Python client for the Memonative memory engine HTTP API."
         },
         {
-          "title": "raycord added to PyPI",
-          "link": "https://pypi.org/project/raycord/",
+          "title": "naos-api added to PyPI",
+          "link": "https://pypi.org/project/naos-api/",
           "date": "20 Sep 2026",
-          "summary": "A raylib-simple wrapper around discord.py for building Discord bots."
+          "summary": "Control plane for naos: owns Runs, their policies and the runners that lease them"
         },
         {
-          "title": "precog-api added to PyPI",
-          "link": "https://pypi.org/project/precog-api/",
+          "title": "x402-agent-gateway added to PyPI",
+          "link": "https://pypi.org/project/x402-agent-gateway/",
           "date": "20 Sep 2026",
-          "summary": "Precog REST API exposing TimesFM-3 forecasts."
+          "summary": "One endpoint for any agent capability: resolve a task, route it to the best provider, pay per call in USDC over x402."
         },
         {
-          "title": "precog-mcp added to PyPI",
-          "link": "https://pypi.org/project/precog-mcp/",
+          "title": "ic-casals added to PyPI",
+          "link": "https://pypi.org/project/ic-casals/",
           "date": "20 Sep 2026",
-          "summary": "MCP server exposing Precog forecasts as tools."
+          "summary": "CLI for querying and commanding a deployed Casals canister orchestrator"
         },
         {
-          "title": "aegis-kernel added to PyPI",
-          "link": "https://pypi.org/project/aegis-kernel/",
+          "title": "lampion-cli added to PyPI",
+          "link": "https://pypi.org/project/lampion-cli/",
           "date": "20 Sep 2026",
-          "summary": "Capability-based constraint enforcement for AI agents, with a regression suite that hunts its own loopholes and an MCP server auditor."
+          "summary": "CLI for Lampion — sovereign serverless PostgreSQL hosted in France"
         },
         {
-          "title": "sadakio-mcp added to PyPI",
-          "link": "https://pypi.org/project/sadakio-mcp/",
+          "title": "ruletreerank added to PyPI",
+          "link": "https://pypi.org/project/ruletreerank/",
           "date": "20 Sep 2026",
-          "summary": "MCP server for the Sadakio Public API — read a business's own guests, visits and retention from any MCP client"
+          "summary": "Interpretable Learning-to-Rank via rule-based grouping and local instance-based refinement"
         },
         {
-          "title": "piitag added to PyPI",
-          "link": "https://pypi.org/project/piitag/",
+          "title": "kasra-mcp-server added to PyPI",
+          "link": "https://pypi.org/project/kasra-mcp-server/",
           "date": "20 Sep 2026",
-          "summary": "Python port of Desert Ant Labs' Redact on-device PII detector"
+          "summary": "Model Context Protocol (MCP) server for Kasra Lite Attendance and Personnel Management System"
         }
       ]
     }
