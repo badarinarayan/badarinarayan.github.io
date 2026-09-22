@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-22T19:24:31Z",
+  "generated": "2026-09-22T22:33:15Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,12 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "Dow, S&amp;P 500 slip as oil hovers near $100 despite Nasdaq’s record close",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-sp-500-slip-as-oil-hovers-near-100-despite-nasdaqs-record-close/articleshow/134420046.cms",
+          "date": "23 Sep 2026",
+          "summary": "The Dow and S&P 500 declined sharply as oil prices rallied near the $100 mark, causing apprehension among investors. However, the Nasdaq soared to a historic high, fueled by the performance of Micron Technology and companies in the AI sector."
+        },
         {
           "title": "Hindustan Copper shares gain 3% as company plans Rs 7,000 crore capital investment in next 5 years",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-copper-shares-gain-3-as-company-plans-rs-7000-crore-capital-investment-in-next-5-years/articleshow/134404296.cms",
@@ -36,12 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/waaree-energies-shares-gain-2-after-company-bags-2-gw-solar-module-order/articleshow/134402610.cms",
           "date": "22 Sep 2026",
           "summary": "Waaree Energies shares rose after securing a 2 GW solar module supply order from a leading domestic solar developer for FY27-FY28. The contract’s value remains undisclosed. Despite the order, the stock has declined recently and trades below seven of eight SMAs…"
-        },
-        {
-          "title": "Polycab shares slide 17% in 3 months amid Ultravolt shock, but Jefferies sees 33% upside. What’s behind the bullish view?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/polycab-shares-slide-17-in-3-months-amid-ultravolt-shock-but-jefferies-sees-33-upside-whats-behind-the-bullish-view/articleshow/134402210.cms",
-          "date": "22 Sep 2026",
-          "summary": "Polycab shares have fallen 17% from their June peak after UltraTech entered the wires and cables segment. Jefferies retained its Buy rating and Rs 11,100 target, implying 33% upside, citing strong demand, volume growth and Polycab’s distribution strength."
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -196,7 +196,13 @@
       "ok": true,
       "items": [
         {
-          "title": "From ‘annihilate Iran’ to ‘super intelligence’, Trump's boasts of US power at UNGA",
+          "title": "'Told him to tolerate it': Parents regret advice to kid in IIT-B suicide case",
+          "link": "https://timesofindia.indiatimes.com/city/mumbai/made-a-mistake-by-telling-him-to-tolerate-it-grieving-parents-demand-arrests-in-iit-bombay-student-suicide-case/articleshow/134414786.cms",
+          "date": "22 Sep 2026",
+          "summary": "Sahil Wakode’s parents have alleged that the 19-year-old IIT Bombay student had told them he was facing casteist slurs, humiliation and harassment at the institute for around three months. They demanded a thorough probe into the allegations and immediate actio…"
+        },
+        {
+          "title": "From ‘annihilate Iran’ to ‘super intelligence’, Trump boasts of US power at UNGA",
           "link": "https://timesofindia.indiatimes.com/world/us/trump-threatens-to-annihilate-iran-make-a-deal-or-get-destroyed/articleshow/134417865.cms",
           "date": "22 Sep 2026",
           "summary": "US President Donald Trump delivered a speech at the United Nations General Assembly stressing the need for confronting Iran. He indicated a choice between reaching a deal with Tehran or military action against the country. Trump's address included remarks on v…"
@@ -208,15 +214,39 @@
           "summary": ""
         },
         {
-          "title": "'Told him to tolerate it': Parents regret advice to kid in IIT-B suicide case",
-          "link": "https://timesofindia.indiatimes.com/city/mumbai/made-a-mistake-by-telling-him-to-tolerate-it-grieving-parents-demand-arrests-in-iit-bombay-student-suicide-case/articleshow/134414786.cms",
+          "title": "US approves $425 million sale of MH-60R Seahawk helicopters and equipments to Denmark",
+          "link": "https://timesofindia.indiatimes.com/defence/international/us-approves-425-million-sale-of-mh-60r-seahawk-helicopters-and-equipments-to-denmark/articleshow/134418132.cms",
           "date": "22 Sep 2026",
-          "summary": "Sahil Wakode’s parents have alleged that the 19-year-old IIT Bombay student had told them he was facing casteist slurs, humiliation and harassment at the institute for around three months. They demanded a thorough probe into the allegations and immediate actio…"
+          "summary": ""
+        },
+        {
+          "title": "Ahead of ‘firing’ deaths anniversary, promise of Article 371 framework for Ladakh",
+          "link": "https://timesofindia.indiatimes.com/india/ahead-of-firing-deaths-anniversary-promise-of-article-371-framework-for-ladakh/articleshow/134420177.cms",
+          "date": "23 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "MediaTek targets Qualcomm's fortress with an unmatched new weapon",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/mediatek-seems-ready-to-storm-into-qualcomms-biggest-fortress-and-with-a-weapon-that-american-chip-maker-still-has-no-answer-to/articleshow/134412852.cms",
+          "date": "22 Sep 2026",
+          "summary": "MediaTek has taken the lead over Qualcomm by launching the Dimensity 9600 Pro—the world’s first flagship smartphone chip built on TSMC’s 2nm process. The move signals MediaTek's aggressive push into the premium Android market, offering top-tier performance, ef…"
         },
         {
           "title": "Vietnam to Colombo flight makes emergency landing at Chennai airport",
           "link": "https://timesofindia.indiatimes.com/city/chennai/vietjet-flight-makes-emergency-landing-at-chennai-airport/articleshow/134418100.cms",
           "date": "22 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "Gold jumps 60% to Rs 1.57L from Rs 98,000 a year ago; sales fall 15%, coins gain",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/gold-prices-surge-60-from-rs-98000-to-rs-1-57-lakh-per-10-grams-in-a-year-ganesh-chaturthi-sales-fall-15-as-buyers-switch-to-lighter-jewellery-also-buy-coins/articleshow/134405905.cms",
+          "date": "22 Sep 2026",
+          "summary": "In Mumbai's spot market on Monday, gold was trading at Rs 1.57 lakh per 10 grams, including 3% goods and services tax. This was around 60% higher than the Rs 98,000 per 10 grams recorded on Ganesh Chaturthi last year, which fell on August 28."
+        },
+        {
+          "title": "Indian Navy to procure 6 more landing craft utility platforms to boost amphibious ops",
+          "link": "https://timesofindia.indiatimes.com/defence/news/indian-navy-plans-to-procure-six-more-landing-craft-utility-platforms-to-boost-amphibious-operations/articleshow/134420711.cms",
+          "date": "23 Sep 2026",
           "summary": ""
         },
         {
@@ -226,10 +256,40 @@
           "summary": "Lady Shri Ram College cancelled regular classes and shifted them online after a 17-year-old girl was allegedly gang-raped at Aastha Kunj Park near Kalkaji Mandir. Police said three men, posing as policemen, allegedly separated the girl from her male friend and…"
         },
         {
-          "title": "MediaTek targets Qualcomm's fortress with an unmatched new weapon",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/mediatek-seems-ready-to-storm-into-qualcomms-biggest-fortress-and-with-a-weapon-that-american-chip-maker-still-has-no-answer-to/articleshow/134412852.cms",
+          "title": "History refuses to leave J&amp;K as assembly debates Hari Singh, Sheikh Abdullah anniv holidays",
+          "link": "https://timesofindia.indiatimes.com/india/history-refuses-to-leave-jk-as-assembly-debates-hari-singh-sheikh-abdullah-anniv-holidays/articleshow/134420161.cms",
+          "date": "23 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "Australian couple’s A$100,000 tiny rental now earns about A$200,000 a year",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/in-2025-an-australian-couple-launched-an-a100000-flat-pack-pod-on-their-sunshine-coast-farm-the-tiny-rental-now-earns-about-a200000-a-year-at-near-full-occupancy/articleshow/134396867.cms",
+          "date": "23 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "Muhammad Ali's 1915 LA mansion with Tiffany glass sells for $8.5M",
+          "link": "https://timesofindia.indiatimes.com/world/us/muhammad-alis-1915-los-angeles-mansion-was-bought-for-2-5-million-in-2001-restored-while-retaining-its-tiffany-stained-glass-listed-for-nearly-17-million-and-finally-sold-for-8-5-million-in-2024/articleshow/134396541.cms",
           "date": "22 Sep 2026",
-          "summary": "MediaTek has taken the lead over Qualcomm by launching the Dimensity 9600 Pro—the world’s first flagship smartphone chip built on TSMC’s 2nm process. The move signals MediaTek's aggressive push into the premium Android market, offering top-tier performance, ef…"
+          "summary": "The legendary mansion of Muhammad Ali in Los Angeles has been sold for a remarkable $8.5 million. Designed in the elegant Italian Renaissance style, this exquisite property was built in 1915 and boasts original architectural details. With nine bedrooms and sev…"
+        },
+        {
+          "title": "USCIS warns against websites and businesses ‘guaranteeing’ faster visa",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/us-immigration-warns-visa-applicants-against-websites-and-businesses-guaranteeing-visa-green-card-or-work-permit-faster/articleshow/134383537.cms",
+          "date": "21 Sep 2026",
+          "summary": "USCIS has issued a warning to visa applicants regarding fraudulent businesses that claim to expedite processing times through alleged government ties for a fee. It is crucial for applicants to utilize official .gov resources and report any suspicious offers th…"
+        },
+        {
+          "title": "Pink bought 200-acre California ranch; 13 years later, it became a vineyard",
+          "link": "https://timesofindia.indiatimes.com/world/us/in-2013-pink-paid-nearly-9-million-for-a-200-acre-california-ranch-with-a-10000-sq-ft-home-13-years-later-the-estate-has-become-a-working-organic-vineyard-producing-her-two-wolves-wine/articleshow/134386358.cms",
+          "date": "21 Sep 2026",
+          "summary": "Pink bought a 200-acre California ranch with her husband Carey Hart for nearly $9 million in 2013. What began as an interest in wine grew into Two Wolves, an organic wine business. After years of studying winemaking and making small batches privately, Pink rel…"
+        },
+        {
+          "title": "J&amp;K scans 21 lakh library books, pulls out 4,000 titles; ‘objectionable content’ under scrutiny",
+          "link": "https://timesofindia.indiatimes.com/india/jk-scans-21-lakh-library-books-pulls-out-4000-titles-objectionable-content-under-scrutiny/articleshow/134420150.cms",
+          "date": "23 Sep 2026",
+          "summary": ""
         },
         {
           "title": "Trump-Pezeshkian meeting on UNGA sidelines? US prez 'open' to talks with Iran",
@@ -238,10 +298,22 @@
           "summary": ""
         },
         {
-          "title": "Lionel Richie hospitalized again with irregular heartbeat, has AFib procedure",
-          "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/lionel-richie-hospitalised-for-third-time-in-three-months-with-irregular-heartbeat-undergoes-afib-heart-procedure-earth-wind-fire-cancel-three-tour-shows/articleshow/134416377.cms",
+          "title": "Naomi Osaka’s family faced eviction before her Grand Slam success",
+          "link": "https://timesofindia.indiatimes.com/sports/international-sports/in-2014-naomi-osakas-family-faced-eviction-while-she-was-still-chasing-her-tennis-breakthrough-a-year-later-she-had-earned-just-6290-in-six-months-before-becoming-a-four-time-grand-slam-champion/articleshow/134381473.cms",
+          "date": "21 Sep 2026",
+          "summary": "During the evolution of her remarkable tennis career, which boasts four Grand Slam titles and a peak world ranking of number one, Naomi Osaka navigated challenging eviction notices. Beyond her athletic achievements, she has ventured into investments and sports…"
+        },
+        {
+          "title": "Terry Bradshaw’s $22.5M ranch: How did his 744-acre estate grow?",
+          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/for-more-than-20-years-nfl-legend-terry-bradshaw-built-an-expansive-oklahoma-ranch-years-later-his-744-acre-property-sold-for-22-5-million-after-becoming-a-major-equestrian-operation/articleshow/134402855.cms",
           "date": "22 Sep 2026",
-          "summary": "Lionel Richie has been hospitalised for the third time in three months after experiencing atrial fibrillation, according to reports. The singer is undergoing a heart procedure to treat the irregular heartbeat. His latest health issue has also led to the cancel…"
+          "summary": "Terry Bradshaw's vast Oklahoma ranch, spanning 744 acres and once a thriving quarter horse breeding and cattle operation, has officially sold for $22.5 million. This property also served as the backdrop for the show 'The Bradshaw Bunch.' After a lengthy five-y…"
+        },
+        {
+          "title": "Jaxson Dart injury update: Will the QB need season-ending surgery?",
+          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/jaxson-dart-injury-update-qbs-injury-takes-terrifying-turn-as-he-now-faces-possible-season-ending-surgery/articleshow/134419362.cms",
+          "date": "23 Sep 2026",
+          "summary": "New York Giants quarterback Jaxson Dart has received troubling news regarding his knee injury from further tests. Initially, the team had hoped for a manageable recovery, but recent evaluations have changed this outlook. Reports suggest that season-ending surg…"
         },
         {
           "title": "CSK's Vansh Bedi says he is not the unnamed player in sting operation row",
@@ -262,30 +334,6 @@
           "summary": ""
         },
         {
-          "title": "Illinois thrift store collects 100,000 donated items to help families in crisis",
-          "link": "https://timesofindia.indiatimes.com/world/us/an-illinois-thrift-store-has-collected-more-than-100000-donated-items-and-runs-with-200-regular-volunteers-using-every-resale-purchase-to-support-local-families-in-crisis/articleshow/134416126.cms",
-          "date": "22 Sep 2026",
-          "summary": "House of Hope Resale, located in Barrington, Illinois, serves as a vital resource for families in financial distress. The non-profit efficiently manages more than 100,000 donated items, supported by a dedicated team of 200 volunteers. Sales revenue from the st…"
-        },
-        {
-          "title": "Hayden Panettiere died of accidental overdose involving fentanyl, coroner says",
-          "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/hayden-panettiere-cause-of-death-revealed-heroes-and-nashville-star-died-of-accidental-overdose-involving-fentanyl-and-other-drugs-says-coroner/articleshow/134415602.cms",
-          "date": "22 Sep 2026",
-          "summary": "Hayden Panettiere’s cause of death has been revealed by the Greenville County Coroner’s Office. The 36-year-old Heroes and Nashville star died from an accidental overdose involving fentanyl and several other drugs. Panettiere was found unresponsive at a South…"
-        },
-        {
-          "title": "USCIS warns against websites and businesses ‘guaranteeing’ faster visa",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/us-immigration-warns-visa-applicants-against-websites-and-businesses-guaranteeing-visa-green-card-or-work-permit-faster/articleshow/134383537.cms",
-          "date": "21 Sep 2026",
-          "summary": "USCIS has issued a warning to visa applicants regarding fraudulent businesses that claim to expedite processing times through alleged government ties for a fee. It is crucial for applicants to utilize official .gov resources and report any suspicious offers th…"
-        },
-        {
-          "title": "Why mutual consent does not mean an instant divorce for couples in India",
-          "link": "https://timesofindia.indiatimes.com/women/life-love-self/both-spouses-want-the-marriage-to-end-mutual-consent-can-help-them-decide-better-but-agreement-does-not-mean-an-instant-divorce/articleshow/134416748.cms",
-          "date": "22 Sep 2026",
-          "summary": "The law offers two very different roads to divorce. The real difference is rarely visible in the courtroom , it shows up in everything that happens outside it."
-        },
-        {
           "title": "Who is Dinesh Thakkar? Angel One boss who bought a Mumbai tower for Rs 711 crore?",
           "link": "https://timesofindia.indiatimes.com/business/india-business/who-is-dinesh-thakkar-angel-one-boss-who-bought-a-mumbai-tower-for-rs-711-crore/articleshow/134417341.cms",
           "date": "22 Sep 2026",
@@ -296,24 +344,6 @@
           "link": "https://timesofindia.indiatimes.com/science/indias-space-sovereignty-from-building-missions-to-building-depth-milestones-gaps-whats-next/articleshow/134404971.cms",
           "date": "22 Sep 2026",
           "summary": "India has proven its capability to design and launch complex spacecraft independently. The nation now focuses on building industrial depth for space sovereignty and self-reliance. A burgeoning private sector and numerous startups are transforming India's space…"
-        },
-        {
-          "title": "Naomi Osaka’s family faced eviction before her Grand Slam success",
-          "link": "https://timesofindia.indiatimes.com/sports/international-sports/in-2014-naomi-osakas-family-faced-eviction-while-she-was-still-chasing-her-tennis-breakthrough-a-year-later-she-had-earned-just-6290-in-six-months-before-becoming-a-four-time-grand-slam-champion/articleshow/134381473.cms",
-          "date": "21 Sep 2026",
-          "summary": "During the evolution of her remarkable tennis career, which boasts four Grand Slam titles and a peak world ranking of number one, Naomi Osaka navigated challenging eviction notices. Beyond her athletic achievements, she has ventured into investments and sports…"
-        },
-        {
-          "title": "Brittany Mahomes’ $4.26m compound: What makes the Kansas City home unique?",
-          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/brittany-mahomes-helped-design-a-4-26-million-kansas-city-compound-with-a-chefs-kitchen-wine-cellar-and-a-full-football-field-in-the-backyard/articleshow/134405526.cms",
-          "date": "22 Sep 2026",
-          "summary": "Brittany and Patrick Mahomes have built a luxurious Kansas City compound reflecting their lifestyle. This sprawling estate features a custom chef's kitchen and a wine cellar for entertaining. A resort-style pool and a regulation-size football field are notable…"
-        },
-        {
-          "title": "Terry Bradshaw’s $22.5m ranch: How did his 744-acre property grow?",
-          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/for-more-than-20-years-nfl-legend-terry-bradshaw-built-an-expansive-oklahoma-ranch-years-later-his-744-acre-property-sold-for-22-5-million-after-becoming-a-major-equestrian-operation/articleshow/134402855.cms",
-          "date": "22 Sep 2026",
-          "summary": "Terry Bradshaw's vast Oklahoma ranch, spanning 744 acres and once a thriving quarter horse breeding and cattle operation, has officially sold for $22.5 million. This property also served as the backdrop for the show 'The Bradshaw Bunch.' After a lengthy five-y…"
         },
         {
           "title": "‘Kashmir issue should be addressed through dialogue’: Turkey's Erdogan at UNGA",
@@ -344,36 +374,6 @@
           "link": "https://timesofindia.indiatimes.com/india/must-act-now-kashmiri-leader-urges-unhrc-action-over-worsening-rights-situation-in-pojk-pogb/articleshow/134416750.cms",
           "date": "22 Sep 2026",
           "summary": "Sardar Shaukat Ali Kashmiri has appealed to the UN Human Rights Council for urgent intervention regarding deteriorating human rights conditions in Pakistan-occupied Jammu and Kashmir. He emphasised the need for an independent investigation into alleged violati…"
-        },
-        {
-          "title": "From tariff overlord to tarmac man, Trump to roll out red carpet for Xi",
-          "link": "https://timesofindia.indiatimes.com/world/us/from-tariff-overlord-to-tarmac-man-donald-trump-to-roll-out-red-carpet-for-xi-jinping/articleshow/134415950.cms",
-          "date": "22 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "Pak must take credible action on crossborder terror before world believes it: MEA",
-          "link": "https://timesofindia.indiatimes.com/india/pakistan-must-take-credible-action-on-crossborder-terror-before-world-believes-it-mea/articleshow/134414794.cms",
-          "date": "22 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "'AI is amazing, want to name it 'super intelligence': Trump at UNGA",
-          "link": "https://timesofindia.indiatimes.com/world/us/i-have-made-peace-trump-calls-on-all-nations-to-impose-complete-blockade-on-iran-at-unga/articleshow/134412968.cms",
-          "date": "22 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "Asian Games Medal Tally: Where does India rank after women's cricket retains gold?",
-          "link": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-medal-tally-where-does-india-rank-after-womens-cricket-retains-gold/articleshow/134413865.cms",
-          "date": "22 Sep 2026",
-          "summary": "India’s women's cricket team showcased their prowess once again, winning the gold medal at the Asian Games for the second time. Under the captaincy of Harmanpreet Kaur, they triumphed over Sri Lanka by an impressive 147 runs. This victory elevates India's meda…"
-        },
-        {
-          "title": "Trump touts Venezuela oil deal, says it will drive down energy prices worldwide",
-          "link": "https://timesofindia.indiatimes.com/business/international-business/unga-address-donald-trump-touts-venezuela-oil-deal-says-it-will-drive-down-energy-prices-worldwide/articleshow/134415730.cms",
-          "date": "22 Sep 2026",
-          "summary": "US President Donald Trump announced a major oil deal with Venezuela. This agreement covers sixty-five billion barrels of oil and aims to lower global energy costs. The deal is expected to boost Venezuela's oil production significantly over time. Experts, howev…"
         }
       ]
     },
@@ -760,6 +760,12 @@
       "ok": true,
       "items": [
         {
+          "title": "OpenAI's GPT-6 Sol and Luna cut prices in half but barely move the needle on performance",
+          "link": "https://the-decoder.com/openais-gpt-6-sol-and-luna-cut-prices-in-half-but-barely-move-the-needle-on-performance/",
+          "date": "22 Sep 2026",
+          "summary": "With GPT-6 Sol and Luna, OpenAI adds two cheaper models that deliver their predecessors' performance at half the token price and take aim at Anthropic's pricier offerings. Independent analyses find little gain in actual intelligence, though, and OpenAI likely…"
+        },
+        {
           "title": "Claude Opus 5.5 matches Fable 5.1 performance at lower cost and promises less \"Claudish\" writing",
           "link": "https://the-decoder.com/claude-opus-5-5-matches-fable-5-1-at-40-percent-lower-cost-as-anthropic-promises-to-fix-claudish-writing/",
           "date": "22 Sep 2026",
@@ -812,12 +818,6 @@
           "link": "https://the-decoder.com/bytedance-launches-dramagic-a-full-pipeline-ai-platform-for-producing-short-dramas-from-script-to-screen/",
           "date": "21 Sep 2026",
           "summary": "Bytedance launched Dramagic, an AI platform that handles the entire short drama production pipeline, from script to video preview. Demand for these videos is surging in China: In Q1 2026 alone, 128,000 short dramas were released there, 95 percent of them AI-ge…"
-        },
-        {
-          "title": "SoftBank to borrow over $11 billion in risky bonds for OpenAI stake",
-          "link": "https://the-decoder.com/softbank-to-borrow-over-11-billion-in-risky-bonds-for-openai-stake/",
-          "date": "21 Sep 2026",
-          "summary": "SoftBank plans to borrow more than $11 billion from investors through risky bonds to fund another payment for its stake in OpenAI. The article SoftBank to borrow over $11 billion in risky bonds for OpenAI stake appeared first on The Decoder ."
         }
       ]
     },
@@ -825,8 +825,69 @@
       "url": "https://www.kdnuggets.com/feed",
       "name": "KDnuggets",
       "cat": "Data Science",
-      "ok": false,
-      "items": []
+      "ok": true,
+      "items": [
+        {
+          "title": "Bravely AI Browsing with Leo",
+          "link": "https://www.kdnuggets.com/bravely-ai-browsing-with-leo",
+          "date": "22 Sep 2026",
+          "summary": "Learn about private AI browsing for data professionals."
+        },
+        {
+          "title": "7 Open-Source Alternatives to ChatGPT You Can Run Locally",
+          "link": "https://www.kdnuggets.com/7-open-source-alternatives-to-chatgpt-you-can-run-locally",
+          "date": "22 Sep 2026",
+          "summary": "Explore seven open-source ChatGPT alternatives, from lightweight local chat interfaces and document assistants to agent platforms, multi-user setups, and complete self-hosted AI workspaces."
+        },
+        {
+          "title": "What Everyone Is Getting Wrong About TypeSafe AI’s Jev",
+          "link": "https://www.kdnuggets.com/what-everyone-is-getting-wrong-about-typesafe-ais-jev",
+          "date": "21 Sep 2026",
+          "summary": "A closer look at TypeSafe AI’s Jev, what it actually does, what is genuinely new, and where the hype goes too far."
+        },
+        {
+          "title": "How to Turn a Python Script Into an AI Agent",
+          "link": "https://www.kdnuggets.com/how-to-turn-a-python-script-into-an-ai-agent",
+          "date": "21 Sep 2026",
+          "summary": "Learn how to build a Python AI agent with the OpenAI Agents SDK, using tool calling and function tools to automate multi-step workflows."
+        },
+        {
+          "title": "3 Polars Tricks for High-Performance Data Manipulation",
+          "link": "https://www.kdnuggets.com/3-polars-tricks-for-high-performance-data-manipulation",
+          "date": "21 Sep 2026",
+          "summary": "Almost every slow Polars script lacks in terms of one of these two: its expression engine written and executing in Rust across every core at its disposal, and its query optimizer that rewrites your work before any of it runs."
+        },
+        {
+          "title": "Reusing the Prompt Prefix with a Key-Value Cache for SLM Optimization",
+          "link": "https://www.kdnuggets.com/reusing-the-prompt-prefix-with-a-key-value-cache-for-slm-optimization",
+          "date": "18 Sep 2026",
+          "summary": "In this second article in our short series on SLM optimization techniques we focus on the reuse of the prompt prefix with a key-value cache."
+        },
+        {
+          "title": "5 Prompt Optimization Strategies That Actually Improve LLM Output",
+          "link": "https://www.kdnuggets.com/5-prompt-optimization-strategies-that-actually-improve-llm-output",
+          "date": "18 Sep 2026",
+          "summary": "This article covers five prompt optimization strategies such as: prompt optimization, prompt engineering, LLM output quality, few-shot prompting, chain-of-thought, structured outputs."
+        },
+        {
+          "title": "What’s So Good About ChatGPT Work? Here’s What I Found",
+          "link": "https://www.kdnuggets.com/whats-so-good-about-chatgpt-work-heres-what-i-found",
+          "date": "17 Sep 2026",
+          "summary": "This article walks through how ChatGPT Work specifically earns its reputation, where the underlying models genuinely hold up against the competition, and where the honest limits are."
+        },
+        {
+          "title": "5 Free Zoomcamps From Data Pipelines to AI Agents",
+          "link": "https://www.kdnuggets.com/5-free-zoomcamps-from-data-pipelines-to-ai-agents",
+          "date": "17 Sep 2026",
+          "summary": "Explore five free hands-on workshops covering data engineering, machine learning, MLOps, LLMs, AI agents, and AI development through practical lessons, homework, projects, and community-based learning."
+        },
+        {
+          "title": "Estimators in Scikit-LLM: A KDnuggets Cheat Sheet",
+          "link": "https://www.kdnuggets.com/estimators-in-scikit-llm-a-kdnuggets-cheat-sheet",
+          "date": "16 Sep 2026",
+          "summary": "Scikit-LLM wraps language models in the scikit-learn estimator API, so it drops into a Pipeline or a cross-validation loop natively."
+        }
+      ]
     },
     {
       "url": "https://developer.nvidia.com/blog//feed",
@@ -1091,6 +1152,12 @@
       "ok": true,
       "items": [
         {
+          "title": "Are Students Suddenly Losing Interest in Computer Science as AI Coding Takes Off?",
+          "link": "https://news.slashdot.org/story/26/09/22/0010234/are-students-suddenly-losing-interest-in-computer-science-as-ai-coding-takes-off?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "22 Sep 2026",
+          "summary": "On academic mentoring platform Nova Learning, Computer Science and AI, \"once the dominant choice among students... is losing ground fast, while Engineering has nearly doubled its share.\" It's a small survey, but \"The steepest proportional decline is in Softwar…"
+        },
+        {
           "title": "'Coyote vs. Acme' Outgrosses All But 3 WB Movies This Year, Heads To Profit",
           "link": "https://entertainment.slashdot.org/story/26/09/22/0529223/coyote-vs-acme-outgrosses-all-but-3-wb-movies-this-year-heads-to-profit?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "22 Sep 2026",
@@ -1173,12 +1240,6 @@
           "link": "https://politics.slashdot.org/story/26/09/19/2250231/tech-industry-scratches-its-head-over-trumps-ai-force-proposal?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "20 Sep 2026",
           "summary": "Saturday morning President Trump announced he's creating an AI task force and appointing an AI czar, reports Politico. \"I am forming the AI Force, much like I did Space Force, which has been a tremendous SUCCESS,\" Trump wrote Saturday in what Politico earlier…"
-        },
-        {
-          "title": "Customer-Losing Flock Now Offers Buyouts to Avoid Laying Off Employees",
-          "link": "https://yro.slashdot.org/story/26/09/19/2349229/customer-losing-flock-now-offers-buyouts-to-avoid-laying-off-employees?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "20 Sep 2026",
-          "summary": "Mashable writes: Flock Safety offered employees voluntary buyouts on Friday, WIRED reported... Without the buyouts, those familiar with the situation suspect the company would have to lay off some of its 1,500 employees. WIRED writes that people familiar with…"
         }
       ]
     },
@@ -1569,184 +1630,184 @@
       "ok": true,
       "items": [
         {
-          "title": "word2pdf added to PyPI",
-          "link": "https://pypi.org/project/word2pdf/",
+          "title": "byte-bot added to PyPI",
+          "link": "https://pypi.org/project/byte-bot/",
           "date": "22 Sep 2026",
-          "summary": "Convert .docx to PDF in pure Python - no Word, no LibreOffice, no external binaries"
+          "summary": "Local dashboard for monitoring coding agents with optional Telegram status"
         },
         {
-          "title": "pylon-db added to PyPI",
-          "link": "https://pypi.org/project/pylon-db/",
+          "title": "instinct-ai added to PyPI",
+          "link": "https://pypi.org/project/instinct-ai/",
           "date": "22 Sep 2026",
-          "summary": "Async PostgreSQL mapper build on typed Python dataclasses."
+          "summary": "Universal System-1 AI Instinct Runtime & Dual-Brain Decision Gateway"
         },
         {
-          "title": "opentrajectory added to PyPI",
-          "link": "https://pypi.org/project/opentrajectory/",
+          "title": "flywheel-relay added to PyPI",
+          "link": "https://pypi.org/project/flywheel-relay/",
           "date": "22 Sep 2026",
-          "summary": "Python package for OpenTrajectory, a standard for agent trajectories."
+          "summary": "A zero-dependency, accountable coding agent that runs on any model endpoint: local (served 14B/32B or Ollama) or online (codex/claude/gemini/deepseek via your own keys, subscription CLI, or gateway), with automatic failover, a gated tool loop, and a hash-chain…"
         },
         {
-          "title": "octo-bed-protocol added to PyPI",
-          "link": "https://pypi.org/project/octo-bed-protocol/",
+          "title": "flywheel-mneme added to PyPI",
+          "link": "https://pypi.org/project/flywheel-mneme/",
           "date": "22 Sep 2026",
-          "summary": "Wire protocol of Octo adjustable bed controllers over Bluetooth Low Energy"
+          "summary": "Accountable agent memory with layered retrieval, source provenance, re-derivable recall receipts, and drift checks. Zero runtime dependencies."
         },
         {
-          "title": "aidoo-mcp added to PyPI",
-          "link": "https://pypi.org/project/aidoo-mcp/",
+          "title": "amityping added to PyPI",
+          "link": "https://pypi.org/project/amityping/",
           "date": "22 Sep 2026",
-          "summary": "Connect any MCP client to your Odoo ERP through Aidoo"
+          "summary": "LCLS analysis monitoring type annotations"
         },
         {
-          "title": "invincible-ai added to PyPI",
-          "link": "https://pypi.org/project/invincible-ai/",
+          "title": "coherence-membrane added to PyPI",
+          "link": "https://pypi.org/project/coherence-membrane/",
           "date": "22 Sep 2026",
-          "summary": "Multi-provider AI gateway with session memory and MCP tool execution"
+          "summary": "Give AI agents inspectable observations of files, images, screens, and context with receipt-backed perception."
         },
         {
-          "title": "attest-policy added to PyPI",
-          "link": "https://pypi.org/project/attest-policy/",
+          "title": "tidal-dl-sg added to PyPI",
+          "link": "https://pypi.org/project/tidal-dl-sg/",
           "date": "22 Sep 2026",
-          "summary": "attest policy model and deterministic evaluation"
+          "summary": "TIDAL Downloader Super Gen"
         },
         {
-          "title": "attest-store added to PyPI",
-          "link": "https://pypi.org/project/attest-store/",
+          "title": "file-analyzer-server added to PyPI",
+          "link": "https://pypi.org/project/file-analyzer-server/",
           "date": "22 Sep 2026",
-          "summary": "attest Git-ref, filesystem, and OCI storage adapters"
+          "summary": "The database-hosting server for the file-analyzer platform: session-token catalog, PROJECT_ROOT-{token}-{db} storage in SQLite/Postgres/MySQL, detached PID lifecycle, chunked rotating backups, and a token-authenticated HTTP control plane."
         },
         {
-          "title": "attest-cli added to PyPI",
-          "link": "https://pypi.org/project/attest-cli/",
+          "title": "file-analyzer-engine added to PyPI",
+          "link": "https://pypi.org/project/file-analyzer-engine/",
           "date": "22 Sep 2026",
-          "summary": "attest command-line composition and presentation layer"
+          "summary": "The analyzer fleet for the file-analyzer platform: turns a source tree into a queryable SQLite/PostgreSQL database of code, schemas, data, archives, binaries and docs -- without executing it -- plus a live background monitor, an MCP agent-enrichment tier, and…"
         },
         {
-          "title": "inference-audit-pk added to PyPI",
-          "link": "https://pypi.org/project/inference-audit-pk/",
+          "title": "file-analyzer-client added to PyPI",
+          "link": "https://pypi.org/project/file-analyzer-client/",
           "date": "22 Sep 2026",
-          "summary": "NLP dataset quality auditor: label distribution, near-duplicates, language contamination, missing values, and annotation consistency checks in one command."
+          "summary": "Tiny, dependency-free client for the file-analyzer platform: connect to a hosted server, read/query a local .db offline, and (optionally) run analysis when the engine wheel is installed."
         },
         {
-          "title": "python-constricter added to PyPI",
-          "link": "https://pypi.org/project/python-constricter/",
+          "title": "gparatype added to PyPI",
+          "link": "https://pypi.org/project/gparatype/",
           "date": "22 Sep 2026",
-          "summary": "Lint rules: every local variable is typed where it's first bound. A flake8 plugin, a pylint plugin and a standalone CLI."
+          "summary": "Architecture-aware research prototype for Glaesserella parasuis capsule and serovar genomic interpretation"
         },
         {
-          "title": "conducto-ai added to PyPI",
-          "link": "https://pypi.org/project/conducto-ai/",
+          "title": "sahlkit added to PyPI",
+          "link": "https://pypi.org/project/sahlkit/",
+          "date": "22 Sep 2026",
+          "summary": "مكتبة أدوات Python بسيطة: نصوص، أرقام، وتحقق من البيانات"
+        },
+        {
+          "title": "ucgmsim-workflow added to PyPI",
+          "link": "https://pypi.org/project/ucgmsim-workflow/",
+          "date": "22 Sep 2026",
+          "summary": "Next generation workflow powered by cylc."
+        },
+        {
+          "title": "openpyxl-toolkit added to PyPI",
+          "link": "https://pypi.org/project/openpyxl-toolkit/",
+          "date": "22 Sep 2026",
+          "summary": "openpyxl formatting without the boilerplate."
+        },
+        {
+          "title": "streamcast added to PyPI",
+          "link": "https://pypi.org/project/streamcast/",
+          "date": "22 Sep 2026",
+          "summary": "A replayable WebSocket multicaster. One stream in, logged to an Iceberg table, broadcast to many."
+        },
+        {
+          "title": "pluto-enem added to PyPI",
+          "link": "https://pypi.org/project/pluto-enem/",
+          "date": "22 Sep 2026",
+          "summary": "Biblioteca Python para questões, alternativas e imagens do ENEM"
+        },
+        {
+          "title": "cashela-payin added to PyPI",
+          "link": "https://pypi.org/project/cashela-payin/",
+          "date": "22 Sep 2026",
+          "summary": "Cashela Pay-In client SDK"
+        },
+        {
+          "title": "inn-check-ru added to PyPI",
+          "link": "https://pypi.org/project/inn-check-ru/",
+          "date": "22 Sep 2026",
+          "summary": "Проверка российского контрагента по ИНН: светофор риска по открытым реестрам (ЕГРЮЛ, ГИР БО, МСП, санкции РФМ/OFAC/EU), финансовая патология и признаки дробления кодом. CLI и MCP-сервер."
+        },
+        {
+          "title": "pyclasslife added to PyPI",
+          "link": "https://pypi.org/project/pyclasslife/",
+          "date": "22 Sep 2026",
+          "summary": "Typed Python client for the Classlife API."
+        },
+        {
+          "title": "capyidx added to PyPI",
+          "link": "https://pypi.org/project/capyidx/",
+          "date": "22 Sep 2026",
+          "summary": "Codebase indexing and deterministic symbol lookup for repositories."
+        },
+        {
+          "title": "devlab added to PyPI",
+          "link": "https://pypi.org/project/devlab/",
+          "date": "22 Sep 2026",
+          "summary": "CLI that turns repository-stored specifications, plans, and tasks into reviewed software changes through bounded, role-based agent sessions."
+        },
+        {
+          "title": "simplibs-rules added to PyPI",
+          "link": "https://pypi.org/project/simplibs-rules/",
+          "date": "22 Sep 2026",
+          "summary": "Composable, explicit validation rules — pure predicates, zero transformation."
+        },
+        {
+          "title": "trustgate-sdk added to PyPI",
+          "link": "https://pypi.org/project/trustgate-sdk/",
+          "date": "22 Sep 2026",
+          "summary": "TrustGate SDK - governed tools and models for agents, over the MCP and LLM planes of a TrustGate gateway."
+        },
+        {
+          "title": "mcp-winaccess-win added to PyPI",
+          "link": "https://pypi.org/project/mcp-winaccess-win/",
+          "date": "22 Sep 2026",
+          "summary": "Windows-only desktop automation MCP server (ctypes + UI Automation, no pyautogui/pywinauto)"
+        },
+        {
+          "title": "plone.recyclebin added to PyPI",
+          "link": "https://pypi.org/project/plone-recyclebin/",
+          "date": "22 Sep 2026",
+          "summary": "A recycle bin for Plone"
+        },
+        {
+          "title": "warcforhumans added to PyPI",
+          "link": "https://pypi.org/project/warcforhumans/",
           "date": "22 Sep 2026",
           "summary": "None"
         },
         {
-          "title": "autosre-agent added to PyPI",
-          "link": "https://pypi.org/project/autosre-agent/",
+          "title": "centimane added to PyPI",
+          "link": "https://pypi.org/project/centimane/",
           "date": "22 Sep 2026",
-          "summary": "⚡ AutoSRE: Autonomous Incident Response Agent powered by Corrective RAG (CRAG) & Multi-Index Hybrid Search"
+          "summary": "One engineer, a hundred hands: an open-source orchestrator for parallel AI coding agents."
         },
         {
-          "title": "attest-sign added to PyPI",
-          "link": "https://pypi.org/project/attest-sign/",
+          "title": "yoga1290.rag added to PyPI",
+          "link": "https://pypi.org/project/yoga1290-rag/",
           "date": "22 Sep 2026",
-          "summary": "attest Sigstore signing and verification adapters"
+          "summary": "Document AI and RAG application"
         },
         {
-          "title": "attest-collect added to PyPI",
-          "link": "https://pypi.org/project/attest-collect/",
+          "title": "doushi-cli added to PyPI",
+          "link": "https://pypi.org/project/doushi-cli/",
           "date": "22 Sep 2026",
-          "summary": "attest Git and provenance-signal collectors"
+          "summary": "Official CLI for Doushi.ai - Instant Autonomous ML Modeling from your Terminal"
         },
         {
-          "title": "attest-core added to PyPI",
-          "link": "https://pypi.org/project/attest-core/",
+          "title": "earthranger-cli added to PyPI",
+          "link": "https://pypi.org/project/earthranger-cli/",
           "date": "22 Sep 2026",
-          "summary": "attest core domain model, canonicalisation, and CSD-1 digest"
-        },
-        {
-          "title": "htmlsift added to PyPI",
-          "link": "https://pypi.org/project/htmlsift/",
-          "date": "22 Sep 2026",
-          "summary": "Main-content extraction for web pages"
-        },
-        {
-          "title": "ufo-tdkit-tools added to PyPI",
-          "link": "https://pypi.org/project/ufo-tdkit-tools/",
-          "date": "22 Sep 2026",
-          "summary": "PS hints extraction, optimization, and preserve-mode compilation for UFO fonts"
-        },
-        {
-          "title": "DangDuyMinh-ToanHoc added to PyPI",
-          "link": "https://pypi.org/project/dangduyminh-toanhoc/",
-          "date": "22 Sep 2026",
-          "summary": "Thư viện toán học cơ bản"
-        },
-        {
-          "title": "lupaxa-dns-blacklist-checker added to PyPI",
-          "link": "https://pypi.org/project/lupaxa-dns-blacklist-checker/",
-          "date": "22 Sep 2026",
-          "summary": "Check whether an IPv4 address or hostname is listed on DNS blacklists."
-        },
-        {
-          "title": "redact-secret-adapters added to PyPI",
-          "link": "https://pypi.org/project/redact-secret-adapters/",
-          "date": "22 Sep 2026",
-          "summary": "Host integrations for Redact Secret: stdlib logging and OpenTelemetry adapters over the deterministic core."
-        },
-        {
-          "title": "vallox-rs485-protocol added to PyPI",
-          "link": "https://pypi.org/project/vallox-rs485-protocol/",
-          "date": "22 Sep 2026",
-          "summary": "Wire protocol of Vallox ventilation units with an RS485 interface"
-        },
-        {
-          "title": "horismos added to PyPI",
-          "link": "https://pypi.org/project/horismos/",
-          "date": "22 Sep 2026",
-          "summary": "Ontology-first neuro-symbolic agent framework: Rust core, Python bindings. Neural proposes; symbolic decides."
-        },
-        {
-          "title": "jsonl-viewer added to PyPI",
-          "link": "https://pypi.org/project/jsonl-viewer/",
-          "date": "22 Sep 2026",
-          "summary": "A terminal viewer for JSONL files"
-        },
-        {
-          "title": "localorder added to PyPI",
-          "link": "https://pypi.org/project/localorder/",
-          "date": "22 Sep 2026",
-          "summary": "None"
-        },
-        {
-          "title": "openmm-opes added to PyPI",
-          "link": "https://pypi.org/project/openmm-opes/",
-          "date": "22 Sep 2026",
-          "summary": "OpenMM implementation of On-the-fly Probability Enhanced Sampling (OPES)"
-        },
-        {
-          "title": "augplot added to PyPI",
-          "link": "https://pypi.org/project/augplot/",
-          "date": "22 Sep 2026",
-          "summary": "Turn notebook data into visualizations and reusable Python with an LLM."
-        },
-        {
-          "title": "libert added to PyPI",
-          "link": "https://pypi.org/project/libert/",
-          "date": "22 Sep 2026",
-          "summary": "CLI rápida para download de livros do welib"
-        },
-        {
-          "title": "tigotell-client added to PyPI",
-          "link": "https://pypi.org/project/tigotell-client/",
-          "date": "22 Sep 2026",
-          "summary": "Async Python client for gongloo/TigoTell"
-        },
-        {
-          "title": "morfiade added to PyPI",
-          "link": "https://pypi.org/project/morfiade/",
-          "date": "22 Sep 2026",
-          "summary": "Python client for the Morfiade local API — script local Chrome profiles on Windows"
+          "summary": "CLI for creating and editing EarthRanger event categories, choices, and v2 event types, and posting events."
         }
       ]
     }
