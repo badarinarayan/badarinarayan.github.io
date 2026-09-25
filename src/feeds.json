@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-25T17:38:36Z",
+  "generated": "2026-09-25T20:53:41Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,12 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "Dow ends 400 points higher as investors buy AI stocks; Microsoft rallies",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-ends-400-points-higher-as-investors-buy-ai-stocks-microsoft-rallies/articleshow/134492147.cms",
+          "date": "26 Sep 2026",
+          "summary": "Wall Street experienced gains on Friday, driven by positive performance from Microsoft and AI-related technology stocks. High oil prices and rising US Treasury yields created investor uncertainty throughout the week. Various industries are under scrutiny regar…"
+        },
         {
           "title": "Adani group entities swap 86 lakh shares of Adani Enterprises in Rs 2,498 cr block deal",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/adani-group-entities-swap-86-lakh-shares-of-adani-enterprises-in-rs-2498-cr-block-deal/articleshow/134488246.cms",
@@ -36,12 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-fed-proposes-new-rules-for-stablecoin-issuers-under-genius-act/articleshow/134476037.cms",
           "date": "25 Sep 2026",
           "summary": "The US Federal Reserve proposed rules for dollar-backed stablecoin issuers, advancing implementation of the GENIUS Act. The framework would require full reserve backing, capital and risk-management standards, and oversight for banks safeguarding reserves. It a…"
-        },
-        {
-          "title": "Tata Sons boardroom battle intensifies but Tata Group stocks remain unbothered. Should you buy?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-group-stocks-in-focus-as-tata-sons-rejects-noel-tatas-objections-says-chandrasekarans-reappointment-is-valid/articleshow/134475308.cms",
-          "date": "25 Sep 2026",
-          "summary": "Tata Sons has rejected Noel Tata’s objections to N Chandrasekaran’s reappointment, saying the board’s decision was valid and made in accordance with the company’s Articles of Association."
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -196,15 +196,27 @@
       "ok": true,
       "items": [
         {
+          "title": "Trump embraces Xi as peer, alarms partners and critics",
+          "link": "https://timesofindia.indiatimes.com/world/us/trump-embraces-xi-as-peer-alarms-partners-and-critics/articleshow/134489947.cms",
+          "date": "25 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "India is kicking car safety into top gear with Bharat NCAP 2.0: What you need to know",
+          "link": "https://timesofindia.indiatimes.com/india/5-ways-india-is-kicking-car-safety-into-top-gear-with-bharat-ncap-2-0-what-buyers-need-to-know/articleshow/134487081.cms",
+          "date": "25 Sep 2026",
+          "summary": "Bharat NCAP is set to evolve with its second phase, Bharat NCAP 2.0, planned for October 2027. This revised framework will assess vehicle safety across multiple stages, including crash avoidance and post-collision care. The new system promises to go beyond jus…"
+        },
+        {
           "title": "UP polls: Why Akhilesh’s ‘rath’ show in Raebareli is message for Rahul",
           "link": "https://timesofindia.indiatimes.com/india/2027-up-assembly-polls-fight-against-bjp-or-congress-why-akhileshs-rath-show-in-raebareli-is-message-for-rahul/articleshow/134487928.cms",
           "date": "25 Sep 2026",
           "summary": "The Samajwadi Party's election campaign in Uttar Pradesh has been launched by Akhilesh Yadav, amid escalating conflicts with Congress over seat-sharing negotiations. Each party is eager to highlight their recent electoral achievements in their pursuit of power…"
         },
         {
-          "title": "Trump embraces Xi as peer, alarms partners and critics",
-          "link": "https://timesofindia.indiatimes.com/world/us/trump-embraces-xi-as-peer-alarms-partners-and-critics/articleshow/134489947.cms",
-          "date": "25 Sep 2026",
+          "title": "Pakistan PM draws ‘red line’ over Mecca at UN, defends Saudi-Türkiye defence pact",
+          "link": "https://timesofindia.indiatimes.com/world/pakistan/no-muslim-can-even-dare-pakistan-pm-at-un-condemns-houthi-attacks-draws-red-line-over-mecca/articleshow/134492050.cms",
+          "date": "26 Sep 2026",
           "summary": ""
         },
         {
@@ -212,6 +224,30 @@
           "link": "https://timesofindia.indiatimes.com/india/unease-within-nda-over-ec-sir-row-three-bjp-allies-seek-clarification-as-opposition-keeps-up-pressure/articleshow/134488531.cms",
           "date": "25 Sep 2026",
           "summary": ""
+        },
+        {
+          "title": "Zuckerberg’s $300m superyacht docks in Japan, gets neighbour who once wanted Meta out",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerbergs-300-million-superyacht-docked-in-japan-for-the-first-time-launchpad-has-a-new-neighbour-the-billionaire-who-once-wanted-meta-suspend-its-japanese-operations/articleshow/134478817.cms",
+          "date": "25 Sep 2026",
+          "summary": "Mark Zuckerberg's impressive superyacht, Launchpad, has recently anchored in Japan, right beside Yusaku Maezawa's Nausicaä. Their close proximity underscores an ongoing legal dispute as Maezawa pursues Meta for the misuse of his name in deceptive investment ad…"
+        },
+        {
+          "title": "Urban travellers choose hotels, rural India turns to dharamshalas: NSO survey",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/urban-travellers-prefer-hotels-rural-dharamshalas/articleshow/134492185.cms",
+          "date": "26 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "Nebraska couple lost $59,759 home over $588 tax debt; compensation claim revived",
+          "link": "https://timesofindia.indiatimes.com/world/us/a-nebraska-couple-lost-a-mortgage-free-home-assessed-at-59759-after-a-588-21-tax-debt-grew-to-5268-32-the-us-supreme-court-sent-the-case-back-and-nebraskas-top-court-revived-the-compensation-claim/articleshow/134486717.cms",
+          "date": "25 Sep 2026",
+          "summary": "A Nebraska couple, Kevin Fair and Terry Fair, lost their home due to unpaid property taxes totaling $588. After being unable to pay the amount required to redeem their property, Continental Resources obtained a tax deed. Fair claimed that losing property worth…"
+        },
+        {
+          "title": "Tom Brady vs Patrick Mahomes: Why TB12 Foundation can't match 15 and Mahomies",
+          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/tom-brady-vs-patrick-mahomes-why-tb12-foundation-could-never-match-15-and-the-mahomies/articleshow/134486061.cms",
+          "date": "25 Sep 2026",
+          "summary": "Tom Brady’s TB12 Foundation was focused on health and wellness of underserved athletes and service members. Patrick Mahomes’ 15 and the Mahomies is focused on children, communities in need of resources and other charitable causes. Mahomes’ foundation is more p…"
         },
         {
           "title": "Hardik Pandya set to miss India A fixtures; racing against time for New Zealand tour",
@@ -226,10 +262,28 @@
           "summary": "Under the deal, the state department has notified Congress of a possible sale of 48 jets, with engines and support, which would make Saudi Arabia the second country in the Middle East to fly the aircraft after Israel. The Saudi jets will reportedly not have al…"
         },
         {
-          "title": "Zuckerberg’s $300m superyacht docks in Japan, gets neighbour who once wanted Meta out",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerbergs-300-million-superyacht-docked-in-japan-for-the-first-time-launchpad-has-a-new-neighbour-the-billionaire-who-once-wanted-meta-suspend-its-japanese-operations/articleshow/134478817.cms",
+          "title": "Georgia landowner claimed $23m tax break; court backs $480,000 valuation",
+          "link": "https://timesofindia.indiatimes.com/real-estate/news/a-georgia-landowner-claimed-a-23-million-tax-deduction-for-a-103-acre-conservation-easement-an-appeals-court-upheld-a-valuation-of-just-480000-and-a-40-penalty-after-rejecting-the-propertys-proposed-quarry-value/articleshow/134478527.cms",
           "date": "25 Sep 2026",
-          "summary": "Mark Zuckerberg's impressive superyacht, Launchpad, has recently anchored in Japan, right beside Yusaku Maezawa's Nausicaä. Their close proximity underscores an ongoing legal dispute as Maezawa pursues Meta for the misuse of his name in deceptive investment ad…"
+          "summary": "A Georgia landowner claimed a $23 million charitable tax deduction after donating a 103-acre conservation easement, arguing the property could have been used as an aggregate quarry. The US Tax Court rejected the proposed quarry use, valuing the easement at $48…"
+        },
+        {
+          "title": "California used 662,700 waste tires under I-880 ramp; no issues in 22 years",
+          "link": "https://timesofindia.indiatimes.com/world/us/in-2000-california-packed-662700-shredded-waste-tires-beneath-an-i-880-on-ramp-they-cut-foundation-stress-40-saved-477000-and-calrecycle-later-reported-22-years-without-repairs-or-issues/articleshow/134462701.cms",
+          "date": "24 Sep 2026",
+          "summary": "Engineers faced challenges while upgrading a highway interchange in Milpitas due to unstable bay mud. They opted to use shredded waste tires as lightweight fill to prevent ground settlement. This choice reduced weight on the soft soil by 40 percent and saved s…"
+        },
+        {
+          "title": "Jeff Bezos’ Earth Fund adds $25 million for Pacific ocean conservation",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/in-2023-jeff-bezos-earth-fund-pledged-100-million-for-pacific-conservation-three-years-later-a-new-25-million-round-is-backing-five-nations-to-protect-and-manage-625000-square-miles-of-ocean/articleshow/134455342.cms",
+          "date": "24 Sep 2026",
+          "summary": "The Bezos Earth Fund is allocating more than $25 million for ocean conservation projects in five Pacific nations. This funding will support various efforts: enhancing ocean management, establishing marine protected areas, and improving monitoring. The initiati…"
+        },
+        {
+          "title": "Trump-Xi bonhomie set to continue, leaders announce two more meetings",
+          "link": "https://timesofindia.indiatimes.com/world/us/trump-xi-bonhomie-set-to-continue-leaders-announce-two-more-meetings/articleshow/134490297.cms",
+          "date": "25 Sep 2026",
+          "summary": "US President Donald Trump and Chinese President Xi Jinping have agreed to meet in November and December. They will hold talks in China and at the G20 summit in Miami. These meetings aim to strengthen the relationship between the two largest economies. However,…"
         },
         {
           "title": "'Compromised PM does it again': Cong after bail to US national held in terror case",
@@ -238,16 +292,40 @@
           "summary": ""
         },
         {
-          "title": "Repaid Rs 1.41 crore loan, but bank lost property papers; couple wins Rs 15.5L",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/delhi-couple-repaid-rs-1-41-crore-home-loan-but-the-bank-lost-their-original-sale-deed-property-papers-consumer-commission-orders-rs-15-lakh-compensation-plus-rs-50000-costs/articleshow/134486972.cms",
-          "date": "25 Sep 2026",
-          "summary": "After examining the material placed before it, the commission concluded that the original property papers had been lost while they were in the bank's custody."
+          "title": "Omar brings J&amp;K statehood resolution to assembly, autonomy mention sparks BJP furore",
+          "link": "https://timesofindia.indiatimes.com/india/omar-brings-jk-statehood-resolution-to-assembly-autonomy-mention-sparks-bjp-furore/articleshow/134491427.cms",
+          "date": "26 Sep 2026",
+          "summary": ""
         },
         {
-          "title": "Cristiano Ronaldo's wife Georgina Rodríguez builds Mimoa activewear brand",
-          "link": "https://timesofindia.indiatimes.com/sports/international-sports/beyond-the-spotlight-how-cristiano-ronaldos-wife-georgina-rodrguez-quietly-built-her-own-activewear-brand-mimoa/articleshow/134478875.cms",
+          "title": "Alonzo Mourning’s $37.4M housing project offers seniors apartments from $322",
+          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/in-2015-nba-hall-of-famer-alonzo-mourning-stepped-into-affordable-housing-after-years-of-philanthropy-a-decade-later-his-mission-reached-a-37-4-million-project-offering-senior-citizens-apartments-from-322-a-month/articleshow/134429640.cms",
+          "date": "23 Sep 2026",
+          "summary": "After his NBA career, Alonzo Mourning founded AM Affordable Housing to address the pressing need for affordable homes in South Florida. Through collaboration with Housing Trust Group, he has spearheaded various projects, including the Astoria on 9th, which boa…"
+        },
+        {
+          "title": "Travis and Jason Kelce’s $200M brand hits new milestone amid revenue growth",
+          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/travis-kelce-and-jason-kelces-200-million-brand-marks-a-new-milestone-amid-an-impressive-revenue-growth/articleshow/134472571.cms",
           "date": "25 Sep 2026",
-          "summary": "Georgina Rodríguez is expanding her fashion career with Mimoa, a premium activewear and lifestyle brand focused on comfort, movement and everyday wear. Drawing on her experience in fashion, Rodríguez has developed collections featuring leggings, tops, jackets…"
+          "summary": "Travis Kelce and Jason Kelce’s successful venture, Garage Beer, has received a new investment amid the star player's record breaking performance."
+        },
+        {
+          "title": "In a first, waste plastic mixed with bitumen in pilot test section of NH-44",
+          "link": "https://timesofindia.indiatimes.com/india/in-a-first-waste-plastic-mixed-with-bitumen-in-pilot-test-section-of-nh-44/articleshow/134491486.cms",
+          "date": "26 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "As stocks fall at power plants, govt mulls imported coal blending",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/as-stocks-fall-at-power-plants-govt-mulls-imported-coal-blending/articleshow/134491029.cms",
+          "date": "26 Sep 2026",
+          "summary": "Domestic coal supplies to thermal plants improving: Govt"
+        },
+        {
+          "title": "2022 Rajouri IED blast: Police file chargesheet against 4",
+          "link": "https://timesofindia.indiatimes.com/india/2022-rajouri-ied-blast-police-file-chargesheet-against-4/articleshow/134491352.cms",
+          "date": "26 Sep 2026",
+          "summary": ""
         },
         {
           "title": "India impress against Panama in 1-1 draw; Blue Tigers stand firm against WC side",
@@ -262,30 +340,6 @@
           "summary": ""
         },
         {
-          "title": "Seattle shipbuilder donated 2,700 acres to create Washington’s Moran State Park",
-          "link": "https://timesofindia.indiatimes.com/world/us/a-seattle-shipbuilder-sold-his-company-for-a-reported-3-5-million-in-1906-and-built-an-orcas-island-estate-15-years-later-he-donated-more-than-2700-acres-to-washington-to-create-moran-state-park/articleshow/134487652.cms",
-          "date": "25 Sep 2026",
-          "summary": "Robert Moran established a thriving shipbuilding enterprise before shifting his focus to cultivate a serene habitat on Orcas Island. Upon receiving a terminal diagnosis, he chose to embrace the beauty of nature and safeguard the area. He generously donated lan…"
-        },
-        {
-          "title": "170 volunteers remove 43,000 pounds of trash from San Antonio dumping site",
-          "link": "https://timesofindia.indiatimes.com/world/us/around-170-volunteers-remove-43000-pounds-of-trash-from-san-antonio-dumping-site-after-years-of-complaints-property-was-a-homeless-encampment-and-had-a-100000-cleanup-estimate/articleshow/134489475.cms",
-          "date": "25 Sep 2026",
-          "summary": "Around 170 volunteers have removed 43,000 pounds of trash from a long-standing dumping site outside Converse in Bexar County. The property had previously been used as an encampment and had drawn years of complaints. The county initially received a $100,000 cle…"
-        },
-        {
-          "title": "San Francisco AI startup scraps 24-hour cafe plan after executive's dating post goes viral",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/san-francisco-ai-startup-planned-to-open-hundred-plus-24-hour-cafes-then-a-top-executives-dating-post-went-viral-making-company-with-cafes-in-london-new-york-and-atlanta-junk-all-plans/articleshow/134489285.cms",
-          "date": "25 Sep 2026",
-          "summary": "Corgi, a San Francisco-based AI insurance startup, has temporarily paused its expansion plans for 100 cafes. This decision follows several setbacks, including a viral social media post by an executive. Problems with a San Francisco cafe's health permit have al…"
-        },
-        {
-          "title": "Michigan family lost $194,400 home over $2,242 tax bill; Supreme Court steps in",
-          "link": "https://timesofindia.indiatimes.com/world/us/a-michigan-family-lost-a-home-assessed-at-194400-over-a-disputed-2242-property-tax-bill-the-county-sold-it-for-76008-the-buyer-resold-it-for-195000-and-the-supreme-court-vacated-the-lower-ruling-in-2026/articleshow/134487034.cms",
-          "date": "25 Sep 2026",
-          "summary": "The United States Supreme Court has made a landmark decision stating that tax sale compensation must be based on the auction price rather than the assessed value of a property. A family in Michigan, burdened with a $2,241.93 tax debt, faced foreclosure despite…"
-        },
-        {
           "title": "Pakistan goes bananas over giant gorillas dancing to Bollywood songs",
           "link": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-goes-bananas-over-giant-gorillas-dancing-to-bollywood-songs/articleshow/134488913.cms",
           "date": "25 Sep 2026",
@@ -296,18 +350,6 @@
           "link": "https://timesofindia.indiatimes.com/world/us/discarded-oyster-shells-from-san-antonio-restaurants-and-events-are-being-recycled-to-rebuild-oyster-reefs-in-the-gulf-of-mexico-improve-water-quality-and-create-marine-habitat/articleshow/134488828.cms",
           "date": "25 Sep 2026",
           "summary": "Discarded oyster shells from San Antonio restaurants and events are being recycled to restore oyster reefs in the Gulf of Mexico. The South Texas Coastal Initiative sends collected shells to the Sink Your Shucks program, where they are reused for reef restorat…"
-        },
-        {
-          "title": "Alonzo Mourning’s $37.4M housing project offers seniors apartments from $322",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/in-2015-nba-hall-of-famer-alonzo-mourning-stepped-into-affordable-housing-after-years-of-philanthropy-a-decade-later-his-mission-reached-a-37-4-million-project-offering-senior-citizens-apartments-from-322-a-month/articleshow/134429640.cms",
-          "date": "23 Sep 2026",
-          "summary": "After his NBA career, Alonzo Mourning founded AM Affordable Housing to address the pressing need for affordable homes in South Florida. Through collaboration with Housing Trust Group, he has spearheaded various projects, including the Astoria on 9th, which boa…"
-        },
-        {
-          "title": "Tom Brady explains why he felt ‘embarrassed’ after swearing on FOX broadcast",
-          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/why-tom-brady-felt-embarrassed-after-swearing-on-fox-as-nfl-legend-addresses-unexpected-broadcast-mishap/articleshow/134488848.cms",
-          "date": "25 Sep 2026",
-          "summary": "During a recent FOX NFL telecast, Tom Brady found himself red-faced after an accidental slip of the tongue. Describing Dak Prescott's impressive deep throw as an 'absolute piss missile' sparked a flurry of online reactions. Additionally, his colorful response…"
         },
         {
           "title": "CBSE names Mandeep K Bhandari as new chairman, appointment follows OSM controversy",
@@ -332,48 +374,6 @@
           "link": "https://timesofindia.indiatimes.com/real-estate/news/mumbai-prime-home-prices-rise-6-2-enter-global-top-10/articleshow/134487236.cms",
           "date": "25 Sep 2026",
           "summary": "In a striking development, Mumbai has surged into the world’s top 10 residential markets, landing at eighth place with a notable 6.2% annual price gain. Bengaluru and New Delhi aren't far behind, securing the 12th and 17th spots. While global prices ticked up…"
-        },
-        {
-          "title": "Who is Tommy “Gun” McMillen? Meet UFC’s 12-0 featherweight prospect",
-          "link": "https://timesofindia.indiatimes.com/sports/mma/news/who-is-tommy-gun-mcmillen-meet-the-12-0-ufc-prospect-making-waves-in-featherweight-division/articleshow/134485723.cms",
-          "date": "25 Sep 2026",
-          "summary": "Tommy 'Gun' McMillen is building his reputation in the UFC featherweight division with an undefeated record. He began his combat sports journey at a young age, excelling in wrestling and boxing. McMillen has won all three of his UFC fights, showcasing his stri…"
-        },
-        {
-          "title": "Watch: PM Modi grooves at a 'bhajan clubbing' event in Delhi",
-          "link": "https://timesofindia.indiatimes.com/india/watch-pm-modi-grooves-at-a-bhajan-clubbing-event-in-delhi/articleshow/134487764.cms",
-          "date": "25 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "The lesbian bar outrage shows why Donald Trump won America",
-          "link": "https://timesofindia.indiatimes.com/world/us/random-musing-the-lesbian-bar-outrage-shows-why-donald-trump-won-america/articleshow/134488104.cms",
-          "date": "25 Sep 2026",
-          "summary": "One was oddly remindedof Onoda after coming across the Boston ‘lesbian bar story’ that is every product manager’s wet dream: a story published in the Boston Globe that went so viral that it led to over a thousand subscriptions for what seemed a rather nondescr…"
-        },
-        {
-          "title": "‘Gyanesh Kumar deserves at least Padma Bhushan’: Bengal BJP chief backs CEC",
-          "link": "https://timesofindia.indiatimes.com/india/gyanesh-kumar-deserves-at-least-padma-bhushan-bengal-bjp-chief-backs-cec/articleshow/134486512.cms",
-          "date": "25 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "India is kicking car safety into top gear with Bharat NCAP 2.0: What you need to know",
-          "link": "https://timesofindia.indiatimes.com/india/5-ways-india-is-kicking-car-safety-into-top-gear-with-bharat-ncap-2-0-what-buyers-need-to-know/articleshow/134487081.cms",
-          "date": "25 Sep 2026",
-          "summary": "Bharat NCAP is set to evolve with its second phase, Bharat NCAP 2.0, planned for October 2027. This revised framework will assess vehicle safety across multiple stages, including crash avoidance and post-collision care. The new system promises to go beyond jus…"
-        },
-        {
-          "title": "Called ‘black-complexioned’ and ‘fatty-shaped’: Why man’s divorce plea failed",
-          "link": "https://timesofindia.indiatimes.com/city/raipur/called-black-complexioned-and-fatty-shaped-why-mans-divorce-plea-failed/articleshow/134485850.cms",
-          "date": "25 Sep 2026",
-          "summary": "A husband in Chhattisgarh appealed for divorce from his wife due to claims of cruelty and desertion. The high court examined the evidence and found the husband's allegations lacked proof. The court noted that inappropriate comments alone did not justify granti…"
-        },
-        {
-          "title": "Haaland's Man City face expulsion threat: Club found guilty on 114 financial charges",
-          "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/shockwaves-in-english-football-manchester-city-found-guilty-on-114-financial-charges-what-it-means/articleshow/134488164.cms",
-          "date": "25 Sep 2026",
-          "summary": "City, who are currently top of the Premier League after five matches in the 2026 season, were charged by the league in February 2023 following an investigation into alleged financial rule breaches between 2009 and 2018. The club has consistently denied any wro…"
         }
       ]
     },
@@ -579,6 +579,18 @@
       "ok": true,
       "items": [
         {
+          "title": "Pentagon was right to slap Anthropic with a security supply chain risk label, federal court says",
+          "link": "https://the-decoder.com/pentagon-was-right-to-slap-anthropic-with-a-security-supply-chain-risk-label-federal-court-says/",
+          "date": "25 Sep 2026",
+          "summary": "A federal appeals court has upheld the Pentagon's decision to bar Anthropic from military contracts. Defense Secretary Hegseth argues the company's safety restrictions could jeopardize military operations. Anthropic says the designation has already cost it bil…"
+        },
+        {
+          "title": "Another Google Deepmind researcher quits, says building superintelligent AI soon is \"inherently irresponsible\"",
+          "link": "https://the-decoder.com/another-google-deepmind-researcher-quits-says-building-superintelligent-ai-soon-is-inherently-irresponsible/",
+          "date": "25 Sep 2026",
+          "summary": "Google Deepmind researcher Robert O'Callahan has quit, saying AI's \"current rate of change is far too high.\" He worked on chip design tools that helped make AI cheaper and faster, a contribution he can no longer justify. Many colleagues share his concerns but…"
+        },
+        {
           "title": "Microsoft gives Copilot another makeover, adding an Autopilot agent and usage-based billing",
           "link": "https://the-decoder.com/microsoft-gives-copilot-another-makeover-adding-an-autopilot-agent-and-usage-based-billing/",
           "date": "25 Sep 2026",
@@ -625,18 +637,6 @@
           "link": "https://the-decoder.com/top-ai-experts-badly-underestimated-how-fast-the-field-is-moving-study-finds/",
           "date": "24 Sep 2026",
           "summary": "Leading AI experts have consistently underestimated how fast AI is advancing, according to the Forecasting Research Institute. AI reached gold-medal level at the International Mathematical Olympiad five years ahead of the median expert forecast, and Anthropic'…"
-        },
-        {
-          "title": "Sakana AI hires Jürgen Schmidhuber, inventor of deep learning, world models, and your next ChatGPT update",
-          "link": "https://the-decoder.com/sakana-ai-hires-jurgen-schmidhuber-inventor-of-deep-learning-world-models-and-your-next-chatgpt-update/",
-          "date": "24 Sep 2026",
-          "summary": "Tokyo-based Sakana AI has hired Jürgen Schmidhuber as Chief Scientific Advisor. Sakana calls him the \"father of modern AI.\" He'll help lead the company's new RSI Lab, which works on recursive self-improvement, meaning AI that keeps developing itself. His ideas…"
-        },
-        {
-          "title": "Google's Suncatcher project aims to put AI data centers in orbit powered by solar energy",
-          "link": "https://the-decoder.com/googles-suncatcher-project-aims-to-put-ai-data-centers-in-orbit-powered-by-solar-energy/",
-          "date": "24 Sep 2026",
-          "summary": "Google's \"Suncatcher\" project aims to run AI infrastructure in orbit on solar power. A fridge-sized experimental satellite is set to launch on a SpaceX Falcon 9 on October 1. But the challenges are steep: you'd need around 10,000 satellites to match a single 1…"
         }
       ]
     },
@@ -1321,6 +1321,12 @@
       "ok": true,
       "items": [
         {
+          "title": "KDE for People Initiative Calls for AI Ban in Plasma",
+          "link": "http://www.linux-magazine.com/Online/News/KDE-for-People-Initiative-Calls-for-AI-Ban-in-Plasma",
+          "date": "25 Sep 2026",
+          "summary": "A new community of KDE wants the project to adopt a strict no-AI policy for KDE Plasma."
+        },
+        {
           "title": "KDE Sets Ambitious Goals for 2026 and Beyond",
           "link": "http://www.linux-magazine.com/Online/News/KDE-Sets-Ambitious-Goals-for-2026-and-Beyond",
           "date": "23 Sep 2026",
@@ -1433,12 +1439,6 @@
           "link": "http://www.linux-magazine.com/Online/News/Substantial-Update-to-IPFire-Now-Available",
           "date": "21 Jul 2026",
           "summary": "The lastest version of IPFire features a fundamental change to how the system handles DNS."
-        },
-        {
-          "title": "Gnome Working on Test Center App to Make Testing Easier",
-          "link": "http://www.linux-magazine.com/Online/News/Gnome-Working-on-Test-Center-App-to-Make-Testing-Easier",
-          "date": "17 Jul 2026",
-          "summary": "It's now possible to test experimental features on the Gnome desktop without worrying that you'll break things."
         }
       ]
     },
@@ -1449,184 +1449,184 @@
       "ok": true,
       "items": [
         {
-          "title": "coord-server added to PyPI",
-          "link": "https://pypi.org/project/coord-server/",
-          "date": "25 Sep 2026",
-          "summary": "coord server and certificate management: claims, messages, tasks for concurrent agent sessions (clients: clients/ts)"
+          "title": "chatwalaau-computer-use added to PyPI",
+          "link": "https://pypi.org/project/chatwalaau-computer-use/",
+          "date": "24 Sep 2026",
+          "summary": "ChatWalaau Computer Use desktop provider: a native stdio MCP server (chatwalaau.computer-use/1)"
         },
         {
-          "title": "notanda-mcp added to PyPI",
-          "link": "https://pypi.org/project/notanda-mcp/",
-          "date": "25 Sep 2026",
-          "summary": "Beta local MCP server for provenance-aware Notanda literature retrieval."
+          "title": "snake-eyes-analyzer added to PyPI",
+          "link": "https://pypi.org/project/snake-eyes-analyzer/",
+          "date": "24 Sep 2026",
+          "summary": "Python side-effect analyzer backend for Gaze (JSON-RPC 2.0 external analyzer protocol)"
         },
         {
-          "title": "alberta-buck added to PyPI",
-          "link": "https://pypi.org/project/alberta-buck/",
-          "date": "25 Sep 2026",
-          "summary": "Alberta Buck reference implementation (protocol v2): identity credentials and accumulator, Notes, payment receipts, and agent simulations over the contracts"
+          "title": "lsdetect added to PyPI",
+          "link": "https://pypi.org/project/lsdetect/",
+          "date": "24 Sep 2026",
+          "summary": "Line segment detector (LSD) in pure Rust, with Python bindings"
         },
         {
-          "title": "robo-email added to PyPI",
-          "link": "https://pypi.org/project/robo-email/",
-          "date": "25 Sep 2026",
-          "summary": "Reusable HTML email report rendering and local delivery utilities"
+          "title": "kijito-tools added to PyPI",
+          "link": "https://pypi.org/project/kijito-tools/",
+          "date": "24 Sep 2026",
+          "summary": "Installer for kijito-tools: context tracking, session catch-up, and self-clear scripts plus the Kijito skills, deployed into ~/.claude."
         },
         {
-          "title": "pluot_bound added to PyPI",
-          "link": "https://pypi.org/project/pluot-bound/",
-          "date": "25 Sep 2026",
-          "summary": "Rust bindings for rendering Pluot visualizations. Most users should install pluot[bindings] instead."
+          "title": "devflow-tools added to PyPI",
+          "link": "https://pypi.org/project/devflow-tools/",
+          "date": "24 Sep 2026",
+          "summary": "Un couteau suisse pour créer des CLI stylisées, du réseau TCP et intégrer l'IA."
         },
         {
-          "title": "opsiom-kairo added to PyPI",
-          "link": "https://pypi.org/project/opsiom-kairo/",
-          "date": "25 Sep 2026",
-          "summary": "Mesure, fiabilité et reprise pour l'entraînement PyTorch (d'abord Opsiom Kaïro)."
+          "title": "langgraph-acp added to PyPI",
+          "link": "https://pypi.org/project/langgraph-acp/",
+          "date": "24 Sep 2026",
+          "summary": "Use ACP-compatible agents as first-class LangGraph nodes."
         },
         {
-          "title": "charter-ai added to PyPI",
-          "link": "https://pypi.org/project/charter-ai/",
-          "date": "25 Sep 2026",
-          "summary": "Agent tools you declare instead of implement. Define a Pydantic schema; the runtime handles the request, the auth and the wire format."
+          "title": "woobe-sdk added to PyPI",
+          "link": "https://pypi.org/project/woobe-sdk/",
+          "date": "24 Sep 2026",
+          "summary": "Python SDK for the Woobe Runtime API"
         },
         {
-          "title": "capo-datasync added to PyPI",
-          "link": "https://pypi.org/project/capo-datasync/",
-          "date": "25 Sep 2026",
-          "summary": "Python SDK for Datasync."
+          "title": "heldfast added to PyPI",
+          "link": "https://pypi.org/project/heldfast/",
+          "date": "24 Sep 2026",
+          "summary": "Zero-dependency tool-integrity pin for MCP servers and agent skills: approve once, refuse what changed"
         },
         {
-          "title": "varshan-memory added to PyPI",
-          "link": "https://pypi.org/project/varshan-memory/",
-          "date": "25 Sep 2026",
-          "summary": "A Python context-memory library utilizing L0-L3 memory architecture with SQLite and sqlite-vec."
+          "title": "farmwise-api added to PyPI",
+          "link": "https://pypi.org/project/farmwise-api/",
+          "date": "24 Sep 2026",
+          "summary": "European agricultural and environmental data aggregation API"
         },
         {
-          "title": "capo-dataexchange added to PyPI",
-          "link": "https://pypi.org/project/capo-dataexchange/",
-          "date": "25 Sep 2026",
-          "summary": "Python SDK for Dataexchange."
+          "title": "pamoja-radios added to PyPI",
+          "link": "https://pypi.org/project/pamoja-radios/",
+          "date": "24 Sep 2026",
+          "summary": "The Semtech SX126x and SX127x LoRa radios and the SX1302 and SX1303 gateway concentrators: their commands, registers, and decoders, the amplifier setting a regional EIRP ceiling allows, a duty-cycle guard, and simulated chips that stand in for a module."
         },
         {
-          "title": "capo-databrew added to PyPI",
-          "link": "https://pypi.org/project/capo-databrew/",
-          "date": "25 Sep 2026",
-          "summary": "Python SDK for Databrew."
+          "title": "pamoja-hal added to PyPI",
+          "link": "https://pypi.org/project/pamoja-hal/",
+          "date": "24 Sep 2026",
+          "summary": "The embedded-hal traits every driver takes, a bit-banged 1-Wire bus, simulated parts and scripted buses that stand in for hardware, the Linux backends over i2c-dev, spidev, and the GPIO character device, one I2C bus and one serial port a program and its driver…"
         },
         {
-          "title": "capo-database-migration-service added to PyPI",
-          "link": "https://pypi.org/project/capo-database-migration-service/",
-          "date": "25 Sep 2026",
-          "summary": "Python SDK for Database Migration Service."
+          "title": "pamoja-gateway added to PyPI",
+          "link": "https://pypi.org/project/pamoja-gateway/",
+          "date": "24 Sep 2026",
+          "summary": "What a LoRaWAN gateway speaks: the Semtech packet forwarder protocol and the Basics Station protocol on both sides, the network side of a single site, and a bridge from the radio to the link that leaves it."
         },
         {
-          "title": "banyan-ai added to PyPI",
-          "link": "https://pypi.org/project/banyan-ai/",
-          "date": "25 Sep 2026",
-          "summary": "Banyan — a trellis for your agents: recursive task-tree orchestration with a dumb deterministic kernel, conversational main agent, and a knowledge loop"
+          "title": "agentevo-sdk added to PyPI",
+          "link": "https://pypi.org/project/agentevo-sdk/",
+          "date": "24 Sep 2026",
+          "summary": "Agentevo client SDK, CLI, and agent adapters with conformance fixtures."
         },
         {
-          "title": "capo-data-pipeline added to PyPI",
-          "link": "https://pypi.org/project/capo-data-pipeline/",
-          "date": "25 Sep 2026",
-          "summary": "Python SDK for Data Pipeline."
+          "title": "agentevo-cloud added to PyPI",
+          "link": "https://pypi.org/project/agentevo-cloud/",
+          "date": "24 Sep 2026",
+          "summary": "Agentevo SaaS (TZ-3 control plane, TZ-4 managed intelligence): auth, metering, C2 APIs, workers."
         },
         {
-          "title": "capo-customer-profiles added to PyPI",
-          "link": "https://pypi.org/project/capo-customer-profiles/",
-          "date": "25 Sep 2026",
-          "summary": "Python SDK for Customer Profiles."
+          "title": "agentevo-local added to PyPI",
+          "link": "https://pypi.org/project/agentevo-local/",
+          "date": "24 Sep 2026",
+          "summary": "Agentevo local runtime (TZ-2): capture, DLP, encrypted vault, recall, guards, execution."
         },
         {
-          "title": "health-tree added to PyPI",
-          "link": "https://pypi.org/project/health-tree/",
-          "date": "25 Sep 2026",
-          "summary": "Platform-agnostic health across a dependency graph: checks, dependency-aware episodes, and an attention policy"
+          "title": "agentevo-core added to PyPI",
+          "link": "https://pypi.org/project/agentevo-core/",
+          "date": "24 Sep 2026",
+          "summary": "Agentevo core domain contracts: classification, canonical events, learned objects, trust states, errors. No I/O."
         },
         {
-          "title": "capo-cost-optimization-hub added to PyPI",
-          "link": "https://pypi.org/project/capo-cost-optimization-hub/",
-          "date": "25 Sep 2026",
-          "summary": "Python SDK for Cost Optimization Hub."
+          "title": "contrastive-lm added to PyPI",
+          "link": "https://pypi.org/project/contrastive-lm/",
+          "date": "24 Sep 2026",
+          "summary": "CLM: contrastive language model serving engine and System One API (typed noul / choice / score questions over state)"
         },
         {
-          "title": "livery-cbor added to PyPI",
-          "link": "https://pypi.org/project/livery-cbor/",
-          "date": "25 Sep 2026",
-          "summary": "Deterministic CBOR: one value, one encoding, one name."
+          "title": "coding-router added to PyPI",
+          "link": "https://pypi.org/project/coding-router/",
+          "date": "24 Sep 2026",
+          "summary": "A lightweight LLM router that classifies coding requests and routes them to the best-fit model using semantic similarity and cost-aware scoring."
         },
         {
-          "title": "capo-cost-explorer added to PyPI",
-          "link": "https://pypi.org/project/capo-cost-explorer/",
-          "date": "25 Sep 2026",
-          "summary": "Python SDK for Cost Explorer."
+          "title": "priorityclip-geo added to PyPI",
+          "link": "https://pypi.org/project/priorityclip-geo/",
+          "date": "24 Sep 2026",
+          "summary": "Deterministic priority-based partitioning of overlapping polygons"
         },
         {
-          "title": "vault2okf added to PyPI",
-          "link": "https://pypi.org/project/vault2okf/",
-          "date": "25 Sep 2026",
-          "summary": "Validate Open Knowledge Format (OKF) bundles and convert Obsidian vaults to OKF."
+          "title": "dendra-solvers added to PyPI",
+          "link": "https://pypi.org/project/dendra-solvers/",
+          "date": "24 Sep 2026",
+          "summary": "Fast implicit solvers (CPU) for cable models, written in C++."
         },
         {
-          "title": "capo-cost-and-usage-report-service added to PyPI",
-          "link": "https://pypi.org/project/capo-cost-and-usage-report-service/",
-          "date": "25 Sep 2026",
-          "summary": "Python SDK for Cost And Usage Report Service."
+          "title": "lfx-loopgrid added to PyPI",
+          "link": "https://pypi.org/project/lfx-loopgrid/",
+          "date": "24 Sep 2026",
+          "summary": "LoopGrid evidence components for Langflow/LFX"
         },
         {
-          "title": "capo-controltower added to PyPI",
-          "link": "https://pypi.org/project/capo-controltower/",
-          "date": "25 Sep 2026",
-          "summary": "Python SDK for Controltower."
+          "title": "open-nami added to PyPI",
+          "link": "https://pypi.org/project/open-nami/",
+          "date": "24 Sep 2026",
+          "summary": "Fast terminal social media profile downloader and TUI for Instagram, TikTok, Facebook, and X."
         },
         {
-          "title": "t2pmhc added to PyPI",
-          "link": "https://pypi.org/project/t2pmhc/",
-          "date": "25 Sep 2026",
-          "summary": "A structure-informed graph neural network for predicting TCR-pMHC binding"
+          "title": "jev-fuse added to PyPI",
+          "link": "https://pypi.org/project/jev-fuse/",
+          "date": "24 Sep 2026",
+          "summary": "Governed decision runtime, policy control plane, and MCP supervisor for TypeSafe Jev and local typed-decision models."
         },
         {
-          "title": "capo-controlcatalog added to PyPI",
-          "link": "https://pypi.org/project/capo-controlcatalog/",
-          "date": "25 Sep 2026",
-          "summary": "Python SDK for Controlcatalog."
+          "title": "periph added to PyPI",
+          "link": "https://pypi.org/project/periph/",
+          "date": "24 Sep 2026",
+          "summary": "Peripheral chip drivers for MicroPython, CircuitPython, and Linux"
         },
         {
-          "title": "capo-connectparticipant added to PyPI",
-          "link": "https://pypi.org/project/capo-connectparticipant/",
-          "date": "25 Sep 2026",
-          "summary": "Python SDK for Connectparticipant."
+          "title": "pykatai added to PyPI",
+          "link": "https://pypi.org/project/pykatai/",
+          "date": "24 Sep 2026",
+          "summary": "Katai is an ultra-fast, non-autoregressive AI browser agent powered by local System-1 decision models for instant, deterministic web automation."
         },
         {
-          "title": "streepjescode added to PyPI",
-          "link": "https://pypi.org/project/streepjescode/",
-          "date": "25 Sep 2026",
-          "summary": "Generate nicely formatted barcodes (UPC-A and EAN)"
+          "title": "zotero-command-line added to PyPI",
+          "link": "https://pypi.org/project/zotero-command-line/",
+          "date": "24 Sep 2026",
+          "summary": "Manage your Zotero library from the command line: scripting, automation and LLM-assisted workflows."
         },
         {
-          "title": "nommo-fingerprint added to PyPI",
-          "link": "https://pypi.org/project/nommo-fingerprint/",
-          "date": "25 Sep 2026",
-          "summary": "Create, register, and verify Nommo fingerprints"
+          "title": "pisces-lite added to PyPI",
+          "link": "https://pypi.org/project/pisces-lite/",
+          "date": "24 Sep 2026",
+          "summary": "ML-backend-agnostic core supporting data set discovery, loading, common spectrogram/PSD-based processing, and CV scoring."
         },
         {
-          "title": "halter added to PyPI",
-          "link": "https://pypi.org/project/halter/",
-          "date": "25 Sep 2026",
-          "summary": "Halt, there are problems with this. An audit gate for code changes. Placeholder release."
+          "title": "aioteleco added to PyPI",
+          "link": "https://pypi.org/project/aioteleco/",
+          "date": "24 Sep 2026",
+          "summary": "Async Python SDK and CLI for Teleco Automation boxes of every brand app (Daisy, Biossun, Gibus…): cloud and local control"
         },
         {
-          "title": "pyramid-deferred-sqla added to PyPI",
-          "link": "https://pypi.org/project/pyramid-deferred-sqla/",
-          "date": "25 Sep 2026",
-          "summary": "Dummy pyramid-deferred-sqla package for PyPI"
+          "title": "socio added to PyPI",
+          "link": "https://pypi.org/project/socio/",
+          "date": "24 Sep 2026",
+          "summary": "SOC I/O: cybersecurity tools for accelerating triage based on OSINT APIs"
         },
         {
-          "title": "robo-html added to PyPI",
-          "link": "https://pypi.org/project/robo-html/",
-          "date": "25 Sep 2026",
-          "summary": "Reusable HTML report rendering utilities for automation projects"
+          "title": "varde added to PyPI",
+          "link": "https://pypi.org/project/varde/",
+          "date": "24 Sep 2026",
+          "summary": "Varde is in development."
         }
       ]
     }
