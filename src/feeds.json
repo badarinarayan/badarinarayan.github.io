@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-30T14:26:16Z",
+  "generated": "2026-09-30T19:44:32Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,18 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "France’s 10-year bond yield heads for biggest quarterly surge since 1987",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/frances-10-year-bond-yield-heads-for-biggest-quarterly-surge-since-1987/articleshow/134601116.cms",
+          "date": "1 Oct 2026",
+          "summary": "France's bond yields have been rising sharply, with September seeing the largest increase in decades. Investors are concerned about inflation as energy costs continue to rise, impacting fiscal stability. The government plans to issue €340 billion in bonds next…"
+        },
+        {
+          "title": "US SEC proposes wider retail investor access to private assets amid risk concerns",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-sec-proposes-wider-retail-investor-access-to-private-assets-amid-risk-concerns/articleshow/134600545.cms",
+          "date": "30 Sep 2026",
+          "summary": "The SEC has proposed new rules to expand access to private assets typically available only to wealthy investors. These rules aim to allow more professionals to qualify as accredited investors, which may lead to higher returns. Critics express concern that this…"
+        },
         {
           "title": "GIFT City eyes direct listings without IPO to deepen equity market, says IFSCA's Pradeep Ramakrishnan",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/gift-city-eyes-direct-listings-without-ipo-to-deepen-equity-market-says-ifscas-pradeep-ramakrishnan/articleshow/134593611.cms",
@@ -30,18 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/transport-corp-announces-key-details-for-rs-150-crore-share-buyback-plan/articleshow/134595850.cms",
           "date": "30 Sep 2026",
           "summary": "Transport Corporation of India will buy back up to 15.63 lakh shares for Rs 150 crore at Rs 960 each. The tender offer has October 9, 2026 as its record date, with 15% reserved for eligible small shareholders."
-        },
-        {
-          "title": "Tata Group stock! BofA turns bullish on Trent, initiates coverage with Buy, pegs 17% upside",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-group-stock-bofa-turns-bullish-on-trent-initiates-coverage-with-buy-pegs-17-upside/articleshow/134595513.cms",
-          "date": "30 Sep 2026",
-          "summary": "BofA Securities initiated coverage on Trent with a Buy rating and Rs 3,075 price target, citing its differentiated retail model, Zudio and Westside growth, integrated technology, supply chain capabilities and long-term market share opportunities."
-        },
-        {
-          "title": "Planning to invest in equity mutual funds for 3 years? Check these 7 funds with over 40% gains",
-          "link": "https://economictimes.indiatimes.com/mf/analysis/planning-to-invest-in-equity-mutual-funds-for-3-years-check-these-7-funds-with-over-40-gains/slideshow/134593263.cms",
-          "date": "30 Sep 2026",
-          "summary": "Market cycles can quickly change the fortunes of sectors and businesses. As earnings, valuations and leadership shift, investors must reassess opportunities and identify the next market winners."
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -196,6 +196,174 @@
       "ok": true,
       "items": [
         {
+          "title": "'It was like a horror film': How Flydubai pilot was restrained with headphones",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/it-was-like-a-horror-film-israeli-passenger-recounts-restraining-flydubai-pilot-with-headphones-after-cockpit-struggle/articleshow/134600343.cms",
+          "date": "30 Sep 2026",
+          "summary": "An Israeli passenger recounted how he and others restrained a co-pilot trying to take control of a flydubai flight. The incident started when a struggle was heard in the cockpit and quickly escalated. After the pilot was attacked, the plane nosedived, promptin…"
+        },
+        {
+          "title": "Is it time for Congress and INDIA bloc to take a leaf out of CJP's playbook?",
+          "link": "https://timesofindia.indiatimes.com/india/protests-against-sir-cec-is-it-time-for-congress-and-india-bloc-to-take-a-leaf-out-of-cjps-playbook/articleshow/134597912.cms",
+          "date": "30 Sep 2026",
+          "summary": "The INDIA bloc, under Congress's leadership, is gearing up for a vigorous campaign against electoral misconduct and the Election Commission's authority. Their strategy includes widespread protests and a pivotal 'Save Democracy March' to elevate public consciou…"
+        },
+        {
+          "title": "Flydubai cockpit drama: How Indian pilot stopped co-pilot from crashing plane",
+          "link": "https://timesofindia.indiatimes.com/india/flydubai-flight-drama-how-indian-pilot-smit-machchhar-stopped-omani-co-pilot-from-crashing-plane/articleshow/134597514.cms",
+          "date": "30 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "'I grabbed the terrorist': Flydubai passenger tells Netanyahu how he subdued pilot",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/i-grabbed-the-terrorist-flydubai-passenger-tells-netanyahu-how-he-subdued-pilot-helped-stabilise-plane/articleshow/134599962.cms",
+          "date": "30 Sep 2026",
+          "summary": "A harrowing experience unfolded on a flydubai flight as an Israeli passenger detailed his brave actions in subduing an assailant in the cockpit. The flight, destined for Tel Aviv from Dubai, was forced to divert to Saudi Arabia due to the alarming situation. T…"
+        },
+        {
+          "title": "UAE planning to develop shipping alternatives, port that bypasses Hormuz",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/uae-planning-to-develop-shipping-alternatives-port-that-bypasses-hormuz/articleshow/134599718.cms",
+          "date": "30 Sep 2026",
+          "summary": "L'imad Holding from Abu Dhabi is planning to heighten its infrastructure investments beyond the Strait of Hormuz. This strategic shift aims to reduce the emirate's reliance on this pivotal waterway amid current regional turbulence. Development plans focus on e…"
+        },
+        {
+          "title": "In 2018, Musk gave $480,350 for Flint school filters; students drink from fountains",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/in-2018-elon-musk-donated-480350-for-flint-school-water-filters-four-years-later-redesigned-systems-allowed-students-to-drink-from-fountains-again-after-years-of-relying-on-alternative-supplies/articleshow/134585828.cms",
+          "date": "30 Sep 2026",
+          "summary": "Flint Community Schools has installed new water filtration systems across its schools and administrative building. Students were previously reliant on bottled water for drinking due to contamination concerns. Testing confirmed that the new systems effectively…"
+        },
+        {
+          "title": "Mother and nominee son died; bank delayed funds to father, ordered to pay Rs 15,000",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/mother-nominated-son-for-savings-account-but-both-died-farmer-father-faced-long-delays-got-money-but-lodged-a-compliant-consumer-commission-orders-bank-to-pay-rs-15000-relief/articleshow/134590731.cms",
+          "date": "30 Sep 2026",
+          "summary": "A woman had Rs 62,541 in her savings account. Her son was registered as the nominee. Both the mother and son passed away, leaving her 83-year-old husband as the only surviving member of the family. The man was a farmer and was not very familiar with English."
+        },
+        {
+          "title": "5 money changes in Oct: Bulk FD rates, UPI MDR, SBI ATM limit cut, LPG KYC &amp; more",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/5-money-rule-changes-from-october-2026-bulk-fd-rates-upi-mdr-starts-above-rs-2000-sbi-atm-free-limit-falls-to-5-lpg-aadhaar-kyc-new-nps-charges/articleshow/134587809.cms",
+          "date": "30 Sep 2026",
+          "summary": "The money changes include a reduction in the number of free ATM transactions for certain State Bank of India (SBI) salary account customers, new disclosure norms for interest rates on bulk fixed deposits (FDs), revised charges under the National Pension System…"
+        },
+        {
+          "title": "Gill's 223, Rohit's 101 power India to record 406-run chase against West Indies",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/shubman-gills-223-rohit-sharmas-101-power-india-to-record-406-run-chase-against-west-indies/articleshow/134599751.cms",
+          "date": "30 Sep 2026",
+          "summary": "India became only the second team to chase a target of 400 or more in men's ODIs, after South Africa chased 438 against Australia in Johannesburg in 2006. India finished on 406 for two in 43.3 overs after West Indies had posted their highest ODI total of 405 f…"
+        },
+        {
+          "title": "UK PM Burnham says may rejoin EU; France, Spain say 'welcome back'",
+          "link": "https://timesofindia.indiatimes.com/world/uk/uk-pm-burnham-says-may-rejoin-eu-if-pros-outweigh-cons-france-spain-say-welcome-back/articleshow/134599792.cms",
+          "date": "30 Sep 2026",
+          "summary": "British Prime Minister Andy Burnham has suggested the UK need to rethink its relationship with the European Union. He remarked that Brexit has not lived up to its commitment of regaining control, particularly over immigration matters. European leaders remain o…"
+        },
+        {
+          "title": "Shubman Gill reaches 200, becomes second batter after Rohit with multiple double centuries",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/200-for-shubman-gill-india-captain-becomes-only-second-batter-after-rohit-sharma-with-multiple-odi-double-centuries/articleshow/134598114.cms",
+          "date": "30 Sep 2026",
+          "summary": "Gill reached the milestone during India's mammoth chase of 406 runs in the second ODI against West Indies in Guwahati."
+        },
+        {
+          "title": "Chip and Joanna Gaines restore Waco castle; $2.7m home finds a buyer",
+          "link": "https://timesofindia.indiatimes.com/real-estate/news/in-2019-chip-and-joanna-gaines-bought-wacos-neglected-cottonland-castle-after-years-restoring-the-6176-sq-ft-landmark-the-fixer-upper-property-listed-for-2-7-million-has-found-a-buyer/articleshow/134563734.cms",
+          "date": "29 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "He built device to make drinking water from air; 3 years later, won Chemistry Nobel",
+          "link": "https://timesofindia.indiatimes.com/science/discovery/in-2022-he-built-a-pocket-sized-device-to-extract-drinking-water-from-the-air-in-death-valley-using-only-sunlight-in-2025-he-won-the-nobel-prize-in-chemistry/articleshow/134591079.cms",
+          "date": "30 Sep 2026",
+          "summary": "Omar Yaghi’s innovative team has created a groundbreaking device that pulls water from the atmosphere under adverse conditions. Employing a specialized metal-organic framework, their technology functions independently of electric power. Yaghi’s personal journe…"
+        },
+        {
+          "title": "Michael &amp; Susan Dell’s Foundation pledges $36.6 million for 1,400 Austin homes",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/in-2021-michael-and-susan-dells-foundation-pledged-36-6-million-to-help-expand-community-first-village-in-austin-the-housing-project-plans-1400-more-homes-for-people-leaving-chronic-homelessness/articleshow/134589870.cms",
+          "date": "30 Sep 2026",
+          "summary": "Michael &amp; Susan Dell Foundation has committed $36.6 million to expand Community First! Village in Austin. The expansion aims to accommodate up to 1,900 residents experiencing chronic homelessness while adding 127 acres to the site. Infrastructure work is e…"
+        },
+        {
+          "title": "Taylor Swift’s former Beverly Hills home where she wrote ‘1989’ lists for $7.995m",
+          "link": "https://timesofindia.indiatimes.com/real-estate/news/in-2011-taylor-swift-purchased-her-former-beverly-hills-estate-where-she-wrote-1989-the-1-5-acre-property-is-now-on-the-market-for-7-995-million-after-renovations-featuring-four-bedrooms-and-five-bathrooms/articleshow/134570653.cms",
+          "date": "29 Sep 2026",
+          "summary": "Taylor Swift’s former Beverly Hills estate, where she wrote her hit album 1989, is back on the market for $7.995 million. The 1.5-acre Pillsbury Estate features a main residence, guest house, four bedrooms, five bathrooms, mature oak trees, a pickleball court…"
+        },
+        {
+          "title": "J&amp;K parties, barring BJP, blast officials over anti-statehood letter to assembly",
+          "link": "https://timesofindia.indiatimes.com/india/jk-parties-barring-bjp-blast-top-officials-for-letter-to-assembly-against-statehood-resolution/articleshow/134601139.cms",
+          "date": "1 Oct 2026",
+          "summary": ""
+        },
+        {
+          "title": "Trump’s 'Monster Bash' brings AI titans to White House to police each other",
+          "link": "https://timesofindia.indiatimes.com/world/us/trumps-monster-bash-brings-ai-titans-to-white-house-to-police-each-other/articleshow/134598046.cms",
+          "date": "30 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "Dylan Larkin’s journey: How did his Michigan roots shape his NHL career?",
+          "link": "https://timesofindia.indiatimes.com/sports/nhl/news/dylan-larkin-stayed-close-to-his-michigan-roots-the-family-story-behind-the-detroit-red-wings-captain-and-his-journey-from-local-hockey-to-nhl-stardom/articleshow/134568688.cms",
+          "date": "30 Sep 2026",
+          "summary": "Dylan Larkin’s rise with the Detroit Red Wings is directly connected to his Michigan roots. Larkin’s career has stayed in his home state, from youth hockey and the University of Michigan to being named Detroit’s captain. His family’s sporting history and broth…"
+        },
+        {
+          "title": "Josh Allen’s $17m legacy: How did his grandmother inspire his charity?",
+          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/from-17-donations-to-17-million-how-josh-allen-turned-his-grandmothers-memory-into-a-lasting-legacy-for-children/articleshow/134597644.cms",
+          "date": "30 Sep 2026",
+          "summary": "In the wake of Josh Allen's grandmother's passing, an outpouring of support emerged for Oishei Children's Hospital as fans contributed in her honor. Donations swiftly surpassed the million-dollar mark, paving the way for the Patricia Allen Fund, dedicated to p…"
+        },
+        {
+          "title": "UK sees ‘strong indications’ of Iranian role in RAF Fairford incident",
+          "link": "https://timesofindia.indiatimes.com/world/uk/strong-indications-uk-pm-says-iran-may-have-played-part-in-suspicious-incident-near-raf-fairford/articleshow/134599686.cms",
+          "date": "30 Sep 2026",
+          "summary": "British Prime Minister Andy Burnham stated there are strong indications of Iranian involvement in a recent incident. Five British men were arrested near RAF Fairford on suspicion of explosives and terrorism offenses. They were later released on bail after no e…"
+        },
+        {
+          "title": "Bombs without brakes? Why US-China AI race may be harder to control than nuclear one",
+          "link": "https://timesofindia.indiatimes.com/world/us/bombs-without-brakes-why-the-us-china-ai-race-may-be-harder-to-control-than-the-nuclear-one/articleshow/134592901.cms",
+          "date": "30 Sep 2026",
+          "summary": "The people building artificial intelligence keep reaching for the same comparison. Billionaire Elon Musk has called AI “far more dangerous than nukes.” Anthropic boss Dario Amodei describes the most powerful models as “weaponisable nuclear materials.” Sam Altm…"
+        },
+        {
+          "title": "Flydubai flight scare: Was it a terror plot? What we know and don't know",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/flydubai-flight-scare-was-it-a-terror-plot-what-we-know-and-dont-know/articleshow/134598874.cms",
+          "date": "30 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "Auqib Nabi endures nightmare India debut; concedes most runs, records worst economy",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/auqib-nabi-endures-nightmare-india-debut-concedes-most-runs-records-worst-economy/articleshow/134595026.cms",
+          "date": "30 Sep 2026",
+          "summary": "Nabi’s economy rate of 9.51 is also the worst by an Indian bowler on ODI debut, among those who have bowled at least 30 balls, Cricbuzz reported."
+        },
+        {
+          "title": "Flydubai flight incident: Netanyahu says Israel preparing for other ‘potential threats’",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/flydubai-flight-incident-netanyahu-says-israel-preparing-for-other-potential-threats-top-developments/articleshow/134595815.cms",
+          "date": "30 Sep 2026",
+          "summary": "A flydubai flight from Dubai to Tel Aviv experienced a serious incident that required an emergency landing. Following a cockpit altercation, one pilot was arrested and investigated by Saudi authorities. Israeli Prime Minister Benjamin Netanyahu confirmed the s…"
+        },
+        {
+          "title": "Op Sheruwali: How security forces tracked LeT commander Musa in months-long hunt",
+          "link": "https://timesofindia.indiatimes.com/india/operation-sheruwali-how-security-forces-tracked-let-commander-musa-in-months-long-hunt-since-may/articleshow/134595813.cms",
+          "date": "30 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "UK warns universities to cut ties with China-linked firm after MI5 flags AI, cyber research espionage",
+          "link": "https://timesofindia.indiatimes.com/world/uk/uk-warns-universities-to-cut-ties-with-china-linked-firm-after-mi5-flags-ai-cyber-research-espionage/articleshow/134599665.cms",
+          "date": "30 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "‘No certificate needed’: JD(U)’s pointed reply to Sonia Gandhi on Nitish",
+          "link": "https://timesofindia.indiatimes.com/india/certificate-not-needed-jdus-sharp-reply-to-sonia-gandhi-on-nitish/articleshow/134598160.cms",
+          "date": "30 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "Palestinian-born US mosque leader faces deportation after judge rules he is ‘foreign policy threat’",
+          "link": "https://timesofindia.indiatimes.com/world/us/palestinian-born-us-mosque-leader-faces-deportation-after-judge-rules-he-is-foreign-policy-threat/articleshow/134596807.cms",
+          "date": "30 Sep 2026",
+          "summary": ""
+        },
+        {
           "title": "Cockpit chaos, stabbed pilot &amp; sharp plunge: How Flydubai flight disaster was averted",
           "link": "https://timesofindia.indiatimes.com/world/middle-east/pilot-stabbed-chaos-in-cockpit-sudden-plunge-how-disaster-was-averted-on-flydubai-flight-explained-in-10-points/articleshow/134592893.cms",
           "date": "30 Sep 2026",
@@ -206,174 +374,6 @@
           "link": "https://timesofindia.indiatimes.com/india/a-tap-on-the-table-a-pat-on-the-back-the-sonia-mamata-moment-that-stood-out-at-india-bloc-meet/articleshow/134596071.cms",
           "date": "30 Sep 2026",
           "summary": "The INDIA bloc meeting focused on alleged electoral irregularities and the opposition’s protest plan, but a warm exchange between Sonia Gandhi and Mamata Banerjee drew attention."
-        },
-        {
-          "title": "'Had productive conversation': PM Modi speaks with US President Trump",
-          "link": "https://timesofindia.indiatimes.com/india/had-productive-conversation-pm-modi-speaks-with-us-president-trump-on-trade-defence-energy/articleshow/134596156.cms",
-          "date": "30 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "Flydubai flight incident: Netanyahu says Israel preparing for other ‘potential threats’",
-          "link": "https://timesofindia.indiatimes.com/world/middle-east/flydubai-flight-incident-netanyahu-says-israel-preparing-for-other-potential-threats-top-developments/articleshow/134595815.cms",
-          "date": "30 Sep 2026",
-          "summary": "A flydubai flight from Dubai to Tel Aviv experienced a serious incident that required an emergency landing. Following a cockpit altercation, one pilot was arrested and investigated by Saudi authorities. Israeli Prime Minister Benjamin Netanyahu confirmed the s…"
-        },
-        {
-          "title": "Donald Trump calls Google CEO Sundar Pichai a 'monster'; here's what Pichai said",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/as-us-president-calls-google-ceo-sundar-pichai-a-monster-with-great-life-sundar-pichai-says-hopefully-a-better-tagline-than-i-am-/articleshow/134591774.cms",
-          "date": "30 Sep 2026",
-          "summary": "Donald Trump hosted a luncheon with notable Silicon Valley CEOs, focusing on advancements in artificial intelligence. During the event, Trump referred to Google CEO Sundar Pichai as a 'monster' while praising him. Pichai humorously acknowledged this comment, w…"
-        },
-        {
-          "title": "Upanishads to Mahabharata: NCERT explains roots of national, SC mottos",
-          "link": "https://timesofindia.indiatimes.com/india/upanishads-to-mahabharata-ncert-explains-roots-of-national-sc-mottos/articleshow/134594774.cms",
-          "date": "30 Sep 2026",
-          "summary": "The NCERT has introduced a groundbreaking Class IX social science textbook that bridges modern principles of governance with ancient Indian wisdom. By drawing connections between India's national motto, values upheld by the Supreme Court, and revered texts lik…"
-        },
-        {
-          "title": "He built device to make drinking water from air; 3 years later, won Chemistry Nobel",
-          "link": "https://timesofindia.indiatimes.com/science/discovery/in-2022-he-built-a-pocket-sized-device-to-extract-drinking-water-from-the-air-in-death-valley-using-only-sunlight-in-2025-he-won-the-nobel-prize-in-chemistry/articleshow/134591079.cms",
-          "date": "30 Sep 2026",
-          "summary": "Omar Yaghi’s innovative team has created a groundbreaking device that pulls water from the atmosphere under adverse conditions. Employing a specialized metal-organic framework, their technology functions independently of electric power. Yaghi’s personal journe…"
-        },
-        {
-          "title": "Pilot stabbed, blood in cockpit: Passengers recall harrowing ordeal on flight that nearly crashed",
-          "link": "https://timesofindia.indiatimes.com/world/middle-east/pilot-stabbed-blood-in-cockpit-passengers-recall-harrowing-ordeal-on-flydubai-flight-that-nearly-crashed/articleshow/134589662.cms",
-          "date": "30 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "Flydubai flight drama: 'Indian-origin' pilot stopped Omani co-pilot from crashing plane",
-          "link": "https://timesofindia.indiatimes.com/india/flydubai-flight-drama-indian-origin-pilot-stopped-omani-co-pilot-from-crashing-plane/articleshow/134593310.cms",
-          "date": "30 Sep 2026",
-          "summary": "An incident occurred on flydubai Flight FZ1073 during its journey from Dubai to Tel Aviv. The co-pilot reportedly tried to take control of the aircraft, leading to a physical altercation with the captain. Passengers heard screaming and observed blood inside th…"
-        },
-        {
-          "title": "Asian Games Medal Tally: How archers, shooters powered India into top 10",
-          "link": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-medal-tally-how-archers-shooters-powered-india-into-top-10/articleshow/134595713.cms",
-          "date": "30 Sep 2026",
-          "summary": "ndia moved up to eighth place in the Asian Games medal standings after reaching the 10-gold mark on Wednesday, with a golden sweep by the compound archers and another gold in shooting powering a big jump in the table. India now have 60 medals - 10 gold, 21 sil…"
-        },
-        {
-          "title": "Man paid $2.48 for old document; a year later, it sold for $477,650",
-          "link": "https://timesofindia.indiatimes.com/world/us/a-nashville-man-paid-2-48-for-a-rolled-up-document-at-a-thrift-store-in-2006-it-proved-to-be-a-rare-1823-copy-of-the-declaration-of-independence-and-sold-at-auction-for-477650-the-following-year/articleshow/134594444.cms",
-          "date": "30 Sep 2026",
-          "summary": "While browsing a thrift store in Nashville, Michael Sparks stumbled upon an astonishing find: a rare 1823 copy of the Declaration of Independence, priced at only $2.48. Upon delving into its history, Sparks recognized its immense value and chose to auction it.…"
-        },
-        {
-          "title": "Rare two-headed turtle hatchling found at protected Cape Cod nesting site",
-          "link": "https://timesofindia.indiatimes.com/science/wildlife/volunteers-at-a-protected-cape-cod-nesting-site-found-a-rare-diamondback-terrapin-hatchling-with-two-heads-the-tiny-turtle-weighed-about-as-much-as-a-nickel-and-is-now-being-monitored-by-wildlife-veterinarians/articleshow/134594662.cms",
-          "date": "30 Sep 2026",
-          "summary": "During a conservation project in Cape Cod's Wellfleet Bay, volunteers stumbled upon a remarkable two-headed diamondback terrapin hatchling weighing just 5.2 grams. Known as bicephaly, this rare condition opens doors for valuable research. Currently receiving v…"
-        },
-        {
-          "title": "In 2018, Musk gave $480,350 for Flint school filters; students drink from fountains",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/in-2018-elon-musk-donated-480350-for-flint-school-water-filters-four-years-later-redesigned-systems-allowed-students-to-drink-from-fountains-again-after-years-of-relying-on-alternative-supplies/articleshow/134585828.cms",
-          "date": "30 Sep 2026",
-          "summary": "Flint Community Schools has installed new water filtration systems across its schools and administrative building. Students were previously reliant on bottled water for drinking due to contamination concerns. Testing confirmed that the new systems effectively…"
-        },
-        {
-          "title": "Meet the pudu, world’s smallest deer, barely four apples tall",
-          "link": "https://timesofindia.indiatimes.com/science/wildlife/meet-the-worlds-smallest-deer-the-tiny-pudu-is-barely-four-apples-tall-weighs-only-a-few-kilograms-and-lives-in-south-americas-forests/articleshow/134594183.cms",
-          "date": "30 Sep 2026",
-          "summary": "Pudus, small deer of South America, include the northern pudu and southern pudu. The northern variety, measuring just 32 to 35 cm at the shoulder, holds the title of the world's smallest deer. Conversely, the southern pudu is slightly larger, reaching 35 to 45…"
-        },
-        {
-          "title": "Watch: Screams, chaos onboard as Flydubai flight takes 17,000 ft roller coaster ride mid-air",
-          "link": "https://timesofindia.indiatimes.com/world/middle-east/watch-screams-chaos-onboard-as-flydubai-flight-takes-15000-ft-mid-air-roller-coaster-ride/articleshow/134590325.cms",
-          "date": "30 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "Kurt Cobain’s Olympia apartment where he wrote Nirvana songs is now an Airbnb",
-          "link": "https://timesofindia.indiatimes.com/world/us/kurt-cobains-olympia-apartment-where-he-lived-from-1989-to-1991-and-wrote-some-of-nirvanas-best-known-music-is-now-an-airbnb-fans-can-stay-inside-a-preserved-piece-of-rock-history-for-250-to-300-a-night/articleshow/134592498.cms",
-          "date": "30 Sep 2026",
-          "summary": "Kurt Cobain’s former studio apartment in downtown Olympia has made its debut as an Airbnb listing, allowing fans a chance to stay where Nirvana’s iconic music was birthed. The cozy apartment, available for a minimum of two nights at $250 to $300 per night, fea…"
-        },
-        {
-          "title": "Patrick Mahomes’ KC Current faces billion-dollar twist in stadium expansion",
-          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/patrick-mahomes-and-brittany-mahomes-kc-current-face-billion-dollar-twist-as-chris-and-angie-long-eye-6500-seat-expansion/articleshow/134576468.cms",
-          "date": "30 Sep 2026",
-          "summary": "Patrick and Brittany Mahomes are part of the ownership group behind the Kansas City Current, whose CPKC Stadium has quickly become a major success. The 11,500-seat venue has sold out home matches, while around 8,000 season-ticket holders and more than 5,000 fa…"
-        },
-        {
-          "title": "Travis Kelce’s $200M Six Flags investment: Why is the X2 ride facing closure?",
-          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/travis-kelces-200-million-six-flags-investment-comes-under-pressure-as-controversial-x2-ride-faces-closure-after-injury-lawsuits/articleshow/134576868.cms",
-          "date": "30 Sep 2026",
-          "summary": "Travis Kelce, the Kansas City Chiefs’ star player, had investedin Six Flags and now the company faces trouble."
-        },
-        {
-          "title": "South Carolina pairs 102-acre nature preserve with 50 affordable homes",
-          "link": "https://timesofindia.indiatimes.com/world/us/south-carolina-will-combine-a-102-acre-nature-preserve-with-50-affordable-homes-on-johns-island-hundreds-of-acres-of-green-space-are-protected/articleshow/134592242.cms",
-          "date": "30 Sep 2026",
-          "summary": "A new initiative on Johns Island will transform the Humbert Woods property for community benefit. The plan involves protecting 97 acres for conservation and using five acres for affordable housing. Sea Island Habitat for Humanity will build a 50-home community…"
-        },
-        {
-          "title": "49 musk turtles return to Pennsylvania lake after pollution cleanup",
-          "link": "https://timesofindia.indiatimes.com/science/nature/in-2025-pollution-and-dredging-forced-wildlife-out-of-pennsylvanias-crystal-lake-after-months-of-rehabilitation-and-cleanup-49-musk-turtles-were-released-back-into-the-lake/articleshow/134593900.cms",
-          "date": "30 Sep 2026",
-          "summary": "In 2025, Crystal Lake underwent a dredging project that inadvertently drained vital habitats for wildlife. Fortunately, emergency response teams rescued several turtles, resulting in 49 musk turtles being rehabilitated at Aark Wildlife Rehabilitation Center. B…"
-        },
-        {
-          "title": "Archers, shooters fire India’s medal rush on a golden day at Asian Games",
-          "link": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-golden-day-for-india-archers-sweep-3-titles-neeru-dhanda-kynan-chenai-clinch-trap-gold/articleshow/134594764.cms",
-          "date": "30 Sep 2026",
-          "summary": "India had its best day of the Asian Games so far as compound archers won all three team gold medals, while shooters Neeru Dhanda and Kynan Chenai also finished on top in the mixed trap event. Three bronze medals in boxing and wrestling took India’s overall tal…"
-        },
-        {
-          "title": "Blue drum case: Meerut court convicts wife, lover for husband’s murder",
-          "link": "https://timesofindia.indiatimes.com/india/blue-drum-case-meerut-court-convicts-wife-lover-for-husbands-murder/articleshow/134594081.cms",
-          "date": "30 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "India break Korean wall to reach hockey final, set up gold-medal clash with China",
-          "link": "https://timesofindia.indiatimes.com/sports/asian-games-2026/india-break-korean-wall-to-storm-into-asian-games-womens-hockey-final-set-up-gold-medal-clash-with-china/articleshow/134593432.cms",
-          "date": "30 Sep 2026",
-          "summary": "The win assured India of at least a silver medal, but they will now aim for gold when they face defending champions China in the final on October 2."
-        },
-        {
-          "title": "'Unrealistic to win gold every time': India captain after Chess Olympiad silver",
-          "link": "https://timesofindia.indiatimes.com/sports/chess/unrealistic-to-win-gold-every-single-time-captain-srinath-narayanan-after-indias-chess-olympiad-silver-exclusive/articleshow/134593973.cms",
-          "date": "30 Sep 2026",
-          "summary": "Welcome to TimesofIndia.com's interview series looking back at India's medal-winning campaigns at the Chess Olympiad in Samarkand. And who better to kick things off than Srinath Narayanan, the silver-winning captain of Team India in the Open section? Here, the…"
-        },
-        {
-          "title": "Spent Rs 50 lakh: In hope for a revival, family kept man’s body frozen since 2022",
-          "link": "https://timesofindia.indiatimes.com/city/mumbai/in-hope-of-future-revival-mumbai-family-spent-rs-50-lakh-keeping-mans-body-frozen-since-2022/articleshow/134585161.cms",
-          "date": "30 Sep 2026",
-          "summary": "A family in Mumbai has preserved the body of their deceased member for four years. The family spent over Rs 50 lakh in their efforts and explored cryonics for potential revival. After the family member's death from cancer and kidney failure, they were unable t…"
-        },
-        {
-          "title": "US response to Iran's seven-day peace proposal delivered to President Pezeshkian",
-          "link": "https://timesofindia.indiatimes.com/world/middle-east/us-response-to-irans-seven-day-peace-proposal-delivered-to-president-pezeshkian/articleshow/134594543.cms",
-          "date": "30 Sep 2026",
-          "summary": "The United States has officially addressed Iran's seven-day peace initiative amidst escalating tensions between the two nations. Iranian leaders have emphasized their commitment to finding diplomatic solutions, but the US has deemed the proposal insufficient,…"
-        },
-        {
-          "title": "INDIA bloc meet: BJP says Oct 2 march is to ‘save dynasty, not democracy'",
-          "link": "https://timesofindia.indiatimes.com/india/india-bloc-meet-bjp-says-oct-2-march-is-to-save-dynasty-not-democracy/articleshow/134592261.cms",
-          "date": "30 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "Dansby Swanson and wife Mallory’s foundation raises $700K in one event",
-          "link": "https://timesofindia.indiatimes.com/sports/mlb/news/in-2025-dansby-swanson-and-wife-mallory-launched-a-foundation-within-a-year-one-event-raised-700k-and-600k-went-to-vanderbilt-baseball/articleshow/134569073.cms",
-          "date": "30 Sep 2026",
-          "summary": "Dansby Swanson and Mallory Swanson launched the Purpose and Calling Foundation in 2025 to serve children and families through sports, education and community initiatives. The 2026 Swanson Games fundraiser they held raised more than $700,000, and Dansby separat…"
-        },
-        {
-          "title": "NYC judge orders fresh notices for pieds-à-terre tax, city appeals ruling",
-          "link": "https://timesofindia.indiatimes.com/real-estate/news/nyc-judge-orders-new-notices-for-secondary-home-tax-as-mamdani-administration-appeals-ruling/articleshow/134589625.cms",
-          "date": "30 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "South Portland used 200 discarded holiday trees to restore eroded Maine beach",
-          "link": "https://timesofindia.indiatimes.com/science/nature/south-portland-placed-more-than-200-discarded-holiday-trees-on-an-eroded-maine-beach-after-a-2022-storm-they-trapped-sand-and-vegetation-began-returning-within-months/articleshow/134590415.cms",
-          "date": "30 Sep 2026",
-          "summary": ""
         }
       ]
     },
@@ -383,6 +383,12 @@
       "cat": "Machine Learning",
       "ok": true,
       "items": [
+        {
+          "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+          "link": "https://huggingface.co/blog/open-tts-leaderboard",
+          "date": "30 Sep 2026",
+          "summary": ""
+        },
         {
           "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
           "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
@@ -556,12 +562,6 @@
           "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
           "date": "14 Aug 2026",
           "summary": ""
-        },
-        {
-          "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-          "link": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-          "date": "13 Aug 2026",
-          "summary": ""
         }
       ]
     },
@@ -569,8 +569,189 @@
       "url": "https://deepmind.google/blog/feed",
       "name": "Google DeepMind",
       "cat": "AI Research",
-      "ok": false,
-      "items": []
+      "ok": true,
+      "items": [
+        {
+          "title": "Introducing SynthID Bio",
+          "link": "https://deepmind.google/blog/introducing-synthid-bio/",
+          "date": "30 Sep 2026",
+          "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function."
+        },
+        {
+          "title": "Introducing Gemini 3.8 Live with Live Avatar",
+          "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+          "date": "24 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "Advancing Private AI Compute with secure, server-side memory",
+          "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+          "date": "23 Sep 2026",
+          "summary": "Introducing private, server-side memory to Private AI Compute for personal AI."
+        },
+        {
+          "title": "Gemini 3.8 text-to-speech says hello",
+          "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+          "date": "23 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+          "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+          "date": "15 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+          "date": "8 Sep 2026",
+          "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome."
+        },
+        {
+          "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+          "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+          "date": "3 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "Proactive cyber defense for governments and enterprises",
+          "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+          "date": "2 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+          "link": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+          "date": "2 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "Introducing agentic video understanding with Gemini",
+          "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+          "date": "1 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "Gemini Omni 1.1 Flash lets you build with more control",
+          "link": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+          "date": "27 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Piloting the world's first double-blind AI evaluations",
+          "link": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+          "date": "27 Aug 2026",
+          "summary": "Piloting the world's first double-blind AI evaluations"
+        },
+        {
+          "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+          "link": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+          "date": "26 Aug 2026",
+          "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe."
+        },
+        {
+          "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+          "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+          "date": "21 Aug 2026",
+          "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay."
+        },
+        {
+          "title": "Introducing Gemini 3.7 Flash",
+          "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+          "date": "13 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Putting sign language AI into users’ hands",
+          "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+          "date": "12 Aug 2026",
+          "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users."
+        },
+        {
+          "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+          "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+          "date": "6 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+          "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+          "date": "30 Jul 2026",
+          "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications."
+        },
+        {
+          "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+          "link": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+          "date": "29 Jul 2026",
+          "summary": ""
+        },
+        {
+          "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+          "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+          "date": "28 Jul 2026",
+          "summary": ""
+        },
+        {
+          "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+          "link": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+          "date": "22 Jul 2026",
+          "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission"
+        },
+        {
+          "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+          "link": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
+          "date": "21 Jul 2026",
+          "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber."
+        },
+        {
+          "title": "Introducing Gemini 3.5 Flash Cyber",
+          "link": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+          "date": "17 Jul 2026",
+          "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities."
+        },
+        {
+          "title": "Our approach to bioresilience",
+          "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+          "date": "16 Jul 2026",
+          "summary": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models."
+        },
+        {
+          "title": "Empowering India’s next generation of innovators with ATL Saathi",
+          "link": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+          "date": "13 Jul 2026",
+          "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs."
+        },
+        {
+          "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+          "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+          "date": "3 Jul 2026",
+          "summary": ""
+        },
+        {
+          "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+          "link": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+          "date": "30 Jun 2026",
+          "summary": ""
+        },
+        {
+          "title": "Introducing computer use in Gemini 3.5 Flash",
+          "link": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+          "date": "24 Jun 2026",
+          "summary": ""
+        },
+        {
+          "title": "Unlocking UK house-building with AI-accelerated planning",
+          "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+          "date": "16 Jun 2026",
+          "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions."
+        },
+        {
+          "title": "Securing the future of AI agents",
+          "link": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+          "date": "16 Jun 2026",
+          "summary": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring."
+        }
+      ]
     },
     {
       "url": "https://the-decoder.com/feed/",
@@ -578,6 +759,36 @@
       "cat": "AI News",
       "ok": true,
       "items": [
+        {
+          "title": "OpenAI and Synopsys team up to build an AI model that designs chips like a seasoned engineer",
+          "link": "https://the-decoder.com/openai-and-synopsys-team-up-to-build-an-ai-model-that-designs-chips-like-a-seasoned-engineer/",
+          "date": "30 Sep 2026",
+          "summary": "OpenAI and Synopsys are building GPT-Synopsys, a specialized AI model for chip design. It's meant to operate Synopsys' EDA tools like a seasoned engineer and optimize designs on its own. Early tests with semiconductor customers are already underway. OpenAI is…"
+        },
+        {
+          "title": "Google drops Gems for Skills, joining OpenAI and Anthropic in the shift to agent-ready prompt formats",
+          "link": "https://the-decoder.com/google-drops-gems-for-skills-joining-openai-and-anthropic-in-the-shift-to-agent-ready-prompt-formats/",
+          "date": "30 Sep 2026",
+          "summary": "Google is replacing Gems with \"Skills\" in Gemini chat. Skills are detailed, reusable prompts that users invoke by typing \"/\" or that Gemini runs automatically. The format is based on an open standard from Anthropic. Gems will be phased out starting in November…"
+        },
+        {
+          "title": "Meta dodges billions in US taxes by calling its AI data centers experiments",
+          "link": "https://the-decoder.com/meta-dodges-billions-in-us-taxes-by-calling-its-ai-data-centers-experiments/",
+          "date": "30 Sep 2026",
+          "summary": "Meta classifies its AI data centers as \"pilot models\" and Nvidia chips as experimental materials to save billions in federal taxes. In 2025 alone, that added up to $3.9 billion. The tax credit dates back to 1981, and even Meta's own accountants see the strateg…"
+        },
+        {
+          "title": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
+          "link": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns/",
+          "date": "30 Sep 2026",
+          "summary": "The FTC is formally investigating OpenAI, Anthropic, and other leading AI labs over potential consumer protection violations. The agency plans to force document handovers and executive testimony through legally binding demands. The probe was already underway b…"
+        },
+        {
+          "title": "China's AI industry closes ranks as Deepseek ships open-source software for Huawei's Ascend chips",
+          "link": "https://the-decoder.com/chinas-ai-industry-closes-ranks-as-deepseek-ships-open-source-software-for-huaweis-ascend-chips/",
+          "date": "30 Sep 2026",
+          "summary": "Deepseek and Huawei have built open-source programming tools for Huawei's Ascend AI chips. At the center is TileLang, a language designed to offer a simpler programming model than Nvidia's CUDA. The partnership targets the biggest obstacle for China's AI indus…"
+        },
         {
           "title": "Anthropic says Zhipu's open-weight GLM-5.3 nearly matches Claude Mythos Preview at building exploits",
           "link": "https://the-decoder.com/anthropic-says-zhipus-open-weight-glm-5-3-nearly-matches-claude-mythos-preview-at-building-exploits/",
@@ -607,36 +818,6 @@
           "link": "https://the-decoder.com/chatgpt-now-reaches-1-2-billion-people-every-week-openai-says/",
           "date": "29 Sep 2026",
           "summary": "OpenAI's annualized revenue rate is nearing $70 billion, up about 70 percent since the start of Q3. Enterprise sales, the Codex coding assistant, and an aggressive price war are driving the growth. Anthropic is right on its heels with a similar run rate. The a…"
-        },
-        {
-          "title": "OpenAI's reveals a new ChatGPT that looks less like a chatbot and more like an operating system",
-          "link": "https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system/",
-          "date": "29 Sep 2026",
-          "summary": "At DevDay, OpenAI announced a wave of updates that push ChatGPT well beyond its chatbot roots. The company is adding shared workspaces, collaborative documents and slides, an open plugin system with MCP event automation, Slack and Microsoft Teams integrations,…"
-        },
-        {
-          "title": "OpenAI launches always-on Dots agents to rival Meta's Muse",
-          "link": "https://the-decoder.com/openai-launches-always-on-dots-agents-to-rival-metas-muse/",
-          "date": "29 Sep 2026",
-          "summary": "OpenAI's new Dots are always-on agents that run on their own cloud computers, where they fix bugs or send out forgotten invoices, sometimes before anyone asks. Users can reach them through ChatGPT, Slack, and Microsoft Teams. When no one is working with them,…"
-        },
-        {
-          "title": "OpenAI expands Codex and its API at DevDay with security scans, a Decisions API, and Ultrafast",
-          "link": "https://the-decoder.com/openai-expands-codex-and-its-api-at-devday-with-security-scans-a-decisions-api-and-ultrafast/",
-          "date": "29 Sep 2026",
-          "summary": "At DevDay 2026, OpenAI gave Codex reusable cloud environments, automatic security scans for GitHub repositories, and a code review view in the desktop app. The Agents API now supports Computer Use, and a new Decisions API handles fast, single decisions. The Ul…"
-        },
-        {
-          "title": "GPT-6.1 Sol comes close to Astra at a fifth of the price",
-          "link": "https://the-decoder.com/gpt-6-1-sol-comes-close-to-astra-at-a-fifth-of-the-price/",
-          "date": "29 Sep 2026",
-          "summary": "OpenAI's new GPT-6.1 Sol comes close to GPT-6 Astra at a fifth of the cost, according to the company's own benchmarks. The planned flagship, GPT-6.1 Astra, is staying under wraps for now. Safety lead Saachi Jain says the model deceived more often in internal t…"
-        },
-        {
-          "title": "AMD buys AI world model startup World Labs for $8.2 billion",
-          "link": "https://the-decoder.com/amd-buys-ai-world-model-startup-world-labs-for-8-2-billion/",
-          "date": "29 Sep 2026",
-          "summary": "Fei-Fei Li's AI startup World Labs is being acquired by AMD for $8.2 billion. Li, the pioneer behind ImageNet, will join AMD as Executive Vice President and Chief Scientist, reporting directly to CEO Lisa Su. World Labs brings its spatial intelligence models,…"
         }
       ]
     },
@@ -714,6 +895,18 @@
       "cat": "Technical · AI",
       "ok": true,
       "items": [
+        {
+          "title": "Expanding AI Storage Access with NVIDIA cuObject and the NVIDIA SCADA Server SDK",
+          "link": "https://developer.nvidia.com/blog/expanding-ai-storage-access-with-nvidia-cuobject-and-the-nvidia-scada-server-sdk/",
+          "date": "30 Sep 2026",
+          "summary": "AI infrastructure engineers, storage developers, and cloud service providers need fast and secure access to high-capacity file and object storage to support AI..."
+        },
+        {
+          "title": "Tracing Agent Harness Behavior with NVIDIA NeMo Relay",
+          "link": "https://developer.nvidia.com/blog/tracing-agent-harness-behavior-with-nvidia-nemo-relay/",
+          "date": "29 Sep 2026",
+          "summary": "An agent can finish a task and still take an inefficient path. A failed search can trigger another search. A truncated file read can lead to a command fetching..."
+        },
         {
           "title": "AI Native by Design: Lessons Learned from Building NVIDIA TensorRT Model Connect",
           "link": "https://developer.nvidia.com/blog/ai-native-by-design-lessons-learned-from-building-nvidia-tensorrt-model-connect/",
@@ -881,18 +1074,6 @@
           "link": "https://developer.nvidia.com/blog/high-throughput-structure-prediction-with-bionemo-inference-runtime/",
           "date": "9 Sep 2026",
           "summary": "Biomolecular structure prediction is now often run at proteome scale, where the goal is to move an entire worklist through the pipeline efficiently. NVIDIA..."
-        },
-        {
-          "title": "From Wafer-Out to First Token: Codifying Supply Chain Expertise with Nemotron and Palantir Foundry",
-          "link": "https://developer.nvidia.com/blog/from-wafer-out-to-first-token-codifying-supply-chain-expertise-with-nemotron-and-palantir-foundry/",
-          "date": "11 Sep 2026",
-          "summary": "NVIDIA has one of the largest and most complex supply chains in the world, and its performance is measured from wafer-out to first token. The interval is in two..."
-        },
-        {
-          "title": "When to Use Encode-Prefill-Decode Disaggregation to Accelerate Multimodal Model Serving",
-          "link": "https://developer.nvidia.com/blog/when-to-use-encode-prefill-decode-disaggregation-to-accelerate-multimodal-model-serving/",
-          "date": "9 Sep 2026",
-          "summary": "Encode-prefill-decode (EPD) disaggregation is an inference optimization technique for multimodal models that separates the vision encoder stage from the prefill..."
         }
       ]
     },
@@ -968,99 +1149,8 @@
       "url": "https://rss.slashdot.org/Slashdot/slashdotMain?format=xml",
       "name": "Slashdot",
       "cat": "Tech · News",
-      "ok": true,
-      "items": [
-        {
-          "title": "Wearable Nanotech Could Combat Nerve Agents",
-          "link": "https://science.slashdot.org/story/26/09/30/0457204/wearable-nanotech-could-combat-nerve-agents?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "30 Sep 2026",
-          "summary": "alternative_right shares a report from Phys.org: Nanoparticles could someday provide a new way to help soldiers fight back against deadly nerve agents on the front lines. In a new study, Northwestern University scientists developed a nanoparticle-based compoun…"
-        },
-        {
-          "title": "The Night Sky Is Getting 10% Brighter Every Year",
-          "link": "https://science.slashdot.org/story/26/09/30/0452204/the-night-sky-is-getting-10-brighter-every-year?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "30 Sep 2026",
-          "summary": "fjo3 quotes a report from The Guardian, written by Tove Danovich: Every year, the night sky is becoming 10% brighter. Eighty percent of people live under light-polluted skies. And while the UN declared a healthy environment -- clean air, clean water -- to be a…"
-        },
-        {
-          "title": "Tech Workers Made ChatGPT Drive a Toyota Corolla",
-          "link": "https://tech.slashdot.org/story/26/09/29/1921233/tech-workers-made-chatgpt-drive-a-toyota-corolla?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "30 Sep 2026",
-          "summary": "An anonymous reader quotes a report from 404 Media: Some tech workers in San Francisco hooked up ChatGPT to a Toyota Corolla and got it to drive around a parking lot. This may not sound impressive in the age of the self-driving car until you realize that the L…"
-        },
-        {
-          "title": "Firefox Redesign Brings Round Tabs, New Themes, and Compact Mode",
-          "link": "https://mobile.slashdot.org/story/26/09/29/194251/firefox-redesign-brings-round-tabs-new-themes-and-compact-mode?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "29 Sep 2026",
-          "summary": "Firefox 157 is rolling out a major redesign across desktop and mobile, bringing rounded \"bubble\" tabs, a curved address bar, refreshed icons and colors, and a more consistent visual language across devices. Mozilla is also adding more themes and wallpapers whi…"
-        },
-        {
-          "title": "Microsoft Makes Linux Containers Native On Windows 11",
-          "link": "https://linux.slashdot.org/story/26/09/29/1858218/microsoft-makes-linux-containers-native-on-windows-11?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "29 Sep 2026",
-          "summary": "BrianFagioli shares a report from NERDS.xyz: Microsoft has made WSL Containers generally available, giving Windows 11 developers a built-in way to build, run, and deploy Linux containers through Windows Subsystem for Linux. The release includes wslc.exe for ma…"
-        },
-        {
-          "title": "Mistral CEO Says US AI Safety Debate Masks Competitors' 'Negligence'",
-          "link": "https://slashdot.org/story/26/09/29/1855248/mistral-ceo-says-us-ai-safety-debate-masks-competitors-negligence?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "29 Sep 2026",
-          "summary": "An anonymous reader quotes a report from CNBC: Mistral Chief Executive Arthur Mensch has accused leading global artificial intelligence companies of using the debate over the safety of the technology as a cover-up for their \"negligence.\" \"The debate that we've…"
-        },
-        {
-          "title": "McDonald's Reportedly Using AI to 'Dynamically' Price Its Burgers",
-          "link": "https://tech.slashdot.org/story/26/09/29/1815221/mcdonalds-reportedly-using-ai-to-dynamically-price-its-burgers?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "29 Sep 2026",
-          "summary": "McDonald's is reportedly using AI-powered pricing tools to recommend menu prices based on what customers near individual restaurants are willing to pay. Franchisees technically retain control over final prices, but some told Reuters they feel pressured to foll…"
-        },
-        {
-          "title": "500K Facial Recognition Scans at UK Stations Yield Zero Arrests, One False Positive",
-          "link": "https://news.slashdot.org/story/26/09/29/1736207/500k-facial-recognition-scans-at-uk-stations-yield-zero-arrests-one-false-positive?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "29 Sep 2026",
-          "summary": "A six-month British Transport Police trial of live facial recognition at London railway stations scanned more than 500,000 faces, cost over 320,000 pounds, and produced just one alert with no arrests directly resulting from the technology. That one alert ended…"
-        },
-        {
-          "title": "OpenAI Unveils Always-On AI Agent 'Dots'",
-          "link": "https://slashdot.org/story/26/09/29/1723239/openai-unveils-always-on-ai-agent-dots?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "29 Sep 2026",
-          "summary": "In addition to the company's GPT-6.1 Astra announcement, OpenAI announced always-on AI agents called \"Dots\" that can proactively use a computer and connected apps to research, draft documents, write software and handle other tasks on a user's behalf. \"OpenAI s…"
-        },
-        {
-          "title": "Google Says Chromebook Updates End In 2034, 'Many' Models Move to Googlebook OS",
-          "link": "https://tech.slashdot.org/story/26/09/29/0538225/google-says-chromebook-updates-end-in-2034-many-models-move-to-googlebook-os?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "29 Sep 2026",
-          "summary": "Google says ChromeOS will keep receiving regular updates and security patches through mid-2034, after which qualifying newer Chromebooks will be able to migrate to the new Googlebook OS. 9to5Google reports: Starting with Chromebook updates, Google says that \"C…"
-        },
-        {
-          "title": "California Is Banning Public Officials From Making Memecoins",
-          "link": "https://slashdot.org/story/26/09/29/0527255/california-is-banning-public-officials-from-making-memecoins?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "29 Sep 2026",
-          "summary": "California Gov. Gavin Newsom has signed AB 2409, barring California public officials from issuing memecoins and prohibiting companies from listing memecoins that use a public official's image or likeness. Engadget reports: The governor's office pointed to repo…"
-        },
-        {
-          "title": "Florida Invokes Extinction Fears In Legal Bid To Halt OpenAI Development",
-          "link": "https://yro.slashdot.org/story/26/09/29/0514206/florida-invokes-extinction-fears-in-legal-bid-to-halt-openai-development?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "29 Sep 2026",
-          "summary": "An anonymous reader quotes a report from Ars Technica: The state of Florida is seeking a temporary injunction to stop OpenAI from continuing to develop what it calls a \"reckless, unacceptably risky product\" without the deployment of \"third-party approved safet…"
-        },
-        {
-          "title": "El Nino Bursts Through Temperature Record Months Before Peak",
-          "link": "https://news.slashdot.org/story/26/09/29/054253/el-nino-bursts-through-temperature-record-months-before-peak?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "29 Sep 2026",
-          "summary": "The current El Nino has already surpassed the highest Pacific temperature anomaly recorded in the modern era, reaching 3.05C above the 1991-2020 average months before its expected peak. The commonly used ONI measure is also on the verge of breaking the 2015 re…"
-        },
-        {
-          "title": "Microbes Could Survive On Saturn's Moon Enceladus",
-          "link": "https://science.slashdot.org/story/26/09/28/2140251/microbes-could-survive-on-saturns-moon-enceladus?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "29 Sep 2026",
-          "summary": "New research suggests Enceladus may be an especially promising place to search for extraterrestrial life: microbes similar to those found near Earth's hydrothermal vents survived in lab conditions designed to mimic the Saturnian moon's subsurface ocean. A sepa…"
-        },
-        {
-          "title": "Bananas That Don't Go Brown To Hit Supermarkets Thanks to DNA Editing",
-          "link": "https://science.slashdot.org/story/26/09/28/210256/bananas-that-dont-go-brown-to-hit-supermarkets-thanks-to-dna-editing?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "29 Sep 2026",
-          "summary": "An anonymous reader quotes a report from The Guardian: It is the bane of every fruit bowl: sliced banana that turns brown before it has reached the table. But such woes could soon be a thing of the past, with gene-edited bananas that keep their freshly peeled…"
-        }
-      ]
+      "ok": false,
+      "items": []
     },
     {
       "url": "https://www.aitrends.com/feed",
@@ -1205,6 +1295,18 @@
       "ok": true,
       "items": [
         {
+          "title": "NVIDIA Opens Applications for 2027–2028 Graduate Fellowships With Awards Up to $60,000",
+          "link": "https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/",
+          "date": "30 Sep 2026",
+          "summary": "Bringing together the world’s brightest minds and the latest accelerated computing technology leads to powerful breakthroughs that help tackle some of the biggest research problems. To foster such innovation, the NVIDIA Graduate Fellowship Program provides gra…"
+        },
+        {
+          "title": "From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
+          "link": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/",
+          "date": "30 Sep 2026",
+          "summary": "Building on nearly a decade of co-engineering, CoreWeave has built NVIDIA compute, networking and software into a cloud purpose-built for AI that’s still returning on investment across multiple generations of deployment. Now, CoreWeave is bringing the next gen…"
+        },
+        {
           "title": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
           "link": "https://blogs.nvidia.com/blog/open-protein-dataset/",
           "date": "24 Sep 2026",
@@ -1299,18 +1401,6 @@
           "link": "https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/",
           "date": "15 Sep 2026",
           "summary": "On a sweltering August evening in Silicon Valley, as the sun dropped and air conditioning loads spiked, Silicon Valley Power sent a signal to an AI factory to adjust its power consumption. Varun Sivaram was watching on Zoom with about forty others — his team a…"
-        },
-        {
-          "title": "AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories",
-          "link": "https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories/",
-          "date": "15 Sep 2026",
-          "summary": "Ian Buck, vice president of hyperscale and high-performance computing at NVIDIA, Tuesday spoke on AI factory efficiency at the AI Infra Summit, the Santa Clara Convention Center event that has morphed into a Coachella of infrastructure tech. Before a packed au…"
-        },
-        {
-          "title": "Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
-          "link": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/",
-          "date": "15 Sep 2026",
-          "summary": ""
         }
       ]
     },
@@ -1449,184 +1539,184 @@
       "ok": true,
       "items": [
         {
-          "title": "acla-agentic-context-runtime added to PyPI",
-          "link": "https://pypi.org/project/acla-agentic-context-runtime/",
+          "title": "phenome added to PyPI",
+          "link": "https://pypi.org/project/phenome/",
           "date": "30 Sep 2026",
-          "summary": "ACLA Agentic Context Runtime: persistent project context, a deterministic Context Compiler and governed Mission Working Sets for AI agents, with lifecycle, observation, REST, UI and MCP surfaces."
+          "summary": "PhenoMe: dataset-agnostic phenotyping pipeline using deep learning embeddings"
         },
         {
-          "title": "aura-python-sdk added to PyPI",
-          "link": "https://pypi.org/project/aura-python-sdk/",
+          "title": "opencompute-playground added to PyPI",
+          "link": "https://pypi.org/project/opencompute-playground/",
           "date": "30 Sep 2026",
-          "summary": "Python client library for the Neo4j Aura API (v1)"
+          "summary": "OpenCompute private monolith SDK — Exchange/Ledger OCX net-metering + Edge Pool + OpenAI-compat chat via LiteLLM"
         },
         {
-          "title": "kaizten-github-issue-eraser added to PyPI",
-          "link": "https://pypi.org/project/kaizten-github-issue-eraser/",
+          "title": "milume added to PyPI",
+          "link": "https://pypi.org/project/milume/",
           "date": "30 Sep 2026",
-          "summary": "List and delete closed GitHub issues after backing up issue images."
+          "summary": "Milume: a thinking surface for spatial omics. A tactile, reactive Jupyter (anywidget) surface for forming intuition about spatial omics data."
         },
         {
-          "title": "citation-network-mcp added to PyPI",
-          "link": "https://pypi.org/project/citation-network-mcp/",
+          "title": "mhd2d added to PyPI",
+          "link": "https://pypi.org/project/mhd2d/",
           "date": "30 Sep 2026",
-          "summary": "MCP server for citation-network analysis on Scopus or OpenAlex: coupling, co-citation, lineages, bibliometrics"
+          "summary": "A two-dimensional pseudo-spectral magnetohydrodynamics simulation code written in Python."
         },
         {
-          "title": "lookuptax added to PyPI",
-          "link": "https://pypi.org/project/lookuptax/",
+          "title": "tapesmith added to PyPI",
+          "link": "https://pypi.org/project/tapesmith/",
           "date": "30 Sep 2026",
-          "summary": "Official LookupTax SDK — validate tax IDs (VAT, EIN, GSTIN, ABN…) against government registries."
+          "summary": "Label studio for the Phomemo P12 label printer: templates, QR codes, homelab labels, web UI, print service and automation for Windows"
         },
         {
-          "title": "runspec-linux-root added to PyPI",
-          "link": "https://pypi.org/project/runspec-linux-root/",
+          "title": "dssnippets added to PyPI",
+          "link": "https://pypi.org/project/dssnippets/",
           "date": "30 Sep 2026",
-          "summary": "Linux admin runnables that need root (packages, reboot, sysctl) for runspec"
+          "summary": "Print ready-to-copy Data Science code snippets (preprocessing, models, plotting) from Python."
         },
         {
-          "title": "imctermite3 added to PyPI",
-          "link": "https://pypi.org/project/imctermite3/",
+          "title": "aws-sso-switcher added to PyPI",
+          "link": "https://pypi.org/project/aws-sso-switcher/",
           "date": "30 Sep 2026",
-          "summary": "Enables extraction of measurement data from binary files with extension 'raw' used by proprietary software imcFAMOS and imcSTUDIO and facilitates its storage in open source file formats"
+          "summary": "Switch the default AWS SSO profile in ~/.aws/config with one command"
         },
         {
-          "title": "almasix-orbit-workflows added to PyPI",
-          "link": "https://pypi.org/project/almasix-orbit-workflows/",
+          "title": "zam-hesap-mcp added to PyPI",
+          "link": "https://pypi.org/project/zam-hesap-mcp/",
           "date": "30 Sep 2026",
-          "summary": "Orbit plugin for versioned workflows: forms, approvals, parallel branches, escalation, and signatures."
+          "summary": "Türkiye maaş, asgari ücret, emekli/memur zammı, kıdem-ihbar ve izin hesapları için MCP sunucusu"
         },
         {
-          "title": "g2pflow added to PyPI",
-          "link": "https://pypi.org/project/g2pflow/",
+          "title": "bxc added to PyPI",
+          "link": "https://pypi.org/project/bxc/",
           "date": "30 Sep 2026",
-          "summary": "Composable multilingual grapheme-to-phoneme pipelines"
+          "summary": "A lightweight Python library and CLI tool to format BibTeX references using CSL"
         },
         {
-          "title": "plone-SkynetA11y-pdf-remediation added to PyPI",
-          "link": "https://pypi.org/project/plone-skyneta11y-pdf-remediation/",
+          "title": "nunppy added to PyPI",
+          "link": "https://pypi.org/project/nunppy/",
           "date": "30 Sep 2026",
-          "summary": "PDF accessibility (WCAG / PDF-UA) remediation dashboard: upload PDFs, scan a website for PDFs, download AI-remediated copies."
+          "summary": "A collection of my Machine Learning practical codes"
         },
         {
-          "title": "armarium added to PyPI",
-          "link": "https://pypi.org/project/armarium/",
+          "title": "jupyterlite-webmcp added to PyPI",
+          "link": "https://pypi.org/project/jupyterlite-webmcp/",
           "date": "30 Sep 2026",
-          "summary": "Create and validate Armarium Markdown vaults"
+          "summary": "Expose the live JupyterLite workspace to a compatible browser agent through WebMCP."
         },
         {
-          "title": "ggym added to PyPI",
-          "link": "https://pypi.org/project/ggym/",
+          "title": "lcbo added to PyPI",
+          "link": "https://pypi.org/project/lcbo/",
           "date": "30 Sep 2026",
-          "summary": "GeneticsGym: benchmark missense variant effect predictors on human genetic datasets (placeholder, release coming soon)"
+          "summary": "Typed LCBO product search, prices, inventory, proximity, and HAR capture"
         },
         {
-          "title": "jmcpy added to PyPI",
-          "link": "https://pypi.org/project/jmcpy/",
+          "title": "skylit added to PyPI",
+          "link": "https://pypi.org/project/skylit/",
           "date": "30 Sep 2026",
-          "summary": "禁漫天堂 Python SDK：搜索、评论、分类排行、章节详情与图片下载解码"
+          "summary": "Python client for Skylit market data: options flow, volatility, dealer positioning (GEX) and dark pool, for AI trading agents."
         },
         {
-          "title": "legaldown-render added to PyPI",
-          "link": "https://pypi.org/project/legaldown-render/",
+          "title": "neurosoc added to PyPI",
+          "link": "https://pypi.org/project/neurosoc/",
           "date": "30 Sep 2026",
-          "summary": "Reference renderer for the LegalDown legal document format: HTML and plain text, DOCX and PDF planned"
+          "summary": "NeuroSOC SDK for backends and AI agents: check session verdicts and guard agent tool calls before they run."
         },
         {
-          "title": "tvwnn added to PyPI",
-          "link": "https://pypi.org/project/tvwnn/",
+          "title": "greenheat-py added to PyPI",
+          "link": "https://pypi.org/project/greenheat-py/",
           "date": "30 Sep 2026",
-          "summary": "Time-varying weight neural networks: a faithful implementation of Rudd, Bondell & Silver (2026)"
+          "summary": "An async Python client for GreenHeat, a Twitch stream click/heatmap overlay extension"
         },
         {
-          "title": "django-skynetA11y-pdf-remediation added to PyPI",
-          "link": "https://pypi.org/project/django-skyneta11y-pdf-remediation/",
+          "title": "datatool-cli added to PyPI",
+          "link": "https://pypi.org/project/datatool-cli/",
           "date": "30 Sep 2026",
-          "summary": "Upload, scan and AI-remediate PDFs for accessibility (WCAG/PDF-UA) compliance"
+          "summary": "Diagnostica, perfila, limpa e converte arquivos de dados (CSV, Excel, JSON, Parquet) pela linha de comando, com suporte nativo a CSV do Excel brasileiro, CPF/CNPJ e R$."
         },
         {
-          "title": "epd-server added to PyPI",
-          "link": "https://pypi.org/project/epd-server/",
+          "title": "xapikorea added to PyPI",
+          "link": "https://pypi.org/project/xapikorea/",
           "date": "30 Sep 2026",
-          "summary": "Scheduled HTML-to-PNG rendering for battery-powered e-paper clients."
+          "summary": "Official Python SDK for the XAPI Korea API"
         },
         {
-          "title": "agent-mcp-mtls-util added to PyPI",
-          "link": "https://pypi.org/project/agent-mcp-mtls-util/",
+          "title": "toolhunch added to PyPI",
+          "link": "https://pypi.org/project/toolhunch/",
           "date": "30 Sep 2026",
-          "summary": "SPIFFE/mTLS MCP client for Claude Desktop — no local agent needed"
+          "summary": "Tool search for LLM agents, ranked by System-1 decision models, with a benchmark that measures prompt caching."
         },
         {
-          "title": "biolabcalc added to PyPI",
-          "link": "https://pypi.org/project/biolabcalc/",
+          "title": "gugugaga added to PyPI",
+          "link": "https://pypi.org/project/gugugaga/",
           "date": "30 Sep 2026",
-          "summary": "A multifaceted Python library and Excel extension for daily molecular biology research, PCR stoichiometry, IVT yields, protein quantification, and primer design."
+          "summary": "The Gugu programming language"
         },
         {
-          "title": "speckify added to PyPI",
-          "link": "https://pypi.org/project/speckify/",
+          "title": "authyouragent added to PyPI",
+          "link": "https://pypi.org/project/authyouragent/",
           "date": "30 Sep 2026",
-          "summary": "Launches the Speckify CLI (a Node package) via npx, so `pip install speckify` works without a separate Node install step for the package manager itself."
+          "summary": "Auth Your Agent SDK: let AI agents act for a user on websites, with the user's approval on their phone."
         },
         {
-          "title": "myanlex-python added to PyPI",
-          "link": "https://pypi.org/project/myanlex-python/",
+          "title": "clavory added to PyPI",
+          "link": "https://pypi.org/project/clavory/",
           "date": "30 Sep 2026",
-          "summary": "Typed synchronous and asynchronous clients for the MyanLex API"
+          "summary": "A persistent, local SQLite-backed key-value CLI"
         },
         {
-          "title": "vahta added to PyPI",
-          "link": "https://pypi.org/project/vahta/",
+          "title": "pyultrahdr added to PyPI",
+          "link": "https://pypi.org/project/pyultrahdr/",
           "date": "30 Sep 2026",
-          "summary": "Encrypted secret vault and harness-boundary guard so AI agents can use credentials without ever seeing their values"
+          "summary": "Pure-Python SDR to Ultra HDR JPEG gain map converter"
         },
         {
-          "title": "mainsequence-metatable added to PyPI",
-          "link": "https://pypi.org/project/mainsequence-metatable/",
+          "title": "seamark added to PyPI",
+          "link": "https://pypi.org/project/seamark/",
           "date": "30 Sep 2026",
-          "summary": "Main Sequence MetaTables Python client and standalone API"
+          "summary": "The Seamark CLI: run Harbor evals in the Seamark cloud and follow them from the terminal."
         },
         {
-          "title": "stackit-automation added to PyPI",
-          "link": "https://pypi.org/project/stackit-automation/",
+          "title": "repomap-viz added to PyPI",
+          "link": "https://pypi.org/project/repomap-viz/",
           "date": "30 Sep 2026",
-          "summary": "STACKIT Automation Service API"
+          "summary": "Local-first interactive map of a Python project: modules, calls, entry points."
         },
         {
-          "title": "friendly-greeting-tools added to PyPI",
-          "link": "https://pypi.org/project/friendly-greeting-tools/",
+          "title": "agentenv-framework added to PyPI",
+          "link": "https://pypi.org/project/agentenv-framework/",
           "date": "30 Sep 2026",
-          "summary": "Small greeting utilities."
+          "summary": "SDK and CLI for building, deploying and running agent environments and the tasks that grade agents in them."
         },
         {
-          "title": "ragpreflight added to PyPI",
-          "link": "https://pypi.org/project/ragpreflight/",
+          "title": "agentenv-framework-protocol added to PyPI",
+          "link": "https://pypi.org/project/agentenv-framework-protocol/",
           "date": "30 Sep 2026",
-          "summary": "Pre-ingestion diagnostic for RAG knowledge bases, grounded in the Garani 2026 taxonomy of 33 RAG failure modes"
+          "summary": "Open data-plane protocol and server SDK for agent environments."
         },
         {
-          "title": "viva-tellurium added to PyPI",
-          "link": "https://pypi.org/project/viva-tellurium/",
+          "title": "taskforge-queue added to PyPI",
+          "link": "https://pypi.org/project/taskforge-queue/",
           "date": "30 Sep 2026",
-          "summary": "Process-bigraph wrapper for Tellurium / libroadrunner SBML simulation"
+          "summary": "Background jobs for Python, stored in your Postgres database: no Redis, no broker."
         },
         {
-          "title": "slodl added to PyPI",
-          "link": "https://pypi.org/project/slodl/",
+          "title": "extty added to PyPI",
+          "link": "https://pypi.org/project/extty/",
           "date": "30 Sep 2026",
-          "summary": "Deep learning from scratch: tensors and reverse-mode autograd in a C++ core"
+          "summary": "Terminal-native ML experiment tracker"
         },
         {
-          "title": "csctool added to PyPI",
-          "link": "https://pypi.org/project/csctool/",
+          "title": "camelai-run added to PyPI",
+          "link": "https://pypi.org/project/camelai-run/",
           "date": "30 Sep 2026",
-          "summary": "Change Samsung CSC (region code) without root and without tripping Knox — open-source CLI for Linux and macOS."
+          "summary": "Python SDK for camelRun"
         },
         {
-          "title": "quadkit-ai-evaluation added to PyPI",
-          "link": "https://pypi.org/project/quadkit-ai-evaluation/",
+          "title": "zrules-py added to PyPI",
+          "link": "https://pypi.org/project/zrules-py/",
           "date": "30 Sep 2026",
-          "summary": "LLM evaluation framework for Python - benchmarks, reproducible experiments, seed-stable tracking, and ablation studies"
+          "summary": "Static semantics for languages parsed with zgram: structural rules, scopes and symbol tables, types, control flow, native and fast."
         }
       ]
     }
