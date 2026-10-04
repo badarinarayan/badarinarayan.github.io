@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-04T00:15:05Z",
+  "generated": "2026-10-04T06:33:10Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,30 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "Auto sales surge in September, but GST base clouds the picture. Can stocks rebound ahead of Q2 results?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/auto-sales-surge-in-september-but-gst-base-clouds-the-picture-can-stocks-rebound-ahead-of-q2-results/articleshow/134669703.cms",
+          "date": "4 Oct 2026",
+          "summary": "India’s auto sector delivered a mixed September, with strong passenger- and commercial-vehicle sales offset by weak tractor and domestic two-wheeler demand. Festive buying could support growth, but rural stress, rising input costs and excess dealer inventory p…"
+        },
+        {
+          "title": "Portfolio Pain! 9 penny stocks crash up to 57% in two months. Do you own any?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/9-penny-stocks-crash-up-to-57-in-just-2-months/slideshow/134669386.cms",
+          "date": "4 Oct 2026",
+          "summary": "In recent months, the penny stock sector faced a downturn as several stocks plummeted in value. A total of 14 stocks witnessed price drops between 20% and 57%. Notably, Kalind experienced the steepest decline at 57%. Additionally, Cropster Agro and PVV Infra r…"
+        },
+        {
+          "title": "Bonus issues, stock splits &amp; dividends: 10 shares turning ex-record date this wk",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-issues-stock-splits-and-dividends-10-stocks-turning-ex-record-date-this-week-do-you-own-any/articleshow/134669646.cms",
+          "date": "4 Oct 2026",
+          "summary": "This week marks an exciting period for investors as various companies, including NMDC, BLS E-Services, and GTV Engineering, have revealed their record dates for notable corporate actions such as bonus issues and stock splits. Additionally, PTC India and Shanka…"
+        },
+        {
+          "title": "Will Dalal Street extend losses? Key triggers to watch this week",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-nifty-sensex-plunge-for-9th-straight-week-tcs-q2-4-factors-to-drive-dalal-street-from-monday/articleshow/134669285.cms",
+          "date": "4 Oct 2026",
+          "summary": "India's stock market has faced a challenging downturn, marking eight weeks of losses, the longest in 25 years. Driving this trend are soaring oil prices and rising US bond yields. The sell-off by foreign institutional investors has intensified the downturn. As…"
+        },
         {
           "title": "D-Mart Q2 revenue rise 18% to Rs 19,206 cr; store count at 518",
           "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/d-mart-q2-revenue-rise-18-pc-to-rs-19206-cr-store-count-at-518/articleshow/134656472.cms",
@@ -18,30 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-oversold-nifty-may-rebound-as-volatility-stays-high/articleshow/134654990.cms",
           "date": "3 Oct 2026",
           "summary": "The technical structure has weakened materially, with the most important development being the Nifty's modest violation of its 200-week moving average, presently placed at 22,606.97. This is the first breach of this long-term average since March 2020 and makes…"
-        },
-        {
-          "title": "7 investing lessons from Jim Leitner for building the right market mindset",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/7-investing-lessons-from-jim-leitner-for-building-the-right-market-mindset/articleshow/134657619.cms",
-          "date": "3 Oct 2026",
-          "summary": "Leitner believes investors should remain open to new ideas and recognise that markets can challenge even experienced participants."
-        },
-        {
-          "title": "Sebi to soon issue framework on Closing Auction Session; receives over 3,500 comments",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-soon-issue-framework-on-closing-auction-session-receives-over-3500-comments/articleshow/134655426.cms",
-          "date": "3 Oct 2026",
-          "summary": "Securities and Exchange Board of India will release a framework regarding changes to the Closing Auction Session mechanism. The regulator reviewed comments on its consultation paper about market timings and settlement methodology. Sebi intends to address speci…"
-        },
-        {
-          "title": "Cube Highways Trust secures Rs.1,150 crore through AAA-rated NCDs",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/cube-highways-trust-secures-rs-1150-crore-through-aaa-rated-ncds/articleshow/134655392.cms",
-          "date": "3 Oct 2026",
-          "summary": "Cube Highways Trust has triumphantly secured Rs. 1,150 crore by issuing senior secured NCDs, boasting a competitive coupon rate of 7.50% per annum, payable quarterly for five years. Major institutional players, Axis Bank Limited and ICICI Bank Limited, were pi…"
-        },
-        {
-          "title": "Sebi examining position limits for non-agri contracts to boost liquidity",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-examining-position-limits-for-non-agri-contracts-to-boost-liquidity/articleshow/134656225.cms",
-          "date": "3 Oct 2026",
-          "summary": "Sebi is actively investigating position limits for non-agricultural contracts to improve market liquidity and depth. Chairman Tuhin Kanta Pandey has highlighted the importance of phased physical settlement for agricultural commodities. The organization is focu…"
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -196,34 +196,82 @@
       "ok": true,
       "items": [
         {
-          "title": "Watch: Netanyahu invites PM Modi, pilot Machchhar to Israel I-Day",
-          "link": "https://timesofindia.indiatimes.com/india/netanyahu-invites-pilot-smit-machchhar-to-israel-i-day-event-hails-him-as-hero-of-entire-world/articleshow/134665498.cms",
+          "title": "In a 1st, thousands of Kedarnath pilgrims bring back tonnes of trash from shrine",
+          "link": "https://timesofindia.indiatimes.com/city/dehradun/in-a-1st-thousands-of-kedarnath-pilgrims-bring-back-tonnes-of-trash-from-shrine/articleshow/134668861.cms",
+          "date": "4 Oct 2026",
+          "summary": "In an unprecedented initiative, thousands of pilgrims at Kedarnath are carrying down plastic waste voluntarily. The local administration's 'Carry Me Back' campaign has facilitated the collection of over 12 tonnes of waste. Volunteers from various states, inclu…"
+        },
+        {
+          "title": "Delhi protest: 3 women journalists allege sexual harassment by cops, probe ordered",
+          "link": "https://timesofindia.indiatimes.com/city/delhi/delhi-protest-row-3-women-journalists-allege-sexual-harassment-complaints-sent-to-crime-branch/articleshow/134669493.cms",
+          "date": "4 Oct 2026",
+          "summary": "On October 3, three female journalists reported instances of sexual harassment to the Delhi Police during a protest. These cases were referred to the Crime Branch for further inquiry. This protest, directed at Chief Election Commissioner Gyanesh Kumar regardin…"
+        },
+        {
+          "title": "Message to Congress? Akhilesh Yadav's 'victory, not seats' pitch ahead of UP polls",
+          "link": "https://timesofindia.indiatimes.com/india/message-to-congress-akhilesh-yadav-says-its-not-about-seats-its-about-victory/articleshow/134670257.cms",
           "date": "4 Oct 2026",
           "summary": ""
         },
         {
-          "title": "British Indian pair fight extradition to US over alleged cancer drug fraud",
-          "link": "https://timesofindia.indiatimes.com/world/uk/british-indian-pair-fight-extradition-to-us-over-alleged-cancer-drug-fraud/articleshow/134665447.cms",
-          "date": "4 Oct 2026",
-          "summary": ""
-        },
-        {
-          "title": "Apple removes Bitchat app from India App Store 'after government order'",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/apple-removes-bitchat-app-from-india-app-store/articleshow/134662737.cms",
+          "title": "Delhi hit-and-run: Couple in 70s flung into air after SUV hits them",
+          "link": "https://timesofindia.indiatimes.com/city/delhi/couple-in-70s-hit-by-suv-driver-held-after-fleeing-spot/articleshow/134664538.cms",
           "date": "3 Oct 2026",
-          "summary": "In a significant move, Apple has removed the decentralised messaging app Bitchat from its India App Store. This action follows a directive issued by the Ministry of Electronics and Information Technology, citing illegal content linked to the app. Bitchat, know…"
+          "summary": "A couple in their late seventies found themselves in a critical situation when an SUV struck them from behind in Kirti Nagar. The driver, Navleen Kaur, reportedly checked on the injured pair before fleeing the scene. Disturbing CCTV footage reveals the severit…"
         },
         {
-          "title": "Hope battles cramps as WI chase down 352 to beat India by 5 wickets",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/shai-hope-battles-cramps-as-west-indies-chase-down-352-to-register-five-wicket-win-over-india-in-third-odi/articleshow/134664126.cms",
-          "date": "3 Oct 2026",
-          "summary": "Hope overshadowed KL Rahul’s counterattacking unbeaten 129 off 87 balls that propelled India to 351/7. Dew may have played a part, but Hope’s experience tamed down India’s inexperienced bowling with consummate ease"
+          "title": "One casualty every 23 minutes: Civilian fatalities mount as Ukraine war intensifies",
+          "link": "https://timesofindia.indiatimes.com/world/europe/one-casualty-every-23-minutes-civilians-fatalities-mount-as-ukraine-war-intensifies/articleshow/134670231.cms",
+          "date": "4 Oct 2026",
+          "summary": "In the first eight months of 2026, the situation in Ukraine has become increasingly dire, with civilian casualties and injuries rising sharply. Reports indicate that nearly 2,500 civilians have been impacted by missile strikes and aerial attacks, targeting bot…"
         },
         {
-          "title": "Hormuz blocked, but Gulf crude shipments at pre-war level",
-          "link": "https://timesofindia.indiatimes.com/india/hormuz-blocked-but-gulf-crude-shipments-at-pre-war-level/articleshow/134667214.cms",
+          "title": "Larry Ellison bought homes near his Florida mansion, quite purchase made residents upset",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/larry-ellison-bought-eight-homes-near-his-florida-mansion-quite-purchase-made-several-residents-upset-making-homeowners-association-adopt-restrictions/articleshow/134670220.cms",
+          "date": "4 Oct 2026",
+          "summary": "Larry Ellison has purchased eight residential properties in Palm Meadows Estates, Florida, for his household staff. These properties, costing nearly $10 million, are located conveniently near his main estate. Residents expressed concerns over the clustering of…"
+        },
+        {
+          "title": "‘Pakistan don’t offer much competition’: BCCI takes swipe after Asian Games final",
+          "link": "https://timesofindia.indiatimes.com/sports/asian-games-2026/pakistan-dont-offer-much-competition-bcci-takes-swipe-after-asian-games-final/articleshow/134670245.cms",
+          "date": "4 Oct 2026",
+          "summary": "India's men's cricket team triumphed at the Asian Games 2026, capturing the gold medal with a decisive 19-run win over arch-rivals Pakistan at Korakuen Stadium. With a formidable score of 211 runs, powered by standout performances from Abhishek Sharma and Tila…"
+        },
+        {
+          "title": "‘Gandhi, Nehru, Ambedkar are India’s soul, mind, backbone’: Dipke's jibe at Centre",
+          "link": "https://timesofindia.indiatimes.com/india/gandhi-nehru-ambedkar-are-indias-soul-mind-backbone-dipkes-jibe-at-centre/articleshow/134669867.cms",
           "date": "4 Oct 2026",
           "summary": ""
+        },
+        {
+          "title": "Watch: SP press meet turns violent as ex-district chief slapped over seating",
+          "link": "https://timesofindia.indiatimes.com/city/lucknow/watch-gorakhpur-sp-press-meet-turns-violent-as-ex-district-chief-slapped-over-seating/articleshow/134669329.cms",
+          "date": "4 Oct 2026",
+          "summary": "A chaotic scene unfolded at a Samajwadi Party press conference in Gorakhpur when a physical clash erupted. It was reported that aspiring candidate Kamlesh Singh slapped former district president Nagina Sahni, following a seating disagreement amidst a packed ve…"
+        },
+        {
+          "title": "'Rahul was scared to fight from Amethi in LS polls' remark by SP draws Cong's ire",
+          "link": "https://timesofindia.indiatimes.com/india/he-was-so-scared-sp-mp-on-ally-rahul-gandhi-skipping-amethi-in-2024-lok-sabha-polls/articleshow/134669480.cms",
+          "date": "4 Oct 2026",
+          "summary": "\"Had there been no alliance (with the Samajwadi Party), they (Congress) wouldn't have won a single seat. It even reached a point where their top leader Rahul Gandhi was ready to give up his seat. He contested from elsewhere (Raebareli) instead of Amethi. He wa…"
+        },
+        {
+          "title": "‘You’re coming in blind?’ Chilling audio before medical jet carrying 6 vanished over Atlantic",
+          "link": "https://timesofindia.indiatimes.com/world/us/youre-coming-in-blind-chilling-audio-before-medical-jet-carrying-6-vanished-over-atlantic/articleshow/134669054.cms",
+          "date": "4 Oct 2026",
+          "summary": "A medical evacuation jet traveling from Bermuda to Boston has gone missing over the Atlantic Ocean. The Gulfstream G100 signaled an emergency and lost contact just moments before it vanished from radar. The US Coast Guard's search efforts have located a debris…"
+        },
+        {
+          "title": "NSW's 1946 dune fix became coastal invasion covering 46% of coastline",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/from-1946-nsw-planted-south-african-bitou-bush-to-stabilise-coastal-sand-dunes-decades-later-it-had-spread-along-46-of-the-states-coastline-and-threatened-native-ecosystems/articleshow/134656149.cms",
+          "date": "4 Oct 2026",
+          "summary": "Bitou bush was intentionally planted along the New South Wales coast to stabilize sand dunes. This plant has since spread extensively, covering 46% of the coastline and threatening native vegetation. Infestations of bitou bush replace native plant species and…"
+        },
+        {
+          "title": "$4 thrift shop cup turns out to be rare rhino-horn treasure worth $75,640",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/a-sydney-shopper-bought-a-carved-cup-for-a4-at-a-thrift-shop-experts-identified-it-as-a-centuries-old-chinese-rhinoceros-horn-cup-and-was-auctioned-for-a75640-in-2013/articleshow/134656341.cms",
+          "date": "4 Oct 2026",
+          "summary": "A shopper discovered a unique Chinese libation cup at a thrift shop in Sydney, Australia. They bought the cup for A$4 despite its significant chip. After assessing the item, a Sotheby's specialist appraised it at A$20,000 to A$30,000. The item was later auctio…"
         },
         {
           "title": "MacKenzie Scott gave $30M to housing nonprofit; a year later, it unveiled 10-year plan",
@@ -232,148 +280,100 @@
           "summary": "MacKenzie Scott has made headlines with her unprecedented $30 million donation to Housing Trust Silicon Valley, marking the organization's largest-ever gift. This investment is set to bolster affordable housing options throughout the Bay Area, as the trust pla…"
         },
         {
-          "title": "Resource security key as global economy faces uncertainty: Finance minister",
-          "link": "https://timesofindia.indiatimes.com/india/resource-security-key-as-global-economy-faces-uncertainty-finance-minister-nirmala-sitharaman/articleshow/134668298.cms",
+          "title": "Help your child memorize a chapter in 15 mins: 5 tricks that beat rereading",
+          "link": "https://timesofindia.indiatimes.com/life-style/parenting/teen/how-to-help-your-child-remember-a-chapter-in-15-minutes-5-study-techniques-that-may-work-better-than-rereading/articleshow/134669856.cms",
           "date": "4 Oct 2026",
-          "summary": ""
+          "summary": "Students frequently find it challenging to remember information using passive techniques like rereading and highlighting. Research shows that active retrieval and spaced repetition are key for effective memory retention. Methods such as dividing information in…"
         },
         {
-          "title": "How landlord won tax relief on Rs 14.96 lakh demonetisation cash deposit",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/he-deposited-rs-14-96-lakh-cash-during-demonetisation-landlord-faced-unexplained-money-tax-notice-under-section-69a-but-itat-bangalore-deletes-addition-on-account-of-rental-income/articleshow/134661840.cms",
-          "date": "3 Oct 2026",
-          "summary": "The Bangalore bench of the Income Tax Appellate Tribunal (ITAT) recently held that rental income already disclosed to the income tax authorities can be considered as an identifiable source of cash deposited into a bank account at a later date. Even where a lan…"
-        },
-        {
-          "title": "At 6, Dylan Siegel wrote a book for a friend; it raised $1m for research",
-          "link": "https://timesofindia.indiatimes.com/world/us/at-6-los-angeles-boy-dylan-siegel-wrote-chocolate-bar-to-help-his-best-friend-jonah-who-had-a-rare-liver-disorder-two-years-later-the-book-had-raised-1-million-for-research-into-the-disease/articleshow/134636457.cms",
-          "date": "3 Oct 2026",
-          "summary": "At 6, Los Angeles boy Dylan Siegel wrote and sold a book calledChocolate Barto help fund research into his best friend Jonah’s rare liver disorder. What began as a child’s idea grew into a fundraising effort that had raised $1 million by 2014."
-        },
-        {
-          "title": "Finance system resilient, economy braved West Asia crisis: RBI governor",
-          "link": "https://timesofindia.indiatimes.com/india/finance-system-resilient-economy-braved-west-asia-crisis-rbi-governor/articleshow/134668307.cms",
+          "title": "From historic golf gold to tennis medal miss: India’s biggest hits &amp; flops at Asian Games",
+          "link": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-indias-biggest-hits-and-flops-from-historic-golf-gold-to-tennis-medal-drought/articleshow/134669287.cms",
           "date": "4 Oct 2026",
-          "summary": "'Can't afford to be complacent, must stay alert'"
+          "summary": "India finished fourth at the 2026 Asian Games with 85 medals, including 21 golds, below its Hangzhou record of 106. Archery, hockey, cricket, boxing and wrestling delivered major successes, while athletics topped the overall medal count with 24. Tennis, badmin…"
         },
         {
-          "title": "Accepted her as she was still PM: Indian envoy on Hasina's flight",
-          "link": "https://timesofindia.indiatimes.com/world/south-asia/accepted-her-as-she-was-still-pm-indian-envoy-on-hasinas-flight/articleshow/134668427.cms",
+          "title": "Siya, lover studied 'Mansi's Lohagad death', 'mushroom killing' before Ketan's murder",
+          "link": "https://timesofindia.indiatimes.com/city/pune/before-ketans-killing-siya-goyal-lover-searched-mansi-govindpurkar-woman-kills-family-by-mushroom-cases/articleshow/134669869.cms",
           "date": "4 Oct 2026",
-          "summary": ""
+          "summary": "Ketan Agarwal's death on June 18 was initially thought to be accidental but later revealed to be homicide. His fiancée, Siya Goyal, and her lover, Chetan Chaudhary, allegedly plotted his murder at Lohagad Fort. They conducted extensive online searches about de…"
         },
         {
-          "title": "Cambridge farmer turned £300-a-year sheep field into dog park making £400 weekly",
-          "link": "https://timesofindia.indiatimes.com/world/uk/in-2021-cambridge-farmer-ben-webster-spent-15000-converting-his-sheep-grazing-field-that-earned-300-a-year-into-a-private-dog-park-it-now-brings-in-up-to-400-a-week/articleshow/134640728.cms",
-          "date": "4 Oct 2026",
-          "summary": "In the UK, dog owners increasingly hire private fields for their pets to enjoy safe exercise. This trend has emerged following the COVID-19 pandemic, which spurred demand for secure spaces. Farmers have transformed agricultural land into dog exercise areas ben…"
-        },
-        {
-          "title": "Jimmy Carter’s Georgia solar farm went on to supply about 60% of Plains’ power",
-          "link": "https://timesofindia.indiatimes.com/world/us/in-2017-jimmy-carter-leased-10-acres-of-his-georgia-farm-for-a-1-3-megawatt-solar-project-it-went-on-to-generate-about-60-of-plains-electricity-demand/articleshow/134639512.cms",
-          "date": "4 Oct 2026",
-          "summary": ""
-        },
-        {
-          "title": "What took 10 Google engineers six months now happens overnight, says Eric Schmidt",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/google-ex-ceo-eric-schmidt-best-programmers-dont-write-code-anymore-they-/articleshow/134653776.cms",
-          "date": "3 Oct 2026",
-          "summary": "Former Google CEO Eric Schmidt says the best programmers no longer write code. Speaking at Harvard's John F. Kennedy Jr. Forum, Schmidt described an engineer who writes specifications and evaluation criteria, lets AI run overnight, and wakes up to finished wor…"
-        },
-        {
-          "title": "Garth Stein’s restored Seattle ‘forever house’ lists for $2.45 million",
-          "link": "https://timesofindia.indiatimes.com/real-estate/news/garth-stein-bought-a-1924-seattle-house-in-2001-and-spent-25-years-restoring-and-updating-it-while-raising-three-children-with-the-family-now-downsizing-the-3970-sq-ft-forever-house-is-asking-2-45-million/articleshow/134638215.cms",
-          "date": "4 Oct 2026",
-          "summary": "Garth Stein and his wife are selling their Seattle home after living there for 25 years. They purchased the property in 2001, aiming to raise their children there. The home has been extensively renovated while maintaining its original character and charm. Loca…"
-        },
-        {
-          "title": "Russia vows massive hits on Kyiv, urges diplomats to leave",
-          "link": "https://timesofindia.indiatimes.com/world/europe/russia-vows-massive-hits-on-kyiv-urges-diplomats-to-leave/articleshow/134668415.cms",
-          "date": "4 Oct 2026",
-          "summary": "Ukraine ready to consider India’s ceasefire proposal: Finance minister"
-        },
-        {
-          "title": "BJP hits back at Kharge over 'illegal' remark",
-          "link": "https://timesofindia.indiatimes.com/india/bjp-hits-back-at-kharge-over-illegal-remark/articleshow/134668369.cms",
-          "date": "4 Oct 2026",
-          "summary": ""
-        },
-        {
-          "title": "Travis Kelce and Patrick Mahomes' 1587 restaurant lawsuit takes new turn",
-          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/travis-kelce-and-patrick-mahomes-1587-lawsuit-takes-a-new-turn-as-kansas-city-chiefs-stars-continue-backing-restaurant-amid-ongoing-trademark-dispute/articleshow/134651153.cms",
-          "date": "3 Oct 2026",
-          "summary": "Amid ongoing trademark issues, Travis Kelce and Patrick Mahomes are throwing their weight behind 1587 Prime, which has just garnered a spot on Yelp's list of Best New Restaurants for 2026. The dispute involves trademark claims from 1587 Sneakers, alleging infr…"
-        },
-        {
-          "title": "How Maria Sharapova built a $220 million fortune beyond tennis",
+          "title": "Maria Sharapova's $220 million fortune: How the tennis star built her business empire",
           "link": "https://timesofindia.indiatimes.com/sports/international-sports/maria-sharapova-built-a-220-million-fortune-after-tennis-by-turning-grand-slam-fame-into-sugarpova-major-endorsements-strategic-investments-and-entrepreneurship/articleshow/134619599.cms",
           "date": "1 Oct 2026",
           "summary": "Sharapova used her tennis success to build a bigger business career after retiring. Her estimated $220 million fortune has been tied to career earnings, global endorsements, Sugarpova and investments in consumer, wellness, fitness and technology companies, all…"
         },
         {
-          "title": "India must stay open, but not become vulnerable, says principle sec to PM",
-          "link": "https://timesofindia.indiatimes.com/india/pk-mishra-india-must-stay-open-but-not-become-vulnerable/articleshow/134668333.cms",
-          "date": "4 Oct 2026",
-          "summary": ""
-        },
-        {
-          "title": "Rs 3,750 crore RCom fraud: CBI names ex-LIC executive",
-          "link": "https://timesofindia.indiatimes.com/india/3750-crore-rcom-fraud-cbi-names-ex-lic-executive/articleshow/134668322.cms",
-          "date": "4 Oct 2026",
-          "summary": ""
-        },
-        {
-          "title": "Insurance companies want policyholders to pay 10% of health claims",
-          "link": "https://timesofindia.indiatimes.com/india/insurance-companies-want-policyholders-to-pay-10-of-health-claims/articleshow/134668355.cms",
-          "date": "4 Oct 2026",
-          "summary": ""
-        },
-        {
-          "title": "Indians live longer than Pakistanis, lag Bangladeshis, says WHO",
-          "link": "https://timesofindia.indiatimes.com/india/indians-live-longer-than-pakistanis-lag-bangladeshis-says-who/articleshow/134665628.cms",
-          "date": "4 Oct 2026",
-          "summary": ""
-        },
-        {
-          "title": "Florida county pays $7.8m for 625-acre ranch, stopping 52-home development",
-          "link": "https://timesofindia.indiatimes.com/world/us/a-florida-owner-planned-52-ten-acre-homesites-across-his-625-acre-cattle-ranch-if-the-county-would-not-buy-it-after-two-years-of-talks-officials-agreed-to-pay-7-8-million-and-stop-the-development/articleshow/134654660.cms",
+          "title": "Brittany Mahomes steps up for 93 dogs in 5 days as KC Pet Project faces crisis",
+          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/from-10000-donations-to-93-dogs-in-5-days-how-brittany-mahomes-continues-her-support-for-kc-pet-project/articleshow/134646218.cms",
           "date": "3 Oct 2026",
-          "summary": "In a bid to safeguard a crucial ecological area, Collier County has finalized an agreement to buy Wildflowerz Ranch, preventing any residential construction on its expansive 625 acres. Valued at approximately $7.8 million after two years of negotiations, this…"
+          "summary": "Brittany Mahomes has supported KC Pet Project, which currently struggles with an overwhelming number of dogs. The shelter has only two open kennels while receiving a high influx of new animals daily. Recently, Brittany shared the shelter's urgent message on so…"
         },
         {
-          "title": "21 Gold, 27 Silver &amp; 37 Bronze: India's medal frenzy at Asian Games ends with a bang",
-          "link": "https://timesofindia.indiatimes.com/sports/asian-games-2026/from-hockey-and-cricket-gold-to-mirabai-chanus-weightlifting-silver-full-list-of-indias-85-medal-winners-at-asian-games/articleshow/134660082.cms",
+          "title": "Chhattisgarh village council resolution bars land for Christian burials, prayer meets",
+          "link": "https://timesofindia.indiatimes.com/city/raipur/cg-village-council-resolution-bars-land-for-christian-burials-prayer-meets/articleshow/134660715.cms",
           "date": "3 Oct 2026",
-          "summary": "The Aichi-Nagoya campaign produced a mix of expected results and disappointments before India's strong finish changed the picture. As recently as Thursday, India were outside the top 10 in the medal table with only 10 gold medals."
+          "summary": "‘Action if resolution not in keeping with council powers’"
         },
         {
-          "title": "Kashmir professor removed for ‘harassing’ students",
-          "link": "https://timesofindia.indiatimes.com/india/kashmir-professor-removed-for-harassing-students/articleshow/134665420.cms",
+          "title": "India’s Asian Games medal map changed: 20 Hangzhou golds gone, 13 new routes to gold",
+          "link": "https://timesofindia.indiatimes.com/sports/asian-games-2026/20-hangzhou-golds-gone-13-new-routes-to-gold-how-indias-asian-games-medal-map-changed/articleshow/134669543.cms",
+          "date": "4 Oct 2026",
+          "summary": "India defended only eight of its 28 Hangzhou golds at Aichi-Nagoya, with 20 titles changing hands. All seven shooting golds and all six athletics titles were lost, but the gold medals were replaced from a wider pool. Thirteen came from events where India had w…"
+        },
+        {
+          "title": "SIR protest: 150 detained near Jantar Mantar on 2nd day",
+          "link": "https://timesofindia.indiatimes.com/city/delhi/100-detained-as-protesters-return-to-demand-cecs-removal/articleshow/134665430.cms",
+          "date": "4 Oct 2026",
+          "summary": "Around 150 individuals were detained during protests at Jantar Mantar, demanding the removal of Chief Election Commissioner Gyanesh Kumar. Those detained included prominent figures like Prashant Bhushan and Yogendra Yadav, who continued their protest at a poli…"
+        },
+        {
+          "title": "Bridges under attack: Why Russia is targeting Kyiv's vital crossings",
+          "link": "https://timesofindia.indiatimes.com/world/europe/bridges-under-attack-why-russia-is-targeting-kyivs-vital-crossings/articleshow/134669745.cms",
+          "date": "4 Oct 2026",
+          "summary": "In a strategic move, Russia has targeted crucial bridges spanning the Dnipro River in Kyiv, severely impacting transportation and essential infrastructure. The attacks have led to significant traffic congestion throughout the city, with public transport facing…"
+        },
+        {
+          "title": "Kerala orders vigilance probe into 2006 suicide case linked to CEC Gyanesh Kumar",
+          "link": "https://timesofindia.indiatimes.com/india/kerala-orders-vigilance-probe-into-2006-suicide-case-linked-to-cec-gyanesh-kumar/articleshow/134669026.cms",
           "date": "4 Oct 2026",
           "summary": ""
         },
         {
-          "title": "Drug addicts turn to painkillers amid Nasha Mukt crackdown in J&amp;K",
-          "link": "https://timesofindia.indiatimes.com/india/drug-addicts-turn-to-painkillers-amid-nasha-mukt-crackdown-in-jk/articleshow/134665415.cms",
+          "title": "‘Protecting a monster’: CJP sets noon deadline for FIR against Delhi ACP",
+          "link": "https://timesofindia.indiatimes.com/city/delhi/why-are-you-protecting-acp-vivek-bhagat-cjps-saurav-das-demands-fir-over-alleged-journalist-sexual-assault/articleshow/134669010.cms",
+          "date": "4 Oct 2026",
+          "summary": "Cockroach Janta Party spokesperson Saurav Das urged Delhi Police to register an FIR against ACP Vivek Bhagat. The demands followed allegations of sexual assault against an independent journalist during protests. Protesters have gathered outside the police stat…"
+        },
+        {
+          "title": "'Divorce, Rs 30 lakh hospital bill': What led to techie's fatal jump from Supernova",
+          "link": "https://timesofindia.indiatimes.com/city/noida/what-drove-gurgaon-techie-to-jump-from-noidas-supernova-buidling-divorce-babys-premature-birth-mounting-debts/articleshow/134668761.cms",
+          "date": "4 Oct 2026",
+          "summary": "Sambhav Jain, a 28-year-old software engineer, died by suicide after jumping from a 41st-floor balcony. He had been staying alone in an Airbnb and expressed feelings of depression before the incident. Police are investigating personal difficulties and financia…"
+        },
+        {
+          "title": "The Price of a Title Shot: When challengers had to pay to face the champion",
+          "link": "https://timesofindia.indiatimes.com/sports/chess/the-price-of-a-title-shot-when-challengers-had-to-pay-to-face-the-champion/articleshow/134669830.cms",
+          "date": "4 Oct 2026",
+          "summary": "For much of its history, the world chess championship was not a title a player could simply qualify to challenge for. From Steinitz–Zukertort in 1886 to the long disputes involving Lasker, Capablanca and Rubinstein, challengers had to raise money, negotiate te…"
+        },
+        {
+          "title": "Battered, stripped, dumped: 21-year-old finance student found dead in Ahmedabad",
+          "link": "https://timesofindia.indiatimes.com/city/ahmedabad/ahmedabad-student-battered-stripped-and-dumped-in-compound-of-society-complex-dies-during-treatment/articleshow/134664938.cms",
+          "date": "4 Oct 2026",
+          "summary": "Jigar Solanki, a 21-year-old finance student, left his home on a motorcycle to meet a friend. Hours later, he was discovered injured and stripped in an apartment compound. Despite being rushed to the hospital, he died shortly after arrival due to multiple inju…"
+        },
+        {
+          "title": "'We don’t do background checks on foreign pilots': Israeli minister on flydubai incident",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/we-dont-do-background-checks-on-foreign-pilots-israeli-minister-on-flydubai-incident/articleshow/134669433.cms",
           "date": "4 Oct 2026",
           "summary": ""
         },
         {
-          "title": "Maryland homeowner gets $234,368 check for home; new law bans such offers",
-          "link": "https://timesofindia.indiatimes.com/world/us/a-maryland-homeowner-received-an-unsolicited-234368-25-check-tied-to-an-offer-for-her-property-a-state-law-that-took-effect-on-october-1-now-bans-sending-such-checks-with-unsolicited-purchase-offers/articleshow/134644540.cms",
-          "date": "2 Oct 2026",
-          "summary": "Effective October 1, Maryland introduced legislation banning unsolicited checks sent with home purchase offers. This initiative is designed to safeguard homeowners from misleading marketing strategies from property investors. Consumer advocates highlighted the…"
-        },
-        {
-          "title": "PoK woman crosses LoC in Rajouri, detained",
-          "link": "https://timesofindia.indiatimes.com/india/pok-woman-crosses-loc-in-rajouri-detained/articleshow/134665215.cms",
-          "date": "4 Oct 2026",
-          "summary": ""
-        },
-        {
-          "title": "1 dead, 55 hurt in J&amp;K as Bengal bus hits hillside, vehicle sent for rescue overturns",
-          "link": "https://timesofindia.indiatimes.com/india/1-dead-55-hurt-in-jk-as-bengal-bus-hits-hillside-vehicle-sent-for-rescue-overturns/articleshow/134665214.cms",
-          "date": "4 Oct 2026",
-          "summary": ""
+          "title": "Muslim youths set up BJP office after CM Suvendu Adhikari's ‘friendship’ appeal",
+          "link": "https://timesofindia.indiatimes.com/city/kolkata/muslim-youths-set-up-bjp-office-in-nandigram-after-cms-friendship-appeal/articleshow/134663855.cms",
+          "date": "3 Oct 2026",
+          "summary": "In a surprising show of political engagement, youths from Sarberia's Muslim community set up a temporary office for the BJP, responding to CM Suvendu Adhikari's encouragement. This initiative aims to bolster support for candidate Hasirani Rath ahead of the loo…"
         }
       ]
     },
@@ -1152,6 +1152,24 @@
       "ok": true,
       "items": [
         {
+          "title": "This Virus Stole a Human Gene and Won't Let Go of It",
+          "link": "https://science.slashdot.org/story/26/10/04/0054248/this-virus-stole-a-human-gene-and-wont-let-go-of-it?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "4 Oct 2026",
+          "summary": "\"Scientists have discovered a virus that is a tiny bit human, carrying a gene it stole from our ancestors about 100,000 years ago,\" writes the New York Times. \"And this virus may be using our own gene to infect us.\" Phys.org explains that it's \"both an importa…"
+        },
+        {
+          "title": "Physicists Identify 'Octupolar' Magnetism, With Implications for Quantum Technologies",
+          "link": "https://science.slashdot.org/story/26/10/04/0015230/physicists-identify-octupolar-magnetism-with-implications-for-quantum-technologies?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "4 Oct 2026",
+          "summary": "While most magnets have two poles (north and south, or positive and negative), recent advances in quantum mechanics have revealed an \"octupolar order,\" writes Phys.org, where a pattern of particles in a crystalline structure \"behaves as if it has eight magneti…"
+        },
+        {
+          "title": "Surveillance Company Tells Cops It Wants to Add Facial Recognition to Flock Cameras",
+          "link": "https://yro.slashdot.org/story/26/10/03/0545254/surveillance-company-tells-cops-it-wants-to-add-facial-recognition-to-flock-cameras?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "4 Oct 2026",
+          "summary": "404 Media reports: \"We will not add facial recognition to our devices,\" Flock CEO Garrett Langley said in a recent video. But other, third-party companies are telling cops that they are willing to add facial recognition to data gathered by Flock cameras in ord…"
+        },
+        {
           "title": "As 'Falcon Heavy' Launches, SpaceX Plans Dragon and Falcon 9 Phase Out As Starship Ramps Up",
           "link": "https://science.slashdot.org/story/26/10/03/2317251/as-falcon-heavy-launches-spacex-plans-dragon-and-falcon-9-phase-out-as-starship-ramps-up?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "3 Oct 2026",
@@ -1222,24 +1240,6 @@
           "link": "https://news.slashdot.org/story/26/10/02/215238/the-university-of-washington-is-moving-a-graduate-program-to-microsofts-campus?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "2 Oct 2026",
           "summary": "Longtime Slashdot submitter theodp writes: GeekWire reports that the University of Washington has moved its Global Innovation Exchange {GIX) program to Microsoft's campus in a rent-free deal (UW News release). GIX, an institute supporting tech leaders that off…"
-        },
-        {
-          "title": "Apple Tightens macOS 'Full Disk Access' Controls As AI Agents 'Substantially' Increase Risk",
-          "link": "https://hardware.slashdot.org/story/26/10/02/2056223/apple-tightens-macos-full-disk-access-controls-as-ai-agents-substantially-increase-risk?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "2 Oct 2026",
-          "summary": "Apple says it will tighten macOS Full Disk Access controls as increasingly capable AI agents raise the risks of apps gaining broad access to users' files, messages, mail, and browsing history. TechCrunch reports: Days after a journalist claimed that Meta's Mus…"
-        },
-        {
-          "title": "Paramount and Warner Bros. Discovery to Become Skydance",
-          "link": "https://entertainment.slashdot.org/story/26/10/02/1836216/paramount-and-warner-bros-discovery-to-become-skydance?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "2 Oct 2026",
-          "summary": "Paramount and Warner Bros. Discovery will operate under the Skydance name once their roughly $110 billion merger closes, which is expected on October 6. The combined company will bring together Paramount+, HBO Max, CBS, CNN, MTV and other networks, along with…"
-        },
-        {
-          "title": "Used Processor Leads To Game Ban",
-          "link": "https://hardware.slashdot.org/story/26/10/02/1750242/used-processor-leads-to-game-ban?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "2 Oct 2026",
-          "summary": "AmiMoJo shares a report from heise online: Anyone buying used hardware for a gaming PC needs to be careful: not just whether the components are still in order but also what the previous owner did with them. A case on Reddit shows this. Someone installed a used…"
         }
       ]
     },
@@ -1630,184 +1630,184 @@
       "ok": true,
       "items": [
         {
-          "title": "mcp-etf-holdings added to PyPI",
-          "link": "https://pypi.org/project/mcp-etf-holdings/",
-          "date": "3 Oct 2026",
-          "summary": "MCP server for ETF reverse lookup — find which ETFs hold any stock"
+          "title": "fbnnet-core added to PyPI",
+          "link": "https://pypi.org/project/fbnnet-core/",
+          "date": "4 Oct 2026",
+          "summary": "Fundamental Boolean Network (FBN) inference of gene regulatory networks from time series, with a C++ core"
         },
         {
-          "title": "fastfence added to PyPI",
-          "link": "https://pypi.org/project/fastfence/",
-          "date": "3 Oct 2026",
-          "summary": "A policy gateway for agent tools, resources, and local LLMs"
+          "title": "llm-getyoutubetranscript added to PyPI",
+          "link": "https://pypi.org/project/llm-getyoutubetranscript/",
+          "date": "4 Oct 2026",
+          "summary": "YouTube transcripts for LLM: load any YouTube transcript as a fragment or tool with the GetYouTubeTranscript API"
         },
         {
-          "title": "crondelta added to PyPI",
-          "link": "https://pypi.org/project/crondelta/",
-          "date": "3 Oct 2026",
-          "summary": "Compare actual cron engines before changing the library behind your schedules."
+          "title": "crewai-getyoutubetranscript added to PyPI",
+          "link": "https://pypi.org/project/crewai-getyoutubetranscript/",
+          "date": "4 Oct 2026",
+          "summary": "YouTube transcript tools for CrewAI agents: get YouTube video transcripts with timestamps, search YouTube, and list channel videos, via the GetYouTubeTranscript API."
         },
         {
-          "title": "jame added to PyPI",
-          "link": "https://pypi.org/project/jame/",
-          "date": "3 Oct 2026",
-          "summary": "Just Another Method of Exploitation"
+          "title": "langchain-getyoutubetranscript added to PyPI",
+          "link": "https://pypi.org/project/langchain-getyoutubetranscript/",
+          "date": "4 Oct 2026",
+          "summary": "YouTube transcript tools and document loader for LangChain: get YouTube video transcripts with timestamps and search YouTube from agents and RAG pipelines, via the GetYouTubeTranscript API."
         },
         {
-          "title": "awk-polycall added to PyPI",
-          "link": "https://pypi.org/project/awk-polycall/",
-          "date": "3 Oct 2026",
-          "summary": "AWK binding for Polycall, installed as source files (not a Python API)"
+          "title": "thumbforge added to PyPI",
+          "link": "https://pypi.org/project/thumbforge/",
+          "date": "4 Oct 2026",
+          "summary": "Generate consistent, spec-compliant YouTube thumbnails from a hero image and a playlist."
         },
         {
-          "title": "asm-polycall added to PyPI",
-          "link": "https://pypi.org/project/asm-polycall/",
-          "date": "3 Oct 2026",
-          "summary": "Assembly binding for Polycall, installed as source files (not a Python API)"
+          "title": "icebergdb added to PyPI",
+          "link": "https://pypi.org/project/icebergdb/",
+          "date": "4 Oct 2026",
+          "summary": "Iceberg — High-performance serverless vector database for AI agents and RAG applications"
         },
         {
-          "title": "ada-polycall added to PyPI",
-          "link": "https://pypi.org/project/ada-polycall/",
-          "date": "3 Oct 2026",
-          "summary": "Ada binding for Polycall, installed as source files (not a Python API)"
+          "title": "flowocr added to PyPI",
+          "link": "https://pypi.org/project/flowocr/",
+          "date": "4 Oct 2026",
+          "summary": "从视频里抽全部屏幕文字、带起止时间、按区域聚类，导出 SRT / ASS"
         },
         {
-          "title": "actionscript-polycall added to PyPI",
-          "link": "https://pypi.org/project/actionscript-polycall/",
-          "date": "3 Oct 2026",
-          "summary": "ActionScript 3 binding for Polycall, installed as source files (not a Python API)"
+          "title": "reason-machines-harbor added to PyPI",
+          "link": "https://pypi.org/project/reason-machines-harbor/",
+          "date": "4 Oct 2026",
+          "summary": "Harbor adapter for the public Reason Machines portable worker"
         },
         {
-          "title": "openbim-ifcx added to PyPI",
-          "link": "https://pypi.org/project/openbim-ifcx/",
-          "date": "3 Oct 2026",
-          "summary": "Read, write, validate, compose and export (GLB) IFC5 / IFCX files -- Python bindings for the openbim-ifcx Rust crate."
+          "title": "cafa-ivr added to PyPI",
+          "link": "https://pypi.org/project/cafa-ivr/",
+          "date": "4 Oct 2026",
+          "summary": "Reference implementation of Counterfactual ASR Failure Attribution for conversational IVR"
         },
         {
-          "title": "proformaengine added to PyPI",
-          "link": "https://pypi.org/project/proformaengine/",
-          "date": "3 Oct 2026",
-          "summary": "A Python engine for building and running financial pro forma models — coming soon"
+          "title": "pcli-agent added to PyPI",
+          "link": "https://pypi.org/project/pcli-agent/",
+          "date": "4 Oct 2026",
+          "summary": "An opencode-style AI coding agent CLI/TUI for Python, with a Python discovery tool and an OS/software toolbox."
         },
         {
-          "title": "mcardupilot added to PyPI",
-          "link": "https://pypi.org/project/mcardupilot/",
-          "date": "3 Oct 2026",
-          "summary": "ArduPilot SITL instances, flights and logs for LLM agents"
+          "title": "china-law-mcp added to PyPI",
+          "link": "https://pypi.org/project/china-law-mcp/",
+          "date": "4 Oct 2026",
+          "summary": "中国法律条文 MCP 服务器：2.3 万条现行法条检索 + 引用核验（防幻觉），免费、免注册、免 API key"
         },
         {
-          "title": "openemail added to PyPI",
-          "link": "https://pypi.org/project/openemail/",
-          "date": "3 Oct 2026",
-          "summary": "The official Python SDK for the OpenEmail API. Send email and broadcasts, work with threads, drafts, labels, templates, rules, webhooks, tracking, contacts, audiences, sign-up forms, domains, suppressions, files, API keys, roles, members, mailbox imports and d…"
+          "title": "asexec added to PyPI",
+          "link": "https://pypi.org/project/asexec/",
+          "date": "4 Oct 2026",
+          "summary": "Pre-registration & notarization primitive for AI evaluations — commit-then-reveal receipts so silence becomes evidence"
         },
         {
-          "title": "mycadet added to PyPI",
-          "link": "https://pypi.org/project/mycadet/",
-          "date": "3 Oct 2026",
-          "summary": "MyCadet: personal intelligence for all"
+          "title": "lcd-qec added to PyPI",
+          "link": "https://pypi.org/project/lcd-qec/",
+          "date": "4 Oct 2026",
+          "summary": "Rigorous logical-error bounds for matching decoders on stim detector error models (logical coset distinguishability)"
         },
         {
-          "title": "townforge added to PyPI",
-          "link": "https://pypi.org/project/townforge/",
-          "date": "3 Oct 2026",
-          "summary": "A customizable procedural town map generator for games and simulations."
+          "title": "canhoto added to PyPI",
+          "link": "https://pypi.org/project/canhoto/",
+          "date": "4 Oct 2026",
+          "summary": "Local bank statement ledger: parse, categorize, and export monthly PDF summaries (CLI and MCP)"
         },
         {
-          "title": "diskuse added to PyPI",
-          "link": "https://pypi.org/project/diskuse/",
-          "date": "3 Oct 2026",
-          "summary": "Read-only disk usage browser for macOS and Linux, built for speed"
+          "title": "aws-analyzer added to PyPI",
+          "link": "https://pypi.org/project/aws-analyzer/",
+          "date": "4 Oct 2026",
+          "summary": "Readable reports on your S3 buckets, DynamoDB tables, Bedrock knowledge bases and SageMaker notebooks, from a Jupyter notebook: what's there, what it costs, and what to do next."
         },
         {
-          "title": "newrelic-mcp-nerdgraph added to PyPI",
-          "link": "https://pypi.org/project/newrelic-mcp-nerdgraph/",
-          "date": "3 Oct 2026",
-          "summary": "Open source MCP server for New Relic observability, built on NerdGraph and NRQL."
+          "title": "getyoutubetranscript added to PyPI",
+          "link": "https://pypi.org/project/getyoutubetranscript/",
+          "date": "4 Oct 2026",
+          "summary": "YouTube transcript API for Python: get YouTube video transcripts, captions and subtitles with timestamps, search YouTube, and list channel and playlist videos. No proxies or headless browser."
         },
         {
-          "title": "fastapi-simple-scaffold added to PyPI",
-          "link": "https://pypi.org/project/fastapi-simple-scaffold/",
-          "date": "3 Oct 2026",
-          "summary": "Modular FastAPI REST API starter with CLI scaffolding and code generation for modules, models, routers, services, middleware, migrations, relations, cron jobs, seeders, and tests."
+          "title": "client-attestation-sdk added to PyPI",
+          "link": "https://pypi.org/project/client-attestation-sdk/",
+          "date": "4 Oct 2026",
+          "summary": "Client-side builder SDK for OAuth Attestation-Based Client Authentication"
         },
         {
-          "title": "praxinoscope added to PyPI",
-          "link": "https://pypi.org/project/praxinoscope/",
-          "date": "3 Oct 2026",
-          "summary": "Storyboard-driven animated explainer videos in pure Python"
+          "title": "agentforeman added to PyPI",
+          "link": "https://pypi.org/project/agentforeman/",
+          "date": "4 Oct 2026",
+          "summary": "Approve, steer, and stop every Claude Code agent from one page."
         },
         {
-          "title": "rumoro added to PyPI",
-          "link": "https://pypi.org/project/rumoro/",
-          "date": "3 Oct 2026",
-          "summary": "Python client for the Rumoro API: social listening for developers and AI agents."
+          "title": "evalroute added to PyPI",
+          "link": "https://pypi.org/project/evalroute/",
+          "date": "4 Oct 2026",
+          "summary": "Model routing with a verified-success flywheel: classify tasks, measure arms, feed results back"
         },
         {
-          "title": "eqvps added to PyPI",
-          "link": "https://pypi.org/project/eqvps/",
-          "date": "3 Oct 2026",
-          "summary": "EQVPS code sandboxes: isolated Firecracker microVMs for AI agents, billed per second from your prepaid balance"
+          "title": "https-checker-simple added to PyPI",
+          "link": "https://pypi.org/project/https-checker-simple/",
+          "date": "4 Oct 2026",
+          "summary": "A simple CLI tool to check the status of URLS."
         },
         {
-          "title": "fieldkit-cli added to PyPI",
-          "link": "https://pypi.org/project/fieldkit-cli/",
-          "date": "3 Oct 2026",
-          "summary": "A programmable productivity CLI for account engineering workflows"
+          "title": "everpod-ai added to PyPI",
+          "link": "https://pypi.org/project/everpod-ai/",
+          "date": "4 Oct 2026",
+          "summary": "Official Python SDK for the Everpod API."
         },
         {
-          "title": "cogext-observe added to PyPI",
-          "link": "https://pypi.org/project/cogext-observe/",
-          "date": "3 Oct 2026",
-          "summary": "Real tool observer that captures agent mismatches and produces signed receipts."
+          "title": "helicon added to PyPI",
+          "link": "https://pypi.org/project/helicon/",
+          "date": "4 Oct 2026",
+          "summary": "A collection of tools for cryo-EM analysis of helical structures"
         },
         {
-          "title": "tpu-raiden-torch added to PyPI",
-          "link": "https://pypi.org/project/tpu-raiden-torch/",
-          "date": "3 Oct 2026",
-          "summary": "Inert dependency-confusion research reproduction"
+          "title": "utility-viz added to PyPI",
+          "link": "https://pypi.org/project/utility-viz/",
+          "date": "4 Oct 2026",
+          "summary": "A Python toolkit for producing publication-quality microeconomics diagrams."
         },
         {
-          "title": "bbtui added to PyPI",
-          "link": "https://pypi.org/project/bbtui/",
-          "date": "3 Oct 2026",
-          "summary": "A terminal UI for Bitbucket Cloud: pull requests, reviews and pipelines"
+          "title": "patchahead added to PyPI",
+          "link": "https://pypi.org/project/patchahead/",
+          "date": "4 Oct 2026",
+          "summary": "Updates your Python code when an API you depend on changes, and proves the fix with your tests."
         },
         {
-          "title": "agui-inspector added to PyPI",
-          "link": "https://pypi.org/project/agui-inspector/",
-          "date": "3 Oct 2026",
-          "summary": "AG-UI inspector: prebuilt static assets and an opt-in Starlette/FastAPI mount helper."
+          "title": "goin-plugin added to PyPI",
+          "link": "https://pypi.org/project/goin-plugin/",
+          "date": "4 Oct 2026",
+          "summary": "Goin Plugin SDK"
         },
         {
-          "title": "jupyterlab-mechanicum-dark-theme added to PyPI",
-          "link": "https://pypi.org/project/jupyterlab-mechanicum-dark-theme/",
-          "date": "3 Oct 2026",
-          "summary": "Dark Adeptus Mechanicum theme for JupyterLab: crimson cloth, gold embroidery, steel and parchment"
+          "title": "bundleup added to PyPI",
+          "link": "https://pypi.org/project/bundleup/",
+          "date": "4 Oct 2026",
+          "summary": "Bundle up your Python app with everything it needs: one .pyz that runs on plain Python, no install step. Pre-alpha."
         },
         {
-          "title": "nexargio-mcp added to PyPI",
-          "link": "https://pypi.org/project/nexargio-mcp/",
-          "date": "3 Oct 2026",
-          "summary": "Nexargio Sovereign Cyber-Physics Threat Scanner for MCP"
+          "title": "llm-catalog-ai-sdk added to PyPI",
+          "link": "https://pypi.org/project/llm-catalog-ai-sdk/",
+          "date": "4 Oct 2026",
+          "summary": "AI SDK for Python adapter for llm-catalog: build native `ai` models from a catalog config, routed through your gateway."
         },
         {
-          "title": "greenbar added to PyPI",
-          "link": "https://pypi.org/project/greenbar/",
-          "date": "3 Oct 2026",
-          "summary": "Contract-first, gate-enforced development framework — turn best-practices into CI gates."
+          "title": "nova-api-core added to PyPI",
+          "link": "https://pypi.org/project/nova-api-core/",
+          "date": "4 Oct 2026",
+          "summary": "Clean Architecture FastAPI Framework"
         },
         {
-          "title": "odoo-addon-stock-report-partner-ref added to PyPI",
-          "link": "https://pypi.org/project/odoo-addon-stock-report-partner-ref/",
-          "date": "3 Oct 2026",
-          "summary": "Adds customer reference to stock picking reports"
+          "title": "luz-mcp added to PyPI",
+          "link": "https://pypi.org/project/luz-mcp/",
+          "date": "4 Oct 2026",
+          "summary": "MCP server for Luz y Taquígrafos (debates of the Spanish Second Republic) and Afinidades Elegidas (its co-sponsorship networks)"
         },
         {
-          "title": "systemone-client added to PyPI",
-          "link": "https://pypi.org/project/systemone-client/",
-          "date": "3 Oct 2026",
-          "summary": "Client for System One decision models such as Kenning: typed questions in, calibrated typed answers out"
+          "title": "pystudershared added to PyPI",
+          "link": "https://pypi.org/project/pystudershared/",
+          "date": "4 Oct 2026",
+          "summary": "Python shared interface definition to communicate with Studer-Innotec devices; used by pystudernext and pystuderxcom libaries."
         }
       ]
     }
