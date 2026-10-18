@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-18T02:15:11Z",
+  "generated": "2026-10-18T07:34:41Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,12 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "Can Nifty, Sensex rally further or will bears reign in? 5 factors to steer market this week",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/can-nifty-sensex-rally-further-or-will-bears-reign-in-5-factors-to-decide-market-action-next-week/articleshow/135023916.cms",
+          "date": "18 Oct 2026",
+          "summary": "Sensex and Nifty extended gains for a second straight session on Friday, led by IT stocks, which rose for a fourth consecutive session, along with buying in auto, metal and PSU banking stocks. Nifty’s recovery could continue as long as it holds above the cruci…"
+        },
         {
           "title": "Rising borrowing costs signal funding risks for global AI expansion: Jefferies report",
           "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/rising-borrowing-costs-signal-funding-risks-for-global-ai-expansion-jefferies-report/articleshow/135012567.cms",
@@ -36,12 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/idbi-bank-q2-results-net-profit-tanks-39-yoy-to-rs-2205-crore-nii-dips-49-yoy/articleshow/135011867.cms",
           "date": "17 Oct 2026",
           "summary": "IDBI Bank reported a 39% year-on-year profit decline to Rs 2,205 crore in Q2 FY27, impacted by a one-off gain in the previous year. Excluding this, profit rose 14%. Asset quality improved, deposits grew 17%, advances increased 18%, and net interest margins str…"
-        },
-        {
-          "title": "HDFC Bank Q2 Results: Net profit rises 5% YoY to Rs 19,510 crore; NII grows 10%",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hdfc-bank-q2-results-net-profit-rises-5-yoy-to-rs-19510-crore-nii-grows-10/articleshow/135010605.cms",
-          "date": "17 Oct 2026",
-          "summary": "HDFC Bank Q2 Results: India’s largest private lender HDFC Bank on Saturday reported a net profit of Rs 19,509 crore for the second quarter of FY27, marking a 4.6% year-on-year jump from Rs 18,641 crore posted in the same period last year."
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -196,10 +196,166 @@
       "ok": true,
       "items": [
         {
-          "title": "Crowd, rain or misleading announcement: What led to Kolkata stampede tragedy?",
-          "link": "https://timesofindia.indiatimes.com/india/crowd-rain-or-misleading-announcement-what-led-to-kolkata-stampede-tragedy/articleshow/135022578.cms",
+          "title": "School woes, inflation, political discontent: What is fuelling violent France protests",
+          "link": "https://timesofindia.indiatimes.com/world/europe/student-grievances-cost-of-living-crisis-political-discontent-why-are-protests-turning-violent-in-france/articleshow/135023967.cms",
           "date": "18 Oct 2026",
           "summary": ""
+        },
+        {
+          "title": "‘Pandal will collapse’: Announcement that may have triggered Kolkata stampede; watch",
+          "link": "https://timesofindia.indiatimes.com/city/kolkata/please-leave-pandal-will-collapse-video-captures-misleading-announcement-before-kolkata-stampede-that-killed-19/articleshow/135024424.cms",
+          "date": "18 Oct 2026",
+          "summary": "A stampede occurred at the Chorbagan Durga Puja pandal, leading to 19 fatalities and multiple injuries. Panic ensued after a warning announced the potential collapse of the pandal, contributing to the chaos. Police investigations revealed issues with crowd man…"
+        },
+        {
+          "title": "'Don't stand on roof, balconies': India urges nationals in Saudi amid Houthi strikes",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/dont-stand-on-roof-balconies-india-urges-nationals-in-saudi-amid-houthi-strikes/articleshow/135025053.cms",
+          "date": "18 Oct 2026",
+          "summary": ""
+        },
+        {
+          "title": "Now, 2nd notice for Imran Khan on OCI status",
+          "link": "https://timesofindia.indiatimes.com/city/mumbai/frro-mumbai-issues-second-notice-to-actor-imran-khan-asks-why-his-oci-status-should-not-be-cancelled/articleshow/135017969.cms",
+          "date": "18 Oct 2026",
+          "summary": "Imran Khan, a US citizen, has received a show-cause notice regarding his Overseas Citizen of India status. This notice demands Khan to explain why his OCI card should not be revoked due to his involvement in a protest deemed unlawful. The Foreigners Regional R…"
+        },
+        {
+          "title": "‘RR are at the top of the list’: Ashwin makes big revelation on Hardik Pandya trade",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/rr-are-at-the-top-of-the-list-ashwin-makes-big-revelation-on-hardik-pandya-trade/articleshow/135025373.cms",
+          "date": "18 Oct 2026",
+          "summary": "With the IPL season looming, the chatter about Hardik Pandya's future at Mumbai Indians is heating up. Renowned former cricketer Ravichandran Ashwin suggested that a move to Chennai Super Kings could be advantageous for CSK, though he doubts its likelihood any…"
+        },
+        {
+          "title": "What is CXMT's 'Chinese chip bomb' that has wiped billions off the US stock market",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/what-is-cxmts-chinese-chip-bomb-that-has-wiped-billions-off-the-us-stock-market/articleshow/135023858.cms",
+          "date": "18 Oct 2026",
+          "summary": "China's CXMT has sent global memory chip stocks tumbling after claiming key progress on a denser 4F² DRAM design and plans for a server memory module by the end of 2026. Micron, SK Hynix and Samsung have lost billions in market value as investors question how…"
+        },
+        {
+          "title": "Market recap: Top-10 firms add Rs 3.65 lakh crore in mcap; TCS leads the gains",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/market-recap-top-10-firms-add-rs-3-65-lakh-crore-in-mcap-tcs-leads-the-gains/articleshow/135025500.cms",
+          "date": "18 Oct 2026",
+          "summary": "This past week witnessed a remarkable surge in the stock market, with India's top-10 firms enjoying a collective increase of Rs 3.65 lakh crore. TCS emerged as the star performer, enhancing its market capitalisation by Rs 1,08,542.63 crore. Both Bharti Airtel…"
+        },
+        {
+          "title": "Man skipped ITR, declared Rs 12.9L income after notice; ITAT cancels 200% penalty",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/man-skipped-filing-itr-and-got-tax-notice-so-he-declared-rs-12-9-lakh-income-department-imposed-200-penalty-of-rs-3-99-lakh-on-taxable-amount-but-itat-cancels-it/articleshow/134992210.cms",
+          "date": "17 Oct 2026",
+          "summary": "The man in this case failed to file his income tax return, and the Income Tax Department issued him a notice. He subsequently responded by filing an ITR for assessment year (AY) 2018-19, reporting an income of Rs 12.9 lakh. However, the Income Tax Assessing Of…"
+        },
+        {
+          "title": "How Indian couples are spending crores to have a baby boy",
+          "link": "https://timesofindia.indiatimes.com/city/hyderabad/baby-boy-hunt-takes-indians-to-foreign-shores/articleshow/135023380.cms",
+          "date": "18 Oct 2026",
+          "summary": "Affluent Indian couples are increasingly opting for foreign IVF and surrogacy packages to ensure the birth of male children. Destinations such as the UAE, US, and Colombia offer advanced gender selection technologies, a practice not permitted in India. With co…"
+        },
+        {
+          "title": "Can hackers get into your fridge? Your smart home may be less safe than you think",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/can-hackers-get-into-your-fridge-your-smart-home-may-be-less-safe-than-you-think/articleshow/135025299.cms",
+          "date": "18 Oct 2026",
+          "summary": "As the prevalence of internet-connected devices grows, so do the vulnerabilities they present to consumers. Everyday items like refrigerators, surveillance cameras, and smart cars are at risk of cyber intrusion. Hackers can exploit these devices to steal perso…"
+        },
+        {
+          "title": "CJP protest: Police file FIR against 300 for anti-Hindutva slogans",
+          "link": "https://timesofindia.indiatimes.com/city/goa/cjp-protest-police-file-fir-against-300-for-anti-hindutva-slogans/articleshow/135019965.cms",
+          "date": "18 Oct 2026",
+          "summary": "Goa police registered an FIR against 300 unidentified protesters involved in a Cockroach Janata Party protest. The protesters allegedly raised slogans that hurt Hindu sentiments, promoting religious disharmony. Chief Minister Pramod Sawant stated that the gove…"
+        },
+        {
+          "title": "Ohio dad builds $30K backyard baseball field for son",
+          "link": "https://timesofindia.indiatimes.com/world/us/an-ohio-boy-asked-his-dad-for-a-baseball-field-in-their-backyard-two-years-and-about-30000-later-the-family-had-its-own-diamond-with-infield-clay-regulation-bases-a-raised-mound-and-hand-painted-foul-lines/articleshow/135024302.cms",
+          "date": "18 Oct 2026",
+          "summary": "An Ohio father spent nearly two years and around $30,000 building a baseball field in his backyard after his five-year-old son requested one. Jason Kidd transformed his property into a playing field with professional-grade clay, regulation bases and a raised p…"
+        },
+        {
+          "title": "NJ court upholds will that cut sons out after caregiving rift",
+          "link": "https://timesofindia.indiatimes.com/world/us/a-new-jersey-mothers-1996-will-split-her-estate-equally-among-four-children-after-her-daughter-became-sole-caregiver-and-a-family-rift-a-new-will-cut-out-both-sons-and-an-appeals-court-has-now-upheld-it/articleshow/135024021.cms",
+          "date": "18 Oct 2026",
+          "summary": "A New Jersey mother who initially planned to divide her estate equally among her four children changed her will in 2016, excluding both sons after their relationship deteriorated. Following her death in 2024, the sons challenged the decision, alleging that the…"
+        },
+        {
+          "title": "Google cofounder Sergey Brin donated $100 mn but cannot cast a vote next month",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/google-cofounder-sergey-brin-has-donated-100-million-more-than-any-billionaire-opposing-californias-wealth-tax-but-he-cannot-cast-a-vote-next-month-as-/articleshow/135024884.cms",
+          "date": "18 Oct 2026",
+          "summary": "Sergey Brin has made a significant contribution against California's proposed billionaire wealth tax to avoid financial impacts. After relocating to Nevada, he is no longer eligible to vote on this measure. This one-time tax is set to apply only to California…"
+        },
+        {
+          "title": "What Rishi Sunak ate at Delhi’s Bengali Sweet House revealed",
+          "link": "https://timesofindia.indiatimes.com/life-style/food-news/we-didnt-have-masala-chai-but-what-did-rishi-sunak-eat-at-delhis-bengali-sweet-house-owner-reveals/articleshow/135023750.cms",
+          "date": "18 Oct 2026",
+          "summary": "On his recent trip to Delhi, Rishi Sunak, joined by Sudha Murty and Swati Maliwal, made a delightful stop at the iconic Bengali Sweet House. He relished classic Indian delights such as Papdi chaat and kesar laddoos. Established in 1937, the eatery’s rich herit…"
+        },
+        {
+          "title": "‘Massive difference between words and actions’: Ex-cricketer’s on Jadeja’s snub",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/massive-difference-between-words-and-actions-ex-india-cricketers-blunt-take-on-ravindra-jadejas-snub/articleshow/135024338.cms",
+          "date": "18 Oct 2026",
+          "summary": "Aakash Chopra is voicing his concerns about the absence of Ravindra Jadeja from India's ODI series against New Zealand, suggesting a preference for Axar Patel that contradicts previous commitments made by management regarding Jadeja's future. Additionally, the…"
+        },
+        {
+          "title": "Astronomers discover green star 280 light-years away; what makes it glow green",
+          "link": "https://timesofindia.indiatimes.com/science/astronomers-discover-green-star-280-light-years-away-what-makes-it-glow-green/articleshow/135024584.cms",
+          "date": "18 Oct 2026",
+          "summary": "Astronomers have discovered an intriguing white dwarf star designated WD J1330+6435, nestled within the Draco constellation. Its striking green hue arises from the interaction of sodium and helium particles in its atmosphere. This celestial body lies about 280…"
+        },
+        {
+          "title": "Gwalior accident kills 14 devotees: PM Modi announces Rs 2 lakh relief for kin",
+          "link": "https://timesofindia.indiatimes.com/india/gwalior-accident-kills-13-devotees-pm-modi-announces-rs-2-lakh-relief-for-kin/articleshow/135024030.cms",
+          "date": "18 Oct 2026",
+          "summary": ""
+        },
+        {
+          "title": "Dhruv Rathee flies to London and joins ‘Jantar Mantar’ protest",
+          "link": "https://timesofindia.indiatimes.com/world/uk/dhruv-rathee-flies-to-london-and-joins-jantar-mantar-protest/articleshow/135022926.cms",
+          "date": "18 Oct 2026",
+          "summary": ""
+        },
+        {
+          "title": "Amit Shah visits injured after deadly stampede at Kolkata Durga Puja pandal",
+          "link": "https://timesofindia.indiatimes.com/india/amit-shah-visits-injured-after-deadly-stampede-at-kolkata-durga-puja-pandal/articleshow/135023786.cms",
+          "date": "18 Oct 2026",
+          "summary": ""
+        },
+        {
+          "title": "Jamia protesters ‘dragged’ out of campus, rusticated; university says ‘self defence’",
+          "link": "https://timesofindia.indiatimes.com/city/delhi/jamia-protesters-dragged-out-of-campus-rusticated-univ-says-guards-acted-in-self-defence/articleshow/135019378.cms",
+          "date": "18 Oct 2026",
+          "summary": "Several students at Jamia Millia Islamia have begun a hunger strike, calling for the revival of student union elections. Tensions escalated when security allegedly removed them from the campus. As a result, the university has suspended and rusticated some of t…"
+        },
+        {
+          "title": "'Kicked me for 10 mins': Trump 'disturbed' by West Bank attack on US photojournalist",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/kicked-me-for-10-minutes-trump-disturbed-by-images-of-attack-on-us-photojournalist-heidi-levine-who-undergoes-surgery/articleshow/135023634.cms",
+          "date": "18 Oct 2026",
+          "summary": ""
+        },
+        {
+          "title": "Actor Imran Khan moves Bombay high court to challenge 'leave India' notice",
+          "link": "https://timesofindia.indiatimes.com/city/mumbai/arbitrary-unreasonable-actor-imran-khan-moves-bombay-high-court-to-challenge-leave-india-notice/articleshow/135014500.cms",
+          "date": "17 Oct 2026",
+          "summary": "Imran Khan Pal filed a petition against a notice mandating his departure from India by October 28. He claims the notice violates his fundamental rights under the Indian Constitution and lacks justification. Khan argues that he has lived in India since he was t…"
+        },
+        {
+          "title": "Watch: Historic French town hall burnt, tear gas fired as 5,50,00 protest in France",
+          "link": "https://timesofindia.indiatimes.com/world/europe/watch-historic-french-town-hall-burns-shops-looted-tear-gas-fired-as-55000-protest-in-france/articleshow/135022961.cms",
+          "date": "18 Oct 2026",
+          "summary": ""
+        },
+        {
+          "title": "Kolkata: Video shows crowd breaching barricades, tussling with cops day before stampede",
+          "link": "https://timesofindia.indiatimes.com/city/kolkata/kolkata-stampede-video-shows-crowd-breaching-barricades-tussling-with-cops-at-chorbagan-pandal-day-before-tragedy/articleshow/135023324.cms",
+          "date": "18 Oct 2026",
+          "summary": "A crowd surge at Chorbagan Durga Puja pandal in Kolkata led to a tragic stampede on Saturday evening. The incident occurred when heavy rain caused a rush of people seeking shelter inside the pandal. Eyewitnesses described a chaotic scene with limited crowd man…"
+        },
+        {
+          "title": "Watch: French protesters loot Hermès, Apple and other luxury stores",
+          "link": "https://timesofindia.indiatimes.com/world/europe/watch-french-protesters-loot-herms-apple-and-other-luxury-stores-across-cities/articleshow/135023351.cms",
+          "date": "18 Oct 2026",
+          "summary": ""
+        },
+        {
+          "title": "4 major pujas across Kolkata shut down as gloom overshadows festive mood",
+          "link": "https://timesofindia.indiatimes.com/city/kolkata/unprecedented-4-major-pujas-across-kol-shut-down-as-gloom-overshadows-festive-mood/articleshow/135019864.cms",
+          "date": "18 Oct 2026",
+          "summary": "Chetla Agrani's organisers quickly acted to prevent a possible crowd surge after an earlier disaster in Chorbagan. Other popular Durga Puja spots like Tala Prattoy and College Square also halted entry as a precaution. Organisers across these venues are reasses…"
         },
         {
           "title": "Israeli settlers attack European diplomats; Netanyahu says no ‘compelling evidence'",
@@ -208,172 +364,16 @@
           "summary": ""
         },
         {
-          "title": "12 killed after speeding truck runs over devotees near temple in Gwalior",
-          "link": "https://timesofindia.indiatimes.com/city/bhopal/at-least-10-killed-after-speeding-truck-runs-over-devotees-near-temple-in-gwalior/articleshow/135022376.cms",
+          "title": "Refined in India, bound for West: Russian-crude fuel exports to Europe rise 43%",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/refined-in-india-bound-for-west-russian-crude-fuel-exports-to-europe-rise-43/articleshow/135024570.cms",
           "date": "18 Oct 2026",
-          "summary": ""
+          "summary": "Indian refineries exported Russian crude oil products to Western markets, generating significant revenue in September. The European Union, Australia, the US, and New Zealand imported these refined products, despite existing sanctions. Reliance Industries' Jamn…"
         },
         {
-          "title": "‘I found my wife lying still’: Husband’s heartbreaking account of Kolkata stampede",
-          "link": "https://timesofindia.indiatimes.com/city/kolkata/i-found-my-wife-lying-still-none-came-to-help/articleshow/135019862.cms",
+          "title": "Taiwan in the crosshairs? US Army unveils new strategy to counter China",
+          "link": "https://timesofindia.indiatimes.com/defence/international/taiwan-in-the-crosshairs-us-army-unveils-new-strategy-to-counter-china/articleshow/135024821.cms",
           "date": "18 Oct 2026",
-          "summary": ""
-        },
-        {
-          "title": "Prices of 137 cancer drugs to fall by up to 70% from November 9",
-          "link": "https://timesofindia.indiatimes.com/india/prices-of-137-cancer-drugs-to-fall-by-up-to-70-from-november-9/articleshow/135020339.cms",
-          "date": "18 Oct 2026",
-          "summary": ""
-        },
-        {
-          "title": "Jack Dorsey’s $32M mansion renovation continues after 14 years; neighbors fed up",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/jack-dorseys-32-million-mansion-renovation-has-been-dragging-on-for-14-years-and-his-neighbors-are-fed-up/articleshow/134991880.cms",
-          "date": "16 Oct 2026",
-          "summary": "Since acquiring his opulent mansion in San Francisco for $9.99 million back in 2012, Jack Dorsey has been immersed in a major renovation project. The reconstruction has caused disruptions and complaints from nearby residents due to the ongoing noise. Enhanceme…"
-        },
-        {
-          "title": "Major fire at Canadian military base in Alberta, Carney calls it ‘serious incident’",
-          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/major-fire-at-canadian-military-base-in-alberta-carney-calls-it-serious-incident/articleshow/135022812.cms",
-          "date": "18 Oct 2026",
-          "summary": "A major fire erupted at Canadian Forces Base Wainwright in Alberta on Saturday, prompting concern among officials. Prime Minister Mark Carney deemed the situation serious, highlighting the safety of impacted personnel. Alberta Premier Danielle Smith labeled th…"
-        },
-        {
-          "title": "Dubai NRI’s 3.41cr FCNR deposits get tax notice; ITAT spots yen-rupee error",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/dubai-based-woman-invests-3-41-crore-in-fcnr-deposits-along-with-husband-gets-tax-notice-for-unexplained-money-itat-gives-relief-saying-bank-confirmed-source-and-ao-mistook-yen-for-rupees/articleshow/135016779.cms",
-          "date": "18 Oct 2026",
-          "summary": "A woman, who originally hails from Beawar, and now resides in Dubai, United Arab Emirates (UAE), decided to put money into investments in India. She along with her husband invested Rs 3.41 crore in two Foreign Currency Non-Resident (FCNR) term deposits. The hu…"
-        },
-        {
-          "title": "France protests turn violent: Fires, looting and 1,200 arrests; Macron vows action",
-          "link": "https://timesofindia.indiatimes.com/world/europe/france-protests-turn-violent-fires-looting-and-1200-arrests-macron-vows-action/articleshow/135020350.cms",
-          "date": "18 Oct 2026",
-          "summary": ""
-        },
-        {
-          "title": "'There is pressure on us': Pakistan's ICC trophy drought adds to players' burden",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/there-is-pressure-on-us-pakistans-icc-trophy-drought-adds-to-players-burden/articleshow/135014275.cms",
-          "date": "18 Oct 2026",
-          "summary": "Pakistan last reached the final of an ICC tournament at the 2022 T20 World Cup in Australia, where they lost to England in Melbourne."
-        },
-        {
-          "title": "Jamnagar on Rubio's two-day itinerary: Musk mellows on Reliance, ‘appreciates’ post",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/jamnagar-on-rubios-two-day-itinerary-musk-mellows-on-reliance-appreciates-post/articleshow/135022222.cms",
-          "date": "18 Oct 2026",
-          "summary": ""
-        },
-        {
-          "title": "San Diego weighs $4.2bn plan for 4,254 homes, arena and park upgrades",
-          "link": "https://timesofindia.indiatimes.com/world/us/san-diego-is-weighing-a-4-2-billion-redevelopment-of-48-5-city-owned-acres-with-4254-homes-a-526-4-million-arena-and-460-3-million-in-infrastructure-and-park-improvements/articleshow/135011762.cms",
-          "date": "18 Oct 2026",
-          "summary": "San Diego is pushing forward with an ambitious redevelopment project for 48.5 acres surrounding Pechanga Arena. This initiative aims to introduce 4,254 housing units, a significant number of which will be affordable. In addition to a new 16,000-seat arena, the…"
-        },
-        {
-          "title": "Indianapolis removes 127-year-old dam to restore White River wildlife",
-          "link": "https://timesofindia.indiatimes.com/world/us/in-1899-indianapolis-built-a-dam-to-create-a-boating-lake-on-the-white-river-127-years-later-crews-are-removing-it-after-the-structure-altered-more-than-four-miles-of-river-and-blocked-aquatic-wildlife/articleshow/134983494.cms",
-          "date": "17 Oct 2026",
-          "summary": "The city of Indianapolis is set to dismantle the Emrichsville Dam as part of an initiative to revitalize the White River's natural flow. This endeavor is designed to improve aquatic habitats and ensure the safety of river goers. Funding has been obtained from…"
-        },
-        {
-          "title": "USCIS: Anyone who ‘guarantees’ a faster visa or Green Card is scamming you",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/us-immigration-agency-on-guarantee-that-you-can-get-a-american-visa-green-card-or-work-permit-faster-sometimes-businesses-and-websites-/articleshow/135010571.cms",
-          "date": "17 Oct 2026",
-          "summary": "USCIS warns immigrants and visa applicants about fraudulent schemes that promise quicker visa approvals in exchange for monetary fees. These scams frequently involve false claims of having special ties to government officials. USCIS insists that no one can has…"
-        },
-        {
-          "title": "Why expensive restaurants feel uncomfortable even when you can afford them",
-          "link": "https://timesofindia.indiatimes.com/life-style/people/why-an-expensive-restaurant-can-feel-uncomfortable-even-when-you-can-afford-it-psychology-explores-how-childhood-money-lessons-spending-habits-and-social-expectations-can-shape-the-way-adults-experience-luxury/articleshow/135012680.cms",
-          "date": "17 Oct 2026",
-          "summary": "Financial habits formed during childhood influence present spending behaviors, especially regarding luxury dining experiences. While some individuals feel comfortable with their finances, guilt regarding expensive purchases still persists. Familiarity with din…"
-        },
-        {
-          "title": "Kolkata stampede: Sharp spell turns Chorbagan puja pandal into death trap",
-          "link": "https://timesofindia.indiatimes.com/city/kolkata/hour-long-downpour-turns-chorbagan-pandal-into-a-death-trap/articleshow/135019197.cms",
-          "date": "17 Oct 2026",
-          "summary": ""
-        },
-        {
-          "title": "What’s the need for MEA to study ‘functional role’ of Mann visit: HC",
-          "link": "https://timesofindia.indiatimes.com/city/chandigarh/no-reasons-are-forthcoming-hc-on-centres-denial-to-manns-france-visit/articleshow/135018386.cms",
-          "date": "17 Oct 2026",
-          "summary": ""
-        },
-        {
-          "title": "Tiger Woods’ children Sam and Charlie: How are they shaping his golf legacy?",
-          "link": "https://timesofindia.indiatimes.com/sports/international-sports/tiger-woods-introduced-his-children-to-golf-how-sam-and-charlie-are-shaping-the-next-chapter-of-his-sporting-legacy/articleshow/134965373.cms",
-          "date": "17 Oct 2026",
-          "summary": "Tiger Woods allows his children to pursue their own interests and dreams. But has also left the door open for them to play golf. Sam has been at Stanford University, while Charlie has taken up competitive golf and signed with Florida State University, and thei…"
-        },
-        {
-          "title": "Brittany Mahomes has two words for Kylie Kelce after her heartfelt praise",
-          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/patrick-mahomes-wife-brittany-has-just-2-words-for-kylie-kelce-after-her-heartwarming-public-praise/articleshow/135009764.cms",
-          "date": "17 Oct 2026",
-          "summary": "Kylie Kelce publicly praised Brittany Mahomes for her role in promoting women's soccer in Kansas City. Brittany is a co-owner of the Kansas City Current, contributing to the growth of women's sports. Her athletic background includes playing college soccer and…"
-        },
-        {
-          "title": "Chris Woakes autobiography: Former England seamer slams Rob Key over 'shabby' exit",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/chris-woakes-autobiography-former-england-seamer-slams-rob-key-over-shabby-exit/articleshow/135017118.cms",
-          "date": "18 Oct 2026",
-          "summary": "Woakes, who played 217 international matches for England across formats, including 62 Tests, made his final red-ball appearance during the fifth Test against India at The Oval in August 2025. Despite dislocating his shoulder while fielding, he came out to bat…"
-        },
-        {
-          "title": "'Drishyam 3: The Conclusion' box office collection day 16: Film crosses Rs 500cr",
-          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/drishyam-3-the-conclusion-box-office-collection-day-16-ajay-devgns-film-earns-rs-5-cr-worldwide-gross-reaches-rs-528-77-cr-third-saturday-shows-growth/articleshow/135022564.cms",
-          "date": "18 Oct 2026",
-          "summary": "Ajay Devgn's 'Drishyam 3: The Conclusion' saw a 61.3% increase in box office collections on its third Saturday. The movie earned Rs 5 crore on Day 16, improving its cumulative domestic net collection to Rs 341.10 crore. Its worldwide gross collection reached R…"
-        },
-        {
-          "title": "Indians to benefit as Canada moves to award points for job offers, high-wage occupations",
-          "link": "https://timesofindia.indiatimes.com/nri/us-canada-news/canada-to-award-extra-express-entry-points-under-new-high-wage-rules-indian-professionals-could-benefit/articleshow/135010465.cms",
-          "date": "17 Oct 2026",
-          "summary": ""
-        },
-        {
-          "title": "'Jailer 2' BO day 3: Rajinikanth, Mohanlal, Shiva Rajkumar film crosses Rs 300 cr worldwide",
-          "link": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jailer-2-box-office-collection-day-3-rajinikanth-mohanlal-shiva-rajkumar-film-crosses-rs-300-cr-worldwide-india-net-hits-rs-144-60-cr/articleshow/135022491.cms",
-          "date": "18 Oct 2026",
-          "summary": "'Jailer 2', starring the iconic Rajinikanth, saw a remarkable increase in its box office performance on day three, grossing Rs 47.80 crore in India, a leap of 28.8% from the prior day. This brought the total net collection in India to an impressive Rs 144.60 c…"
-        },
-        {
-          "title": "'Efficacy of curbs not proved': SC against blanket internet ban on kids over safety",
-          "link": "https://timesofindia.indiatimes.com/india/internet-is-fundamental-right-of-all-even-children-supreme-court/articleshow/135020333.cms",
-          "date": "18 Oct 2026",
-          "summary": ""
-        },
-        {
-          "title": "For second time in a week, Dipke released on bail on condition of keeping peace",
-          "link": "https://timesofindia.indiatimes.com/city/delhi/dipke-gets-bail-after-preventive-detention-bora-released-in-the-morning/articleshow/135019223.cms",
-          "date": "17 Oct 2026",
-          "summary": ""
-        },
-        {
-          "title": "19 killed in Kolkata stampede; CM Suvendu announces jobs, Rs 25 lakh for kin",
-          "link": "https://timesofindia.indiatimes.com/india/19-killed-in-kolkata-stampede-cm-suvendu-announces-jobs-rs-25-lakh-for-kin/articleshow/135020185.cms",
-          "date": "18 Oct 2026",
-          "summary": ""
-        },
-        {
-          "title": "Legal profession is not for faint-hearted: CJI Surya Kant at NLSIU",
-          "link": "https://timesofindia.indiatimes.com/india/legal-profession-is-not-for-faint-hearted-cji-surya-kant-at-nlsiu/articleshow/135020287.cms",
-          "date": "18 Oct 2026",
-          "summary": ""
-        },
-        {
-          "title": "SC: No need for nod to prosecute govt official seeking bribe",
-          "link": "https://timesofindia.indiatimes.com/india/sc-no-need-for-nod-to-prosecute-govt-official-seeking-bribe/articleshow/135022237.cms",
-          "date": "18 Oct 2026",
-          "summary": ""
-        },
-        {
-          "title": "Kolkata stampede: 12 detained, including pandal organisers; 19 dead",
-          "link": "https://timesofindia.indiatimes.com/city/kolkata/at-least-25-injured-in-stampede-like-situation-at-kolkata-durga-puja-pandal/articleshow/135016891.cms",
-          "date": "17 Oct 2026",
-          "summary": "A tragic stampede at a Durga Puja pandal in Kolkata has claimed the lives of at least 17 people. The chaos was reportedly caused by severe rain and a massive influx of attendees. Eyewitnesses recounted scenes of distress, with numerous individuals fainting und…"
-        },
-        {
-          "title": "'War booty': Cheap iPhone 18s advertised in Tehran after Hormuz shipwreck",
-          "link": "https://timesofindia.indiatimes.com/world/middle-east/war-booty-apples-iphone-18s-being-sold-cheap-in-tehran-after-hormuz-shipwreck-claims-report/articleshow/135020305.cms",
-          "date": "18 Oct 2026",
-          "summary": ""
+          "summary": "The US Army is implementing a novel operational strategy aimed at addressing possible conflict scenarios with China. This strategy prioritizes long-range precision strikes and bolstering military bases throughout the Indo-Pacific region. It stresses decentrali…"
         }
       ]
     },
@@ -569,8 +569,189 @@
       "url": "https://deepmind.google/blog/feed",
       "name": "Google DeepMind",
       "cat": "AI Research",
-      "ok": false,
-      "items": []
+      "ok": true,
+      "items": [
+        {
+          "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+          "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+          "date": "15 Oct 2026",
+          "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science."
+        },
+        {
+          "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+          "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+          "date": "14 Oct 2026",
+          "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress."
+        },
+        {
+          "title": "Developing Gemini 4 Argon responsibly and safely",
+          "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+          "date": "13 Oct 2026",
+          "summary": ""
+        },
+        {
+          "title": "Gemini 4 Argon for Robotics",
+          "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+          "date": "13 Oct 2026",
+          "summary": ""
+        },
+        {
+          "title": "Gemini 4 Argon: Built to solve your hardest problems",
+          "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+          "date": "13 Oct 2026",
+          "summary": ""
+        },
+        {
+          "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+          "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+          "date": "6 Oct 2026",
+          "summary": ""
+        },
+        {
+          "title": "Gemini 4 Argon: our next era of frontier intelligence",
+          "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+          "date": "30 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "Introducing SynthID Bio",
+          "link": "https://deepmind.google/blog/introducing-synthid-bio/",
+          "date": "30 Sep 2026",
+          "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function."
+        },
+        {
+          "title": "Introducing Gemini 3.8 Live with Live Avatar",
+          "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+          "date": "24 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "Advancing Private AI Compute with secure, server-side memory",
+          "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+          "date": "23 Sep 2026",
+          "summary": "Introducing private, server-side memory to Private AI Compute for personal AI."
+        },
+        {
+          "title": "Gemini 3.8 text-to-speech says hello",
+          "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+          "date": "23 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+          "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+          "date": "15 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+          "date": "8 Sep 2026",
+          "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome."
+        },
+        {
+          "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+          "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+          "date": "3 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "Proactive cyber defense for governments and enterprises",
+          "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+          "date": "2 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+          "link": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+          "date": "2 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "Introducing agentic video understanding with Gemini",
+          "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+          "date": "1 Sep 2026",
+          "summary": ""
+        },
+        {
+          "title": "Gemini Omni 1.1 Flash lets you build with more control",
+          "link": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+          "date": "27 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Piloting the world's first double-blind AI evaluations",
+          "link": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+          "date": "27 Aug 2026",
+          "summary": "Piloting the world's first double-blind AI evaluations"
+        },
+        {
+          "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+          "link": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+          "date": "26 Aug 2026",
+          "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe."
+        },
+        {
+          "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+          "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+          "date": "21 Aug 2026",
+          "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay."
+        },
+        {
+          "title": "Introducing Gemini 3.7 Flash",
+          "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+          "date": "13 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Putting sign language AI into users’ hands",
+          "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+          "date": "12 Aug 2026",
+          "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users."
+        },
+        {
+          "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+          "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+          "date": "6 Aug 2026",
+          "summary": ""
+        },
+        {
+          "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+          "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+          "date": "30 Jul 2026",
+          "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications."
+        },
+        {
+          "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+          "link": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+          "date": "29 Jul 2026",
+          "summary": ""
+        },
+        {
+          "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+          "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+          "date": "28 Jul 2026",
+          "summary": ""
+        },
+        {
+          "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+          "link": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+          "date": "22 Jul 2026",
+          "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission"
+        },
+        {
+          "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+          "link": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
+          "date": "21 Jul 2026",
+          "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber."
+        },
+        {
+          "title": "Introducing Gemini 3.5 Flash Cyber",
+          "link": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+          "date": "17 Jul 2026",
+          "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities."
+        }
+      ]
     },
     {
       "url": "https://the-decoder.com/feed/",
@@ -971,6 +1152,12 @@
       "ok": true,
       "items": [
         {
+          "title": "Saudi OpenAI Employee's Arrest Revives Fears US Tech Companies Are Hiring Spies",
+          "link": "https://yro.slashdot.org/story/26/10/18/0323207/saudi-openai-employees-arrest-revives-fears-us-tech-companies-are-hiring-spies?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "18 Oct 2026",
+          "summary": "That Saudi national working at OpenAI and arrested by the FBI \"has not been charged with foreign espionage,\" writes the Washington Post, \"and the U.S. government has not said whether he was acting alone or as an agent of a foreign government.\" But \"there are s…"
+        },
+        {
           "title": "Woman Arrested After Blocking Delivery Robot to Protest Job Displacements",
           "link": "https://hardware.slashdot.org/story/26/10/17/2247220/woman-arrested-after-blocking-delivery-robot-to-protest-job-displacements?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "18 Oct 2026",
@@ -1053,12 +1240,6 @@
           "link": "https://games.slashdot.org/story/26/10/16/2057225/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "16 Oct 2026",
           "summary": "The collaborative reverse-engineering site decomp.dev is shutting down, with its administrator saying AI has made game decompilation so fast and accessible that the community's human-driven model has effectively broken down. \"The administrator of the website s…"
-        },
-        {
-          "title": "China's Tencent Says AI Agents Showed Unintended Browsing Behavior",
-          "link": "https://slashdot.org/story/26/10/16/2036237/chinas-tencent-says-ai-agents-showed-unintended-browsing-behavior?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "16 Oct 2026",
-          "summary": "Tencent says AI agents used to evaluate third-party models engaged in unintended web-browsing behavior while trying to retrieve data from Alibaba's Amap service. The announcement marks a rare acknowledgment of \"rogue\" agent activity by a major Chinese tech com…"
         }
       ]
     },
@@ -1449,184 +1630,184 @@
       "ok": true,
       "items": [
         {
-          "title": "homelabscribe added to PyPI",
-          "link": "https://pypi.org/project/homelabscribe/",
-          "date": "17 Oct 2026",
-          "summary": "Documentation for your homelab that writes itself — and keeps your notes."
+          "title": "baremacgui added to PyPI",
+          "link": "https://pypi.org/project/baremacgui/",
+          "date": "18 Oct 2026",
+          "summary": "BareMacGUI: a thin Python layer for native macOS GUIs on AppKit via PyObjC."
         },
         {
-          "title": "fast-math-rs added to PyPI",
-          "link": "https://pypi.org/project/fast-math-rs/",
-          "date": "17 Oct 2026",
-          "summary": "Arithmetic and number theory on Python numbers, implemented in Rust"
+          "title": "greybox-monitor added to PyPI",
+          "link": "https://pypi.org/project/greybox-monitor/",
+          "date": "18 Oct 2026",
+          "summary": "Monitor tool-calling agents (open or closed) from their transcripts: score each proposed action before it runs"
         },
         {
-          "title": "pyscriptc added to PyPI",
-          "link": "https://pypi.org/project/pyscriptc/",
-          "date": "17 Oct 2026",
-          "summary": "Lower a typed subset of Python to LLVM, with CPython as the island."
+          "title": "eurycleia added to PyPI",
+          "link": "https://pypi.org/project/eurycleia/",
+          "date": "18 Oct 2026",
+          "summary": "A task-scoped data vault for AI agents: contain prompt injection by limiting what a hijacked agent can reach and where data can go."
         },
         {
-          "title": "zensical-slides added to PyPI",
-          "link": "https://pypi.org/project/zensical-slides/",
-          "date": "17 Oct 2026",
-          "summary": "A Zensical plugin to add a focus-slide button for sections."
+          "title": "contextlayer-mcp-server added to PyPI",
+          "link": "https://pypi.org/project/contextlayer-mcp-server/",
+          "date": "18 Oct 2026",
+          "summary": "Invisible intelligence layer for AI coding tools (MCP)"
         },
         {
-          "title": "odt-waffles added to PyPI",
-          "link": "https://pypi.org/project/odt-waffles/",
-          "date": "17 Oct 2026",
-          "summary": "Ordered Dictionary Tools for Python"
+          "title": "ezop-agentcost added to PyPI",
+          "link": "https://pypi.org/project/ezop-agentcost/",
+          "date": "18 Oct 2026",
+          "summary": "Agent cost regression CI: tells you which change in a pull request made your LLM agent more expensive, and by how much."
         },
         {
-          "title": "mineru-magika added to PyPI",
-          "link": "https://pypi.org/project/mineru-magika/",
-          "date": "17 Oct 2026",
-          "summary": "Magika 1.0.3 Python fork with caller-managed ONNX Runtime"
+          "title": "credit-card-agent-recommender added to PyPI",
+          "link": "https://pypi.org/project/credit-card-agent-recommender/",
+          "date": "18 Oct 2026",
+          "summary": "Analyze and compare credit cards from their product pages, then recommend one card."
         },
         {
-          "title": "sftp-pilot added to PyPI",
-          "link": "https://pypi.org/project/sftp-pilot/",
-          "date": "17 Oct 2026",
-          "summary": "SFTP file transfer manager with a GUI, a console menu and a persistent task scheduler"
+          "title": "carrot-leaf added to PyPI",
+          "link": "https://pypi.org/project/carrot-leaf/",
+          "date": "18 Oct 2026",
+          "summary": "A good-looking terminal app for downloading and converting YouTube (and 1000+ other sites) videos, powered by yt-dlp."
         },
         {
-          "title": "os-brick-freebsd added to PyPI",
-          "link": "https://pypi.org/project/os-brick-freebsd/",
-          "date": "17 Oct 2026",
-          "summary": "FreeBSD iSCSI connector for os-brick"
+          "title": "india-address-parser added to PyPI",
+          "link": "https://pypi.org/project/india-address-parser/",
+          "date": "18 Oct 2026",
+          "summary": "Parse messy Indian addresses into structured JSON with a small local model (GGUF)."
         },
         {
-          "title": "iheap added to PyPI",
-          "link": "https://pypi.org/project/iheap/",
-          "date": "17 Oct 2026",
-          "summary": "Fast indexed priority queue (pqdict-style) with a Rust core"
+          "title": "grillspec added to PyPI",
+          "link": "https://pypi.org/project/grillspec/",
+          "date": "18 Oct 2026",
+          "summary": "Spec-driven agentic development: grill the user, write the spec, plan, execute. Skills and hooks for Claude Code, Cursor, Codex, Antigravity and GigaCode."
         },
         {
-          "title": "stealth-google-search added to PyPI",
-          "link": "https://pypi.org/project/stealth-google-search/",
-          "date": "17 Oct 2026",
-          "summary": "Stealthy Google Search and AI Overview scraper with anti-bot evasion and automatic redirect resolution."
+          "title": "DefStream-RabbitMQ added to PyPI",
+          "link": "https://pypi.org/project/defstream-rabbitmq/",
+          "date": "18 Oct 2026",
+          "summary": "RabbitMQ broker adapter for DefStream"
         },
         {
-          "title": "droidoc added to PyPI",
-          "link": "https://pypi.org/project/droidoc/",
-          "date": "17 Oct 2026",
-          "summary": "Droids Documentation fo Humanoids"
+          "title": "session-control added to PyPI",
+          "link": "https://pypi.org/project/session-control/",
+          "date": "18 Oct 2026",
+          "summary": "Private web control plane for local AI assistant session files."
         },
         {
-          "title": "hitspy added to PyPI",
-          "link": "https://pypi.org/project/hitspy/",
-          "date": "17 Oct 2026",
-          "summary": "Fast OpenMP-parallelized discrete tabu search with pybind11 C++ bindings for maximum score estimator"
+          "title": "cucumber-json-aggregator added to PyPI",
+          "link": "https://pypi.org/project/cucumber-json-aggregator/",
+          "date": "18 Oct 2026",
+          "summary": "Aggregate multiple Cucumber JSON reports (Cucumber-JVM, cucumber-js) into a single report."
         },
         {
-          "title": "kentaro added to PyPI",
-          "link": "https://pypi.org/project/kentaro/",
-          "date": "17 Oct 2026",
-          "summary": "Read-only Agentic Maysano Harness for sourced portfolio context and local governance validation"
+          "title": "DefStream-Redis added to PyPI",
+          "link": "https://pypi.org/project/defstream-redis/",
+          "date": "18 Oct 2026",
+          "summary": "Redis Streams broker adapter for DefStream"
         },
         {
-          "title": "agriql added to PyPI",
-          "link": "https://pypi.org/project/agriql/",
-          "date": "17 Oct 2026",
-          "summary": "Client for the AgriQL engine. This package is not a database."
+          "title": "DefStream added to PyPI",
+          "link": "https://pypi.org/project/defstream/",
+          "date": "18 Oct 2026",
+          "summary": "Synchronous message processing with pluggable broker adapters"
         },
         {
-          "title": "sdigest added to PyPI",
-          "link": "https://pypi.org/project/sdigest/",
-          "date": "17 Oct 2026",
-          "summary": "Fast, tunable sparse digests: fingerprint files by hashing their size and a sample of their content"
+          "title": "bit-byte-block added to PyPI",
+          "link": "https://pypi.org/project/bit-byte-block/",
+          "date": "18 Oct 2026",
+          "summary": "Local Bitcoin Stratum proxy and upstream status tooling for solo.ckpool.org."
         },
         {
-          "title": "by-tiny-agents added to PyPI",
-          "link": "https://pypi.org/project/by-tiny-agents/",
-          "date": "17 Oct 2026",
-          "summary": "Small building blocks for Python agents and harnesses"
+          "title": "tachometer added to PyPI",
+          "link": "https://pypi.org/project/tachometer/",
+          "date": "18 Oct 2026",
+          "summary": "Shared repo and resource profiling helpers for portfolio repos."
         },
         {
-          "title": "initiative-tracker added to PyPI",
-          "link": "https://pypi.org/project/initiative-tracker/",
-          "date": "17 Oct 2026",
-          "summary": "A simple cli based initiative tracker for dnd or other ttrpgs"
+          "title": "crew-chief added to PyPI",
+          "link": "https://pypi.org/project/crew-chief/",
+          "date": "18 Oct 2026",
+          "summary": "Local Ollama LLM service and Python client for portfolio-wide trivial inference tasks."
         },
         {
-          "title": "ai-project-memory added to PyPI",
-          "link": "https://pypi.org/project/ai-project-memory/",
-          "date": "17 Oct 2026",
-          "summary": "Shared, local, plain-Markdown memory for AI coding agents: Claude Code, Cursor, Antigravity/Gemini and Codex read and write the same notes."
+          "title": "nordility added to PyPI",
+          "link": "https://pypi.org/project/nordility/",
+          "date": "18 Oct 2026",
+          "summary": "Simple NordVPN automation helpers extracted from citegres."
         },
         {
-          "title": "openmc-fusion-chain-generator added to PyPI",
-          "link": "https://pypi.org/project/openmc-fusion-chain-generator/",
-          "date": "17 Oct 2026",
-          "summary": "Generate reduced OpenMC depletion chains for fusion breeder materials"
+          "title": "tezz-auth added to PyPI",
+          "link": "https://pypi.org/project/tezz-auth/",
+          "date": "18 Oct 2026",
+          "summary": "Official Python SDK for Tezz Auth"
         },
         {
-          "title": "zappyquote added to PyPI",
-          "link": "https://pypi.org/project/zappyquote/",
-          "date": "17 Oct 2026",
-          "summary": "Official Zappy API client for Python - a thin wrapper over the documented Zappy API v1."
+          "title": "agentscan-si added to PyPI",
+          "link": "https://pypi.org/project/agentscan-si/",
+          "date": "18 Oct 2026",
+          "summary": "Security scanner for AI agents and MCP server configurations"
         },
         {
-          "title": "chatsorter-local added to PyPI",
-          "link": "https://pypi.org/project/chatsorter-local/",
-          "date": "17 Oct 2026",
-          "summary": "ChatSorter Self-Hosted — local memory layer for AI chatbots"
+          "title": "mcpad added to PyPI",
+          "link": "https://pypi.org/project/mcpad/",
+          "date": "18 Oct 2026",
+          "summary": "A FastMCP server exposing the msad Active Directory / LDAP library"
         },
         {
-          "title": "secfeed added to PyPI",
-          "link": "https://pypi.org/project/secfeed/",
-          "date": "17 Oct 2026",
-          "summary": "Python SDK for the SecFeed SEC EDGAR API"
+          "title": "kitsune-browser-mcp added to PyPI",
+          "link": "https://pypi.org/project/kitsune-browser-mcp/",
+          "date": "18 Oct 2026",
+          "summary": "MCP server that lets AI agents drive your running Firefox or Zen browser through an extension."
         },
         {
-          "title": "sshfleet added to PyPI",
-          "link": "https://pypi.org/project/sshfleet/",
-          "date": "17 Oct 2026",
-          "summary": "Fleet monitor and support tool for servers reached over SSH: status, containers, logs, files, tunnels"
+          "title": "quorus-ai added to PyPI",
+          "link": "https://pypi.org/project/quorus-ai/",
+          "date": "18 Oct 2026",
+          "summary": "Real-time coordination layer for AI agent swarms — rooms, messaging, distributed locks"
         },
         {
-          "title": "github-actions-logger added to PyPI",
-          "link": "https://pypi.org/project/github-actions-logger/",
-          "date": "17 Oct 2026",
-          "summary": "None"
+          "title": "archility added to PyPI",
+          "link": "https://pypi.org/project/archility/",
+          "date": "18 Oct 2026",
+          "summary": "Architecture inventory and blueprint audit helpers for portfolio repositories."
         },
         {
-          "title": "nava-link added to PyPI",
-          "link": "https://pypi.org/project/nava-link/",
-          "date": "17 Oct 2026",
-          "summary": "Python-native messaging client with an embedded runtime"
+          "title": "dyno-lab added to PyPI",
+          "link": "https://pypi.org/project/dyno-lab/",
+          "date": "18 Oct 2026",
+          "summary": "Portfolio-wide test bench utilities: fixtures, mocks, assertions, and smoke scaffolding."
         },
         {
-          "title": "tasks-toolkit added to PyPI",
-          "link": "https://pypi.org/project/tasks-toolkit/",
-          "date": "17 Oct 2026",
-          "summary": "Task tracker toolkit: CLI + MCP server for sprint/task/subtask management, delegation helpers."
+          "title": "riskgate added to PyPI",
+          "link": "https://pypi.org/project/riskgate/",
+          "date": "18 Oct 2026",
+          "summary": "Certify, reject or ask: distribution-free risk control for the actions of LLM agents"
         },
         {
-          "title": "eitri-hdl added to PyPI",
-          "link": "https://pypi.org/project/eitri-hdl/",
-          "date": "17 Oct 2026",
-          "summary": "A VHDL workspace for editing, simulation, and circuit visualization"
+          "title": "open-source-repository-sampler added to PyPI",
+          "link": "https://pypi.org/project/open-source-repository-sampler/",
+          "date": "18 Oct 2026",
+          "summary": "Reproducible, seeded, stratified sampling of open-source GitHub repositories for empirical software engineering studies, each repository pinned to the commit that met the criteria."
         },
         {
-          "title": "ytm-tui-player added to PyPI",
-          "link": "https://pypi.org/project/ytm-tui-player/",
-          "date": "17 Oct 2026",
-          "summary": "A terminal music player for your YouTube Music account"
+          "title": "sshvault added to PyPI",
+          "link": "https://pypi.org/project/sshvault/",
+          "date": "18 Oct 2026",
+          "summary": "Back up and restore SSH keys and SSH config files with Bitwarden"
         },
         {
-          "title": "rconx-cli added to PyPI",
-          "link": "https://pypi.org/project/rconx-cli/",
-          "date": "17 Oct 2026",
-          "summary": "Command-line entry point for rconx"
+          "title": "keel-mcp-ingress added to PyPI",
+          "link": "https://pypi.org/project/keel-mcp-ingress/",
+          "date": "18 Oct 2026",
+          "summary": "Thin MCP stdio protocol ingress into Keel managed MCP execution"
         },
         {
-          "title": "samlang added to PyPI",
-          "link": "https://pypi.org/project/samlang/",
-          "date": "17 Oct 2026",
-          "summary": "SamLang — A modern, high-performance programming language blending Python simplicity with C# elegance."
+          "title": "html5lib-free-threaded added to PyPI",
+          "link": "https://pypi.org/project/html5lib-free-threaded/",
+          "date": "18 Oct 2026",
+          "summary": "A C-accelerated html5lib fork with auto-fallback and free-threading support for Python 3.15t."
         }
       ]
     }
