@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-20T17:38:43Z",
+  "generated": "2026-10-20T21:01:39Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,18 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "SpaceX Q3 revenue soars 161% YoY on AI business growth, beating estimates",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/spacex-q3-revenue-soars-161-yoy-on-ai-business-growth-beating-estimates/articleshow/135076651.cms",
+          "date": "21 Oct 2026",
+          "summary": "Elon Musk's SpaceX on Tuesday reported a 161% rise in revenue for the third quarter, beating estimates, buoyed by a surge in its AI business and steady growth at its Starlink"
+        },
+        {
+          "title": "Copper stays range bound as US tariff uncertainty, oil inflation risks weigh",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/copper-stays-range-bound-as-us-tariff-uncertainty-oil-inflation-risks-weigh/articleshow/135074839.cms",
+          "date": "20 Oct 2026",
+          "summary": "Copper prices remained range bound as uncertainty over potential US tariffs and inflation risks from higher oil prices kept traders cautious. China’s copper scrap shortage supported refined copper demand, while record high US inventories and cautious buying li…"
+        },
         {
           "title": "US stocks today: US stocks gain as healthcare stocks hit record high, oil prices fall",
           "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-open-lower-as-ai-stocks-decline-oil-prices-rise/articleshow/135071224.cms",
@@ -30,18 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/oyo-parent-prism-to-nearly-halve-ipo-fresh-issue-size-to-up-to-rs-3350-cr-sources/articleshow/135068962.cms",
           "date": "20 Oct 2026",
           "summary": "PRISM is set to scale back its initial public offering from Rs 6,650 crore to Rs 3,350 crore in light of its robust cash flow and enhanced balance sheet. The majority of the newly structured funds will focus on repaying or prepaying debts. Moody's Ratings has…"
-        },
-        {
-          "title": "Jio IPO opens tomorrow: How can investors maximise allotment chances under Rs 2,500 crore RIL shareholders quota",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-opens-tomorrow-how-can-investors-maximise-allotment-chances-under-rs-2500-crore-ril-shareholders-quota/articleshow/135064168.cms",
-          "date": "20 Oct 2026",
-          "summary": "The much-anticipated Reliance Jio Platforms IPO is launching for public subscription starting October 21, 2023. Shareholders of Reliance Industries can benefit from a Rs 2,500 crore reservation aimed at maximizing their investment opportunities. Those eligible…"
-        },
-        {
-          "title": "WhatsApp stock tips: Nithin Kamath warns of more pump-and-dump schemes as ED freezes accounts worth Rs 200 crore",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/whatsapp-stock-tips-nithin-kamath-warns-of-more-pump-and-dump-schemes-as-ed-freezes-accounts-worth-rs-200-crore/articleshow/135064120.cms",
-          "date": "20 Oct 2026",
-          "summary": "In a post on X, formerly Twitter, Kamath said such schemes remain a concern even in 2026, calling them one of the silliest ways for investors to lose money. He also warned that these cases could become more frequent as the market cycle advances, pointing to a…"
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -196,10 +196,22 @@
       "ok": true,
       "items": [
         {
-          "title": "Memo from New Delhi: Make America India Again?",
-          "link": "https://timesofindia.indiatimes.com/world/us/memo-from-new-delhi-make-america-india-again/articleshow/135071707.cms",
+          "title": "'Russia is a big machine': Trump says Ukraine 'has to want' to settle war with Putin",
+          "link": "https://timesofindia.indiatimes.com/world/europe/russia-is-a-big-machine-trump-says-ukraine-has-to-want-to-settle-war-with-putin/articleshow/135076395.cms",
+          "date": "21 Oct 2026",
+          "summary": "US president Trump pointed to Russia's ability to sustain its military campaign and capture territory, portraying Moscow as having the upper hand in the conflict. \"Russia is a big machine - they just keep grinding forward, and that's what they've done. They've…"
+        },
+        {
+          "title": "Tiger Shroff firing case: Delhi Police arrests 4 accused, including 2 women",
+          "link": "https://timesofindia.indiatimes.com/city/delhi/tiger-shroff-firing-case-delhi-police-detain-3-women-suspected-of-supplying-arms-to-shooter/articleshow/135074830.cms",
           "date": "20 Oct 2026",
-          "summary": "Donald Trump proposed renaming New Mexico to New America, claiming it would enhance pride among residents and change election integrity. Political representatives from New Mexico opposed the idea, emphasizing the state's historical significance and established…"
+          "summary": "In a significant breakthrough, the Delhi Police Special Cell has detained four suspects—Kunal, Sumit, Radha, and Babita—as part of an ongoing probe. These individuals have been transferred to the Mumbai Police, who are seeking a transit remand to delve deeper…"
+        },
+        {
+          "title": "Trump’s tariff waiver on Russian oil: India gets relief for now, but is it credible?",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/does-trumps-60-day-tariff-waiver-really-give-relief-to-india-what-it-means-for-us-trade-deal-oil-prices/articleshow/135065802.cms",
+          "date": "20 Oct 2026",
+          "summary": "For India, the immediate relief is for its crude supply basket and exporters. If India decided to give up Russian crude oil, its single largest supplier would have gone off the table, with no easy replacement amid Middle East tensions. If it continued to buy R…"
         },
         {
           "title": "Delhi BJP leader burns cockroach effigy; Dipke responds with SRK’s 'Swades' song",
@@ -214,20 +226,26 @@
           "summary": "PM urges parties, institutions to put nation first; says national self-respect and strength key to overcoming challenges"
         },
         {
+          "title": "Jensen Huang and his wife donated $75 million to Vanderbilt",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/jensen-huang-and-his-wife-donated-75-million-to-vanderbilt-the-gift-helped-push-funding-for-its-planned-san-francisco-campus-past-100-million/articleshow/135065870.cms",
+          "date": "20 Oct 2026",
+          "summary": ""
+        },
+        {
           "title": "Harmanpreet Kaur’s 91 powers India to 3-0 T20I series sweep against Zimbabwe",
           "link": "https://timesofindia.indiatimes.com/sports/cricket/news/harmanpreet-kaur-unleashes-six-hitting-blitz-as-india-thrash-zimbabwe-by-92-runs-to-complete-3-0-t20i-series-sweep/articleshow/135074015.cms",
           "date": "20 Oct 2026",
           "summary": "India's women's cricket team displayed sheer dominance against Zimbabwe, clinching the third T20I by a commanding 92 runs. With Shafali Verma and Harmanpreet Kaur leading the charge, scoring 69 and 91 respectively, Zimbabwe struggled in the chase, ending at 12…"
         },
         {
-          "title": "K3G lessons, cricket, no spice: How is Prince William preparing to come to India",
-          "link": "https://timesofindia.indiatimes.com/world/uk/k3g-lessons-cricket-no-spice-how-is-prince-william-preparing-to-come-to-india/articleshow/135073067.cms",
+          "title": "Florida couple missed 66 mortgage payments; man's bank lawsuit rejected",
+          "link": "https://timesofindia.indiatimes.com/world/us/a-florida-couple-missed-66-mortgage-payments-on-their-naples-property-the-husband-later-agreed-to-deposit-5000-monthly-during-an-appeal-but-an-october-19-federal-ruling-rejected-his-lawsuit-against-the-bank/articleshow/135068652.cms",
           "date": "20 Oct 2026",
-          "summary": ""
+          "summary": "A Florida couple missed 66 monthly mortgage payments on their Naples property, triggering a foreclosure dispute that began in 2009. During the legal battle, Gregory Brian Myers agreed to deposit $5,000 monthly while appealing the foreclosure. He later sued U.S…"
         },
         {
-          "title": "Jensen Huang and his wife donated $75 million to Vanderbilt",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/jensen-huang-and-his-wife-donated-75-million-to-vanderbilt-the-gift-helped-push-funding-for-its-planned-san-francisco-campus-past-100-million/articleshow/135065870.cms",
+          "title": "K3G lessons, cricket, no spice: How is Prince William preparing to come to India",
+          "link": "https://timesofindia.indiatimes.com/world/uk/k3g-lessons-cricket-no-spice-how-is-prince-william-preparing-to-come-to-india/articleshow/135073067.cms",
           "date": "20 Oct 2026",
           "summary": ""
         },
@@ -238,10 +256,52 @@
           "summary": "Prince Harry recently opened up about the need for reconciliation with his family, sharing his personal experiences that resonate with many who struggle with familial conflicts. He conveyed his aspirations for nurturing better connections with his father, King…"
         },
         {
-          "title": "Florida couple missed 66 mortgage payments; man's bank lawsuit rejected",
-          "link": "https://timesofindia.indiatimes.com/world/us/a-florida-couple-missed-66-mortgage-payments-on-their-naples-property-the-husband-later-agreed-to-deposit-5000-monthly-during-an-appeal-but-an-october-19-federal-ruling-rejected-his-lawsuit-against-the-bank/articleshow/135068652.cms",
+          "title": "By 2024, Buscemi-backed charity provided 4,200+ counselling sessions a year",
+          "link": "https://timesofindia.indiatimes.com/world/us/steve-buscemi-returned-to-firefighting-after-9/11-and-backed-a-charity-for-his-former-colleagues-by-2024-it-was-delivering-over-4200-counselling-sessions-a-year-to-firefighters-and-families/articleshow/135069183.cms",
+          "date": "21 Oct 2026",
+          "summary": "Steve Buscemi, who once served in the New York City Fire Department, stepped up to assist at Ground Zero in the wake of 9/11. This selfless act highlighted the emotional toll on first responders. He subsequently became involved with Friends of Firefighters, a…"
+        },
+        {
+          "title": "Harry Warner's Beverly Hills mansion listed for nearly $40m, sold for $27.25m",
+          "link": "https://timesofindia.indiatimes.com/real-estate/news/a-beverly-hills-mansion-once-owned-by-warner-bros-co-founder-harry-warner-was-restored-with-its-old-hollywood-details-intact-first-listed-for-nearly-40-million-in-2016-it-finally-sold-for-27-25-million/articleshow/135062004.cms",
           "date": "20 Oct 2026",
-          "summary": "A Florida couple missed 66 monthly mortgage payments on their Naples property, triggering a foreclosure dispute that began in 2009. During the legal battle, Gregory Brian Myers agreed to deposit $5,000 monthly while appealing the foreclosure. He later sued U.S…"
+          "summary": "A legendary mansion in Beverly Hills, originally built for Harry Warner, has changed hands for $27.25 million after an extended listing. Initially priced at nearly $40 million in 2016, the estate received extensive upgrades while maintaining its Old Hollywood…"
+        },
+        {
+          "title": "US govt bans American tech firm from Green Card programme for 2 yrs; fines $1.4 mn",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/us-government-bans-american-technology-company-from-green-card-programme-for-two-years-fines-1-4-million-doj-says-violated-immigration-and-nationality-act-by-/articleshow/135061789.cms",
+          "date": "20 Oct 2026",
+          "summary": "Cloudera, a data management company, has been banned from the Permanent Labor Certification program for two years. This decision follows allegations of discrimination against qualified U.S. workers during its recruitment process. A fine of $1.4 million will be…"
+        },
+        {
+          "title": "California swimmer completes 900-mile coastal swim in stages over 111 days",
+          "link": "https://timesofindia.indiatimes.com/world/us/a-33-year-old-california-swimmer-spent-111-days-covering-900-miles-of-coastline-in-stages-battling-seven-foot-waves-and-polluted-water-catherine-breed-has-now-completed-her-journey-from-oregon-to-mexico/articleshow/135071628.cms",
+          "date": "21 Oct 2026",
+          "summary": ""
+        },
+        {
+          "title": "Shinde calls INDIA bloc ‘ten-headed Ravana’, accuses Uddhav of ‘vote theft’",
+          "link": "https://timesofindia.indiatimes.com/india/shinde-calls-india-bloc-ten-headed-ravana-accuses-uddhav-of-vote-theft/articleshow/135074840.cms",
+          "date": "20 Oct 2026",
+          "summary": ""
+        },
+        {
+          "title": "California's 750-acre Irvine Lake to be drained for five-year dam repairs",
+          "link": "https://timesofindia.indiatimes.com/world/us/in-1933-california-built-santiago-creek-dam-to-create-irvine-lake-93-years-later-the-750-acre-reservoir-is-being-lowered-ahead-of-a-five-year-project-that-will-drain-it-entirely-before-rebuilding-key-dam-structures/articleshow/135073560.cms",
+          "date": "20 Oct 2026",
+          "summary": "This month, Irvine Lake will see a significant decrease in water levels as vital dam repairs begin. The planned drawdown will facilitate crucial construction activities, enhancing the dam's structural integrity as per regulatory requirements. Water managers ar…"
+        },
+        {
+          "title": "Travis Kelce’s $5.35M mansion faces another property review",
+          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/travis-kelces-5-35-million-mansion-faces-new-developments-as-officials-schedule-another-property-review/articleshow/135022409.cms",
+          "date": "18 Oct 2026",
+          "summary": "Travis Kelce’s $5.35 million Ohio mansion faces fresh scrutiny as local officials continue reviewing plans for the historic lakeside estate. While the revised six-foot privacy fence received approval in September, the proposed rear landscaping remains unresolv…"
+        },
+        {
+          "title": "Maria Sharapova’s $25M mansion sale: How did her $4.1M lot become a record deal?",
+          "link": "https://timesofindia.indiatimes.com/sports/international-sports/maria-sharapova-bought-a-manhattan-beach-lot-for-4-1-million-and-built-a-three-story-japanese-inspired-mansion-after-13-years-it-sold-for-a-record-25-million/articleshow/135038033.cms",
+          "date": "19 Oct 2026",
+          "summary": "Maria Sharapova bought a Manhattan Beach lot for $4.1 million in 2012 and built a three-story home with Japanese-inspired design. In 2025, NBA star Luka Dončić bought the property for $25 million, setting a local residential sale record. The deal marked a majo…"
         },
         {
           "title": "AAP demands FIR over 30ft cockroach effigy burned alongside Ravan in Delhi",
@@ -256,46 +316,16 @@
           "summary": "David Warner is voicing alarm over the dismal attendance during the ongoing Test series between South Africa and Australia. Both teams hold the top two positions in Test cricket rankings, yet crowds have been sparse. Rain has exacerbated the situation, resulti…"
         },
         {
-          "title": "Victorian camera found in UK loft after nearly 30 years sold for £18,000",
-          "link": "https://timesofindia.indiatimes.com/world/uk/in-1996-an-oxfordshire-man-packed-away-his-fathers-old-cameras-in-a-loft-nearly-30-years-later-he-uncovered-a-rare-victorian-model-that-sold-for-18000-with-proceeds-pledged-to-wildlife-conservation/articleshow/135070794.cms",
+          "title": "Memo from New Delhi: Make America India Again?",
+          "link": "https://timesofindia.indiatimes.com/world/us/memo-from-new-delhi-make-america-india-again/articleshow/135071707.cms",
           "date": "20 Oct 2026",
-          "summary": "During a house clearance in Oxfordshire, a homeowner discovered a rare Victorian camera stored for nearly 30 years. The camera, made of mahogany and brass, was auctioned for £18,000 after receiving significant interest from collectors. Proceeds from the sale w…"
-        },
-        {
-          "title": "Danish man built a garden wall; 20 years later, his home has towers and moat",
-          "link": "https://timesofindia.indiatimes.com/world/europe/in-2005-a-danish-man-moved-into-an-ordinary-suburban-house-and-started-building-a-garden-wall-the-following-year-two-decades-later-it-has-castle-towers-a-four-metre-moat-and-hundreds-of-visitors/articleshow/135072807.cms",
-          "date": "20 Oct 2026",
-          "summary": ""
-        },
-        {
-          "title": "US govt bans American tech firm from Green Card programme for 2 yrs; fines $1.4 mn",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/us-government-bans-american-technology-company-from-green-card-programme-for-two-years-fines-1-4-million-doj-says-violated-immigration-and-nationality-act-by-/articleshow/135061789.cms",
-          "date": "20 Oct 2026",
-          "summary": "Cloudera, a data management company, has been banned from the Permanent Labor Certification program for two years. This decision follows allegations of discrimination against qualified U.S. workers during its recruitment process. A fine of $1.4 million will be…"
-        },
-        {
-          "title": "Kentucky sinks 1,700 discarded Christmas trees in lake to shelter fish",
-          "link": "https://timesofindia.indiatimes.com/science/wildlife/kentucky-collected-about-5000-discarded-christmas-trees-in-2026-instead-of-sending-them-to-landfills-officials-sank-1700-in-a-single-lake-to-replace-lost-underwater-shelter-for-fish/articleshow/135063031.cms",
-          "date": "20 Oct 2026",
-          "summary": "Kentucky collected around 5,000 discarded Christmas trees in 2026 to restore underwater habitats in its ageing lakes. As part of the state's 'Christmas for the Fishes' programme, approximately 1,700 trees were submerged in Boltz Lake alone. The trees provide s…"
+          "summary": "Donald Trump proposed renaming New Mexico to New America, claiming it would enhance pride among residents and change election integrity. Political representatives from New Mexico opposed the idea, emphasizing the state's historical significance and established…"
         },
         {
           "title": "Tiger Shroff wasn’t original target, shooters switched due to tight security: Cops",
           "link": "https://timesofindia.indiatimes.com/city/mumbai/tiger-shroff-wasnt-original-target-shooters-switched-focus-due-to-tight-security-says-mumbai-crime-branch/articleshow/135071567.cms",
           "date": "20 Oct 2026",
           "summary": "Mumbai Crime Branch revealed Tiger Shroff was not the shooters' intended target as they aimed for another celebrity. Due to tight security around the intended target, the shooters shifted focus to Shroff instead. The suspects were arrested in Rajasthan's Kota…"
-        },
-        {
-          "title": "WWE accused of disrespecting John Cena by referencing Nikki Bella’s past",
-          "link": "https://timesofindia.indiatimes.com/sports/wwe/top-stories/nikki-did-an-stfu-veteran-feels-wwe-is-disrespecting-john-cena-by-referencing-past-relationship-on-tv/articleshow/135061400.cms",
-          "date": "20 Oct 2026",
-          "summary": "John Cena and Nikki Bella were an iconic couple from 2013 until their split in 2018, highlighted by Cena's proposal. Their differing views on marriage and children ultimately led to their breakup. Recently, WWE brought their past into Nikki's ongoing rivalry w…"
-        },
-        {
-          "title": "Tyreek Hill opens up about his marriage as he fights to revive NFL career",
-          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/i-wish-i-could-just-take-it-all-back-tyreek-hill-opens-up-about-his-marriage-as-he-tries-to-revive-his-career-on-the-field/articleshow/135059268.cms",
-          "date": "20 Oct 2026",
-          "summary": "Tyreek Hill, the former Miami Dolphins’ wide receiver, opens up about his marriage."
         },
         {
           "title": "Bela Bajaria’s season finale: Desi content queen exits Netflix",
@@ -344,36 +374,6 @@
           "link": "https://timesofindia.indiatimes.com/city/allahabad/different-tusks-for-display-eating-raja-bhaiya-worships-500-plus-weapons-on-dussehra/articleshow/135071262.cms",
           "date": "20 Oct 2026",
           "summary": "Raja Bhaiya conducted a Shastra Puja ceremony at his Benti Palace, displaying more than 500 weapons. His twin sons participated alongside block chiefs and hundreds of supporters carrying licensed weapons. This tradition has been observed since ancient times, e…"
-        },
-        {
-          "title": "Trump ‘frustrated and angry’ says Rubio; rejects reports of shift in Ukraine policy",
-          "link": "https://timesofindia.indiatimes.com/world/us/trump-frustrated-and-angry-says-rubio-rejects-reports-of-shift-in-ukraine-policy/articleshow/135072290.cms",
-          "date": "20 Oct 2026",
-          "summary": "US secretary of state Marco Rubio reaffirmed the ongoing weapons assistance and intelligence sharing with Ukraine during his visit to India. He expressed frustration regarding the lack of progress in negotiations to end the conflict, emphasizing the situation'…"
-        },
-        {
-          "title": "Does Trump’s 60-day tariff waiver really give relief to India?",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/does-trumps-60-day-tariff-waiver-really-give-relief-to-india-what-it-means-for-us-trade-deal-oil-prices/articleshow/135065802.cms",
-          "date": "20 Oct 2026",
-          "summary": "For India, the immediate relief is for its crude supply basket and exporters. If India decided to give up Russian crude oil, its single largest supplier would have gone off the table, with no easy replacement amid Middle East tensions. If it continued to buy R…"
-        },
-        {
-          "title": "Annamalai backs CJP leaders, questions their continued custody",
-          "link": "https://timesofindia.indiatimes.com/india/doing-a-real-disservice-annamalai-backs-cjp-leaders-questions-their-continued-custody/articleshow/135070878.cms",
-          "date": "20 Oct 2026",
-          "summary": ""
-        },
-        {
-          "title": "BJP’s delimitation gambit: Will it isolate Cong, puncture opposition’s SIR unity?",
-          "link": "https://timesofindia.indiatimes.com/india/bjps-delimitation-gambit-how-it-can-isolate-congress-puncture-oppositions-sir-unity/articleshow/135063073.cms",
-          "date": "20 Oct 2026",
-          "summary": "As the government gears up for a new delimitation effort, Congress’s quest for opposition unity faces hurdles. Congress chief Mallikarjun Kharge raised alarms about the government's legislative strategies pertaining to delimitation and reservations for women.…"
-        },
-        {
-          "title": "Qing dynasty bowl spent 87 years in Chicago museum, then sold for $2.048m",
-          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/between-1723-and-1735-qing-artisans-made-a-porcelain-bowl-painted-with-bats-and-peaches-after-passing-through-a-paris-dealer-and-spending-87-years-at-a-chicago-museum-it-sold-for-2-048-million-in-new-york/articleshow/135068919.cms",
-          "date": "20 Oct 2026",
-          "summary": "A stunning porcelain bowl from the Qing dynasty recently fetched $2.048 million at a Christie's auction. Crafted during Emperor Yongzheng's reign, the bowl is adorned with auspicious symbols, hinting it was a birthday gift for the emperor. After decades in the…"
         }
       ]
     },
@@ -383,6 +383,12 @@
       "cat": "Machine Learning",
       "ok": true,
       "items": [
+        {
+          "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+          "link": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+          "date": "20 Oct 2026",
+          "summary": ""
+        },
         {
           "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
           "link": "https://huggingface.co/blog/allenai/fairstress",
@@ -417,12 +423,6 @@
           "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
           "link": "https://huggingface.co/blog/hf-torchneuron",
           "date": "19 Oct 2026",
-          "summary": ""
-        },
-        {
-          "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-          "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-          "date": "16 Oct 2026",
           "summary": ""
         },
         {
@@ -760,6 +760,18 @@
       "ok": true,
       "items": [
         {
+          "title": "Elevenlabs releases two new speech-to-speech models designed for real-time AI conversations",
+          "link": "https://the-decoder.com/elevenlabs-releases-two-new-speech-to-speech-models-designed-for-real-time-ai-conversations/",
+          "date": "20 Oct 2026",
+          "summary": "Elevenlabs' new Eleven Realtime speech-to-speech models combine speed and accuracy. The v1 Max variant scores 98.8 percent on the Big Bench Audio benchmark with a 0.57-second response time. Elevenlabs says no model on the Artificial Analysis leaderboard is bot…"
+        },
+        {
+          "title": "Deepseek open-sources the inference engine that powers its fastest and cheapest AI model",
+          "link": "https://the-decoder.com/deepseek-open-sources-the-inference-engine-that-powers-its-fastest-and-cheapest-ai-model/",
+          "date": "20 Oct 2026",
+          "summary": "Deepseek is open-sourcing DeepInfer, the inference framework behind its fast V4.1-Flash model. The vLLM-based system cuts compute costs and energy use when running AI models. The release adds more pricing pressure on Western providers like OpenAI and Anthropic…"
+        },
+        {
           "title": "Mistral AI launches Voxtral 3, a full voice agent stack that listens, thinks, and talks in real time",
           "link": "https://the-decoder.com/mistral-ai-launches-voxtral-3-a-full-voice-agent-stack-that-listens-thinks-and-talks-in-real-time/",
           "date": "20 Oct 2026",
@@ -806,18 +818,6 @@
           "link": "https://the-decoder.com/kling-ai-drops-version-4-0-with-stereo-audio-multilingual-lip-sync-and-a-lighter-flash-variant/",
           "date": "19 Oct 2026",
           "summary": "Kling AI has released version 4.0 of its video generator with support for clips up to 30 seconds, ten keyframe images as input, and prompt comprehension expanded to 8,000 tokens. In comparisons with Wan 3.0 and Seedance 2.5, Kling 4.0 holds its own but doesn't…"
-        },
-        {
-          "title": "Two German courts now hold Google liable for what its AI overviews say",
-          "link": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/",
-          "date": "19 Oct 2026",
-          "summary": "Google tried to overturn a landmark Munich ruling on AI search liability by appealing, then quietly settled. The strategy isn't working. The Aachen Regional Court just applied the exact same reasoning in a new case where Google's AI falsely attributed criminal…"
-        },
-        {
-          "title": "Stripe says AI agent purchases are adding up, but it won't share the numbers",
-          "link": "https://the-decoder.com/stripe-says-ai-agent-purchases-are-adding-up-but-it-wont-share-the-numbers/",
-          "date": "19 Oct 2026",
-          "summary": "AI agents are increasingly using Stripe's payment service Link to shop for their users, Upstarts Media reports. The article Stripe says AI agent purchases are adding up, but it won&#039;t share the numbers appeared first on The Decoder ."
         }
       ]
     },
@@ -1084,6 +1084,12 @@
       "ok": true,
       "items": [
         {
+          "title": "Astrolab’s upcoming rover will run the first LLMs on the moon",
+          "link": "https://www.technologyreview.com/2026/10/20/1147360/astrolab-upcoming-rover-llms-on-the-moon/",
+          "date": "20 Oct 2026",
+          "summary": "Large language models are set to go lunar. A computer capable of running AI software is one of the payloads aboard Astrolab’s FLIP lunar rover, which is slated to head to Earth’s celestial companion as early as November 2026. The 480-kilogram FLIP rover, short…"
+        },
+        {
           "title": "The new economics of enterprise AI",
           "link": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
           "date": "20 Oct 2026",
@@ -1136,12 +1142,6 @@
           "link": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
           "date": "19 Oct 2026",
           "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside the quest to combat Arctic fires and save the planet’s frozen carbon —James Temple In July 2021, a wild…"
-        },
-        {
-          "title": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon",
-          "link": "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/",
-          "date": "19 Oct 2026",
-          "summary": "In the middle of an especially warm July in 2021, a wildfire ignited in a thick forest of black spruce and peeling paper birch trees on the northern campus of the University of Alaska, Fairbanks.&#160; The blaze, possibly sparked by lightning, burned across th…"
         }
       ]
     },
@@ -1149,8 +1149,99 @@
       "url": "https://rss.slashdot.org/Slashdot/slashdotMain?format=xml",
       "name": "Slashdot",
       "cat": "Tech · News",
-      "ok": false,
-      "items": []
+      "ok": true,
+      "items": [
+        {
+          "title": "Google Support Pages Start Defaulting to AI Chatbots",
+          "link": "https://tech.slashdot.org/story/26/10/20/199206/google-support-pages-start-defaulting-to-ai-chatbots?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "20 Oct 2026",
+          "summary": "Google is beginning to replace traditional support articles with \"Ask Google Help,\" a Gemini-powered interface that summarizes documentation and lets users troubleshoot through a chatbot. 9to5Google reports: \"Ask Google Help\" will display a condensed version o…"
+        },
+        {
+          "title": "DHS Lied About Why It Wanted To Search Activist's GrapheneOS Phone",
+          "link": "https://yro.slashdot.org/story/26/10/20/1740207/dhs-lied-about-why-it-wanted-to-search-activists-grapheneos-phone?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "20 Oct 2026",
+          "summary": "New court records reportedly show that DHS targeted Stop Cop City activist Samuel Tunick at an Atlanta airport because he was under investigation for suspected \"terrorist activities.\" However, the CBP officers told him instead that they wanted to search his ph…"
+        },
+        {
+          "title": "OpenBSD 8.0 Released",
+          "link": "https://tech.slashdot.org/story/26/10/20/171229/openbsd-80-released?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "20 Oct 2026",
+          "summary": "OpenBSD 8.0 has been released with major virtualization and hardware upgrades, including support for up to 64 vCPUs per VM, Intel Arc graphics, ARM64 hibernation, and expanded RISC-V support. Linuxiac points out that it marks the \"61st release of the security-…"
+        },
+        {
+          "title": "Meta Muse Exposes Users' Personal, Business Secrets When They Share Conversations",
+          "link": "https://yro.slashdot.org/story/26/10/20/1655247/meta-muse-exposes-users-personal-business-secrets-when-they-share-conversations?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "20 Oct 2026",
+          "summary": "Security researchers say Meta's Muse AI assistant exposed thousands of users' shared conversations because conversation titles were placed in subdomains that could be discovered through public DNS records. Meta has since suspended the sharing feature while it…"
+        },
+        {
+          "title": "US Bans DeepSeek From Government Use",
+          "link": "https://yro.slashdot.org/story/26/10/20/0546213/us-bans-deepseek-from-government-use?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "20 Oct 2026",
+          "summary": "The Trump administration has banned DeepSeek AI from most US civilian federal agencies, ordering the removal of the Chinese company's models and technology developed using them. The Department of Homeland Security did not specify the security threats behind th…"
+        },
+        {
+          "title": "Nscale, Anthropic In Talks For New $45 Billion AI Cloud Deal",
+          "link": "https://slashdot.org/story/26/10/20/0536218/nscale-anthropic-in-talks-for-new-45-billion-ai-cloud-deal?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "20 Oct 2026",
+          "summary": "An anonymous reader quotes a report from Reuters: Nscale is in talks to sell AI computing power to Claude maker Anthropic in a new deal that could be worth about $45 billion, a person familiar with the matter told Reuters on Monday. The data center developer i…"
+        },
+        {
+          "title": "Microsoft Abandons UK AI Supercomputer As Grid Struggles to Keep Up",
+          "link": "https://hardware.slashdot.org/story/26/10/20/0529215/microsoft-abandons-uk-ai-supercomputer-as-grid-struggles-to-keep-up?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "20 Oct 2026",
+          "summary": "Microsoft has reportedly abandoned plans to serve as the anchor customer for Britain's largest proposed AI supercomputer after learning that the project's Essex data center might not receive sufficient grid power until the early to mid-2030s. \"Its departure le…"
+        },
+        {
+          "title": "Japan Launches Historic MMX Sample-Return Mission to Mars' Moon Phobos",
+          "link": "https://science.slashdot.org/story/26/10/20/0522251/japan-launches-historic-mmx-sample-return-mission-to-mars-moon-phobos?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "20 Oct 2026",
+          "summary": "Japan has successfully launched its Martian Moons eXploration (MMX) mission to study Mars' two moons, Phobos and Deimos. Scheduled to arrive in August 2027, \"MMX will become the first spacecraft to land on and return samples from Phobos for study back on Earth…"
+        },
+        {
+          "title": "Amazon To Fund 12 Small Nuclear Reactors At Former Indiana Coal Plant",
+          "link": "https://hardware.slashdot.org/story/26/10/19/2133234/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "20 Oct 2026",
+          "summary": "An anonymous reader quotes a report from TechCrunch: Amazon is funding development of a proposed 960-megawatt nuclear plant in Indiana and would be the first customer to buy its power, the companies announced Monday. Utility company American Electric Power (AE…"
+        },
+        {
+          "title": "Professor Calls To Abolish Business Schools For Failing Society",
+          "link": "https://news.slashdot.org/story/26/10/19/2126207/professor-calls-to-abolish-business-schools-for-failing-society?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "19 Oct 2026",
+          "summary": "joshuark writes: Professor Christopher Marquis makes a provocative argument about business schools: \"We need to abolish them.\" A 20-year business educator at Harvard, Cornell and Cambridge, Marquis argues in The New York Times and on LinkedIn that MBA programs…"
+        },
+        {
+          "title": "TP-Link Moves to Assemble Routers In the US Following Import Ban",
+          "link": "https://mobile.slashdot.org/story/26/10/19/211219/tp-link-moves-to-assemble-routers-in-the-us-following-import-ban?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "19 Oct 2026",
+          "summary": "TP-Link plans to begin assembling routers in Mississippi as early as 2027 after the FCC banned imports of new foreign-made consumer routers over security concerns. Engadget reports: The company has signed a letter of intent with manufacturer Key Tronic and, pe…"
+        },
+        {
+          "title": "Trump DHS Officials Asked CISA To Secretly Aquire and Hack a Voting Machine",
+          "link": "https://politics.slashdot.org/story/26/10/19/2055248/trump-dhs-officials-asked-cisa-to-secretly-aquire-and-hack-a-voting-machine?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "19 Oct 2026",
+          "summary": "Longtime Slashdot reader fahrbot-bot shares a report from ProPublica: A few months into President Donald Trump's second term, political appointees at the Department of Homeland Security (DHS) wanted Cybersecurity and Infrastructure Security Agency (CISA) to se…"
+        },
+        {
+          "title": "A Hacker Broke Into John Deere, SharkNinja With an Army of AI Agents",
+          "link": "https://it.slashdot.org/story/26/10/19/1746204/a-hacker-broke-into-john-deere-sharkninja-with-an-army-of-ai-agents?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "19 Oct 2026",
+          "summary": "An anonymous reader quotes a report from The Verge: A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reu…"
+        },
+        {
+          "title": "Apple Announces October 28 'Pro and Tell' Event",
+          "link": "https://hardware.slashdot.org/story/26/10/19/1737252/apple-announces-october-28-pro-and-tell-event?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "19 Oct 2026",
+          "summary": "Following its October 13 HomeView launch, Apple is gearing up for its second hardware event of the month. The event is scheduled for October 28 in Los Angeles and carries the tagline \"Pro and tell.\" 9to5Mac reports: Rumors say Apple has a slew of new products…"
+        },
+        {
+          "title": "Florida DMV Hacked After Police Dept Insecurely Stored Login Info",
+          "link": "https://yro.slashdot.org/story/26/10/19/1726218/florida-dmv-hacked-after-police-dept-insecurely-stored-login-info?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "19 Oct 2026",
+          "summary": "Florida's DMV says a September 4 breach exposed driver's license and motor vehicle records after attackers obtained credentials that a local law-enforcement employee had \"improperly stored on an electronic device.\" The ShinyHunters group has been linked to the…"
+        }
+      ]
     },
     {
       "url": "https://www.aitrends.com/feed",
@@ -1539,184 +1630,184 @@
       "ok": true,
       "items": [
         {
-          "title": "drf-hierarchy added to PyPI",
-          "link": "https://pypi.org/project/drf-hierarchy/",
+          "title": "ramplint added to PyPI",
+          "link": "https://pypi.org/project/ramplint/",
           "date": "20 Oct 2026",
-          "summary": "Django REST framework app for hierarchical group permission inheritance."
+          "summary": "Accessibility (WCAG) linter for Django and Jinja2 templates"
         },
         {
-          "title": "apiverve-barcodereader added to PyPI",
-          "link": "https://pypi.org/project/apiverve-barcodereader/",
+          "title": "disk-health-mcp added to PyPI",
+          "link": "https://pypi.org/project/disk-health-mcp/",
           "date": "20 Oct 2026",
-          "summary": "Barcode Reader decodes 1D barcodes from an uploaded image or an image URL, including EAN-13, EAN-8, UPC-A, UPC-E, Code 128, Code 39, Code 93, ITF, Codabar and GS1 DataBar. It returns the decoded value and the symbology. Paid plans add the GTIN, the barcode's o…"
+          "summary": "Disk health diagnostics MCP server: SMART, NVMe, ZFS, RAID and I/O metrics with manufacturer-aware severity."
         },
         {
-          "title": "apiverve-domainandippinger added to PyPI",
-          "link": "https://pypi.org/project/apiverve-domainandippinger/",
+          "title": "remote-server-mcp added to PyPI",
+          "link": "https://pypi.org/project/remote-server-mcp/",
           "date": "20 Oct 2026",
-          "summary": "Domain and IP Pinger checks whether any domain name or public IP address is reachable and responding in real time. It returns an alive status and successful round trips, while paid plans add packet loss percentages and latency metrics."
+          "summary": "Security-first MCP server for managing Docker services on a remote server or on the local host."
         },
         {
-          "title": "togeari added to PyPI",
-          "link": "https://pypi.org/project/togeari/",
+          "title": "server-management-lib added to PyPI",
+          "link": "https://pypi.org/project/server-management-lib/",
           "date": "20 Oct 2026",
-          "summary": "Togeari: a dataflow machine that runs many KIR jobs at once, out of order, on pluggable engines"
+          "summary": "Shared security, SSH/local execution, configuration and HTTP clients for the Server MCP suite."
         },
         {
-          "title": "c3-colors added to PyPI",
-          "link": "https://pypi.org/project/c3-colors/",
+          "title": "workjig added to PyPI",
+          "link": "https://pypi.org/project/workjig/",
           "date": "20 Oct 2026",
-          "summary": "Consistent Categorical Colors - Deterministic colors for maps"
+          "summary": "Run headless LLM coding harnesses as subprocess workers from Python workflows"
         },
         {
-          "title": "roterminal added to PyPI",
-          "link": "https://pypi.org/project/roterminal/",
+          "title": "portainer-redeploy-cli added to PyPI",
+          "link": "https://pypi.org/project/portainer-redeploy-cli/",
           "date": "20 Oct 2026",
-          "summary": "Live data on every Roblox game: players now, history, rising games, trends and developers. The RoTerminal API for Python."
+          "summary": "Redeploy Portainer stacks from the terminal, with a version check and a live rollout view"
         },
         {
-          "title": "llama-index-readers-anytomarkdown added to PyPI",
-          "link": "https://pypi.org/project/llama-index-readers-anytomarkdown/",
+          "title": "cv4 added to PyPI",
+          "link": "https://pypi.org/project/cv4/",
           "date": "20 Oct 2026",
-          "summary": "LlamaIndex reader for the AnyToMarkdown API: PDF, Word, Excel, PowerPoint and web pages to Markdown."
+          "summary": "A type-safe, builder-pattern, pythonic wrapper for OpenCV"
         },
         {
-          "title": "langchain-anytomarkdown added to PyPI",
-          "link": "https://pypi.org/project/langchain-anytomarkdown/",
+          "title": "yieldix added to PyPI",
+          "link": "https://pypi.org/project/yieldix/",
           "date": "20 Oct 2026",
-          "summary": "LangChain document loader for the AnyToMarkdown API: PDF, Word, Excel, PowerPoint and web pages to Markdown."
+          "summary": "Autonomous B2B Revenue Engine, Sub-60s Speed-to-Lead Orchestrator & Verifiable Pipeline Machine"
         },
         {
-          "title": "orb-package-manager added to PyPI",
-          "link": "https://pypi.org/project/orb-package-manager/",
+          "title": "syntropion added to PyPI",
+          "link": "https://pypi.org/project/syntropion/",
           "date": "20 Oct 2026",
-          "summary": "A custom package manager that unifies pacman, yay, and flatpak."
+          "summary": "SYNTROPION OS — Autonomous AI Venture Studio & Micro-SaaS Factory Operating System"
         },
         {
-          "title": "siphopdk-forge added to PyPI",
-          "link": "https://pypi.org/project/siphopdk-forge/",
+          "title": "inator-agent-kit added to PyPI",
+          "link": "https://pypi.org/project/inator-agent-kit/",
           "date": "20 Oct 2026",
-          "summary": "SiPhoPDK: a synthetic 220 nm SOI + SiN O-band demonstration PDK for PhotonForge"
+          "summary": "Reserved for the inator3000 project. Not yet published here."
         },
         {
-          "title": "harpocrate added to PyPI",
-          "link": "https://pypi.org/project/harpocrate/",
+          "title": "inator-backend-kit added to PyPI",
+          "link": "https://pypi.org/project/inator-backend-kit/",
           "date": "20 Oct 2026",
-          "summary": "Client Python zero-knowledge pour le coffre de secrets Harpocrate : chiffrement côté client, le serveur ne voit jamais une valeur"
+          "summary": "Reserved for the inator3000 project. Not yet published here."
         },
         {
-          "title": "tbp.monty added to PyPI",
-          "link": "https://pypi.org/project/tbp-monty/",
+          "title": "inator3000 added to PyPI",
+          "link": "https://pypi.org/project/inator3000/",
           "date": "20 Oct 2026",
-          "summary": "Thousand Brains Project Monty"
+          "summary": "Reserved for the inator3000 project. Not yet published here."
         },
         {
-          "title": "familyos-client added to PyPI",
-          "link": "https://pypi.org/project/familyos-client/",
+          "title": "erislib added to PyPI",
+          "link": "https://pypi.org/project/erislib/",
           "date": "20 Oct 2026",
-          "summary": "Async Python client for the FamilyOS public API (calendar, lists, chores, board)"
+          "summary": "Eris: A modular library for protein structural representations and graph-based encoders."
         },
         {
-          "title": "agent-countercheck added to PyPI",
-          "link": "https://pypi.org/project/agent-countercheck/",
+          "title": "ios-icon-mcp added to PyPI",
+          "link": "https://pypi.org/project/ios-icon-mcp/",
           "date": "20 Oct 2026",
-          "summary": "Proof that AI agents' work really happened: re-runs your checks in a clean copy the agent can't edit, and writes a sealed receipt."
+          "summary": "Organize your iPhone home screen from any AI client via MCP — no jailbreak, widgets preserved"
         },
         {
-          "title": "burnman-cpp added to PyPI",
-          "link": "https://pypi.org/project/burnman-cpp/",
+          "title": "dmarket-client added to PyPI",
+          "link": "https://pypi.org/project/dmarket-client/",
           "date": "20 Oct 2026",
-          "summary": "Python bindings for the BurnMan C++ mineral physics library"
+          "summary": "Typed synchronous and asynchronous client for the DMarket Trading API"
         },
         {
-          "title": "prepix added to PyPI",
-          "link": "https://pypi.org/project/prepix/",
+          "title": "nltkkk added to PyPI",
+          "link": "https://pypi.org/project/nltkkk/",
           "date": "20 Oct 2026",
-          "summary": "A lightweight Python library for data preprocessing, quality checks, and ML utilities."
+          "summary": "Teri Maa ne bhoot ke sath suhagrat rachai thi woh bhoot huh mein"
         },
         {
-          "title": "cairn-pack-hello added to PyPI",
-          "link": "https://pypi.org/project/cairn-pack-hello/",
+          "title": "plugvan-mcp added to PyPI",
+          "link": "https://pypi.org/project/plugvan-mcp/",
           "date": "20 Oct 2026",
-          "summary": "Example cairn domain pack: a data, an agentic, an ml and an operations pipeline, each behind gates."
+          "summary": "Todoist tools for Claude Desktop as an MCP server over STDIO."
         },
         {
-          "title": "cairn-operator-dataflow-skypilot added to PyPI",
-          "link": "https://pypi.org/project/cairn-operator-dataflow-skypilot/",
+          "title": "stumble-radio added to PyPI",
+          "link": "https://pypi.org/project/stumble-radio/",
           "date": "20 Oct 2026",
-          "summary": "The SkyPilot provisioning dataflow engine (ADR-0104 D5) for cairn's ml and data flows — offered by cairndev[skypilot] (ADR-0134 D3)."
+          "summary": "A terminal radio for curious ears. Stumble into something good."
         },
         {
-          "title": "cairn-operator-dataflow-metaflow added to PyPI",
-          "link": "https://pypi.org/project/cairn-operator-dataflow-metaflow/",
+          "title": "crucible-emulator added to PyPI",
+          "link": "https://pypi.org/project/crucible-emulator/",
           "date": "20 Oct 2026",
-          "summary": "The Metaflow dataflow engine (ADR-0089) for cairn's ml and data flows — offered by cairndev[metaflow] (ADR-0134 D2)."
+          "summary": "Local BigQuery API emulator backed by DuckDB, for dbt development and CI. Snowflake is planned."
         },
         {
-          "title": "cairndev added to PyPI",
-          "link": "https://pypi.org/project/cairndev/",
+          "title": "django-class-based-admin-actions added to PyPI",
+          "link": "https://pypi.org/project/django-class-based-admin-actions/",
           "date": "20 Oct 2026",
-          "summary": "A governed control plane for AI and ML work: pipelines that fine-tune, evaluate, compress and serve models, with approval, policy, budget and lineage on every step"
+          "summary": "Class-based Django admin actions: compose reusable actions from mixins, like class-based views."
         },
         {
-          "title": "cdswap added to PyPI",
-          "link": "https://pypi.org/project/cdswap/",
+          "title": "mcpy-gcmc added to PyPI",
+          "link": "https://pypi.org/project/mcpy-gcmc/",
           "date": "20 Oct 2026",
-          "summary": "Share Claude Desktop Code sessions, archives and local routines across accounts, and switch the app's signed-in account."
+          "summary": "A python package to run atomistic Monte Carlo simulations"
         },
         {
-          "title": "algierex added to PyPI",
-          "link": "https://pypi.org/project/algierex/",
+          "title": "wormgpt-app-sdk added to PyPI",
+          "link": "https://pypi.org/project/wormgpt-app-sdk/",
           "date": "20 Oct 2026",
-          "summary": "Python SDK for the Algierex market data API (the Algerian exchange)"
+          "summary": "Python SDK for building applications on top of the WormGPT API."
         },
         {
-          "title": "safesub added to PyPI",
-          "link": "https://pypi.org/project/safesub/",
+          "title": "scientific-toolkit-mcp added to PyPI",
+          "link": "https://pypi.org/project/scientific-toolkit-mcp/",
           "date": "20 Oct 2026",
-          "summary": "Клиент SafeMembers: проверка обязательных подписок в Telegram-ботах (с готовым middleware для aiogram 3)"
+          "summary": "Provider-neutral local and remote MCP hub for seven Furox-Art public research tools"
         },
         {
-          "title": "llmentary added to PyPI",
-          "link": "https://pypi.org/project/llmentary/",
+          "title": "drcinv added to PyPI",
+          "link": "https://pypi.org/project/drcinv/",
           "date": "20 Oct 2026",
-          "summary": "Python (pytest) client for llmentary: deterministic trace-based integration tests for LLM apps"
+          "summary": "Python library for dynamic range compression and inversion"
         },
         {
-          "title": "deepinfer-flashmla added to PyPI",
-          "link": "https://pypi.org/project/deepinfer-flashmla/",
+          "title": "juriset added to PyPI",
+          "link": "https://pypi.org/project/juriset/",
           "date": "20 Oct 2026",
-          "summary": "FlashMLA: Efficient MLA kernel for Hopper and Ascend GPUs"
+          "summary": "Juriset MCP server and SDK — coming soon"
         },
         {
-          "title": "maxgotlost added to PyPI",
-          "link": "https://pypi.org/project/maxgotlost/",
+          "title": "opssignal-azure added to PyPI",
+          "link": "https://pypi.org/project/opssignal-azure/",
           "date": "20 Oct 2026",
-          "summary": "Gothic terminal banners, animated logos, and colored typing utilities"
+          "summary": "Azure support for opssignal (Blob Storage, App Configuration, Cosmos DB, Key Vault)"
         },
         {
-          "title": "deepinfer-ep added to PyPI",
-          "link": "https://pypi.org/project/deepinfer-ep/",
+          "title": "opssignal-gcp added to PyPI",
+          "link": "https://pypi.org/project/opssignal-gcp/",
           "date": "20 Oct 2026",
-          "summary": "DeepEP: High-Performance Expert Parallelism Communication Library"
+          "summary": "Google Cloud support for opssignal (Cloud Storage, Firestore, Secret Manager)"
         },
         {
-          "title": "deepinfer-gemm added to PyPI",
-          "link": "https://pypi.org/project/deepinfer-gemm/",
+          "title": "mq-bridge-onnx added to PyPI",
+          "link": "https://pypi.org/project/mq-bridge-onnx/",
           "date": "20 Oct 2026",
-          "summary": "DeepGEMM: Clean and efficient FP8 GEMM kernels with fine-grained scaling"
+          "summary": "Local ONNX inference endpoints for mq-bridge: text embeddings and model scoring"
         },
         {
-          "title": "agent-arch added to PyPI",
-          "link": "https://pypi.org/project/agent-arch/",
+          "title": "x403 added to PyPI",
+          "link": "https://pypi.org/project/x403/",
           "date": "20 Oct 2026",
-          "summary": "Deterministic codebase architecture guardrails and topology indexer for AI coding agents"
+          "summary": "x403: a signed risk decision before money moves. Objects, canonical JSON, ES256 signing and verifying, the HTTP binding, a client and FastAPI middleware."
         },
         {
-          "title": "sidemantic-rs added to PyPI",
-          "link": "https://pypi.org/project/sidemantic-rs/",
+          "title": "kvprof added to PyPI",
+          "link": "https://pypi.org/project/kvprof/",
           "date": "20 Oct 2026",
-          "summary": "Standalone Rust runtime bindings for Sidemantic"
+          "summary": "Prompt-cache profiler for llama.cpp's llama-server: why did it re-prefill my prompt?"
         }
       ]
     }
