@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-21T19:47:56Z",
+  "generated": "2026-10-21T22:54:24Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,12 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "BlackRock expands AI push with new robotics ETF as investor enthusiasm cools",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/blackrock-expands-ai-push-with-new-robotics-etf-as-investor-enthusiasm-cools/articleshow/135099678.cms",
+          "date": "22 Oct 2026",
+          "summary": "BlackRock has launched a new robotics focused ETF as investors become more selective about AI investments. The fund targets companies using intelligent machines across industries such as manufacturing and transportation, adding to a rapidly expanding market of…"
+        },
         {
           "title": "US Treasury yields slip as AI concerns boost safe haven demand ahead of 20 year auction",
           "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-yields-slip-as-ai-concern-boost-safe-haven-demand-ahead-of-20-year-auction/articleshow/135097932.cms",
@@ -36,12 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/want-exposure-to-indias-biggest-banks-zerodha-launches-new-etf/articleshow/135090790.cms",
           "date": "21 Oct 2026",
           "summary": "Zerodha Fund House has launched the BSE Top 10 Banks ETF, tracking India’s largest listed banks. The NFO runs from October 12 to October 26, 2026, with a minimum investment of Rs 1,000, offering focused banking exposure."
-        },
-        {
-          "title": "MFs raise stakes in 10 stocks in Q2; shares rally up to 130% in FY27, including 3 multibaggers",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/mfs-raise-stakes-in-10-stocks-in-q2-shares-rally-up-to-130-in-fy27-including-3-multibaggers/slideshow/135089578.cms",
-          "date": "21 Oct 2026",
-          "summary": "Ten BSE 500 stocks have rallied between 59% and 129% in FY27 so far as mutual funds increased their shareholding in the September 2026 quarter. Cemindia Projects, Aditya Infotech and Aegis Logistics lead the list of gainers."
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -196,10 +196,130 @@
       "ok": true,
       "items": [
         {
-          "title": "US midterms: Vivek Ramaswamy goes low in Ohio's race to the bottom",
-          "link": "https://timesofindia.indiatimes.com/world/us/vivek-ramaswamy-goes-low-in-ohios-race-to-the-bottom/articleshow/135095761.cms",
+          "title": "Tiger shooters got weapons via ‘dead drop’; couriers delivered guns a day earlier",
+          "link": "https://timesofindia.indiatimes.com/india/tiger-shooters-got-weapons-via-dead-drop-couriers-delivered-guns-a-day-earlier/articleshow/135100409.cms",
+          "date": "22 Oct 2026",
+          "summary": "Kunal, who has also been arrested, has emerged as a key character who had been in touch with gangsters Anil Pandit and Randeep Malik for over two months. He had also figured as the source of the weapon used for the murder of a forex-hawala trader in Sonipat la…"
+        },
+        {
+          "title": "Confidence in poll key for democracy, halt candidates' list: SC to Andhra poll body",
+          "link": "https://timesofindia.indiatimes.com/india/confidence-in-poll-process-key-for-democracy-halt-list-of-candidates-sc-to-ap-sec/articleshow/135100407.cms",
+          "date": "22 Oct 2026",
+          "summary": "Senior advocate Maninder Singh, who appeared for YSRCP, said in 19 of the 100 urban local bodies — 13 municipal corporations and 87 municipalities/nagar panchayats — more than 63% of YSRCP candidates were prevented from filing nominations or their nomination p…"
+        },
+        {
+          "title": "At Jamnagar refinery, Rubio and Ambanis discuss energy, digital infrastructure",
+          "link": "https://timesofindia.indiatimes.com/india/at-jamnagar-refinery-rubio-and-ambanis-discuss-energy-digital-infra-giga-factories/articleshow/135100415.cms",
+          "date": "22 Oct 2026",
+          "summary": "US President Donald Trump had earlier announced the setting up of a $300 billion refinery in US, with RIL being part of his plank to revive industry in the country and bring back jobs that were offshored. The Mukesh Ambani-led company has, however, not outline…"
+        },
+        {
+          "title": "Drug menace next target, says Amit Shah; eyes 2029 deadline",
+          "link": "https://timesofindia.indiatimes.com/india/drug-menace-next-target-says-union-home-minister-amit-shah-eyes-2029-deadline/articleshow/135100416.cms",
+          "date": "22 Oct 2026",
+          "summary": "Stating that an environment conducive to development has emerged in Kashmir, Northeast and LWE-hit regions, Shah particularly thanked CRPF and its CoBRA battalion as well as Chhattisgarh Police for their role in the decisive fight against LWE. The home ministr…"
+        },
+        {
+          "title": "Decades-old flaw discovered in PHP forces govt websites to go offline globally",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/decades-old-flaw-discovered-by-google-openai-ai-tools-forces-government-and-public-websites-to-go-offline-globally/articleshow/135097877.cms",
           "date": "21 Oct 2026",
-          "summary": "Vivek Ramaswamy's campaign in Ohio has stirred controversy with an ad that leverages his rival Amy Acton's difficult past. This ad includes allegations from Acton's estranged mother, leading to significant backlash from the public and political analysts alike.…"
+          "summary": "Multiple government portals and public institutions experienced outages due to the revelation of PHP vulnerabilities. In an immediate response, IT teams mobilized to patch critical servers and thwart potential malicious attacks. Security analysts alerted that…"
+        },
+        {
+          "title": "New norms for Driving Licence: Tutorial pass mark may rise to 75%",
+          "link": "https://timesofindia.indiatimes.com/india/new-norms-for-dl-driving-tutorial-pass-mark-may-rise-to-75-select-licence-services-to-be-free/articleshow/135100709.cms",
+          "date": "22 Oct 2026",
+          "summary": "Under the proposal, the safe-driving tutorial would have to last at least 30 minutes. The higher qualifying score of 70% is aimed at making the assessment more stringent. The draft also proposes a defined procedure for online applications to change driving lic…"
+        },
+        {
+          "title": "Texas family sells 650-acre lakeside ranch for over $10m for new state park",
+          "link": "https://timesofindia.indiatimes.com/world/us/in-1940-a-texas-family-acquired-the-ranch-where-generations-grew-pecan-trees-and-spent-holidays-86-years-later-they-sold-its-650-lakefront-acres-for-more-than-10-million-so-the-land-can-become-a-state-park/articleshow/135061787.cms",
+          "date": "22 Oct 2026",
+          "summary": "The Texas Parks and Wildlife Foundation has acquired a family-run ranch in East Texas for future park development. This historic land, held by the Pollard family since 1940 and boasting valuable lakefront access, is set to transition to the Texas Parks and Wil…"
+        },
+        {
+          "title": "India deal pretty close, will be different: Trump; pact to exclude unresolved sectors",
+          "link": "https://timesofindia.indiatimes.com/india/india-deal-pretty-close-will-be-different-trump-pact-to-exclude-unresolved-sectors/articleshow/135100411.cms",
+          "date": "22 Oct 2026",
+          "summary": "There has been speculation in certain quarters that the much-awaited deal may not be comprehensive, covering all sectors, and the two sides may like to leave aside the issues which have been particularly nettlesome to have an understanding on those for which t…"
+        },
+        {
+          "title": "SC stays probe against Vijayan &amp; kin for a week to enable him to move high court",
+          "link": "https://timesofindia.indiatimes.com/india/sc-stays-probe-against-vijayan-kin-for-a-week-to-enable-him-to-move-high-court/articleshow/135100438.cms",
+          "date": "22 Oct 2026",
+          "summary": "Referring to Section 175(4) of BNSS, which requires a report from the public servant’s superior officer before ordering an investigation into a complaint against the public servant for acts done in discharge of official duties, the bench said, “The single judg…"
+        },
+        {
+          "title": "PM Modi has failed ‘abysmally’ on Manipur, says Congress chief Mallikarjun Kharge",
+          "link": "https://timesofindia.indiatimes.com/india/pm-modi-has-failed-abysmally-on-manipur-says-congress-chief-mallikarjun-kharge/articleshow/135100410.cms",
+          "date": "22 Oct 2026",
+          "summary": "Congress president Mallikarjun Kharge asked Prime Minister Narendra Modi what has happened to the Peace Committee which was announced by home minister Amit Shah in June 2023 and what action has been taken on the Supreme Court-appointed Justice Gita Mittal Comm…"
+        },
+        {
+          "title": "Subway co-founder's relative bought $6.75m warehouse; plans $1.8m revamp",
+          "link": "https://timesofindia.indiatimes.com/world/us/in-2025-a-relative-of-subway-co-founder-peter-buck-bought-a-connecticut-warehouse-held-by-another-family-for-three-generations-for-6-75-million-now-a-1-8-million-renovation-and-10000-square-foot-office-are-planned/articleshow/135069984.cms",
+          "date": "22 Oct 2026",
+          "summary": "A member of the Buck family has purchased a Danbury warehouse previously owned by the Salame family. This transaction, completed for $6.75 million, signals a commitment to modernizing the site while preserving its industrial purpose. Plans include extensive re…"
+        },
+        {
+          "title": "Kirsten Dunst bought LA home for $2.6m, sold it for $4.55m in 2019",
+          "link": "https://timesofindia.indiatimes.com/real-estate/news/in-2001-kirsten-dunst-bought-a-lakefront-los-angeles-house-for-2-6-million-18-years-later-the-4333-square-foot-property-sold-for-4-55-million-to-another-actress-after-finding-a-buyer-in-just-nine-days/articleshow/135091015.cms",
+          "date": "21 Oct 2026",
+          "summary": ""
+        },
+        {
+          "title": "Jeff Bezos and Lauren Sanchez gave $3 million to rebuild Maui homes after wildfires",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/in-2024-jeff-bezos-and-lauren-sanchez-gave-3-million-to-habitat-for-humanity-maui-the-donation-backed-affordable-housing-and-efforts-to-repair-and-rebuild-homes-after-the-islands-devastating-fires/articleshow/135090516.cms",
+          "date": "21 Oct 2026",
+          "summary": ""
+        },
+        {
+          "title": "Jeff Gordon-backed Rwanda cancer centre saw over 18,000 patients by 2025",
+          "link": "https://timesofindia.indiatimes.com/world/us/in-2012-jeff-gordons-foundation-helped-open-a-cancer-centre-in-rwanda-by-2025-it-had-seen-more-than-18000-patients-and-helped-build-care-where-treatment-had-once-been-almost-out-of-reach/articleshow/135068203.cms",
+          "date": "22 Oct 2026",
+          "summary": "In 2012, Rwanda launched the Butaro Cancer Center of Excellence to fill the gap in cancer care services. Since then, it has treated over 18,000 individuals, greatly enhancing local healthcare. The center plays a crucial role by establishing vital diagnostic pr…"
+        },
+        {
+          "title": "Rosatom completes ESFAS equipment supply for Kudankulam N-plant units 3, 4",
+          "link": "https://timesofindia.indiatimes.com/india/rosatom-completes-supply-of-engineered-safety-features-actuation-systems-for-kudankulam-n-plant-units-3-and-4/articleshow/135100849.cms",
+          "date": "22 Oct 2026",
+          "summary": "In total, about 300 items of equipment were manufactured and delivered to the plant – four sets of ESFAS CS in accordance with the number of safety instrumentation and control trains, per each power unit featuring VVER-1000 reactors. ESFAS is the system that m…"
+        },
+        {
+          "title": "Delhi protests India’s internal matter, won’t comment: Marco Rubio",
+          "link": "https://timesofindia.indiatimes.com/india/delhi-protests-indias-internal-matter-wont-comment-rubio-calls-un-experts-an-oxymoron/articleshow/135100408.cms",
+          "date": "22 Oct 2026",
+          "summary": "On Tuesday, more than 20 UN human rights experts in Geneva had expressed alarm over what they described as a “repeatedly heavy-handed police response” to peaceful youth-led demonstrations in the national capital. United States secretary of state Marco Rubio br…"
+        },
+        {
+          "title": "Maria Sharapova’s $25M mansion sale: How her $4.1M land became a record deal",
+          "link": "https://timesofindia.indiatimes.com/sports/international-sports/maria-sharapova-bought-a-manhattan-beach-lot-for-4-1-million-and-built-a-three-story-japanese-inspired-mansion-after-13-years-it-sold-for-a-record-25-million/articleshow/135038033.cms",
+          "date": "19 Oct 2026",
+          "summary": "Maria Sharapova bought a Manhattan Beach lot for $4.1 million in 2012 and built a three-story home with Japanese-inspired design. In 2025, NBA star Luka Dončić bought the property for $25 million, setting a local residential sale record. The deal marked a majo…"
+        },
+        {
+          "title": "Andre Agassi and Steffi Graf lose $3M on $23M Tiburon mansion after four years",
+          "link": "https://timesofindia.indiatimes.com/sports/international-sports/andre-agassi-and-steffi-graf-lost-3-million-on-23-million-tiburon-mansion-after-four-years-of-searching-for-a-buyer/articleshow/135028168.cms",
+          "date": "19 Oct 2026",
+          "summary": "In 2006, tennis legends Andre Agassi and Steffi Graf agreed to sell their luxurious Tiburon estate for $20 million, taking a reported $3 million loss. The 3.5-acre property featured a sprawling mansion, two swimming pools, a tennis court and stunning Golden Ga…"
+        },
+        {
+          "title": "Why are uninsured vehicles not part of crash relief scheme? Supreme Court",
+          "link": "https://timesofindia.indiatimes.com/india/why-are-uninsured-vehicles-not-part-of-crash-relief-scheme-supreme-court/articleshow/135100900.cms",
+          "date": "22 Oct 2026",
+          "summary": "Taking note that “Compensation to Victims (Interim Relief) Scheme, 2026” has not been notified or publicised, a bench of Justices JB Pardiwala and KV Viswanathan directed the govt to publicise it to ensure awareness. People must be made aware of their right to…"
+        },
+        {
+          "title": "Cars to brake on their own: Centre plans AEBS mandate from Oct 2030",
+          "link": "https://timesofindia.indiatimes.com/india/cars-to-brake-on-their-own-centre-plans-aebs-mandate-from-oct-2030/articleshow/135100436.cms",
+          "date": "22 Oct 2026",
+          "summary": "As for pre-2030 still-in production models, AEBS would mandatory from Oct 2032. The draft notification, with timelines for different ADAS safety features for cars, would be out soon, people aware of the development said, adding that focus would be more on taxi…"
+        },
+        {
+          "title": "NMC denotifies medical education rules; annual disclosures risk lacking verification",
+          "link": "https://timesofindia.indiatimes.com/india/nmc-denotifies-medical-education-rules-annual-disclosures-risk-lacking-verification/articleshow/135100412.cms",
+          "date": "22 Oct 2026",
+          "summary": "The 2019 Act also states that MARB may conduct evaluation of any institute at any time without prior notice. However, with the denotification, the aspects that need to be included in the evaluation report, such as verification of physical infrastructure, avail…"
         },
         {
           "title": "Trump's son 'opposed' Iran war, believed US should avoid another Middle East conflict",
@@ -226,10 +346,22 @@
           "summary": ""
         },
         {
-          "title": "Decades-old flaw discovered in PHP forces govt websites to go offline globally",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/decades-old-flaw-discovered-by-google-openai-ai-tools-forces-government-and-public-websites-to-go-offline-globally/articleshow/135097877.cms",
-          "date": "21 Oct 2026",
-          "summary": "Multiple government portals and public institutions experienced outages due to the revelation of PHP vulnerabilities. In an immediate response, IT teams mobilized to patch critical servers and thwart potential malicious attacks. Security analysts alerted that…"
+          "title": "Who are the terrorists? J&amp;K and Ladakh high court questions ‘vague’ detention order",
+          "link": "https://timesofindia.indiatimes.com/india/who-are-the-terrorists-jk-and-ladakh-high-court-questions-vague-detention-order/articleshow/135099891.cms",
+          "date": "22 Oct 2026",
+          "summary": "A single bench of Justice Wasim Nargal said preventive detention, which allows authorities to deprive a person of liberty without a regular criminal trial, demands the “highest degree of constitutional responsibility and procedural diligence”. The court direct…"
+        },
+        {
+          "title": "Drone-linked narco-terror module busted in Jammu; 804 gm heroin; 1.1 kg opium seized",
+          "link": "https://timesofindia.indiatimes.com/india/drone-linked-narco-terror-module-busted-in-jammu-804-gm-heroin-1-1-kg-opium-seized/articleshow/135099887.cms",
+          "date": "22 Oct 2026",
+          "summary": "“Preliminary investigation has indicated a cross-border nexus. Inquiry is underway to identify the source of the consignment, its intended recipients, and persons involved in the network,” police said. The network came to light during the questioning of a 26-y…"
+        },
+        {
+          "title": "RSS-affiliated labour organisation opens first Kashmir office in Pulwama",
+          "link": "https://timesofindia.indiatimes.com/india/rss-affiliated-labour-organisation-opens-first-kashmir-office-in-pulwama/articleshow/135099884.cms",
+          "date": "22 Oct 2026",
+          "summary": "BMS has been actively working in Kashmir since 2020 after the abrogation of Article 370 and currently has 20 registered affiliated labour unions in the region, Khuchay said. Initially, there were a lot of misconceptions about RSS, he said. However, the BMS fun…"
         },
         {
           "title": "Monsoon's gone, El Nino isn't: Why India's weather worries are far from over",
@@ -238,142 +370,10 @@
           "summary": "El Niño is increasingly influencing global weather patterns including agriculture and temperatures in India. Current forecasts predict a warmer winter as El Niño intensifies, which could affect agriculture adversely. Recent monsoon rainfall deficits raise conc…"
         },
         {
-          "title": "Connecticut tenant wins $1.6m after losing toe; lawyer says he got nothing",
-          "link": "https://timesofindia.indiatimes.com/world/us/in-2024-a-connecticut-tenant-tripped-over-concrete-outside-his-unlit-apartment-building-and-later-lost-a-toe-he-won-a-1-6-million-judgment-in-january-2026-but-his-lawyer-says-he-has-received-nothing/articleshow/135075633.cms",
-          "date": "22 Oct 2026",
-          "summary": "Michael Criscuolo, a resident of Connecticut, faced a life-changing injury after stumbling over construction debris near his apartment. A court ruled in his favor, granting him $1.6 million due to the landlord's clear negligence. Yet, Sim Levenhartz has failed…"
-        },
-        {
           "title": "'Shouldn't have come if unwell': Minister defends public reprimand of Daler Mehndi",
           "link": "https://timesofindia.indiatimes.com/india/shouldnt-have-come-if-unwell-subodh-uniyal-defends-public-reprimand-of-daler-mehndi/articleshow/135095325.cms",
           "date": "21 Oct 2026",
           "summary": ""
-        },
-        {
-          "title": "Russian roulette: Trump bites the bullet with Putin in bid to survive US midterms",
-          "link": "https://timesofindia.indiatimes.com/world/us/trumps-russian-roulette-a-high-stakes-juggle-between-vladimir-putin-and-the-polls/articleshow/135092262.cms",
-          "date": "21 Oct 2026",
-          "summary": "For Trump, the political calculation appears straightforward. If Russian supplies arrive quickly and in sufficient quantities, they could help ease fuel prices and give his party a political boost. If deliveries fall short or prices remain high, the administra…"
-        },
-        {
-          "title": "eMudhra security breach: What it means for smartphone, internet users",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/emudhra-security-breach-explained-what-it-is-and-means-for-smartphone-internet-users/articleshow/135093509.cms",
-          "date": "21 Oct 2026",
-          "summary": "Researchers found that eight digital certificates issued by eMudhra had weak secret keys that could be easily exploited. Browser companies like Google, Apple, Microsoft, and Mozilla responded by blocking these certificates rapidly. eMudhra explained that a fla…"
-        },
-        {
-          "title": "Manhattan townhouse with 41-foot indoor pool lists for $10.45m after price cut",
-          "link": "https://timesofindia.indiatimes.com/real-estate/news/built-in-1886-this-manhattan-townhouse-was-bought-for-8-8-million-in-2012-and-transformed-in-a-multimillion-dollar-renovation-that-added-a-41-foot-indoor-pool-now-after-a-1-million-price-cut-it-is-listed-for-10-45-million/articleshow/135067320.cms",
-          "date": "22 Oct 2026",
-          "summary": "Nestled at 238 West 74th Street, this pristine townhouse dating back 140 years is available for $10.45 million. Spanning around 6,460 square feet, it boasts six bedrooms and six-and-a-half bathrooms. Unique features include a splendid 41-foot heated indoor poo…"
-        },
-        {
-          "title": "Man's $30 drawing later linked to Dürer, may be worth over $10m",
-          "link": "https://timesofindia.indiatimes.com/world/us/in-2017-a-massachusetts-man-bought-an-old-religious-drawing-for-just-30-at-an-estate-sale-experts-later-attributed-it-to-renaissance-master-albrecht-drer-and-placed-its-potential-value-above-10-million/articleshow/135063933.cms",
-          "date": "21 Oct 2026",
-          "summary": "A drawing bought for $30 at an estate sale in Massachusetts is confirmed to be by Albrecht Dürer. Experts attribute the ink sketch to 1503 and estimate its value between $10 million and $50 million. The anonymous buyer initially believed it to be a modern repr…"
-        },
-        {
-          "title": "Jeff Bezos and Lauren Sanchez gave $3 million to rebuild Maui homes after wildfires",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/in-2024-jeff-bezos-and-lauren-sanchez-gave-3-million-to-habitat-for-humanity-maui-the-donation-backed-affordable-housing-and-efforts-to-repair-and-rebuild-homes-after-the-islands-devastating-fires/articleshow/135090516.cms",
-          "date": "21 Oct 2026",
-          "summary": ""
-        },
-        {
-          "title": "Eva Marcille faces over $22,000 in HOA claims; she disputes allegations",
-          "link": "https://timesofindia.indiatimes.com/world/us/in-2019-reality-star-eva-marcille-bought-a-georgia-home-for-780000-seven-years-later-her-homeowners-association-is-suing-for-over-22000-over-alleged-unpaid-charges-and-maintenance-violations-she-disputes/articleshow/135075777.cms",
-          "date": "21 Oct 2026",
-          "summary": "Eva Marcille, known for her reality TV fame, is embroiled in a legal battle with her Georgia homeowners association due to claims of unpaid dues and property upkeep issues. The association alleges that Eva has failed to respond to multiple warnings concerning…"
-        },
-        {
-          "title": "Iyer's India face a test of adaptation in New Zealand",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/when-and-where-to-watch-ind-vs-nz-first-t20i-match-date-time-venue-and-live-streaming-details/articleshow/135095823.cms",
-          "date": "21 Oct 2026",
-          "summary": "India's most recent T20I series in New Zealand was in 2022. The match in Napier ended in a tie under the Duckworth-Lewis method after rain interrupted play. India went on to win the series, claiming victory in the only match that was not affected by rain."
-        },
-        {
-          "title": "Travis Kelce’s $200M Six Flags faces scrutiny after roller coaster part falls",
-          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/travis-kelce-backed-200-million-six-flags-faces-fresh-scrutiny-after-metal-bracket-falls-from-roller-coaster-amid-growing-ride-safety-concerns/articleshow/135083588.cms",
-          "date": "21 Oct 2026",
-          "summary": "A metal bracket reportedly fell from a car on Cedar Point’s Millennium Force roller coaster in Ohio, prompting a temporary shutdown. No injuries were reported, and the ride reopened after maintenance inspections and safety checks. The incident follows the deat…"
-        },
-        {
-          "title": "Breiden Fehoko calls NFL ‘fake’ as Robert Saleh faces questions over Jordan Elliott",
-          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/breiden-fehoko-calls-the-nfl-so-fake-as-robert-saleh-faces-questions-over-jordan-elliotts-personal-struggles/articleshow/135097186.cms",
-          "date": "21 Oct 2026",
-          "summary": "Breiden Fehoko has criticised the NFL and Robert Saleh over their handling of Jordan Elliott’s personal struggles. While Fehoko condemned Elliott’s reported actions, he questioned why the player was not given time away from football. The Titans released Elliot…"
-        },
-        {
-          "title": "Rafale Marine trials underway in Goa for INS Vikrant operations",
-          "link": "https://timesofindia.indiatimes.com/defence/news/rafale-marine-trials-underway-in-goa-for-ins-vikrant-operations/articleshow/135097219.cms",
-          "date": "21 Oct 2026",
-          "summary": "Indian Navy is conducting trials of the Rafale Marine fighter aircraft in Goa for modifications needed for INS Vikrant. These trials will ensure the aircraft can operate with the carrier's ski-jump launch and recovery systems. The Indian Navy has placed an ord…"
-        },
-        {
-          "title": "US top court nixes Trump admin's bid to restrict medical care for transgender inmates",
-          "link": "https://timesofindia.indiatimes.com/world/us/us-top-court-nixes-trump-admins-bid-to-restrict-medical-care-for-transgender-inmates/articleshow/135096276.cms",
-          "date": "21 Oct 2026",
-          "summary": ""
-        },
-        {
-          "title": "Sri Lanka’s dilemma: Iranian ships at its doorstep, US sanctions in the shadows",
-          "link": "https://timesofindia.indiatimes.com/world/south-asia/stranded-iranian-tankers-american-pressure-why-sri-lanka-faces-a-difficult-choice/articleshow/135071911.cms",
-          "date": "21 Oct 2026",
-          "summary": ""
-        },
-        {
-          "title": "At 69, Delhi’s ‘stuntman’ continues Ramleela tradition of setting himself on fire",
-          "link": "https://timesofindia.indiatimes.com/city/meerut/at-69-delhis-stuntman-continues-50-year-ramleela-tradition-of-setting-himself-on-fire-jumping-50ft-watch/articleshow/135095524.cms",
-          "date": "21 Oct 2026",
-          "summary": "Ram Prasad Tiwari is a 69-year-old performer who has been doing a dangerous stunt for nearly 50 years. He sets himself on fire before jumping into a pool of water from about fifty feet high. Tiwari performs during the Ramleela season and travels to various loc…"
-        },
-        {
-          "title": "Germany on alert for Russian sabotage after drone spotted near air base",
-          "link": "https://timesofindia.indiatimes.com/world/europe/germany-on-alert-for-russian-sabotage-after-drone-with-explosives-spotted-near-air-base/articleshow/135096131.cms",
-          "date": "21 Oct 2026",
-          "summary": "Germany has raised the threat level concerning Russian sabotage targeting its military to the second-highest rank, following the alarming discovery of an explosive drone near the Wunstorf air base. Authorities are investigating the incident amid fears of furth…"
-        },
-        {
-          "title": "Watch: 'Inquilab Zindabad', CJP leaders Das &amp; Ranka come out of Tihar Jail",
-          "link": "https://timesofindia.indiatimes.com/india/watch-inquilab-zindabad-cjp-leaders-saurav-das-ashutosh-ranka-come-out-of-tihar-jail/articleshow/135095842.cms",
-          "date": "21 Oct 2026",
-          "summary": "After a week in judicial custody, Saurav Das and Ashutosh Ranka were granted release from Tihar Jail by a special executive magistrate court in Delhi. Das joyfully declared that truth has prevailed, while Ranka chanted a memorable revolutionary slogan. CJP lea…"
-        },
-        {
-          "title": "Pakistan signs Badr accord with Turkey, Qatar &amp; Indonesia; what it means for India",
-          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/turkey-pakistan-qatar-and-indonesia-sign-defence-pact-to-boost-joint-arms-production/articleshow/135089701.cms",
-          "date": "21 Oct 2026",
-          "summary": ""
-        },
-        {
-          "title": "Sacramento jury awards $33.3m to jogger struck by dead tree limb",
-          "link": "https://timesofindia.indiatimes.com/world/us/in-2020-a-30-foot-dead-tree-limb-fell-on-a-28-year-old-physics-student-jogging-in-a-sacramento-park-six-years-later-a-jury-awarded-him-33-3-million-after-finding-the-city-responsible/articleshow/135076377.cms",
-          "date": "21 Oct 2026",
-          "summary": "In a landmark decision, a jury in Sacramento awarded Michael Flynn $33.3 million after he sustained a brain injury from a dead branch falling during his jog in McKinley Park. The city was found wholly negligent in their tree maintenance and safety checks. Desp…"
-        },
-        {
-          "title": "Jalaj Saxena equals Bishan Bedi as Kerala notch up innings win against Odisha",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-domestic/ranji-trophy/jalaj-saxena-equals-bishan-singh-bedi-as-kerala-notch-up-innings-win-against-odisha-in-ranji-trophy/articleshow/135094690.cms",
-          "date": "21 Oct 2026",
-          "summary": "This was Jalaj’s 35th five-wicket haul in the Ranji Trophy, a phenomenal number that puts him level with the great Bishan Singh Bedi for the joint fifth-most five-fors in the tournament’s history. Odisha, meanwhile, became the 20th Ranji team he has taken five…"
-        },
-        {
-          "title": "How much debt is too much for Tamil Nadu?",
-          "link": "https://timesofindia.indiatimes.com/city/chennai/how-much-debt-is-too-much-for-tamil-nadu/articleshow/135074001.cms",
-          "date": "20 Oct 2026",
-          "summary": "The debt dynamics in Tamil Nadu present a perplexing scenario of borrowing intertwined with fiscal strategies. By 2026-2027, the burden of interest payments is expected to significantly eat into state revenue. The imminent maturity of most public debt within s…"
-        },
-        {
-          "title": "Big relief for Das, Ranka: CJP leaders released after 7 days; Dipke posts SRK clip",
-          "link": "https://timesofindia.indiatimes.com/india/delhi-court-orders-release-of-cjp-leaders-saurav-das-ashutosh-ranka/articleshow/135092955.cms",
-          "date": "21 Oct 2026",
-          "summary": "A special executive magistrate court in Delhi reserved its order regarding the custody of CJP leaders Saurav Das and Ashutosh Ranka. The police sought an extension of three days for their custody following a protest at Jantar Mantar. During the proceedings, Da…"
-        },
-        {
-          "title": "Randi Mahomes launches Chiefs collection with Game Day Couture",
-          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/patrick-mahomes-mother-randi-mahomes-debuts-new-chiefs-collection-with-game-day-couture/articleshow/135083542.cms",
-          "date": "21 Oct 2026",
-          "summary": "Randi Mahomes has unveiled her new Kansas City Chiefs clothing collection in collaboration with Game Day Couture. Patrick Mahomes’ mother shared an Instagram video on Monday, modelling T-shirts, crew necks and dressier tops featuring the team’s logo. She encou…"
         }
       ]
     },
@@ -940,7 +940,7 @@
         {
           "title": "NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning",
           "link": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning/",
-          "date": "16 Oct 2026",
+          "date": "21 Oct 2026",
           "summary": "Always-on agents are taking on longer, more complex enterprise workflows. A single request can involve reading a document, checking information across sources,..."
         },
         {
@@ -1152,6 +1152,24 @@
       "ok": true,
       "items": [
         {
+          "title": "AMD Brings Ryzen Overclocking Driver to Linux",
+          "link": "https://linux.slashdot.org/story/26/10/21/2030239/amd-brings-ryzen-overclocking-driver-to-linux?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "21 Oct 2026",
+          "summary": "AMD has published Linux kernel patches for an official Ryzen overclocking driver that allows users to adjust CPU power and current limits through a firmware interface exposed via sysfs. Phoronix reports: AMD engineer Shyam Sundar S K posted the patches for the…"
+        },
+        {
+          "title": "More Than 1.5 Million Canadian Crime Stoppers Tips Leaked",
+          "link": "https://yro.slashdot.org/story/26/10/21/1729218/more-than-15-million-canadian-crime-stoppers-tips-leaked?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "21 Oct 2026",
+          "summary": "A CBC investigation found that more than 1.5 million Canadian Crime Stoppers tips spanning 25 years were exposed in a breach of the P3 Global Intel tip-management platform. About 850,000 records contained personally identifiable information, including addresse…"
+        },
+        {
+          "title": "Microsoft Reportedly Projects $1,200 To $1,800 Price For Next-Gen Xbox",
+          "link": "https://games.slashdot.org/story/26/10/21/180214/microsoft-reportedly-projects-1200-to-1800-price-for-next-gen-xbox?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "21 Oct 2026",
+          "summary": "An anonymous reader quotes a report from Ars Technica: We haven't heard many details about Microsoft's upcoming \"Project Helix\" gaming hardware since the company announced it in March as a device that will \"play your Xbox and PC games.\" In a new wide-ranging p…"
+        },
+        {
           "title": "Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy On Facebook",
           "link": "https://yro.slashdot.org/story/26/10/21/188251/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "21 Oct 2026",
@@ -1222,24 +1240,6 @@
           "link": "https://tech.slashdot.org/story/26/10/20/199206/google-support-pages-start-defaulting-to-ai-chatbots?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "20 Oct 2026",
           "summary": "Google is beginning to replace traditional support articles with \"Ask Google Help,\" a Gemini-powered interface that summarizes documentation and lets users troubleshoot through a chatbot. 9to5Google reports: \"Ask Google Help\" will display a condensed version o…"
-        },
-        {
-          "title": "DHS Lied About Why It Wanted To Search Activist's GrapheneOS Phone",
-          "link": "https://yro.slashdot.org/story/26/10/20/1740207/dhs-lied-about-why-it-wanted-to-search-activists-grapheneos-phone?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "20 Oct 2026",
-          "summary": "New court records reportedly show that DHS targeted Stop Cop City activist Samuel Tunick at an Atlanta airport because he was under investigation for suspected \"terrorist activities.\" However, the CBP officers told him instead that they wanted to search his ph…"
-        },
-        {
-          "title": "OpenBSD 8.0 Released",
-          "link": "https://tech.slashdot.org/story/26/10/20/171229/openbsd-80-released?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "20 Oct 2026",
-          "summary": "OpenBSD 8.0 has been released with major virtualization and hardware upgrades, including support for up to 64 vCPUs per VM, Intel Arc graphics, ARM64 hibernation, and expanded RISC-V support. Linuxiac points out that it marks the \"61st release of the security-…"
-        },
-        {
-          "title": "Meta Muse Exposes Users' Personal, Business Secrets When They Share Conversations",
-          "link": "https://yro.slashdot.org/story/26/10/20/1655247/meta-muse-exposes-users-personal-business-secrets-when-they-share-conversations?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "20 Oct 2026",
-          "summary": "Security researchers say Meta's Muse AI assistant exposed thousands of users' shared conversations because conversation titles were placed in subdomains that could be discovered through public DNS records. Meta has since suspended the sharing feature while it…"
         }
       ]
     },
@@ -1630,184 +1630,184 @@
       "ok": true,
       "items": [
         {
-          "title": "taskkeeper added to PyPI",
-          "link": "https://pypi.org/project/taskkeeper/",
+          "title": "cloudrepo-migrate added to PyPI",
+          "link": "https://pypi.org/project/cloudrepo-migrate/",
           "date": "21 Oct 2026",
-          "summary": "Add your description here"
+          "summary": "Move a Nexus 2 server's Maven and npm repositories into CloudRepo, verifying every file."
         },
         {
-          "title": "involve-benchling added to PyPI",
-          "link": "https://pypi.org/project/involve-benchling/",
+          "title": "custody-mcp added to PyPI",
+          "link": "https://pypi.org/project/custody-mcp/",
           "date": "21 Oct 2026",
-          "summary": "Caching, name resolution, dataframes, read-only clients and testing utilities for the Benchling V3 Python SDK."
+          "summary": "A governed, auditable agent gateway for oncology data workflows"
         },
         {
-          "title": "bruise-data added to PyPI",
-          "link": "https://pypi.org/project/bruise-data/",
+          "title": "cloudrepo added to PyPI",
+          "link": "https://pypi.org/project/cloudrepo/",
           "date": "21 Oct 2026",
-          "summary": "PyTorch loaders for the BRUISE_DATA collection (NIJ, Fenwick, ALS, mimics)."
+          "summary": "CloudRepo's name on PyPI. It holds no code: CloudRepo's migration tool is cloudrepo-migrate."
         },
         {
-          "title": "moat-dev-heat-sim added to PyPI",
-          "link": "https://pypi.org/project/moat-dev-heat-sim/",
+          "title": "byteplan added to PyPI",
+          "link": "https://pypi.org/project/byteplan/",
           "date": "21 Oct 2026",
-          "summary": "Plant simulator and closed-loop test harness for the MoaT heating controller"
+          "summary": "Plan in code. Track in one place."
         },
         {
-          "title": "tabagent added to PyPI",
-          "link": "https://pypi.org/project/tabagent/",
+          "title": "genja-cli added to PyPI",
+          "link": "https://pypi.org/project/genja-cli/",
           "date": "21 Oct 2026",
-          "summary": "Distill an LLM agent's closed-set decisions into cheap tabular classifiers: TabSchema, TabSynth, TabHead."
+          "summary": "First-party command-line interface for Genja automation workflows"
         },
         {
-          "title": "skarstrom added to PyPI",
-          "link": "https://pypi.org/project/skarstrom/",
+          "title": "llm-cassette added to PyPI",
+          "link": "https://pypi.org/project/llm-cassette/",
           "date": "21 Oct 2026",
-          "summary": "Pressure and temperature swing adsorption (PSA/VSA/TSA) cycle simulator"
+          "summary": "Record and replay LLM agent SDK and tool calls for offline pytest."
         },
         {
-          "title": "dbt-hodor added to PyPI",
-          "link": "https://pypi.org/project/dbt-hodor/",
+          "title": "vipi-scanner added to PyPI",
+          "link": "https://pypi.org/project/vipi-scanner/",
           "date": "21 Oct 2026",
-          "summary": "Reuse unchanged dbt nodes and rebuild only when code or upstream data changed. A free, self-hosted alternative to dbt State."
+          "summary": "Scan images for visual indirect prompt injections"
         },
         {
-          "title": "modeldiff-ml added to PyPI",
-          "link": "https://pypi.org/project/modeldiff-ml/",
+          "title": "better-profanity-rs added to PyPI",
+          "link": "https://pypi.org/project/better-profanity-rs/",
           "date": "21 Oct 2026",
-          "summary": "Behavioral regression testing for machine-learning models"
+          "summary": "Fast drop-in replacement for better_profanity: the same censored text from a Rust core"
         },
         {
-          "title": "hindsight-pg0-configurable added to PyPI",
-          "link": "https://pypi.org/project/hindsight-pg0-configurable/",
+          "title": "kinetic-trust-service added to PyPI",
+          "link": "https://pypi.org/project/kinetic-trust-service/",
           "date": "21 Oct 2026",
-          "summary": "Configurable native PostgreSQL and pgvector launcher for Hindsight on Windows"
+          "summary": "Synchronous KTP v2.1.0 evidence and issuance composition helpers"
         },
         {
-          "title": "textabra-mcp added to PyPI",
-          "link": "https://pypi.org/project/textabra-mcp/",
+          "title": "QuestionBankToolkit added to PyPI",
+          "link": "https://pypi.org/project/questionbanktoolkit/",
           "date": "21 Oct 2026",
-          "summary": "MCP-сервер Textabra: отчёты по страницам, проверки и задания для ИИ-редактора из Claude, Cursor и других агентов"
+          "summary": "Canvas QTI 1.2 question banks from YAML"
         },
         {
-          "title": "draintracer added to PyPI",
-          "link": "https://pypi.org/project/draintracer/",
+          "title": "kinetic-trust-library added to PyPI",
+          "link": "https://pypi.org/project/kinetic-trust-library/",
           "date": "21 Oct 2026",
-          "summary": "Resource growth monitoring for Windows process trees"
+          "summary": "Informative Python reference library for selected KTP protocol primitives"
         },
         {
-          "title": "lgtm-obs added to PyPI",
-          "link": "https://pypi.org/project/lgtm-obs/",
+          "title": "pubchem-finder added to PyPI",
+          "link": "https://pypi.org/project/pubchem-finder/",
           "date": "21 Oct 2026",
-          "summary": "Zero-boilerplate full-stack OpenTelemetry observability for Python apps targeting the Grafana LGTM stack (Loki, Grafana, Tempo, Mimir)."
+          "summary": "Search PubChem by chemical structure: a local similarity and substructure index, live PubChem tools, a CLI and an MCP server"
         },
         {
-          "title": "netbox-windows-dhcp-plugin added to PyPI",
-          "link": "https://pypi.org/project/netbox-windows-dhcp-plugin/",
+          "title": "libidentifier added to PyPI",
+          "link": "https://pypi.org/project/libidentifier/",
           "date": "21 Oct 2026",
-          "summary": "Sync netbox-plugin-dhcp data with Microsoft Windows DHCP servers over WinRM or SSH."
+          "summary": "Offline identification of compiled Android and native libraries from local fingerprints"
         },
         {
-          "title": "crowbar-cli added to PyPI",
-          "link": "https://pypi.org/project/crowbar-cli/",
+          "title": "pydantic-ai-acgs added to PyPI",
+          "link": "https://pypi.org/project/pydantic-ai-acgs/",
           "date": "21 Oct 2026",
-          "summary": "Retrieve CVEs and index them inside your codebase. One SQLite+FTS5 index, one CLI, one MCP server."
+          "summary": "ACGS rule-based tool-call governance for Pydantic AI agents, as a capability"
         },
         {
-          "title": "catsay-py added to PyPI",
-          "link": "https://pypi.org/project/catsay-py/",
+          "title": "mole-viewer added to PyPI",
+          "link": "https://pypi.org/project/mole-viewer/",
           "date": "21 Oct 2026",
-          "summary": "A cute cat that says things in the terminal"
+          "summary": "Lightweight viewer for ensembles of molecular structures with an interactive E vs n plot, fast over SSH/X11"
         },
         {
-          "title": "mpctrano added to PyPI",
-          "link": "https://pypi.org/project/mpctrano/",
+          "title": "MESSY-synth added to PyPI",
+          "link": "https://pypi.org/project/messy-synth/",
           "date": "21 Oct 2026",
-          "summary": "Calibration, state estimation and economic model predictive control of the FastModel building models generated by Trano (rumoca + CasADi + IPOPT)."
+          "summary": "Generate structurally-faithful synthetic raw data from any MEDS-Extract v0.7 MESSY config."
         },
         {
-          "title": "oro-cli added to PyPI",
-          "link": "https://pypi.org/project/oro-cli/",
+          "title": "signalsafe-platform-core added to PyPI",
+          "link": "https://pypi.org/project/signalsafe-platform-core/",
           "date": "21 Oct 2026",
-          "summary": "Command line tool for OpenRobOps (ORO): configuration as code and fleet queries"
+          "summary": "Shared platform-core domain services and repositories"
         },
         {
-          "title": "aiowuji added to PyPI",
-          "link": "https://pypi.org/project/aiowuji/",
+          "title": "signalsafe-learning-core added to PyPI",
+          "link": "https://pypi.org/project/signalsafe-learning-core/",
           "date": "21 Oct 2026",
-          "summary": "Asyncio joint control for the Wuji Hand 2"
+          "summary": "Shared learning-core services and persistence"
         },
         {
-          "title": "nu-lpw-final added to PyPI",
-          "link": "https://pypi.org/project/nu-lpw-final/",
+          "title": "pixelator-calc added to PyPI",
+          "link": "https://pypi.org/project/pixelator-calc/",
           "date": "21 Oct 2026",
-          "summary": "MLOps Lab Practical Work scenario file generator and reference package."
+          "summary": "Pixelator: a command-line calculator with trig, logs, a math quiz, and graphing"
         },
         {
-          "title": "mcmod added to PyPI",
-          "link": "https://pypi.org/project/mcmod/",
+          "title": "polis-genesis added to PyPI",
+          "link": "https://pypi.org/project/polis-genesis/",
           "date": "21 Oct 2026",
-          "summary": "Write Minecraft mods in Python using pluggable loader backends"
+          "summary": "A living autonomous multi agent society simulation with neural minds, realistic economics, and 3D visualizer"
         },
         {
-          "title": "caulk-security added to PyPI",
-          "link": "https://pypi.org/project/caulk-security/",
+          "title": "worldarray added to PyPI",
+          "link": "https://pypi.org/project/worldarray/",
           "date": "21 Oct 2026",
-          "summary": "Deterministic, open-source security checker for modern application repositories."
+          "summary": "Read zarr, N5 and Neuroglancer precomputed volumes in world coordinates through tensorstore: correct voxel placement, pyramid levels, padded region reads, resampling. numpy + tensorstore only."
         },
         {
-          "title": "wuji-macos added to PyPI",
-          "link": "https://pypi.org/project/wuji-macos/",
+          "title": "paras-ilm added to PyPI",
+          "link": "https://pypi.org/project/paras-ilm/",
           "date": "21 Oct 2026",
-          "summary": "Experimental Apple Silicon access to pinned WUJI native SDK components"
+          "summary": "Put any software into your language, and prove it still works: ingestion with BURP into every Hindawi language, one branch per language."
         },
         {
-          "title": "api-sdk-py added to PyPI",
-          "link": "https://pypi.org/project/api-sdk-py/",
+          "title": "sysone added to PyPI",
+          "link": "https://pypi.org/project/sysone/",
           "date": "21 Oct 2026",
-          "summary": "Widgetic API Gateway"
+          "summary": "Fine-tune and calibrate system-one decision models with a scikit-learn style fit / predict interface."
         },
         {
-          "title": "autocompliance added to PyPI",
-          "link": "https://pypi.org/project/autocompliance/",
+          "title": "pyside6-jireh-widgets added to PyPI",
+          "link": "https://pypi.org/project/pyside6-jireh-widgets/",
           "date": "21 Oct 2026",
-          "summary": "Open-source GDPR + SOC 2 compliance autopilot for small businesses."
+          "summary": "Custom widgets para Qt Designer - CollapsibleSection, IconLabel, InputPassword, Spinner, ToggleSwitch, VideoPlayer, SearchBox"
         },
         {
-          "title": "pybox-sandbox added to PyPI",
-          "link": "https://pypi.org/project/pybox-sandbox/",
+          "title": "lasagna-rag added to PyPI",
+          "link": "https://pypi.org/project/lasagna-rag/",
           "date": "21 Oct 2026",
-          "summary": "Run Python you don't trust in a fresh, sealed box on your Mac, and get a receipt for what it did. Works with AI agents over MCP."
+          "summary": "Composable RAG framework and evaluation harness: change one of eight pipeline stages, hold the rest fixed, and benchmark the change against a baseline."
         },
         {
-          "title": "dataquantum-logger added to PyPI",
-          "link": "https://pypi.org/project/dataquantum-logger/",
+          "title": "pyctip added to PyPI",
+          "link": "https://pypi.org/project/pyctip/",
           "date": "21 Oct 2026",
-          "summary": "Python package for simplified and reusable configuration of logging to files and the console."
+          "summary": "Python SDK for the Mach Line Cyber Threat Intelligence Platform"
         },
         {
-          "title": "pysewer added to PyPI",
-          "link": "https://pypi.org/project/pysewer/",
+          "title": "redlem-force added to PyPI",
+          "link": "https://pypi.org/project/redlem-force/",
           "date": "21 Oct 2026",
-          "summary": "A Python package for automated routing and optimization of sewer networks"
+          "summary": "Extract DLEM forcing data (URMA met + PRISM/URMA precip) for reservoir geometries from Google Earth Engine."
         },
         {
-          "title": "talkpipe-agents added to PyPI",
-          "link": "https://pypi.org/project/talkpipe-agents/",
+          "title": "voce added to PyPI",
+          "link": "https://pypi.org/project/voce/",
           "date": "21 Oct 2026",
-          "summary": "Agentic segments for talkpipe, built on Strands Agents: deterministic pipelines with bounded tool-using steps"
+          "summary": "Read Markdown aloud in your terminal, highlighting each sentence and word as it is spoken. Reads code the way a pairing partner says it."
         },
         {
-          "title": "polars-ros added to PyPI",
-          "link": "https://pypi.org/project/polars-ros/",
+          "title": "numpy-algebras added to PyPI",
+          "link": "https://pypi.org/project/numpy-algebras/",
           "date": "21 Oct 2026",
-          "summary": "Regression on Order Statistics and bootstrap confidence intervals for Polars"
+          "summary": "Custom number types for numpy."
         },
         {
-          "title": "forculus-client added to PyPI",
-          "link": "https://pypi.org/project/forculus-client/",
+          "title": "modeltrees added to PyPI",
+          "link": "https://pypi.org/project/modeltrees/",
           "date": "21 Oct 2026",
-          "summary": "Call the Forculus API from code: deploy, share, read the audit log and manage tokens."
+          "summary": "Model-based recursive partitioning (MOB) ported from R's partykit, with negative binomial, safe logit and multinomial node models"
         }
       ]
     }
