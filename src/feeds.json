@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-30T16:52:57Z",
+  "generated": "2026-10-30T21:15:30Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,18 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "Reddit stock plunges 30% as Google's AI search threatens traffic and user growth",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/reddit-plunges-23-as-googles-ai-search-threatens-traffic-and-user-growth/articleshow/135374718.cms",
+          "date": "31 Oct 2026",
+          "summary": "Reddit shares plunged 23% after the company warned that Google's AI powered search features were hurting referral traffic and could lead to a decline in daily active users. Pinterest also fell after issuing a weaker revenue outlook, as pressure on European cro…"
+        },
+        {
+          "title": "Intel stock plunges 30% as weak PC demand and AI costs trigger global chip selloff",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/intel-plunges-25-as-weak-pc-demand-and-ai-costs-trigger-global-chip-selloff/articleshow/135371230.cms",
+          "date": "30 Oct 2026",
+          "summary": "Intel shares plunged 30% after the chipmaker issued a weak fourth-quarter revenue forecast and warned of negative cash flow for the year. The warning triggered a global semiconductor selloff, with Nvidia, AMD and other chip stocks declining as weak PC demand a…"
+        },
         {
           "title": "Sun Pharma Q2 Results: Profit falls 36% YoY to Rs 1,989 crore on exceptional charges",
           "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/sun-pharma-q2-results-profit-falls-36-yoy-to-rs-1989-crore-on-exceptional-charges/articleshow/135352681.cms",
@@ -30,18 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/biggest-crypto-heist-in-history-how-binances-6-billion-hack-rattled-markets-and-what-it-means-for-investors/articleshow/135348042.cms",
           "date": "30 Oct 2026",
           "summary": "Binance is investigating a reported security breach estimated to have caused $6.3 billion in losses, with North Korea-linked hackers suspected by TRM Labs. The exchange says user funds are safe and has pledged to cover all losses."
-        },
-        {
-          "title": "Nifty rout hides a striking bull run: Smallcap universe gives 60 multibaggers since last Diwali",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-rout-hides-a-striking-bull-run-smallcap-universe-gives-60-multibaggers-since-last-diwali/articleshow/135343361.cms",
-          "date": "30 Oct 2026",
-          "summary": "The stock market in India has encountered a rough patch, evidenced by the Nifty's decline of over 11% since last Diwali. However, smallcap stocks have emerged as stars, with 60 multibagger stocks tripling investors' money; Sterlite Technologies notably climbed…"
-        },
-        {
-          "title": "Laurus Labs shares climb 4% after Q2 profit zooms 126% YoY",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/laurus-labs-shares-climb-4-after-q2-profit-zooms-126-yoy/articleshow/135343867.cms",
-          "date": "30 Oct 2026",
-          "summary": "Laurus Labs shares rose 3.79% to Rs 2,329 after the pharmaceutical company reported strong Q2FY27 results. Revenue increased 33% year-on-year to Rs 2,206 crore, while net profit more than doubled to Rs 441 crore. Growth was supported by sustained momentum in i…"
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -196,20 +196,170 @@
       "ok": true,
       "items": [
         {
-          "title": "$6.3bn gone in 20 mins: How North Korean hackers pulled off crypto's biggest-ever heist",
+          "title": "Google loses $500bn as China suffers worst rout since 2016: What's happening?",
+          "link": "https://timesofindia.indiatimes.com/business/international-business/google-loses-500bn-as-china-stocks-suffer-worst-rout-since-2016-whats-happening-to-global-ai/articleshow/135369988.cms",
+          "date": "30 Oct 2026",
+          "summary": ""
+        },
+        {
+          "title": "Isro’s NVS-03 launch successful: Navigation satellite placed in orbit; NavIC gets a boost",
+          "link": "https://timesofindia.indiatimes.com/india/isros-gslv-f18/nvs-03-mission-successful-next-generation-navigation-satellite-placed-in-orbit-navic-constellation-gets-a-boost/articleshow/135374721.cms",
+          "date": "31 Oct 2026",
+          "summary": "GSLV-F18 carrying 2,250kg next-generation navigation satellite -- NVS-03 -- lifted off from the second launch pad at the Satish Dhawan Space Centre (SDSC-SHAR) in Sriharikota at 11.51pm on Friday, as scheduled. Around 18 minutes later, NVS-03 satellite was pla…"
+        },
+        {
+          "title": "PM-President face-off in Poland: Top court chief suspended, court cries 'coup d'etat'",
+          "link": "https://timesofindia.indiatimes.com/world/europe/pm-president-face-off-in-poland-top-court-chief-suspended-court-cries-coup-detat-as-nawrocki-returns/articleshow/135377285.cms",
+          "date": "31 Oct 2026",
+          "summary": ""
+        },
+        {
+          "title": "End of SIR doesn't mean freezing of voters list: SC",
+          "link": "https://timesofindia.indiatimes.com/india/end-of-sir-doesnt-mean-freezing-of-voters-list-sc/articleshow/135376933.cms",
+          "date": "31 Oct 2026",
+          "summary": ""
+        },
+        {
+          "title": "Opposition trying to foment anarchy amid global crisis, says PM Modi",
+          "link": "https://timesofindia.indiatimes.com/city/ahmedabad/oppn-trying-to-foment-anarchy-amid-global-crisis-says-modi/articleshow/135375447.cms",
+          "date": "31 Oct 2026",
+          "summary": ""
+        },
+        {
+          "title": "Elon Musk shares 'whole schedule' on how he spends time with his 14 children",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/likely-for-the-first-time-ever-elon-musk-shares-the-whole-schedule-on-how-he-spends-time-with-his-14-children-says-i-see-my-kids-with-/articleshow/135371872.cms",
+          "date": "30 Oct 2026",
+          "summary": "Elon Musk recently disclosed details regarding his co-parenting schedule for his 14 children. He clarified that his five older children are adults living independently. Musk sees his kids with Claire every other week and his children with Shivon every few days…"
+        },
+        {
+          "title": "30% in 2019, cancer drug margins at 700% now",
+          "link": "https://timesofindia.indiatimes.com/india/30-in-19-cancer-drug-margins-at-700-now/articleshow/135377800.cms",
+          "date": "31 Oct 2026",
+          "summary": ""
+        },
+        {
+          "title": "Virginia woman's ice cream shops now employ 35 people with disabilities",
+          "link": "https://timesofindia.indiatimes.com/world/us/a-retired-virginia-optometrist-opened-an-ice-cream-shop-in-2021-to-create-jobs-for-people-with-disabilities-her-two-stores-now-employ-35-and-she-says-there-is-a-waiting-list-to-work-there/articleshow/135222526.cms",
+          "date": "31 Oct 2026",
+          "summary": "By 2026, Robin Rinearson’s ventures, Jake’s Ice Cream and Jake’s Gourmet Popcorn, have emerged as crucial employers for individuals with disabilities. With 35 staff members, these businesses emphasize skills enhancement and sustainable positions. Employees exp…"
+        },
+        {
+          "title": "Over 100 EWS candidates allotted open PG seats in private colleges with fees up to Rs 2cr",
+          "link": "https://timesofindia.indiatimes.com/india/over-100-ews-candidates-allotted-open-pg-seats-in-pvt-colleges-with-fees-up-to-2crore/articleshow/135377916.cms",
+          "date": "31 Oct 2026",
+          "summary": ""
+        },
+        {
+          "title": "Rahul Gandhi vs Nirmala Sitharaman round 2, this time over IDBI Bank stake sale",
+          "link": "https://timesofindia.indiatimes.com/india/rahul-gandhi-vs-nirmala-sitharaman-round-2-this-time-over-idbi-bank-stake-sale/articleshow/135377041.cms",
+          "date": "31 Oct 2026",
+          "summary": ""
+        },
+        {
+          "title": "India's poverty will be down from 14.2% to 12.1% in 2 years: World Bank",
+          "link": "https://timesofindia.indiatimes.com/india/indias-poverty-will-be-down-from-14-2-to-12-1-in-2-years-world-bank/articleshow/135377216.cms",
+          "date": "31 Oct 2026",
+          "summary": ""
+        },
+        {
+          "title": "Woman uses inheritance to protect 140-acre Canadian island forest",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/a-woman-used-her-grandmothers-inheritance-to-buy-into-a-canadian-island-property-in-1981-45-years-later-she-and-her-partner-have-protected-140-acres-of-forest-while-keeping-their-20-acre-homestead/articleshow/135368298.cms",
+          "date": "30 Oct 2026",
+          "summary": "Domena Diesing took a significant step by investing her grandmother's legacy to safeguard 140 acres of Lasqueti Island, Canada. By teaming up with the BC Parks Foundation, she secured a permanent conservation status for the land, enhancing a vast connected res…"
+        },
+        {
+          "title": "Family-owned since 1908, Pennsylvania's Penn's Cave seeks new owner",
+          "link": "https://timesofindia.indiatimes.com/world/us/a-pennsylvania-family-has-owned-penns-cave-since-1908-and-expanded-its-land-to-protect-its-water-118-years-later-the-1400-acre-attraction-with-a-cavern-wildlife-park-and-airport-is-seeking-a-new-owner/articleshow/135367947.cms",
+          "date": "30 Oct 2026",
+          "summary": "The Campbell family has put Penn's Cave and Wildlife Park in Centre Hall up for sale, ending a remarkable 118-year legacy. With a listing price of $34 million, this expansive estate includes an impressive limestone cave system, a vibrant wildlife park, and a p…"
+        },
+        {
+          "title": "Melinda French Gates says her 2-day rule helps employees know they did a good job",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/melinda-french-gates-has-a-2-day-rule-for-employees-she-says-that-if-they-pass-this-they-can-be-confident-that-the-job-they-did-was-good/articleshow/135360146.cms",
+          "date": "30 Oct 2026",
+          "summary": "Melinda French Gates implements a 48-hour feedback rule for employees to manage work conflicts effectively. This approach allows employees to feel secure in their performance evaluations as surprises are avoided. She emphasizes the importance of giving honest…"
+        },
+        {
+          "title": "Idaho court revives farm couple's 5.95-acre claim after decades of use",
+          "link": "https://timesofindia.indiatimes.com/world/us/an-idaho-couple-who-have-farmed-beside-a-barbed-wire-fence-since-1979-fought-the-state-over-5-95-acres-and-an-october-27-supreme-court-ruling-reversed-the-states-title-victory-and-reopened-their-ownership-claim/articleshow/135347836.cms",
+          "date": "30 Oct 2026",
+          "summary": "An Idaho couple who have farmed beside an old barbed-wire fence since 1979 are fighting the state over 5.95 acres of land they believed was theirs. Greg and Leah Sempel say they used the land for decades before Idaho acquired the neighbouring property in 1996.…"
+        },
+        {
+          "title": "Tanker with 27 Indian seafarers targeted in first-ever limpet mine attack in Hormuz",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/tanker-with-27-indian-seafarers-targeted-in-first-ever-limpet-mine-attack-in-strait-of-hormuz/articleshow/135371354.cms",
+          "date": "30 Oct 2026",
+          "summary": "On October 29 and 30, two oil tankers were targeted in separate attacks in the Strait of Hormuz. MT LOUISE 1 was struck by limpet mines that caused a fire in its engine room. The Strait of Hormuz is one of the world's most important oil export routes, connecti…"
+        },
+        {
+          "title": "'Global South bears burden': EAM flags attacks on Indian seafarers in Hormuz at G20 meet",
+          "link": "https://timesofindia.indiatimes.com/india/global-south-bears-burden-at-g20-meet-jaishankar-flags-attacks-on-ships-indian-seafarers-in-hormuz/articleshow/135373502.cms",
+          "date": "30 Oct 2026",
+          "summary": ""
+        },
+        {
+          "title": "Patrick and Brittany Mahomes’ $325M KC Current opens soccer doors for kids",
+          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/patrick-mahomes-and-brittany-mahomes-325-million-kc-current-opens-new-doors-for-120-children-with-free-soccer-league/articleshow/135306001.cms",
+          "date": "30 Oct 2026",
+          "summary": "The Kansas City Current launched a free youth soccer league in July to help children overcome financial barriers to sports. The program provides 120 players aged 8 to 10 with uniforms, Nike cleats and equipment at no cost. Supported by community partners, the…"
+        },
+        {
+          "title": "Andre Agassi and Steffi Graf donate $1 million to Las Vegas charity",
+          "link": "https://timesofindia.indiatimes.com/sports/international-sports/theyve-been-there-with-me-every-step-along-how-andre-agassi-and-steffi-graf-surprise-las-vegas-charity-with-1-million-donation-after-years-of-support/articleshow/135344543.cms",
+          "date": "30 Oct 2026",
+          "summary": "In a heartwarming display of philanthropy, tennis legends Andre Agassi and Steffi Graf pledged $1 million at a charity gala, bolstering the efforts of Keep Memory Alive, which benefits the Cleveland Clinic Lou Ruvo Center for Brain Health. Agassi was honored f…"
+        },
+        {
+          "title": "Father's death, a promise and Worlds gold: Manisha Bhanwala's story",
+          "link": "https://timesofindia.indiatimes.com/sports/more-sports/wrestling/fathers-death-thoughts-of-quitting-wrestling-a-promise-and-world-championship-gold-manisha-bhanwalas-story/articleshow/135371066.cms",
+          "date": "30 Oct 2026",
+          "summary": "Manisha Bhanwala defeated American Abigail Nette 8-6 in a thrilling comeback victory in the final to become the first Indian woman wrestler to win a World Championships gold. But behind this historic achievement was a personal story of loss, family sacrifices…"
+        },
+        {
+          "title": "HC seeks status report on reuniting deported Pak-born teen with Indian father in J&amp;K",
+          "link": "https://timesofindia.indiatimes.com/india/hc-seeks-status-report-on-reuniting-deported-pak-born-teen-with-indian-father-in-jk/articleshow/135375673.cms",
+          "date": "31 Oct 2026",
+          "summary": ""
+        },
+        {
+          "title": "Payday to mayday: The hike mirage and why bigger salaries still feel smaller",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/payday-to-mayday-the-hike-mirage-and-why-bigger-salaries-still-feel-smaller/articleshow/135362323.cms",
+          "date": "30 Oct 2026",
+          "summary": "In India, salary increases of approximately 9% are falling short against the backdrop of soaring living costs and inflation. Families are grappling with heightened expenses on essentials like food and fuel, resulting in diminished disposable incomes. This wide…"
+        },
+        {
+          "title": "Paid to hire, paid to work: Inside India’s Rs 99,446 cr plan to reshape formal workforce",
+          "link": "https://timesofindia.indiatimes.com/india/paid-to-hire-paid-to-work-inside-indias-rs-99446-cr-plan-to-reshape-the-formal-workforce/articleshow/135360927.cms",
+          "date": "30 Oct 2026",
+          "summary": "Pradhan Mantri Viksit Bharat Rozgar Yojana (PMVBRY) is introduced to enhance formal employment across various sectors. The scheme includes financial incentives for both employers and first-time employees entering the formal job market. PMVBRY aims to create mo…"
+        },
+        {
+          "title": "'Europeans balked': G20 foreign ministers' meeting opens without group photo. Here's why",
+          "link": "https://timesofindia.indiatimes.com/world/us/europeans-balked-g20-foreign-ministers-meeting-opens-without-group-photo-heres-why/articleshow/135370897.cms",
+          "date": "30 Oct 2026",
+          "summary": ""
+        },
+        {
+          "title": "Designed to cripple, not sink: How limpet mines hit tanker with 27 Indians",
+          "link": "https://timesofindia.indiatimes.com/defence/international/designed-to-cripple-not-sink-how-limpet-mines-hit-tanker-with-27-indians/articleshow/135372750.cms",
+          "date": "30 Oct 2026",
+          "summary": ""
+        },
+        {
+          "title": "$6.3bn gone in 20 mins: How North Korean hackers pulled off biggest crypto heist",
           "link": "https://timesofindia.indiatimes.com/business/international-business/6-3-billion-gone-north-korea-link-inside-the-crypto-heist-at-worlds-largest-exchange-binance/articleshow/135351366.cms",
           "date": "30 Oct 2026",
           "summary": "Hackers executed the largest theft in cryptocurrency history by stealing $6.36 billion from Binance wallets. The theft involved moving funds across 10 blockchains in a short time span. TRM Labs has linked the attack to TraderTraitor, an elite hacking unit from…"
         },
         {
-          "title": "Trump gives reporter fitness lecture as MAGA loses shape",
-          "link": "https://timesofindia.indiatimes.com/world/us/trump-gives-reporter-fitness-lecture-as-maga-loses-shape/articleshow/135368928.cms",
+          "title": "‘Class 12-pass mafia’: Ritabrata Banerjee hits back at Abhishek's warning to cops",
+          "link": "https://timesofindia.indiatimes.com/india/class-12-pass-mafia-bengal-lop-ritabrata-banerjee-hits-back-at-abhisheks-warning-to-cops/articleshow/135371662.cms",
           "date": "30 Oct 2026",
-          "summary": ""
+          "summary": "Ritabrata Banerjee has responded strongly to Abhishek Banerjee's warning issued to West Bengal police officers. He accused Abhishek of arrogance and urged the state government to take action against him. Additionally, Ritabrata challenged Abhishek to visit a t…"
         },
         {
-          "title": "Uttarakhand chopper flying: A lot has changed for better, but a lot remains to be done",
-          "link": "https://timesofindia.indiatimes.com/india/uttarakhand-chopper-flying-a-lot-has-changed-for-better-but-a-lot-remains-to-be-done/articleshow/135369404.cms",
+          "title": "Trump gives reporter fitness lecture as MAGA loses shape",
+          "link": "https://timesofindia.indiatimes.com/world/us/trump-gives-reporter-fitness-lecture-as-maga-loses-shape/articleshow/135368928.cms",
           "date": "30 Oct 2026",
           "summary": ""
         },
@@ -220,160 +370,10 @@
           "summary": "Mumbai Indians batting coach Robin Uthappa wants the team to become a force not just at the Wankhede Stadium but also at every other venue in the IPL. He believes the five-time champions must win back the trust of their fans after a disappointing 2025 season.…"
         },
         {
-          "title": "'No' to peace bond, 'yes' to INDIA bloc: Has Neha Bora outsmarted CJP leaders?",
-          "link": "https://timesofindia.indiatimes.com/india/no-to-peace-bond-yes-to-india-bloc-has-neha-bora-outsmarted-cjp-leaders/articleshow/135362530.cms",
-          "date": "30 Oct 2026",
-          "summary": "AISA leader Neha Bora's refusal to sign peace bonds led to obvious comparisions with the CJP leadership who opted to comply with conditions set for their release from detention during Jantar Mantar 2.0 protests. The CJP faced significant challenges in organizi…"
-        },
-        {
-          "title": "Melinda French Gates says her 2-day rule helps employees know they did a good job",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/melinda-french-gates-has-a-2-day-rule-for-employees-she-says-that-if-they-pass-this-they-can-be-confident-that-the-job-they-did-was-good/articleshow/135360146.cms",
-          "date": "30 Oct 2026",
-          "summary": "Melinda French Gates implements a 48-hour feedback rule for employees to manage work conflicts effectively. This approach allows employees to feel secure in their performance evaluations as surprises are avoided. She emphasizes the importance of giving honest…"
-        },
-        {
-          "title": "Two days of rain bring Delhi’s AQI down to 60; minister credits ‘targeted action’",
-          "link": "https://timesofindia.indiatimes.com/city/delhi/two-days-of-rain-bring-delhis-aqi-down-to-60-minister-credits-targeted-action-for-cleaner-air/articleshow/135367564.cms",
-          "date": "30 Oct 2026",
-          "summary": "Delhi has experienced significant improvements in air quality due to recent rainfall and government initiatives. The average Air Quality Index for October was lower compared to previous years. Rainfall contributed significantly, with over eight times the norma…"
-        },
-        {
-          "title": "Woman uses inheritance to protect 140-acre Canadian island forest",
-          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/a-woman-used-her-grandmothers-inheritance-to-buy-into-a-canadian-island-property-in-1981-45-years-later-she-and-her-partner-have-protected-140-acres-of-forest-while-keeping-their-20-acre-homestead/articleshow/135368298.cms",
-          "date": "30 Oct 2026",
-          "summary": "Domena Diesing took a significant step by investing her grandmother's legacy to safeguard 140 acres of Lasqueti Island, Canada. By teaming up with the BC Parks Foundation, she secured a permanent conservation status for the land, enhancing a vast connected res…"
-        },
-        {
-          "title": "Hasina video, RAW links: What ex-Bangladesh officer revealed before mysterious death",
-          "link": "https://timesofindia.indiatimes.com/world/south-asia/hasina-video-raw-allegations-what-ex-bangladesh-officer-revealed-in-podcast-before-mysterious-death/articleshow/135350976.cms",
+          "title": "Sena MLA makes shocking remark on farmers' suicide, later clarifies",
+          "link": "https://timesofindia.indiatimes.com/india/dont-go-to-their-funerals-sena-mla-makes-shocking-remark-on-farmers-suicide-later-clarifies/articleshow/135370937.cms",
           "date": "30 Oct 2026",
           "summary": ""
-        },
-        {
-          "title": "Manisha Bhanwala becomes India's first women's world wrestling champion",
-          "link": "https://timesofindia.indiatimes.com/sports/more-sports/wrestling/manisha-bhanwala-creates-history-becomes-indias-first-ever-womens-world-wrestling-champion/articleshow/135365946.cms",
-          "date": "30 Oct 2026",
-          "summary": "In a breathtaking gold medal bout, Manisha overturned a daunting 0-6 deficit to defeat Pan American champion Abigail Nette 8-6. Refusing to surrender despite falling behind early, the Indian wrestler mounted a remarkable comeback to turn the contest on its hea…"
-        },
-        {
-          "title": "Indian national jailed for 8 yrs in US over laundering case targeting the elderly",
-          "link": "https://timesofindia.indiatimes.com/world/us/indian-national-jailed-for-8-years-in-us-over-laundering-case-targeting-elderly-people-ordered-to-pay-2-4m-to-victims/articleshow/135368796.cms",
-          "date": "30 Oct 2026",
-          "summary": ""
-        },
-        {
-          "title": "Patrick Stewart's $3.9M Brooklyn sale revealed after death at 86",
-          "link": "https://timesofindia.indiatimes.com/real-estate/news/patrick-stewart-bought-a-brooklyn-carriage-house-duplex-for-2-5-million-in-2012-and-quietly-sold-it-for-3-9-million-in-2025-the-deal-has-come-to-light-following-the-star-trek-actors-death-at-86/articleshow/135367925.cms",
-          "date": "30 Oct 2026",
-          "summary": "Star Trek and X-Men star Patrick Stewart quietly sold his Brooklyn apartment for $3.9 million in July 2025, more than a decade after purchasing it for $2.5 million. The actor made a $1.4 million gain on the sale. The transaction has come into focus following h…"
-        },
-        {
-          "title": "Georgia parents' $37m verdict cut to $2m, appeals court raises it to $3m",
-          "link": "https://timesofindia.indiatimes.com/world/us/a-georgia-couple-won-a-37-million-jury-verdict-after-their-three-year-old-son-died-during-hospital-treatment-but-a-judge-cut-it-to-2-million-an-october-28-appeals-ruling-now-raises-the-judgment-to-3-million/articleshow/135355640.cms",
-          "date": "30 Oct 2026",
-          "summary": "A couple in Georgia has triumphed in their legal battle, securing a $3 million judgment after an appeals court re-evaluated their son's death case. This decision overturned a previous reduction of a $37 million jury award to just $2 million. Their son, who suc…"
-        },
-        {
-          "title": "US issues power grid emergency in 13 states: Reason and what it means for residents",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/us-department-of-energy-declares-power-grid-emergency-in-13-states-what-it-is-and-what-it-means-for-the-residents-of-the-states-impacted/articleshow/134915660.cms",
-          "date": "13 Oct 2026",
-          "summary": "In response to heightened electricity demands driven by weather fluctuations and maintenance outages, U.S. Secretary of Energy Chris Wright has issued an emergency order permitting PJM Interconnection to activate essential power generation units. This directiv…"
-        },
-        {
-          "title": "Family-owned since 1908, Pennsylvania's Penn's Cave seeks new owner",
-          "link": "https://timesofindia.indiatimes.com/world/us/a-pennsylvania-family-has-owned-penns-cave-since-1908-and-expanded-its-land-to-protect-its-water-118-years-later-the-1400-acre-attraction-with-a-cavern-wildlife-park-and-airport-is-seeking-a-new-owner/articleshow/135367947.cms",
-          "date": "30 Oct 2026",
-          "summary": "The Campbell family has put Penn's Cave and Wildlife Park in Centre Hall up for sale, ending a remarkable 118-year legacy. With a listing price of $34 million, this expansive estate includes an impressive limestone cave system, a vibrant wildlife park, and a p…"
-        },
-        {
-          "title": "Population census from Jan 25-Feb 28 2027; poll-bound, snow-bound areas excluded",
-          "link": "https://timesofindia.indiatimes.com/india/census-2027-population-enumeration-from-jan-25-feb-28-2027-poll-bound-snow-bound-areas-excluded/articleshow/135368183.cms",
-          "date": "30 Oct 2026",
-          "summary": ""
-        },
-        {
-          "title": "Big Tech's AI spending spree puts over $2 trillion in Nasdaq market value at risk",
-          "link": "https://timesofindia.indiatimes.com/business/international-business/big-techs-ai-spending-spree-puts-over-2-trillion-in-nasdaq-market-value-at-risk/articleshow/135368324.cms",
-          "date": "30 Oct 2026",
-          "summary": "As concerns rise over the Nasdaq 100, which faces risks surpassing $2 trillion this month, investors are questioning the viability of major AI investments. With firms like Meta and Alphabet boosting their spending projections, uncertainties around profitabilit…"
-        },
-        {
-          "title": "Patrick and Brittany Mahomes’ $325M KC Current opens soccer doors for kids",
-          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/patrick-mahomes-and-brittany-mahomes-325-million-kc-current-opens-new-doors-for-120-children-with-free-soccer-league/articleshow/135306001.cms",
-          "date": "30 Oct 2026",
-          "summary": "The Kansas City Current launched a free youth soccer league in July to help children overcome financial barriers to sports. The program provides 120 players aged 8 to 10 with uniforms, Nike cleats and equipment at no cost. Supported by community partners, the…"
-        },
-        {
-          "title": "Travis Kelce vs Patrick Mahomes: Who gives more to charity and community work?",
-          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/travis-kelce-vs-patrick-mahomes-which-chiefs-superstar-has-made-a-bigger-impact-through-charitable-donations-and-community-work/articleshow/135347126.cms",
-          "date": "30 Oct 2026",
-          "summary": "Travis Kelce and Patrick Mahomes have turned their NFL success into meaningful charitable work through their respective foundations. Kelce has contributed nearly $2 million to Operation Breakthrough, supporting education and career opportunities for underserve…"
-        },
-        {
-          "title": "Dravid, Sehwag named in India squad for U19 Asia Cup",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/anvay-dravid-aaryavir-sehwag-named-in-india-squad-for-u19-asia-cup/articleshow/135359865.cms",
-          "date": "30 Oct 2026",
-          "summary": "Anvay Dravid and Aaryavir Sehwag have been named in India's squad for the upcoming ACC Men's U19 Asia Cup. The tournament will be held in Muscat, Oman, from November 5 to 14. The 17-year-old Anvay and 19-year-old Aaryavir earned their places after impressive p…"
-        },
-        {
-          "title": "BJP plans counter-protest against oppn's march, 1984 anti-Sikh riots to be in focus",
-          "link": "https://timesofindia.indiatimes.com/india/bjp-plans-counter-protest-against-india-blocs-delhi-chalo-rally-1984-anti-sikh-riots-to-be-in-focus/articleshow/135367449.cms",
-          "date": "30 Oct 2026",
-          "summary": ""
-        },
-        {
-          "title": "Reliance Q2 results: RIL posts record Rs 29,550 crore quarterly profit",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/reliance-q2-results-ril-posts-record-rs-29550-crore-quarterly-profit-revenue-hits-rs-3-62-lakh-crore/articleshow/135367923.cms",
-          "date": "30 Oct 2026",
-          "summary": "Reliance Industries Limited announced impressive figures for FY27, with consolidated gross revenue peaking at Rs 3,62,268 crore. The company experienced a remarkable profit growth of 33.8%, reaching Rs 29,550 crore, largely due to a stellar 67.9% rise in oil-t…"
-        },
-        {
-          "title": "Two friends turn $15 Denver haunted house into 18 Halloween attractions",
-          "link": "https://timesofindia.indiatimes.com/world/us/in-2002-two-friends-began-selling-15-tickets-to-a-strip-mall-haunted-house-in-denver-by-2026-their-business-had-expanded-to-18-halloween-attractions-and-around-4500-seasonal-jobs/articleshow/135358103.cms",
-          "date": "30 Oct 2026",
-          "summary": "Two friends, Chris Stafford and Warren Conard, opened a haunted house in a Denver shopping complex in 2002, charging $15 per ticket. What began as a side business has grown into a multimillion-dollar company with 18 seasonal Halloween attractions across the US…"
-        },
-        {
-          "title": "Air Marshal Inderpal Singh Walia appointed IAF vice-chief",
-          "link": "https://timesofindia.indiatimes.com/defence/news/air-marshal-inderpal-singh-walia-appointed-iaf-vice-chief/articleshow/135363738.cms",
-          "date": "30 Oct 2026",
-          "summary": ""
-        },
-        {
-          "title": "Jharkhand women turn Rs 2 savings into Rs 6 lakh ragi collective",
-          "link": "https://timesofindia.indiatimes.com/life-style/people/women-in-a-jharkhand-village-began-by-saving-just-rs-2-each-years-later-kunwari-barwa-helped-build-a-1501-member-ragi-collective-reporting-rs-6-7-lakh-in-monthly-sales-and-regular-work-for-over-150-women/articleshow/135354420.cms",
-          "date": "30 Oct 2026",
-          "summary": "Kunwari Barwa's initiatives began with a self-help group where women saved small amounts of money together. As the group expanded, they formed a farmer producer organisation focused on ragi cultivation and product sales. The collective now boasts 1,501 members…"
-        },
-        {
-          "title": "Meet Landon Hoberman: Teen’s campaign prevents 8.1 million plastic utensils",
-          "link": "https://timesofindia.indiatimes.com/world/us/meet-landon-hoberman-17-from-new-jersey-whose-campaign-to-stop-unwanted-plastic-cutlery-is-credited-with-preventing-8-1-million-single-use-utensils-and-saving-restaurants-more-than-200000/articleshow/135364478.cms",
-          "date": "30 Oct 2026",
-          "summary": "Landon Hoberman, a 17-year-old from New Jersey, has made remarkable strides in reducing plastic cutlery usage in restaurants. His campaign has succeeded in keeping over 8 million utensils out of landfills, while restaurants collectively saved more than $200,00…"
-        },
-        {
-          "title": "Jason Statham’s £20m coastal estate faces scrutiny over summerhouse use",
-          "link": "https://timesofindia.indiatimes.com/world/uk/in-2024-jason-statham-bought-a-20-acre-english-coastal-estate-for-about-20-million-in-2026-a-planning-rule-from-1973-put-its-two-storey-summerhouse-under-scrutiny-over-use-as-guest-accommodation/articleshow/135222492.cms",
-          "date": "29 Oct 2026",
-          "summary": "Jason Statham and Rosie Huntington-Whiteley are facing challenges in planning the summerhouse at their Hampshire estate. They have submitted a request for a certificate of lawfulness to transform the structure, initially approved as a swimming-pool pavilion, i…"
-        },
-        {
-          "title": "'Arrest heads of Arab parties for stealing elections': Israel minister Ben Gvir",
-          "link": "https://timesofindia.indiatimes.com/world/middle-east/arrest-heads-of-arab-parties-for-stealing-elections-israel-national-security-minister-ben-gvir/articleshow/135364775.cms",
-          "date": "30 Oct 2026",
-          "summary": ""
-        },
-        {
-          "title": "Gold hits one-year low, silver slips below $50 as inflation fears bite",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/gold-hits-one-year-low-silver-slips-below-50-as-inflation-fears-bite/articleshow/135367179.cms",
-          "date": "30 Oct 2026",
-          "summary": "Gold and silver prices have plummeted to their lowest in a year as energy costs surge and inflation remains a pressing concern. The decline in precious metals mirrors waning investor confidence, driven by fears over persistently high interest rates set by the…"
-        },
-        {
-          "title": "India's forex kitty shrinks by $1.27 billion as gold reserves slide",
-          "link": "https://timesofindia.indiatimes.com/business/india-business/indias-forex-kitty-shrinks-by-1-27-billion-as-gold-reserves-slide-bank-credit-growth-accelerates/articleshow/135366420.cms",
-          "date": "30 Oct 2026",
-          "summary": "In the week ending October 23, India witnessed a decline in foreign exchange reserves, dropping by $1.269 billion to a total of $719.748 billion. This decrease was primarily driven by a notable reduction in the value of gold reserves. However, foreign currency…"
         }
       ]
     },
@@ -383,6 +383,12 @@
       "cat": "Machine Learning",
       "ok": true,
       "items": [
+        {
+          "title": "nemotron-halloween",
+          "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+          "date": "30 Oct 2026",
+          "summary": ""
+        },
         {
           "title": "Granite Switch 4.1.1 — Update models like you update software",
           "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
@@ -405,12 +411,6 @@
           "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
           "link": "https://huggingface.co/blog/anydecisionmodel",
           "date": "29 Oct 2026",
-          "summary": ""
-        },
-        {
-          "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-          "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-          "date": "28 Oct 2026",
           "summary": ""
         },
         {
@@ -569,189 +569,8 @@
       "url": "https://deepmind.google/blog/feed",
       "name": "Google DeepMind",
       "cat": "AI Research",
-      "ok": true,
-      "items": [
-        {
-          "title": "Gemini 4 Carbon: Our next frontier model",
-          "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-          "date": "28 Oct 2026",
-          "summary": ""
-        },
-        {
-          "title": "Genie 4: A new generation of world simulation",
-          "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-          "date": "27 Oct 2026",
-          "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation."
-        },
-        {
-          "title": "Beyond tree cover: mapping the world’s forest types",
-          "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-          "date": "22 Oct 2026",
-          "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types."
-        },
-        {
-          "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-          "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-          "date": "15 Oct 2026",
-          "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science."
-        },
-        {
-          "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-          "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-          "date": "14 Oct 2026",
-          "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress."
-        },
-        {
-          "title": "Developing Gemini 4 Argon responsibly and safely",
-          "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-          "date": "13 Oct 2026",
-          "summary": ""
-        },
-        {
-          "title": "Gemini 4 Argon for Robotics",
-          "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-          "date": "13 Oct 2026",
-          "summary": ""
-        },
-        {
-          "title": "Gemini 4 Argon: Built to solve your hardest problems",
-          "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-          "date": "13 Oct 2026",
-          "summary": ""
-        },
-        {
-          "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-          "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-          "date": "6 Oct 2026",
-          "summary": ""
-        },
-        {
-          "title": "Gemini 4 Argon: our next era of frontier intelligence",
-          "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-          "date": "30 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "Introducing SynthID Bio",
-          "link": "https://deepmind.google/blog/introducing-synthid-bio/",
-          "date": "30 Sep 2026",
-          "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function."
-        },
-        {
-          "title": "Introducing Gemini 3.8 Live with Live Avatar",
-          "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-          "date": "24 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "Advancing Private AI Compute with secure, server-side memory",
-          "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-          "date": "23 Sep 2026",
-          "summary": "Introducing private, server-side memory to Private AI Compute for personal AI."
-        },
-        {
-          "title": "Gemini 3.8 text-to-speech says hello",
-          "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-          "date": "23 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-          "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-          "date": "15 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-          "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-          "date": "8 Sep 2026",
-          "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome."
-        },
-        {
-          "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-          "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-          "date": "3 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "Proactive cyber defense for governments and enterprises",
-          "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
-          "date": "2 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-          "link": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-          "date": "2 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "Introducing agentic video understanding with Gemini",
-          "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
-          "date": "1 Sep 2026",
-          "summary": ""
-        },
-        {
-          "title": "Gemini Omni 1.1 Flash lets you build with more control",
-          "link": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-          "date": "27 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Piloting the world's first double-blind AI evaluations",
-          "link": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
-          "date": "27 Aug 2026",
-          "summary": "Piloting the world's first double-blind AI evaluations"
-        },
-        {
-          "title": "Intelligent transcription with Gemini 3.5 Transcribe",
-          "link": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
-          "date": "26 Aug 2026",
-          "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe."
-        },
-        {
-          "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-          "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-          "date": "21 Aug 2026",
-          "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay."
-        },
-        {
-          "title": "Introducing Gemini 3.7 Flash",
-          "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-          "date": "13 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Putting sign language AI into users’ hands",
-          "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-          "date": "12 Aug 2026",
-          "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users."
-        },
-        {
-          "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-          "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-          "date": "6 Aug 2026",
-          "summary": ""
-        },
-        {
-          "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-          "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
-          "date": "30 Jul 2026",
-          "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications."
-        },
-        {
-          "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-          "link": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
-          "date": "29 Jul 2026",
-          "summary": ""
-        },
-        {
-          "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-          "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-          "date": "28 Jul 2026",
-          "summary": ""
-        }
-      ]
+      "ok": false,
+      "items": []
     },
     {
       "url": "https://the-decoder.com/feed/",
@@ -759,6 +578,30 @@
       "cat": "AI News",
       "ok": true,
       "items": [
+        {
+          "title": "A Claude model autonomously chose a gene therapy and operated on a mouse brain with no human decision-making",
+          "link": "https://the-decoder.com/a-claude-model-autonomously-chose-a-gene-therapy-and-operated-on-a-mouse-brain-with-no-human-decision-making/",
+          "date": "30 Oct 2026",
+          "summary": "An AI agent performed brain surgery on an epileptic mouse, picking the drug, the brain target, and the injection coordinates on its own. According to lead researcher Ocana-Santero, it's the first time an AI agent has autonomously chosen a treatment and deliver…"
+        },
+        {
+          "title": "Malicious Claude Code extension in Cursor's marketplace attempted remote access and data theft",
+          "link": "https://the-decoder.com/malicious-claude-code-extension-in-cursors-marketplace-attempted-remote-access-and-data-theft/",
+          "date": "30 Oct 2026",
+          "summary": "A tampered Claude Code extension was live on the Cursor marketplace for about 11 hours, affecting up to 5,000 users. It tried to steal user data and set up remote access. Cursor took the entire marketplace offline and reinstated it after confirming there was n…"
+        },
+        {
+          "title": "OpenAI sets new behavioral guidelines for AI models that have already proven hard to control",
+          "link": "https://the-decoder.com/openai-sets-new-behavioral-guidelines-for-ai-models-that-have-already-proven-hard-to-control/",
+          "date": "30 Oct 2026",
+          "summary": "OpenAI has updated its Model Spec, restructuring its AI behavior guidelines around five core values, including faithfulness to human intent and correctability. GPT models should now draw on conversation history to figure out what users actually want and disclo…"
+        },
+        {
+          "title": "Google's AI Mode doesn't drive traffic \"for anybody,\" Reddit CEO Huffman warns the entire web",
+          "link": "https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web/",
+          "date": "30 Oct 2026",
+          "summary": "Reddit lost over one million Google search referrals per week in October, CEO Steve Huffman said. The stock dropped more than 25 percent despite strong earnings. Huffman blames Google's AI Overviews and AI Mode for driving zero traffic to external sites. Reddi…"
+        },
         {
           "title": "Open-weight model GLM 5.3 built full Firefox exploit chains with zero human input in under 48 hours",
           "link": "https://the-decoder.com/open-weight-model-glm-5-3-built-full-firefox-exploit-chains-with-zero-human-input-in-under-48-hours/",
@@ -794,30 +637,6 @@
           "link": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times/",
           "date": "29 Oct 2026",
           "summary": "US intelligence agencies believe an executive in Nvidia CEO Jensen Huang's circle is an informant for China. The article Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times appeared first on The Decoder ."
-        },
-        {
-          "title": "OpenAI's Astra becomes the main target for Chinese AI labs after Anthropic tightens its defenses",
-          "link": "https://the-decoder.com/openais-astra-becomes-the-main-target-for-chinese-ai-labs-after-anthropic-tightens-its-defenses/",
-          "date": "29 Oct 2026",
-          "summary": "Chinese AI labs are now mainly tapping OpenAI's most powerful model, GPT-6 Astra, instead of Anthropic's Claude. The article OpenAI&#039;s Astra becomes the main target for Chinese AI labs after Anthropic tightens its defenses appeared first on The Decoder ."
-        },
-        {
-          "title": "Google's AI search problem finally shows up in the earnings report, some investors believe",
-          "link": "https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe/",
-          "date": "29 Oct 2026",
-          "summary": "Google's stock dropped as much as ten percent after its quarterly earnings. Cloud revenue more than doubled to $30.7 billion, but search revenue grew just 12 percent, slower than expected. Google acknowledged that its fast-growing AI mode brings in less revenu…"
-        },
-        {
-          "title": "Google Deepmind releases Gemini 4 Carbon just two weeks after Argon with gains across the board",
-          "link": "https://the-decoder.com/google-deepmind-releases-gemini-4-carbon-just-two-weeks-after-argon-with-gains-across-the-board/",
-          "date": "28 Oct 2026",
-          "summary": "Just two weeks after Gemini 4 Argon, Google DeepMind is releasing Gemini 4 Carbon, which tops the Artificial Analysis Intelligence Index v5 with 59 points. Google says the model is built for extended agent workflows and the full cyber defense lifecycle. Becaus…"
-        },
-        {
-          "title": "Google opens Android development to third-party AI agents and unveils new Gemini APIs",
-          "link": "https://the-decoder.com/google-opens-android-development-to-third-party-ai-agents-and-unveils-new-gemini-apis/",
-          "date": "28 Oct 2026",
-          "summary": "Google is opening up Android Studio to third-party AI agents. Through a new \"Bring Your Own Agent\" feature, the IDE now supports more than 40 coding agents, including Anthropic's Claude Agent and OpenAI's Codex. Google says new terminal tools also help agents…"
         }
       ]
     },
@@ -825,8 +644,69 @@
       "url": "https://www.kdnuggets.com/feed",
       "name": "KDnuggets",
       "cat": "Data Science",
-      "ok": false,
-      "items": []
+      "ok": true,
+      "items": [
+        {
+          "title": "Vibe Coding a Classic Game: Building Breakout Step by Step with an AI Assistant",
+          "link": "https://www.kdnuggets.com/vibe-coding-a-classic-game-building-breakout-step-by-step-with-an-ai-assistant",
+          "date": "30 Oct 2026",
+          "summary": "Vibe coding is a workflow where you describe what you want in natural language and let an AI agent handle code generation, execution, and iteration rather than typing every line yourself."
+        },
+        {
+          "title": "Silent Data Errors That Survive Every Cleaning Pipeline",
+          "link": "https://www.kdnuggets.com/silent-data-errors-that-survive-every-cleaning-pipeline",
+          "date": "30 Oct 2026",
+          "summary": "4 bugs that pass every null check, duplicate check, and schema test."
+        },
+        {
+          "title": "The AI Skills That Actually Show Up in Job Postings Right Now",
+          "link": "https://www.kdnuggets.com/the-ai-skills-that-actually-show-up-in-job-postings-right-now",
+          "date": "29 Oct 2026",
+          "summary": "Which AI skills appear most often in job postings right now, and what do they mean for your career?"
+        },
+        {
+          "title": "5 Docker Containers You Need for a Home AI Lab",
+          "link": "https://www.kdnuggets.com/5-docker-containers-you-need-for-a-home-ai-lab",
+          "date": "29 Oct 2026",
+          "summary": "Learn which five Docker containers make a reliable home AI lab, from Ollama and Open WebUI to Qdrant, n8n and Portainer CE, what job each one does, and the first mistake to avoid with each."
+        },
+        {
+          "title": "How to Access Multiple AI Models in Your Python Apps Using OpenRouter",
+          "link": "https://www.kdnuggets.com/access-multiple-ai-models-in-your-python-apps-using-openrouter",
+          "date": "28 Oct 2026",
+          "summary": "Learn how to get started with the OpenRouter API to call multiple AI models through one API, compare responses, switch models, and set up automatic fallbacks."
+        },
+        {
+          "title": "Can This Open-Source Model Beat AI Detectors? Let’s Test It Locally",
+          "link": "https://www.kdnuggets.com/can-this-open-source-model-beat-ai-detectors-lets-test-it-locally",
+          "date": "28 Oct 2026",
+          "summary": "Can a free, open-source AI humanizer beat paid tools? We tested a 12B model locally and compared the results against AI detectors to see if the hype is real."
+        },
+        {
+          "title": "Which Local LMs are Best For Which Tasks",
+          "link": "https://www.kdnuggets.com/which-local-lms-are-best-for-which-tasks",
+          "date": "28 Oct 2026",
+          "summary": "A local language model is one whose actual weights, the enormous file of learned numbers that constitutes the trained model, you download and run entirely on your own hardware."
+        },
+        {
+          "title": "Google Gemini Omni: What It Actually Does, What It Costs, and How It Compares",
+          "link": "https://www.kdnuggets.com/google-gemini-omni-what-it-actually-does-what-it-costs-and-how-it-compares",
+          "date": "27 Oct 2026",
+          "summary": "Gemini Omni is a member of Google's Gemini generative model family, built specifically to create output from any combination of input types, starting with video."
+        },
+        {
+          "title": "The Roadmap to Becoming a Computer Vision Engineer in 2026",
+          "link": "https://www.kdnuggets.com/the-roadmap-to-becoming-a-computer-vision-engineer-in-2026",
+          "date": "26 Oct 2026",
+          "summary": "A four-stage technical roadmap for becoming a computer vision engineer, from spatial mathematics and ViTs through 3D neural rendering and edge deployment optimization."
+        },
+        {
+          "title": "Building Your First AI Agent in Python with the OpenAI Agents SDK",
+          "link": "https://www.kdnuggets.com/building-your-first-ai-agent-in-python-with-the-openai-agents-sdk",
+          "date": "26 Oct 2026",
+          "summary": "Build your first AI agent in Python with the OpenAI Agents SDK, adding web search, Python tools, conversation memory, and tracing in a simple end-to-end workflow."
+        }
+      ]
     },
     {
       "url": "https://developer.nvidia.com/blog//feed",
@@ -834,6 +714,12 @@
       "cat": "Technical · AI",
       "ok": true,
       "items": [
+        {
+          "title": "Run AI Models for Edge Application Development with Just a Few Commands",
+          "link": "https://developer.nvidia.com/blog/run-ai-models-for-edge-application-development-with-just-a-few-commands/",
+          "date": "30 Oct 2026",
+          "summary": "AI is expanding beyond the data center as developers build a new generation of agents to act at the edge: monitoring driver attention and cabin conditions,..."
+        },
         {
           "title": "Build Specialized Agents on a Stack You Control with NVIDIA NemoClaw",
           "link": "https://developer.nvidia.com/blog/build-specialized-agents-on-a-stack-you-control-with-nvidia-nemoclaw/",
@@ -1007,12 +893,6 @@
           "link": "https://developer.nvidia.com/blog/building-reliable-data-analytics-agents-lessons-from-the-kdd-cup/",
           "date": "15 Oct 2026",
           "summary": "The NVIDIA KGMON team placed second in the KDD Cup 2026 Data Agents competition with a system built around a simple idea of making an agent's harness smaller,..."
-        },
-        {
-          "title": "The Machines that Make the Machines",
-          "link": "https://developer.nvidia.com/blog/the-machines-that-make-the-machines/",
-          "date": "15 Oct 2026",
-          "summary": "How we taught robots to assemble GB300 tester trays and what it taught us about robot learning, mechanical intelligence, and good old-fashioned engineering The..."
         }
       ]
     },
@@ -1091,6 +971,36 @@
       "ok": true,
       "items": [
         {
+          "title": "Sam Altman Thinks Your PC Is Wasting Precious RAM",
+          "link": "https://hardware.slashdot.org/story/26/10/30/2017206/sam-altman-thinks-your-pc-is-wasting-precious-ram?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "30 Oct 2026",
+          "summary": "\"Looks like OpenAI CEO Sam Altman wants to own all the computing resources and rent out terminals to the world as a way of propping up his business plan, now that debt-ridden AI companies are teetering on the edge,\" writes ancient Slashdot reader Gilmoure. Tom…"
+        },
+        {
+          "title": "Thousands of 'Ghost Students' Use AI to Steal Millions In Student Loans, DOJ Says",
+          "link": "https://yro.slashdot.org/story/26/10/30/204230/thousands-of-ghost-students-use-ai-to-steal-millions-in-student-loans-doj-says?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "30 Oct 2026",
+          "summary": "The Justice Department has charged five people in a crackdown on \"ghost student\" fraud, in which scammers allegedly use stolen identities and AI to enroll fake students in colleges, complete coursework, and collect federal student loan funds. Ars Technica repo…"
+        },
+        {
+          "title": "US Tech Stocks See Sharp Falls As AI Spending Nears $1 Trillion",
+          "link": "https://news.slashdot.org/story/26/10/30/1843213/us-tech-stocks-see-sharp-falls-as-ai-spending-nears-1-trillion?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "30 Oct 2026",
+          "summary": "U.S. technology stocks plunged for a second consecutive day on Friday as investors grew increasingly concerned about the enormous cost of artificial intelligence development and whether those investments will pay off. The Nasdaq fell more than 3.5%, while Inte…"
+        },
+        {
+          "title": "GM Reaches $220 Million Settlement Over Selling Drivers' Private Data",
+          "link": "https://yro.slashdot.org/story/26/10/30/168202/gm-reaches-220-million-settlement-over-selling-drivers-private-data?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "30 Oct 2026",
+          "summary": "An anonymous reader quotes a report from TechCrunch: General Motors will pay $220 million to 36 states to settle allegations that it illegally sold private driving behavior and location information to data brokers. As part of the settlement, GM must get driver…"
+        },
+        {
+          "title": "UK Social Media Ban May Lock Out More Than 100,000 Teens Without ID",
+          "link": "https://news.slashdot.org/story/26/10/30/160254/uk-social-media-ban-may-lock-out-more-than-100000-teens-without-id?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "30 Oct 2026",
+          "summary": "Under the UK's planned social media ban, more than 100,000 British teenagers aged 16 and 17 could initially be locked out of social media because they lack a passport or driving license that may be needed as a fallback for age verification. The Guardian report…"
+        },
+        {
           "title": "Reddit Will Force Everyone to Log In",
           "link": "https://tech.slashdot.org/story/26/10/30/0155237/reddit-will-force-everyone-to-log-in?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "30 Oct 2026",
@@ -1149,36 +1059,6 @@
           "link": "https://news.slashdot.org/story/26/10/29/1756212/alphabet-heads-for-a-500-billion-drop-in-market-value?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "29 Oct 2026",
           "summary": "Yesterday, Google reported its Q3 results that showed searches made through its AI Mode generate less revenue than traditional search, even as overall search revenue grew 12% year over year to $63.25 billion. The news sent Alphabet shares plunging, with Bespok…"
-        },
-        {
-          "title": "Canada to Join EU Network of Supercomputers",
-          "link": "https://news.slashdot.org/story/26/10/29/1741210/canada-to-join-eu-network-of-supercomputers?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "29 Oct 2026",
-          "summary": "Canada is joining the European Union's supercomputing network to give Canadian companies, startups, and researchers access to European computing resources for AI development. The partnership aims to strengthen AI cooperation and reduce dependence on US technol…"
-        },
-        {
-          "title": "DoorDash Strikes $17 Billion Deal For US Rival Instacart",
-          "link": "https://slashdot.org/story/26/10/29/1644224/doordash-strikes-17-billion-deal-for-us-rival-instacart?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "29 Oct 2026",
-          "summary": "DoorDash has agreed to acquire Instacart for about $17 billion as it expands beyond restaurant delivery and deeper into the U.S. grocery market. The deal, expected to close in late 2027 or the first half of 2028, could face regulatory scrutiny over further con…"
-        },
-        {
-          "title": "Reddit Is Getting a 'For You' Feed",
-          "link": "https://tech.slashdot.org/story/26/10/29/0518249/reddit-is-getting-a-for-you-feed?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "29 Oct 2026",
-          "summary": "Reddit is overhauling its homepage with separate \"For You\" and \"Following\" feeds, with the former combining posts from subscribed communities and algorithmic recommendations based on users' interests and activity. The Verge reports: It's a big shift for the pl…"
-        },
-        {
-          "title": "'Please Let the Internet Die'",
-          "link": "https://tech.slashdot.org/story/26/10/29/052237/please-let-the-internet-die?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "29 Oct 2026",
-          "summary": "Slashdot reader fjo3 shares an article from Wired: The internet must be put out of its misery. Any rational observer can admit that the current iteration of the web -- and the social fabric woven there -- is not what they signed up for. Symptoms of advanced cu…"
-        },
-        {
-          "title": "Google Struggling to Make AI Mode Searches Pay",
-          "link": "https://tech.slashdot.org/story/26/10/29/0444201/google-struggling-to-make-ai-mode-searches-pay?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "29 Oct 2026",
-          "summary": "Alphabet shares fell nearly 10% after Google disclosed that searches through its AI Mode generate less revenue than traditional search, even as overall search revenue grew 12% year over year to $63.25 billion. The Register reports: Alphabet on Wednesday report…"
         }
       ]
     },
@@ -1325,6 +1205,12 @@
       "ok": true,
       "items": [
         {
+          "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+          "link": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
+          "date": "30 Oct 2026",
+          "summary": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it i…"
+        },
+        {
           "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
           "link": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
           "date": "29 Oct 2026",
@@ -1425,12 +1311,6 @@
           "link": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/",
           "date": "21 Oct 2026",
           "summary": "To increase productivity, accelerate innovation and create new opportunities for economic growth, Europe’s industrial leaders are tapping NVIDIA CUDA-X and Omniverse libraries, as well as NVIDIA Cosmos and Nemotron open models, across the engineering and manuf…"
-        },
-        {
-          "title": "NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations",
-          "link": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
-          "date": "21 Oct 2026",
-          "summary": "NVIDIA cuDSS, launched today in general availability, is an NVIDIA CUDA-X library that shifts a critical part of engineering and scientific simulations onto GPUs. Complex engineering feats — from advanced chips to aircraft to industrial systems —– depend on si…"
         }
       ]
     },
@@ -1440,6 +1320,12 @@
       "cat": "Linux · News",
       "ok": true,
       "items": [
+        {
+          "title": "Working Exploit for a Linux Kernel Flaw Made Public",
+          "link": "http://www.linux-magazine.com/Online/News/Working-Exploit-for-a-Linux-Kernel-Flaw-Made-Public",
+          "date": "30 Oct 2026",
+          "summary": "Even before a bug received its CVE identifier or an upstream fix, the local privilege escalation vulnerability exploit found its way into the wild."
+        },
         {
           "title": "r/opensource Bans AI-Assisted and AI-Related Projects",
           "link": "http://www.linux-magazine.com/Online/News/r-opensource-Bans-AI-Assisted-and-AI-Related-Projects",
@@ -1553,12 +1439,6 @@
           "link": "http://www.linux-magazine.com/Online/News/Roll-Out-the-Cake-Linux-Turns-35",
           "date": "26 Aug 2026",
           "summary": "35 years ago, a Finnish student began a humble project that would forever change the course of technology."
-        },
-        {
-          "title": "China Switching from Windows to Linux",
-          "link": "http://www.linux-magazine.com/Online/News/China-Switching-from-Windows-to-Linux",
-          "date": "24 Aug 2026",
-          "summary": "China has ordered several government agencies to drop a Chinese-developed version of Windows 10 in favor of either KylinOS or UOS."
         }
       ]
     },
@@ -1569,184 +1449,184 @@
       "ok": true,
       "items": [
         {
-          "title": "ldcon added to PyPI",
-          "link": "https://pypi.org/project/ldcon/",
+          "title": "kinescript-kokoro added to PyPI",
+          "link": "https://pypi.org/project/kinescript-kokoro/",
           "date": "30 Oct 2026",
-          "summary": "Laser operations, physical owners and fleet presentation"
+          "summary": "Kokoro voices for kine voice: speaks a scene's text and times each word"
         },
         {
-          "title": "bluecore-graph-toolbox added to PyPI",
-          "link": "https://pypi.org/project/bluecore-graph-toolbox/",
+          "title": "chita added to PyPI",
+          "link": "https://pypi.org/project/chita/",
           "date": "30 Oct 2026",
-          "summary": "Airflow Plugin for Blue Core Toolbox"
+          "summary": "Fast, tuning-free, multi-scale source extraction for astronomical images"
         },
         {
-          "title": "ziptrend added to PyPI",
-          "link": "https://pypi.org/project/ziptrend/",
+          "title": "baobab-turn added to PyPI",
+          "link": "https://pypi.org/project/baobab-turn/",
           "date": "30 Oct 2026",
-          "summary": "Explore US ZIP-code observations across geography and time"
+          "summary": "Turn detection for African speech. Framework-agnostic core, thin adapters, contributable language packs."
         },
         {
-          "title": "cfgaudit added to PyPI",
-          "link": "https://pypi.org/project/cfgaudit/",
+          "title": "google-adk-botsrated added to PyPI",
+          "link": "https://pypi.org/project/google-adk-botsrated/",
           "date": "30 Oct 2026",
-          "summary": "Security auditor for AI-agent configuration files"
+          "summary": "Payment-client wrap that pairs with Google ADK. Registers BotsRated PaymentGuard on an x402 client and offers an optional before_tool_callback. Not an agent runtime."
         },
         {
-          "title": "sentinelx-labs added to PyPI",
-          "link": "https://pypi.org/project/sentinelx-labs/",
+          "title": "fdl-cli added to PyPI",
+          "link": "https://pypi.org/project/fdl-cli/",
           "date": "30 Oct 2026",
-          "summary": "Numbered ethical hacking practical reference and code viewer"
+          "summary": "Versions of a DuckLake catalog on object storage, kept the way Git keeps commits"
         },
         {
-          "title": "forecastpanel added to PyPI",
-          "link": "https://pypi.org/project/forecastpanel/",
+          "title": "hdcom added to PyPI",
+          "link": "https://pypi.org/project/hdcom/",
           "date": "30 Oct 2026",
-          "summary": "Forecasting with panel data: individual, pooled, FE, RE, empirical Bayes and optimal combinations"
+          "summary": "Placeholder: the hdcom name is held for a future project"
         },
         {
-          "title": "fanharvard-agentbridge added to PyPI",
-          "link": "https://pypi.org/project/fanharvard-agentbridge/",
+          "title": "scalio-tenant added to PyPI",
+          "link": "https://pypi.org/project/scalio-tenant/",
           "date": "30 Oct 2026",
-          "summary": "Local and LAN messaging between independently identified coding agents"
+          "summary": "Tenant connection of the Scalio apps: own certificate, app registrations in the customer's tenant"
         },
         {
-          "title": "experiment-core added to PyPI",
-          "link": "https://pypi.org/project/experiment-core/",
+          "title": "arcom added to PyPI",
+          "link": "https://pypi.org/project/arcom/",
           "date": "30 Oct 2026",
-          "summary": "Domain-neutral contracts and local runtime for supervised experimental operations"
+          "summary": "Placeholder: the arcom name is held for a future project"
         },
         {
-          "title": "icecore-dbt added to PyPI",
-          "link": "https://pypi.org/project/icecore-dbt/",
+          "title": "vrcom added to PyPI",
+          "link": "https://pypi.org/project/vrcom/",
           "date": "30 Oct 2026",
-          "summary": "Python tooling for icecore, a Snowflake-native dbt observability package by Crithink (in development)."
+          "summary": "Placeholder: the vrcom name is held for a future project"
         },
         {
-          "title": "boltage added to PyPI",
-          "link": "https://pypi.org/project/boltage/",
+          "title": "jscom added to PyPI",
+          "link": "https://pypi.org/project/jscom/",
           "date": "30 Oct 2026",
-          "summary": "neo4j-browser and Neo4j drivers on top of PostgreSQL, using Apache AGE as the graph engine"
+          "summary": "Placeholder: the jscom name is held for a future project"
         },
         {
-          "title": "organizarquivo added to PyPI",
-          "link": "https://pypi.org/project/organizarquivo/",
+          "title": "stegguard added to PyPI",
+          "link": "https://pypi.org/project/stegguard/",
           "date": "30 Oct 2026",
-          "summary": "Organize files automatically into folders based on their extensions."
+          "summary": "Detect, decode, and safely remove hidden content and provenance signals"
         },
         {
-          "title": "timeserieslab added to PyPI",
-          "link": "https://pypi.org/project/timeserieslab/",
+          "title": "nhanes-helpy added to PyPI",
+          "link": "https://pypi.org/project/nhanes-helpy/",
           "date": "30 Oct 2026",
-          "summary": "Time Series Lab Practice Source Code Viewer"
+          "summary": "Load, decode, describe, and aggregate any/all NHANES data"
         },
         {
-          "title": "marqov-mcp added to PyPI",
-          "link": "https://pypi.org/project/marqov-mcp/",
+          "title": "llama-stack-botsrated added to PyPI",
+          "link": "https://pypi.org/project/llama-stack-botsrated/",
           "date": "30 Oct 2026",
-          "summary": "MCP server for the Marqov quantum orchestration platform"
+          "summary": "Payment-client wrap that pairs with Llama Stack. Registers BotsRated PaymentGuard on an x402 client. Not a runtime, distribution, or inference server."
         },
         {
-          "title": "subjectdb added to PyPI",
-          "link": "https://pypi.org/project/subjectdb/",
+          "title": "qattack added to PyPI",
+          "link": "https://pypi.org/project/qattack/",
           "date": "30 Oct 2026",
-          "summary": "Desktop app to register study participants across research projects (SQLite + Qt)."
+          "summary": "QAttack — QuSec Communication Channel Attacker & Threat Demonstration Framework (Eve)"
         },
         {
-          "title": "glia-cli added to PyPI",
-          "link": "https://pypi.org/project/glia-cli/",
+          "title": "oathkey added to PyPI",
+          "link": "https://pypi.org/project/oathkey/",
           "date": "30 Oct 2026",
-          "summary": "glia, the cross-language code-graph engine, as a command-line tool: find, blast-radius, trace, review and more over one graph of your repo."
+          "summary": "Let your AI use your API keys through oathkey without ever holding them: guided one-command setup, brokered API calls, a self-attack test and an activity log. Reduces risk; not independently reviewed."
         },
         {
-          "title": "unary-mast added to PyPI",
-          "link": "https://pypi.org/project/unary-mast/",
+          "title": "irvalidate added to PyPI",
+          "link": "https://pypi.org/project/irvalidate/",
           "date": "30 Oct 2026",
-          "summary": "Unary C codes in Python"
+          "summary": "Validation of Iranian data: national ID, card number, Sheba (IBAN), mobile, postal code. اعتبارسنجی کد ملی، کارت، شبا، موبایل و کد پستی"
         },
         {
-          "title": "AFCOM added to PyPI",
-          "link": "https://pypi.org/project/afcom/",
+          "title": "github-agent-cli added to PyPI",
+          "link": "https://pypi.org/project/github-agent-cli/",
           "date": "30 Oct 2026",
-          "summary": "AFCOM - a PySide6 serial communication GUI client."
+          "summary": "Repository and wiki steward: one command per documentation job, standard library only."
         },
         {
-          "title": "cpp-pinyin2 added to PyPI",
-          "link": "https://pypi.org/project/cpp-pinyin2/",
+          "title": "diskclean-mcp-server added to PyPI",
+          "link": "https://pypi.org/project/diskclean-mcp-server/",
           "date": "30 Oct 2026",
-          "summary": "Chinese (Mandarin + Cantonese) pinyin conversion driven by a native C++ engine"
+          "summary": "MCP server that finds dev caches, large unused videos and old logs, and moves them to the OS trash after your approval"
         },
         {
-          "title": "simdref-llvm-mc added to PyPI",
-          "link": "https://pypi.org/project/simdref-llvm-mc/",
+          "title": "readme-doctor added to PyPI",
+          "link": "https://pypi.org/project/readme-doctor/",
           "date": "30 Oct 2026",
-          "summary": "The llvm-mc assembler from LLVM (X86, AArch64, RISCV) and the Intel XED decoder as a pip wheel"
+          "summary": "Score a README.md and list concrete fixes"
         },
         {
-          "title": "uncle added to PyPI",
-          "link": "https://pypi.org/project/uncle/",
+          "title": "kvplan added to PyPI",
+          "link": "https://pypi.org/project/kvplan/",
           "date": "30 Oct 2026",
-          "summary": "uncle.show('hmac') -> the exact codes from your CIS Practical Exam Revision Sheet"
+          "summary": "Plan vLLM deployments without the GPU: will it start, how much KV cache, how many users."
         },
         {
-          "title": "tiktoken-fast added to PyPI",
-          "link": "https://pypi.org/project/tiktoken-fast/",
+          "title": "charlotteunoq2 added to PyPI",
+          "link": "https://pypi.org/project/charlotteunoq2/",
           "date": "30 Oct 2026",
-          "summary": "A faster drop-in for tiktoken: the same token ids, encoded by a new Rust core"
+          "summary": "This is a package for my Uno Q"
         },
         {
-          "title": "aimanic-email added to PyPI",
-          "link": "https://pypi.org/project/aimanic-email/",
+          "title": "langgraph-botsrated added to PyPI",
+          "link": "https://pypi.org/project/langgraph-botsrated/",
           "date": "30 Oct 2026",
-          "summary": "Name holder. The real aimanic-email is on AiManic's own package index, not PyPI."
+          "summary": "Payment-client wrap that pairs with LangGraph. Registers BotsRated PaymentGuard on an x402 client and offers an optional pre-pay node helper. Not an orchestration runtime."
         },
         {
-          "title": "jupyterlab-xdg-open-url-extension added to PyPI",
-          "link": "https://pypi.org/project/jupyterlab-xdg-open-url-extension/",
+          "title": "ahl-npm added to PyPI",
+          "link": "https://pypi.org/project/ahl-npm/",
           "date": "30 Oct 2026",
-          "summary": "Jupyterlab extension to handle xdg_open push from terminal such that it will launch notification (using jupyterlab_notifications_extension) with action to open that link and (if possible) that will allow for the callback to be handled"
+          "summary": "Functions and configuration for calculating Nutrient Profiling Model (NPM) scores"
         },
         {
-          "title": "simplint added to PyPI",
-          "link": "https://pypi.org/project/simplint/",
+          "title": "surd added to PyPI",
+          "link": "https://pypi.org/project/surd/",
           "date": "30 Oct 2026",
-          "summary": "Ruff companion linter enforcing the simp house style"
+          "summary": "Synergistic-Unique-Redundant Decomposition of causality for time series"
         },
         {
-          "title": "pycg3 added to PyPI",
-          "link": "https://pypi.org/project/pycg3/",
+          "title": "pointtransformerv3 added to PyPI",
+          "link": "https://pypi.org/project/pointtransformerv3/",
           "date": "30 Oct 2026",
-          "summary": "Pure Python VISL CG-3 (Constraint Grammar 3) engine that runs the grammars you provide"
+          "summary": "Point Transformer V3 in pure PyTorch and Triton: runs the PTv3, Sonata, Concerto and Utonia weights."
         },
         {
-          "title": "uri-cardinality-reducer added to PyPI",
-          "link": "https://pypi.org/project/uri-cardinality-reducer/",
+          "title": "emet-sdk added to PyPI",
+          "link": "https://pypi.org/project/emet-sdk/",
           "date": "30 Oct 2026",
-          "summary": "Extract low-cardinality URI templates from real URI's, requires drain3."
+          "summary": "Send your AI agent's turns to Emet from the OpenTelemetry GenAI spans it already emits"
         },
         {
-          "title": "cdekx added to PyPI",
-          "link": "https://pypi.org/project/cdekx/",
+          "title": "devops-events-local added to PyPI",
+          "link": "https://pypi.org/project/devops-events-local/",
           "date": "30 Oct 2026",
-          "summary": "Modern async client for the CDEK API v2: typed models, retries, pagination, webhooks."
+          "summary": "PyPI devops-events-local Python Package owned by Circlez.ai"
         },
         {
-          "title": "audact added to PyPI",
-          "link": "https://pypi.org/project/audact/",
+          "title": "mndopt added to PyPI",
+          "link": "https://pypi.org/project/mndopt/",
           "date": "30 Oct 2026",
-          "summary": "Async Python SDK for the Audact compliance validation platform"
+          "summary": "Matrix Normal Diagonal (MND) optimizer for PyTorch."
         },
         {
-          "title": "bazaar-contrib-claude-code added to PyPI",
-          "link": "https://pypi.org/project/bazaar-contrib-claude-code/",
+          "title": "blacktop-data added to PyPI",
+          "link": "https://pypi.org/project/blacktop-data/",
           "date": "30 Oct 2026",
-          "summary": "Claude Code stream-json harness provider for Bazaar Compute Node"
+          "summary": "Python client for the Blacktop Data API, with a FastF1-style interface for Formula 1"
         },
         {
-          "title": "open-vessel-designer added to PyPI",
-          "link": "https://pypi.org/project/open-vessel-designer/",
+          "title": "faxforagents added to PyPI",
+          "link": "https://pypi.org/project/faxforagents/",
           "date": "30 Oct 2026",
-          "summary": "Concept design of inland and coastal cargo vessels: GA, characteristics, BOQ, cost — calibrated on real vessels."
+          "summary": "Python client for Fax for Agents: a fax API, a hosted MCP server and SDKs built so AI agents can send and receive faxes."
         }
       ]
     }
