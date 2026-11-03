@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-03T18:51:34Z",
+  "generated": "2026-11-03T23:48:26Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,18 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "Binance says North Korean hackers stole $6.34 billion funds in a technical breach",
+          "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/binance-says-north-korean-hackers-stole-6-34-billion-funds-in-a-technical-breach/articleshow/135506955.cms",
+          "date": "3 Nov 2026",
+          "summary": "Binance reported a cyberattack attributed to North Korea that compromised $6.34 billion in digital assets. Approximately $2.85 billion of the affected assets have since been frozen or intercepted. The attackers utilized fake job interviews and advanced malware…"
+        },
+        {
+          "title": "US Treasury yields climb as strong jobs data, midterm polls weigh; 10-year yield eyes 5% again",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-yields-climb-as-strong-jobs-data-and-midterm-uncertainty-weigh-on-bonds/articleshow/135511549.cms",
+          "date": "4 Nov 2026",
+          "summary": "US Treasury yields climbed as stronger than expected September jobs data pointed to a resilient labour market, while investors awaited the midterm election results. Falling oil prices briefly eased pressure on bonds, but the move reversed as economic data rein…"
+        },
         {
           "title": "US midterms put Trump-era crypto boom and prediction markets at risk",
           "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-midterms-put-trump-era-crypto-boom-and-prediction-markets-at-risk/articleshow/135509801.cms",
@@ -30,18 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/wall-streets-hidden-bargains-10-us-largecap-stocks-trading-at-historic-discount-for-investors/articleshow/135495832.cms",
           "date": "3 Nov 2026",
           "summary": "At least 10 US large-cap stocks trade at 47%-63% discounts to sector valuations, according to Vested Finance. Comcast leads the list, alongside AT&T, Fiserv and Bristol-Myers Squibb, amid market volatility and growing scrutiny of AI valuations."
-        },
-        {
-          "title": "NSE Q2 Results: Profit jumps 23% to Rs 2,578 crore, revenue rises 9%",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/nse-q2-results-profit-jumps-23-to-rs-2578-crore-revenue-rises-9/articleshow/135499601.cms",
-          "date": "3 Nov 2026",
-          "summary": "NSE Q2 Results: The National Stock Exchange of India (NSE) reported a 23% year-on-year (YoY) increase in its consolidated profit after tax (PAT) to Rs 2,578 crore in the second quarter of FY27 (Q2FY27), compared with Rs 2,098 crore in the corresponding quarter…"
-        },
-        {
-          "title": "Prediction markets face US midterms test as election bets soar",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/prediction-markets-face-us-midterms-test-as-election-bets-soar/articleshow/135502488.cms",
-          "date": "3 Nov 2026",
-          "summary": "In the race towards the US midterm elections, over $1.48 billion has been wagered through prediction markets such as Kalshi and Polymarket, highlighting their role in shaping political discourse. Experts raise alarms about the potential fallout if market outco…"
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -196,9 +196,111 @@
       "ok": true,
       "items": [
         {
-          "title": "US Elections 2026: Four Indian-origin candidates chase key milestones",
-          "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/vivek-ramaswamy-to-nithya-raman-4-indian-origin-candidates-eye-historic-firsts-in-us-elections-2026/articleshow/135494397.cms",
+          "title": "'Will move to Israel, become PM': Trump jokes on his approval ratings amid US midterms",
+          "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/my-approval-rating-there-is-99-trump-jokes-hell-move-to-israel-and-become-pm-if-americans-get-tired-of-him/articleshow/135513481.cms",
+          "date": "4 Nov 2026",
+          "summary": "In a lighthearted moment during a Fox News interview, Donald Trump playfully proposed his candidacy for the position of Israel's prime minister, citing a staggering 99 percent approval rating among Israelis. He went on to declare that by 2026, the US would cea…"
+        },
+        {
+          "title": "Watch: Nasa astronaut Anil Menon shows how ISS crew cast ballots from space",
+          "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/watch-400-km-above-earth-nasa-astronaut-anil-menon-shows-how-he-voted-from-space/articleshow/135515939.cms",
+          "date": "4 Nov 2026",
+          "summary": ""
+        },
+        {
+          "title": "Where Is Bashir Zeb Baloch? Mystery mounts after BLA announces leadership change",
+          "link": "https://timesofindia.indiatimes.com/world/pakistan/where-is-bashir-zeb-baloch-mystery-mounts-after-bla-announces-leadership-change/articleshow/135512447.cms",
+          "date": "4 Nov 2026",
+          "summary": "Baloch Liberation Army Commander-in-Chief Bashir Zeb Baloch has stepped down from his position. The announcement has led to speculation about his status and possible assassination attempts. Reports on pro-Pakistan social media allege he was poisoned or killed…"
+        },
+        {
+          "title": "Right to protest can't justify endless occupation of a site: SC",
+          "link": "https://timesofindia.indiatimes.com/india/right-to-protest-cant-justify-endless-occupation-of-a-site-sc/articleshow/135512694.cms",
+          "date": "4 Nov 2026",
+          "summary": ""
+        },
+        {
+          "title": "Billionaire Mark Cuban to Gen Z: Listen to Jeff Bezos’ advice; just get a job",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/billionaire-mark-cubans-message-to-genz-listen-to-amazon-founder-jeff-bezos-advice-i-always-tell-young-people-go-work-at-/articleshow/135491303.cms",
           "date": "3 Nov 2026",
+          "summary": "Mark Cuban advises young workers to seek any job to gain practical experience and manage workplace expectations. Both Cuban and Jeff Bezos believe that initial employment develops valuable skills like responsibility and teamwork. They highlight the importance…"
+        },
+        {
+          "title": "Deleted from SIR draft rolls? EC says can use Form 6 for re-inclusion",
+          "link": "https://timesofindia.indiatimes.com/india/ec-okay-to-use-form-6-for-re-inclusion-in-rolls/articleshow/135512519.cms",
+          "date": "4 Nov 2026",
+          "summary": ""
+        },
+        {
+          "title": "Pennsylvania court revives family's cancer malpractice suit after woman's death",
+          "link": "https://timesofindia.indiatimes.com/world/us/a-pennsylvania-woman-was-treated-for-breast-cancer-before-doctors-discovered-a-rare-lymphoma-after-her-death-the-familys-malpractice-case-was-dismissed-but-the-states-highest-court-has-cleared-it-for-a-jury/articleshow/135494546.cms",
+          "date": "4 Nov 2026",
+          "summary": "A Pennsylvania woman received breast cancer treatment for 13 months before doctors discovered she had a rare and aggressive lymphoma. She died in January 2019, and her family sued the treating oncologist, alleging that the delayed diagnosis reduced her chances…"
+        },
+        {
+          "title": "Texas opens 3,000-acre state park along Colorado River with $1bn fund",
+          "link": "https://timesofindia.indiatimes.com/world/us/texas-has-opened-more-than-3000-acres-along-the-colorado-river-as-a-new-state-park-the-property-is-among-the-first-parks-being-developed-with-a-1-billion-fund-voters-approved-to-expand-public-land/articleshow/134705743.cms",
+          "date": "3 Nov 2026",
+          "summary": "Post Oak Ridge has officially opened, marking Texas' latest state park. Spanning over 3,000 acres, it features two hiking trails along four miles of scenic routes. Plans for future camping facilities and river access are on track for completion by 2029. Input…"
+        },
+        {
+          "title": "Louisiana family's bid to overturn 30-year-old inheritance ruling fails",
+          "link": "https://timesofindia.indiatimes.com/world/us/a-louisiana-man-died-without-a-will-in-1956-and-a-1996-court-order-named-his-daughter-as-heir-to-half-a-property-30-years-later-the-state-supreme-court-blocked-a-rival-familys-attempt-to-undo-that-inheritance-ruling/articleshow/135454431.cms",
+          "date": "2 Nov 2026",
+          "summary": "A Louisiana man died without a will in 1956, and a court recognised his daughter as the heir to his estate in 1996. Nearly 30 years later, another family challenged her right to inherit a 50% share of a property. On October 30, the Louisiana Supreme Court reje…"
+        },
+        {
+          "title": "Scientist builds mini universe of 24k atoms to show time can be measured without a clock",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/scientist-builds-a-mini-universe-of-24000-atoms-to-show-time-can-be-measured-without-a-clock/articleshow/135510963.cms",
+          "date": "4 Nov 2026",
+          "summary": "At the University of Birmingham, Giovanni Barontini has crafted a captivating mini universe using 24,000 chilled rubidium atoms. This groundbreaking experiment reveals that time can be gauged via entropy variations, offering a fresh perspective beyond traditio…"
+        },
+        {
+          "title": "Seth Rogen and wife’s Alzheimer’s charity reached 4.4 million people in 2025",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/seth-rogen-and-his-wife-founded-an-alzheimers-charity-after-her-mothers-diagnosis-by-2025-its-programmes-had-reached-4-4-million-people-and-supported-families-with-respite-care/articleshow/135495538.cms",
+          "date": "4 Nov 2026",
+          "summary": ""
+        },
+        {
+          "title": "Sonam Wangchuk’s wife told to stop classes in Leh school",
+          "link": "https://timesofindia.indiatimes.com/india/sonam-wangchuks-wife-told-to-stop-classes-in-leh-school/articleshow/135511764.cms",
+          "date": "4 Nov 2026",
+          "summary": ""
+        },
+        {
+          "title": "‘Largest monitoring effort’: Trump deploys 1,000 monitors; Dems cry voter intimidation",
+          "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/largest-monitoring-effort-in-history-trumps-doj-deploys-1000-monitors-democrats-allege-voter-intimidation/articleshow/135513557.cms",
+          "date": "4 Nov 2026",
+          "summary": ""
+        },
+        {
+          "title": "Connor McDavid vs Sidney Crosby: Inside the NHL stars' luxury homes",
+          "link": "https://timesofindia.indiatimes.com/sports/nhl/news/connor-mcdavid-vs-sidney-crosby-luxury-homes-what-sets-nhl-stars-modern-edmonton-mansion-and-nova-scotia-lakefront-retreat-apart-in-luxury-privacy-and-modern-luxury-living/articleshow/135495036.cms",
+          "date": "3 Nov 2026",
+          "summary": "Connor McDavid and Sidney Crosby have established different approaches to luxury living away from the NHL spotlight. McDavid’s reported Edmonton mansion reflects contemporary design, personalised spaces and entertainment-focused amenities, while Crosby’s Nova…"
+        },
+        {
+          "title": "Stephen Curry makes $2.5 million profit from $11 million San Francisco property",
+          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/stephen-curry-made-2-5-million-from-11-million-san-francisco-property-sale-after-abandoning-headquarters-plans/articleshow/135487322.cms",
+          "date": "3 Nov 2026",
+          "summary": "Stephen Curry has sold his San Francisco commercial property for $11 million, making a $2.5 million gross gain after purchasing it for $8.5 million in 2024. The building was originally intended to become the headquarters of his business venture, Thirty Ink. Ho…"
+        },
+        {
+          "title": "Judge needn't face strictures for typos in judgement: SC",
+          "link": "https://timesofindia.indiatimes.com/india/judge-neednt-face-strictures-for-typos-in-judgement-sc/articleshow/135513583.cms",
+          "date": "4 Nov 2026",
+          "summary": "In a significant move, the Supreme Court intervened to address remarks made by the Rajasthan high court about a trial judge. This action stemmed from minor errors in a ruling, which the High Court harshly criticized, despite the fact that these did not alter t…"
+        },
+        {
+          "title": "US midterms 2026: Could a Trump defeat in Congress alter the Iran war?",
+          "link": "https://timesofindia.indiatimes.com/world/us/us-midterms-2026-could-a-trump-defeat-in-congress-alter-the-iran-war/articleshow/135508421.cms",
+          "date": "3 Nov 2026",
+          "summary": ""
+        },
+        {
+          "title": "Trump hails Republican gains in Guam, links them to US midterms hopes",
+          "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/trump-celebrates-early-republican-gains-in-guam-says-hopefully-thats-an-indication-for-us-midterms/articleshow/135510561.cms",
+          "date": "4 Nov 2026",
           "summary": ""
         },
         {
@@ -220,22 +322,10 @@
           "summary": "In a tragic incident, Jesús de Miguel, a forward for CD Tenerife, passed away following a collision with FC Andorra's goalkeeper Jesús Owono during a second-division match. This collision led to cardiac arrest. The football community expressed its sorrow, and…"
         },
         {
-          "title": "Billionaire Mark Cuban to Gen Z: Listen to Jeff Bezos’ advice; just get a job",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/billionaire-mark-cubans-message-to-genz-listen-to-amazon-founder-jeff-bezos-advice-i-always-tell-young-people-go-work-at-/articleshow/135491303.cms",
-          "date": "3 Nov 2026",
-          "summary": "Mark Cuban advises young workers to seek any job to gain practical experience and manage workplace expectations. Both Cuban and Jeff Bezos believe that initial employment develops valuable skills like responsibility and teamwork. They highlight the importance…"
-        },
-        {
           "title": "Ladakh admin asks Sonam Wangchuk's school to halt activities amid pending HC case",
           "link": "https://timesofindia.indiatimes.com/city/srinagar/ladakh-admin-asks-sonam-wangchuks-school-to-halt-activities-amid-pending-hc-case/articleshow/135505719.cms",
           "date": "3 Nov 2026",
           "summary": "The Ladakh administration on Tuesday issued a notice to the Himalayan Institute of Alternatives (HIAL), founded by Sonam Wangchuk, asking it not to undertake any further activities at Desert Flower School in Phyang until the matter is decided by the High Court…"
-        },
-        {
-          "title": "Georgia firm pays $220,000 for nonexistent land, loses bid for refund",
-          "link": "https://timesofindia.indiatimes.com/world/us/a-georgia-company-paid-220000-at-a-tax-auction-for-an-atlanta-parcel-it-says-does-not-exist-after-demanding-its-money-back-it-lost-an-october-30-appeal-because-the-county-was-protected-by-sovereign-immunity/articleshow/135489294.cms",
-          "date": "3 Nov 2026",
-          "summary": "Talon Assets, LLC acquired land in Atlanta for $220,000 at a county tax sale. Doubts about the property led them to request a refund and tax deed cancellation. However, Fulton County dismissed their case, invoking sovereign immunity as a legal defense. The Geo…"
         },
         {
           "title": "Widow faces tax notice for Rs 60 lakh cash deposits; why ITAT gave ‘gift’ relief",
@@ -256,50 +346,8 @@
           "summary": "On Monday, Rahul had challenged the Prime Minister to an open debate on the allegations of him of becoming Prime Minister with \"foreign help\" saying the latter would not dare to accept it. The whole showdown began after Rahul retorted to Modi's 'Ekta Diwas' sp…"
         },
         {
-          "title": "Years of 'rotten egg' smell in Florida prompt county to move against landfill",
-          "link": "https://timesofindia.indiatimes.com/world/us/rotten-egg-smell-has-plagued-florida-residents-for-years-now-county-moves-to-sue-landfill-operator-and-state-agency-after-study-points-to-mount-dora-site-as-likely-source/articleshow/135510267.cms",
-          "date": "3 Nov 2026",
-          "summary": "Residents near a landfill in Florida’s Lake County have complained of a persistent rotten-egg smell for years. Now, county commissioners have voted to move ahead with legal action against landfill operator Hubbard Construction and the state environmental agenc…"
-        },
-        {
-          "title": "Texas school's 640-acre farm raises $400,000 a year for scholarships",
-          "link": "https://timesofindia.indiatimes.com/world/us/in-1984-a-texas-school-district-received-640-acres-of-farmland-decades-later-volunteer-farmers-are-using-its-harvests-to-raise-about-400000-a-year-for-college-scholarships-helping-around-300-students/articleshow/135490407.cms",
-          "date": "3 Nov 2026",
-          "summary": "A 640-acre farmland donation made to a Texas school district in 1984 has become a source of college scholarships for hundreds of students. Local farmers in Gruver volunteer their labour and equipment to grow crops, generating approximately $400,000 annually. S…"
-        },
-        {
-          "title": "Anthropic adds new rule to Claude Code for game clones: What the AI company has to say",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-adds-new-rule-to-claude-code-for-game-clones-company-says-using-claude-to-infringe-ip-is-against-our-/articleshow/135498101.cms",
-          "date": "3 Nov 2026",
-          "summary": "Anthropic has added a rule to Claude Code and Opus 5.5 that stops the AI coding tool from recreating existing video games, even renamed ones. Original and genre games should still work, engineer Addy Osmani said. Some developers, however, report refusals on th…"
-        },
-        {
-          "title": "Teenager spent decades in prison after 1977 double murder confession",
-          "link": "https://timesofindia.indiatimes.com/world/us/a-14-year-old-boy-confessed-to-a-double-murder-after-two-days-of-police-questioning-in-1977-he-was-pardoned-in-2014-after-decades-in-prison-but-a-2026-appeals-court-granted-immunity-to-the-officers-he-sued/articleshow/135494673.cms",
-          "date": "4 Nov 2026",
-          "summary": ""
-        },
-        {
           "title": "1.5-tonne Nasa observatory to re-enter Earth today; debris may fall in India",
           "link": "https://timesofindia.indiatimes.com/india/1-5-tonne-nasa-space-observatory-set-to-crash-on-earth-today-possibility-of-debris-parts-falling-in-india/articleshow/135509019.cms",
-          "date": "3 Nov 2026",
-          "summary": ""
-        },
-        {
-          "title": "Connor McDavid vs Sidney Crosby: Inside the NHL stars' luxury homes",
-          "link": "https://timesofindia.indiatimes.com/sports/nhl/news/connor-mcdavid-vs-sidney-crosby-luxury-homes-what-sets-nhl-stars-modern-edmonton-mansion-and-nova-scotia-lakefront-retreat-apart-in-luxury-privacy-and-modern-luxury-living/articleshow/135495036.cms",
-          "date": "3 Nov 2026",
-          "summary": "Connor McDavid and Sidney Crosby have established different approaches to luxury living away from the NHL spotlight. McDavid’s reported Edmonton mansion reflects contemporary design, personalised spaces and entertainment-focused amenities, while Crosby’s Nova…"
-        },
-        {
-          "title": "Stephen Curry makes $2.5 million profit from $11 million San Francisco property",
-          "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/stephen-curry-made-2-5-million-from-11-million-san-francisco-property-sale-after-abandoning-headquarters-plans/articleshow/135487322.cms",
-          "date": "3 Nov 2026",
-          "summary": "Stephen Curry has sold his San Francisco commercial property for $11 million, making a $2.5 million gross gain after purchasing it for $8.5 million in 2024. The building was originally intended to become the headquarters of his business venture, Thirty Ink. Ho…"
-        },
-        {
-          "title": "US midterms 2026: Could a Trump defeat in Congress alter the Iran war?",
-          "link": "https://timesofindia.indiatimes.com/world/us/us-midterms-2026-could-a-trump-defeat-in-congress-alter-the-iran-war/articleshow/135508421.cms",
           "date": "3 Nov 2026",
           "summary": ""
         },
@@ -326,54 +374,6 @@
           "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/we-are-heartbroken-uefa-mourns-jess-de-miguel-police-probe-possible-involuntary-manslaughter/articleshow/135504270.cms",
           "date": "3 Nov 2026",
           "summary": "CD Tenerife forward Jesus de Miguel, 30, has died after suffering serious injuries in a collision with Andorra goalkeeper Jesus Owono during a Spanish second-division match. Despite receiving emergency treatment, his condition deteriorated, and he passed away…"
-        },
-        {
-          "title": "Desi romance with Trump is fading amid racism and immigration bite",
-          "link": "https://timesofindia.indiatimes.com/world/us/desi-romance-with-trump-is-fading-amid-racism-and-immigration-bite/articleshow/135505214.cms",
-          "date": "3 Nov 2026",
-          "summary": ""
-        },
-        {
-          "title": "Russia gives its drones bigger antennas to beat Ukraine's jamming",
-          "link": "https://timesofindia.indiatimes.com/defence/international/russia-gives-its-drones-bigger-antennas-to-beat-ukraines-jamming/articleshow/135507263.cms",
-          "date": "3 Nov 2026",
-          "summary": "Russia is bolstering its drone attack fleet by integrating more prominent anti-jamming antennas, which are pivotal for securing satellite-navigation signals from interference. This enhancement is meant to ensure drones adhere to their pre-programmed routes ami…"
-        },
-        {
-          "title": "MP Rajya Sabha bypoll: Puri set to win unopposed as nominations of 2 others rejected",
-          "link": "https://timesofindia.indiatimes.com/india/mp-rajya-sabha-bypoll-hardeep-puri-set-to-win-unopposed-as-nominations-of-2-others-rejected/articleshow/135505254.cms",
-          "date": "3 Nov 2026",
-          "summary": ""
-        },
-        {
-          "title": "AICWA seeks intervention from PM Modi regarding the security concerns in Bollywood",
-          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aicwa-seeks-intervention-from-pm-narendra-modi-regarding-the-security-concerns-in-bollywood-after-amitabh-bachchans-recent-appearance-with-a-bulletproof-glass/articleshow/135505096.cms",
-          "date": "3 Nov 2026",
-          "summary": "Amitabh Bachchan's recent public appearance, shielded by bulletproof glass, has sparked alarm regarding the safety crisis in Bollywood. The All Indian Cine Workers Association is pushing Prime Minister Narendra Modi to implement stronger security protocols for…"
-        },
-        {
-          "title": "Bihar CM says ‘crime might happen, but not apradh’; Tejashwi takes swipe",
-          "link": "https://timesofindia.indiatimes.com/india/bihar-cm-samrat-chaudhary-says-crime-might-happen-but-not-apradh-tejashwi-takes-swipe/articleshow/135500927.cms",
-          "date": "3 Nov 2026",
-          "summary": ""
-        },
-        {
-          "title": "'I was disappointed': Why Dhinidhi isn't celebrating her historic Youth Oly medal",
-          "link": "https://timesofindia.indiatimes.com/sports/more-sports/others/i-wasnt-thrilled-i-was-disappointed-why-dhinidhi-desinghu-isnt-celebrating-her-historic-youth-olympics-medal/articleshow/135505031.cms",
-          "date": "3 Nov 2026",
-          "summary": "Dhinidhi Desinghu has made history by clinching a bronze medal in the women's 100m freestyle at the Youth Olympics, becoming the first Indian swimmer to do so. Although she aimed for gold and hoped to shatter the 56-second mark, she expressed disappointment wi…"
-        },
-        {
-          "title": "‘I become CM when I don’t contest elections’: Akhilesh drops hint on UP poll strategy",
-          "link": "https://timesofindia.indiatimes.com/city/varanasi/i-become-cm-when-i-dont-contest-elections-sp-chief-akhilesh-yadav-rules-out-contesting-up-assembly-elections/articleshow/135503086.cms",
-          "date": "3 Nov 2026",
-          "summary": "In an engaging media interaction, Akhilesh Yadav, leader of the Samajwadi Party, lays out his interesting political philosophy, noting that he becomes Chief Minister when he abstains from electoral battles. As the assembly elections loom, he reveals plans to r…"
-        },
-        {
-          "title": "Trump's torment: From draining the swamp to drowning in mid-terms?",
-          "link": "https://timesofindia.indiatimes.com/world/us/trumps-torment-from-draining-the-swamp-to-drowning-in-mid-terms/articleshow/135501382.cms",
-          "date": "3 Nov 2026",
-          "summary": "As Americans head to the polls for the pivotal midterm elections, the stakes couldn't be higher for Trump's administration. Current polling trends indicate a potential shift towards Democratic control in Congress, which could complicate Trump's legislative age…"
         }
       ]
     },
@@ -760,6 +760,18 @@
       "ok": true,
       "items": [
         {
+          "title": "OpenAI says GPT-6 Astra designed a hardware device from scratch in under a week",
+          "link": "https://the-decoder.com/openai-says-gpt-6-astra-designed-a-hardware-device-from-scratch-in-under-a-week/",
+          "date": "3 Nov 2026",
+          "summary": "OpenAI's hardware team used GPT-6 Astra to design a device for the Codex coding agent in under a week, handling everything from the enclosure to the circuit board to the firmware. Several revision rounds were needed before production because the model didn't a…"
+        },
+        {
+          "title": "Rapid LLM development is outrunning the research meant to explain it, study finds",
+          "link": "https://the-decoder.com/rapid-llm-development-is-outrunning-the-research-meant-to-explain-it-study-finds/",
+          "date": "3 Nov 2026",
+          "summary": "Stanford researchers tested 50 widely cited claims about LLMs against 20 current models. 44 percent of the findings are already \"expired,\" and another 34 percent have weakened significantly. The average lifespan is just 15.7 months. Claims about what models ca…"
+        },
+        {
           "title": "AI agents take over at SETI's Allen Telescope Array, scanning for extraterrestrial intelligence",
           "link": "https://the-decoder.com/ai-agents-take-over-at-setis-allen-telescope-array-scanning-for-extraterrestrial-intelligence/",
           "date": "3 Nov 2026",
@@ -806,18 +818,6 @@
           "link": "https://the-decoder.com/goldman-sachs-pulls-ai-coding-tools-from-traders-and-bankers/",
           "date": "2 Nov 2026",
           "summary": "Goldman Sachs is pulling AI coding tools like Claude Code and GitHub Copilot from traders and bankers, limiting access to engineers only. As recently as July, CIO Marco Argenti publicly praised \"vibe coding\" by non-technical staff. Now the bank cites \"producti…"
-        },
-        {
-          "title": "AI elites might hoard intelligence like mercantilists hoarded gold",
-          "link": "https://the-decoder.com/ai-elites-might-hoard-intelligence-like-mercantilists-hoarded-gold/",
-          "date": "2 Nov 2026",
-          "summary": "Engineer Venkatesh Rao compares the fear of AI job losses to mercantilism: intelligence is treated as a scarce resource that elites want to control. But AI could boost demand for human thinking, much like early capitalism made people voluntarily work more. The…"
-        },
-        {
-          "title": "SpaceXSI apparently cuts Grok Bot quotas weeks after Musk called it his fastest-growing product",
-          "link": "https://the-decoder.com/spacexsi-apparently-cuts-grok-bot-quotas-weeks-after-musk-called-it-his-fastest-growing-product/",
-          "date": "2 Nov 2026",
-          "summary": "SpaceXSI is apparently cutting usage limits for its AI agent Grok Bot, less than two weeks after Musk called it his fastest-growing product. The operating costs were \"unsustainably high relative to revenue,\" Musk wrote on X. OpenAI and Anthropic are also tight…"
         }
       ]
     },
@@ -934,7 +934,7 @@
         {
           "title": "Run AI Models for Edge Application Development with Just a Few Commands",
           "link": "https://developer.nvidia.com/blog/run-ai-models-for-edge-application-development-with-just-a-few-commands/",
-          "date": "30 Oct 2026",
+          "date": "3 Nov 2026",
           "summary": "AI is expanding beyond the data center as developers build a new generation of agents to act at the edge: monitoring driver attention and cabin conditions,..."
         },
         {
@@ -1152,6 +1152,36 @@
       "ok": true,
       "items": [
         {
+          "title": "EU Court Advisor Warns Google AI Chatbot May Breach Copyright Rules",
+          "link": "https://yro.slashdot.org/story/26/11/03/2144244/eu-court-advisor-warns-google-ai-chatbot-may-breach-copyright-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "3 Nov 2026",
+          "summary": "An adviser to the EU's highest court says Google's Gemini may violate publishers' copyright when it reproduces recognizable portions of their articles or circumvents paywalls and other technical protections to generate answers. Reuters reports: The case before…"
+        },
+        {
+          "title": "Bethesda Confirms The Elder Scrolls 6 Is Called 'Sentinel'",
+          "link": "https://games.slashdot.org/story/26/11/03/2113209/bethesda-confirms-the-elder-scrolls-6-is-called-sentinel?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "3 Nov 2026",
+          "summary": "During a video celebrating Bethesda's 40th anniversary, the studio officially confirmed that The Elder Scrolls VI will be titled The Elder Scrolls VI: Sentinel. \"Thank you for 40 years of shared memories,\" wrote Bethesda in a separate tweet. \"We can't wait to…"
+        },
+        {
+          "title": "Firefox's New Mini Window Is Every Multitasker's Dream",
+          "link": "https://news.slashdot.org/story/26/11/03/214205/firefoxs-new-mini-window-is-every-multitaskers-dream?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "3 Nov 2026",
+          "summary": "Mozilla is testing a new Firefox Nightly feature called Mini Window that lets users pop an entire webpage into a small, always-on-top window stripped of most browser controls. \"The idea behind the Firefox Mini Window feature is simple: allow users to move a cu…"
+        },
+        {
+          "title": "Binance Says Hackers Used Fake Job Interviews, AI Tool to Steal $6.3 Billion In Crypto",
+          "link": "https://it.slashdot.org/story/26/11/03/1939254/binance-says-hackers-used-fake-job-interviews-ai-tool-to-steal-63-billion-in-crypto?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "3 Nov 2026",
+          "summary": "Binance says hackers spent months infiltrating its systems through fake job interviews, a tampered developer tool and compromised internal AI tools before stealing $6.34 billion in crypto in the Oct. 29 attack. Co-CEO Richard Teng said Binance has replenished…"
+        },
+        {
+          "title": "Fujifilm To Boost Tape Production 5x As AI Fuels Archiving Demand",
+          "link": "https://hardware.slashdot.org/story/26/11/03/190206/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "3 Nov 2026",
+          "summary": "An anonymous reader quotes a report from Ars Technica: In an announcement released Thursday, Fujifilm said it will invest roughly 10 billion yen (about $63 million) to increase its production capacity fivefold for an unlikely beneficiary of the AI era: magneti…"
+        },
+        {
           "title": "Google Will Turn Off Search For Schools That Reject AI",
           "link": "https://news.slashdot.org/story/26/11/03/1711242/google-will-turn-off-search-for-schools-that-reject-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "3 Nov 2026",
@@ -1210,36 +1240,6 @@
           "link": "https://mobile.slashdot.org/story/26/11/02/205252/spacex-is-reportedly-looking-at-buying-boost-mobile?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "2 Nov 2026",
           "summary": "SpaceX has reportedly held talks with EchoStar about acquiring Boost Mobile or gaining access to its network, potentially giving Starlink a shortcut toward becoming a full-fledged U.S. mobile carrier. Engadget reports: According to Washington Post's sources, t…"
-        },
-        {
-          "title": "OpenAI Might Rebrand Its Data Centers As 'AI Compute Campuses'",
-          "link": "https://slashdot.org/story/26/11/02/1940254/openai-might-rebrand-its-data-centers-as-ai-compute-campuses?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "2 Nov 2026",
-          "summary": "An anonymous reader quotes a report from TechCrunch: Data centers are deeply unpopular. But what if we called them something else? Axios reports that OpenAI is preparing a \"PR blitz\" for after the midterm elections on Tuesday, as Democrats seem likely to win b…"
-        },
-        {
-          "title": "The New York Times Sues Brave Web Browser For AI Scraping, Bypassing Paywalls",
-          "link": "https://yro.slashdot.org/story/26/11/02/1829212/the-new-york-times-sues-brave-web-browser-for-ai-scraping-bypassing-paywalls?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "2 Nov 2026",
-          "summary": "The New York Times and several other publishers have sued (PDF) Brave Software, accusing the browser maker of scraping their websites without permission and helping users bypass paywalls. The Verge reports: According to a complaint (PDF) filed by the companies…"
-        },
-        {
-          "title": "Microsoft's Canada Timezone Troubles Leave Admins Fixing Calendars, Pretending They're In Bogota",
-          "link": "https://news.slashdot.org/story/26/11/02/1538237/microsofts-canada-timezone-troubles-leave-admins-fixing-calendars-pretending-theyre-in-bogota?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "2 Nov 2026",
-          "summary": "Microsoft is scrambling to fix time-zone problems across Outlook, Power Automate, Fabric, SharePoint and other products after parts of Canada stopped observing seasonal clock changes on November 1. \"The company has confirmed problems across a chunk of its soft…"
-        },
-        {
-          "title": "Marvell to Buy Lumentum In $115 Billion Bet On AI Connectivity",
-          "link": "https://slashdot.org/story/26/11/02/1527241/marvell-to-buy-lumentum-in-115-billion-bet-on-ai-connectivity?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "2 Nov 2026",
-          "summary": "Marvell has agreed to acquire optical components maker Lumentum in an all-stock deal with an implied enterprise value of $115 billion. \"AI infrastructure is undergoing a fundamental architectural shift toward optical connectivity, creating an opportunity that…"
-        },
-        {
-          "title": "Supermarket Freezers Across Europe Hit By Second Suspected Cyberattack",
-          "link": "https://it.slashdot.org/story/26/11/02/1522249/supermarket-freezers-across-europe-hit-by-second-suspected-cyberattack?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "2 Nov 2026",
-          "summary": "An anonymous reader quotes a report from The Guardian: Supermarket chains in Sweden, Belgium and Luxembourg have said the temperatures of their refrigerators and freezers in dozens of stores rose overnight, prompting fears of a cyber-attack similar to one that…"
         }
       ]
     },
@@ -1502,6 +1502,12 @@
       "ok": true,
       "items": [
         {
+          "title": "Linux 7.4 is \"Much Healthier\" Thanks to AI",
+          "link": "http://www.linux-magazine.com/Online/News/Linux-7.4-is-Much-Healthier-Thanks-to-AI",
+          "date": "3 Nov 2026",
+          "summary": "At nearly 42 million lines, Linux 7.4 is the largest merge in the history of the kernel."
+        },
+        {
           "title": "Working Exploit for a Linux Kernel Flaw Made Public",
           "link": "http://www.linux-magazine.com/Online/News/Working-Exploit-for-a-Linux-Kernel-Flaw-Made-Public",
           "date": "30 Oct 2026",
@@ -1614,12 +1620,6 @@
           "link": "http://www.linux-magazine.com/Online/News/Linux-Exempt-from-California-s-Age-Verification-Law",
           "date": "1 Sep 2026",
           "summary": "So long as Linux is distributed under the GPL, MIT, BSD, and Apache licenses, the OS is exempt from being required to verify the age of its users in California."
-        },
-        {
-          "title": "Roll Out the Cake: Linux Turns 35",
-          "link": "http://www.linux-magazine.com/Online/News/Roll-Out-the-Cake-Linux-Turns-35",
-          "date": "26 Aug 2026",
-          "summary": "35 years ago, a Finnish student began a humble project that would forever change the course of technology."
         }
       ]
     },
@@ -1630,184 +1630,184 @@
       "ok": true,
       "items": [
         {
-          "title": "nolook added to PyPI",
-          "link": "https://pypi.org/project/nolook/",
+          "title": "papertrace added to PyPI",
+          "link": "https://pypi.org/project/papertrace/",
           "date": "3 Nov 2026",
-          "summary": "Drive an Android device by what is on screen, not by screenshots. Built for coding agents."
+          "summary": "Multi-agent research assistant that cites only the papers it actually retrieved."
         },
         {
-          "title": "cnn-classifier-toolkit added to PyPI",
-          "link": "https://pypi.org/project/cnn-classifier-toolkit/",
+          "title": "pysrim2 added to PyPI",
+          "link": "https://pypi.org/project/pysrim2/",
           "date": "3 Nov 2026",
-          "summary": "A config-driven, reproducible PyTorch toolkit for CNN image classification."
+          "summary": "Automation of SRIM (Stopping and Range of Ions in Matter) tasks via Python"
         },
         {
-          "title": "panic-youtube-mode added to PyPI",
-          "link": "https://pypi.org/project/panic-youtube-mode/",
+          "title": "firpm added to PyPI",
+          "link": "https://pypi.org/project/firpm/",
           "date": "3 Nov 2026",
-          "summary": "Sector Zero panic protocol: instant calming content (cats / minecraft+rain) and work camouflage, right from your keyboard."
+          "summary": "Robust Parks-McClellan FIR filter design"
         },
         {
-          "title": "recall-openai-agents added to PyPI",
-          "link": "https://pypi.org/project/recall-openai-agents/",
+          "title": "atomberg-api added to PyPI",
+          "link": "https://pypi.org/project/atomberg-api/",
           "date": "3 Nov 2026",
-          "summary": "Session memory for the OpenAI Agents SDK, backed by Recall by Polign"
+          "summary": "Async Python client for the Atomberg public cloud API (fans, water purifiers, smart locks)"
         },
         {
-          "title": "lorehub-mcp added to PyPI",
-          "link": "https://pypi.org/project/lorehub-mcp/",
+          "title": "unix-pass-mcp added to PyPI",
+          "link": "https://pypi.org/project/unix-pass-mcp/",
           "date": "3 Nov 2026",
-          "summary": "MCP server that lets AI agents read the Meta Areas of a LoreHub dialogue"
+          "summary": "Local MCP access to Unix pass/GPG with read-only defaults, path scopes, and TOTP"
         },
         {
-          "title": "private-lab-bench added to PyPI",
-          "link": "https://pypi.org/project/private-lab-bench/",
+          "title": "algodif added to PyPI",
+          "link": "https://pypi.org/project/algodif/",
           "date": "3 Nov 2026",
-          "summary": "Local-first evaluation for scientific machine learning on private data."
+          "summary": "Data processing algorithms for diffraction-based X-ray techniques"
         },
         {
-          "title": "django-offsite-backup added to PyPI",
-          "link": "https://pypi.org/project/django-offsite-backup/",
+          "title": "madeleine-mcp added to PyPI",
+          "link": "https://pypi.org/project/madeleine-mcp/",
           "date": "3 Nov 2026",
-          "summary": "Encrypted, immutable off-site backups of a Django project's databases, media and deployment configuration"
+          "summary": "Involuntary, cue-triggered memory for AI agents: sensory signals surface related memories without being asked."
         },
         {
-          "title": "luna-doctor added to PyPI",
-          "link": "https://pypi.org/project/luna-doctor/",
+          "title": "wherefore-build added to PyPI",
+          "link": "https://pypi.org/project/wherefore-build/",
           "date": "3 Nov 2026",
-          "summary": "Diagnose LunaRoute concurrency problems from local agent logs, and emit per-agent config fixes"
+          "summary": "A company that compiles: every asset generated from one source of truth, every change proven."
         },
         {
-          "title": "axim-os added to PyPI",
-          "link": "https://pypi.org/project/axim-os/",
+          "title": "naulon added to PyPI",
+          "link": "https://pypi.org/project/naulon/",
           "date": "3 Nov 2026",
-          "summary": "AXIM OS — Universal CUDA-Free Compute & Graphics Runtime. Runs SYNAXIM models on any CPU/GPU (NVIDIA, AMD, Intel, Apple) via Vulkan/Metal + AVX-512/NEON."
+          "summary": "Charge AI agents to read your site from inside any Python web app. People always read free."
         },
         {
-          "title": "eodhd-guard-mcp added to PyPI",
-          "link": "https://pypi.org/project/eodhd-guard-mcp/",
+          "title": "advexp added to PyPI",
+          "link": "https://pypi.org/project/advexp/",
           "date": "3 Nov 2026",
-          "summary": "A guard-first MCP server for the EODHD market-data API: it catches silent failures, says what each price is, and counts what every call costs."
+          "summary": "PyPI name reservation for the advexp vendor namespace; the Advexp packages for Python (advexp-settings, advexp-configuration, ...) are published under this prefix"
         },
         {
-          "title": "genderize-offline added to PyPI",
-          "link": "https://pypi.org/project/genderize-offline/",
+          "title": "killchain added to PyPI",
+          "link": "https://pypi.org/project/killchain/",
           "date": "3 Nov 2026",
-          "summary": "Offline gender inference from first names and country, a free drop-in for genderize.io, using the World Gender Name Dictionary 2.0."
+          "summary": "Split a build so a frontier coding agent never sees the risky half."
         },
         {
-          "title": "pyraya added to PyPI",
-          "link": "https://pypi.org/project/pyraya/",
+          "title": "allegro-buddy added to PyPI",
+          "link": "https://pypi.org/project/allegro-buddy/",
           "date": "3 Nov 2026",
-          "summary": "PyRaya is a reusable, self-contained Qt text editor widget written in Python (PySide6)"
+          "summary": "A friendly Slurm helper, with presets for the Allegro cluster."
         },
         {
-          "title": "treasy-mcp added to PyPI",
-          "link": "https://pypi.org/project/treasy-mcp/",
+          "title": "rec-benchmark added to PyPI",
+          "link": "https://pypi.org/project/rec-benchmark/",
           "date": "3 Nov 2026",
-          "summary": "Servidor MCP do Treasy: o seu Treasy FP&A dentro do Claude Code, com login pelo navegador"
+          "summary": "Framework-agnostic recsys benchmarking harness — pinned benchmarks, pluggable algorithms, reproducible runs."
         },
         {
-          "title": "google-photos-sdk added to PyPI",
-          "link": "https://pypi.org/project/google-photos-sdk/",
+          "title": "langchain-memtomem added to PyPI",
+          "link": "https://pypi.org/project/langchain-memtomem/",
           "date": "3 Nov 2026",
-          "summary": "Python SDK for the Google Photos Library API"
+          "summary": "A LangGraph BaseStore whose query search runs the memtomem pipeline over Markdown projections"
         },
         {
-          "title": "criogen added to PyPI",
-          "link": "https://pypi.org/project/criogen/",
+          "title": "gdsf added to PyPI",
+          "link": "https://pypi.org/project/gdsf/",
           "date": "3 Nov 2026",
-          "summary": "The fast AI agent framework for Python, a LangChain and LangGraph alternative on a Rust engine: tool calling, multi-agent workflows, human approval, durable threads, memory"
+          "summary": "A minimal Python SDK for gdsf layouts"
         },
         {
-          "title": "axios-accounting added to PyPI",
-          "link": "https://pypi.org/project/axios-accounting/",
+          "title": "wvc added to PyPI",
+          "link": "https://pypi.org/project/wvc/",
           "date": "3 Nov 2026",
-          "summary": "None"
+          "summary": "Version control primitives for model weights: tensor-level hashing and diffs of safetensors checkpoints, without PyTorch."
         },
         {
-          "title": "daup added to PyPI",
-          "link": "https://pypi.org/project/daup/",
+          "title": "gdsfactoryx added to PyPI",
+          "link": "https://pypi.org/project/gdsfactoryx/",
           "date": "3 Nov 2026",
-          "summary": "Download bundled Python practical scripts with simple functions"
+          "summary": "python library to generate GDS layouts"
         },
         {
-          "title": "swippter-cli added to PyPI",
-          "link": "https://pypi.org/project/swippter-cli/",
+          "title": "conference-agent added to PyPI",
+          "link": "https://pypi.org/project/conference-agent/",
           "date": "3 Nov 2026",
-          "summary": "Swippter production-ready software foundation CLI"
+          "summary": "AI agent that compiles academic/professional conferences into a table and exports them as a calendar feed"
         },
         {
-          "title": "prasadapp-shapes added to PyPI",
-          "link": "https://pypi.org/project/prasadapp-shapes/",
+          "title": "livekit-plugins-truefan added to PyPI",
+          "link": "https://pypi.org/project/livekit-plugins-truefan/",
           "date": "3 Nov 2026",
-          "summary": "My own Python patterns package"
+          "summary": "LiveKit Agents plugin for TrueFan AI avatars"
         },
         {
-          "title": "dlt-doctor added to PyPI",
-          "link": "https://pypi.org/project/dlt-doctor/",
+          "title": "bisos.geneweb added to PyPI",
+          "link": "https://pypi.org/project/bisos-geneweb/",
           "date": "3 Nov 2026",
-          "summary": "Production optimization engine and quality accelerator for Databricks Delta Live Tables, Auto Loader, and PySpark pipelines"
+          "summary": "bisos.geneweb: GeneWeb Genealogy via BISOS Capability Bundles"
         },
         {
-          "title": "nexerra added to PyPI",
-          "link": "https://pypi.org/project/nexerra/",
+          "title": "bisos.gitlab added to PyPI",
+          "link": "https://pypi.org/project/bisos-gitlab/",
           "date": "3 Nov 2026",
-          "summary": "Nexerra-R1: a chemical language model for reticular materials design"
+          "summary": "bisos.gitlab: GitLab CE via BISOS Capability Bundles (Dedicated VM; Base Code)"
         },
         {
-          "title": "pq-http-message-signatures added to PyPI",
-          "link": "https://pypi.org/project/pq-http-message-signatures/",
+          "title": "mkdocs-page-actions added to PyPI",
+          "link": "https://pypi.org/project/mkdocs-page-actions/",
           "date": "3 Nov 2026",
-          "summary": "Post-quantum HTTP Message Signatures (RFC 9421 + C2SP httpsig-pq, ML-DSA / FIPS 204) for Python"
+          "summary": "Add contextual copy, Markdown, and AI actions to MkDocs pages"
         },
         {
-          "title": "pixlub added to PyPI",
-          "link": "https://pypi.org/project/pixlub/",
+          "title": "bisos.postgres added to PyPI",
+          "link": "https://pypi.org/project/bisos-postgres/",
           "date": "3 Nov 2026",
-          "summary": "Official Python SDK for the Pixlub image API."
+          "summary": "bisos.postgres: PostgreSQL as the bedrock database of BISOS"
         },
         {
-          "title": "sppu-mlpracticals added to PyPI",
-          "link": "https://pypi.org/project/sppu-mlpracticals/",
+          "title": "vibedata-ossie added to PyPI",
+          "link": "https://pypi.org/project/vibedata-ossie/",
           "date": "3 Nov 2026",
-          "summary": "Python practicals for SPPU AI and Data Science students"
+          "summary": "VibeData semantic-model tooling for Apache Ossie models: validate, coverage, generated tests, column and binding checks, and the query compiler. One library and one `ossie` command shared by the Build agent's skills, Domain CI and Studio's semantic tools."
         },
         {
-          "title": "xnft-lemma-scanner added to PyPI",
-          "link": "https://pypi.org/project/xnft-lemma-scanner/",
+          "title": "vibedata-odcs added to PyPI",
+          "link": "https://pypi.org/project/vibedata-odcs/",
           "date": "3 Nov 2026",
-          "summary": "Antenna measurement and analysis software."
+          "summary": "VibeData data-contract tooling: check, generate, reverse, diff, profile and results for Open Data Contract Standard (ODCS v3.2.0) contracts at a Domain's boundary. One library and one `odcs` command shared by the Build agent's skills, Domain CI and Studio."
         },
         {
-          "title": "uni-robot-agent-runtime added to PyPI",
-          "link": "https://pypi.org/project/uni-robot-agent-runtime/",
+          "title": "bisos.devpi added to PyPI",
+          "link": "https://pypi.org/project/bisos-devpi/",
           "date": "3 Nov 2026",
-          "summary": "Native service runtime for uni-robot-agent; install in a separate environment"
+          "summary": "bisos.devpi: A Minimal devpi Python Package Index via BISOS Capability Bundles"
         },
         {
-          "title": "python-lab-toolkit added to PyPI",
-          "link": "https://pypi.org/project/python-lab-toolkit/",
+          "title": "ipcam-mcp added to PyPI",
+          "link": "https://pypi.org/project/ipcam-mcp/",
           "date": "3 Nov 2026",
-          "summary": "A beginner-friendly CLI and toolkit to generate 52 complete Python lab solutions with automated dataset management."
+          "summary": "MCP server for local IP cameras (ONVIF/RTSP): snapshots, recordings, pan/tilt, presets"
         },
         {
-          "title": "walkthrough added to PyPI",
-          "link": "https://pypi.org/project/walkthrough/",
+          "title": "octadezx added to PyPI",
+          "link": "https://pypi.org/project/octadezx/",
           "date": "3 Nov 2026",
-          "summary": "Placeholder for walkthrough, an upcoming code-review tool by Interjektio. Contains no code."
+          "summary": "Server SDK for the OctaDezx public API and headless Agent API"
         },
         {
-          "title": "voeglein added to PyPI",
-          "link": "https://pypi.org/project/voeglein/",
+          "title": "defdex added to PyPI",
+          "link": "https://pypi.org/project/defdex/",
           "date": "3 Nov 2026",
-          "summary": "Gibt den Liedtext ...Alle Vöglein sind schon da... aus"
+          "summary": "DefDex published-data API SDK"
         },
         {
-          "title": "veil-api-kit added to PyPI",
-          "link": "https://pypi.org/project/veil-api-kit/",
+          "title": "blueskyfeed added to PyPI",
+          "link": "https://pypi.org/project/blueskyfeed/",
           "date": "3 Nov 2026",
-          "summary": "Helpers for veil-api: cookies, sessions, CORS, security, static files, GraphQL, gRPC client, DI, tasks"
+          "summary": "A Django app for displaying a cached Bluesky author feed."
         }
       ]
     }
