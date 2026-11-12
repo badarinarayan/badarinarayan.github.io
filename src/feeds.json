@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T17:26:31Z",
+  "generated": "2026-11-12T22:59:31Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,18 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "US stocks: US market closes lower as Nvidia slide outweighs energy rally",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-ends-lower-as-energy-gains-offset-nvidia-slide/articleshow/135782290.cms",
+          "date": "13 Nov 2026",
+          "summary": "US stocks closed lower as Nvidia’s decline following CEO Jensen Huang’s departure outweighed a rally in energy shares. The S&P 500 fell 0.34%, the Nasdaq lost 0.40% and the Dow declined 0.36%, while retail investors made a record $111 million opening bid for N…"
+        },
+        {
+          "title": "Jensen Huang’s Nvidia exit raises fears over the future of AI financing",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/jensen-huangs-nvidia-exit-raises-fears-over-the-future-of-ai-financing/articleshow/135782110.cms",
+          "date": "13 Nov 2026",
+          "summary": "Nvidia CEO Jensen Huang's reported departure rattled global markets, triggering concerns over the chipmaker's leadership, AI investments and data-centre financing strategy. Nvidia shares tumbled, while Chinese chipmakers rallied amid expectations of potential…"
+        },
         {
           "title": "Meesho block deal: SoftBank-backed entity likely to sell 1% stake worth Rs 1,174 crore",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/meesho-block-deal-softbank-backed-entity-likely-to-sell-1-stake-worth-rs-1174-crore/articleshow/135774127.cms",
@@ -30,18 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/unique-picks-9-stocks-held-by-just-one-mf-scheme-in-october-rally-up-to-144-ytd/slideshow/135763800.cms",
           "date": "12 Nov 2026",
           "summary": "ETMarkets identified 36 stocks held by just one mutual fund scheme each, with equity MF holdings exceeding Rs 10 crore. More than half have gained in CY26, while nine stocks have rallied 50% to 145%, including two that more than doubled."
-        },
-        {
-          "title": "Ola Electric Q2 Results: Loss narrows YoY to Rs 362 crore, revenue falls 39%",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ola-electric-q2-results-loss-narrows-yoy-to-rs-362-crore-revenue-falls-39/articleshow/135765963.cms",
-          "date": "12 Nov 2026",
-          "summary": "Ola Electric Q2 Results: The electric two-wheeler maker's revenue from operations fell 39% year-on-year (YoY) to Rs 421 crore from Rs 690 crore in the year-ago quarter."
-        },
-        {
-          "title": "Zee Entertainment approves Rs 600-crore share buyback at Rs 91 apiece; promoters to stay out",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/zee-entertainment-approves-rs-600-crore-share-buyback-at-rs-91-apiece-promoters-to-stay-out/articleshow/135767979.cms",
-          "date": "12 Nov 2026",
-          "summary": "Zee Entertainment has approved a Rs 600 crore share buyback at Rs 91 per share, a 24% premium over its latest NSE closing price. The company will repurchase up to 6.59 crore shares through the tender offer route, with November 25 fixed as the record date. Prom…"
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -196,22 +196,34 @@
       "ok": true,
       "items": [
         {
-          "title": "Nvidia crisis: Huang agrees to testify before Congress on Chinese 'spy' scandal",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/fired-nvidia-ceo-jensen-huang-agrees-to-testify-before-congress-top-republican-lawmaker-says-he-has-some-very-serious-/articleshow/135777905.cms",
+          "title": "Mississippi's Masala moment: A historic Black victory in America’s Deep South",
+          "link": "https://timesofindia.indiatimes.com/world/us/mississippis-masala-moment-a-historic-black-victory-in-americas-deep-south/articleshow/135769243.cms",
           "date": "12 Nov 2026",
-          "summary": "Jensen Huang has agreed to testify before the US Congress regarding export controls and Nvidia's activities. His resignation as CEO follows an affair involving a woman suspected of spying for China. Colette Kress has been named interim CEO while the board seek…"
+          "summary": ""
         },
         {
-          "title": "'Foreign troops in Ukraine unacceptable': Putin's blunt message to Trump's envoys",
-          "link": "https://timesofindia.indiatimes.com/world/europe/foreign-troops-in-ukraine-unacceptable-putins-blunt-message-during-meeting-with-trumps-envoys/articleshow/135776301.cms",
-          "date": "12 Nov 2026",
-          "summary": "Russian President Vladimir Putin declared that foreign military presence in Ukraine poses a direct threat to Russia's security, making them legitimate targets. His remarks were made during discussions with US officials like Steve Witkoff and Jared Kushner. He…"
+          "title": "At 6.09%, retail inflation breaches RBI's upper tolerance limit after two years",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/at-6-09-retail-inflation-breaches-rbis-upper-tolerance-limit-after-two-years/articleshow/135782584.cms",
+          "date": "13 Nov 2026",
+          "summary": ""
         },
         {
-          "title": "‘It could well be KL Rahul’: Ex-cricketer on DC captaincy plans after Pant trade",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/it-could-well-be-kl-rahul-ex-india-cricketer-on-delhi-capitals-captaincy-plans-after-rishabh-pant-trade/articleshow/135763551.cms",
-          "date": "12 Nov 2026",
-          "summary": "Aakash Chopra has raised crucial points about the Delhi Capitals as they gear up for the IPL season. He expressed worries over the unresolved captaincy situation and questioned the efficiency of their bowling attack. Moreover, Chopra suggested that Rishabh Pan…"
+          "title": "Some people think democracy is in their pockets, says PM Modi",
+          "link": "https://timesofindia.indiatimes.com/india/some-people-think-democracy-is-in-their-pockets-says-pm-modi/articleshow/135781976.cms",
+          "date": "13 Nov 2026",
+          "summary": ""
+        },
+        {
+          "title": "Indian nationals among 14 killed in deadly multi-vehicle crash in UAE's Fujairah",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/indian-nationals-among-14-killed-in-deadly-multi-vehicle-crash-in-uaes-fujairah/articleshow/135780631.cms",
+          "date": "13 Nov 2026",
+          "summary": ""
+        },
+        {
+          "title": "Microsoft Outlook outage hits thousands globally, nearly 1.3L users report email issues",
+          "link": "https://timesofindia.indiatimes.com/world/us/microsoft-outlook-outage-hits-thousands-globally-nearly-1-3l-users-report-email-issues/articleshow/135782745.cms",
+          "date": "13 Nov 2026",
+          "summary": ""
         },
         {
           "title": "Gina Hinojosa says she can work with Elon Musk &amp; his companies, but has a condition",
@@ -220,64 +232,64 @@
           "summary": "Gina Hinojosa, Texas' newly elected governor, has stated that collaboration with Elon Musk must prioritize Texans' interests. She previously criticized the outgoing governor for proposals involving public land transactions near SpaceX operations. Following her…"
         },
         {
-          "title": "Tennessee veteran tased by deputy in mistaken stop gets $1m settlement",
-          "link": "https://timesofindia.indiatimes.com/world/us/in-2022-a-tennessee-deputy-hunting-a-34-year-old-suspect-stopped-a-64-year-old-disabled-veteran-with-long-purple-hair-and-tased-him-fracturing-his-skull-four-years-on-the-county-has-agreed-to-pay-him-1-million/articleshow/135758792.cms",
-          "date": "12 Nov 2026",
-          "summary": "Knox County, Tennessee, has agreed to pay $1 million to Brian Eugene Hux, a 64-year-old disabled Air Force veteran who suffered a fractured skull and brain bleed after being Tasered by a deputy in 2022. The settlement follows a federal appeals court ruling tha…"
+          "title": "Oklahoma man's 141 short-term guests lead to rental ban and $8,528 fines",
+          "link": "https://timesofindia.indiatimes.com/world/us/an-oklahoma-homeowner-hosted-141-guests-during-36-short-term-stays-despite-neighbourhood-rules-after-a-lower-appeals-court-lifted-restrictions-the-state-supreme-court-restored-the-ban-and-upheld-8528-in-fines/articleshow/135746069.cms",
+          "date": "13 Nov 2026",
+          "summary": "A recent ruling by the Supreme Court has imposed a hefty fine of over $8,000 on an Oklahoma homeowner, Adewale Eniola Tawose. This decision reinstates the community's ban on short-term rentals after a legal tussle. Tawose's attempts to host guests led the home…"
         },
         {
-          "title": "IAF adopts indigenous AI as Rajnath Singh calls for future-ready warfare",
-          "link": "https://timesofindia.indiatimes.com/defence/news/iaf-adopts-indigenous-ai-as-rajnath-singh-calls-for-future-ready-warfare/articleshow/135778367.cms",
-          "date": "12 Nov 2026",
-          "summary": "The Indian Air Force has launched indigenous artificial intelligence applications to improve operational efficiency and safety. Defence Minister Rajnath Singh emphasized the need for greater preparedness against emerging threats during the conference in New De…"
-        },
-        {
-          "title": "'I am under house arrest': Wangchuk speaks out against restrictions on movement in Ladakh",
-          "link": "https://timesofindia.indiatimes.com/india/i-am-under-house-arrest-sonam-wangchuk-speaks-out-against-restrictions-on-movement-in-ladakh/articleshow/135778018.cms",
-          "date": "12 Nov 2026",
+          "title": "US markets end lower as Nvidia slump overshadows energy rally",
+          "link": "https://timesofindia.indiatimes.com/business/international-business/us-markets-end-lower-as-nvidia-slump-overshadows-energy-rally/articleshow/135782541.cms",
+          "date": "13 Nov 2026",
           "summary": ""
         },
         {
-          "title": "Huang high, Huang low: Nvidia's boss quits as second affair comes to light",
-          "link": "https://timesofindia.indiatimes.com/business/international-business/huang-high-huang-low-nvidias-boss-quits-as-second-affair-comes-to-light/articleshow/135777570.cms",
-          "date": "12 Nov 2026",
+          "title": "Rajasthan SSR draft counts 1 1 L more voters than SIR list",
+          "link": "https://timesofindia.indiatimes.com/india/rajasthan-ssr-draft-counts-11l-more-voters-than-sir-list/articleshow/135782652.cms",
+          "date": "13 Nov 2026",
           "summary": ""
         },
         {
-          "title": "Mark Wahlberg's charity raises nearly $20m for children over 25 years",
-          "link": "https://timesofindia.indiatimes.com/world/us/in-2001-mark-wahlberg-and-his-brother-founded-a-charity-for-disadvantaged-children-25-years-later-it-has-raised-and-distributed-nearly-20-million-building-community-spaces-and-sending-thousands-to-summer-camp/articleshow/135733362.cms",
-          "date": "12 Nov 2026",
-          "summary": "In 2001, Mark Wahlberg and Jim Wahlberg established the Mark Wahlberg Youth Foundation with a mission to uplift disadvantaged youth. Since its inception, the foundation has raised nearly $20 million, funding essential initiatives like summer camps, educational…"
+          "title": "Indians top again: 9.3L get OECD citizenships in 5 years",
+          "link": "https://timesofindia.indiatimes.com/india/indians-top-again-9-3l-get-oecd-citizenships-in-5-years/articleshow/135784216.cms",
+          "date": "13 Nov 2026",
+          "summary": ""
         },
         {
-          "title": "Mississippi landlord's $99,468 rent suit against youth sports group revived",
-          "link": "https://timesofindia.indiatimes.com/world/us/a-mississippi-landlord-claimed-a-couple-running-a-youth-sports-nonprofit-owed-99468-after-occupying-property-without-a-signed-lease-a-november-10-appeals-court-revived-the-suit-without-deciding-whether-they-owed-rent/articleshow/135766443.cms",
-          "date": "12 Nov 2026",
-          "summary": "A Mississippi appeals court has revived a landlord's $99,468 lawsuit against a couple over alleged unpaid rent and unfinished repairs. It ruled that the lower court wrongly dismissed the complaint without a request from the couple for summary judgment in their…"
+          "title": "Indiana man's pedal pub injury claim barred by waiver signed before tour",
+          "link": "https://timesofindia.indiatimes.com/world/us/an-indiana-man-joined-a-two-hour-pedal-pub-tour-drank-beer-and-fell-while-climbing-off-the-48-inch-high-seat-five-years-later-an-appeals-court-says-the-waiver-he-signed-prevents-his-negligence-claim/articleshow/135739532.cms",
+          "date": "13 Nov 2026",
+          "summary": ""
         },
         {
-          "title": "US proposes rule change that could affect thousands of H-1B visa extensions",
+          "title": "Endangered leatherback turtle Bella achieves 91.8% hatching success in Ecuador",
+          "link": "https://timesofindia.indiatimes.com/science/nature/critically-endangered-leatherback-turtle-bella-makes-remarkable-nesting-attempts-in-ecuador-achieving-918-hatch-success-rate/articleshow/135716561.cms",
+          "date": "13 Nov 2026",
+          "summary": "Bella, a resilient leatherback turtle, made a remarkable nesting attempt in Ecuador, overcoming an array of challenges posed by artificial lighting. Her successful hatchling rates reveal a promising trend, indicating that leatherbacks are beginning to adapt to…"
+        },
+        {
+          "title": "Proposed US rule could put thousands of H-1B visa approvals at risk",
           "link": "https://timesofindia.indiatimes.com/technology/tech-news/us-government-is-proposing-uscis-to-bring-a-new-rule-that-could-mean-thousands-of-employees-on-h-1b-visa-losing-their-visa-approval/articleshow/135755319.cms",
           "date": "12 Nov 2026",
           "summary": "A proposed rule by the Department of Homeland Security could change how H-1B visa extensions are processed. If enforced, it would remove the requirement for USCIS to give deference to previous approvals. This change might lead to an increase in requests for ad…"
         },
         {
-          "title": "Texas man loses home ownership claim despite $287,000 transfer to partner",
-          "link": "https://timesofindia.indiatimes.com/world/us/a-texas-businessman-said-he-bought-a-home-in-2015-with-a-partners-help-while-abroad-but-she-died-and-her-children-inherited-it-an-appeals-court-rejected-his-ownership-challenge-despite-a-287000-bank-transfer/articleshow/135747755.cms",
-          "date": "12 Nov 2026",
-          "summary": "A legal battle came to an end for a Texas entrepreneur who aimed to claim ownership of a property. The appellate court upheld the original ruling, stating that the evidence presented was inadequate to support a resulting trust. The testimony regarding a large…"
+          "title": "Sheikh's wife loses £8.3m London mansion battle over husband's business debts",
+          "link": "https://timesofindia.indiatimes.com/world/uk/billionaire-sheikhs-wife-loses-8-3-million-london-mansion-battle-after-claiming-her-husband-gifted-her-the-property-under-islamic-custom-leaving-the-home-exposed-to-his-80-million-business-debt/articleshow/135759740.cms",
+          "date": "13 Nov 2026",
+          "summary": ""
         },
         {
-          "title": "Nvidia without Huang: Who takes over &amp; why the crisis may just be beginning",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/jensen-huang-resigns-as-nvidia-ceo-who-takes-over-what-lies-ahead-and-why-the-trouble-isnt-over-for-huang-and-nvidia/articleshow/135773398.cms",
-          "date": "12 Nov 2026",
-          "summary": "Jensen Huang has resigned as Nvidia CEO after reports of two affairs, including one with alleged Chinese spy Alice Huang. CFO Colette Kress is interim CEO while the board searches for a permanent successor. Here is who could replace Huang, what his exit means…"
+          "title": "Yogi Adityanath: Bulldozers now UP brand, make them here",
+          "link": "https://timesofindia.indiatimes.com/india/yogi-adityanath-bulldozers-now-up-brand-make-them-here/articleshow/135782072.cms",
+          "date": "13 Nov 2026",
+          "summary": ""
         },
         {
-          "title": "At least 1 dead, 4 hurt in firing near White House; gunman shoots self",
-          "link": "https://timesofindia.indiatimes.com/world/us/us-shooting-4-people-shot-in-neighbourhood-near-white-house-area-cordoned-off/articleshow/135772622.cms",
-          "date": "12 Nov 2026",
-          "summary": "On Thursday, Five individuals were shot in Washington DC's Logan Circle area, prompting a significant police response. Authorities cordoned off businesses, a church, and residential buildings during their investigation of the shooting. The police were searchin…"
+          "title": "Bodies of 2 missing SPOs found with bullet wounds in J&amp;K’s Kishtwar forest",
+          "link": "https://timesofindia.indiatimes.com/india/2-spos-killed-in-jks-kishtwar-service-rifles-missing/articleshow/135781119.cms",
+          "date": "13 Nov 2026",
+          "summary": ""
         },
         {
           "title": "Brittany Mahomes opens up about expanding community efforts in Kansas City",
@@ -292,88 +304,76 @@
           "summary": "Christian Yelich has listed his stunning Malibu mansion for $30 million following a successful World Series victory. This opulent property covers 5,300 square feet and features breathtaking ocean views, perfect for entertaining guests. With plans to move his f…"
         },
         {
-          "title": "'Legend replaces a legend': Trump wants Tim Cook to replace Nvidia CEO Jensen Huang",
-          "link": "https://timesofindia.indiatimes.com/business/international-business/legend-replaces-a-legend-trump-wants-tim-cook-to-replace-nvidia-ceo-jensen-huang/articleshow/135775422.cms",
+          "title": "Nvidia crisis: Huang agrees to testify before Congress on Chinese 'spy' scandal",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/fired-nvidia-ceo-jensen-huang-agrees-to-testify-before-congress-top-republican-lawmaker-says-he-has-some-very-serious-/articleshow/135777905.cms",
           "date": "12 Nov 2026",
-          "summary": "In light of Jensen Huang's sudden resignation from Nvidia, alleged personal conduct issues have arisen. Donald Trump has proposed Tim Cook as a fitting successor. The Nvidia board swiftly acknowledged Huang's significant contributions while confirming his depa…"
+          "summary": "Jensen Huang has agreed to testify before the US Congress regarding export controls and Nvidia's activities. His resignation as CEO follows an affair involving a woman suspected of spying for China. Colette Kress has been named interim CEO while the board seek…"
         },
         {
-          "title": "CEO Jensen Huang exits amid spy row; Nvidia hails his 'immeasurable contribution'",
-          "link": "https://timesofindia.indiatimes.com/business/international-business/nvidia-ceo-jensen-huang-resigns-cfo-colette-kress-to-take-over-as-interim-chief/articleshow/135772633.cms",
+          "title": "Norwegian journalist claims MHA cancelled her visa for Hyderabad event",
+          "link": "https://timesofindia.indiatimes.com/city/hyderabad/orders-from-above-norwegian-journalist-helle-lyng-svendsen-alleges-visa-cancelled-ahead-of-bharat-summit-in-hyderabad/articleshow/135768651.cms",
+          "date": "12 Nov 2026",
+          "summary": "Norwegian journalist Helle Lyng Svendsen had her visa to India cancelled shortly before her flight. She was scheduled to attend the Bharat Summit as a speaker on media and press freedom. Svendsen received the cancellation call from the Indian Embassy just minu…"
+        },
+        {
+          "title": "Wangchuk under ‘house arrest’ as Ladakh rallies against hill council polls in winter",
+          "link": "https://timesofindia.indiatimes.com/india/wangchuk-under-house-arrest-as-ladakh-rallies-against-hill-council-polls-in-winter/articleshow/135780924.cms",
+          "date": "13 Nov 2026",
+          "summary": ""
+        },
+        {
+          "title": "Government confident of holding polls in violence-hit Manipur on time",
+          "link": "https://timesofindia.indiatimes.com/india/government-confident-of-holding-polls-in-violence-hit-manipur-on-time/articleshow/135781853.cms",
+          "date": "13 Nov 2026",
+          "summary": ""
+        },
+        {
+          "title": "Sam Pitroda, PM Modi display rare public bonhomie",
+          "link": "https://timesofindia.indiatimes.com/india/sam-pitroda-pm-modi-display-rare-public-bonhomie/articleshow/135782025.cms",
+          "date": "13 Nov 2026",
+          "summary": ""
+        },
+        {
+          "title": "Huang high, Huang low: Nvidia's boss quits as second affair comes to light",
+          "link": "https://timesofindia.indiatimes.com/business/international-business/huang-high-huang-low-nvidias-boss-quits-as-second-affair-comes-to-light/articleshow/135777570.cms",
           "date": "12 Nov 2026",
           "summary": ""
         },
         {
-          "title": "Russian empress's 197-carat sapphire sells for $4.9m, beats $2m estimate",
-          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/a-197-80-carat-sapphire-once-worn-by-russias-last-imperial-familys-dowager-empress-at-a-1903-royal-ball-has-sold-for-4-9-million-in-geneva-far-above-its-presale-estimate-of-up-to-2-million/articleshow/135774885.cms",
+          "title": "Gunjan wins boxing gold for India at Youth Olympics with dominant 5-0 victory",
+          "link": "https://timesofindia.indiatimes.com/sports/boxing/gunjan-wins-second-boxing-gold-for-india-at-youth-olympics-with-dominant-5-0-victory-over-algerias-bensalah/articleshow/135778467.cms",
           "date": "12 Nov 2026",
-          "summary": "In Geneva, a remarkable 197.80-carat gemstone, the Romanov Sapphire from the Russian Crown Jewels, fetched an impressive $4.9 million. This piece of history, once worn by Dowager Empress Maria Feodorovna, encapsulates the grandeur of imperial Russia. Following…"
+          "summary": "Gunjan showcased her exceptional talent by clinching the women's 48kg gold medal at the Dakar 2026 Youth Olympic Games, achieving a flawless 5-0 victory against Algeria's Bouthaina Bensalah in the final. Earlier, Lairenlakpam Ambekar Meetei made headlines by w…"
         },
         {
-          "title": "Chinese 'spy' Alice Huang's firms invested in DeepSeek, promised Nvidia's Blackwell chips",
-          "link": "https://timesofindia.indiatimes.com/business/international-business/chinese-spy-alice-huangs-companies-invested-in-deepseek-promised-nvidias-blackwell-chips/articleshow/135774367.cms",
+          "title": "Bay of Bengal to Red Sea: How Navy is building partnerships across three seas",
+          "link": "https://timesofindia.indiatimes.com/defence/news/bay-of-bengal-to-red-sea-how-navy-is-building-partnerships-across-three-seas/articleshow/135769465.cms",
           "date": "12 Nov 2026",
-          "summary": "Alice Huang, associated with Nvidia CEO Jensen Huang, has drawn scrutiny over her data centre ventures. Companies linked to her invested in DeepSeek to secure Nvidia's Blackwell chips, which are crucial for AI operations. In Singapore, she is under investigati…"
+          "summary": "In recent weeks, the Indian Navy has engaged in significant naval diplomacy with several countries. Exercises included the India-Myanmar Naval Exercise in Visakhapatnam and Naseem Al Bahr with Oman. Further, the INS Trishul completed a port call in Egypt to di…"
         },
         {
-          "title": "'Need more clarity': Moshin Naqvi shares big update on Rizwan, Imam probe",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/need-more-clarity-mohsin-naqvi-shares-big-update-on-mohammad-rizwan-imam-ul-haq-probe/articleshow/135774133.cms",
+          "title": "‘It could well be KL Rahul’: Ex-cricketer on DC captaincy plans after Pant trade",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/it-could-well-be-kl-rahul-ex-india-cricketer-on-delhi-capitals-captaincy-plans-after-rishabh-pant-trade/articleshow/135763551.cms",
           "date": "12 Nov 2026",
-          "summary": "Pakistan Cricket Board chairman Mohsin Naqvi confirmed that investigations into players Mohammad Rizwan and Imam-ul-Haq are nearing completion and findings are expected soon. Both players are allowed to continue participating in domestic cricket during the inq…"
+          "summary": "Aakash Chopra has raised crucial points about the Delhi Capitals as they gear up for the IPL season. He expressed worries over the unresolved captaincy situation and questioned the efficiency of their bowling attack. Moreover, Chopra suggested that Rishabh Pan…"
         },
         {
-          "title": "Nvidia shares crash 13% in opening trade; market value dips below $4 trillion",
-          "link": "https://timesofindia.indiatimes.com/business/international-business/nvidia-share-price-today-ceo-jensen-huang-resigns-colette-hress-interim-ceo-november-12-2026-outlook-stock-highlights/articleshow/135772530.cms",
+          "title": "IAF adopts indigenous AI as Rajnath Singh calls for future-ready warfare",
+          "link": "https://timesofindia.indiatimes.com/defence/news/iaf-adopts-indigenous-ai-as-rajnath-singh-calls-for-future-ready-warfare/articleshow/135778367.cms",
           "date": "12 Nov 2026",
-          "summary": "The company said on Thursday that Chief Financial Officer Colette Kress would serve as interim CEO while it searches for a permanent replacement. Nvidia also appointed former Synopysys CEO and board member Harvey Jones as the company's first chairman of the bo…"
+          "summary": "The Indian Air Force has launched indigenous artificial intelligence applications to improve operational efficiency and safety. Defence Minister Rajnath Singh emphasized the need for greater preparedness against emerging threats during the conference in New De…"
         },
         {
-          "title": "India can't fight its next war with 17 separate commands: Ex-Navy chief",
-          "link": "https://timesofindia.indiatimes.com/defence/news/india-cant-fight-its-next-war-with-17-separate-commands-says-ex-navy-chief-admiral-sunil-lanba/articleshow/135775116.cms",
-          "date": "12 Nov 2026",
-          "summary": "Former COSC chairman backs theatre commands, and wants faster submarine building and highlights the need for three aircraft carriers."
-        },
-        {
-          "title": "Indians top list again: 9.25L acquired citizenship of OECD countries over past five years",
-          "link": "https://timesofindia.indiatimes.com/india/indians-top-list-again-9-25-lakh-acquired-citizenship-of-oecd-countries-over-past-five-years/articleshow/135773617.cms",
-          "date": "12 Nov 2026",
-          "summary": "Nearly 2.30 lakh became new citizens in 2024"
-        },
-        {
-          "title": "Sandpaper-gate takes fresh twist as former coach accused of hiding the truth",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/sandpaper-gate-takes-another-turn-as-former-coach-accused-of-asking-steve-smith-cameron-bancroft-not-to-reveal-truth/articleshow/135770358.cms",
-          "date": "12 Nov 2026",
-          "summary": "Recent revelations have resurfaced surrounding the infamous 2018 Australian ball-tampering scandal, implicating David Saker, the former bowling coach. Allegedly, Saker counseled players Steve Smith and Cameron Bancroft to hide the use of sandpaper. Usman Khawa…"
-        },
-        {
-          "title": "'Shouting match from hell': Trump, Netanyahu clash in explosive phone call over Iran war",
-          "link": "https://timesofindia.indiatimes.com/world/middle-east/shouting-match-from-hell-trump-netanyahu-clash-in-explosive-phone-call-over-iran-war/articleshow/135770740.cms",
-          "date": "12 Nov 2026",
-          "summary": "US President Donald Trump and Israeli Prime Minister Benjamin Netanyahu recently faced challenges regarding Iran's nuclear strategy. Trump prefers diplomatic solutions while Netanyahu advocates for military action and regime change in Tehran. Their disagreemen…"
-        },
-        {
-          "title": "Abu Dhabi Police arrest 10 after Usman Nurmagomedov and Merab Dvalishvili hotel brawl",
-          "link": "https://timesofindia.indiatimes.com/sports/mma/news/abu-dhabi-police-confirm-10-arrests-after-nurmagomedov-dvalishvili-hotel-brawl-including-two-who-filmed-viral-footage/articleshow/135767511.cms",
-          "date": "12 Nov 2026",
-          "summary": "A mass brawl involving Usman Nurmagomedov and former UFC champion Merab Dvalishvili erupted at an Abu Dhabi hotel ahead of Saturday's RAF event. Abu Dhabi Police confirmed 10 arrests, while footage of the confrontation and claims from both camps have fuelled a…"
-        },
-        {
-          "title": "Alice Huang barred from entering country, misled probe into Megaspeed: Singapore",
-          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/singapore-bars-alice-huang-from-re-entry-issues-stern-warning-over-megaspeed-probe/articleshow/135771402.cms",
-          "date": "12 Nov 2026",
-          "summary": "Alice Huang, a Chinese entrepreneur, faces a warning and a ban from returning to Singapore as investigations unfold. Authorities are scrutinizing her for allegedly providing deceptive information related to Megaspeed, a data center firm. Although evidence agai…"
-        },
-        {
-          "title": "'They lied about my mother for years': Priyanka Gandhi hits back at BJP over Sonia's memoir",
-          "link": "https://timesofindia.indiatimes.com/india/they-lied-about-my-mother-for-years-priyanka-gandhi-hits-back-at-bjp-over-sonias-memoir/articleshow/135770943.cms",
+          "title": "'I am under house arrest': Wangchuk speaks out against restrictions on movement in Ladakh",
+          "link": "https://timesofindia.indiatimes.com/india/i-am-under-house-arrest-sonam-wangchuk-speaks-out-against-restrictions-on-movement-in-ladakh/articleshow/135778018.cms",
           "date": "12 Nov 2026",
           "summary": ""
         },
         {
-          "title": "After back-to-back failures, Isro successfully tests modified PSLV 3rd stage",
-          "link": "https://timesofindia.indiatimes.com/india/after-back-to-back-failures-isro-successfully-tests-modified-pslv-3rd-stage/articleshow/135772183.cms",
+          "title": "Mark Wahlberg's charity raises nearly $20m for children over 25 years",
+          "link": "https://timesofindia.indiatimes.com/world/us/in-2001-mark-wahlberg-and-his-brother-founded-a-charity-for-disadvantaged-children-25-years-later-it-has-raised-and-distributed-nearly-20-million-building-community-spaces-and-sending-thousands-to-summer-camp/articleshow/135733362.cms",
           "date": "12 Nov 2026",
-          "summary": ""
+          "summary": "In 2001, Mark Wahlberg and Jim Wahlberg established the Mark Wahlberg Youth Foundation with a mission to uplift disadvantaged youth. Since its inception, the foundation has raised nearly $20 million, funding essential initiatives like summer camps, educational…"
         }
       ]
     },
@@ -383,6 +383,12 @@
       "cat": "Machine Learning",
       "ok": true,
       "items": [
+        {
+          "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+          "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+          "date": "12 Nov 2026",
+          "summary": ""
+        },
         {
           "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
           "link": "https://huggingface.co/blog/3d-lora-finetuning",
@@ -556,12 +562,6 @@
           "link": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
           "date": "15 Oct 2026",
           "summary": ""
-        },
-        {
-          "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-          "link": "https://huggingface.co/blog/meta-muse-spark-open",
-          "date": "15 Oct 2026",
-          "summary": ""
         }
       ]
     },
@@ -578,6 +578,18 @@
       "cat": "AI News",
       "ok": true,
       "items": [
+        {
+          "title": "Claude Meetings lets Anthropic's AI join your video calls",
+          "link": "https://the-decoder.com/claude-meetings-lets-anthropics-ai-join-your-video-calls/",
+          "date": "12 Nov 2026",
+          "summary": "Anthropic is adding Claude directly to video calls. Claude Meetings joins Google Meet sessions and creates documents, whiteboards, and meeting notes in real time. The feature launches in beta for Team and Enterprise plans, with more platforms coming later. The…"
+        },
+        {
+          "title": "Google's Gemini 4 Hydrogen outscores the bigger Argon just four weeks after its launch",
+          "link": "https://the-decoder.com/googles-gemini-4-hydrogen-outscores-the-bigger-argon-just-four-weeks-after-its-launch/",
+          "date": "12 Nov 2026",
+          "summary": "Google's Gemini 4 Hydrogen replaces the Flash series, but benchmarks suggest it also makes the pricier Argon obsolete. On the independent Artificial Analysis Intelligence Index, Hydrogen nearly matches Claude Sonnet 5.5 for less money but costs about 2.5 times…"
+        },
         {
           "title": "OpenAI’s data suggests that frontier models are hiding their thoughts because developers optimize for capability and compute",
           "link": "https://the-decoder.com/openais-data-suggests-that-frontier-models-are-hiding-their-thoughts-because-developers-optimize-for-capability-and-compute/",
@@ -625,18 +637,6 @@
           "link": "https://the-decoder.com/google-deepminds-alphaproof-code-verified-signals-cryptographic-core-in-four-weeks-instead-of-years/",
           "date": "11 Nov 2026",
           "summary": "Google Deepmind's AlphaProof Code mathematically verified Signal's cryptographic core code in four weeks, a process that typically takes years. AI agents powered by Gemini Carbon wrote more than six million lines of proof code and flagged only about one percen…"
-        },
-        {
-          "title": "Helsing built an AI system that prepares targets for weapons systems and says every decision will carry a human name",
-          "link": "https://the-decoder.com/helsing-built-an-ai-system-that-prepares-targets-for-weapons-systems-and-says-every-decision-will-carry-a-human-name/",
-          "date": "11 Nov 2026",
-          "summary": "Helsing has unveiled Clarity, an AI platform that uses agents to distill sensor data into target recommendations for weapons systems, all under human oversight and European control. But experience from the Iran war, Gaza, and a near-miss involving China shows…"
-        },
-        {
-          "title": "Anthropic says AI is eroding Nvidia's CUDA lead, cutting an AMD chip switch from months to three days",
-          "link": "https://the-decoder.com/anthropic-says-ai-is-eroding-nvidias-cuda-lead-cutting-an-amd-chip-switch-from-months-to-three-days/",
-          "date": "11 Nov 2026",
-          "summary": "Anthropic claims it used AI itself to breach Nvidia's CUDA moat. The company's in-house model Mythos reportedly ported Claude to AMD GPUs in just three days, with almost no human intervention. Anthropic now runs Claude on four chip families and aims to cut cos…"
         }
       ]
     },
@@ -903,6 +903,12 @@
       "ok": true,
       "items": [
         {
+          "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+          "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+          "date": "12 Nov 2026",
+          "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while a…"
+        },
+        {
           "title": "The Download: COP31’s climate challenge and the quest for immortality",
           "link": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
           "date": "12 Nov 2026",
@@ -955,12 +961,6 @@
           "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
           "date": "9 Nov 2026",
           "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to ma…"
-        },
-        {
-          "title": "The climate case for AI has not been made",
-          "link": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
-          "date": "9 Nov 2026",
-          "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to ensuring that AI is designed, powered, an…"
         }
       ]
     },
@@ -970,6 +970,36 @@
       "cat": "Tech · News",
       "ok": true,
       "items": [
+        {
+          "title": "Former Nvidia CEO Jensen Huang Had a Relationship With a Second Employee",
+          "link": "https://slashdot.org/story/26/11/12/2141213/former-nvidia-ceo-jensen-huang-had-a-relationship-with-a-second-employee?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "12 Nov 2026",
+          "summary": "Reuters reports that former Nvidia CEO Jensen Huang had an intimate relationship with a third woman (source paywalled; alternative source ), an unnamed Nvidia employee. The revelation follows reports of two other extramarital affairs: one with Nvidia VP Kimber…"
+        },
+        {
+          "title": "Singapore Says US Not Helpful On Investigation Into Suspected Spy's Company",
+          "link": "https://news.slashdot.org/story/26/11/12/1948204/singapore-says-us-not-helpful-on-investigation-into-suspected-spys-company?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "12 Nov 2026",
+          "summary": "Singapore says U.S. authorities provided limited assistance in its investigation of Megaspeed, the company run by Alice Huang, the Chinese businesswoman whom U.S. intelligence suspects is a Chinese spy and whose relationship with Nvidia CEO Jensen Huang has dr…"
+        },
+        {
+          "title": "Microsoft Outlook Goes Down Nationwide [UPDATE]",
+          "link": "https://tech.slashdot.org/story/26/11/12/1959220/microsoft-outlook-goes-down-nationwide-update?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "12 Nov 2026",
+          "summary": "Microsoft is suffering a major Microsoft 365 outage that's disrupting Outlook, Teams, Copilot and SharePoint for users across the Americas, with more than 129,000 problem reports logged on Downdetector shortly after the disruption began. Microsoft blames the c…"
+        },
+        {
+          "title": "Google Pushes Privacy Angle As Gemini-Powered Smartglasses Debut",
+          "link": "https://yro.slashdot.org/story/26/11/12/1831251/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "12 Nov 2026",
+          "summary": "Google is launching its first Gemini-powered smart glasses, with Samsung supplying the computing hardware. Given their built-in 12-megapixel camera, Google is emphasizing privacy protections, including a tamper-resistant recording light, automatic face redacti…"
+        },
+        {
+          "title": "Iconic First Image of Black Hole Holds Up To Scrutiny",
+          "link": "https://science.slashdot.org/story/26/11/12/0312210/iconic-first-image-of-black-hole-holds-up-to-scrutiny?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "12 Nov 2026",
+          "summary": "An anonymous reader quotes a report from The Conversation: On April 10 2019, the Event Horizon Telescope (EHT) Collaboration revealed the first picture of a black hole. The object is at the centre of a galaxy known as M87, about 55 million light-years away. Th…"
+        },
         {
           "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
           "link": "https://apache.slashdot.org/story/26/11/12/073240/critical-apache-http2-flaw-could-let-unauthenticated-attackers-execute-code-remotely?utm_source=rss1.0mainlinkanon&utm_medium=feed",
@@ -1029,36 +1059,6 @@
           "link": "https://hardware.slashdot.org/story/26/11/11/1950231/ukraine-strikes-cause-permanent-data-loss-at-russias-yandex-cloud?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "11 Nov 2026",
           "summary": "Russia's Yandex says 2.84% of customer data has been permanently lost following Ukrainian strikes on data centers in the country. \"According to the company, recovery is impossible because of critical damage to equipment and the lack of backup copies on the pla…"
-        },
-        {
-          "title": "Court Says Trump Can't Use Leaks To Justify Spying On Journalists' LinkedIn DMs",
-          "link": "https://yro.slashdot.org/story/26/11/11/1822204/court-says-trump-cant-use-leaks-to-justify-spying-on-journalists-linkedin-dms?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "11 Nov 2026",
-          "summary": "An anonymous reader quotes a report from Ars Technica: The Trump administration's fight to stop suspected leaks of top-secret military information on LinkedIn can't sweep in \"a vast number of confidential sources\" of random journalists \"who have no conceivable…"
-        },
-        {
-          "title": "Logitech Giving All 7,000 Employees the Day Off to Play GTA 6",
-          "link": "https://games.slashdot.org/story/26/11/11/180258/logitech-giving-all-7000-employees-the-day-off-to-play-gta-6?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "11 Nov 2026",
-          "summary": "Under a new \"Logi Game Day\" initiative, Logitech is giving all 7,000 of its employees an extra paid day off to play GTA 6 when it launches on November 19. Employees and interns can use the day off anytime over the next year. Tom's Hardware reports: As for Logi…"
-        },
-        {
-          "title": "Apple Is Killing Its Support Community Forum Next Week",
-          "link": "https://apple.slashdot.org/story/26/11/11/1655250/apple-is-killing-its-support-community-forum-next-week?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "11 Nov 2026",
-          "summary": "Apple is shutting down its Apple Support Community forum on November 20, ending a user-to-user support platform whose history stretches back to the 1998 launch as the Apple Tech Exchange. The forum is already read-only, and Apple has not said whether the nearl…"
-        },
-        {
-          "title": "Amazon's Ring Unveils Flying Drone and Robot To Patrol Homes and Businesses",
-          "link": "https://hardware.slashdot.org/story/26/11/11/0144217/amazons-ring-unveils-flying-drone-and-robot-to-patrol-homes-and-businesses?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "11 Nov 2026",
-          "summary": "An anonymous reader quotes a report from CNBC: Amazon's Ring is going deeper into surveillance with an indoor drone for home monitoring and an autonomous robot designed to patrol businesses. The company on Tuesday unveiled the $250 Ring Drone Cam, a security c…"
-        },
-        {
-          "title": "GTA VI Is Now Available For Preloading",
-          "link": "https://games.slashdot.org/story/26/11/11/0137202/gta-vi-is-now-available-for-preloading?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "11 Nov 2026",
-          "summary": "Ancient Slashdot reader Lank writes: GTA VI is now available for preloading. The download weighs in at a whopping 210+ gigabytes on the PS5! Start downloading now and remember to take Nov. 19th off from work. \"On Xbox, preloads for digital versions went live a…"
         }
       ]
     },
@@ -1217,7 +1217,7 @@
           "summary": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills."
         },
         {
-          "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+          "title": "NVIDIA Expands Open Source Commitment With OpenShell Contribution and New AI Infrastructure",
           "link": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
           "date": "10 Nov 2026",
           "summary": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its commitment to open source at KubeCon + C…"
@@ -1320,6 +1320,12 @@
       "cat": "Linux · News",
       "ok": true,
       "items": [
+        {
+          "title": "New KORA Linux Distro to Harness the Power of Local AI",
+          "link": "http://www.linux-magazine.com/Online/News/New-KORA-Linux-Distro-to-Harness-the-Power-of-Local-AI",
+          "date": "12 Nov 2026",
+          "summary": "The development team behind CyanogenMod, Android, and Playtron unveils KORA, a Linux distribution built specifically for AI nerds."
+        },
         {
           "title": "Epic Games Targets Linux for New Launcher",
           "link": "http://www.linux-magazine.com/Online/News/Epic-Games-Targets-Linux-for-New-Launcher",
@@ -1433,12 +1439,6 @@
           "link": "http://www.linux-magazine.com/Online/News/AI-Fixes-Linux-Bottlenecks-Using-Hideous-Code",
           "date": "10 Sep 2026",
           "summary": "A Linux developer used AI to fix bottlenecks that caused problems when building the kernel. The resulting AI-generated code needed a lot of work."
-        },
-        {
-          "title": "Advanced Video Coding Still Under Patent",
-          "link": "http://www.linux-magazine.com/Online/News/Advanced-Video-Coding-Still-Under-Patent",
-          "date": "8 Sep 2026",
-          "summary": "Brazilian patent BRPI0109962B1 has expired, which means that DivX and Xvid are no longer problematic for Linux, but it doesn’t mean that video is all of a sudden fully unleashed."
         }
       ]
     },
@@ -1449,184 +1449,184 @@
       "ok": true,
       "items": [
         {
-          "title": "synfig-mcp added to PyPI",
-          "link": "https://pypi.org/project/synfig-mcp/",
+          "title": "ragas-ng-examples added to PyPI",
+          "link": "https://pypi.org/project/ragas-ng-examples/",
           "date": "12 Nov 2026",
-          "summary": "Live MCP control of Synfig Studio (native bridge + headless fallback)"
+          "summary": "Examples and quickstart templates for ragas-ng"
         },
         {
-          "title": "chmm-lsim added to PyPI",
-          "link": "https://pypi.org/project/chmm-lsim/",
+          "title": "qpiai-finance added to PyPI",
+          "link": "https://pypi.org/project/qpiai-finance/",
           "date": "12 Nov 2026",
-          "summary": "Inference and learning for coupled hidden Markov models and Latent Structure Influence Models (LSIMs): POISE, SED and SVI forward-backward, EM, and discriminative (MMI) training"
+          "summary": "Financial modeling, risk analysis, quantum-inspired and gate-based optimization"
         },
         {
-          "title": "specific-json added to PyPI",
-          "link": "https://pypi.org/project/specific-json/",
+          "title": "kavikemail added to PyPI",
+          "link": "https://pypi.org/project/kavikemail/",
           "date": "12 Nov 2026",
-          "summary": "A json serialisation libary implemented in C"
+          "summary": "Official Python SDK for the Kavik.email email verification API"
         },
         {
-          "title": "fastjs added to PyPI",
-          "link": "https://pypi.org/project/fastjs/",
+          "title": "ragas-ng added to PyPI",
+          "link": "https://pypi.org/project/ragas-ng/",
           "date": "12 Nov 2026",
-          "summary": "Python bindings for Bellard's QuickJS engine"
+          "summary": "Evaluation framework for RAG and LLM applications"
         },
         {
-          "title": "metaquest-teleop added to PyPI",
-          "link": "https://pypi.org/project/metaquest-teleop/",
+          "title": "dinkster-engine added to PyPI",
+          "link": "https://pypi.org/project/dinkster-engine/",
           "date": "12 Nov 2026",
-          "summary": "Meta Quest hand tracking streamed to Python over USB, for teleoperation: wrist poses, 25 joints and 20 joint angles per hand."
+          "summary": "Dinkster execution engine: the scheduler behind the dinkster-protocol boundary (hazard H3)"
         },
         {
-          "title": "stabilo-benchmark added to PyPI",
-          "link": "https://pypi.org/project/stabilo-benchmark/",
+          "title": "neuralign added to PyPI",
+          "link": "https://pypi.org/project/neuralign/",
           "date": "12 Nov 2026",
-          "summary": "Reproducible static and dynamic benchmarks for reference-based UAV video stabilization with Stabilo"
+          "summary": "Joint tensor decomposition and alignment of trial-resolved neural recordings"
         },
         {
-          "title": "qb-cubie added to PyPI",
-          "link": "https://pypi.org/project/qb-cubie/",
+          "title": "blockmetric added to PyPI",
+          "link": "https://pypi.org/project/blockmetric/",
           "date": "12 Nov 2026",
-          "summary": "Declarative acceptance tests, reviews, and static code analysis for Python"
+          "summary": "Official Blockmetric API client: real-time crypto market data (Hyperliquid on-chain positions plus cross-exchange aggregates). Standard library only."
         },
         {
-          "title": "pytest-webhooks-cc added to PyPI",
-          "link": "https://pypi.org/project/pytest-webhooks-cc/",
+          "title": "thousandproblems added to PyPI",
+          "link": "https://pypi.org/project/thousandproblems/",
           "date": "12 Nov 2026",
-          "summary": "pytest fixtures for testing webhooks and emails with webhooks.cc: capture what your app sends and assert on it"
+          "summary": "Fast parser and printer for the TPTP problem and solution syntax (thf, tff, tcf, fof, cnf, tpi)."
         },
         {
-          "title": "pasdas added to PyPI",
-          "link": "https://pypi.org/project/pasdas/",
+          "title": "firstsignal added to PyPI",
+          "link": "https://pypi.org/project/firstsignal/",
           "date": "12 Nov 2026",
-          "summary": "ISR Practical Code Library"
+          "summary": "Read-only incident triage for logs: journalctl, Docker, Kubernetes and files, mapped to the Four Golden Signals."
         },
         {
-          "title": "acidic added to PyPI",
-          "link": "https://pypi.org/project/acidic/",
+          "title": "pie-bench added to PyPI",
+          "link": "https://pypi.org/project/pie-bench/",
           "date": "12 Nov 2026",
-          "summary": "The AutoCorrelation Integral Drill (ACID): Internal Components"
+          "summary": "Measure pie against other inference engines on your own machine and publish the results."
         },
         {
-          "title": "juturna-nodes added to PyPI",
-          "link": "https://pypi.org/project/juturna-nodes/",
+          "title": "nytt added to PyPI",
+          "link": "https://pypi.org/project/nytt/",
           "date": "12 Nov 2026",
-          "summary": "Officially supported Juturna nodes"
+          "summary": "Python wrappers for working with the nytt CLI"
         },
         {
-          "title": "fcraft added to PyPI",
-          "link": "https://pypi.org/project/fcraft/",
+          "title": "ngci-retrofit-bankability added to PyPI",
+          "link": "https://pypi.org/project/ngci-retrofit-bankability/",
           "date": "12 Nov 2026",
-          "summary": "Signed-manifest updater for a self-hosted game or app."
+          "summary": "Splits the capital cost of a building retrofit between lender, owner and public purse, from a hub City"
         },
         {
-          "title": "stract-api added to PyPI",
-          "link": "https://pypi.org/project/stract-api/",
+          "title": "azathoth-ui added to PyPI",
+          "link": "https://pypi.org/project/azathoth-ui/",
           "date": "12 Nov 2026",
-          "summary": "Stract API"
+          "summary": "A local editor for Azathoth workflows, served in your browser."
         },
         {
-          "title": "samplesift added to PyPI",
-          "link": "https://pypi.org/project/samplesift/",
+          "title": "gapwatch added to PyPI",
+          "link": "https://pypi.org/project/gapwatch/",
           "date": "12 Nov 2026",
-          "summary": "Spatial querying and selection of geolocation-tagged data"
+          "summary": "Crash-test how database changes reach your app: find the changes it silently misses."
         },
         {
-          "title": "recover-anything added to PyPI",
-          "link": "https://pypi.org/project/recover-anything/",
+          "title": "ngci-profitability-index added to PyPI",
+          "link": "https://pypi.org/project/ngci-profitability-index/",
           "date": "12 Nov 2026",
-          "summary": "Get back deleted and formatted photos, videos and files, safely. Rebuilds fragmented photos, keeps original names, never writes to the card. Built for AI agents and humans."
+          "summary": "Ranks energy-efficiency scenarios by profitability index under a budget, from a hub City"
         },
         {
-          "title": "dashai-deepseek-v4-qwen35-model-package added to PyPI",
-          "link": "https://pypi.org/project/dashai-deepseek-v4-qwen35-model-package/",
+          "title": "pry-scanner added to PyPI",
+          "link": "https://pypi.org/project/pry-scanner/",
           "date": "12 Nov 2026",
-          "summary": "DeepSeek-V4-Pro Qwen3.5 9B (GGUF IQ4_XS) text generation model for DashAI, with thinking mode disabled"
+          "summary": "Pry - Proves an app you own is exposed by actually trying the exploit"
         },
         {
-          "title": "tslab added to PyPI",
-          "link": "https://pypi.org/project/tslab/",
+          "title": "runee-box added to PyPI",
+          "link": "https://pypi.org/project/runee-box/",
           "date": "12 Nov 2026",
-          "summary": "A batteries-included lab for time series research."
+          "summary": "Python SDK for Rune Box, the open-source governance harness for AI agents: policy, approvals, isolation, budgets, persistent workspaces and signed evidence."
         },
         {
-          "title": "clash-royale-api-py added to PyPI",
-          "link": "https://pypi.org/project/clash-royale-api-py/",
+          "title": "deckcheck added to PyPI",
+          "link": "https://pypi.org/project/deckcheck/",
           "date": "12 Nov 2026",
-          "summary": "An unofficial Python wrapper for the official Clash Royale API."
+          "summary": "A linter for LS-DYNA keyword decks"
         },
         {
-          "title": "licitapilot-mcp added to PyPI",
-          "link": "https://pypi.org/project/licitapilot-mcp/",
+          "title": "planfence added to PyPI",
+          "link": "https://pypi.org/project/planfence/",
           "date": "12 Nov 2026",
-          "summary": "Servidor MCP oficial de LicitaPilot: licitaciones públicas de España (PLACSP y autonómicas) para Claude, ChatGPT, Cursor y cualquier asistente compatible con MCP."
+          "summary": "Deterministic guardrail for Terraform/OpenTofu plan JSON."
         },
         {
-          "title": "warpica added to PyPI",
-          "link": "https://pypi.org/project/warpica/",
+          "title": "luxwave added to PyPI",
+          "link": "https://pypi.org/project/luxwave/",
           "date": "12 Nov 2026",
-          "summary": "Numerical spacetime metrics, stress-energy and energy-condition analysis"
+          "summary": "Python client library for ELARA, LuxWave's RF channel emulator: RF ports, channel impairments (delay, Doppler, noise), scenarios and monitoring"
         },
         {
-          "title": "revtrend added to PyPI",
-          "link": "https://pypi.org/project/revtrend/",
+          "title": "debkit added to PyPI",
+          "link": "https://pypi.org/project/debkit/",
           "date": "12 Nov 2026",
-          "summary": "Track numeric metrics per git commit and visualize trends in Grafana"
+          "summary": "Build, mirror, and verify Debian package repositories on filesystem, S3, and HTTP storage."
         },
         {
-          "title": "gukhanmun-opendict-cdb added to PyPI",
-          "link": "https://pypi.org/project/gukhanmun-opendict-cdb/",
+          "title": "tree-sitter-cpp-ai added to PyPI",
+          "link": "https://pypi.org/project/tree-sitter-cpp-ai/",
           "date": "12 Nov 2026",
-          "summary": "Open Korean Dictionary CDB data for the gukhanmun Python package"
+          "summary": "C/C++ grammar for tree-sitter with generic recovery of macro-shaped syntax (fork of tree-sitter-cpp)"
         },
         {
-          "title": "gukhanmun-loanwords-fst added to PyPI",
-          "link": "https://pypi.org/project/gukhanmun-loanwords-fst/",
+          "title": "comfydv added to PyPI",
+          "link": "https://pypi.org/project/comfydv/",
           "date": "12 Nov 2026",
-          "summary": "NIKL loanword spelling examples FST data for the gukhanmun Python package"
+          "summary": "Quality of life ComfyUI nodes: dynamic string formatting, seed-controlled random selection, and conditional queue interruption."
         },
         {
-          "title": "gukhanmun-loanwords-cdb added to PyPI",
-          "link": "https://pypi.org/project/gukhanmun-loanwords-cdb/",
+          "title": "django-accounts-framework-fdg added to PyPI",
+          "link": "https://pypi.org/project/django-accounts-framework-fdg/",
           "date": "12 Nov 2026",
-          "summary": "NIKL loanword spelling examples CDB data for the gukhanmun Python package"
+          "summary": "Reusable Django authentication, user management, and role framework"
         },
         {
-          "title": "gukhanmun added to PyPI",
-          "link": "https://pypi.org/project/gukhanmun/",
+          "title": "pgrag-eval-lite added to PyPI",
+          "link": "https://pypi.org/project/pgrag-eval-lite/",
           "date": "12 Nov 2026",
-          "summary": "Convert mixed-script Korean text into hangul with native Rust performance"
+          "summary": "Local-First RAG Retrieval, Chunking & pgvector Diagnostic Workbench (CLI)"
         },
         {
-          "title": "zaca added to PyPI",
-          "link": "https://pypi.org/project/zaca/",
+          "title": "dz-devkit-cli added to PyPI",
+          "link": "https://pypi.org/project/dz-devkit-cli/",
           "date": "12 Nov 2026",
-          "summary": "zaca's ADBC driver for Python: PostgreSQL, MySQL and ClickHouse results straight into Arrow"
+          "summary": "A modern CLI toolkit for developers: organize files, scaffold projects, inspect git repos."
         },
         {
-          "title": "cupcake-plugin-dev added to PyPI",
-          "link": "https://pypi.org/project/cupcake-plugin-dev/",
+          "title": "nova-agentic added to PyPI",
+          "link": "https://pypi.org/project/nova-agentic/",
           "date": "12 Nov 2026",
-          "summary": "Create, check, package and document CUPCAKE plugins"
+          "summary": "A QML-powered AI Agent framework for PySide, designed to write and execute code autonomously."
         },
         {
-          "title": "SpiriDetect added to PyPI",
-          "link": "https://pypi.org/project/spiridetect/",
+          "title": "thonny-heritage-themes added to PyPI",
+          "link": "https://pypi.org/project/thonny-heritage-themes/",
           "date": "12 Nov 2026",
-          "summary": "Detections for SpiriSynq: things in the world, where they are, how sure we are, and who saw them"
+          "summary": "Heritage Themes for Thonny"
         },
         {
-          "title": "suvereo-model-ollama added to PyPI",
-          "link": "https://pypi.org/project/suvereo-model-ollama/",
+          "title": "rulestamp-gensen-choshu-rate-lint-jp added to PyPI",
+          "link": "https://pypi.org/project/rulestamp-gensen-choshu-rate-lint-jp/",
           "date": "12 Nov 2026",
-          "summary": "A plugin for Suvereo that provides an Ollama connector."
+          "summary": "源泉徴収 計算コードを国税庁の式で検査する VS Code 拡張 (bundled Node.js runtime)"
         },
         {
-          "title": "suvereo-model-mistral added to PyPI",
-          "link": "https://pypi.org/project/suvereo-model-mistral/",
+          "title": "rulestamp-farm-loss-notice-lint added to PyPI",
+          "link": "https://pypi.org/project/rulestamp-farm-loss-notice-lint/",
           "date": "12 Nov 2026",
-          "summary": "A plugin for Suvereo that provides an Mistral connector."
+          "summary": "Crop insurance claim form deadlines from 7 CFR 457.8 section 14: notice within 72 hours of discovering damage, no later than 15 days after the insurance period ends, phone notice confirmed in writing (bundled Node.js runtime)"
         }
       ]
     }
