@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-21T21:21:22Z",
+  "generated": "2026-11-22T01:49:03Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -196,27 +196,171 @@
       "ok": true,
       "items": [
         {
-          "title": "Iran claims it hit F-16 jet over Gulf, forced emergency landing; US denies attack",
-          "link": "https://timesofindia.indiatimes.com/world/middle-east/iran-claims-it-hit-f-16-jet-over-gulf-forced-emergency-landing-us-denies-attack/articleshow/136057761.cms",
-          "date": "21 Nov 2026",
-          "summary": "Iran's Revolutionary Guard Corps has claimed to have inflicted damage on a US F-16 fighter jet, allegedly leading to its emergency landing in the Gulf. However, the US Central Command has firmly dismissed these assertions, labeling them as untrue. They assured…"
-        },
-        {
-          "title": "Alarms ring as drone industry body flags China-linked parts in military tenders",
-          "link": "https://timesofindia.indiatimes.com/defence/news/alarms-ring-as-military-drone-tenders-specify-china-linked-parts-indian-industry-cites-security-risk/articleshow/136062501.cms",
-          "date": "22 Nov 2026",
-          "summary": ""
-        },
-        {
           "title": "Israel govt formation: Eisenkot invites Netanyahu's Likud party for coalition talks",
           "link": "https://timesofindia.indiatimes.com/world/middle-east/israel-government-formation-eisenkot-invites-netanyahus-likud-party-for-coalition-talks/articleshow/136062828.cms",
           "date": "22 Nov 2026",
           "summary": "In a strategic move, Gadi Eisenkot has called upon members of Prime Minister Benjamin Netanyahu's Likud party to engage in coalition negotiations. The objective is to create a national unity government that reflects the fractured state of the current parliamen…"
         },
         {
+          "title": "2 PIOs now ministers in British Columbia govt, 4 named parliamentary secretaries",
+          "link": "https://timesofindia.indiatimes.com/city/chandigarh/two-of-punjab-origin-lawmakers-appointed-ministers-in-british-columbia-provincial-govt-4-as-parliamentary-secretaries/articleshow/136062631.cms",
+          "date": "22 Nov 2026",
+          "summary": ""
+        },
+        {
+          "title": "AI-generated videos, photos alone don’t amount to forgery: HC",
+          "link": "https://timesofindia.indiatimes.com/city/chandigarh/ai-generated-videos-photos-alone-dont-amount-to-forgery-hc/articleshow/136060561.cms",
+          "date": "22 Nov 2026",
+          "summary": ""
+        },
+        {
+          "title": "Rishabh Pant joins Sachin, Dravid, Kohli in elite list with record-breaking century",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/rishabh-pant-joins-sachin-dravid-kohli-in-elite-list-with-record-breaking-century-in-wellington/articleshow/136065422.cms",
+          "date": "22 Nov 2026",
+          "summary": "Pant became the sixth Indian batter to score a Test hundred in a SENA country, joining Mohammad Azharuddin, Sachin Tendulkar, Rahul Dravid, Virat Kohli and KL Rahul on the list."
+        },
+        {
+          "title": "Ohio shooting: 3 killed, 1 injured at event venue; two suspects in custody",
+          "link": "https://timesofindia.indiatimes.com/world/us/ohio-shooting-3-killed-1-injured-at-event-venue-two-suspects-in-custody/articleshow/136065741.cms",
+          "date": "22 Nov 2026",
+          "summary": ""
+        },
+        {
+          "title": "As Florida uses robot rabbits to catch pythons; study reveals when snakes climb trees",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/as-florida-uses-robot-rabbits-to-eliminate-growing-population-of-burmese-pythons-study-reveals-when-and-how-these-python-use-trees/articleshow/136048606.cms",
+          "date": "21 Nov 2026",
+          "summary": "In 2025, Florida implemented solar-powered robotic rabbit decoys designed to attract Burmese pythons for removal efforts. Researchers tracked 346 pythons from 2017 to 2024 to study their climbing behavior. The study found that juvenile pythons are more likely…"
+        },
+        {
+          "title": "Arizona dad's 2015 deed had wrong address; court backs son, voids later deeds",
+          "link": "https://timesofindia.indiatimes.com/world/us/an-arizona-father-signed-a-deed-to-his-son-in-2015-but-used-the-wrong-street-address-then-signed-another-deed-for-the-property-in-2019-an-appeals-court-has-upheld-the-sons-earlier-claim-and-voided-later-deeds/articleshow/136018435.cms",
+          "date": "22 Nov 2026",
+          "summary": "In a complex legal battle over a Phoenix property, Robert Olsen asserted his ownership via a deed from 2015. His father's mistake in addressing the deed was countered by the accurate legal description, raising legal challenges. Following a transfer to a busine…"
+        },
+        {
+          "title": "Drones hit Russian cargo ship in Baltic, Finland tightens security",
+          "link": "https://timesofindia.indiatimes.com/world/europe/drones-hit-russian-cargo-ship-in-baltic-finland-tightens-security/articleshow/136065032.cms",
+          "date": "22 Nov 2026",
+          "summary": "Ukraine Likely Behind Attack: Finnish Forces"
+        },
+        {
+          "title": "At least 30 houses of Awami members set on fire in Bangladesh",
+          "link": "https://timesofindia.indiatimes.com/world/south-asia/at-least-30-houses-of-awami-members-set-on-fire-in-bangladesh/articleshow/136065044.cms",
+          "date": "22 Nov 2026",
+          "summary": ""
+        },
+        {
+          "title": "Alarms ring as military drone tenders specify China-linked parts",
+          "link": "https://timesofindia.indiatimes.com/defence/news/alarms-ring-as-military-drone-tenders-specify-china-linked-parts-indian-industry-cites-security-risk/articleshow/136062501.cms",
+          "date": "22 Nov 2026",
+          "summary": ""
+        },
+        {
+          "title": "Latur woman gets land papers back after 30 years, lost 4.5 acres for Rs 25k loan",
+          "link": "https://timesofindia.indiatimes.com/life-style/people/meet-mundubai-irappa-davre-the-latur-woman-who-lost-4-5-acres-over-a-rs-25000-wedding-loan-and-finally-received-her-land-ownership-papers-back-after-30-years/articleshow/136051897.cms",
+          "date": "22 Nov 2026",
+          "summary": "For nearly thirty years, Mundubai Irappa Davre from Latur, Maharashtra, battled to reclaim her 4.5 acres of farmland after losing it to a moneylender. Despite the struggles and obstacles she faced, including borrowing Rs 25,000 for her daughter's wedding, she…"
+        },
+        {
+          "title": "Ohio landlord mistakenly removes tenant's art; court upholds her $6,000 award",
+          "link": "https://timesofindia.indiatimes.com/world/us/an-ohio-landlord-mistakenly-removed-a-tenants-belongings-including-paintings-and-ceramics-made-by-her-sister-though-she-had-no-receipts-or-photographs-an-appeals-court-upheld-her-6000-award/articleshow/136030199.cms",
+          "date": "22 Nov 2026",
+          "summary": "Grace Davis was awarded $6,000 by an Ohio court after her landlord mistakenly discarded her personal belongings. Despite lacking receipts or photographs, she provided a detailed list with estimated values. The landlord's management company challenged the award…"
+        },
+        {
+          "title": "Satya Nadella praises Jensen Huang but makes it clear that tech founders are not gods",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-ceo-satya-nadella-praises-jensen-huang-but-makes-it-clear-that-tech-founders-are-not-gods-i-used-to-tell-bill-gates/articleshow/136048942.cms",
+          "date": "21 Nov 2026",
+          "summary": "Satya Nadella highlighted the significant impact of founders in the tech world, emphasizing their human characteristics rather than any mythical traits. He commended Jensen Huang for successfully transforming Nvidia into a robust organization capable of flouri…"
+        },
+        {
+          "title": "Arizona HOA loses bid to force arbitration over disabled son's golf cart gate",
+          "link": "https://timesofindia.indiatimes.com/world/us/arizona-parents-wanted-to-replace-a-backyard-gate-so-their-disabled-son-could-park-his-golf-cart-at-home-but-their-hoa-refused-an-appeals-court-has-rejected-the-associations-attempt-to-force-private-arbitration/articleshow/136032428.cms",
+          "date": "21 Nov 2026",
+          "summary": "In a significant ruling, an Arizona couple, Kevin and Jennifer LoPresto, sought to replace their single gate with a wider double gate to accommodate their disabled son's golf cart. The Wigwam Creek South Community Association rejected their request and pushed…"
+        },
+        {
+          "title": "Umpire celebrates with Pakistan after Asia Cup win; India questions neutrality",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/fighter-jet-gestures-umpire-celebrates-with-pakistan-team-after-controversial-asia-cup-win-india-questions-neutrality/articleshow/136065014.cms",
+          "date": "22 Nov 2026",
+          "summary": "India's blind cricket team had boycotted the trophy presentation ceremony after Pakistan were declared champions despite the final being washed out without a ball being bowled."
+        },
+        {
+          "title": "Rishabh Pant becomes first Indian wicketkeeper to achieve this rare feat",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/rishabh-pant-creates-history-becomes-first-indian-wicketkeeper-to-score-test-hundreds-in-all-sena-countries/articleshow/136065733.cms",
+          "date": "22 Nov 2026",
+          "summary": "Rishabh Pant achieved a remarkable milestone by scoring Test centuries in all four SENA countries. His latest contribution was a century against New Zealand in Wellington. This century marked his return to international cricket after a brief injury hiatus. Pan…"
+        },
+        {
+          "title": "Chris Simms buys $4.5M New York home after selling Connecticut farm for $5.5M",
+          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/chris-simms-bought-a-4-5-million-new-york-city-home-weeks-after-selling-his-300-year-old-connecticut-farmhouse-for-5-5-million-inside-the-former-nfl-quarterbacks-latest-property-move/articleshow/136029993.cms",
+          "date": "20 Nov 2026",
+          "summary": "In the world of real estate, Chris Simms, the former NFL quarterback, has completed a massive sale of his Connecticut farmhouse for $5.5 million, following plenty price cuts. Acquired for a whopping $2.5 million in 2019, this historical property has reportedly…"
+        },
+        {
+          "title": "Patrick Mahomes backs KC Current with advice ahead of NWSL championship final",
+          "link": "https://timesofindia.indiatimes.com/sports/international-sports/my-daughter-needed-me-at-home-naomi-osaka-opened-up-about-choosing-daughter-shai-over-tennis-before-us-open/articleshow/136052520.cms",
+          "date": "22 Nov 2026",
+          "summary": "Naomi Osaka revealed that her daughter, Shai, was the reason she skipped the Cincinnati Open ahead of the 2026 US Open. Despite enjoying a strong North American hardcourt season, the four-time Grand Slam champion felt she had played enough matches and needed t…"
+        },
+        {
+          "title": "Trump asks fed contractors to consult White House before answering Congress inquiries",
+          "link": "https://timesofindia.indiatimes.com/world/us/trump-asks-contractors-to-withhold-privileged-information-from-congress-democrats-cry-foul/articleshow/136065442.cms",
+          "date": "22 Nov 2026",
+          "summary": "Federal contractors are now required to coordinate with the White House before responding to congressional inquiries. Non-compliance with the new directive may result in termination of government contracts. This order is part of Trump's effort to limit congres…"
+        },
+        {
+          "title": "ATP Finals final: Zverev gets his chance to silence critics against Alcaraz",
+          "link": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/alexander-zverev-gets-his-chance-to-silence-critics-against-carlos-alcaraz-in-atp-finals-final/articleshow/136063178.cms",
+          "date": "22 Nov 2026",
+          "summary": "Alcaraz leads Zverev 7-6 in their career meetings. The Spaniard also won their only meeting this year, in the Australian Open semi-finals."
+        },
+        {
+          "title": "Hailee Steinfeld reveals her dream for daughter Harper amid Josh Allen’s success",
+          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/someday-when-harpers-a-little-older-hailee-steinfeld-on-her-heartfelt-dream-for-her-daughter-as-josh-allen-enjoys-an-impressive-season/articleshow/136055567.cms",
+          "date": "21 Nov 2026",
+          "summary": "Josh Allen's wife, Hailee Steinfeld, revealed an emotional dream she has about her daughter."
+        },
+        {
+          "title": "Over 10k PG medical seats in blocked category; govt may review float system",
+          "link": "https://timesofindia.indiatimes.com/india/over-10k-postgraduate-medical-seats-in-blocked-category-govt-may-review-float-system/articleshow/136063107.cms",
+          "date": "22 Nov 2026",
+          "summary": ""
+        },
+        {
+          "title": "Amit Shah backs Siang dam in Arunachal Pradesh, promises dialogue with protesters",
+          "link": "https://timesofindia.indiatimes.com/city/guwahati/shah-backs-siang-dam-promises-dialogue-with-protesters/articleshow/136057339.cms",
+          "date": "21 Nov 2026",
+          "summary": "Project Vital For India’s Security, Energy Needs: Shah"
+        },
+        {
+          "title": "Trump, Xi, Putin agree on UN reforms: What it means for India's permanent UNSC seat bid",
+          "link": "https://timesofindia.indiatimes.com/india/trump-xi-putin-agree-on-un-reforms-what-it-means-for-indias-permanent-unsc-seat-bid/articleshow/136050826.cms",
+          "date": "21 Nov 2026",
+          "summary": ""
+        },
+        {
           "title": "Nepal PM to reach Delhi today for first foreign bilateral trip - what's on agenda",
           "link": "https://timesofindia.indiatimes.com/india/nepal-pm-balendra-shah-to-reach-delhi-on-sunday-for-his-first-foreign-bilateral-trip-whats-on-agenda/articleshow/136057927.cms",
           "date": "21 Nov 2026",
+          "summary": ""
+        },
+        {
+          "title": "Banning AI tools neither practical nor wise: CJI",
+          "link": "https://timesofindia.indiatimes.com/city/hyderabad/no-student-should-be-held-guilty-on-word-of-machine-alone-cji-surya-kant-at-legal-education-conference-in-hyderabad/articleshow/136057721.cms",
+          "date": "21 Nov 2026",
+          "summary": "Chief Justice of India Surya Kant addressed the need for a balanced approach to AI in legal education. He emphasized the importance of independent reasoning and academic integrity for future lawyers. Kant also proposed mandatory legal aid work for law students…"
+        },
+        {
+          "title": "Travis Kelce's mom Donna Kelce opens up about living alone and life without sons",
+          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/i-live-alone-and-i-dont-really-care-what-anybody-thinks-travis-kelces-mom-donna-kelce-opened-up-about-living-alone-and-life-away-from-her-sons/articleshow/136024109.cms",
+          "date": "21 Nov 2026",
+          "summary": "Donna Kelce has opened up about living alone in Florida while her sons, Jason and Travis, manage demanding careers and busy personal lives. In an interview with Architectural Digest, she admitted she sometimes has no idea which city they are visiting. Despite…"
+        },
+        {
+          "title": "Amit Shah &amp; Sergio Gor laud joint effort in transnational narcotics network bust",
+          "link": "https://timesofindia.indiatimes.com/india/amit-shah-sergio-gor-laud-joint-effort-in-transnational-narcotics-network-bust/articleshow/136065009.cms",
+          "date": "22 Nov 2026",
           "summary": ""
         },
         {
@@ -226,154 +370,10 @@
           "summary": "A military operation in Guasave led to the arrest of cartel leader Fausto Isidro Meza Flores, known as El Chapo Isidro. The operation triggered widespread violence, resulting in the deaths of 11 people, including soldiers and cartel gunmen. Cartel operatives r…"
         },
         {
-          "title": "As Florida uses robot rabbits to catch pythons; study reveals when snakes climb trees",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/as-florida-uses-robot-rabbits-to-eliminate-growing-population-of-burmese-pythons-study-reveals-when-and-how-these-python-use-trees/articleshow/136048606.cms",
+          "title": "Iran claims it hit F-16 jet over Gulf, forced emergency landing; US denies attack",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/iran-claims-it-hit-f-16-jet-over-gulf-forced-emergency-landing-us-denies-attack/articleshow/136057761.cms",
           "date": "21 Nov 2026",
-          "summary": "In 2025, Florida implemented solar-powered robotic rabbit decoys designed to attract Burmese pythons for removal efforts. Researchers tracked 346 pythons from 2017 to 2024 to study their climbing behavior. The study found that juvenile pythons are more likely…"
-        },
-        {
-          "title": "Cricketer Yuzvendra Chahal joins BJP, gets role in OBC committee",
-          "link": "https://timesofindia.indiatimes.com/india/cricketer-yuzvendra-chahal-joins-bjp-gets-role-in-obc-morcha-executive-committee/articleshow/136059077.cms",
-          "date": "21 Nov 2026",
-          "summary": ""
-        },
-        {
-          "title": "NY woman can pursue rent stabilisation claim after 20 years on commercial lease",
-          "link": "https://timesofindia.indiatimes.com/world/us/a-new-york-woman-says-she-lived-in-an-apartment-for-20-years-but-the-landlord-required-her-company-to-sign-a-commercial-lease-for-residential-space-an-appeals-court-has-allowed-her-rent-stabilisation-fight-to-continue/articleshow/136020046.cms",
-          "date": "21 Nov 2026",
-          "summary": "A landlord's attempts to reclaim a Manhattan apartment are hindered due to ongoing claims about rent stabilization. E. Terese Carpenter has resided in the unit for over 20 years, despite the existence of a commercial lease. The appeals court identified unresol…"
-        },
-        {
-          "title": "Brazil's ex-president Jair Bolsonaro admitted to ICU with acute bowel obstruction",
-          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/brazils-imprisoned-ex-president-jair-bolsonaro-admitted-to-icu-with-acute-bowel-obstruction/articleshow/136062891.cms",
-          "date": "22 Nov 2026",
-          "summary": ""
-        },
-        {
-          "title": "Bihar redux in UP: Can Priyanka deliver for Rahul again in Cong-SP number game?",
-          "link": "https://timesofindia.indiatimes.com/india/bihar-alliance-redux-in-up-congress-sp-play-numbers-game-can-priyanka-do-it-for-rahul-again/articleshow/136025450.cms",
-          "date": "21 Nov 2026",
-          "summary": "Akhilesh Yadav and Rahul Gandhi are negotiating a seat-sharing arrangement for the upcoming Uttar Pradesh assembly elections. The Samajwadi Party and Congress, both part of the INDIA alliance, are facing tensions over seat allocations. Previous experiences in…"
-        },
-        {
-          "title": "Humayun, Sher Shah, one fort: Pak min highlights Purana Quila’s history at SCO summit",
-          "link": "https://timesofindia.indiatimes.com/india/reflecting-on-purana-qilas-history-pakistan-minister-invokes-humanyun-sher-shah-suri-at-sco-civilisational-dialogue-to-assert-cultural-diversity/articleshow/136062370.cms",
-          "date": "22 Nov 2026",
-          "summary": ""
-        },
-        {
-          "title": "Indiana condo buyer pays $9,489 in HOA dues, court says he still owes more",
-          "link": "https://timesofindia.indiatimes.com/world/us/an-indiana-man-bought-a-condo-hoping-to-live-with-his-daughter-but-missed-homeowners-fees-and-faced-a-9213-judgment-even-after-paying-9489-an-appeals-court-ruled-he-still-owed-more/articleshow/136022487.cms",
-          "date": "22 Nov 2026",
-          "summary": "Onnie James Florence Jr. encountered significant legal troubles stemming from his failure to pay homeowners' association fees for his condominium in Indiana. After acquiring the unit, he neglected to keep up with payments while residing in Illinois. The Meridi…"
-        },
-        {
-          "title": "Satya Nadella praises Jensen Huang but makes it clear that tech founders are not gods",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-ceo-satya-nadella-praises-jensen-huang-but-makes-it-clear-that-tech-founders-are-not-gods-i-used-to-tell-bill-gates/articleshow/136048942.cms",
-          "date": "21 Nov 2026",
-          "summary": "Satya Nadella highlighted the significant impact of founders in the tech world, emphasizing their human characteristics rather than any mythical traits. He commended Jensen Huang for successfully transforming Nvidia into a robust organization capable of flouri…"
-        },
-        {
-          "title": "Swiss Alps ice retreat reveals 4,000-year-old bronze neck ring on mountain pass",
-          "link": "https://timesofindia.indiatimes.com/science/archaeology/as-ice-receded-on-a-swiss-alpine-pass-archaeologists-discovered-a-bronze-neck-ring-estimated-to-be-4000-years-old-experts-say-it-is-the-first-early-bronze-age-jewellery-found-at-that-location/articleshow/136055916.cms",
-          "date": "22 Nov 2026",
-          "summary": "A remarkable discovery at Lötschen Pass has unearthed a 4,000-year-old bronze neck ring, making it the first metal artifact found at this significant historical site. While previous discoveries were primarily organic materials preserved in ice, this find sugge…"
-        },
-        {
-          "title": "J'khand CM Soren writes to CJI seeking urgent appointment of HC chief justice successor",
-          "link": "https://timesofindia.indiatimes.com/india/jharkhand-cm-hemant-soren-writes-to-cji-seeking-urgent-appointment-of-hc-chief-justice-successor/articleshow/136062275.cms",
-          "date": "22 Nov 2026",
-          "summary": ""
-        },
-        {
-          "title": "'Bigger than match-fixing': Legendary cricketer's explosive Sandpaper Gate claim",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/bigger-than-hansie-cronjes-match-fixing-legendary-cricketer-makes-explosive-sandpaper-gate-claim/articleshow/136059670.cms",
-          "date": "21 Nov 2026",
-          "summary": "Geoffrey Boycott has sharply criticized Steven Smith for his inaction during the infamous 2018 ball-tampering scandal. He believes that Smith's choice to disengage from the team’s scheme is simply unacceptable. Boycott insists that the gravity of this scandal…"
-        },
-        {
-          "title": "Hailee Steinfeld reveals her dream for daughter Harper amid Josh Allen’s success",
-          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/someday-when-harpers-a-little-older-hailee-steinfeld-on-her-heartfelt-dream-for-her-daughter-as-josh-allen-enjoys-an-impressive-season/articleshow/136055567.cms",
-          "date": "21 Nov 2026",
-          "summary": "Josh Allen's wife, Hailee Steinfeld, revealed an emotional dream she has about her daughter."
-        },
-        {
-          "title": "Travis Kelce's mom Donna Kelce opens up about living alone and life without sons",
-          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/i-live-alone-and-i-dont-really-care-what-anybody-thinks-travis-kelces-mom-donna-kelce-opened-up-about-living-alone-and-life-away-from-her-sons/articleshow/136024109.cms",
-          "date": "21 Nov 2026",
-          "summary": "Donna Kelce has opened up about living alone in Florida while her sons, Jason and Travis, manage demanding careers and busy personal lives. In an interview with Architectural Digest, she admitted she sometimes has no idea which city they are visiting. Despite…"
-        },
-        {
-          "title": "Ladakh records 70% voting in panchayat polls, 52% in municpal elections",
-          "link": "https://timesofindia.indiatimes.com/india/ladakh-records-70-voting-in-panchayat-polls-52-in-municpal-elections/articleshow/136061630.cms",
-          "date": "21 Nov 2026",
-          "summary": ""
-        },
-        {
-          "title": "'Working to curb India’s rise': US report flags China's support to Pak during Op Sindoor",
-          "link": "https://timesofindia.indiatimes.com/india/working-to-suppress-indias-rise-us-panel-report-flags-chinas-support-to-pakistan-during-operation-sindoor/articleshow/136056716.cms",
-          "date": "21 Nov 2026",
-          "summary": "In May 2025, China's military support for Pakistan intensified India's security dilemmas. This report reveals Beijing's ongoing strategies aimed at stifling India's strategic advancements through both military and economic tactics. With Pakistan receiving adva…"
-        },
-        {
-          "title": "France to take Rohingya genocide row to UN after Myanmar rejects ICJ verdict",
-          "link": "https://timesofindia.indiatimes.com/world/europe/france-moves-to-take-rohingya-genocide-row-to-un-security-council-after-myanmar-rejects-icj-verdict/articleshow/136060135.cms",
-          "date": "21 Nov 2026",
-          "summary": "Myanmar has rejected the International Court of Justice ruling regarding genocide against the Rohingya in 2017. France's foreign ministry plans to seek a UN Security Council meeting in response to Myanmar's refusal. Additionally, Article 94 of the UN charter o…"
-        },
-        {
-          "title": "Russian cargo vessel linked to defence ministry comes under drone attack near Finland",
-          "link": "https://timesofindia.indiatimes.com/world/europe/russian-cargo-vessel-linked-to-defence-ministry-comes-under-drone-attack-near-finland/articleshow/136060025.cms",
-          "date": "21 Nov 2026",
-          "summary": "A cargo vessel named Sparta II was struck by drones while in international waters on Saturday. The attack caused the vessel to catch fire and drift into Finnish territorial waters. Finnish authorities are monitoring the situation and preparing for potential re…"
-        },
-        {
-          "title": "Trump says Iran deal could last 20 years, claims US removed Tehran leadership twice",
-          "link": "https://timesofindia.indiatimes.com/world/us/trump-says-iran-deal-could-last-20-years-claims-us-removed-tehran-leadership-twice-eyes-ultimate-regime-change/articleshow/136058892.cms",
-          "date": "21 Nov 2026",
-          "summary": "Donald Trump emphasizes that any deal with Iran must be robust enough to endure future changes in presidential leadership. He recognizes the challenges presented by Iran's current regime yet believes there might be potential for more reasonable negotiations. H…"
-        },
-        {
-          "title": "'Don't dislike BJP': Shehzad on quitting politics, says rift with brother ideological",
-          "link": "https://timesofindia.indiatimes.com/india/dont-dislike-bjp-shehzad-poonawalla-on-quitting-politics-calls-rift-with-brother-ideological/articleshow/136058361.cms",
-          "date": "21 Nov 2026",
-          "summary": "Shehzad Poonawalla clarified that his exit from active politics is not due to dislike for the BJP. He expressed his ongoing support for Prime Minister Narendra Modi and other BJP leaders. Differences with his brother Tehseen Poonawalla were framed as a clash o…"
-        },
-        {
-          "title": "Why India still needs tanks in the age of drones, explained by the man who ran its nukes",
-          "link": "https://timesofindia.indiatimes.com/defence/news/why-india-still-needs-tanks-in-the-age-of-drones-explained-by-the-man-who-ran-its-nukes/articleshow/136016003.cms",
-          "date": "20 Nov 2026",
-          "summary": ""
-        },
-        {
-          "title": "US lawmaker turns up heat on Musk over Ukraine Starshield disruptions",
-          "link": "https://timesofindia.indiatimes.com/world/us/no-answers-no-funding-us-lawmaker-turns-up-heat-on-musk-over-ukraine-starshield-disruptions/articleshow/136058358.cms",
-          "date": "21 Nov 2026",
-          "summary": "US Representative Jim Himes has warned SpaceX about potential funding cuts if it does not clarify its actions regarding Ukraine. The company faced scrutiny over its restrictions on satellite communications that impacted Ukraine's military operations. President…"
-        },
-        {
-          "title": "IB officer shot at by driver inside Haridwar office",
-          "link": "https://timesofindia.indiatimes.com/city/dehradun/ib-officer-shot-at-by-driver-inside-haridwar-office-rushed-to-aiims-rishikesh/articleshow/136056957.cms",
-          "date": "21 Nov 2026",
-          "summary": "A disturbing shooting took place in Kankhal, Haridwar, where SP CP Nautiyal, an officer with the Intelligence Bureau, was attacked by his hired driver, Vinod Negi, who was quickly apprehended. The officer has been admitted to the hospital and is said to be in…"
-        },
-        {
-          "title": "Marcellus Young Casario's final moments revealed after sudden death at just 18",
-          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/18-year-old-uga-football-commits-sudden-death-takes-another-heartbreaking-turn-as-family-reveals-his-final-moments/articleshow/136057773.cms",
-          "date": "21 Nov 2026",
-          "summary": "Marcellus Young Casario, an 18-year-old football player, died unexpectedly on November 13 due to a sudden medical incident. His family reported that he had felt unwell before going to sleep after getting water. An autopsy has been completed, but the family awa…"
-        },
-        {
-          "title": "'Character remains same': PM Modi explains his 'don't buy gold' request",
-          "link": "https://timesofindia.indiatimes.com/india/countrys-character-remains-the-same-pm-modi-praises-people-for-heeding-call-to-not-buy-gold/articleshow/136056082.cms",
-          "date": "21 Nov 2026",
-          "summary": ""
-        },
-        {
-          "title": "'My parents came from India': Nikhil's emotional Player of the Match moment at MCG",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/my-parents-came-from-india-last-night-nikhil-chaudharys-emotional-player-of-the-match-moment-at-mcg/articleshow/136054794.cms",
-          "date": "21 Nov 2026",
-          "summary": "Nikhil Chaudhary delivered a match-winning performance in his first T20I against England at the MCG. He scored 66 runs off 38 balls and took two wickets for 21 runs. His parents, who traveled from India, watched him play live for the first time. The all-rounde…"
+          "summary": "Iran's Revolutionary Guard Corps has claimed to have inflicted damage on a US F-16 fighter jet, allegedly leading to its emergency landing in the Gulf. However, the US Central Command has firmly dismissed these assertions, labeling them as untrue. They assured…"
         }
       ]
     },
@@ -971,6 +971,18 @@
       "ok": true,
       "items": [
         {
+          "title": "US DOJ Charges Suspected Russian Agent for Stalking Palantir Employees in California",
+          "link": "https://news.slashdot.org/story/26/11/21/212248/us-doj-charges-suspected-russian-agent-for-stalking-palantir-employees-in-california?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "21 Nov 2026",
+          "summary": "America's Justice Department is prosecuting a suspected foreign agent in \"a state-sponsored operation\" that targeted tech workers in Palo Alto, California. \"We will not tolerate any efforts &mdash; by foreign governments or otherwise &mdash; to turn Silicon Va…"
+        },
+        {
+          "title": "59 Years Later, 'The Prisoner' is Getting a Second Remake - from Amazon Studios",
+          "link": "https://entertainment.slashdot.org/story/26/11/21/1956209/59-years-later-the-prisoner-is-getting-a-second-remake---from-amazon-studios?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "21 Nov 2026",
+          "summary": "The Prisoner is getting a remake, reports ScreenRant. \"Amazon Studios is currently developing a new and modern twist on the short-lived series...\" ITV only aired 17 episodes of the original Prisoner back in 1967 and 1968, but it did receive a nomination for Be…"
+        },
+        {
           "title": "Toyota, Nissan, and Honda to Standardize Parts to Lower Costs",
           "link": "https://tech.slashdot.org/story/26/11/21/0627227/toyota-nissan-and-honda-to-standardize-parts-to-lower-costs?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "21 Nov 2026",
@@ -1047,18 +1059,6 @@
           "link": "https://news.slashdot.org/story/26/11/20/2223202/trump-vows-to-stop-us-companies-from-building-data-centers-abroad?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "20 Nov 2026",
           "summary": "Longtime Slashdot reader fahrbot-bot shares a report from CNBC: President Donald Trump on Friday said U.S. companies will be banned from building data centers in other countries and will face a \"tremendous tax\" penalty if they do so. \"We're going to fight very…"
-        },
-        {
-          "title": "Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains",
-          "link": "https://news.slashdot.org/story/26/11/20/1934244/anthropic-shares-tank-after-huge-ipo-as-the-nasdaq-erases-2026-gains?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "20 Nov 2026",
-          "summary": "U.S. stocks extended their sell-off Friday as Anthropic shares plunged more than 11% on their second day of trading, despite the AI company's record-setting IPO a day earlier. The Nasdaq fell more than 3%, wiping out its gains for 2026, while the S&amp;P 500 d…"
-        },
-        {
-          "title": "Trump Admin Still Won't Let TP-Link Sell Routers In US",
-          "link": "https://yro.slashdot.org/story/26/11/20/1929255/trump-admin-still-wont-let-tp-link-sell-routers-in-us?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "20 Nov 2026",
-          "summary": "An anonymous reader quotes a report from Ars Technica: TP-Link, which may be the top provider of wireless routers for US homes and small businesses, isn't allowed to sell its latest Wi-Fi routers in the US. The Trump administration imposed a sweeping ban on fo…"
         }
       ]
     },
@@ -1388,120 +1388,6 @@
       "ok": true,
       "items": [
         {
-          "title": "weavetab-gate added to PyPI",
-          "link": "https://pypi.org/project/weavetab-gate/",
-          "date": "21 Nov 2026",
-          "summary": "Local-first multimodal zero-shot decision engine (text & image -> choices, yes/no, score) without PyTorch."
-        },
-        {
-          "title": "sepa-xml-tools added to PyPI",
-          "link": "https://pypi.org/project/sepa-xml-tools/",
-          "date": "21 Nov 2026",
-          "summary": "Check, create and upgrade SEPA payment XML files (pain.001 credit transfers, pain.008 direct debits). Offline, official ISO 20022 schemas, plain-English fixes."
-        },
-        {
-          "title": "rubberorca added to PyPI",
-          "link": "https://pypi.org/project/rubberorca/",
-          "date": "21 Nov 2026",
-          "summary": "Python SDK, CLI, and stdio MCP server for RubberOrca ESP32-S3 USB HID over BLE 5.0 GATT and USB CDC Serial."
-        },
-        {
-          "title": "moarch-py added to PyPI",
-          "link": "https://pypi.org/project/moarch-py/",
-          "date": "21 Nov 2026",
-          "summary": "FastAPI CLI — scaffold a feature-first FastAPI project on uv, SQLAlchemy and Alembic, with your own conventions."
-        },
-        {
-          "title": "wallace-audit added to PyPI",
-          "link": "https://pypi.org/project/wallace-audit/",
-          "date": "21 Nov 2026",
-          "summary": "Forensic token usage and USD cost auditor for Antigravity, Claude Code, Grok CLI, and Codex sessions, named after Oscar Wallace."
-        },
-        {
-          "title": "pynteract-agent added to PyPI",
-          "link": "https://pypi.org/project/pynteract-agent/",
-          "date": "21 Nov 2026",
-          "summary": "An AI agent inhabiting a shared interactive Python session"
-        },
-        {
-          "title": "django-tinymce-editor added to PyPI",
-          "link": "https://pypi.org/project/django-tinymce-editor/",
-          "date": "21 Nov 2026",
-          "summary": "A TinyMCE rich text editor for Django forms and admin"
-        },
-        {
-          "title": "sanpypdf added to PyPI",
-          "link": "https://pypi.org/project/sanpypdf/",
-          "date": "21 Nov 2026",
-          "summary": "Sanitize PDFs by rasterizing every page"
-        },
-        {
-          "title": "base64hub added to PyPI",
-          "link": "https://pypi.org/project/base64hub/",
-          "date": "21 Nov 2026",
-          "summary": "Base64 encode, decode and validate in Python and the shell: lenient decoding, URL-safe, no padding, MIME wrap, data URIs. b64 CLI, zero dependencies."
-        },
-        {
-          "title": "cetra-sdk added to PyPI",
-          "link": "https://pypi.org/project/cetra-sdk/",
-          "date": "21 Nov 2026",
-          "summary": "Python SDK for the cetra observability server."
-        },
-        {
-          "title": "libanubis-solver added to PyPI",
-          "link": "https://pypi.org/project/libanubis-solver/",
-          "date": "21 Nov 2026",
-          "summary": "C proof-of-work engine for Anubis challenges: fast, slow, sha256, argon2id, hashx, tensor, tensor-v - with CUDA, Level Zero, Vulkan, OpenCL and TPU backends"
-        },
-        {
-          "title": "calotype added to PyPI",
-          "link": "https://pypi.org/project/calotype/",
-          "date": "21 Nov 2026",
-          "summary": "Python client for Calotype, a hosted screenshot API: send a URL, get the page back as an image."
-        },
-        {
-          "title": "transiograms added to PyPI",
-          "link": "https://pypi.org/project/transiograms/",
-          "date": "21 Nov 2026",
-          "summary": "Markov models of geological categories: Markov chains, hidden and semi-Markov models, transiograms and categorical grid simulation"
-        },
-        {
-          "title": "sector-ai added to PyPI",
-          "link": "https://pypi.org/project/sector-ai/",
-          "date": "21 Nov 2026",
-          "summary": "Python Telegram Bot powered by LangChain and Ollama"
-        },
-        {
-          "title": "foca-plugin-tes-data-crypt4gh added to PyPI",
-          "link": "https://pypi.org/project/foca-plugin-tes-data-crypt4gh/",
-          "date": "21 Nov 2026",
-          "summary": "FOCA gateway plugin that decrypts the Crypt4GH inputs of TES tasks in an extra executor"
-        },
-        {
-          "title": "sloplinter added to PyPI",
-          "link": "https://pypi.org/project/sloplinter/",
-          "date": "21 Nov 2026",
-          "summary": "Zero-bloat CLI linter that detects AI-generated code slop across Python, JS/TS, Rust, C/C++, C#, Go, and Java"
-        },
-        {
-          "title": "pypodcastde added to PyPI",
-          "link": "https://pypi.org/project/pypodcastde/",
-          "date": "21 Nov 2026",
-          "summary": "Update a local library of ARD podcasts and video soundtracks"
-        },
-        {
-          "title": "policywinds-labeler added to PyPI",
-          "link": "https://pypi.org/project/policywinds-labeler/",
-          "date": "21 Nov 2026",
-          "summary": "Labels US bills by policy topic and by which way they move each topic's fixed measure, with checked quotes"
-        },
-        {
-          "title": "bakbak-python added to PyPI",
-          "link": "https://pypi.org/project/bakbak-python/",
-          "date": "21 Nov 2026",
-          "summary": "Official Python SDK for the Bakbak text-to-speech API by Raya"
-        },
-        {
           "title": "devagentnet added to PyPI",
           "link": "https://pypi.org/project/devagentnet/",
           "date": "21 Nov 2026",
@@ -1566,6 +1452,120 @@
           "link": "https://pypi.org/project/rafale-ai/",
           "date": "21 Nov 2026",
           "summary": "AI for defense."
+        },
+        {
+          "title": "lucem-hist added to PyPI",
+          "link": "https://pypi.org/project/lucem-hist/",
+          "date": "21 Nov 2026",
+          "summary": "The compiled part of lucem.hist (histology): install with pip install lucem[hist]"
+        },
+        {
+          "title": "pixelplotlib added to PyPI",
+          "link": "https://pypi.org/project/pixelplotlib/",
+          "date": "21 Nov 2026",
+          "summary": "Scientific plotting with 8-bit and 16-bit pixel-art graphics"
+        },
+        {
+          "title": "cit-course-tools-fa26-cit495-extras-lab03 added to PyPI",
+          "link": "https://pypi.org/project/cit-course-tools-fa26-cit495-extras-lab03/",
+          "date": "21 Nov 2026",
+          "summary": "Prerelease lab extras (reference, scenario scripts, search captures) for CIT495 Lab 03, read by the CIT Course Tools download check."
+        },
+        {
+          "title": "cit-course-tools-fa26-cit495-extras-lab01 added to PyPI",
+          "link": "https://pypi.org/project/cit-course-tools-fa26-cit495-extras-lab01/",
+          "date": "21 Nov 2026",
+          "summary": "Prerelease lab extras (reference, scenario scripts, search captures) for CIT495 Lab 01, read by the CIT Course Tools download check."
+        },
+        {
+          "title": "cit-course-tools-fa26-cit495-extras-course added to PyPI",
+          "link": "https://pypi.org/project/cit-course-tools-fa26-cit495-extras-course/",
+          "date": "21 Nov 2026",
+          "summary": "Prerelease course shared files for CIT495, read by the CIT Course Tools download check."
+        },
+        {
+          "title": "cit-course-tools-fa26-cit495-extras-lab02 added to PyPI",
+          "link": "https://pypi.org/project/cit-course-tools-fa26-cit495-extras-lab02/",
+          "date": "21 Nov 2026",
+          "summary": "Prerelease lab extras (reference, scenario scripts, search captures) for CIT495 Lab 02, read by the CIT Course Tools download check."
+        },
+        {
+          "title": "memvo added to PyPI",
+          "link": "https://pypi.org/project/memvo/",
+          "date": "21 Nov 2026",
+          "summary": "Local-first financial memory for agents. Every answer comes with the line it came from."
+        },
+        {
+          "title": "Pyzzel added to PyPI",
+          "link": "https://pypi.org/project/pyzzel/",
+          "date": "21 Nov 2026",
+          "summary": "None"
+        },
+        {
+          "title": "Olyder added to PyPI",
+          "link": "https://pypi.org/project/olyder/",
+          "date": "21 Nov 2026",
+          "summary": "Verification-driven execution, independent checks, and evidence for AI coding agents"
+        },
+        {
+          "title": "puxti-bi-core added to PyPI",
+          "link": "https://pypi.org/project/puxti-bi-core/",
+          "date": "21 Nov 2026",
+          "summary": "BI assets as code: the spec schema for datasets, charts and dashboards used by Puxti."
+        },
+        {
+          "title": "audio-to-video-with-image added to PyPI",
+          "link": "https://pypi.org/project/audio-to-video-with-image/",
+          "date": "21 Nov 2026",
+          "summary": "Universal Audio to Video with Image Converter — Broadcast-grade MP4 podcast & video generator with native WebP and multi-audio support."
+        },
+        {
+          "title": "misfire-ci added to PyPI",
+          "link": "https://pypi.org/project/misfire-ci/",
+          "date": "21 Nov 2026",
+          "summary": "Know why the build misfired — an agentic CI failure explainer that classifies real vs. flaky failures and posts an advisory PR comment."
+        },
+        {
+          "title": "aws_sdk_license_manager added to PyPI",
+          "link": "https://pypi.org/project/aws-sdk-license-manager/",
+          "date": "21 Nov 2026",
+          "summary": "Placeholder reserving the aws_sdk_license_manager name. Not yet functional."
+        },
+        {
+          "title": "aws_sdk_greengrassv2 added to PyPI",
+          "link": "https://pypi.org/project/aws-sdk-greengrassv2/",
+          "date": "21 Nov 2026",
+          "summary": "Placeholder reserving the aws_sdk_greengrassv2 name. Not yet functional."
+        },
+        {
+          "title": "aws_sdk_geo_routes added to PyPI",
+          "link": "https://pypi.org/project/aws-sdk-geo-routes/",
+          "date": "21 Nov 2026",
+          "summary": "Placeholder reserving the aws_sdk_geo_routes name. Not yet functional."
+        },
+        {
+          "title": "aws_sdk_vpc_lattice added to PyPI",
+          "link": "https://pypi.org/project/aws-sdk-vpc-lattice/",
+          "date": "21 Nov 2026",
+          "summary": "Placeholder reserving the aws_sdk_vpc_lattice name. Not yet functional."
+        },
+        {
+          "title": "segyrs added to PyPI",
+          "link": "https://pypi.org/project/segyrs/",
+          "date": "21 Nov 2026",
+          "summary": "Reading, writing and manipulation of huge SEG-Y files: a Rust core with Python bindings"
+        },
+        {
+          "title": "aws_sdk_cost_and_usage_report_service added to PyPI",
+          "link": "https://pypi.org/project/aws-sdk-cost-and-usage-report-service/",
+          "date": "21 Nov 2026",
+          "summary": "Placeholder reserving the aws_sdk_cost_and_usage_report_service name. Not yet functional."
+        },
+        {
+          "title": "agy-claude-crash-guard-kit added to PyPI",
+          "link": "https://pypi.org/project/agy-claude-crash-guard-kit/",
+          "date": "21 Nov 2026",
+          "summary": "PreToolUse Multimodal Crash Firewall, Post-Edit Verification Gate & Desktop-to-IDE Session Sync for Antigravity and Claude Code"
         }
       ]
     }
