@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T15:11:02Z",
+  "generated": "2026-11-25T23:54:50Z",
   "feeds": [
     {
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
@@ -7,6 +7,12 @@
       "cat": "Business · India",
       "ok": true,
       "items": [
+        {
+          "title": "Anthropic’s IPO slide fuels fresh concerns over AI valuations; 37 stocks decline despite positive earnings multiples",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropics-ipo-slide-fuels-fresh-concerns-over-ai-valuations/articleshow/136171888.cms",
+          "date": "26 Nov 2026",
+          "summary": "Anthropic’s fall below its IPO price has intensified concerns over lofty AI valuations, even as earnings forecasts improve across the technology sector. Investors are increasingly focused on whether heavy spending can translate into durable profits."
+        },
         {
           "title": "Two in five Indian family offices, UHNIs have engaged with crypto amid regulatory caution",
           "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/two-in-five-indian-family-offices-uhnis-have-engaged-with-crypto-amid-regulatory-caution/articleshow/136163899.cms",
@@ -36,12 +42,6 @@
           "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/lg-electronics-india-promoter-to-sell-up-to-2-stake-plans-to-offload-13-57-million-shares-by-dec-31/articleshow/136160873.cms",
           "date": "25 Nov 2026",
           "summary": "LG Electronics India promoter LG Electronics Inc. plans to sell up to 2% stake, or 1.36 crore shares, by December 31 to meet Sebi's minimum public shareholding norms. The proposed divestment will reduce its holding from 85% to 83%. Jefferies maintains a Buy ra…"
-        },
-        {
-          "title": "PhonePe resumes IPO process; targets February-March listing at $12-15 billion valuation",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/phonepe-resumes-ipo-process-targets-listing-in-feb-mar-at-usd-12-15-bn-valuation/articleshow/136160163.cms",
-          "date": "25 Nov 2026",
-          "summary": "PhonePe has resumed its initial public offering plans after deferring them due to market uncertainties. The company aims for a stock market listing valued between USD 12-15 billion in early 2024. It expects to raise approximately Rs 12,000-14,000 crore through…"
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -196,82 +196,82 @@
       "ok": true,
       "items": [
         {
-          "title": "'Applicants must provide correct info': MEA defends show-cause to CJP's Saurav Das",
-          "link": "https://timesofindia.indiatimes.com/india/applicants-must-provide-correct-information-mea-defends-show-cause-notice-to-cjps-saurav-das/articleshow/136161837.cms",
+          "title": "Trump slaps new tariffs on 14 nations; India faces additional 17%",
+          "link": "https://timesofindia.indiatimes.com/india/trump-slaps-new-tariffs-on-14-nations-india-faces-additional-17/articleshow/136174724.cms",
+          "date": "26 Nov 2026",
+          "summary": "Rejecting claims of surplus capacity in any sector, the Indian government emphasises its commitment to forging a strong bilateral trade agreement with the US. Recent tariff negotiations hit a snag following a US Supreme Court ruling, temporarily halting progre…"
+        },
+        {
+          "title": "Egypt highway inferno kills 31 after fuel tanker overturns",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/30-killed-15-injured-in-deadly-blaze-on-cairo-ring-road-after-fuel-vehicle-overturns/articleshow/136171820.cms",
+          "date": "26 Nov 2026",
+          "summary": "A harrowing event unfolded in Giza's Al-Warraq district when a vehicle turned over and burst into flames. Tragically, over 30 individuals perished, while another 21 suffered injuries. Emergency services quickly arrived at the scene to extinguish the blaze and…"
+        },
+        {
+          "title": "Delhi high court to hear today Saurav Das’s plea seeking travel nod to UK",
+          "link": "https://timesofindia.indiatimes.com/city/delhi/hc-to-hear-today-dass-plea-seeking-travel-nod-to-uk/articleshow/136170919.cms",
+          "date": "26 Nov 2026",
+          "summary": "Saurav Das, co-convener of CJP, has taken his case to the Delhi High Court after being barred from traveling to the UK. His legal representation emphasized the urgent need for a hearing, arguing that a swift resolution could enable Das to participate in essent…"
+        },
+        {
+          "title": "Indian Women's Hockey team creates history, climbs to world no. 4 after Japan rout",
+          "link": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/indian-womens-hockey-team-creates-history-storms-to-world-no-4-after-4-0-win-over-japan/articleshow/136167883.cms",
           "date": "25 Nov 2026",
+          "summary": "In a remarkable achievement, the Indian women's hockey team has climbed to World No. 4 in the recent FIH World Rankings. This success follows impressive wins against notable Asian rivals, including a historic 6-2 victory over China. The unbeaten streak they’ve…"
+        },
+        {
+          "title": "Lamp not lit atop deepathoon, Supreme Court to hear contempt case",
+          "link": "https://timesofindia.indiatimes.com/india/lamp-not-lit-atop-deepathoon-supreme-court-to-hear-contempt-case/articleshow/136174810.cms",
+          "date": "26 Nov 2026",
+          "summary": "The Tamil Nadu government has not complied with the Supreme Court's order regarding the Karthigai Deepam lamp lighting. This non-compliance may trigger contempt proceedings against the Madurai Collector, despite his apology. Various political parties and the M…"
+        },
+        {
+          "title": "Musk says 'impressive work by Google', as CEO Pichai shares Neon's new Day record",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musk-says-impressive-work-by-google-as-ceo-sundar-pichai-shares-neons-new-day-record-and-thanks-teams-across-/articleshow/136166284.cms",
+          "date": "25 Nov 2026",
+          "summary": "Elon Musk has publicly praised Google's recent advancements in artificial intelligence, highlighting their Neon model and Antigravity platform. Sundar Pichai shared updates on Neon's new Day-1 usage record as well as the increase in Antigravity token usage. Th…"
+        },
+        {
+          "title": "‘Fighting against BJP or us?’ Congress slams Samajwadi Party over its list",
+          "link": "https://timesofindia.indiatimes.com/india/fighting-against-bjp-or-us-congress-slams-samajwadi-party-over-its-list/articleshow/136174859.cms",
+          "date": "26 Nov 2026",
+          "summary": "Congress MP Imran Masood expressed doubts about the intentions of Samajwadi Party during ongoing seat-sharing negotiations. The discussions, which lasted 3.5 hours, were complicated by SP's announcement of five candidates, causing tension. Masood emphasized th…"
+        },
+        {
+          "title": "Minnesota neighbour posts no-access sign, moors boat; court upholds $64k fees",
+          "link": "https://timesofindia.indiatimes.com/world/us/a-minnesota-couple-put-two-waterfront-lots-up-for-sale-but-their-neighbour-posted-a-sign-denying-harbour-access-and-moored-his-boat-in-front-a-november-23-appeals-ruling-upheld-64061-in-legal-fees/articleshow/136152015.cms",
+          "date": "26 Nov 2026",
+          "summary": "A Minnesota couple sued their neighbour after he put up a sign claiming they had no harbour access and parked his boat along their waterfront, disrupting their attempts to sell two properties. An appeals court ruled that their property titles expressly granted…"
+        },
+        {
+          "title": "Supreme Court nixes Allahabad HC order for Rahul’s assets probe",
+          "link": "https://timesofindia.indiatimes.com/india/supreme-court-nixes-allahabad-high-court-order-for-rahul-gandhis-assets-probe/articleshow/136172392.cms",
+          "date": "26 Nov 2026",
+          "summary": "Supreme Court has quashed an order from the Allahabad high court to investigate Rahul Gandhi's assets. The high court did not consider Gandhi's response before issuing the order, which raised procedural concerns. Senior advocate Kapil Sibal criticized the orde…"
+        },
+        {
+          "title": "Chemistry most popular subject after English for 12th CBSE students",
+          "link": "https://timesofindia.indiatimes.com/india/chemistry-most-popular-subject-after-english-for-12th-cbse-students/articleshow/136175062.cms",
+          "date": "26 Nov 2026",
+          "summary": "In 2027, the CBSE has achieved an impressive milestone with 19 lakh candidates registering for Class 12. An encouraging trend reveals a marked rise in science registrations, notably in chemistry, physics, and mathematics. Notably, the disparity between chemist…"
+        },
+        {
+          "title": "7th high court posting? Justice Rao may be Karnataka Chief Justice",
+          "link": "https://timesofindia.indiatimes.com/india/7th-high-court-posting-justice-rao-may-be-karnataka-chief-justice/articleshow/136174895.cms",
+          "date": "26 Nov 2026",
+          "summary": "Justice M S Ramachandra Rao has been recommended for the position of Chief Justice of the Karnataka high court. This potential appointment would mark his seventh high court assignment since 2012 when he became a judge. He has previously served as Chief Justice…"
+        },
+        {
+          "title": "Florida jury awards $6m after man dies in neck surgery without cardiac clearance",
+          "link": "https://timesofindia.indiatimes.com/world/us/florida-jury-awarded-6-million-to-the-wife-and-two-daughters-of-carlos-chalbaud-who-died-on-the-operating-table-during-elective-neck-surgery-at-holy-cross-hospital-without-clearance-from-a-cardiologist/articleshow/136155315.cms",
+          "date": "26 Nov 2026",
           "summary": ""
         },
         {
-          "title": "New US tariff threat: Trump admin proposes 17%-25% duty on India, 45% on China",
-          "link": "https://timesofindia.indiatimes.com/business/international-business/us-proposes-new-tariffs-on-india-13-other-trade-partners-china-faces-additional-20-duty/articleshow/136163395.cms",
-          "date": "25 Nov 2026",
-          "summary": ""
-        },
-        {
-          "title": "Deport 'illegal Muslim infiltrators', Hindus fleeing B'desh 'refugees': CM Suvendu",
-          "link": "https://timesofindia.indiatimes.com/india/cm-suvendu-orders-police-to-deport-illegal-muslim-infiltrators-says-hindus-fleeing-bangladesh-are-refugees/articleshow/136164346.cms",
-          "date": "25 Nov 2026",
-          "summary": "Suvendu Adhikari, the chief minister of West Bengal, instructed police to trace illegal Muslim immigrants while providing refuge for Hindus. He emphasized the need for coordination with the Border Security Force to strengthen border security measures. Adhikari…"
-        },
-        {
-          "title": "Gukesh vs Sindarov live, Game 2: Indian GM faces early Queenside challenge",
-          "link": "https://timesofindia.indiatimes.com/sports/chess/gukesh-vs-sindarov-world-chess-championship-2026-live-updates-d-gukesh-javokhir-sindarov-game-2-live-score-fide-chess-live-streaming-geneva/articleshow/136162249.cms",
-          "date": "25 Nov 2026",
-          "summary": "Defending champion D Gukesh will look to take an early advantage when he faces Javokhir Sindarov in Game 2 of the 2026 World Chess Championship in Geneva, Switzerland, on Wednesday. After surviving a testing opening encounter with the black pieces, Gukesh will…"
-        },
-        {
-          "title": "5 Maharashtra districts face fast-building flash droughts; Beed, Solapur among hotspots",
-          "link": "https://timesofindia.indiatimes.com/city/mumbai/5-maharashtra-districts-face-fast-building-flash-droughts-beed-solapur-among-hotspots/articleshow/136165671.cms",
-          "date": "25 Nov 2026",
-          "summary": "Maharashtra has identified five districts as hotspots for flash droughts due to extreme drying risks. Research indicates that these districts can experience severe moisture loss in just a few weeks. The pre-monsoon period shows the highest vulnerability, espec…"
-        },
-        {
-          "title": "Michael Dell shares 7-year-old’s ‘thank you note’ for the $250 in her Trump Account",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/michael-dell-shares-7-year-olds-thank-you-note-for-the-250-in-her-trump-account-dell-ceo-has-committed-6-25-billion-donation-to-the-program/articleshow/136165128.cms",
-          "date": "25 Nov 2026",
-          "summary": "Michael Dell has announced an incredible $6.25 billion donation to the Trump Accounts program, designed to give children investment accounts worth $1,000. A spirited 7-year-old named Riley has already acknowledged the gift, eager to save for her future. The De…"
-        },
-        {
-          "title": "US economy expands at 4.3% annualised rate in Q3, nearly double Q2 growth",
-          "link": "https://timesofindia.indiatimes.com/business/international-business/us-gdp-growth-revised-sharply-higher-to-4-3-in-third-quarter-on-strong-consumer-spending-ai-investment/articleshow/136165514.cms",
-          "date": "25 Nov 2026",
-          "summary": "The US economy grew at a surprising annualised rate of 4.3% in the third quarter of 2026. This growth was significantly bolstered by stronger consumer spending and robust business investment during that period. Consumer spending rose at a revised rate of 4.2%,…"
-        },
-        {
-          "title": "Arkansas widow, 84, worked to pay medical bills; $31k drive helps her retire",
-          "link": "https://timesofindia.indiatimes.com/world/us/an-84-year-old-arkansas-widow-returned-to-work-after-her-husbands-death-to-pay-medical-bills-a-friends-fundraiser-has-now-raised-over-31000-and-helped-her-finally-retire-after-years-of-financial-strain/articleshow/136164992.cms",
-          "date": "25 Nov 2026",
-          "summary": "After the loss of her husband Gene, Sue Webb struggled with overwhelming medical debt. Even in retirement, she chose to work at the Department of Veterans Affairs to pay off her expenses. A friend’s fundraiser raised more than $31,000, significantly easing her…"
-        },
-        {
-          "title": "'No significant impact on India': MeitY secretary on US chip export curbs",
-          "link": "https://timesofindia.indiatimes.com/india/no-significant-impact-on-india-meity-secretary-on-us-chip-export-curbs/articleshow/136165653.cms",
-          "date": "25 Nov 2026",
-          "summary": "S. Krishnan, secretary of MeitY, reassured that the recent US chip export restrictions won't impact India. He stated that India is appreciated as a reliable partner in data centre technology. In addition, over 200 companies have expressed interest in the India…"
-        },
-        {
-          "title": "'Voluntary return plan separate from extradition request': India on Sheikh Hasina",
-          "link": "https://timesofindia.indiatimes.com/india/voluntary-return-plan-separate-from-bangladesh-extradition-request-india-on-sheikh-hasina/articleshow/136162397.cms",
-          "date": "25 Nov 2026",
-          "summary": ""
-        },
-        {
-          "title": "Meet Rishikesh Kumar: US-returned MBA groom marrying Anant Singh's daughter",
-          "link": "https://timesofindia.indiatimes.com/city/patna/meet-rishikesh-kumar-us-returned-mba-groom-marrying-mokama-mla-anant-singhs-daughter-shivangi-in-bihars-most-talked-about-wedding-complete-with-5-helipads-a-horse-race-and-a-feast-for-4-lakh-guests/articleshow/136156178.cms",
-          "date": "25 Nov 2026",
-          "summary": "Mokama MLA Anant Singh is preparing for an extravagant wedding for his daughter Shivangi on November 25. The celebrations will feature five helipads for VIP guests and a horse race with an SUV as the top prize. A lavish feast is planned for about four lakh gue…"
-        },
-        {
-          "title": "Sons sue auction house after stepbrother allegedly sold father's $400,000 gold coins",
-          "link": "https://timesofindia.indiatimes.com/world/us/two-sons-say-their-fathers-12-gold-coins-allegedly-worth-400000-were-taken-by-a-stepbrother-and-sold-through-an-auction-house-a-november-20-federal-judge-allowed-their-lawsuit-against-the-auctioneer-to-proceed/articleshow/136132222.cms",
-          "date": "25 Nov 2026",
-          "summary": "Two brothers allege that their stepbrother took 12 gold coins left to them by their late father and sold them through an auction house. Valued at an estimated $400,000, the coins were auctioned in July 2021. A federal judge has rejected the auction house's req…"
-        },
-        {
-          "title": "At 13, Odisha girl turns corn cobs into water filter, wins $10k at Google fair",
-          "link": "https://timesofindia.indiatimes.com/life-style/people/at-13-odisha-schoolgirl-lalita-prasida-turned-the-corn-cobs-farmers-discarded-into-a-possible-low-cost-solution-to-water-pollution-and-won-a-10000-at-googles-global-science-fair/articleshow/136106614.cms",
-          "date": "25 Nov 2026",
-          "summary": "At only 13 years old, Lalita Prasida achieved remarkable recognition when she won a Google Science Fair award for her groundbreaking water purifier project. Utilizing discarded corn cobs, her innovative system effectively filtered out multiple contaminants fro…"
+          "title": "Coimbatore teen who acted with Rajinikanth launches software firm with friends",
+          "link": "https://timesofindia.indiatimes.com/life-style/people/at-13-rajinikanths-grandson-in-jailer-has-started-his-own-company-coimbatores-rithvik-jothi-raj-has-launched-a-software-firm-with-friends-after-a-casual-video-call-sparked-the-idea/articleshow/136140347.cms",
+          "date": "26 Nov 2026",
+          "summary": "At just 13 years old, Rithvik Jothi Raj, who gained recognition from his performance in Jailer, has embarked on an exciting software journey with friends. What started as a conversation on video calls blossomed into a website showcasing products and courses. W…"
         },
         {
           "title": "Bezos’ ex-wife gave $62M landmark gift to meet 2030 goals of coastal communities",
@@ -280,100 +280,100 @@
           "summary": "MacKenzie Scott has donated $62 million to the marine conservation organization Blue Ventures for their 2030 goals. This donation will support small-scale fishing communities and their efforts in marine ecosystem conservation. The funding aims to enhance local…"
         },
         {
-          "title": "Two NY teens turn school Spanish project into business, give away 50 turkeys",
-          "link": "https://timesofindia.indiatimes.com/world/us/two-18-year-olds-in-upstate-new-york-turned-a-high-school-spanish-class-project-into-a-junk-removal-business-and-a-year-later-they-are-using-their-profit-to-give-away-50-free-thanksgiving-turkeys/articleshow/136162596.cms",
-          "date": "25 Nov 2026",
-          "summary": "Jean-Edmond Molnar and Jasper Pappas started a junk removal business named Junk Busters in Hudson. They are giving away 50 free Thanksgiving turkeys funded by their business profits at Henry Hudson Riverfront Park. This initiative aims to help local families w…"
+          "title": "Odisha girl, 10, becomes state's youngest known certified junior scuba diver",
+          "link": "https://timesofindia.indiatimes.com/life-style/people/just-two-days-after-turning-10-tvisha-panigrahi-completed-four-open-water-dives-in-3-days-and-became-odishas-youngest-known-certified-junior-scuba-diver-surpassing-a-milestone-her-elder-sister-had-set/articleshow/136154329.cms",
+          "date": "26 Nov 2026",
+          "summary": "At just 10 years old, Tvisha Panigrahi from Dubai, with roots in Odisha, has made waves by earning her Junior Open Water Diver certification. She completed her training a mere two days after her birthday, outshining her sister's prior achievement. With both he…"
         },
         {
-          "title": "Meta executives meet Congress amid protests over content restrictions",
-          "link": "https://timesofindia.indiatimes.com/india/meta-executives-meet-congress-amid-protests-over-content-restrictions/articleshow/136163459.cms",
-          "date": "25 Nov 2026",
-          "summary": "Meta's executive team engaged with Congress leaders to address worries surrounding perceived political bias and limitations on social media use. As protests from the Congress youth wing escalated, accusing Meta of bias towards the BJP, executives conveyed thei…"
+          "title": "India tops in videos removed from YouTube",
+          "link": "https://timesofindia.indiatimes.com/india/india-tops-in-videos-removed-from-youtube/articleshow/136174794.cms",
+          "date": "26 Nov 2026",
+          "summary": "YouTube took down approximately 34.4 lakh videos from India in the second quarter of 2026. This number represented a 28% increase from the previous quarter's removals. Globally, child safety issues were responsible for the majority of video removals. Additiona…"
         },
         {
-          "title": "After Hours: How tech leaders are redefining luxury evening dressing",
-          "link": "https://timesofindia.indiatimes.com/life-style/fashion/celeb-style/after-hours-how-tech-leaders-are-redefining-luxury-evening-dressing/articleshow/136156722.cms",
-          "date": "25 Nov 2026",
-          "summary": "In a notable shift, technology leaders are choosing to embrace casual yet sophisticated looks for evening gatherings, stepping away from the confines of formal attire. Attire such as sleek black leather jackets paired with dark jeans enables self-expression wh…"
+          "title": "India urges B'desh to probe minority violence, says Hasina's return a separate matter",
+          "link": "https://timesofindia.indiatimes.com/india/delhi-to-dhaka-probe-minority-attacks-hasina-passport-a-separate-issue/articleshow/136172771.cms",
+          "date": "26 Nov 2026",
+          "summary": "In response to escalating violence against minorities in Bangladesh, India has expressed its serious concerns, urging the government there to conduct an extensive investigation. The Ministry of External Affairs noted the unique circumstances surrounding Sheikh…"
         },
         {
-          "title": "Peyton Manning’s real estate portfolio: Inside his $9.9 million property empire",
-          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/peyton-manning-bought-a-4-6-million-colorado-mansion-in-2012-years-later-his-real-estate-portfolio-had-grown-to-9-9-million/articleshow/136131430.cms",
+          "title": "Patrick and Brittany Mahomes’ foundation received $1.7 million from 28 funders",
+          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/from-400k-to-just-50-patrick-and-brittany-mahomes-15-and-the-mahomies-foundation-received-1-7m-from-28-funders/articleshow/136165595.cms",
           "date": "25 Nov 2026",
-          "summary": "Peyton Manning has made two notable real estate investments in Cherry Hills Village, amounting to approximately $9.9 million. His first acquisition was a spacious seven-bedroom residence in July 2012 after his arrival with the Denver Broncos. His subsequent pu…"
+          "summary": "Patrick and Brittany Mahomes’ 15 and the Mahomies received over a million from over 25 funders for their foundation between 2019 and 2025. Kansas City Chiefs owner Clark Hunt’s foundation and the league foundation are some of the funders who believe in Chiefs…"
         },
         {
-          "title": "Aaron Rodgers could lose $2.5 million after Steelers benching decision",
-          "link": "https://timesofindia.indiatimes.com/sports/nfl/news/aaron-rodgers-could-lose-2-5-million-after-steelers-make-stunning-benching-decision-ahead-of-broncos-clash/articleshow/136157638.cms",
-          "date": "25 Nov 2026",
-          "summary": "The Pittsburgh Steelers have announced Mason Rudolph as the starting quarterback for their upcoming game. Aaron Rodgers, previously the starter, is now inactive but not due to injury. This change poses questions regarding Rodgers' playoff incentives linked to…"
+          "title": "Michael Misa makes a 22-year-old cancer survivor's NHL dream come true",
+          "link": "https://timesofindia.indiatimes.com/sports/nhl/news/a-22-year-old-cancer-survivor-traveled-from-illinois-to-meet-his-favourite-nhl-player-how-michael-misa-and-the-san-jose-sharks-made-an-emotional-dream-come-true/articleshow/136124456.cms",
+          "date": "26 Nov 2026",
+          "summary": "The San Jose Sharks helped an Illinois cancer survivor fulfil his dream of meeting favourite player Michael Misa during a family trip to California. Through the Sharks Foundation and goalie coach Thomas Speer, the young fan watched practice, met players and re…"
         },
         {
-          "title": "3 Chinese satellites scanned India's western coast during Op Sindoor: Report",
-          "link": "https://timesofindia.indiatimes.com/defence/news/3-chinese-sats-scanned-indias-western-coast-frequently-during-op-sindoor-desi-space-surveillance-companys-report/articleshow/136141736.cms",
-          "date": "25 Nov 2026",
-          "summary": "In 2022, during Operation Sindoor, three Chinese surveillance satellites meticulously monitored India's western coast, specifically focusing on Gujarat. These satellites closely tracked military installations and vital facilities like the Jamnagar refinery own…"
-        },
-        {
-          "title": "MacKenzie Scott donates another $8 million while her fortune exceeds $27 billion",
-          "link": "https://timesofindia.indiatimes.com/world/us/jeff-bezos-ex-wife-mackenzie-scott-gives-another-8-million-to-atlanta-students-as-her-charitable-donations-cross-26-billion-yet-her-fortune-remains-above-27-billion-with-amazon-shares-continuing-to-rise/articleshow/136160161.cms",
+          "title": "Pilot trainers face minimum flying-experience norm following spate of accidents",
+          "link": "https://timesofindia.indiatimes.com/india/aaib-for-minimum-flying-requirement-for-flying-school-trainers-following-spate-of-accidents/articleshow/136169778.cms",
           "date": "25 Nov 2026",
           "summary": ""
         },
         {
-          "title": "Chhattisgarh HC cuts doctor's accident compensation by Rs 12 lakh over tax error",
-          "link": "https://timesofindia.indiatimes.com/city/ranchi/chhattisgarh-hc-recalculates-doctors-accident-compensation-cuts-award-by-rs-12-lakh-over-tax-deduction-error-rules-income-tax-must-be-deducted-as-per-applicable-slabs/articleshow/136155316.cms",
-          "date": "25 Nov 2026",
-          "summary": "The Chhattisgarh High Court has adjusted the compensation awarded to the family of a deceased doctor following errors in income tax assessments by the Motor Accident Claims Tribunal. Indrajeet Singh Siddhu, who lost his life in a road accident in 2017, saw the…"
+          "title": "Exporters in better position to tackle Trump's tariffs, bank on trade deal",
+          "link": "https://timesofindia.indiatimes.com/india/exporters-in-better-position-but-brace-for-uncertainty/articleshow/136172727.cms",
+          "date": "26 Nov 2026",
+          "summary": "Indian exporters are adapting to potential tariffs from the United States while they finalize a trade agreement. The impact of these tariffs may create temporary uncertainty for exporters as they manage future orders. Current strategies involve rushing shipmen…"
         },
         {
-          "title": "Man flying to India for spine surgery dies after Air India denies boarding",
-          "link": "https://timesofindia.indiatimes.com/city/delhi/passenger-travelling-to-india-for-urgent-spine-surgery-denied-boarding-on-overbooked-flight-despite-confirmed-business-class-ticket-dies-next-day-air-india-ordered-to-pay-rs-25-lakh/articleshow/136163268.cms",
-          "date": "25 Nov 2026",
-          "summary": "Air India has been directed to compensate Rs 25 lakh to a grieving widow after her husband was refused boarding. William Fernandez, a nurse, experienced a medical crisis while traveling to Mangalore for surgery. Despite holding a confirmed business-class reser…"
+          "title": "Cabinet ministers advised to avoid foreign travel; Parliament meet likely by Dec 15",
+          "link": "https://timesofindia.indiatimes.com/india/cabinet-ministers-advised-to-avoid-foreign-travel-parliament-session-likely-by-december-15/articleshow/136172691.cms",
+          "date": "26 Nov 2026",
+          "summary": "Cabinet ministers have been advised to avoid international travel as Parliament may be convened before mid-December. The government aims to introduce a Constitution amendment bill for women's reservation during the next session. This proposal, linked with deli…"
         },
         {
-          "title": "'Cong wants regime change through violence, not votes': Rajnath Singh's big charge",
-          "link": "https://timesofindia.indiatimes.com/india/congress-wants-regime-change-through-violence-not-votes-rajnath-singhs-big-charge/articleshow/136161544.cms",
-          "date": "25 Nov 2026",
-          "summary": ""
+          "title": "Meta meets Congress: Party challenges suspended accounts; company cites govt orders",
+          "link": "https://timesofindia.indiatimes.com/india/meta-officials-meet-congress-over-suspended-accounts/articleshow/136172806.cms",
+          "date": "26 Nov 2026",
+          "summary": "In New Delhi, Meta representatives held discussions with Congress social media officials amid growing complaints about account suspensions and content deletions affecting the opposition. Supriya Shrinate raised critical concerns about what she deemed interfere…"
         },
         {
-          "title": "Microsoft declares 'Code Red' for engineers after global Outlook disruption",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/days-after-microsoft-ceo-satya-nadella-publicly-apologized-for-disruption-in-outlook-services-globally-company-declares-code-red-for-its-engineers-internal-memo-says-/articleshow/136151576.cms",
-          "date": "25 Nov 2026",
-          "summary": "Microsoft faced a major service outage that disrupted its Outlook and Microsoft 365 services globally. Following this incident, CEO Satya Nadella apologized and announced the 'Code Red' initiative for process improvement. The outage, caused by an undetected Wi…"
+          "title": "‘Our artists bringing new perspectives to art’: PM Modi after Venice Biennale award",
+          "link": "https://timesofindia.indiatimes.com/india/our-artists-bringing-new-perspectives-to-art-world-pm-modi-after-venice-biennale-award/articleshow/136172817.cms",
+          "date": "26 Nov 2026",
+          "summary": "The India Pavilion received the Visitors’ Lion Award for Best National Participation at the Venice Art Biennale. Curated by Amin Jaffer, it featured five contemporary artists exploring themes of memory and migration. Prime Minister Narendra Modi acknowledged t…"
         },
         {
-          "title": "UP polls: SP, Cong seat talks turn into public tug-of-war; BJP calls it 'thugbandhan'",
-          "link": "https://timesofindia.indiatimes.com/india/up-polls-sp-congress-seat-talks-turn-into-public-tug-of-war-bjp-calls-it-thugbandhan/articleshow/136160884.cms",
-          "date": "25 Nov 2026",
-          "summary": ""
+          "title": "Election Commission: Rectify wrong roll entries during SSR via Form",
+          "link": "https://timesofindia.indiatimes.com/india/election-commission-rectify-wrong-roll-entries-during-ssr-via-form/articleshow/136172720.cms",
+          "date": "26 Nov 2026",
+          "summary": "Form 8 is being used for rectifying inaccuracies in the electoral roll during the special summary revision. Booth-level officers will verify mismatched entries to ensure accurate voter information collection. Electors can flag incorrect details, and booth-leve…"
         },
         {
-          "title": "Stokes eligible, Brook banned: Why two England stars have different auction status?",
-          "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ben-stokes-eligible-harry-brook-banned-why-two-england-stars-have-different-ipl-2027-auction-status/articleshow/136158052.cms",
-          "date": "25 Nov 2026",
-          "summary": "Ben Stokes registered for the IPL 2027 mini-auction, having missed the previous mega-auction. Harry Brook, however, is banned from the IPL until 2028 following his withdrawal after being picked by Delhi Capitals. The BCCI's regulations impose stricter penaltie…"
+          "title": "Bail to be granted under UAPA when there is delay in trial, says Supreme Court",
+          "link": "https://timesofindia.indiatimes.com/india/bail-to-be-granted-under-uapa-when-there-is-delay-in-trial-says-supreme-court/articleshow/136172749.cms",
+          "date": "26 Nov 2026",
+          "summary": "The Supreme Court has confirmed that its authority to grant bail cannot be overridden by stringent laws. It ruled in favor of a government doctor who has been jailed for over four years. Additionally, the Court granted bail to senior officials involved in a si…"
         },
         {
-          "title": "Britain's RAF moves warplanes into hangars at night amid drone attack fears",
-          "link": "https://timesofindia.indiatimes.com/world/uk/britains-raf-moves-warplanes-into-hangars-at-night-amid-drone-fears-considers-anti-drone-nets/articleshow/136161345.cms",
-          "date": "25 Nov 2026",
-          "summary": ""
+          "title": "Beant Singh assassin Rajoana seeks Rajiv Gandhi's killer-like relief after 30 years",
+          "link": "https://timesofindia.indiatimes.com/india/after-30-years-in-jail-beant-assassin-seeks-parity-with-rajiv-killer/articleshow/136172472.cms",
+          "date": "26 Nov 2026",
+          "summary": "Balwant Singh Rajoana, who has been incarcerated for over three decades, is seeking mercy to have his death sentence reduced. His appeal references the recent release of AG Perarivalan, a former death row inmate turned lawyer. Senior counsel Mukul Rohatgi stre…"
         },
         {
-          "title": "Ashoke Pandit on FWICE's demand 'Jo Bachay Hain Sang Samait Lo'",
-          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ashoke-pandit-backs-fwice-aicwas-demand-to-ban-pakistani-series-jo-bachay-hain-sang-samait-lo-on-netflix-national-interest-must-remain-above-commercial-interests/articleshow/136162469.cms",
-          "date": "25 Nov 2026",
-          "summary": "In a powerful stance, filmmaker Ashoke Pandit has backed the All India Cine Workers Association's demand to block a particular Pakistani Netflix series. Given the contentious history, the AICWA argues that featuring Pakistani actors is a disregard for Indian s…"
+          "title": "Missing businessman's non-bailable warrant cancelled in AJL case, ED to move HC",
+          "link": "https://timesofindia.indiatimes.com/india/missing-businessman-non-bailable-warrant-cancelled-in-ajl-case-ed-to-move-high-court/articleshow/136172443.cms",
+          "date": "26 Nov 2026",
+          "summary": "A special MP/MLA court in Rouse Avenue cancelled a non-bailable warrant against businessman Dinesh Pandey. The Enforcement Directorate is surprised and plans to appeal this decision in the Delhi high court. Pandey is reportedly involved in transferring Rs 10.4…"
         },
         {
-          "title": "7-year-old girl writes to Trump from immigration detention, seeks release",
-          "link": "https://timesofindia.indiatimes.com/world/us/i-would-like-to-visit-my-father-7-year-old-girl-writes-to-trump-from-immigration-detention-seeks-release/articleshow/136162760.cms",
-          "date": "25 Nov 2026",
-          "summary": ""
+          "title": "Omar government breaks silence on Sheshnag row, says lake safe",
+          "link": "https://timesofindia.indiatimes.com/india/omar-government-breaks-silence-on-sheshnag-row-says-lake-safe/articleshow/136171065.cms",
+          "date": "26 Nov 2026",
+          "summary": "The J&amp;K government asserted that Sheshnag Lake remains completely safe following allegations of construction by the Border Roads Organisation. Forest minister Altaf Kaloo reported that heavy machinery operated away from the lake, ensuring no soil entered t…"
+        },
+        {
+          "title": "Vande Mataram at J&amp;K waqf event sparks row",
+          "link": "https://timesofindia.indiatimes.com/india/vande-mataram-at-jk-waqf-event-sparks-row/articleshow/136171144.cms",
+          "date": "26 Nov 2026",
+          "summary": "Several Muslim clerics who attended a Waqf Board event in Srinagar expressed their regret after Vande Mataram was played. They said their participation did not endorse the song, and they prayed for forgiveness. The song sparked controversy as it allegedly conf…"
         }
       ]
     },
@@ -384,8 +384,20 @@
       "ok": true,
       "items": [
         {
+          "title": "Where scientists draw the line on AI agents",
+          "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+          "date": "25 Nov 2026",
+          "summary": ""
+        },
+        {
           "title": "An Indic Voice Agent with CUGA",
           "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+          "date": "25 Nov 2026",
+          "summary": ""
+        },
+        {
+          "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+          "link": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
           "date": "25 Nov 2026",
           "summary": ""
         },
@@ -393,12 +405,6 @@
           "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
           "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
           "date": "24 Nov 2026",
-          "summary": ""
-        },
-        {
-          "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-          "link": "https://huggingface.co/blog/allenai/robotrack",
-          "date": "23 Nov 2026",
           "summary": ""
         },
         {
@@ -556,12 +562,6 @@
           "link": "https://huggingface.co/blog/anydecisionmodel",
           "date": "29 Oct 2026",
           "summary": ""
-        },
-        {
-          "title": "Build specialized multimodal models with LFM3",
-          "link": "https://huggingface.co/blog/LiquidAI/lfm3",
-          "date": "27 Oct 2026",
-          "summary": ""
         }
       ]
     },
@@ -571,6 +571,12 @@
       "cat": "AI Research",
       "ok": true,
       "items": [
+        {
+          "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+          "link": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+          "date": "24 Nov 2026",
+          "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra."
+        },
         {
           "title": "Finding faster quantum algorithms with agents and formal verification",
           "link": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
@@ -744,12 +750,6 @@
           "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
           "date": "3 Sep 2026",
           "summary": ""
-        },
-        {
-          "title": "Proactive cyber defense for governments and enterprises",
-          "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
-          "date": "2 Sep 2026",
-          "summary": ""
         }
       ]
     },
@@ -759,6 +759,30 @@
       "cat": "AI News",
       "ok": true,
       "items": [
+        {
+          "title": "US chip-access curbs and anti-distillation measures are reportedly already slowing Chinese AI labs",
+          "link": "https://the-decoder.com/us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs/",
+          "date": "25 Nov 2026",
+          "summary": "Chip restrictions, anti-distillation measures, and shrinking access to Nvidia hardware abroad are putting growing pressure on Deepseek, Moonshot AI, and Alibaba, according to a report. Deepseek researchers internally estimate they're already up to nine months…"
+        },
+        {
+          "title": "Anthropic CEO Dario Amodei says letting AI govern society would be \"a bad idea\"",
+          "link": "https://the-decoder.com/anthropic-ceo-dario-amodei-says-letting-ai-govern-society-would-be-a-bad-idea/",
+          "date": "25 Nov 2026",
+          "summary": "Anthropic CEO Dario Amodei is pushing back on an Axios report saying some employees believe humanity will hand power to superintelligent systems. Amodei says \"turning over governance to AI is a bad idea.\" The article Anthropic CEO Dario Amodei says letting AI…"
+        },
+        {
+          "title": "OpenAI wants companies to trust it with sensitive work by promising not to look at their data",
+          "link": "https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/",
+          "date": "25 Nov 2026",
+          "summary": "OpenAI is testing a new feature called \"Private Inference\" that lets companies run queries on its most powerful models without OpenAI being able to access the data. The article OpenAI wants companies to trust it with sensitive work by promising not to look at…"
+        },
+        {
+          "title": "Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store.",
+          "link": "https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store/",
+          "date": "25 Nov 2026",
+          "summary": "Amazon and Meta are in talks to bring back Muse, Meta's AI shopping agent that Amazon kicked off its platform in September. The two sides are stuck on ad revenue and who gets to control search results. That matters because Amazon's ad business generates $68.6…"
+        },
         {
           "title": "AI agents now control part of Deepmind's compute for Gemini experiments, but recursive self-improvement remains distant",
           "link": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
@@ -794,30 +818,6 @@
           "link": "https://the-decoder.com/anthropic-turns-claude-artifacts-into-standalone-desktop-apps-for-macos-and-windows/",
           "date": "24 Nov 2026",
           "summary": "Anthropic now lets you install Claude Artifacts as desktop apps on Mac and Windows, and a free account is enough. You build one in chat without writing code, and it can add menu bar items, send notifications, and create transparent windows. The article Anthrop…"
-        },
-        {
-          "title": "Anthropic tops 700 million monthly MCP SDK downloads and expands the protocol for more autonomous AI agents",
-          "link": "https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/",
-          "date": "24 Nov 2026",
-          "summary": "Two years after launch, Anthropic reports more than 700 million monthly downloads for its MCP interface standard. New features such as background tasks, follow-up questions for users, and file uploads are meant to let Claude work more independently. The articl…"
-        },
-        {
-          "title": "Novartis CEO says AI will shave four years off drug development, not cure all disease",
-          "link": "https://the-decoder.com/novartis-ceo-says-ai-will-shave-four-years-off-drug-development-not-cure-all-disease/",
-          "date": "24 Nov 2026",
-          "summary": "Novartis CEO Vas Narasimhan, who also sits on Anthropic's board, is pushing back on the cure-all promises from Anthropic CEO Amodei and DeepMind founder Hassabis. AI will speed up drug development, he says, but it won't beat cancer in a decade. The real value…"
-        },
-        {
-          "title": "OpenAI o1 co-creator Noam Brown urges promising students to drop out as AI enters a \"very steep rate of progress\"",
-          "link": "https://the-decoder.com/openai-o1-co-creator-noam-brown-urges-promising-students-to-drop-out-as-ai-enters-a-very-steep-rate-of-progress/",
-          "date": "24 Nov 2026",
-          "summary": "OpenAI researcher Noam Brown is urging promising students to drop out, saying it's \"not a great time to sit on the sidelines.\" The o1 co-creator says AI is still in a \"centaur period\" and struggles with planning and self-correction, though he expects a \"very s…"
-        },
-        {
-          "title": "Anthropic researcher stands by his AI-assisted Riemann proof but owns up to \"stupid things\" in the rollout",
-          "link": "https://the-decoder.com/anthropic-researcher-stands-by-his-ai-assisted-riemann-proof-but-owns-up-to-stupid-things-in-the-rollout/",
-          "date": "24 Nov 2026",
-          "summary": "Anthropic researcher Levent Alpöge is walking back parts of his announcement of an AI-assisted proof of the generalized Riemann hypothesis. The claim that it ran to more than 250,000 pages was a joke, he says, and the published Lean code is \"full of garbage.\"…"
         }
       ]
     },
@@ -827,6 +827,12 @@
       "cat": "Data Science",
       "ok": true,
       "items": [
+        {
+          "title": "Vibe Coding for Business Analytics: Custom CRM Dashboards, Reporting Apps, and AI Agents",
+          "link": "https://www.kdnuggets.com/2026/11/vibe-coding-for-business-analytics-custom-crm-dashboards-reporting-apps-and-ai-agents",
+          "date": "25 Nov 2026",
+          "summary": "Discover how Alaio Vibecode, an AI app builder for Bitrix24, helps teams create custom CRM analytics dashboards, reporting tools, lead scoring apps, and AI agents."
+        },
         {
           "title": "Why Data Job Candidates Freeze on Questions They Already Know",
           "link": "https://www.kdnuggets.com/why-data-job-candidates-freeze-on-questions-they-already-know",
@@ -880,12 +886,6 @@
           "link": "https://www.kdnuggets.com/decision-ai-explained-in-5-minutes",
           "date": "20 Nov 2026",
           "summary": "Learn how decision models work, how they turn LLMs into faster decision-making systems, and how to run open-source alternatives locally."
-        },
-        {
-          "title": "What I Learned From Kaggle + Google’s Free Agentic AI Course",
-          "link": "https://www.kdnuggets.com/what-i-learned-from-kaggle-googles-free-agentic-ai-course",
-          "date": "19 Nov 2026",
-          "summary": "Learn to build AI agents with Gemini and Google’s ADK through this free course, covering tools, memory, evaluation, and deployment."
         }
       ]
     },
@@ -895,6 +895,12 @@
       "cat": "Technical · AI",
       "ok": true,
       "items": [
+        {
+          "title": "How to Optimize NVFP4 Attention on NVIDIA RTX Blackwell Through Register Recycling",
+          "link": "https://developer.nvidia.com/blog/how-to-optimize-nvfp4-attention-on-nvidia-rtx-blackwell-through-register-recycling/",
+          "date": "25 Nov 2026",
+          "summary": "Attention can be a major bottleneck when serving world foundation models, where long sequences make inference computationally demanding. On NVIDIA Hopper and..."
+        },
         {
           "title": "How to Run NVIDIA Cosmos 3 on Local AI Devices Using Hugging Face Diffusers",
           "link": "https://developer.nvidia.com/blog/how-to-run-nvidia-cosmos-3-on-local-ai-devices-using-hugging-face-diffusers/",
@@ -930,6 +936,12 @@
           "link": "https://developer.nvidia.com/blog/get-started-with-gpu-accelerated-duckdb-analytics-using-the-sirius-core-extension/",
           "date": "23 Nov 2026",
           "summary": "As datasets grow, analytical queries can take longer to run, slowing down data exploration, pipelines, and applications. For developers using DuckDB, reducing..."
+        },
+        {
+          "title": "Manage Liquid-Cooled AI Factories with NVIDIA Mission Control",
+          "link": "https://developer.nvidia.com/blog/manage-liquid-cooled-ai-factories-with-nvidia-mission-control/",
+          "date": "25 Nov 2026",
+          "summary": "Managing AI infrastructure such as NVIDIA Vera Rubin NVL72 requires coordinated operation of compute, power, and cooling systems. In liquid-cooled AI factories,..."
         },
         {
           "title": "Reducing Rollout Bottlenecks in Reinforcement Learning with NVIDIA Dynamo",
@@ -986,16 +998,16 @@
           "summary": "Molecular dynamics (MD) is an indispensable tool across physics, chemistry, biology, and materials science. Owing to its arithmetic structure, particularly the..."
         },
         {
-          "title": "NVIDIA Vera Rubin NVL72 Achieves up to 2x Blackwell Ultra Performance in MLPerf Training v6.1",
-          "link": "https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-achieves-up-to-2x-blackwell-ultra-performance-in-mlperf-training-v6-1/",
-          "date": "18 Nov 2026",
-          "summary": "As AI agents tackle increasingly complex workflows, reducing time-to-train is critical for rapidly iterating on both models and the agents they power. MLPerf..."
-        },
-        {
           "title": "NVIDIA Vera Rubin NVL72 Leads Agentic Inference Performance on MLPerf Endpoints v1.0",
           "link": "https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-leads-agentic-inference-performance-on-mlperf-endpoints-v1-0/",
           "date": "16 Nov 2026",
           "summary": "Agentic workloads are demanding more from inference systems. AI agents carry growing conversation histories across turns and generate a mix of reasoning, tool..."
+        },
+        {
+          "title": "NVIDIA Vera Rubin NVL72 Achieves up to 2x Blackwell Ultra Performance in MLPerf Training v6.1",
+          "link": "https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-achieves-up-to-2x-blackwell-ultra-performance-in-mlperf-training-v6-1/",
+          "date": "18 Nov 2026",
+          "summary": "As AI agents tackle increasingly complex workflows, reducing time-to-train is critical for rapidly iterating on both models and the agents they power. MLPerf..."
         },
         {
           "title": "Faster Scientific Simulations with New FP64 Algorithms in NVIDIA cuBLAS",
@@ -1062,18 +1074,6 @@
           "link": "https://developer.nvidia.com/blog/make-a-robot-arm-feel-weightless-with-nvidia-holoscan-5/",
           "date": "9 Nov 2026",
           "summary": "Picture guiding a robot arm by hand while its motors supply just enough torque to support its weight and keep the robot upright. This simple interaction, a..."
-        },
-        {
-          "title": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
-          "link": "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus/",
-          "date": "6 Nov 2026",
-          "summary": "When deploying diffusion models in design tools, image editors, and visual production workflows, developers must account for inference latency. Generating an..."
-        },
-        {
-          "title": "Accelerating Reinforcement Learning Weight Refit with the Reshard Collective",
-          "link": "https://developer.nvidia.com/blog/accelerating-reinforcement-learning-weight-refit-with-the-reshard-collective/",
-          "date": "9 Nov 2026",
-          "summary": "During reinforcement learning (RL) post-training, training trajectories are generated on the fly by running inference with the current policy model. For..."
         }
       ]
     },
@@ -1083,6 +1083,12 @@
       "cat": "Technology",
       "ok": true,
       "items": [
+        {
+          "title": "How data centers are driving a US natural-gas boom",
+          "link": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
+          "date": "25 Nov 2026",
+          "summary": "In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I’ve lost count of how many times he’s already been proved right. Sure, it’s technically possible to meet the world’s r…"
+        },
         {
           "title": "The Download: AI swamping open records, and firefighting for permafrost",
           "link": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
@@ -1136,12 +1142,6 @@
           "link": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
           "date": "20 Nov 2026",
           "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self,…"
-        },
-        {
-          "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
-          "link": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
-          "date": "19 Nov 2026",
-          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in Australia claim the…"
         }
       ]
     },
@@ -1151,6 +1151,54 @@
       "cat": "Tech · News",
       "ok": true,
       "items": [
+        {
+          "title": "Suspected Chinese Agents Are Trying to Dupe Americans with Fake Listings on Job Platforms",
+          "link": "https://tech.slashdot.org/story/26/11/25/069227/suspected-chinese-agents-are-trying-to-dupe-americans-with-fake-listings-on-job-platforms?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "25 Nov 2026",
+          "summary": "\"LinkedIn is probably the greatest intelligence tool that's ever been created,\" CNN heard from Holden Triplett, director of counterintelligence at the National Security Council in the first Trump administration. A LinkedIn spokesperson responded that \"Creating…"
+        },
+        {
+          "title": "Anthropic, OpenAI Employees Fear Models Are Too Unsafe to Ever Release",
+          "link": "https://slashdot.org/story/26/11/25/0814233/anthropic-openai-employees-fear-models-are-too-unsafe-to-ever-release?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "25 Nov 2026",
+          "summary": "Axios reports: Anthropic and OpenAI are facing an increasingly urgent problem: Internal, unreleased models are becoming so powerful that many employees no longer believe they can be safely released, according to more than two dozen sources familiar with the in…"
+        },
+        {
+          "title": "Saudi National Charged In OpenAI Bugging To Be Released On $1 Million Bond",
+          "link": "https://yro.slashdot.org/story/26/11/25/0633231/saudi-national-charged-in-openai-bugging-to-be-released-on-1-million-bond?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "25 Nov 2026",
+          "summary": "CNBC reports: Abdulrahman Alfozan, the Saudi national accused of bugging an OpenAI executive conference room, will be allowed to be released from jail on a $1 million bond, a San Francisco federal court judge ruled Tuesday. Alfozan, 35, is expected to be relea…"
+        },
+        {
+          "title": "Tuesday Jensen Huang Said Nvidia Doesn't Need a Succession Plan, and that He's in Therapy",
+          "link": "https://hardware.slashdot.org/story/26/11/25/0757217/tuesday-jensen-huang-said-nvidia-doesnt-need-a-succession-plan-and-that-hes-in-therapy?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "25 Nov 2026",
+          "summary": "CNBC reports: [Jensen Huang] told staff that Nvidia has built a team that doesn't require succession planning the way a normal organization does, because the company operates a unique business model where there are multiple capable leaders at Nvidia that are l…"
+        },
+        {
+          "title": "FAA Identifies Patches for Last Week's Flight-Grounding Router Issue. But Was Staffing an Issue?",
+          "link": "https://tech.slashdot.org/story/26/11/25/0733222/faa-identifies-patches-for-last-weeks-flight-grounding-router-issue-but-was-staffing-an-issue?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "25 Nov 2026",
+          "summary": "CNN published an exclusive report Tuesdayon what caused last week's nationwide ground stop for flights in the U.S.. A source familiar with the Federal Aviation Administration's investigation says they've recreated the issue in a lab \"and believe they found the…"
+        },
+        {
+          "title": "Huawei Is Guilty of Conspiracy To Steal Trade Secrets, a US Jury Finds",
+          "link": "https://yro.slashdot.org/story/26/11/25/0742222/huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-a-us-jury-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "25 Nov 2026",
+          "summary": "The Associated Press reports: A U.S. jury convicted Chinese tech giant Huawei Technologies on Tuesday of conspiring to steal trade secrets and defrauding banks as it grew into one of the world's biggest suppliers of gear for wireless telecommunications network…"
+        },
+        {
+          "title": "Those Five Tons of Bomb-Making Chemicals in Iowa Will Be Detonated Wednesday Morning",
+          "link": "https://news.slashdot.org/story/26/11/25/0524224/those-five-tons-of-bomb-making-chemicals-in-iowa-will-be-detonated-wednesday-morning?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "25 Nov 2026",
+          "summary": "The detonation is back on. Nearly five tons of unstable lead azide explosives will be detonated Wednesday morning at a U.S. Army ammunition plant in Middletown, Iowa, reports the Iowa Capital Dispatch (part of the nonprofit States Newsroom network \"The schedul…"
+        },
+        {
+          "title": "Google Wants To Make a 24/7 AI TV Channel. You'll Be the Main Character.",
+          "link": "https://yro.slashdot.org/story/26/11/25/0511227/google-wants-to-make-a-247-ai-tv-channel-youll-be-the-main-character?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+          "date": "25 Nov 2026",
+          "summary": "Longtime Slashdot reader schwit1 shares a report from 404 Media: Google has filed for a patent that would use the information it knows about you to create an AI-generated TV channel full of personalized \"shows\" starring you and featuring customized advertiseme…"
+        },
         {
           "title": "Is Nvidia's Legal Trouble Over - Or Just Beginning?",
           "link": "https://hardware.slashdot.org/story/26/11/25/0923237/is-nvidias-legal-trouble-over---or-just-beginning?utm_source=rss1.0mainlinkanon&utm_medium=feed",
@@ -1192,54 +1240,6 @@
           "link": "https://entertainment.slashdot.org/story/26/11/24/1718253/super-bowl-is-coming-to-imax-screens?utm_source=rss1.0mainlinkanon&utm_medium=feed",
           "date": "24 Nov 2026",
           "summary": "The NFL and Disney's ESPN have partnered with IMAX to broadcast Super Bowl LXI live in hundreds of theaters on February 14, 2027, marking the first Super Bowl shown in the format and the largest live event in IMAX's history. \"Watching the Super Bowl with your…"
-        },
-        {
-          "title": "Google Alternative Kagi Launches An Email Service",
-          "link": "https://tech.slashdot.org/story/26/11/24/173211/google-alternative-kagi-launches-an-email-service?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "24 Nov 2026",
-          "summary": "Kagi, the company behind the paid Google Search alternative and Orion web browser, has launched a public beta of Kagi Mail, an email service promising \"no surveillance, no ads, open standards, and no lock-in.\" \"Does the world need another email service? We ask…"
-        },
-        {
-          "title": "Mayo Clinic To Give Appointment Workers 5 Paid Minutes a Day To Boot Up Computers",
-          "link": "https://news.slashdot.org/story/26/11/24/1651201/mayo-clinic-to-give-appointment-workers-5-paid-minutes-a-day-to-boot-up-computers?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "24 Nov 2026",
-          "summary": "Mayo Clinic has agreed to pay more than $906,000 in back wages to employees who schedule patient appointments. An investigation by Minnesota Attorney General Keith Ellison found that employees were performing unpaid work before and after their shifts, includin…"
-        },
-        {
-          "title": "GTA 6 Hacker Released On License With Warning 'Don't Let This Happen Again'",
-          "link": "https://yro.slashdot.org/story/26/11/24/0728219/gta-6-hacker-released-on-license-with-warning-dont-let-this-happen-again?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "24 Nov 2026",
-          "summary": "Arion Kurtaj, the 21-year-old Lapsus$ hacker responsible for the 2022 leak of Grand Theft Auto VI, was released on license the same day he was sentenced to seven years in prison. He is subject to a five-year Serious Crime Prevention Order restricting his onlin…"
-        },
-        {
-          "title": "Ladybird Web Browser/Engine Reaches Alpha",
-          "link": "https://linux.slashdot.org/story/26/11/24/074206/ladybird-web-browserengine-reaches-alpha?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "24 Nov 2026",
-          "summary": "The open-source Ladybird web browser has reached its alpha milestone after four years of development, offering an independent browser engine built from scratch rather than forked from Chromium, Firefox or another existing engine. Alpha builds are now available…"
-        },
-        {
-          "title": "US To Blacklist Asian AI Firm Megaspeed After Nvidia Scandal",
-          "link": "https://slashdot.org/story/26/11/24/0252253/us-to-blacklist-asian-ai-firm-megaspeed-after-nvidia-scandal?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "24 Nov 2026",
-          "summary": "The U.S. Commerce Department plans to blacklist Singapore-based AI infrastructure company Megaspeed and its subsidiary Speedmatrix over suspicions that they helped Chinese companies obtain restricted Nvidia AI chips. The move follows allegations that a former…"
-        },
-        {
-          "title": "Russia May Launch Nuclear Weapon Into Orbit As Soon As Next Month",
-          "link": "https://tech.slashdot.org/story/26/11/24/0241247/russia-may-launch-nuclear-weapon-into-orbit-as-soon-as-next-month?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "24 Nov 2026",
-          "summary": "Western intelligence agencies reportedly believe Russia could launch a nuclear-armed satellite into orbit as early as December, \"suggesting the country's development of a satellite-killing weapon of mass destruction is more advanced than previously thought,\" r…"
-        },
-        {
-          "title": "New York Bans Subscription and Post-Purchase Fees On Cars",
-          "link": "https://tech.slashdot.org/story/26/11/24/0233203/new-york-bans-subscription-and-post-purchase-fees-on-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "24 Nov 2026",
-          "summary": "An anonymous reader quotes a report from WGNA-FM: On November 23rd, New York State Governor Kathy Hochul announced Bill S.9348A/A.10411A. This bill aims to put money back in New Yorkers pockets by prohibiting any vehicle manufacturers, dealers, or third-party…"
-        },
-        {
-          "title": "Google Is Finally Retiring the Nest App Early Next Year",
-          "link": "https://tech.slashdot.org/story/26/11/23/2122224/google-is-finally-retiring-the-nest-app-early-next-year?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-          "date": "24 Nov 2026",
-          "summary": "Google is shutting down its 15-year-old Nest app on January 25, 2027, requiring users to switch to Google Home to remotely control their smart home devices and receive notifications. \"Then, on August 2, the company will retire Google Assistant on smart speaker…"
         }
       ]
     },
@@ -1569,184 +1569,184 @@
       "ok": true,
       "items": [
         {
-          "title": "nextdocs-codegraph added to PyPI",
-          "link": "https://pypi.org/project/nextdocs-codegraph/",
+          "title": "intentdataflow added to PyPI",
+          "link": "https://pypi.org/project/intentdataflow/",
           "date": "25 Nov 2026",
-          "summary": "Static code graph: tree-sitter symbols, calls, routes, infrastructure and data access, in one SQLite file"
+          "summary": "Control layer for data pipelines: column lineage, preventive checks, orchestrator visibility and impact of external jobs"
         },
         {
-          "title": "glyphly added to PyPI",
-          "link": "https://pypi.org/project/glyphly/",
+          "title": "wrtds-py added to PyPI",
+          "link": "https://pypi.org/project/wrtds-py/",
           "date": "25 Nov 2026",
-          "summary": "OCR for Python with nothing to install but the package: words, boxes and confidences, no Tesseract."
+          "summary": "Python implementation of the WRTDS and WRTDS-Kalman water quality models, adapted from the USGS EGRET R package"
         },
         {
-          "title": "symphony-forge added to PyPI",
-          "link": "https://pypi.org/project/symphony-forge/",
+          "title": "oil-price-v2-xethhung12 added to PyPI",
+          "link": "https://pypi.org/project/oil-price-v2-xethhung12/",
           "date": "25 Nov 2026",
-          "summary": "Forge: one small tool that takes a story from approval to a merged pull request."
+          "summary": "Hong Kong fuel discount data: fetches the Consumer Council pages, decodes them to station/weekday/benefit-level JSON, and publishes a static bilingual (TC/EN) HTML page."
         },
         {
-          "title": "mkdoo added to PyPI",
-          "link": "https://pypi.org/project/mkdoo/",
+          "title": "azio-perti added to PyPI",
+          "link": "https://pypi.org/project/azio-perti/",
           "date": "25 Nov 2026",
-          "summary": "Scaffold new Odoo addons from the command line"
+          "summary": "Generated package for azio-perti"
         },
         {
-          "title": "uppercut-pcsx2-pine added to PyPI",
-          "link": "https://pypi.org/project/uppercut-pcsx2-pine/",
+          "title": "kasi-compiler added to PyPI",
+          "link": "https://pypi.org/project/kasi-compiler/",
           "date": "25 Nov 2026",
-          "summary": "A client for PCSX2's PINE socket: read and write PS2 memory, batch reads, title, status, game id, save states, with an optional write allowlist."
+          "summary": "Ahead-of-time Python compiler: AST, type inference, C, native executable"
         },
         {
-          "title": "cheffelo-pydantic-form added to PyPI",
-          "link": "https://pypi.org/project/cheffelo-pydantic-form/",
+          "title": "lambdamcp added to PyPI",
+          "link": "https://pypi.org/project/lambdamcp/",
           "date": "25 Nov 2026",
-          "summary": "Placeholder reserving the name of an internal Cheffelo package."
+          "summary": "Reserved for https://github.com/cloudformer/lambdamcp"
         },
         {
-          "title": "cheffelo-pydantic-argparser added to PyPI",
-          "link": "https://pypi.org/project/cheffelo-pydantic-argparser/",
+          "title": "agentfree added to PyPI",
+          "link": "https://pypi.org/project/agentfree/",
           "date": "25 Nov 2026",
-          "summary": "Placeholder reserving the name of an internal Cheffelo package."
+          "summary": "Reserved for https://github.com/cloudformer/agentfree"
         },
         {
-          "title": "cheffelo-project-owners added to PyPI",
-          "link": "https://pypi.org/project/cheffelo-project-owners/",
+          "title": "citeguard-mcp added to PyPI",
+          "link": "https://pypi.org/project/citeguard-mcp/",
           "date": "25 Nov 2026",
-          "summary": "Placeholder reserving the name of an internal Cheffelo package."
+          "summary": "Zero-config MCP Server & CLI to detect LLM hallucinated citations, verify DOIs/PMIDs/arXiv IDs, flag retracted papers, and fetch verified BibTeX from Crossref, DataCite, PubMed, OpenAlex & arXiv."
         },
         {
-          "title": "cheffelo-model-registry added to PyPI",
-          "link": "https://pypi.org/project/cheffelo-model-registry/",
+          "title": "tapisaurus added to PyPI",
+          "link": "https://pypi.org/project/tapisaurus/",
           "date": "25 Nov 2026",
-          "summary": "Placeholder reserving the name of an internal Cheffelo package."
+          "summary": "Official Python SDK for TapisaurusDB — The AI-Native Universal Multi-Model Database Engine"
         },
         {
-          "title": "kos-cloud added to PyPI",
-          "link": "https://pypi.org/project/kos-cloud/",
+          "title": "databies added to PyPI",
+          "link": "https://pypi.org/project/databies/",
           "date": "25 Nov 2026",
-          "summary": "Python client for KOS Cloud: solve LP and MIP models on the KOS solver service"
+          "summary": "Análisis estructural de vigas planas: reacciones, cortante, momento, rotación y deflexión"
         },
         {
-          "title": "uppercut-gba-rom-verify added to PyPI",
-          "link": "https://pypi.org/project/uppercut-gba-rom-verify/",
+          "title": "specla added to PyPI",
+          "link": "https://pypi.org/project/specla/",
           "date": "25 Nov 2026",
-          "summary": "Check a Game Boy Advance ROM header and its devkitARM ELF, and report the ROM's SHA-256."
+          "summary": "Load, lint and evaluate a Specla Behavior."
         },
         {
-          "title": "uppercut-gba-asset-export added to PyPI",
-          "link": "https://pypi.org/project/uppercut-gba-asset-export/",
+          "title": "radchain added to PyPI",
+          "link": "https://pypi.org/project/radchain/",
           "date": "25 Nov 2026",
-          "summary": "Export indexed pixel art for the Game Boy Advance: BGR555 palettes, 4bpp tile words, grit-style C files, 4bpp BMP and Butano JSON, and GIMP palettes."
+          "summary": "End-to-end radiation -> phonon -> quasiparticle -> logical-error simulation for superconducting qubit chips"
         },
         {
-          "title": "uppercut-retro-pixels added to PyPI",
-          "link": "https://pypi.org/project/uppercut-retro-pixels/",
+          "title": "equationnet added to PyPI",
+          "link": "https://pypi.org/project/equationnet/",
           "date": "25 Nov 2026",
-          "summary": "Retro console pixel formats as pure functions: RGB565, ARGB4444, ARGB1555, RGBA5551 and BGR555, R/B swap, block swizzle, RLE, palette ramps and a glyph-atlas packer."
+          "summary": "Type an equation: six simple models (three that use it, three data-only baselines), plus any of your own, are trained on your data and ranked on held-out points."
         },
         {
-          "title": "pywave3d added to PyPI",
-          "link": "https://pypi.org/project/pywave3d/",
+          "title": "dotfetch added to PyPI",
+          "link": "https://pypi.org/project/dotfetch/",
           "date": "25 Nov 2026",
-          "summary": "Nonlinear ultrasound beams by a pseudo-spectral spatial-marching scheme"
+          "summary": "Universal Tool Orchestration Platform - Intelligent, secure tool orchestration for LLM-based agent systems"
         },
         {
-          "title": "devicetestrunner added to PyPI",
-          "link": "https://pypi.org/project/devicetestrunner/",
+          "title": "flashstream-host-volumes-client added to PyPI",
+          "link": "https://pypi.org/project/flashstream-host-volumes-client/",
           "date": "25 Nov 2026",
-          "summary": "A test orchestration framework for device validation"
+          "summary": "TCP client for Flashstream Host Volumes Server"
         },
         {
-          "title": "eldritch-licensing added to PyPI",
-          "link": "https://pypi.org/project/eldritch-licensing/",
+          "title": "python-platerecognizer added to PyPI",
+          "link": "https://pypi.org/project/python-platerecognizer/",
           "date": "25 Nov 2026",
-          "summary": "Placeholder held by Eldritch, Inc.: eldritch-licensing is not distributed on PyPI."
+          "summary": "Asynchronous Python client for the Plate Recognizer Snapshot Cloud and Local SDK API"
         },
         {
-          "title": "azathoth-team added to PyPI",
-          "link": "https://pypi.org/project/azathoth-team/",
+          "title": "peptalk-llm added to PyPI",
+          "link": "https://pypi.org/project/peptalk-llm/",
           "date": "25 Nov 2026",
-          "summary": "Placeholder held by Eldritch, Inc.: azathoth-team is not distributed on PyPI."
+          "summary": "Ask a frontier LLM what a protein sequence says, from sequence alone: domains, membrane features, active sites, structure and function of full-length proteins"
         },
         {
-          "title": "dokimi-io added to PyPI",
-          "link": "https://pypi.org/project/dokimi-io/",
+          "title": "types-boto3-elb-proxy added to PyPI",
+          "link": "https://pypi.org/project/types-boto3-elb-proxy/",
           "date": "25 Nov 2026",
-          "summary": "Test orchestration framework for functional and non-functional validation of Kubernetes clusters"
+          "summary": "Type annotations for boto3 ELBProxy 1.44.12 service generated with mypy-boto3-builder 8.12.0"
         },
         {
-          "title": "fusion-metrics added to PyPI",
-          "link": "https://pypi.org/project/fusion-metrics/",
+          "title": "amunition added to PyPI",
+          "link": "https://pypi.org/project/amunition/",
           "date": "25 Nov 2026",
-          "summary": "Objective image-fusion quality metrics (Q_ABF, MI, NCIE, FMI, FSIM, VIF, ...) ported line by line from MATLAB and verified to round-off precision"
+          "summary": "a(muni)tion is a transit app running on the bay's 511 api"
         },
         {
-          "title": "audcom added to PyPI",
-          "link": "https://pypi.org/project/audcom/",
+          "title": "amarok-ytmusic added to PyPI",
+          "link": "https://pypi.org/project/amarok-ytmusic/",
           "date": "25 Nov 2026",
-          "summary": "Biblioteca, CLI e portal web de comunicação de auditoria (TCE-RJ)"
+          "summary": "YouTube Music streaming, offline cache & web-auth integration bridge for Amarok 3.3+ (KDE)"
         },
         {
-          "title": "skymiid_agentic_terminal added to PyPI",
-          "link": "https://pypi.org/project/skymiid-agentic-terminal/",
+          "title": "python-dailyhadith added to PyPI",
+          "link": "https://pypi.org/project/python-dailyhadith/",
           "date": "25 Nov 2026",
-          "summary": "An mcp which add terminal capabilities to an agent"
+          "summary": "Asynchronous Python client for Daily Hadith from Sunnah.com with fallback feed support"
         },
         {
-          "title": "caesium-toolkit added to PyPI",
-          "link": "https://pypi.org/project/caesium-toolkit/",
+          "title": "imbi-plugin-grafana added to PyPI",
+          "link": "https://pypi.org/project/imbi-plugin-grafana/",
           "date": "25 Nov 2026",
-          "summary": "A beginner-friendly toolkit to make Python and life easy."
+          "summary": "Grafana Alerting webhook plugin for Imbi"
         },
         {
-          "title": "de-censor added to PyPI",
-          "link": "https://pypi.org/project/de-censor/",
+          "title": "edgepoint-booster added to PyPI",
+          "link": "https://pypi.org/project/edgepoint-booster/",
           "date": "25 Nov 2026",
-          "summary": "Censor — audit a DE Arsenal project or dataset and grade it, with evidence and fixes"
+          "summary": "Standalone extension for edgepoint (https://pypi.org/project/edgepoint/) that sharpens its general reads into specific positions by checking them against the closest lookalikes."
         },
         {
-          "title": "cdec added to PyPI",
-          "link": "https://pypi.org/project/cdec/",
+          "title": "ao3fetch added to PyPI",
+          "link": "https://pypi.org/project/ao3fetch/",
           "date": "25 Nov 2026",
-          "summary": "Download Earth observation rasters (NDVI, EVI, true colour, DEM, land cover, ...) from the Copernicus Data Space openEO backend."
+          "summary": "Python library for scraping AO3 and AO3-compatible archives, ported from FujoWebDev/AO3.js"
         },
         {
-          "title": "figuratively added to PyPI",
-          "link": "https://pypi.org/project/figuratively/",
+          "title": "jobnimbus-mcp added to PyPI",
+          "link": "https://pypi.org/project/jobnimbus-mcp/",
           "date": "25 Nov 2026",
-          "summary": "Figures, figuratively speaking: one call from a ROOT file to a publication plot (no ROOT install needed)."
+          "summary": "Connect JobNimbus to Claude Code, ChatGPT and any AI agent through Cotlet.dev, a hosted MCP server. No JobNimbus API key needed."
         },
         {
-          "title": "hbag added to PyPI",
-          "link": "https://pypi.org/project/hbag/",
+          "title": "opencosmors added to PyPI",
+          "link": "https://pypi.org/project/opencosmors/",
           "date": "25 Nov 2026",
-          "summary": "Sparse x Dense matrix multiply with adaptive OpenMP scheduling"
+          "summary": "C++ implementation of openCOSMO-RS with Python bindings"
         },
         {
-          "title": "stepup-report added to PyPI",
-          "link": "https://pypi.org/project/stepup-report/",
+          "title": "yelp-for-business-mcp added to PyPI",
+          "link": "https://pypi.org/project/yelp-for-business-mcp/",
           "date": "25 Nov 2026",
-          "summary": "StepUp extension for reproducible reports"
+          "summary": "Connect Yelp for Business to Claude Code, ChatGPT and any AI agent through Cotlet.dev, a hosted MCP server. No Yelp for Business API key needed."
         },
         {
-          "title": "efatura-tr added to PyPI",
-          "link": "https://pypi.org/project/efatura-tr/",
+          "title": "hipages-mcp added to PyPI",
+          "link": "https://pypi.org/project/hipages-mcp/",
           "date": "25 Nov 2026",
-          "summary": "Read Turkish e-Fatura / e-Arşiv (UBL-TR) invoice XML into typed Python objects, JSON or CSV, and check that the totals add up."
+          "summary": "Connect hipages to Claude Code, ChatGPT and any AI agent through Cotlet.dev, a hosted MCP server. No hipages API key needed."
         },
         {
-          "title": "orangebeard-pytest added to PyPI",
-          "link": "https://pypi.org/project/orangebeard-pytest/",
+          "title": "opencosmorspy added to PyPI",
+          "link": "https://pypi.org/project/opencosmorspy/",
           "date": "25 Nov 2026",
-          "summary": "Orangebeard reporting plugin for pytest (including pytest-playwright)"
+          "summary": "openCOSMO-RS python implementation of COSMO-RS"
         },
         {
-          "title": "zapind added to PyPI",
-          "link": "https://pypi.org/project/zapind/",
+          "title": "orion-itk added to PyPI",
+          "link": "https://pypi.org/project/orion-itk/",
           "date": "25 Nov 2026",
-          "summary": "Developer-friendly, async-first, type-safe contextual Zalo SDK for Python."
+          "summary": "Orion: High Performance Readout Software for ITk Online (required EL9 + /cvmfs TDAQ 14)"
         }
       ]
     }
